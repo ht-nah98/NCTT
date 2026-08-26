@@ -1,0 +1,573 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hồ Sơ Thị Trường</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+ --bg:#0B0F14;--panel:#111820;--panel2:#151D26;--head:#1B242F;--line:#1E2831;--line2:#31404E;
+ --fg:#E6EBF0;--mute:#8695A4;--faint:#5A6976;
+ --up:#00C176;--dn:#F0324B;--fl:#F5B32D;--acc:#E8A33D;--accbg:#2E2113;--sel:#18222D;
+ --calc:#42B8E0;--calcbg:#0F2B38;--vio:#8B7BD8;
+ --mono:'JetBrains Mono',ui-monospace,monospace;--ui:'Inter',system-ui,sans-serif;
+}
+:root[data-theme="light"]{
+ --bg:#F2F4F6;--panel:#FFF;--panel2:#EDF1F4;--head:#E4EAEF;--line:#DCE2E7;--line2:#BFCAD3;
+ --fg:#101820;--mute:#5C6A77;--faint:#8795A2;
+ --up:#00925A;--dn:#D01B33;--fl:#B07A0A;--acc:#9A6413;--accbg:#F7EBD5;--sel:#E9EFF4;
+ --calc:#146687;--calcbg:#DFF0F7;--vio:#5A4CA8;
+}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){
+ --bg:#F2F4F6;--panel:#FFF;--panel2:#EDF1F4;--head:#E4EAEF;--line:#DCE2E7;--line2:#BFCAD3;
+ --fg:#101820;--mute:#5C6A77;--faint:#8795A2;
+ --up:#00925A;--dn:#D01B33;--fl:#B07A0A;--acc:#9A6413;--accbg:#F7EBD5;--sel:#E9EFF4;
+ --calc:#146687;--calcbg:#DFF0F7;--vio:#5A4CA8;
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--ui);font-size:13px;
+ -webkit-font-smoothing:antialiased;line-height:1.5}
+button{font-family:inherit;font-size:inherit;color:inherit;background:none;border:0;cursor:pointer}
+a{color:var(--acc)}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.page{max-width:1180px;margin:0 auto;padding:0 22px 70px}
+
+/* ═ ĐẦU ═ */
+.hd{padding:24px 0 18px}
+.bc{font-family:var(--mono);font-size:10px;letter-spacing:.13em;text-transform:uppercase;
+ color:var(--faint);margin-bottom:11px;display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+.bc a{color:var(--faint);text-decoration:none}.bc a:hover{color:var(--acc)}.bc .on{color:var(--acc)}
+.hd h1{margin:0 0 8px;font-size:29px;font-weight:600;letter-spacing:-.018em}
+.lead{color:var(--mute);font-size:14.5px;line-height:1.65;max-width:78ch}
+.lead b{color:var(--fg);font-weight:600}
+
+/* ═ KẾT LUẬN ═ */
+.vd{display:grid;grid-template-columns:250px 1fr;gap:0;background:var(--panel);
+ border:1px solid var(--line2);border-radius:6px;overflow:hidden;margin:20px 0 10px;
+ border-left:4px solid var(--vc)}
+@media(max-width:760px){.vd{grid-template-columns:1fr}}
+.vd .lft{padding:20px 22px;border-right:1px solid var(--line);text-align:center;
+ display:flex;flex-direction:column;justify-content:center;background:var(--panel2)}
+@media(max-width:760px){.vd .lft{border-right:0;border-bottom:1px solid var(--line)}}
+.vd .num{font-family:var(--mono);font-size:44px;font-weight:700;line-height:1;color:var(--vc);
+ font-variant-numeric:tabular-nums}
+.vd .num em{font-size:17px;font-style:normal;color:var(--faint);font-weight:400}
+.vd .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+ color:var(--vc);font-weight:700;margin-top:9px;padding:4px 10px;border:1px solid var(--vc);
+ border-radius:3px;display:inline-block}
+.vd .rgt{padding:18px 22px}
+.vd .rgt h2{margin:0 0 8px;font-size:17px;font-weight:600}
+.vd .rgt p{margin:0 0 11px;color:var(--mute);font-size:13.5px;line-height:1.65}
+.vd .rgt p b{color:var(--fg)}
+.vd .cond{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:10px 13px;
+ font-size:12.5px;line-height:1.6}
+.vd .cond .t{font-family:var(--mono);font-size:9px;letter-spacing:.11em;text-transform:uppercase;
+ color:var(--faint);margin-bottom:5px}
+.vd .cond b{color:var(--fg)}
+
+/* ═ HAI LỐI ĐI ═ */
+.doors{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:16px 0 6px}
+@media(max-width:720px){.doors{grid-template-columns:1fr}}
+.dr{background:var(--panel);border:1px solid var(--line2);border-radius:6px;padding:15px 17px;
+ text-align:left;border-top:3px solid var(--dc);display:block;width:100%}
+.dr:hover{background:var(--panel2);border-color:var(--dc)}
+.dr[aria-pressed="true"]{background:var(--panel2);border-color:var(--dc);box-shadow:inset 0 0 0 1px var(--dc)}
+.dr .ic{font-size:19px;margin-bottom:7px;color:var(--dc)}
+.dr .t{font-size:15.5px;font-weight:600;margin-bottom:5px}
+.dr .d{font-size:12.5px;color:var(--mute);line-height:1.55}
+.dr .go{font-family:var(--mono);font-size:10.5px;color:var(--dc);margin-top:9px;
+ letter-spacing:.06em}
+
+/* ═ MỤC ═ */
+.sec{margin-top:34px}
+.sec.hide{display:none}
+.sh{display:flex;align-items:baseline;gap:11px;margin-bottom:5px}
+.sh h2{margin:0;font-size:19px;font-weight:600;letter-spacing:-.012em}
+.sh .cnt{font-family:var(--mono);font-size:10.5px;color:var(--faint)}
+.sub{color:var(--mute);font-size:13px;line-height:1.6;margin:0 0 15px;max-width:84ch}
+.sub b{color:var(--fg)}
+
+/* ═ TRỤC ĐIỂM ═ */
+.ax{background:var(--panel);border:1px solid var(--line2);border-radius:6px;overflow:hidden}
+.axr{display:grid;grid-template-columns:186px 1fr 128px;gap:0;border-top:1px solid var(--line);
+ align-items:stretch}
+.axr:first-child{border-top:0}
+@media(max-width:840px){.axr{grid-template-columns:1fr}}
+.axr .a1{padding:12px 15px;border-right:1px solid var(--line);background:var(--panel2)}
+.axr .a1 .k{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;color:var(--faint);
+ margin-bottom:3px}
+.axr .a1 .n{font-size:14px;font-weight:600;line-height:1.3;margin-bottom:3px}
+.axr .a1 .q{font-size:11.5px;color:var(--mute);line-height:1.45}
+.axr .a2{padding:12px 15px;min-width:0}
+.axr .a2 .m{font-family:var(--mono);font-size:12.5px;font-weight:600;margin-bottom:5px;
+ word-break:break-word}
+.axr .a2 .th{font-family:var(--mono);font-size:10.5px;color:var(--faint);margin-bottom:6px}
+.axr .a2 .src{font-family:var(--mono);font-size:10px;color:var(--faint);
+ padding-top:6px;border-top:1px solid var(--line)}
+.axr .a3{padding:12px 15px;border-left:1px solid var(--line);text-align:right;
+ display:flex;flex-direction:column;justify-content:center;gap:6px}
+@media(max-width:840px){.axr .a3{border-left:0;border-top:1px solid var(--line);
+  flex-direction:row;align-items:center;justify-content:space-between;text-align:left}}
+.axr .a3 .sc{font-family:var(--mono);font-size:22px;font-weight:700;line-height:1;
+ font-variant-numeric:tabular-nums}
+.axr .a3 .sc em{font-size:11px;font-style:normal;color:var(--faint);font-weight:400}
+.axr .a3 .w{font-family:var(--mono);font-size:10px;color:var(--faint)}
+.cf{display:inline-block;font-family:var(--mono);font-size:9px;padding:2px 7px;border-radius:2px;
+ letter-spacing:.07em;font-weight:700;text-transform:uppercase}
+.cf.high{background:rgba(0,193,118,.15);color:var(--up)}
+.cf.medium{background:rgba(245,179,45,.15);color:var(--fl)}
+.cf.low{background:rgba(240,50,75,.15);color:var(--dn)}
+.axbar{height:5px;background:var(--head);border-radius:3px;overflow:hidden;margin-top:5px}
+.axbar i{display:block;height:100%;border-radius:3px}
+.pen{background:var(--panel);border:1px solid var(--dn);border-left:3px solid var(--dn);
+ border-radius:5px;padding:12px 15px;margin-top:11px;display:flex;gap:13px;align-items:flex-start}
+.pen .p1{font-family:var(--mono);font-size:20px;font-weight:700;color:var(--dn);flex:0 0 auto}
+.pen .p2{flex:1}
+.pen .p2 .t{font-size:14px;font-weight:600;margin-bottom:4px}
+.pen .p2 .d{font-size:12.5px;color:var(--mute);line-height:1.55}
+.pen .p2 .s{font-family:var(--mono);font-size:10px;color:var(--faint);margin-top:5px}
+
+/* ═ KHOẢNG TRỐNG ═ */
+.gap{background:var(--panel);border:1px solid var(--line2);border-radius:6px;
+ margin-bottom:11px;overflow:hidden;border-left:3px solid var(--gc)}
+.gph{display:flex;align-items:flex-start;gap:13px;padding:14px 16px;width:100%;text-align:left}
+.gph:hover{background:var(--panel2)}
+.gph .no{font-family:var(--mono);font-size:12px;font-weight:700;color:var(--gc);
+ width:22px;flex:0 0 22px;padding-top:1px}
+.gph .gx{flex:1;min-width:0}
+.gph .gt{font-size:15.5px;font-weight:600;margin-bottom:5px;line-height:1.3}
+.gph .gm{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.gph .tag{font-family:var(--mono);font-size:9px;padding:2px 7px;border-radius:2px;
+ letter-spacing:.06em;font-weight:700}
+.gph .tag.CAO{background:rgba(0,193,118,.16);color:var(--up)}
+.gph .tag.VỪA{background:rgba(245,179,45,.16);color:var(--fl)}
+.gph .car{color:var(--faint);font-size:12px;transition:transform .2s;flex:0 0 auto;padding-top:3px}
+.gap[aria-shut="1"] .car{transform:rotate(-90deg)}
+.gap[aria-shut="1"] .gpb{display:none}
+.gpb{border-top:1px solid var(--line);padding:0 16px 15px}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:13px}
+@media(max-width:760px){.g2{grid-template-columns:1fr}}
+.gbx{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:11px 13px}
+.gbx .bt{font-family:var(--mono);font-size:9px;letter-spacing:.11em;text-transform:uppercase;
+ color:var(--faint);margin-bottom:7px}
+.gbx.dm .bt{color:var(--up)} .gbx.sp .bt{color:var(--dn)}
+.gbx .tx{font-size:12.5px;line-height:1.6;color:var(--mute)}
+.gbx .tx b{color:var(--fg)}
+.ev{border-top:1px solid var(--line);padding:7px 0 0;margin-top:7px}
+.ev:first-of-type{border-top:0;margin-top:0;padding-top:0}
+.ev .c{font-size:12.5px;line-height:1.55;margin-bottom:4px}
+.ev .meta{display:flex;gap:9px;flex-wrap:wrap;font-family:var(--mono);font-size:9.5px;
+ color:var(--faint);align-items:center}
+.ev .meta .f{color:var(--calc)}
+.gfoot{display:flex;gap:11px;flex-wrap:wrap;margin-top:11px;padding-top:11px;
+ border-top:1px solid var(--line);font-size:12px;color:var(--mute)}
+.gfoot .it{display:flex;gap:6px;align-items:baseline}
+.gfoot .it .k{font-family:var(--mono);font-size:9.5px;color:var(--faint);text-transform:uppercase;
+ letter-spacing:.08em}
+.gfoot .it .v{color:var(--fg)}
+
+/* ═ GIẢ THUYẾT ═ */
+.hy{background:var(--panel);border:1px solid var(--line2);border-radius:6px;overflow:hidden}
+.hyr{display:flex;align-items:flex-start;gap:13px;padding:12px 16px;border-top:1px solid var(--line)}
+.hyr:first-child{border-top:0}
+.hyr .vv{font-family:var(--mono);font-size:9.5px;padding:3px 8px;border-radius:2px;font-weight:700;
+ letter-spacing:.07em;flex:0 0 auto;margin-top:1px}
+.hyr .vv.ĐÚNG{background:rgba(0,193,118,.16);color:var(--up)}
+.hyr .vv.SAI{background:rgba(240,50,75,.16);color:var(--dn)}
+.hyr .vv.MỘT{background:rgba(245,179,45,.16);color:var(--fl)}
+.hyr .hx{flex:1;min-width:0}
+.hyr .ht{font-size:13.5px;font-weight:600;margin-bottom:4px;line-height:1.4}
+.hyr .he{font-size:12px;color:var(--mute);line-height:1.55}
+
+/* ═ Ý TƯỞNG ═ */
+.idw{background:var(--panel);border:1px solid var(--line2);border-radius:6px;overflow:hidden}
+.idh{padding:11px 15px;border-bottom:1px solid var(--line);display:flex;align-items:center;
+ gap:11px;flex-wrap:wrap;background:var(--panel2)}
+.idh .cp{margin-left:auto;font-family:var(--mono);font-size:10.5px;padding:5px 11px;
+ border:1px solid var(--line2);border-radius:3px;color:var(--mute)}
+.idh .cp:hover{border-color:var(--acc);color:var(--acc)}
+.idl{max-height:390px;overflow-y:auto}
+.idr{display:flex;align-items:baseline;gap:12px;padding:8px 15px;border-top:1px solid var(--line);
+ font-size:13px}
+.idr:first-child{border-top:0}
+.idr:hover{background:var(--panel2)}
+.idr .n{font-family:var(--mono);font-size:10px;color:var(--faint);width:22px;flex:0 0 22px}
+.idr .t{flex:1;min-width:0;font-weight:500}
+.idr .b{font-size:11px;color:var(--mute);flex:0 0 auto;max-width:34%;overflow:hidden;
+ text-overflow:ellipsis;white-space:nowrap}
+.idr .l{font-family:var(--mono);font-size:10px;color:var(--faint);flex:0 0 42px;text-align:right}
+
+/* ═ MỐC CHUẨN ═ */
+.bmw{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);
+ border:1px solid var(--line);border-radius:5px;overflow:hidden}
+@media(max-width:900px){.bmw{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:540px){.bmw{grid-template-columns:1fr}}
+.bmw>div{background:var(--panel);padding:11px 13px}
+.bmw .k{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;
+ color:var(--faint);margin-bottom:4px;line-height:1.35}
+.bmw .v{font-family:var(--mono);font-size:17px;font-weight:700;font-variant-numeric:tabular-nums}
+.bmw .d{font-size:11px;color:var(--mute);margin-top:3px;line-height:1.4}
+
+.note{background:var(--accbg);border:1px solid var(--acc);border-radius:4px;padding:11px 14px;
+ font-size:12.5px;line-height:1.6;margin:15px 0}
+.note b{font-weight:600}
+.ft2{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
+ font-family:var(--mono);font-size:10.5px;color:var(--faint);line-height:1.85}
+.ft2 b{color:var(--mute)}
+.qm{display:inline-flex;align-items:center;justify-content:center;width:14px;height:14px;
+ border-radius:50%;border:1px solid var(--line2);color:var(--faint);font-size:9px;
+ font-family:var(--mono);cursor:help;vertical-align:1px;margin-left:5px;font-weight:700}
+.qm:hover{border-color:var(--acc);color:var(--acc)}
+#tt{position:fixed;z-index:90;max-width:330px;background:var(--head);border:1px solid var(--line2);
+ border-radius:4px;padding:10px 12px;font-size:12.5px;line-height:1.55;color:var(--fg);
+ box-shadow:0 8px 26px rgba(0,0,0,.45);display:none;pointer-events:none}
+#tt .k2{font-family:var(--mono);font-size:10px;color:var(--calc);letter-spacing:.05em;
+ margin-bottom:5px;display:flex;justify-content:space-between;gap:10px}
+#tt .k2 em{color:var(--faint);font-style:normal}
+#tt .n3{font-weight:600;margin-bottom:4px}
+#tt .d3{color:var(--mute);font-size:12px}
+</style>
+
+</head>
+<body>
+<div class="page">
+ <div class="hd">
+  <div class="bc"><a href="data-tho.html">Bước 1 · Dữ liệu thô</a><span>›</span>
+   <a href="chuan-hoa.html">Bước 2 · Chuẩn hoá</a><span>›</span>
+   <span style="opacity:.5">Bước 3 · AI phân tích</span><span>›</span>
+   <span class="on">Bước 4 · Hồ sơ thị trường</span></div>
+  <h1>Hồ sơ thị trường — Christian Blues</h1>
+  <div class="lead">Kết quả cuối cùng của cả quy trình: <b>7.193 video</b> của <b>53 kênh</b>
+   qua hai trạm chuẩn hoá còn <b>965 video</b>, rồi được phân tích thành hồ sơ này.
+   Mọi kết luận bên dưới đều <b>bấm ra được bằng chứng</b> — claim nào, lấy từ file nào,
+   cỡ mẫu bao nhiêu.</div>
+ </div>
+
+ <div id="verdict"></div>
+ <div class="doors" id="doors"></div>
+
+ <div class="sec" id="secScore">
+  <div class="sh"><h2>Bảng điểm — 5 trục</h2><span class="cnt" id="scnt"></span></div>
+  <p class="sub">Mỗi trục chấm theo ngưỡng định sẵn trong rubric, nhân trọng số rồi cộng lại.
+   Cột <b>độ tin cậy</b> quan trọng ngang cột điểm: trục nào dựa trên ước tính thì nói thẳng
+   là ước tính, đừng đọc như số đo.</p>
+  <div class="ax" id="axes"></div>
+  <div id="pen"></div>
+ </div>
+
+ <div class="sec" id="secGap">
+  <div class="sh"><h2>Khoảng trống thị trường</h2><span class="cnt" id="gcnt"></span></div>
+  <p class="sub">Chỗ có <b>cầu nhưng chưa đủ cung</b>. Mỗi khoảng trống mở ra thấy bằng chứng
+   phía cầu, mức độ khai thác hiện tại, và hiệu quả đo được. Bấm để mở.</p>
+  <div id="gaps"></div>
+ </div>
+
+ <div class="sec" id="secHyp">
+  <div class="sh"><h2>Giả thuyết đã kiểm chứng</h2><span class="cnt" id="hcnt"></span></div>
+  <p class="sub">Những điều nhóm nghiên cứu đoán trước khi có dữ liệu, và dữ liệu nói gì.
+   Ghi cả cái <b>sai</b> — đó là phần đáng tin nhất của một bản nghiên cứu.</p>
+  <div class="hy" id="hyps"></div>
+ </div>
+
+ <div class="sec" id="secIdea">
+  <div class="sh"><h2>Tiêu đề sẵn dùng</h2><span class="cnt" id="icnt"></span></div>
+  <p class="sub">Sinh từ khoảng trống đã tìm được — mỗi tiêu đề ghi rõ dựa trên căn cứ nào
+   và độ dài đề xuất.</p>
+  <div class="idw" id="ideas"></div>
+ </div>
+
+ <div class="sec" id="secBm">
+  <div class="sh"><h2>Mốc chuẩn để tự so</h2><span class="cnt">9 chỉ số</span></div>
+  <p class="sub">Kênh của bạn đứng ở đâu so với 53 kênh trong ngách. Dùng để đặt mục tiêu,
+   không phải để tự trách.</p>
+  <div class="bmw" id="bm"></div>
+ </div>
+
+ <div class="sec" id="secMt">
+  <div class="sh"><h2>Số liệu chi tiết theo nhóm</h2><span class="cnt" id="mcnt"></span></div>
+  <p class="sub">Toàn bộ chỉ số đo được, nhóm theo chủ đề. Đây là nơi tra khi cần con số
+   chính xác cho một câu hỏi cụ thể.</p>
+  <div id="mts"></div>
+ </div>
+
+ <div class="ft2" id="ft2"></div>
+</div>
+<div id="tt"></div>
+
+<script id="P4" type="application/json">{"niche":"Christian Blues","score":12.05,"max":20,"verdict":"Theo dõi","at":"2026-08-15","rubric":"1.0","axes":[{"k":"T1","nm":"Quy mô thị trường","q":"Thị trường có đủ lớn để đáng vào không?","sc":2,"w":0.2,"m":"M1.1 = 7,450,227 view/tháng","th":"3tr ≤ M1.1 < 8tr → 2đ","cf":"high","src":"videos_enriched.parquet"},{"k":"T2","nm":"Đà tăng trưởng","q":"Cầu đang tăng nhanh hơn cung hay ngược lại?","sc":4,"w":0.25,"m":"M2.1=1.618, M2.4=1.305","th":"M2.1≥1.5 AND M2.4≥1.0 → 4đ","cf":"medium","src":"cửa sổ 150-60d vs 240-150d (đều đã chín)"},{"k":"T3","nm":"Cửa cho người mới","q":"Người mới vào bây giờ còn chỗ không?","sc":4.25,"w":0.25,"m":"M3.2=61.5%, Gini=0.626","th":"0.5×5 + 0.3×3 + 0.2×5 = 4.4đ","cf":"high","src":"channels_enriched.parquet"},{"k":"T4","nm":"Độ hợp với AI","q":"Sản xuất bằng AI có được khán giả chấp nhận?","sc":5,"w":0.15,"m":"M4.1=65% top20 là AI-first","th":"M4.1≥60% AND audience tolerance=Cao → 5đ","cf":"medium","src":"suy luận từ nhịp đăng + thumbnail + tuổi kênh"},{"k":"T5","nm":"Khả năng kiếm tiền","q":"Một nghìn view đổi ra bao nhiêu tiền?","sc":3,"w":0.1,"m":"RPM ước tính $3.0 (khoảng $1.5-6.0)","th":"$3 ≤ RPM < $5 → 3đ","cf":"low","src":"ƯỚC TÍNH, không đo được từ dữ liệu"}],"t6":{"p":-2,"th":"reused content -1, chủ đề tôn giáo -1","cf":"medium","src":"07_monetization/02_risk_register.csv"},"gaps":[{"g":"Old-school / vintage black gospel","d":[{"c":"Tuổi tự khai trung vị 70 — thế hệ lớn lên cùng black gospel 1950-70","s":"05_audience/_metrics_raw.json → age.median","i":"n=82 người tự khai (chỉ 1,28% mẫu)"},{"c":"55 comment kiểu \"chưa từng nghe thứ gì như thế này\"","s":"05_audience/03_quote_bank.csv → cột never_heard","i":"lọc never_heard==True"}],"sup":"Chỉ 3,96% video khai thác (STEP_06)","perf":"lift 2,37× — cao nhất 16 chủ đề, NHƯNG phán quyết «YẾU»: trong từng kênh chỉ 1,05× (4/8 kênh tốt hơn)","sp":"06_keyword/02_theme_scores.csv → theme=old_school","fe":"AI làm được; 20 kênh đã chứng minh","sco":"CAO","cf":"Thấp"},{"g":"Nhạc CÓ LỜI cho bối cảnh cầu nguyện","d":[{"c":"13,5% comment nhắc cầu nguyện/tĩnh tâm — bối cảnh số 1 (868 comment)","s":"05_audience/_metrics_raw.json → context.prayer_devo","i":"đếm trên 6.413 comment đã lọc nhiễu"},{"c":"Bối cảnh số 2 bỏ xa: sáng sớm 4,2%, bệnh viện 1,6%","s":"05_audience/_metrics_raw.json → context","i":"morning / sick_hosp"}],"sup":"1,03% video làm instrumental và thất bại (lift 0,17×)","perf":"Ngược lại: có lời mới ăn","sp":"06_keyword/03_voice_gap.csv","fe":"AI làm vocal được; Gospel là nhóm chấp nhận AI cao nhất","sco":"CAO","cf":"Vừa"},{"g":"Mix dài 1-3h chất lượng cao","d":[{"c":"Nghe lúc cầu nguyện (13,5%) và lúc bệnh tật (1,6%) → cần liền mạch, không ngắt quãng","s":"05_audience/_metrics_raw.json → context","i":"prayer_devo + sick_hosp"},{"c":"24 comment nghe lúc ngủ/đêm — cần độ dài phủ cả giấc","s":"05_audience/_metrics_raw.json → context.sleep_night","i":"sleep_night"}],"sup":"43% thị trường đã làm — ĐÔNG","perf":"~11,7 ad slot vs 1 của video ngắn (STEP_07)","sp":"07_monetization/_metrics_raw.json → ad_slots","fe":"Rẻ, dễ nhân bản bằng AI","sco":"VỪA","cf":"Cao"},{"g":"Nhánh Tây Ban Nha / Bồ Đào Nha","d":[{"c":"8 kênh LatAm đã tồn tại trong mẫu — có cầu, chưa bão hòa","s":"03_competitor/_metrics_raw.json","i":"lọc theo ngôn ngữ kênh"},{"c":"Nghiên cứu độc lập (team FMG, n=1.017 comment): tiếng Tây Ban Nha 6,0%, Bồ Đào Nha 1,2% — tổng 7,2% khán giả không dùng tiếng Anh","s":"nguồn ngoài: FMG _ Nghiên cứu thị trường Mỹ.xlsx → sheet «Chân dung»","i":"mẫu độc lập, 60 video / 38 kênh"},{"c":"Ta đo lại trên 6.413 comment bằng bộ lọc từ chức năng: TBN 1,73%, BĐN 0,20%. Thấp hơn FMG (khác phương pháp) nhưng cùng khẳng định có nhóm này","s":"05_audience/_comments_tagged.parquet","i":"đối chiếu chéo 17/08"}],"sup":"246 video es-419 + 20 pt trên 7,193 = 3,7%","perf":"Chưa đo được riêng — nhưng cầu 7,2% vs cung 3,7% là chênh gần 2×","sp":"đối chiếu FMG (cầu) vs 00_input (cung)","fe":"AI dịch/hát đa ngôn ngữ được","sco":"VỪA","cf":"Vừa"},{"g":"Định vị 'yêu nhạc blues, cần lời sạch'","d":[{"c":"16 comment nêu đúng mâu thuẫn «thích nhạc, không chịu nổi lời»","s":"05_audience/03_quote_bank.csv → cột cant_stand","i":"lọc cant_stand==True"},{"c":"Tín hiệu «finally» (58 comment) có like trung vị 26.5 — cao hơn hẳn mức nền","s":"05_audience/_metrics_raw.json → pain.finally","i":"med_likes vs nền 4"}],"sup":"Chưa kênh nào dùng làm định vị chính","perf":"'finally' được like gấp 6,6×","sp":"05_audience/04_signal_tests.csv","fe":"Chỉ là cách viết mô tả kênh","sco":"CAO","cf":"Cao"}],"hyps":[{"h":"H1 · Ngách trẻ, cửa cho người mới còn rộng","v":"ĐÚNG","e":"74% kênh <12 tháng; M3.2=61,5% kênh mới đạt ≥100k view/tháng (STEP_03)"},{"h":"H2 · Cầu tăng nhanh hơn cung","v":"ĐÚNG (sau khi sửa lỗi)","e":"M2.4=1,305. Khảo sát sơ bộ báo 0,35 là SAI do so cửa sổ chưa chín (STEP_02)"},{"h":"H3 · Mix dài 1-3h là định dạng tối ưu","v":"ĐÚNG","e":"Ban đầu nghi ngờ (VPD thấp), nhưng bối cảnh nghe + ~11,7 ad slot xác nhận (STEP_05, 07)"},{"h":"H4 · Gospel chấp nhận AI cao → lợi thế","v":"ĐÚNG","e":"65% top20 là AI-first và đang thắng (STEP_03) + khảo sát Wavelength"},{"h":"H5 · Khán giả lớn tuổi Mỹ → RPM cao","v":"CHƯA XÁC MINH","e":"Tuổi tự khai trung vị 70 nhưng chỉ 1,28% mẫu; RPM không đo được từ API"}],"ideas":[{"n":1,"t":"Old School Gospel Blues for Morning Prayer","b":"old-school + cầu nguyện buổi sáng","l":"2h"},{"n":2,"t":"Thank You Lord for Bringing Me Through | Vintage Blues Worship","b":"tạ ơn + old-school","l":"1h"},{"n":3,"t":"1950s Black Gospel Blues | When You Can't Sleep","b":"old-school + đêm khuya","l":"3h"},{"n":4,"t":"Grateful Heart, Weary Body | Old Time Gospel Soul","b":"tạ ơn + đau buồn","l":"2h"},{"n":5,"t":"Vintage Delta Blues Worship | Songs My Grandmother Sang","b":"old-school + hoài niệm","l":"2h"},{"n":6,"t":"Old School Gospel for the Hospital Room","b":"old-school + bệnh tật","l":"3h"},{"n":7,"t":"Thank You for Another Morning | Classic Gospel Blues","b":"tạ ơn + buổi sáng","l":"1h"},{"n":8,"t":"Blues Worship Like Church Used to Sound","b":"old-school + hoài niệm","l":"2h"},{"n":9,"t":"When the Night Feels Long | Old Time Gospel Blues","b":"old-school + đêm","l":"3h"},{"n":10,"t":"Grateful in the Storm | Vintage Gospel Soul","b":"tạ ơn + khó khăn","l":"1h"},{"n":11,"t":"1960s Gospel Blues for Quiet Time","b":"old-school + tĩnh tâm","l":"2h"},{"n":12,"t":"Old School Gospel Blues for the Long Drive","b":"old-school + lái xe","l":"3h"},{"n":13,"t":"Thank You Lord, I'm Still Here | Classic Blues Worship","b":"tạ ơn + sống sót","l":"1h"},{"n":14,"t":"Vintage Black Gospel | Music for Grieving Hearts","b":"old-school + tang chế","l":"2h"},{"n":15,"t":"Old Time Religion, Slow Blues Style","b":"old-school + phong cách","l":"2h"},{"n":16,"t":"Counting My Blessings | Vintage Gospel Blues","b":"tạ ơn","l":"1h"},{"n":17,"t":"Gospel Blues from the Old Church Piano","b":"old-school + nhạc cụ","l":"2h"},{"n":18,"t":"Thankful for Grace | Slow Delta Blues Worship","b":"tạ ơn + ân điển","l":"1h"},{"n":19,"t":"Old School Gospel Blues While You Clean the House","b":"old-school + việc nhà","l":"3h"},{"n":20,"t":"The Blues That Praise | 1950s Gospel Revival","b":"old-school","l":"2h"},{"n":21,"t":"Thank You for Every Mercy | Vintage Soul Gospel","b":"tạ ơn","l":"1h"},{"n":22,"t":"Old Fashioned Gospel Blues for Sunday Morning","b":"old-school + chủ nhật","l":"2h"},{"n":23,"t":"Grateful After the Storm | Classic Blues Worship","b":"tạ ơn + vượt khó","l":"1h"},{"n":24,"t":"Deep Old School Gospel Blues | Hammond Organ & Guitar","b":"old-school + nhạc cụ","l":"3h"}],"bm":{"p25_vpm":41499.6221686747,"p50_vpm":106405.76313953489,"p75_vpm":241404.41999999998,"p90_vpm":463517.1979123154,"young_median_vpm":130531.37552941177,"young_success_threshold":100000,"median_upload_per_month":18.01683760683761,"median_view_per_video":1687.0,"top_quartile_view_per_video":6553.0},"mt":{"market":{"M1_1_views_per_month":7450226.666666667,"M1_2_active_channels":48,"M1_3_median_view":1687.0,"T1_score":2,"M1_2_total_channels":53,"M1_3_mean_view":17009.495453735068,"_window_note":"Cửa sổ 150-60d vs 240-150d; cả hai đều ≥60 ngày tuổi nên so sánh công bằng","_naive_M2_1":0.5240991707391286,"_naive_M2_2":1.1735419630156472,"_naive_M2_4":0.44659602064194837,"_naive_maturity_pct":36.0,"_w_now_videos":2338,"_w_prev_videos":1886,"_w_now_views":31756914,"_w_prev_views":19630541,"H_all_median_ratio":0.29521188772702256,"H_top20_median_ratio":0.513956405833464,"H_rest_median_ratio":0.43562401263823064,"H_all_vpd_ratio":1.1523214052954274,"H_top20_vpd_ratio":2.030259546527384,"H_rest_vpd_ratio":1.827135534245042,"_verdict_note":"View thô giảm nhưng VPD (chuẩn hóa tuổi) KHÔNG giảm -> phần lớn 'pha loãng' là ảo giác do video mới chưa chín","tier1_channel_pct":62.264150943396224},"momentum":{"M2_1_view_growth":1.6177299443759598,"M2_2_supply_growth":1.23966065747614,"M2_3_new_channel_rate":73.58490566037736,"M2_4_demand_supply_gap":1.304978047516279,"dilution_verdict":"H0","T2_score":4},"entry":{"M3_1_gini":0.6257610129024167,"M3_2_newcomer_success_pct":61.53846153846154,"M3_3_status":"KHÔNG ĐO ĐƯỢC — cần ≥2 snapshot","M3_3_alt_median_age_of_successful":6.898817345597897,"top1_share":18.450841416602014,"top20pct_share":63.13467867250709,"T3_score":4.25,"M3_3_alt_fastest_success":[{"handle":"hopegospelblues","age_m":0.6241787122207622,"vpm":232752.2505263158},{"handle":"soulworshipprayer","age_m":1.6754270696452036,"vpm":270855.12},{"handle":"gracegospelblues","age_m":2.7923784494086727,"vpm":130531.37552941177},{"handle":"goldensoulworship","age_m":2.8252299605781865,"vpm":1078457.6981395348},{"handle":"heavenlyatmosphere.c","age_m":2.890932982917214,"vpm":214186.9090909091}],"_young_n":39,"_young_success_n":24,"top5_share":45.822056018442034,"top_efficiency":[{"handle":"vintage_gospel_vgx","view_per_vid":70244.44186046511,"n_vid":43,"age_m":7.818659658344283,"med_dur_min":4.833333333333333,"per_month":5.499663865546219,"model":"hybrid"},{"handle":"saltandlight-k2z","view_per_vid":69109.0,"n_vid":60,"age_m":20.367936925098554,"med_dur_min":5.041666666666667,"per_month":2.945806451612903,"model":"hybrid"},{"handle":"goldensoulworship","view_per_vid":50128.016393442624,"n_vid":61,"age_m":2.8252299605781865,"med_dur_min":120.075,"per_month":21.591162790697673,"model":"ai-first"},{"handle":"rivers-and-revival","view_per_vid":46973.976744186046,"n_vid":43,"age_m":36.793692509855454,"med_dur_min":52.516666666666666,"per_month":1.1686785714285715,"model":"artist/rebroadcast"},{"handle":"oldiesgospelradio","view_per_vid":46884.02717391304,"n_vid":184,"age_m":196.09067017082785,"med_dur_min":107.48333333333333,"per_month":0.9383414307254146,"model":"artist/rebroadcast"},{"handle":"holygrooveofficial","view_per_vid":39845.612716763004,"n_vid":173,"age_m":217.6741130091984,"med_dur_min":31.583333333333332,"per_month":0.7947660730455781,"model":"artist/rebroadcast"},{"handle":"heavenlybluesgospel","view_per_vid":38732.68253968254,"n_vid":63,"age_m":6.636005256241787,"med_dur_min":7.633333333333334,"per_month":9.493663366336634,"model":"ai-first"},{"handle":"stillworshipmusic","view_per_vid":36234.91780821918,"n_vid":511,"age_m":15.801576872536137,"med_dur_min":2.9166666666666665,"per_month":32.3385446985447,"model":"ai-first"}]},"ai_fit":{"M4_1_ai_first_top20_pct":65.0,"model_dist":{"ai-first":37,"hybrid":12,"artist/rebroadcast":4},"T4_score":5},"formula":{"n_B1":435,"n_B4":161,"paired_channels":17,"features_tested":26,"features_confirmed":0,"bible_verdict":"KHÔNG XÁC NHẬN — nghịch lý Simpson: giàu trong nhóm outlier nhưng toàn thị trường kém hơn (0.48x) và trong từng kênh chỉ 6/13 kênh tốt hơn","bible_market_lift":0.48228126312329966,"bible_within_channel_better":"6/13","format_chi2_p":0.002742448825782044,"format_verdict":"CHƯA KẾT LUẬN — VPD và tỷ lệ thắng cho kết quả mâu thuẫn","excluded_engagement":{"reason":"artefact toán học — mẫu số view lớn kéo tỷ lệ xuống","B1_median_view":71314.0,"B4_median_view":863.0,"spearman_view_vs_eng":-0.202},"binary_tests":[{"feature":"Có chữ Lyrics","B1_pct":2.2988505747126435,"B4_pct":0.0,"B1_n":"10/435","B4_n":"0/161","lift":null,"p":0.06938368830713862,"verdict":"BÁC BỎ"},{"feature":"Có tên sách Kinh Thánh","B1_pct":10.114942528735632,"B4_pct":1.2422360248447204,"B1_n":"44/435","B4_n":"2/161","lift":8.142528735632185,"p":8.970137592425611e-05,"verdict":"XÁC NHẬN"},{"feature":"Có chữ Psalm","B1_pct":12.183908045977011,"B4_pct":3.7267080745341614,"B1_n":"53/435","B4_n":"6/161","lift":3.2693486590038314,"p":0.001730329306045559,"verdict":"XÁC NHẬN"},{"feature":"Có chữ số","B1_pct":25.74712643678161,"B4_pct":17.391304347826086,"B1_n":"112/435","B4_n":"28/161","lift":1.4804597701149427,"p":0.03838427576338119,"verdict":"BÁC BỎ"},{"feature":"Có ghi thời lượng","B1_pct":6.206896551724138,"B4_pct":4.968944099378882,"B1_n":"27/435","B4_n":"8/161","lift":1.2491379310344828,"p":0.6960396468320506,"verdict":"BÁC BỎ"}],"tests":[{"feature":"Tỷ lệ chữ HOA","B1":0.13793103448275862,"B4":0.14457831325301204,"unit":"","diff_pct":-4.597701149425284,"p":0.0017942378309187732,"cliffs_delta":-0.16644534875419434,"verdict":"YẾU","measure":"trực tiếp"},{"feature":"Tập trung giữa ảnh","B1":0.06832677544039012,"B4":0.08913862782452553,"unit":"","diff_pct":-23.347736993556516,"p":0.03105924034678635,"cliffs_delta":-0.1149568073106304,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Độ tương phản","B1":0.2196662648440268,"B4":0.2240661690582596,"unit":"","diff_pct":-1.9636628915134378,"p":0.08384481873847263,"cliffs_delta":-0.09216820161347898,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Điểm chữ trên ảnh","B1":0.3492526620633182,"B4":0.3695274159295436,"unit":"","diff_pct":-5.4866710810142205,"p":0.08875275571526363,"cliffs_delta":-0.09074034411365746,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Số dấu |","B1":1.0,"B4":1.0,"unit":"","diff_pct":0.0,"p":0.07431424812025322,"cliffs_delta":-0.08878417933890198,"verdict":"BÁC BỎ","measure":"trực tiếp"},{"feature":"Mật độ đường nét","B1":0.08659422122627439,"B4":0.09125240177045267,"unit":"","diff_pct":-5.104721030681509,"p":0.16478785150006636,"cliffs_delta":-0.07406296851574212,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Số từ tiêu đề","B1":13.0,"B4":13.0,"unit":"từ","diff_pct":0.0,"p":0.3530627444570934,"cliffs_delta":0.04931819804383523,"verdict":"BÁC BỎ","measure":"trực tiếp"},{"feature":"Độ rực màu","B1":0.1681815571835447,"B4":0.1731130107101817,"unit":"","diff_pct":-2.848690289889903,"p":0.5314900606548443,"cliffs_delta":-0.033369029770828874,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Độ dài video","B1":2650.0,"B4":1825.0,"unit":"giây","diff_pct":45.20547945205479,"p":0.5972119950796957,"cliffs_delta":0.028216915738352236,"verdict":"BÁC BỎ","measure":"trực tiếp"},{"feature":"Số hashtag","B1":0.0,"B4":0.0,"unit":"","diff_pct":null,"p":0.41211242488266253,"cliffs_delta":0.02520168487184979,"verdict":"BÁC BỎ","measure":"trực tiếp"},{"feature":"Tỷ lệ vùng tối","B1":0.6866666666666666,"B4":0.6909027777777778,"unit":"","diff_pct":-0.6131269474319021,"p":0.7146369148557414,"cliffs_delta":0.019504533447561933,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Độ sáng ảnh","B1":0.2345871657407407,"B4":0.2267761182461874,"unit":"","diff_pct":3.4443871581193815,"p":0.7168371043516233,"cliffs_delta":-0.019347469122581566,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Độ bão hòa","B1":0.4510690844540092,"B4":0.487354687751881,"unit":"","diff_pct":-7.445419980518447,"p":0.780978547445162,"cliffs_delta":-0.01483543942314557,"verdict":"BÁC BỎ","measure":"proxy"},{"feature":"Độ dài tiêu đề","B1":74.0,"B4":73.0,"unit":"ký tự","diff_pct":1.36986301369863,"p":0.8510241907631194,"cliffs_delta":0.010023559648747056,"verdict":"BÁC BỎ","measure":"trực tiếp"},{"feature":"Số emoji","B1":0.0,"B4":0.0,"unit":"","diff_pct":null,"p":0.9390956953893302,"cliffs_delta":-0.0032412365245948456,"verdict":"BÁC BỎ","measure":"trực tiếp"}],"format_matrix":[{"duration_band":"1-3h","B1_thắng":148,"B4_thua":53,"pct_B1":73.6318407960199},{"duration_band":"1-6m","B1_thắng":76,"B4_thua":21,"pct_B1":78.35051546391753},{"duration_band":"30-60m","B1_thắng":104,"B4_thua":25,"pct_B1":80.62015503875969},{"duration_band":"3h+","B1_thắng":18,"B4_thua":6,"pct_B1":75.0},{"duration_band":"6-30m","B1_thắng":65,"B4_thua":47,"pct_B1":58.03571428571429},{"duration_band":"Shorts","B1_thắng":20,"B4_thua":9,"pct_B1":68.96551724137932}],"format_all":[{"duration_band":"1-3h","n":3068,"vpd":11.697222222222223,"mv":738.0},{"duration_band":"1-6m","n":1156,"vpd":15.63529442445105,"mv":2557.0},{"duration_band":"30-60m","n":1163,"vpd":8.486274509803922,"mv":923.0},{"duration_band":"3h+","n":394,"vpd":9.86674559326493,"mv":1143.5},{"duration_band":"6-30m","n":901,"vpd":9.797202797202797,"mv":1713.0},{"duration_band":"Shorts","n":496,"vpd":21.583251177565998,"mv":2450.0}],"top_phrases":[{"phrase":"prayer","n_words":1,"n_channels":23,"in_B4_count":26},{"phrase":"lord","n_words":1,"n_channels":19,"in_B4_count":16},{"phrase":"god","n_words":1,"n_channels":18,"in_B4_count":24},{"phrase":"peace","n_words":1,"n_channels":15,"in_B4_count":20},{"phrase":"faith","n_words":1,"n_channels":15,"in_B4_count":13},{"phrase":"healing","n_words":1,"n_channels":14,"in_B4_count":11},{"phrase":"powerful","n_words":1,"n_channels":14,"in_B4_count":19},{"phrase":"jesus","n_words":1,"n_channels":11,"in_B4_count":13},{"phrase":"praise","n_words":1,"n_channels":11,"in_B4_count":23},{"phrase":"strength","n_words":1,"n_channels":10,"in_B4_count":3},{"phrase":"still","n_words":1,"n_channels":10,"in_B4_count":7},{"phrase":"testimony","n_words":1,"n_channels":10,"in_B4_count":22},{"phrase":"grace","n_words":1,"n_channels":10,"in_B4_count":2},{"phrase":"psalm","n_words":1,"n_channels":9,"in_B4_count":12},{"phrase":"psalms","n_words":1,"n_channels":9,"in_B4_count":9},{"phrase":"heart","n_words":1,"n_channels":8,"in_B4_count":4},{"phrase":"need","n_words":1,"n_channels":8,"in_B4_count":6},{"phrase":"through","n_words":1,"n_channels":8,"in_B4_count":3},{"phrase":"relaxing","n_words":1,"n_channels":7,"in_B4_count":1},{"phrase":"hope","n_words":1,"n_channels":7,"in_B4_count":2}],"bible_market_wide":{"n_bib":489,"n_no":5120,"vpd_bib":4.900568181818182,"vpd_no":10.161224489795918,"lift":0.48228126312329966,"p":9.64901718225478e-10},"bible_within_channel":{"n_channels":13,"n_better":6,"median_lift":0.8195872279011492,"rows":[{"handle":"holygrooveofficial","n_bib":45,"vpd_bib":33.34905660377358,"vpd_no":14.306213335536643,"lift":2.3310890045889714},{"handle":"soulstringsblues-o1g","n_bib":14,"vpd_bib":7.831903945111493,"vpd_no":4.3933333333333335,"lift":1.7826791984320545},{"handle":"vintage_gospel_vgx","n_bib":24,"vpd_bib":75.5882985074627,"vpd_no":43.36812440038375,"lift":1.7429459897692472},{"handle":"bluesoffaith1","n_bib":5,"vpd_bib":2.19672131147541,"vpd_no":1.273972602739726,"lift":1.7243081262118811},{"handle":"holygroove-1","n_bib":255,"vpd_bib":3.835777126099707,"vpd_no":2.7468671679197993,"lift":1.3964188625125757},{"handle":"holyspiritsoundblues","n_bib":22,"vpd_bib":9.252667960223139,"vpd_no":7.797727272727273,"lift":1.1865852236951855},{"handle":"saltandlight-k2z","n_bib":7,"vpd_bib":15.06989247311828,"vpd_no":18.387173396674584,"lift":0.8195872279011492},{"handle":"deeprivergospel","n_bib":5,"vpd_bib":2.9791666666666665,"vpd_no":4.074418604651163,"lift":0.7311881659056316},{"handle":"songsworshipblues","n_bib":29,"vpd_bib":2.8524590163934427,"vpd_no":4.015533695492586,"lift":0.710356140105439},{"handle":"rivers-and-revival","n_bib":6,"vpd_bib":58.29600694444444,"vpd_no":82.5760642865906,"lift":0.7059673701827304},{"handle":"thearksound","n_bib":7,"vpd_bib":1.3563218390804597,"vpd_no":3.3053435114503817,"lift":0.4103421730243423},{"handle":"graceinbluesgospel","n_bib":32,"vpd_bib":1.99760402057036,"vpd_no":5.532258064516129,"lift":0.3610829424937677},{"handle":"biblebluesofficial","n_bib":22,"vpd_bib":2.4394847495920673,"vpd_no":18.62686567164179,"lift":0.13096592806303567}]},"format_b1b4":[{"duration_band":"1-3h","B1_thắng":148,"B4_thua":53,"pct_B1":73.6318407960199},{"duration_band":"1-6m","B1_thắng":76,"B4_thua":21,"pct_B1":78.35051546391753},{"duration_band":"30-60m","B1_thắng":104,"B4_thua":25,"pct_B1":80.62015503875969},{"duration_band":"3h+","B1_thắng":18,"B4_thua":6,"pct_B1":75.0},{"duration_band":"6-30m","B1_thắng":65,"B4_thua":47,"pct_B1":58.03571428571429},{"duration_band":"Shorts","B1_thắng":20,"B4_thua":9,"pct_B1":68.96551724137932}]},"audience":{"n_analyzed":6413,"age_n":82,"age_median":70.0,"age_60plus_pct":78.0,"top_context":"prayer_devo","top_context_pct":13.535007016996726,"discovery_algo_vs_search":6.9,"finally_like_lift":6.6,"never_heard_like_lift":6.2,"personas":{"p_elder":{"n":70,"pct":1.0915328239513489,"med_likes":23.5},"p_music":{"n":4,"pct":0.06237330422579136,"med_likes":106.5},"p_healing":{"n":967,"pct":15.078746296585061,"med_likes":4.0},"p_convert":{"n":33,"pct":0.5145797598627788,"med_likes":8.0}},"n_total":6794,"n_noise":381,"age":{"n":82,"median":70.0,"mean":64.85365853658537,"min":14,"max":94,"dist":{"13-29":8,"30-44":4,"45-59":6,"60-74":42,"75+":22}},"attributes":{"retired":{"n":1,"pct":0.01559332605644784},"musician":{"n":4,"pct":0.06237330422579136},"trucker":{"n":2,"pct":0.03118665211289568},"veteran":{"n":1,"pct":0.01559332605644784},"disabled":{"n":1,"pct":0.01559332605644784},"nurse_care":{"n":2,"pct":0.03118665211289568},"widow":{"n":5,"pct":0.0779666302822392},"recovery":{"n":31,"pct":0.4833931077498831},"new_convert":{"n":17,"pct":0.2650865429596133},"longtime_faith":{"n":2,"pct":0.03118665211289568}},"pain":{"finally":{"n":58,"pct":0.9044129112739748,"med_likes":26.5},"cant_stand":{"n":16,"pct":0.24949321690316545,"med_likes":5.5},"never_heard":{"n":55,"pct":0.8576329331046313,"med_likes":25.0},"struggling":{"n":110,"pct":1.7152658662092626,"med_likes":5.0},"better_than":{"n":33,"pct":0.5145797598627788,"med_likes":5.0},"healing":{"n":757,"pct":11.804147824731015,"med_likes":3.0}},"context":{"driving":{"n":35,"pct":0.5457664119756744},"housework":{"n":30,"pct":0.4677997816934352},"work":{"n":25,"pct":0.389833151411196},"sleep_night":{"n":24,"pct":0.37423982535474815},"prayer_devo":{"n":868,"pct":13.535007016996726},"morning":{"n":267,"pct":4.163418057071573},"sick_hosp":{"n":105,"pct":1.637299235927023},"grief":{"n":70,"pct":1.0915328239513489}},"discovery":{"algorithm":{"n":83,"pct":1.2942460626851706},"searched":{"n":12,"pct":0.18711991267737407},"shared":{"n":17,"pct":0.2650865429596133},"subscribed":{"n":20,"pct":0.3118665211289568},"repeat":{"n":114,"pct":1.7776391704350538}},"vocab_top":{"god":4438,"thank":3062,"lord":2351,"jesus":2298,"amen":2233,"love":1946,"music":1821,"our":1126,"heart":1038,"beautiful":970,"bless":960,"song":911,"soul":875,"him":853,"name":789,"every":785,"praise":781,"christ":778,"life":774,"worship":765,"know":760,"peace":752,"like":733,"through":726,"blues":715,"glory":713,"father":712,"songs":696,"spirit":656,"these":645,"much":615,"hallelujah":589,"keep":556,"always":556,"day":553,"still":535,"holy":533,"good":530,"i'm":528,"gospel":528},"baseline_likes":4.0,"signal_tests":[{"signal":"p_music","n":4,"like_median":106.5,"vs_baseline":26.625,"p":0.023671187328613726,"verdict":"YẾU"},{"signal":"finally","n":58,"like_median":26.5,"vs_baseline":6.625,"p":7.211084181776916e-11,"verdict":"XÁC NHẬN"},{"signal":"never_heard","n":55,"like_median":25.0,"vs_baseline":6.25,"p":2.360899156303784e-09,"verdict":"XÁC NHẬN"},{"signal":"p_elder","n":70,"like_median":23.5,"vs_baseline":5.875,"p":9.947562341832085e-08,"verdict":"XÁC NHẬN"},{"signal":"p_convert","n":33,"like_median":8.0,"vs_baseline":2.0,"p":0.009710256111227054,"verdict":"YẾU"},{"signal":"cant_stand","n":16,"like_median":5.5,"vs_baseline":1.375,"p":0.21549514193146307,"verdict":"BÁC BỎ"},{"signal":"better_than","n":33,"like_median":5.0,"vs_baseline":1.25,"p":0.0758120612284453,"verdict":"BÁC BỎ"},{"signal":"struggling","n":110,"like_median":5.0,"vs_baseline":1.25,"p":0.02726423100932595,"verdict":"YẾU"},{"signal":"p_healing","n":967,"like_median":4.0,"vs_baseline":1.0,"p":0.04261330791853399,"verdict":"YẾU"},{"signal":"healing","n":757,"like_median":3.0,"vs_baseline":0.75,"p":0.5257430333662012,"verdict":"BÁC BỎ"}]},"money":{"M5_1_en_pct":92.8505957836847,"M5_1_tier1_of_declared":73.33333333333333,"M5_2_rpm_range":[1.5,3.0,6.0],"M5_3_median_duration_min":43,"rev_base_monthly_usd":319,"T5_score":3,"M5_1_lang":{"en":4052,"es":247,"pt":20,"unknown":2829,"en_pct_of_known":92.8505957836847},"M5_1_tier1_channel_pct":62.264150943396224,"M5_3_band":[{"duration_band":"1-3h","n":2114,"med_sec":5629.0,"med_view":975.5,"ad_slots":11.7},{"duration_band":"1-6m","n":1026,"med_sec":172.0,"med_view":2546.0,"ad_slots":1.0},{"duration_band":"30-60m","n":973,"med_sec":2477.0,"med_view":1427.0,"ad_slots":5.2},{"duration_band":"3h+","n":281,"med_sec":11040.0,"med_view":1154.0,"ad_slots":23.0},{"duration_band":"6-30m","n":796,"med_sec":973.0,"med_view":2208.0,"ad_slots":2.0},{"duration_band":"Shorts","n":414,"med_sec":36.5,"med_view":2873.0,"ad_slots":1.0}],"M5_3_median_duration_sec":2594.5,"M5_2_rpm":{"low":1.5,"base":3.0,"high":6.0,"basis":"Nhạc Tier-1 nền tảng $1.5-4; điều chỉnh TĂNG do khán giả 60+ (sức mua, ít adblock) và long-form nhiều ad slot; điều chỉnh GIẢM do nhạc có attention thấp"},"T5_note":"RPM cơ sở $3.0 rơi đúng ranh giới khoảng $3-5 -> 3 điểm","risks":[{"risk":"Nội dung trùng lặp (reused content)","penalty":-1,"evidence":"132 tiêu đề dùng chung bởi nhiều kênh, phủ 453 video (6.3%). 5 kênh có ≥30% video trùng tiêu đề chéo.","detail":"Đây là rủi ro CHÍNH của ngách. YouTube yêu cầu 'significant original value'."},{"risk":"Mô tả dùng lại","penalty":0,"evidence":"140 mẫu mô tả dùng lại phủ 1406 video, nhưng CHÉO kênh = 0 mẫu.","detail":"Toàn bộ là template trong cùng một kênh — bình thường, không phải rủi ro."},{"risk":"Phụ thuộc kênh dẫn đầu","penalty":0,"evidence":"Kênh lớn nhất chiếm 17.9% tổng view (ngưỡng rủi ro: >40%).","detail":"Không có kênh thống trị — thị trường phân tán lành mạnh."},{"risk":"Cung vượt cầu","penalty":0,"evidence":"M2.4 = 1.305 (ngưỡng rủi ro: <0.8).","detail":"Cầu vẫn tăng nhanh hơn cung."},{"risk":"Bản quyền thánh ca","penalty":0,"evidence":"Chỉ 19 video (0.3%) đặt tên theo thánh ca kinh điển.","detail":"Hầu hết là sáng tác mới. Thánh ca trước 1929 thuộc phạm vi công cộng."},{"risk":"Chủ đề tôn giáo bị soi kỹ","penalty":-1,"evidence":"Nội dung tôn giáo + AI thuộc nhóm bị rà soát chặt hơn về kiếm tiền.","detail":"Không đo được từ dữ liệu — đánh giá dựa trên chính sách nền tảng."}]},"risk":{"T6_penalty":-2,"cross_title_pct":6.3,"cross_title_count":132,"channels_high_dup":5,"cross_title_vpd":15.474885844748858,"clean_vpd":9.20822164105917},"keyword":{"tag_coverage_pct":76.82469067148617,"tag_unique":10629,"themes_tested":16,"themes_recommended":["old_school","thanks"],"themes_avoid":["scripture","instrumental"],"themes_rejected_simpson":["testimony","healing","strength","night_sleep"],"top_theme":"old_school","top_theme_lift":2.367348223915388,"top_theme_share_pct":3.957924763772509,"focus_changed_to":"chọn đề tài (không phải SEO) — vì đề xuất thắng tìm kiếm 7:1","n_B1":435,"n_B4":161,"tag_coverage":76.82469067148617,"tag_total":109467,"tag_top":{"gospel blues":3712,"christian blues":2207,"worship music":1500,"soulful gospel":1477,"gospel blues music":1323,"christian music":1156,"deep gospel blues":992,"prayer music":975,"blues gospel":967,"soulful worship":961,"spiritual blues":881,"blues worship":811,"soulful gospel blues":793,"gospel soul":786,"worship blues":782,"gospel worship":744,"christian blues music":676,"gospel blues worship":652,"gospel music":639,"faith music":629,"worship songs":618,"christian worship":537,"black gospel music":532,"southern gospel blues":530,"soul blues":510},"tags_only_in_winners":[{"tag":"slow blues","freq":478},{"tag":"delta blues","freq":456},{"tag":"healing music","freq":394},{"tag":"christian jazz","freq":386},{"tag":"gospel blues prayer","freq":344},{"tag":"blues guitar","freq":300},{"tag":"psalms in blues","freq":283},{"tag":"christian music 2026","freq":247},{"tag":"smooth blues","freq":246},{"tag":"psalm 91","freq":235},{"tag":"church background music","freq":235},{"tag":"christian soul","freq":234},{"tag":"background music","freq":231},{"tag":"bible blues","freq":228},{"tag":"christian instrumental","freq":222},{"tag":"study music","freq":216},{"tag":"gospelblues","freq":210},{"tag":"work music","freq":204},{"tag":"faith in the blues","freq":203},{"tag":"worshipmusic","freq":200}],"hashtag_top":{"gospelblues":3944,"christianblues":3218,"worshipmusic":2140,"christianmusic":1991,"prayermusic":1830,"healingmusic":1603,"gospelmusic":1334,"bluesgospel":1144,"bluesmusic":1017,"faithmusic":950,"soulfulworship":923,"praiseandworship":876,"bluesguitar":804,"gospelsoul":763,"soulworship":735,"worshipguitar":733,"faithandblues":715,"christianmeditation":682,"peacefulmusic":645,"soulfulblues":621},"hashtag_total":67267,"themes":[{"theme":"old_school","n":222,"share_pct":3.9579247637725086,"vpd_theme":21.98251922207146,"vpd_other":9.285714285714286,"lift":2.367348223915388,"p":4.622068995157065e-06,"n_ch_tested":8,"n_ch_better":4,"within_median_lift":1.046395947755198,"verdict":"YẾU"},{"theme":"thanks","n":55,"share_pct":0.9805669459796755,"vpd_theme":15.324786324786325,"vpd_other":9.43109987357775,"lift":1.6249203730436974,"p":0.01338066419769403,"n_ch_tested":3,"n_ch_better":2,"within_median_lift":2.284928310027306,"verdict":"XÁC NHẬN"},{"theme":"testimony","n":452,"share_pct":8.058477446960243,"vpd_theme":13.89247311827957,"vpd_other":9.205263157894738,"lift":1.5091880460109308,"p":0.00628270002625584,"n_ch_tested":22,"n_ch_better":8,"within_median_lift":0.8454885265648966,"verdict":"BÁC BỎ (Simpson)"},{"theme":"presence","n":144,"share_pct":2.5673025494740593,"vpd_theme":10.218708290917316,"vpd_other":9.486486486486486,"lift":1.0771857742562414,"p":0.16709005103450303,"n_ch_tested":10,"n_ch_better":6,"within_median_lift":1.0608244759461642,"verdict":"BÁC BỎ"},{"theme":"peace_rest","n":825,"share_pct":14.708504189695132,"vpd_theme":9.797101449275363,"vpd_other":9.443480470451576,"lift":1.0374460433237787,"p":0.07545903424740777,"n_ch_tested":34,"n_ch_better":19,"within_median_lift":1.0383906965631657,"verdict":"BÁC BỎ"},{"theme":"deliverance","n":72,"share_pct":1.2836512747370297,"vpd_theme":9.640131578947368,"vpd_other":9.492307692307692,"lift":1.0155730188518297,"p":0.09094776512913837,"n_ch_tested":5,"n_ch_better":3,"within_median_lift":1.3097037207165825,"verdict":"BÁC BỎ"},{"theme":"grace_mercy","n":306,"share_pct":5.455517917632377,"vpd_theme":9.597581585081585,"vpd_other":9.490196078431373,"lift":1.0113154149569439,"p":0.9256441295400963,"n_ch_tested":22,"n_ch_better":14,"within_median_lift":1.4304352948895975,"verdict":"BÁC BỎ"},{"theme":"sorrow_pain","n":453,"share_pct":8.076305936887145,"vpd_theme":9.490196078431373,"vpd_other":9.502564102564103,"lift":0.9986984540173328,"p":0.9386213773801259,"n_ch_tested":23,"n_ch_better":12,"within_median_lift":1.044925640479015,"verdict":"BÁC BỎ"},{"theme":"prayer","n":1101,"share_pct":19.629167409520416,"vpd_theme":9.39,"vpd_other":9.556677681863142,"lift":0.9825590349060881,"p":0.3729063132611061,"n_ch_tested":32,"n_ch_better":12,"within_median_lift":0.887465562187268,"verdict":"BÁC BỎ"},{"theme":"hope_faith","n":764,"share_pct":13.62096630415404,"vpd_theme":8.615305563167992,"vpd_other":9.664570230607966,"lift":0.8914318337594647,"p":0.5833755202879304,"n_ch_tested":29,"n_ch_better":10,"within_median_lift":0.8985953099513524,"verdict":"BÁC BỎ"},{"theme":"morning","n":66,"share_pct":1.1766803351756105,"vpd_theme":8.493515066790929,"vpd_other":9.548961424332344,"lift":0.8894700365160171,"p":0.27333940357445063,"n_ch_tested":5,"n_ch_better":2,"within_median_lift":0.8267894812267906,"verdict":"BÁC BỎ"},{"theme":"healing","n":733,"share_pct":13.06828311642004,"vpd_theme":7.367231638418079,"vpd_other":9.92921834612379,"lift":0.7419749855026735,"p":0.0014128619171733725,"n_ch_tested":30,"n_ch_better":13,"within_median_lift":0.8827912248586038,"verdict":"BÁC BỎ (Simpson)"},{"theme":"strength","n":249,"share_pct":4.439293991798895,"vpd_theme":6.440506329113924,"vpd_other":9.64078144078144,"lift":0.6680481627630264,"p":0.0042292399964396505,"n_ch_tested":14,"n_ch_better":4,"within_median_lift":0.868414026709165,"verdict":"BÁC BỎ (Simpson)"},{"theme":"scripture","n":652,"share_pct":11.62417543234088,"vpd_theme":6.172417048826544,"vpd_other":10.069565217391304,"lift":0.6129775134845014,"p":0.00028078296289154236,"n_ch_tested":18,"n_ch_better":13,"within_median_lift":1.2794505576295063,"verdict":"TRÁNH"},{"theme":"night_sleep","n":283,"share_pct":5.045462649313603,"vpd_theme":2.3950617283950617,"vpd_other":10.131392782969886,"lift":0.2364000468347236,"p":4.8539024769815966e-32,"n_ch_tested":15,"n_ch_better":2,"within_median_lift":0.6656304698870663,"verdict":"BÁC BỎ (Simpson)"},{"theme":"instrumental","n":58,"share_pct":1.034052415760385,"vpd_theme":1.686411465892598,"vpd_other":9.719298245614034,"lift":0.17351164901783048,"p":2.7106481212100333e-15,"n_ch_tested":2,"n_ch_better":0,"within_median_lift":0.2798193185453463,"verdict":"TRÁNH"}],"base_vpd":9.492307692307692,"voice_gap":[{"word":"amen","in_comments":2233,"in_titles":5,"ratio":446.6},{"word":"thank","in_comments":3062,"in_titles":24,"ratio":127.58333333333333},{"word":"beautiful","in_comments":970,"in_titles":11,"ratio":88.18181818181819},{"word":"much","in_comments":615,"in_titles":12,"ratio":51.25},{"word":"always","in_comments":556,"in_titles":11,"ratio":50.54545454545455},{"word":"these","in_comments":645,"in_titles":16,"ratio":40.3125},{"word":"father","in_comments":712,"in_titles":20,"ratio":35.6},{"word":"bless","in_comments":960,"in_titles":28,"ratio":34.285714285714285},{"word":"christ","in_comments":778,"in_titles":30,"ratio":25.933333333333334},{"word":"name","in_comments":789,"in_titles":32,"ratio":24.65625},{"word":"good","in_comments":530,"in_titles":26,"ratio":20.384615384615383},{"word":"glory","in_comments":713,"in_titles":36,"ratio":19.805555555555557},{"word":"know","in_comments":760,"in_titles":42,"ratio":18.095238095238095},{"word":"love","in_comments":1946,"in_titles":143,"ratio":13.608391608391608},{"word":"life","in_comments":774,"in_titles":74,"ratio":10.45945945945946}],"title_struct":{"B1":{"med_seg":2.0,"med_len":74.0,"pct_dur":6.206896551724138,"pct_emoji":28.27586206896552},"B4":{"med_seg":2.0,"med_len":73.0,"pct_dur":4.968944099378882,"pct_emoji":27.95031055900621}},"top_titles":[{"title":"Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”","view_count":1180460,"outlier_ratio":1214.4650205761318,"duration_band":"1-6m"},{"title":"Powerful Christian Blues Worship | Faith That Lifts You Up","view_count":540564,"outlier_ratio":1106.5793244626407,"duration_band":"30-60m"},{"title":"Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship”","view_count":996738,"outlier_ratio":1025.4506172839506,"duration_band":"1-6m"},{"title":"No Weapon Formed Against Me Shall Prosper | Gospel Blues | Prayer for Protection in Battle","view_count":240762,"outlier_ratio":917.1885714285714,"duration_band":"1-3h"},{"title":"Psalms 23 in Blues - 1950’s Gospel Soul Version","view_count":805190,"outlier_ratio":849.3565400843881,"duration_band":"1-6m"},{"title":"Psalm 23 Gospel Blues 🙏 Deep Christian Blues Gospel Worship & Psalm Meditation","view_count":82712,"outlier_ratio":755.3607305936073,"duration_band":null},{"title":"Señor sana mi corazón roto💔| Ya no aguanto mas | Blues Gospel | 1 hora de Adoración Profunda","view_count":385701,"outlier_ratio":715.5862708719851,"duration_band":"30-60m"},{"title":"Jesus, Hold Me Together | Gospel Blues | Prayer, Reflection & Strength","view_count":174453,"outlier_ratio":664.5828571428572,"duration_band":"30-60m"},{"title":"Psalm 121 (Lyrics) | I Lift My Eyes to the Hills | Worship Blues”","view_count":601838,"outlier_ratio":619.1748971193416,"duration_band":"1-6m"},{"title":"God, I’m Not Okay Right Now | Gospel Blues | Prayer When You Feel Too Broken","view_count":159046,"outlier_ratio":605.8895238095238,"duration_band":"1-3h"},{"title":"Cuando el Alma Duele | Blues Gospel Profundo para Sanidad Interior","view_count":666092,"outlier_ratio":603.8912058023573,"duration_band":"1-3h"},{"title":"Found My Rest ❤️❤️✝️ #christianmusic #gospelmusic #bluesmusic #churchblues #gospelblues #churchmusic","view_count":397220,"outlier_ratio":561.0451977401129,"duration_band":"1-6m"},{"title":"Start Your Day With God | Blues Worship Songs | Prayer & Holy Spirit Peace","view_count":135502,"outlier_ratio":516.1980952380952,"duration_band":"1-3h"},{"title":"The Blood Still Covers Me~Ephesians 1:7 |Soulful Gospel Blues for Worship |Spirit Sound Gospel Blues","view_count":729828,"outlier_ratio":484.1313432835821,"duration_band":"1-6m"},{"title":"Powerful Psalm 91 Blues | Anointed Christian R&B & Gospel Blues | Uplifting Christian Blues Song","view_count":726564,"outlier_ratio":481.96616915422885,"duration_band":"1-6m"}]}}}</script>
+<script>
+const P=JSON.parse(document.getElementById('P4').textContent);
+const gid=i=>document.getElementById(i);
+const vn=n=>n==null?'':Number(n).toLocaleString('de-DE');
+const dc=(n,d=1)=>n==null?'':Number(n).toFixed(d).replace('.',',');
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+/* Lối đi: 'boss' = tóm tắt để quyết định · 'team' = chi tiết để thực thi.
+   Không phải hai trang khác nhau — cùng dữ liệu, khác thứ tự và độ sâu. */
+let DOOR='boss';
+let GOPEN={};
+
+/* Ngưỡng verdict ĐỌC TỪ scoring_engine.py, không tự đặt:
+     ≥16 Ưu tiên cao · ≥13 Tiềm năng · ≥10 Theo dõi · <10 Bỏ qua
+   Công thức: total = Σ(điểm×trọng số) × 20/5 + phạt.
+   Tổng trọng số là 0,95 (không phải 1) — hệ số 20/5 đưa về thang 20. */
+const TIERS=[[16,'Ưu tiên cao','--up'],[13,'Tiềm năng','--up'],
+             [10,'Theo dõi','--fl'],[0,'Bỏ qua','--dn']];
+const TIER = TIERS.find(t=>P.score>=t[0]);
+const NEXT = TIERS[TIERS.indexOf(TIER)-1] || null;   // bậc kế trên, null nếu đã cao nhất
+const VC = TIER[2];
+const NEED = NEXT ? NEXT[0]-P.score : 0;
+const WSUM = P.axes.reduce((s,a)=>s+a.w,0);
+const RAW  = P.axes.reduce((s,a)=>s+a.sc*a.w,0);
+
+const HELP={
+ score:['Điểm tổng','Công thức: <b>Σ(điểm trục × trọng số) × 4 + khoản phạt</b>. Mỗi trục chấm 0–5, trọng số cộng lại là 0,95 (không phải 1), nhân 4 để đưa về thang 20. Bốn bậc: <b>≥16 ưu tiên cao · ≥13 tiềm năng · ≥10 theo dõi · dưới 10 bỏ qua</b>.','pipeline/scoring/scoring_engine.py'],
+ cf:['Độ tin cậy','Mức chắc chắn của con số ở trục đó. <b>Cao</b> = đo trực tiếp từ dữ liệu. <b>Vừa</b> = suy ra từ dữ liệu có sẵn nhưng qua vài bước. <b>Thấp</b> = ước tính từ tham chiếu bên ngoài, có thể lệch vài lần. Đọc điểm mà bỏ qua cột này là hiểu sai mức độ chắc chắn.','rubric v'+P.rubric],
+ gap:['Khoảng trống thị trường','Chủ đề mà <b>khán giả muốn nhưng ít kênh làm</b>. Tìm bằng cách đối chiếu tín hiệu cầu (bình luận, tìm kiếm) với mức khai thác thực tế (tỉ lệ video có chủ đề đó). Cột <b>hiệu quả</b> cho biết những ai đã làm thì kết quả ra sao.','99_report/_synthesis.json'],
+ pen:['Khoản phạt rủi ro','Trừ thẳng vào điểm tổng, không nhân trọng số. Dùng cho những rủi ro có thể làm hỏng cả kênh chứ không chỉ giảm hiệu quả — như nội dung trùng lặp bị YouTube phạt, hay chủ đề nhạy cảm bị hạn chế quảng cáo.','07_monetization/02_risk_register.csv'],
+ bm:['Mốc chuẩn','Phân vị của 53 kênh trong ngách. <b>p50</b> là mức giữa — nửa số kênh cao hơn, nửa thấp hơn. Đạt p75 nghĩa là đã vào nhóm 25% trên.','99_report/_synthesis.json'],
+ hyp:['Giả thuyết','Điều nhóm nghiên cứu dự đoán TRƯỚC khi phân tích, sau đó đối chiếu với dữ liệu. Ghi lại cả giả thuyết <b>sai</b> — vì một bản nghiên cứu chỉ toàn dự đoán đúng thường là dấu hiệu đã viết kết luận trước rồi mới đi tìm số liệu.','99_report/_synthesis.json'],
+};
+
+/* ── KẾT LUẬN ── */
+function verdict(){
+ const pct=P.score/P.max*100;
+ gid('verdict').innerHTML=`<div class="vd" style="--vc:var(${VC})">
+  <div class="lft">
+   <div class="num">${dc(P.score,2)}<em> / ${P.max}</em></div>
+   <div><span class="lbl">${esc(P.verdict)}</span></div>
+   <div style="font-family:var(--mono);font-size:9.5px;color:var(--faint);margin-top:9px">
+    chấm ${P.at} · rubric v${P.rubric}<span class="qm" data-h="score">?</span></div>
+  </div>
+  <div class="rgt">
+   <h2>Ngách này có nên làm không?</h2>
+   <p><b>Có cơ hội thật, nhưng chưa đủ chắc để dồn lực.</b> Bốn bậc kết luận:
+    <b>≥16 ưu tiên cao</b>, <b>≥13 tiềm năng</b>, <b>≥10 theo dõi</b>, dưới 10 là bỏ qua.
+    ${dc(P.score,2)} rơi vào «${esc(P.verdict)}» — vào được, nhưng vào có điều kiện
+    chứ không dồn lực.</p>
+   ${NEXT?`<div class="cond"><div class="t">Cần gì để lên «${esc(NEXT[1])}»</div>
+    Chỉ thiếu <b>${dc(NEED,2)} điểm</b> — gần hơn nhiều so với cảm giác khi nhìn con số
+    ${dc(P.score,2)}/20. Đường ngắn nhất: <b>gỡ khoản phạt ${P.t6.p}</b> bằng cách tránh
+    dùng lại nội dung giữa các kênh, một mình việc đó đã đủ (+${Math.abs(P.t6.p)} điểm →
+    ${dc(P.score-P.t6.p,2)}). Đường thứ hai: <b>đo RPM thật</b> thay ước tính ở trục T5 —
+    hiện chấm ${P.axes.find(a=>a.k==='T5')?.sc||'?'}đ với độ tin cậy thấp; mỗi điểm ở T5
+    đổi thành <b>${dc(0.10*20/5,1)} điểm tổng</b>.</div>`:''}
+  </div></div>`;
+}
+
+/* ── HAI LỐI ĐI ── */
+const DOORS=[
+ {k:'boss',ic:'◆',c:'--acc',t:'Tóm tắt để quyết định',
+  d:'Điểm số, lý do, và cần gì để đổi kết luận. Đủ để trả lời «có làm không» trong 2 phút.',
+  go:'điểm · khoảng trống · giả thuyết',
+  show:['secScore','secGap','secHyp']},
+ {k:'team',ic:'▤',c:'--calc',t:'Chi tiết để thực thi',
+  d:'Tiêu đề sẵn dùng, mốc chuẩn để tự so, và toàn bộ số liệu theo nhóm.',
+  go:'tiêu đề · mốc chuẩn · số liệu',
+  show:['secIdea','secBm','secMt','secGap']},
+];
+function doors(){
+ gid('doors').innerHTML=DOORS.map(d=>
+  `<button class="dr" data-d="${d.k}" aria-pressed="${DOOR===d.k}" style="--dc:var(${d.c})">
+    <div class="ic">${d.ic}</div><div class="t">${d.t}</div><div class="d">${d.d}</div>
+    <div class="go">${DOOR===d.k?'▾ đang xem':'▸'} ${d.go}</div></button>`).join('');
+ document.querySelectorAll('[data-d]').forEach(b=>b.onclick=()=>{DOOR=b.dataset.d;paint()});
+ const on=DOORS.find(d=>d.k===DOOR).show;
+ ['secScore','secGap','secHyp','secIdea','secBm','secMt'].forEach(id=>{
+  const el=gid(id); if(el) el.className='sec'+(on.includes(id)?'':' hide')});
+}
+
+/* ── TRỤC ĐIỂM ── */
+const CFVI={high:'Cao',medium:'Vừa',low:'Thấp'};
+function axes(){
+ gid('scnt').innerHTML=`${P.axes.length} trục · Σ(điểm×trọng số) = ${dc(RAW,3)} ×
+  ${dc(20/5,0)} ${P.t6.p<0?'−'+Math.abs(P.t6.p):'+'+P.t6.p} = <b style="color:var(--fg)">${
+  dc(P.score,2)}</b><span class="qm" data-h="cf">?</span>`;
+ gid('axes').innerHTML=P.axes.map(a=>{
+  const pct=a.sc/5*100;
+  const c=a.sc>=4?'--up':a.sc>=2.5?'--fl':'--dn';
+  return `<div class="axr">
+   <div class="a1"><div class="k">${a.k} · trọng số ${dc(a.w*100,0)}%</div>
+    <div class="n">${esc(a.nm)}</div><div class="q">${esc(a.q)}</div></div>
+   <div class="a2"><div class="m">${esc(a.m)}</div>
+    <div class="th">ngưỡng: ${esc(a.th)}</div>
+    <div class="src">nguồn: ${esc(a.src)}</div></div>
+   <div class="a3"><div class="sc" style="color:var(${c})">${dc(a.sc,2)}<em> / 5</em></div>
+    <div><span class="cf ${a.cf}">${CFVI[a.cf]||a.cf}</span></div>
+    <div class="w">góp ${dc(a.sc*a.w*20/5,2)}đ</div>
+    <div class="axbar"><i style="width:${pct}%;background:var(${c})"></i></div></div>
+  </div>`}).join('');
+ gid('pen').innerHTML=P.t6.p?`<div class="pen">
+   <div class="p1">${P.t6.p}</div>
+   <div class="p2"><div class="t">Khoản phạt rủi ro<span class="qm" data-h="pen">?</span></div>
+    <div class="d">${esc(P.t6.th)} — trừ thẳng vào điểm tổng, không nhân trọng số.
+     Đây là phần <b>gỡ được</b>: tránh dùng lại nội dung giữa các kênh là lấy lại
+     ${Math.abs(P.t6.p)} điểm.</div>
+    <div class="s">độ tin cậy ${CFVI[P.t6.cf]||P.t6.cf} · nguồn ${esc(P.t6.src)}</div></div></div>`:'';
+}
+
+/* ── KHOẢNG TRỐNG ── */
+function gaps(){
+ gid('gcnt').innerHTML=`${P.gaps.length} khoảng trống<span class="qm" data-h="gap">?</span>`;
+ gid('gaps').innerHTML=P.gaps.map((g,i)=>{
+  const c=g.sco==='CAO'?'--up':g.sco==='VỪA'?'--fl':'--line2';
+  const shut=GOPEN[i]?'0':'1';
+  return `<div class="gap" id="gap${i}" aria-shut="${shut}" style="--gc:var(${c})">
+   <button class="gph" data-g="${i}" aria-expanded="${GOPEN[i]?'true':'false'}">
+    <span class="no">${i+1}</span>
+    <span class="gx"><span class="gt">${esc(g.g)}</span>
+     <span class="gm">
+      <span class="tag ${g.sco}">tiềm năng ${esc(g.sco)}</span>
+      <span class="cf ${g.cf==='Cao'?'high':g.cf==='Vừa'?'medium':'low'}">tin cậy ${esc(g.cf)}</span>
+      <span style="font-family:var(--mono);font-size:9.5px;color:var(--faint)">${
+        g.d.length} bằng chứng</span></span></span>
+    <span class="car">▾</span></button>
+   <div class="gpb">
+    <div class="g2">
+     <div class="gbx dm"><div class="bt">Phía cầu — khán giả muốn</div>
+      ${g.d.length?g.d.map(e=>`<div class="ev"><div class="c">${esc(e.c)}</div>
+        <div class="meta"><span class="f">${esc(e.s)}</span>${
+          e.i?`<span>${esc(e.i)}</span>`:''}</div></div>`).join('')
+        :'<div class="tx">Không có bằng chứng định lượng — khoảng trống này suy ra từ phía cung.</div>'}</div>
+     <div class="gbx sp"><div class="bt">Phía cung — thị trường đang làm</div>
+      <div class="tx">${esc(g.sup)}</div>
+      ${g.perf?`<div class="ev" style="margin-top:9px"><div class="c">${esc(g.perf)}</div>
+        <div class="meta"><span class="f">${esc(g.sp)}</span></div></div>`:''}</div>
+    </div>
+    <div class="gfoot">
+     <span class="it"><span class="k">Làm được không</span><span class="v">${esc(g.fe)}</span></span>
+    </div></div></div>`}).join('');
+ document.querySelectorAll('[data-g]').forEach(b=>b.onclick=()=>{
+  const i=+b.dataset.g; GOPEN[i]=!GOPEN[i]; paint()});
+}
+
+/* ── GIẢ THUYẾT ── */
+function hyps(){
+ gid('hcnt').innerHTML=`${P.hyps.length} giả thuyết · ${
+  P.hyps.filter(h=>h.v==='ĐÚNG').length} đúng<span class="qm" data-h="hyp">?</span>`;
+ gid('hyps').innerHTML=P.hyps.map(h=>{
+  const cls=h.v==='ĐÚNG'?'ĐÚNG':h.v==='SAI'?'SAI':'MỘT';
+  return `<div class="hyr"><span class="vv ${cls}">${esc(h.v)}</span>
+   <span class="hx"><span class="ht">${esc(h.h)}</span>
+    <span class="he">${esc(h.e)}</span></span></div>`}).join('');
+}
+
+/* ── Ý TƯỞNG ── */
+function ideas(){
+ gid('icnt').textContent=`${P.ideas.length} tiêu đề`;
+ gid('ideas').innerHTML=`<div class="idh">
+   <span style="font-size:13px;font-weight:600">Lấy về dùng ngay</span>
+   <span style="font-family:var(--mono);font-size:10.5px;color:var(--faint)">${
+     P.ideas.length} tiêu đề sinh từ ${P.gaps.length} khoảng trống</span>
+   <button class="cp" id="cpid">⧉ Chép tất cả</button></div>
+  <div class="idl">${P.ideas.map(i=>
+   `<div class="idr"><span class="n">${i.n}</span><span class="t">${esc(i.t)}</span>
+    <span class="b">${esc(i.b)}</span><span class="l">${esc(i.l)}</span></div>`).join('')}</div>`;
+ const b=gid('cpid'); if(b)b.onclick=()=>{
+  const txt=P.ideas.map(i=>`${i.n}. ${i.t}  [${i.b} · ${i.l}]`).join('\n');
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+   navigator.clipboard.writeText(txt).then(()=>toast(`Đã chép ${P.ideas.length} tiêu đề`),
+    ()=>toast('Trình duyệt chặn chép — bôi đen rồi Ctrl+C'));
+  } else toast('Trình duyệt không hỗ trợ chép tự động');
+ };
+}
+
+/* ── MỐC CHUẨN ── */
+const BMN={
+ p25_vpm:['Phân vị 25 · view/tháng','1/4 số kênh dưới mức này'],
+ p50_vpm:['Phân vị 50 · view/tháng','mức giữa của ngách'],
+ p75_vpm:['Phân vị 75 · view/tháng','vào được nhóm 25% trên'],
+ p90_vpm:['Phân vị 90 · view/tháng','nhóm 10% dẫn đầu'],
+ young_median_vpm:['Kênh trẻ · trung vị','kênh dưới 12 tháng đạt mức này'],
+ young_success_threshold:['Mốc «thành công» kênh trẻ','ngưỡng dùng để tính M3.2'],
+ median_upload_per_month:['Nhịp đăng trung vị','video mỗi tháng'],
+ median_view_per_video:['View trung vị mỗi video','tính trên toàn ngách'],
+ top_quartile_view_per_video:['View mỗi video · nhóm 25% trên','mức cần nhắm'],
+};
+function bm(){
+ gid('bm').innerHTML=Object.entries(P.bm).map(([k,v])=>{
+  const n=BMN[k]||[k,''];
+  const isInt=Number.isInteger(v)||v>=1000;
+  return `<div><div class="k">${esc(n[0])}</div>
+   <div class="v">${isInt?vn(Math.round(v)):dc(v,1)}</div>
+   <div class="d">${esc(n[1])}</div></div>`}).join('');
+}
+
+/* ── SỐ LIỆU CHI TIẾT ── */
+const MTN={market:'Quy mô thị trường',momentum:'Đà tăng trưởng',entry:'Cửa cho người mới',
+ ai_fit:'Độ hợp AI',formula:'Công thức nội dung',audience:'Khán giả',money:'Kiếm tiền',
+ risk:'Rủi ro',keyword:'Từ khoá & chủ đề'};
+function mts(){
+ const gs=Object.entries(P.mt).filter(([k,v])=>v&&Object.keys(v).length);
+ gid('mcnt').textContent=`${gs.length} nhóm · ${
+  gs.reduce((s,[k,v])=>s+Object.keys(v).length,0)} chỉ số`;
+ gid('mts').innerHTML=gs.map(([k,v])=>
+  `<div class="gap" aria-shut="1" id="mt${k}" style="--gc:var(--calc)">
+   <button class="gph" data-m="${k}">
+    <span class="no">▸</span>
+    <span class="gx"><span class="gt">${esc(MTN[k]||k)}</span>
+     <span class="gm"><span style="font-family:var(--mono);font-size:9.5px;color:var(--faint)">${
+       Object.keys(v).length} chỉ số</span></span></span>
+    <span class="car">▾</span></button>
+   <div class="gpb"><div class="bmw" style="margin-top:13px">${
+     Object.entries(v).map(([kk,vv])=>`<div><div class="k">${esc(kk)}</div>
+      <div class="v" style="font-size:14px">${
+        typeof vv==='number' ? (Number.isInteger(vv)||Math.abs(vv)>=1000?vn(Math.round(vv)):dc(vv,3))
+        : typeof vv==='object' ? esc(JSON.stringify(vv)).slice(0,70)
+        : esc(String(vv)).slice(0,70)}</div></div>`).join('')}</div></div></div>`).join('');
+ document.querySelectorAll('[data-m]').forEach(b=>b.onclick=()=>{
+  const el=gid('mt'+b.dataset.m);
+  el.setAttribute('aria-shut', el.getAttribute('aria-shut')==='1'?'0':'1')});
+}
+
+/* ── TOOLTIP ── */
+const tt=gid('tt');
+function showTT(e,k){
+ const h=HELP[k]; if(!h)return;
+ tt.innerHTML=`<div class="k2"><span>${k}</span><em>${h[2]}</em></div>
+  <div class="n3">${h[0]}</div><div class="d3">${h[1]}</div>`;
+ tt.style.display='block';
+ const r=e.target.getBoundingClientRect(), w=tt.offsetWidth||330, hh=tt.offsetHeight||120;
+ let x=r.left, y=r.bottom+8;
+ if(x+w>innerWidth-10)x=innerWidth-w-10;
+ if(y+hh>innerHeight-10)y=r.top-hh-8;
+ tt.style.left=Math.max(10,x)+'px'; tt.style.top=Math.max(10,y)+'px';
+}
+const hideTT=()=>tt.style.display='none';
+function toast(m){
+ let t=gid('ptoast');
+ if(!t){t=document.createElement('div');t.id='ptoast';
+  t.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);'+
+   'background:var(--head);border:1px solid var(--line2);border-radius:4px;padding:9px 15px;'+
+   'font-size:12.5px;z-index:99;box-shadow:0 6px 20px rgba(0,0,0,.4)';
+  document.body.appendChild(t)}
+ t.textContent=m; t.style.display='block';
+ clearTimeout(t._h); t._h=setTimeout(()=>t.style.display='none',2600);
+}
+
+function foot(){
+ gid('ft2').innerHTML=`
+  <div><b>Nguồn</b> _state/scores.json · _state/metrics.json · 99_report/_synthesis.json —
+   đọc lúc dựng trang, không gõ tay (T27)</div>
+  <div><b>Chấm</b> ${P.at} theo rubric v${P.rubric} · 5 trục có trọng số + 1 khoản phạt</div>
+  <div><b>Không đưa lên trang này</b> trích dẫn bình luận nguyên văn — mã bình luận tra ngược
+   ra tài khoản thật, nên chỉ giữ số liệu thống kê</div>
+  <div><b>Bước 3</b> (AI phân tích · system prompt · API) chưa dựng — hồ sơ này đọc kết quả
+   phân tích đã chạy sẵn trong pipeline</div>`;
+}
+
+function paint(){
+ verdict(); doors(); axes(); gaps(); hyps(); ideas(); bm(); mts();
+ document.querySelectorAll('[data-h]').forEach(el=>{
+  el.onmouseenter=e=>showTT(e,el.dataset.h); el.onmouseleave=hideTT;
+  el.onfocus=e=>showTT(e,el.dataset.h); el.onblur=hideTT});
+}
+paint(); foot();
+
+</script>
+</body>
+</html>
