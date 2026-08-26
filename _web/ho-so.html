@@ -21,6 +21,12 @@
  --ind:#2B4C7E;--ind2:#E8EEF6;--cop:#B07D3F;--cop2:#F6ECDC;
  --pos:#2E7D5B;--neg:#B03A38;--warn:#B07D3F;
  --shadow:0 1px 2px rgba(26,24,21,.05),0 8px 24px rgba(26,24,21,.07);
+ /* ── BÍ DANH CHO THƯ VIỆN BIỂU ĐỒ ──
+    chart.js viết cho Bước 1–3 (nền tối) nên gọi --ac/--cl/--hd/--ln/--ln2/--mt/--up.
+    Ánh xạ sang hệ màu sách ở đây thay vì sửa từng lời gọi trong chart.js —
+    một chỗ đổi, cả 10 biểu đồ đổi theo, và tự đúng khi chuyển theme. */
+ --ac:var(--cop);--cl:var(--ind);--up:var(--pos);--dn:var(--neg);
+ --hd:var(--pp3);--ln:var(--rule);--ln2:var(--rule2);--mt:var(--mut);--ft:var(--fnt);
  --disp:'Fraunces',Georgia,'Times New Roman',serif;
  --body:'Inter',system-ui,-apple-system,sans-serif;
  --mono:'JetBrains Mono',ui-monospace,monospace;
@@ -109,6 +115,15 @@ a{color:var(--ind)}
 @media(max-width:640px){.page{padding:26px 20px 80px}}
 .page.turn{animation:turn .42s cubic-bezier(.22,.7,.3,1)}
 @keyframes turn{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+
+/* ── QUAY LẠI CÁC BƯỚC TRƯỚC ──
+   Có ở MỌI trang, không bắt người đọc mở mục lục mới tìm được đường ra. */
+.backnav{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:22px;padding-bottom:14px;
+ border-bottom:1px solid var(--rule)}
+.backnav a{font-family:var(--mono);font-size:10.5px;letter-spacing:.04em;color:var(--mut);
+ text-decoration:none;padding:3px 0;border-bottom:1px solid transparent}
+.backnav a:hover{color:var(--ind);border-bottom-color:var(--ind)}
+@media(max-width:560px){.backnav{gap:12px}.backnav a{font-size:10px}}
 
 /* ── ĐẦU TRANG SÁCH ── */
 .ph{margin-bottom:26px;padding-bottom:18px;border-bottom:1px solid var(--rule)}
@@ -342,7 +357,8 @@ const HELP={
 /* ── 1. RADAR — 5 trục điểm ──
    Đa giác đều 5 đỉnh. Bán kính mỗi đỉnh tỉ lệ điểm/5. */
 function chRadar(axes,size=250){
- const R=size/2-40, cx=size/2, cy=size/2+4, n=axes.length;
+ // Chừa 56px cho nhãn hai dòng (mã trục + điểm) — 40px cũ làm nhãn tràn khung.
+ const R=size/2-56, cx=size/2, cy=size/2+6, n=axes.length;
  const ang=i=>(-Math.PI/2)+i*2*Math.PI/n;
  const pt=(i,r)=>[cx+Math.cos(ang(i))*r, cy+Math.sin(ang(i))*r];
  let g='';
@@ -358,8 +374,8 @@ function chRadar(axes,size=250){
   const [x,y]=pt(i,R);
   g+=`<line x1="${cx}" y1="${cy}" x2="${x.toFixed(1)}" y2="${y.toFixed(1)}"
     stroke="var(--ln)" stroke-width="1"/>`;
-  const [lx,ly]=pt(i,R+22);
-  const anch=Math.abs(lx-cx)<6?'middle':(lx>cx?'start':'end');
+  const [lx,ly]=pt(i,R+20);
+  const anch=Math.abs(lx-cx)<8?'middle':(lx>cx?'start':'end');
   g+=`<text x="${lx.toFixed(1)}" y="${(ly+3).toFixed(1)}" text-anchor="${anch}"
     class="cl-ax">${a.k}</text>`;
   g+=`<text x="${lx.toFixed(1)}" y="${(ly+14).toFixed(1)}" text-anchor="${anch}"
@@ -367,7 +383,7 @@ function chRadar(axes,size=250){
  });
  // vùng điểm
  const pp=axes.map((a,i)=>pt(i,R*a.sc/5).map(v=>v.toFixed(1)).join(',')).join(' ');
- g+=`<polygon points="${pp}" fill="var(--ac)" fill-opacity=".22"
+ g+=`<polygon points="${pp}" fill="var(--ac)" fill-opacity=".16"
    stroke="var(--ac)" stroke-width="2" stroke-linejoin="round"/>`;
  axes.forEach((a,i)=>{
   const [x,y]=pt(i,R*a.sc/5);
@@ -379,36 +395,35 @@ function chRadar(axes,size=250){
 
 /* ── 2. THANH XẾP CHỒNG — đường tới bậc trên ── */
 function chLadder(score,tiers,pen,w=520){
- const H=74, pad=8, max=20, sx=v=>pad+(w-pad*2)*v/max;
- let g=`<rect x="${pad}" y="22" width="${w-pad*2}" height="20" rx="3"
-   fill="var(--hd)"/>`;
- // các vùng bậc
- const bands=[[0,10,'--dn'],[10,13,'--ac'],[13,16,'--up'],[16,20,'--up']];
- bands.forEach(([a,b,c])=>{
-  g+=`<rect x="${sx(a).toFixed(1)}" y="22" width="${(sx(b)-sx(a)).toFixed(1)}"
-    height="20" fill="var(${c})" fill-opacity=".10"/>`;
+ // Trên nền GIẤY: dùng viền + nền rất nhạt cho vùng bậc, và thanh điểm để MỞ
+ // (viền đậm, ruột nhạt) — bản cũ tô đặc nên in ra thành một khối đen.
+ const H=86, pad=10, max=20, sx=v=>pad+(w-pad*2)*v/max;
+ const BY=26, BH=22;
+ let g=`<rect x="${pad}" y="${BY}" width="${w-pad*2}" height="${BH}" rx="3"
+   fill="var(--hd)" stroke="var(--ln2)" stroke-width="1"/>`;
+ // vạch ngưỡng + nhãn bậc
+ tiers.forEach(([v,nm])=>{ if(v<=0||v>=max)return;
+  g+=`<line x1="${sx(v).toFixed(1)}" y1="${BY-4}" x2="${sx(v).toFixed(1)}" y2="${BY+BH+4}"
+    stroke="var(--ln2)" stroke-width="1" stroke-dasharray="2 2"/>
+   <text x="${sx(v).toFixed(1)}" y="${BY+BH+18}" text-anchor="middle" class="cl-sm">${v}</text>
+   <text x="${sx(v).toFixed(1)}" y="${BY+BH+30}" text-anchor="middle" class="cl-tn">${nm}</text>`;
  });
- // vạch ngưỡng
- tiers.forEach(([v,nm])=>{ if(v<=0)return;
-  g+=`<line x1="${sx(v).toFixed(1)}" y1="18" x2="${sx(v).toFixed(1)}" y2="46"
-    stroke="var(--ln2)" stroke-width="1"/>
-   <text x="${sx(v).toFixed(1)}" y="58" text-anchor="middle" class="cl-sm">${v}</text>
-   <text x="${sx(v).toFixed(1)}" y="69" text-anchor="middle" class="cl-tn">${nm}</text>`;
- });
- // điểm hiện tại
- g+=`<rect x="${pad}" y="22" width="${(sx(score)-pad).toFixed(1)}" height="20" rx="3"
-   fill="var(--ac)" fill-opacity=".55"/>`;
- // phần gỡ được từ khoản phạt
+ // phần gỡ được — vẽ TRƯỚC để thanh điểm nằm trên
  if(pen<0){
   const to=Math.min(max,score-pen);
-  g+=`<rect x="${sx(score).toFixed(1)}" y="22" width="${(sx(to)-sx(score)).toFixed(1)}"
-    height="20" fill="var(--up)" fill-opacity=".26" stroke="var(--up)"
-    stroke-width="1" stroke-dasharray="3 2"/>
-   <text x="${((sx(score)+sx(to))/2).toFixed(1)}" y="15" text-anchor="middle"
-    class="cl-sm" fill="var(--up)">+${Math.abs(pen)} nếu gỡ phạt</text>`;
+  g+=`<rect x="${sx(score).toFixed(1)}" y="${BY}" width="${(sx(to)-sx(score)).toFixed(1)}"
+    height="${BH}" fill="var(--up)" fill-opacity=".16" stroke="var(--up)"
+    stroke-width="1.2" stroke-dasharray="4 3"/>
+   <text x="${((sx(score)+sx(to))/2).toFixed(1)}" y="${BY-8}" text-anchor="middle"
+    class="cl-sm" fill="var(--up)" style="font-weight:700">+${Math.abs(pen)} nếu gỡ phạt</text>`;
  }
- g+=`<line x1="${sx(score).toFixed(1)}" y1="16" x2="${sx(score).toFixed(1)}" y2="48"
-   stroke="var(--ac)" stroke-width="2.5"/>`;
+ // điểm hiện tại: ruột nhạt + viền đậm, đọc được trên giấy
+ g+=`<rect x="${pad}" y="${BY}" width="${(sx(score)-pad).toFixed(1)}" height="${BH}" rx="3"
+   fill="var(--ac)" fill-opacity=".3" stroke="var(--ac)" stroke-width="1.2"/>
+  <line x1="${sx(score).toFixed(1)}" y1="${BY-4}" x2="${sx(score).toFixed(1)}" y2="${BY+BH+4}"
+   stroke="var(--ac)" stroke-width="2.5"/>
+  <text x="${sx(score).toFixed(1)}" y="${BY-8}" text-anchor="${score>max*.7?'end':'middle'}"
+   class="cl-sm" fill="var(--ac)" style="font-weight:700">${String(score).replace('.',',')}</text>`;
  return `<svg viewBox="0 0 ${w} ${H}" class="ch" role="img"
    aria-label="Đường tới bậc trên">${g}</svg>`;
 }
@@ -433,7 +448,8 @@ function chCols(items,w=440,h=170,color='--cl'){
   const y=pad.t+ih-bh;
   g+=`<rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${bwid.toFixed(1)}"
     height="${Math.max(1,bh).toFixed(1)}" rx="2" fill="var(${it.hi?'--ac':color})"
-    fill-opacity="${it.hi?'.95':'.65'}"/>
+    fill-opacity="${it.hi?'.34':'.2'}" stroke="var(${it.hi?'--ac':color})"
+    stroke-width="${it.hi?1.4:1}"/>
    <text x="${(x+bwid/2).toFixed(1)}" y="${(y-4).toFixed(1)}" text-anchor="middle"
     class="cl-sm" fill="var(${it.hi?'--ac':'--mt'})">${it.v}</text>
    <text x="${(x+bwid/2).toFixed(1)}" y="${(h-pad.b+14).toFixed(1)}" text-anchor="middle"
@@ -444,20 +460,22 @@ function chCols(items,w=440,h=170,color='--cl'){
 
 /* ── 4. THANH NGANG — bối cảnh nghe ── */
 function chBars(items,w=460,color='--cl'){
- const rh=23, pad={l:118,r:56,t:6,b:6};
+ // Nới cột nhãn và cột số: nhãn tiếng Việt dài hơn tiếng Anh, số có đơn vị đi kèm.
+ const rh=25, pad={l:136,r:92,t:8,b:8};
  const h=pad.t+pad.b+rh*items.length;
  const iw=w-pad.l-pad.r;
  const mx=Math.max(...items.map(i=>i.v))||1;
  let g='';
  items.forEach((it,i)=>{
   const y=pad.t+rh*i, bw=iw*it.v/mx;
-  g+=`<text x="${pad.l-8}" y="${(y+15).toFixed(1)}" text-anchor="end"
+  g+=`<text x="${pad.l-10}" y="${(y+16).toFixed(1)}" text-anchor="end"
     class="cl-lb">${it.k}</text>
-   <rect x="${pad.l}" y="${(y+4).toFixed(1)}" width="${iw}" height="14" rx="2"
+   <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${iw}" height="14" rx="2"
     fill="var(--hd)"/>
-   <rect x="${pad.l}" y="${(y+4).toFixed(1)}" width="${Math.max(2,bw).toFixed(1)}"
-    height="14" rx="2" fill="var(${it.hi?'--ac':color})" fill-opacity="${it.hi?'.95':'.62'}"/>
-   <text x="${w-pad.r+6}" y="${(y+15).toFixed(1)}" class="cl-sm"
+   <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${Math.max(2,bw).toFixed(1)}"
+    height="14" rx="2" fill="var(${it.hi?'--ac':color})" fill-opacity="${it.hi?'.32':'.18'}"
+    stroke="var(${it.hi?'--ac':color})" stroke-width="${it.hi?1.4:1}"/>
+   <text x="${(pad.l+iw+8).toFixed(1)}" y="${(y+16).toFixed(1)}" class="cl-sm"
     fill="var(${it.hi?'--ac':'--mt'})">${it.lb}</text>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img" aria-label="Bảng xếp hạng">${g}</svg>`;
@@ -474,7 +492,7 @@ function chScatter(pts,w=520,h=300){
  let g='';
  // vùng cơ hội: x thấp, y cao
  g+=`<rect x="${pad.l}" y="${pad.t}" width="${(iw*0.34).toFixed(1)}"
-   height="${(ih*0.42).toFixed(1)}" fill="var(--up)" fill-opacity=".07"/>
+   height="${(ih*0.42).toFixed(1)}" fill="var(--up)" fill-opacity=".1"/>
   <text x="${(pad.l+7).toFixed(1)}" y="${(pad.t+14).toFixed(1)}" class="cl-tn"
    fill="var(--up)">ít người làm · hiệu quả cao</text>`;
  // trục
@@ -505,7 +523,8 @@ function chScatter(pts,w=520,h=300){
   const c=p.rec?'--up':p.avoid?'--dn':'--cl';
   const r=p.rec||p.avoid?5.5:4;
   g+=`<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r}" fill="var(${c})"
-    fill-opacity="${p.rec||p.avoid?'.9':'.5'}" stroke="var(${c})" stroke-width="1"/>`;
+    fill-opacity="${p.rec||p.avoid?'.4':'.2'}" stroke="var(${c})"
+    stroke-width="${p.rec||p.avoid?1.8:1.2}"/>`;
   if(p.lb) g+=`<text x="${(x+8).toFixed(1)}" y="${(y+3.5).toFixed(1)}" class="cl-tn"
     fill="var(${c})">${p.lb}</text>`;
  });
@@ -516,27 +535,32 @@ function chScatter(pts,w=520,h=300){
 /* ── 6. ĐỐI XỨNG — khoảng cách ngôn ngữ ──
    Trái: số lần khán giả viết · Phải: số tiêu đề dùng. */
 function chDiverge(items,w=540){
- const rh=26, pad={t:22,b:6}, mid=w*0.46, lw=mid-108, rw=w-mid-96;
+ // Từ đặt ở CỘT RIÊNG giữa hai thanh, không đè lên thanh như bản trước.
+ const rh=28, pad={t:26,b:8}, wordW=86, numW=52, ratW=48;
+ const mid=w*0.42, lw=mid-numW-wordW/2-10, rw=w-mid-wordW/2-numW-ratW-16;
  const h=pad.t+pad.b+rh*items.length;
  const mxL=Math.max(...items.map(i=>i.l))||1;
  const mxR=Math.max(...items.map(i=>i.r))||1;
- let g=`<text x="${(mid-lw/2-4).toFixed(1)}" y="12" text-anchor="middle" class="cl-tn"
-   fill="var(--cl)">khán giả VIẾT trong bình luận</text>
-  <text x="${(mid+58).toFixed(1)}" y="12" text-anchor="middle" class="cl-tn"
-   fill="var(--ac)">tiêu đề DÙNG</text>`;
+ const lEnd=mid-wordW/2-6;          // mép phải của vùng thanh trái
+ const rStart=mid+wordW/2+6;        // mép trái của vùng thanh phải
+ let g=`<text x="${(lEnd-lw/2).toFixed(1)}" y="13" text-anchor="middle" class="cl-tn"
+   fill="var(--cl)">khán giả VIẾT</text>
+  <text x="${(rStart+rw/2).toFixed(1)}" y="13" text-anchor="middle" class="cl-tn"
+   fill="var(--ac)">tiêu đề DÙNG</text>
+  <text x="${(w-6)}" y="13" text-anchor="end" class="cl-tn">chênh</text>`;
  items.forEach((it,i)=>{
   const y=pad.t+rh*i;
-  const bl=lw*it.l/mxL, br=Math.max(2,rw*it.r/mxR);
-  g+=`<rect x="${(mid-8-bl).toFixed(1)}" y="${(y+5).toFixed(1)}" width="${bl.toFixed(1)}"
-    height="15" rx="2" fill="var(--cl)" fill-opacity=".62"/>
-   <text x="${(mid-12-bl).toFixed(1)}" y="${(y+16.5).toFixed(1)}" text-anchor="end"
+  const bl=Math.max(2,lw*it.l/mxL), br=Math.max(2,rw*it.r/mxR);
+  g+=`<rect x="${(lEnd-bl).toFixed(1)}" y="${(y+5).toFixed(1)}" width="${bl.toFixed(1)}"
+    height="15" rx="2" fill="var(--cl)" fill-opacity=".2" stroke="var(--cl)" stroke-width="1"/>
+   <text x="${(lEnd-bl-6).toFixed(1)}" y="${(y+16.5).toFixed(1)}" text-anchor="end"
     class="cl-sm">${it.l.toLocaleString('de-DE')}</text>
    <text x="${mid.toFixed(1)}" y="${(y+16.5).toFixed(1)}" text-anchor="middle"
     class="cl-lb" style="font-weight:600">${it.w}</text>
-   <rect x="${(mid+34).toFixed(1)}" y="${(y+5).toFixed(1)}" width="${br.toFixed(1)}"
-    height="15" rx="2" fill="var(--ac)" fill-opacity=".85"/>
-   <text x="${(mid+38+br).toFixed(1)}" y="${(y+16.5).toFixed(1)}" class="cl-sm">${it.r}</text>
-   <text x="${w-4}" y="${(y+16.5).toFixed(1)}" text-anchor="end" class="cl-sm"
+   <rect x="${rStart.toFixed(1)}" y="${(y+5).toFixed(1)}" width="${br.toFixed(1)}"
+    height="15" rx="2" fill="var(--ac)" fill-opacity=".3" stroke="var(--ac)" stroke-width="1.2"/>
+   <text x="${(rStart+br+6).toFixed(1)}" y="${(y+16.5).toFixed(1)}" class="cl-sm">${it.r}</text>
+   <text x="${(w-6)}" y="${(y+16.5).toFixed(1)}" text-anchor="end" class="cl-sm"
     fill="var(--ac)" style="font-weight:700">${Math.round(it.ratio)}×</text>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img"
@@ -555,14 +579,14 @@ function chFrame(t,w=300){
  let g=`<rect x="0" y="0" width="${w}" height="${h}" rx="4" fill="var(--hd)"
    stroke="var(--ln2)" stroke-width="1"/>`;
  g+=`<rect x="${px.toFixed(1)}" y="${py.toFixed(1)}" width="${pw.toFixed(1)}"
-   height="${ph.toFixed(1)}" rx="3" fill="var(--cl)" fill-opacity=".26"
+   height="${ph.toFixed(1)}" rx="3" fill="var(--cl)" fill-opacity=".14"
    stroke="var(--cl)" stroke-width="1.4" stroke-dasharray="4 3"/>
   <text x="${(px+pw/2).toFixed(1)}" y="${(py+ph/2-4).toFixed(1)}" text-anchor="middle"
    class="cl-lb" fill="var(--cl)">người</text>
   <text x="${(px+pw/2).toFixed(1)}" y="${(py+ph/2+11).toFixed(1)}" text-anchor="middle"
    class="cl-sm" fill="var(--cl)">${String(t.person_area_pct).replace('.',',')}% khung</text>`;
  g+=`<rect x="${(w*0.06).toFixed(1)}" y="${ty.toFixed(1)}" width="${(w*0.88).toFixed(1)}"
-   height="${th.toFixed(1)}" rx="3" fill="var(--ac)" fill-opacity=".26"
+   height="${th.toFixed(1)}" rx="3" fill="var(--ac)" fill-opacity=".14"
    stroke="var(--ac)" stroke-width="1.4" stroke-dasharray="4 3"/>
   <text x="${(w*0.5).toFixed(1)}" y="${(ty+th/2+4).toFixed(1)}" text-anchor="middle"
    class="cl-sm" fill="var(--ac)">chữ ${String(t.text_area_pct).replace('.',',')}% · ${
@@ -602,7 +626,7 @@ function chRange(items,w=460){
    <line x1="${pad.l}" y1="${(y+13).toFixed(1)}" x2="${(pad.l+iw).toFixed(1)}"
     y2="${(y+13).toFixed(1)}" stroke="var(--ln2)" stroke-width="1"/>
    <rect x="${pad.l}" y="${(y+9).toFixed(1)}" width="${iw}" height="8" rx="4"
-    fill="var(--cl)" fill-opacity=".2"/>
+    fill="var(--cl)" fill-opacity=".14"/>
    <text x="${pad.l}" y="${(y+30).toFixed(1)}" class="cl-tn">${it.lot}</text>
    <text x="${(pad.l+iw).toFixed(1)}" y="${(y+30).toFixed(1)}" text-anchor="end"
     class="cl-tn">${it.hit}</text>`;
@@ -618,7 +642,9 @@ function chRange(items,w=460){
 
 /* ── 10. CỘT NGANG XẾP HẠNG có nhãn phán quyết ── */
 function chVerdict(items,w=470){
- const rh=26, pad={l:150,r:98,t:6,b:4};
+ // Nhãn tiếng Việt có ngoặc kép «» dài hơn hẳn — 150px cũ làm nhãn tràn trái 37px.
+ const rh=27, pad={l:218,r:104,t:8,b:6};
+ const CUT=30;   // cắt nhãn dài hơn mức này, thêm dấu …
  const h=pad.t+pad.b+rh*items.length;
  const iw=w-pad.l-pad.r;
  const mx=Math.max(...items.map(i=>i.v))||1;
@@ -626,12 +652,13 @@ function chVerdict(items,w=470){
  items.forEach((it,i)=>{
   const y=pad.t+rh*i, bw=Math.max(2,iw*it.v/mx);
   const c=it.ok?'--up':it.bad?'--dn':'--cl';
-  g+=`<text x="${pad.l-8}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-lb">${it.k}</text>
+  const lb=it.k.length>CUT?it.k.slice(0,CUT-1)+'…':it.k;
+  g+=`<text x="${pad.l-10}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-lb">${lb}</text>
    <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${iw}" height="14" rx="2" fill="var(--hd)"/>
    <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${bw.toFixed(1)}" height="14" rx="2"
-    fill="var(${c})" fill-opacity=".7"/>
-   <text x="${(pad.l+bw+6).toFixed(1)}" y="${(y+16).toFixed(1)}" class="cl-sm">${it.lb}</text>
-   <text x="${w-4}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-tn"
+    fill="var(${c})" fill-opacity=".26" stroke="var(${c})" stroke-width="1.1"/>
+   <text x="${(pad.l+iw+8).toFixed(1)}" y="${(y+16).toFixed(1)}" class="cl-sm">${it.lb}</text>
+   <text x="${w-6}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-tn"
     fill="var(${c})" style="font-weight:700">${it.vd||''}</text>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img" aria-label="Xếp hạng có phán quyết">${g}</svg>`;
@@ -1298,6 +1325,10 @@ function closeToc(){TOCOPEN=false;gid('toc').className='toc';gid('scrim').classN
 function render(){
  const p=PAGES[PG], d=p.f();
  gid('page').innerHTML=`
+  <nav class="backnav" aria-label="Quay lại các bước trước">
+   <a href="data-tho.html">← Bước 1 · Dữ liệu thô</a>
+   <a href="chuan-hoa.html">← Bước 2 · Chuẩn hoá</a>
+   <a href="index.html">← Trang chủ</a></nav>
   <header class="ph">
    <div class="ch2"><span>${esc(p.ch)}</span><span>·</span>
     <span>Trang ${String(PG+1).padStart(2,'0')} / ${PAGES.length}</span></div>
