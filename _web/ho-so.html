@@ -200,6 +200,12 @@ a{color:var(--ind)}
  color:var(--fnt);margin-bottom:11px}
 .ch{width:100%;height:auto;display:block;overflow:visible}
 .cl-ax{font-family:var(--mono);font-size:10px;fill:var(--ink);font-weight:700}
+/* Rê chuột lên một dòng biểu đồ: dòng đó nổi lên, các dòng khác mờ đi.
+   Chú giải đầy đủ do thẻ <title> trong SVG lo — trình duyệt tự hiện. */
+.ch .vrow{cursor:default}
+.ch .vrow:hover rect:first-of-type{fill:var(--pp3)}
+.ch:hover .vrow{opacity:.45;transition:opacity .12s}
+.ch:hover .vrow:hover{opacity:1}
 .cl-sm{font-family:var(--mono);font-size:9.5px;fill:var(--mut)}
 .cl-tn{font-family:var(--mono);font-size:8.5px;fill:var(--fnt)}
 .cl-lb{font-family:var(--body);font-size:11px;fill:var(--ink)}
@@ -448,14 +454,15 @@ function chCols(items,w=440,h=170,color='--cl'){
  items.forEach((it,i)=>{
   const bh=ih*it.v/mx, x=pad.l+bw*i+bw*.16, bwid=bw*.68;
   const y=pad.t+ih-bh;
-  g+=`<rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${bwid.toFixed(1)}"
+  g+=`<g class="vrow"><title>${it.k} — ${it.v}${it.tip?' · '+it.tip:''}</title>
+   <rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${bwid.toFixed(1)}"
     height="${Math.max(1,bh).toFixed(1)}" rx="2" fill="var(${it.hi?'--ac':color})"
     fill-opacity="${it.hi?'.34':'.2'}" stroke="var(${it.hi?'--ac':color})"
     stroke-width="${it.hi?1.4:1}"/>
    <text x="${(x+bwid/2).toFixed(1)}" y="${(y-4).toFixed(1)}" text-anchor="middle"
     class="cl-sm" fill="var(${it.hi?'--ac':'--mt'})">${it.v}</text>
    <text x="${(x+bwid/2).toFixed(1)}" y="${(h-pad.b+14).toFixed(1)}" text-anchor="middle"
-    class="cl-tn">${it.k}</text>`;
+    class="cl-tn">${it.k}</text></g>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img" aria-label="Phân bố">${g}</svg>`;
 }
@@ -470,7 +477,9 @@ function chBars(items,w=460,color='--cl'){
  let g='';
  items.forEach((it,i)=>{
   const y=pad.t+rh*i, bw=iw*it.v/mx;
-  g+=`<text x="${pad.l-10}" y="${(y+16).toFixed(1)}" text-anchor="end"
+  g+=`<g class="vrow"><title>${it.k} · ${it.lb}</title>
+   <rect x="0" y="${(y+2).toFixed(1)}" width="${w}" height="${rh-4}" fill="transparent"/>
+   <text x="${pad.l-10}" y="${(y+16).toFixed(1)}" text-anchor="end"
     class="cl-lb">${it.k}</text>
    <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${iw}" height="14" rx="2"
     fill="var(--hd)"/>
@@ -478,7 +487,7 @@ function chBars(items,w=460,color='--cl'){
     height="14" rx="2" fill="var(${it.hi?'--ac':color})" fill-opacity="${it.hi?'.32':'.18'}"
     stroke="var(${it.hi?'--ac':color})" stroke-width="${it.hi?1.4:1}"/>
    <text x="${(pad.l+iw+8).toFixed(1)}" y="${(y+16).toFixed(1)}" class="cl-sm"
-    fill="var(${it.hi?'--ac':'--mt'})">${it.lb}</text>`;
+    fill="var(${it.hi?'--ac':'--mt'})">${it.lb}</text></g>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img" aria-label="Bảng xếp hạng">${g}</svg>`;
 }
@@ -524,9 +533,12 @@ function chScatter(pts,w=520,h=300){
   const x=sx(p.x), y=sy(p.y);
   const c=p.rec?'--up':p.avoid?'--dn':'--cl';
   const r=p.rec||p.avoid?5.5:4;
-  g+=`<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r}" fill="var(${c})"
+  g+=`<g class="vrow"><title>${p.name||p.lb||'chủ đề'} — ${
+    p.x.toFixed(2).replace('.',',')}% video đang làm · hiệu quả ${
+    p.y.toFixed(2).replace('.',',')}×${p.rec?' · NÊN THỬ':p.avoid?' · NÊN TRÁNH':''}</title>
+   <circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r}" fill="var(${c})"
     fill-opacity="${p.rec||p.avoid?'.4':'.2'}" stroke="var(${c})"
-    stroke-width="${p.rec||p.avoid?1.8:1.2}"/>`;
+    stroke-width="${p.rec||p.avoid?1.8:1.2}"/></g>`;
   if(p.lb) g+=`<text x="${(x+8).toFixed(1)}" y="${(y+3.5).toFixed(1)}" class="cl-tn"
     fill="var(${c})">${p.lb}</text>`;
  });
@@ -553,7 +565,11 @@ function chDiverge(items,w=540){
  items.forEach((it,i)=>{
   const y=pad.t+rh*i;
   const bl=Math.max(2,lw*it.l/mxL), br=Math.max(2,rw*it.r/mxR);
-  g+=`<rect x="${(lEnd-bl).toFixed(1)}" y="${(y+5).toFixed(1)}" width="${bl.toFixed(1)}"
+  g+=`<g class="vrow"><title>"${it.w}" — khán giả viết ${
+    it.l.toLocaleString('de-DE')} lần, chỉ ${it.r} tiêu đề dùng · chênh ${
+    Math.round(it.ratio)} lần</title>
+   <rect x="0" y="${(y+2).toFixed(1)}" width="${w}" height="${rh-4}" fill="transparent"/>
+   <rect x="${(lEnd-bl).toFixed(1)}" y="${(y+5).toFixed(1)}" width="${bl.toFixed(1)}"
     height="15" rx="2" fill="var(--cl)" fill-opacity=".2" stroke="var(--cl)" stroke-width="1"/>
    <text x="${(lEnd-bl-6).toFixed(1)}" y="${(y+16.5).toFixed(1)}" text-anchor="end"
     class="cl-sm">${it.l.toLocaleString('de-DE')}</text>
@@ -563,7 +579,7 @@ function chDiverge(items,w=540){
     height="15" rx="2" fill="var(--ac)" fill-opacity=".3" stroke="var(--ac)" stroke-width="1.2"/>
    <text x="${(rStart+br+6).toFixed(1)}" y="${(y+16.5).toFixed(1)}" class="cl-sm">${it.r}</text>
    <text x="${(w-6)}" y="${(y+16.5).toFixed(1)}" text-anchor="end" class="cl-sm"
-    fill="var(--ac)" style="font-weight:700">${Math.round(it.ratio)}×</text>`;
+    fill="var(--ac)" style="font-weight:700">${Math.round(it.ratio)}×</text></g>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img"
    aria-label="Khoảng cách ngôn ngữ">${g}</svg>`;
@@ -624,7 +640,10 @@ function chRange(items,w=460){
   const lo=it.lo, hi=it.hi, tg=it.tg;
   const span=(hi-lo)||1;
   const fx=v=>pad.l+iw*(v-lo)/span;
-  g+=`<text x="${pad.l-9}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-lb">${it.k}</text>
+  g+=`<g class="vrow"><title>${it.k} — từ ${it.lot} đến ${it.hit}${
+    it.tgt?' · mục tiêu '+it.tgt:''}</title>
+   <rect x="0" y="${(y+2).toFixed(1)}" width="${w}" height="${rh-4}" fill="transparent"/>
+   <text x="${pad.l-9}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-lb">${it.k}</text>
    <line x1="${pad.l}" y1="${(y+13).toFixed(1)}" x2="${(pad.l+iw).toFixed(1)}"
     y2="${(y+13).toFixed(1)}" stroke="var(--ln2)" stroke-width="1"/>
    <rect x="${pad.l}" y="${(y+9).toFixed(1)}" width="${iw}" height="8" rx="4"
@@ -638,36 +657,41 @@ function chRange(items,w=460){
     <text x="${(w-pad.r+7)}" y="${(y+17).toFixed(1)}" class="cl-sm"
      fill="var(--ac)" style="font-weight:700">${it.tgt}</text>`;
   }
+  g+=`</g>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img" aria-label="Dải tham số">${g}</svg>`;
 }
 
 /* ── 10. CỘT NGANG XẾP HẠNG có nhãn phán quyết ── */
-function chVerdict(items,w=560){
- // BA cột cố định, không cho tràn vào nhau:
- //   nhãn (trái) · thanh · số · phán quyết (phải)
- // Bản trước để số và phán quyết cách nhau 2px nên trông như chồng chữ.
- const rh=27, CUT=30;
- const NUMW=62, VDW=76;                 // bề rộng dành riêng cho số và phán quyết
- const pad={l:214,t:8,b:6};
- const iw=w-pad.l-NUMW-VDW-16;          // vùng thanh, đã trừ hai cột phải
+function chVerdict(items,w=640){
+ // Cột nhãn TỰ CO GIÃN theo nhãn dài nhất — không cắt chữ nữa.
+ // Bản trước cắt ở 30 ký tự, «Chưa từng nghe thứ gì như thế» thành «…như th…»
+ // trông như lỗi phông chứ không như chủ đích.
+ const rh=27, NUMW=62, VDW=76;
+ const maxCh=Math.max(...items.map(i=>i.k.length));
+ const labW=Math.min(300,Math.max(150,maxCh*6.6+14));
+ const pad={l:labW,t:8,b:6};
+ const iw=Math.max(90,w-pad.l-NUMW-VDW-16);
  const h=pad.t+pad.b+rh*items.length;
  const mx=Math.max(...items.map(i=>i.v))||1;
- const numX=pad.l+iw+8;                 // số bắt đầu ngay sau thanh
+ const numX=pad.l+iw+8;
  let g='';
  items.forEach((it,i)=>{
   const y=pad.t+rh*i, bw=Math.max(2,iw*it.v/mx);
   // ba trạng thái phán quyết, KHÔNG gộp «bác bỏ» vào nhánh mặc định:
   //   XÁC NHẬN = có tác dụng · YẾU = mẫu nhỏ chưa kết luận · BÁC BỎ = không có tác dụng
   const c=it.ok?'--up':it.weak?'--ac':it.bad?'--dn':'--mt';
-  const lb=it.k.length>CUT?it.k.slice(0,CUT-1)+'…':it.k;
-  g+=`<text x="${pad.l-10}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-lb">${lb}</text>
+  // <title> = chú giải trình duyệt tự hiện khi rê chuột, đọc được cả nội dung đầy đủ
+  const tip=`${it.k} · ${it.lb}${it.vd?' · '+it.vd:''}${it.tip?' — '+it.tip:''}`;
+  g+=`<g class="vrow"><title>${tip}</title>
+   <rect x="0" y="${(y+2).toFixed(1)}" width="${w}" height="${rh-4}" fill="transparent"/>
+   <text x="${pad.l-10}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-lb">${it.k}</text>
    <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${iw}" height="14" rx="2" fill="var(--hd)"/>
    <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${bw.toFixed(1)}" height="14" rx="2"
     fill="var(${c})" fill-opacity=".26" stroke="var(${c})" stroke-width="1.1"/>
    <text x="${numX.toFixed(1)}" y="${(y+16).toFixed(1)}" class="cl-sm">${it.lb}</text>
    <text x="${w-6}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-tn"
-    fill="var(${c})" style="font-weight:700">${it.vd||''}</text>`;
+    fill="var(${c})" style="font-weight:700">${it.vd||''}</text></g>`;
  });
  return `<svg viewBox="0 0 ${w} ${h}" class="ch" role="img" aria-label="Xếp hạng có phán quyết">${g}</svg>`;
 }
@@ -872,7 +896,8 @@ const PAGES=[
      lệch cao.<span class="qm" data-h="age">?</span></div></div>
    ${fig('Hình 5 · Phân bố tuổi tự khai',
     chCols(['13-29','30-44','45-59','60-74','75+'].map(k=>
-     ({k,v:AG.dist[k]||0,hi:k==='60-74'}))),
+     ({k,v:AG.dist[k]||0,hi:k==='60-74',
+       tip:dc((AG.dist[k]||0)/AG.n*100,0)+'% số người tự khai tuổi'}))),
     `n = ${AG.n} người · từ ${AG.min} đến ${AG.max} tuổi, trung bình ${dc(AG.mean,0)}.
      Nhóm 60–74 chiếm ${dc((AG.dist['60-74']||0)/AG.n*100,0)}% số người khai.`)}
    ${fig('Hình 6 · Nghe trong bối cảnh nào',
@@ -935,7 +960,7 @@ PAGES.push(
     <span class="qm" data-h="theme">?</span></p>
    ${fig('Hình 9 · Bản đồ 16 chủ đề',
     chScatter(P.themes.map(t=>({x:t.sh,y:t.lift,lb:(rec.has(t.t)||avo.has(t.t))?t.t:'',
-     rec:rec.has(t.t),avoid:avo.has(t.t)})),700,320),
+     name:t.t,rec:rec.has(t.t),avoid:avo.has(t.t)})),700,320),
     `Vùng xanh góc trái trên là cơ hội: ít video làm mà hiệu quả cao. Đường đứt ngang
      là mốc «ngang mặt bằng» — chấm dưới đường nghĩa là làm chủ đề đó <b>kém hơn</b>
      không làm.`)}
