@@ -397,8 +397,10 @@ function chRadar(axes,size=250){
 function chLadder(score,tiers,pen,w=520){
  // Trên nền GIẤY: dùng viền + nền rất nhạt cho vùng bậc, và thanh điểm để MỞ
  // (viền đậm, ruột nhạt) — bản cũ tô đặc nên in ra thành một khối đen.
- const H=86, pad=10, max=20, sx=v=>pad+(w-pad*2)*v/max;
- const BY=26, BH=22;
+ // Hai nhãn trên thanh (điểm hiện tại và phần gỡ được) từng đặt cùng y=18 nên
+ // đè nhau 81px. Tách thành hai dòng: điểm ở trên, phần gỡ được ở dưới sát thanh.
+ const H=96, pad=10, max=20, sx=v=>pad+(w-pad*2)*v/max;
+ const BY=36, BH=22;
  let g=`<rect x="${pad}" y="${BY}" width="${w-pad*2}" height="${BH}" rx="3"
    fill="var(--hd)" stroke="var(--ln2)" stroke-width="1"/>`;
  // vạch ngưỡng + nhãn bậc
@@ -414,16 +416,16 @@ function chLadder(score,tiers,pen,w=520){
   g+=`<rect x="${sx(score).toFixed(1)}" y="${BY}" width="${(sx(to)-sx(score)).toFixed(1)}"
     height="${BH}" fill="var(--up)" fill-opacity=".16" stroke="var(--up)"
     stroke-width="1.2" stroke-dasharray="4 3"/>
-   <text x="${((sx(score)+sx(to))/2).toFixed(1)}" y="${BY-8}" text-anchor="middle"
-    class="cl-sm" fill="var(--up)" style="font-weight:700">+${Math.abs(pen)} nếu gỡ phạt</text>`;
+   <text x="${((sx(score)+sx(to))/2).toFixed(1)}" y="${BY-7}" text-anchor="middle"
+    class="cl-tn" fill="var(--up)" style="font-weight:700">+${Math.abs(pen)} nếu gỡ phạt</text>`;
  }
  // điểm hiện tại: ruột nhạt + viền đậm, đọc được trên giấy
  g+=`<rect x="${pad}" y="${BY}" width="${(sx(score)-pad).toFixed(1)}" height="${BH}" rx="3"
    fill="var(--ac)" fill-opacity=".3" stroke="var(--ac)" stroke-width="1.2"/>
   <line x1="${sx(score).toFixed(1)}" y1="${BY-4}" x2="${sx(score).toFixed(1)}" y2="${BY+BH+4}"
    stroke="var(--ac)" stroke-width="2.5"/>
-  <text x="${sx(score).toFixed(1)}" y="${BY-8}" text-anchor="${score>max*.7?'end':'middle'}"
-   class="cl-sm" fill="var(--ac)" style="font-weight:700">${String(score).replace('.',',')}</text>`;
+  <text x="${sx(score).toFixed(1)}" y="${BY-21}" text-anchor="${score>max*.72?'end':'middle'}"
+   class="cl-sm" fill="var(--ac)" style="font-weight:700">${String(score).replace('.',',')} điểm</text>`;
  return `<svg viewBox="0 0 ${w} ${H}" class="ch" role="img"
    aria-label="Đường tới bậc trên">${g}</svg>`;
 }
@@ -641,23 +643,29 @@ function chRange(items,w=460){
 }
 
 /* ── 10. CỘT NGANG XẾP HẠNG có nhãn phán quyết ── */
-function chVerdict(items,w=470){
- // Nhãn tiếng Việt có ngoặc kép «» dài hơn hẳn — 150px cũ làm nhãn tràn trái 37px.
- const rh=27, pad={l:218,r:104,t:8,b:6};
- const CUT=30;   // cắt nhãn dài hơn mức này, thêm dấu …
+function chVerdict(items,w=560){
+ // BA cột cố định, không cho tràn vào nhau:
+ //   nhãn (trái) · thanh · số · phán quyết (phải)
+ // Bản trước để số và phán quyết cách nhau 2px nên trông như chồng chữ.
+ const rh=27, CUT=30;
+ const NUMW=62, VDW=76;                 // bề rộng dành riêng cho số và phán quyết
+ const pad={l:214,t:8,b:6};
+ const iw=w-pad.l-NUMW-VDW-16;          // vùng thanh, đã trừ hai cột phải
  const h=pad.t+pad.b+rh*items.length;
- const iw=w-pad.l-pad.r;
  const mx=Math.max(...items.map(i=>i.v))||1;
+ const numX=pad.l+iw+8;                 // số bắt đầu ngay sau thanh
  let g='';
  items.forEach((it,i)=>{
   const y=pad.t+rh*i, bw=Math.max(2,iw*it.v/mx);
-  const c=it.ok?'--up':it.bad?'--dn':'--cl';
+  // ba trạng thái phán quyết, KHÔNG gộp «bác bỏ» vào nhánh mặc định:
+  //   XÁC NHẬN = có tác dụng · YẾU = mẫu nhỏ chưa kết luận · BÁC BỎ = không có tác dụng
+  const c=it.ok?'--up':it.weak?'--ac':it.bad?'--dn':'--mt';
   const lb=it.k.length>CUT?it.k.slice(0,CUT-1)+'…':it.k;
   g+=`<text x="${pad.l-10}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-lb">${lb}</text>
    <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${iw}" height="14" rx="2" fill="var(--hd)"/>
    <rect x="${pad.l}" y="${(y+5).toFixed(1)}" width="${bw.toFixed(1)}" height="14" rx="2"
     fill="var(${c})" fill-opacity=".26" stroke="var(${c})" stroke-width="1.1"/>
-   <text x="${(pad.l+iw+8).toFixed(1)}" y="${(y+16).toFixed(1)}" class="cl-sm">${it.lb}</text>
+   <text x="${numX.toFixed(1)}" y="${(y+16).toFixed(1)}" class="cl-sm">${it.lb}</text>
    <text x="${w-6}" y="${(y+16).toFixed(1)}" text-anchor="end" class="cl-tn"
     fill="var(${c})" style="font-weight:700">${it.vd||''}</text>`;
  });
@@ -822,12 +830,15 @@ const PAGES=[
     chVerdict([...P.pain].sort((a,b)=>b.lk-a.lk).slice(0,6).map(x=>{
      const t=P.sig.find(s=>s.s===x.k);
      return {k:PAINVI[x.k]||x.k,v:x.lk,lb:dc(x.lk,0)+' like',vd:t?t.v:'',
-       ok:t&&t.v==='XÁC NHẬN',bad:t&&t.v==='YẾU'}}),470),
+       ok:t&&t.v==='XÁC NHẬN',weak:t&&t.v==='YẾU',bad:t&&t.v==='BÁC BỎ'}})),
     `Thanh dài = bình luận được nhiều like hơn, tức nhiều người khác cũng thấy đúng.
-     <b>XÁC NHẬN</b> nghĩa là chênh lệch đã qua kiểm định thống kê;
-     <b>YẾU</b> là cỡ mẫu quá nhỏ để kết luận — có ${
-       P.sig.filter(s=>s.v==='YẾU').length} tín hiệu như vậy, ghi lại để không ai
-     dùng nhầm làm bằng chứng.`)}
+     Ba mức phán quyết, đọc kỹ vì chúng khác nhau hẳn:
+     <b style="color:var(--pos)">XÁC NHẬN</b> — chênh lệch đã qua kiểm định thống kê,
+     dùng làm căn cứ được (${P.sig.filter(s=>s.v==='XÁC NHẬN').length} tín hiệu).
+     <b style="color:var(--warn)">YẾU</b> — có dấu hiệu nhưng mẫu quá nhỏ để chắc
+     (${P.sig.filter(s=>s.v==='YẾU').length} tín hiệu).
+     <b style="color:var(--neg)">BÁC BỎ</b> — kiểm định cho thấy <b>không có tác dụng</b>,
+     đừng dùng (${P.sig.filter(s=>s.v==='BÁC BỎ').length} tín hiệu).`)}
    <p>Cảm xúc mạnh nhất là <b>«đã tìm được thứ tìm lâu rồi»</b>. Đó là cảm xúc nên
     nhắm khi đặt tiêu đề — không phải mô tả nhạc hay thế nào, mà mô tả
     <b>cảm giác khi tìm thấy</b>.</p>
