@@ -1,0 +1,518 @@
+{
+ "track_id": "bcNWg9ca92Y#05",
+ "track_key": "bcNWg9ca92Y__05",
+ "video_id": "bcNWg9ca92Y",
+ "title": "Closer To The Heart Of God",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 327.0,
+ "voiced_sec": 178.4,
+ "voice_ratio": 0.546,
+ "n_words": 426,
+ "words_per_min": 78.2,
+ "is_instrumental": false,
+ "n_segments": 62,
+ "n_segments_voiced": 48,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 62.3,
+ "rtf": 0.191,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.98,
+   "text": "Love, fall at the cross",
+   "avg_logprob": -1.067,
+   "no_speech_prob": 0.483,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 24.34,
+   "end": 32.18,
+   "text": "Take me closer to love, yeah, yeah, yeah",
+   "avg_logprob": -0.927,
+   "no_speech_prob": 0.825,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 38.66,
+   "end": 40.34,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 47.04,
+   "end": 49.72,
+   "text": "I've been running through the shadows",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 51.2,
+   "end": 54.34,
+   "text": "Trying to find my way back home",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 55.8,
+   "end": 58.78,
+   "text": "But every step I take, Lord",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 59.98,
+   "end": 63.5,
+   "text": "I feel you pulling at my soul",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 64.42,
+   "end": 66.86,
+   "text": "You whisper in the quiet",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 68.14,
+   "end": 71.8,
+   "text": "You calm the fear inside my chest",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 73.0,
+   "end": 75.56,
+   "text": "You call me to surrender",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 77.5,
+   "end": 80.32,
+   "text": "To lay my burdens down in red",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 82.06,
+   "end": 84.28,
+   "text": "Lord, You know my heart",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 84.28,
+   "end": 86.8,
+   "text": "You see every broken part",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 86.8,
+   "end": 88.92,
+   "text": "Draw me deeper in Your love",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 88.92,
+   "end": 91.04,
+   "text": "Leave me where the healing starts",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.774,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 91.04,
+   "end": 95.12,
+   "text": "Take me closer to the heart of God",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.882,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 96.04,
+   "end": 99.4,
+   "text": "When mercy flows like a river, why?",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.882,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 100.92,
+   "end": 103.14,
+   "text": "Closer to the heart of God",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.882,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 103.14,
+   "end": 107.4,
+   "text": "Where every tear is washed, everyone is healed inside",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.882,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 108.04,
+   "end": 110.44,
+   "text": "Hold me in your arms Lord",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.882,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 110.44,
+   "end": 112.84,
+   "text": "Grab me in your endless love",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.882,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 112.84,
+   "end": 116.86,
+   "text": "I wanna live my life forever",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.882,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 118.84,
+   "end": 123.06,
+   "text": "Closer, closer, closer to the heart of God",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.909,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 124.82,
+   "end": 127.66,
+   "text": "When the storms of life surround me",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.909,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 129.14,
+   "end": 132.02,
+   "text": "You are still my hiding place",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.909,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 133.6,
+   "end": 136.4,
+   "text": "Even when I lose my footing",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.909,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 137.46,
+   "end": 141.02,
+   "text": "Your grace is there to take its place",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.909,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 142.32,
+   "end": 144.68,
+   "text": "You lift me when I'm falling",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.909,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 145.98,
+   "end": 149.34,
+   "text": "You strengthen me when I am weak",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 150.78,
+   "end": 153.66,
+   "text": "You're the peace that I am craving",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 154.7,
+   "end": 158.8,
+   "text": "The love my soul will always see",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 159.92,
+   "end": 161.92,
+   "text": "Lord, You know my dream",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 161.92,
+   "end": 164.52,
+   "text": "You hold every part of me",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 164.52,
+   "end": 166.72,
+   "text": "Pull me nearer to Your throne",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 166.72,
+   "end": 169.3,
+   "text": "Where my spirit can't be free",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 169.3,
+   "end": 172.92,
+   "text": "Take me closer to the body of God",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.831,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 172.92,
+   "end": 177.14,
+   "text": "Where mercy flows like a river wide",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 178.38,
+   "end": 180.78,
+   "text": "Closer to the heart of God",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 180.78,
+   "end": 185.18,
+   "text": "Where all my fears fade into perfect light",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 185.92,
+   "end": 188.22,
+   "text": "Pull me in your arms Lord",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 188.22,
+   "end": 190.62,
+   "text": "Grab me in your endless love",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 190.62,
+   "end": 194.7,
+   "text": "I wanna spend my life forever",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 195.98,
+   "end": 198.24,
+   "text": "Closer to the heart of God",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 203.48,
+   "end": 208.24,
+   "text": "Draw me nearer, nearer, love, nearer to your presence",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 208.24,
+   "end": 211.92,
+   "text": "Never deeper, stiffer, still, into your comparison",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 212.78,
+   "end": 217.0,
+   "text": "Let my heartbeat match your heartbeat, let my life reflect your love",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 217.0,
+   "end": 222.24,
+   "text": "I'm reaching out with all I have for the heart of God above",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 225.68,
+   "end": 233.6,
+   "text": "Take it closer to the heart But mercy flows like healing rain",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 234.24,
+   "end": 240.3,
+   "text": "Close it to the heart of God Where broken spirits rise again",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 241.88,
+   "end": 246.88,
+   "text": "Hold me in your arms, love Keep me in your perfect love",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.744,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 246.88,
+   "end": 251.86,
+   "text": "Every breath I take I wanna need a little closer",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 251.86,
+   "end": 253.78,
+   "text": "Closer to the heart",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 253.78,
+   "end": 259.2,
+   "text": "Closer to the heart of God",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 268.42,
+   "end": 273.88,
+   "text": "Closer to the heart of God",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 273.88,
+   "end": 277.42,
+   "text": "Every tear is washed, every wound is healed inside",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.383,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 277.42,
+   "end": 282.98,
+   "text": "Hold me in your arms, oh, keep me in your perfect love",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.383,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 283.98,
+   "end": 291.48,
+   "text": "Oh, oh, every breath I take, I wanna be closer to the heart of God",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.383,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 291.48,
+   "end": 295.46,
+   "text": "Closer, closer, closer",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.383,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 299.84,
+   "end": 302.68,
+   "text": "Oh, uh oh oh",
+   "avg_logprob": -2.362,
+   "no_speech_prob": 0.437,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 309.46,
+   "end": 312.78,
+   "text": "Crossover closing on",
+   "avg_logprob": -2.362,
+   "no_speech_prob": 0.437,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 318.96,
+   "end": 321.32,
+   "text": "Oh, uh oh",
+   "avg_logprob": -2.362,
+   "no_speech_prob": 0.437,
+   "track_id": "bcNWg9ca92Y#05"
+  },
+  {
+   "start": 325.54,
+   "end": 326.94,
+   "text": "you",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.867,
+   "track_id": "bcNWg9ca92Y#05"
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "track_id": "eD2IMkcreEI#14",
+ "track_key": "eD2IMkcreEI__14",
+ "video_id": "eD2IMkcreEI",
+ "title": "Near Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 239.0,
+ "voiced_sec": 172.0,
+ "voice_ratio": 0.72,
+ "n_words": 193,
+ "words_per_min": 48.5,
+ "is_instrumental": false,
+ "n_segments": 21,
+ "n_segments_voiced": 21,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 18.8,
+ "rtf": 0.079,
+ "segments": [
+  {
+   "start": 30.74,
+   "end": 41.98,
+   "text": "In the quiet of the morning light When I'm searching for what feels right",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.72,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 46.0,
+   "end": 56.1,
+   "text": "There's a whisper that calms my fear A gentle voice that says I'm here",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.72,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 58.58,
+   "end": 66.1,
+   "text": "When the world fades away, you're the strength in my day",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.755,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 67.78,
+   "end": 74.58,
+   "text": "Be near me, Lord, don't ever go",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.755,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 76.3,
+   "end": 81.26,
+   "text": "I need you more than you could know",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.755,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 81.26,
+   "end": 85.96,
+   "text": "You're the breath inside my soul",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.717,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 85.96,
+   "end": 94.44,
+   "text": "Give me, give me, Lord, make me whole",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.717,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 94.44,
+   "end": 95.54,
+   "text": "Oh",
+   "avg_logprob": -0.401,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 104.34,
+   "end": 110.24,
+   "text": "Go through the fire, through the storm",
+   "avg_logprob": -0.401,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 110.24,
+   "end": 116.48,
+   "text": "You've been my shelter, safe and warm",
+   "avg_logprob": -0.401,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 118.52,
+   "end": 130.54,
+   "text": "I'm not afraid of what may come You're my forever, You're my song",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 132.4,
+   "end": 141.56,
+   "text": "Even in the darkest night You are my guiding light",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.731,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 141.56,
+   "end": 149.14,
+   "text": "Be near me, Lord, don't ever leave",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.731,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 150.54,
+   "end": 157.18,
+   "text": "You hold the tears I never speak You know my heart",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.731,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 157.18,
+   "end": 167.4,
+   "text": "You see my need be near me Lord, stay close to me",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 170.92,
+   "end": 179.6,
+   "text": "I don't need the world's applause I just wanna feel your love",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 179.6,
+   "end": 190.56,
+   "text": "I don't need a thousand things I just want the King of kings",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.549,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 190.56,
+   "end": 203.34,
+   "text": "To be near, be near Lord, forever stay",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.549,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 203.34,
+   "end": 214.2,
+   "text": "Walk beside me every day You're my Savior, you're my peace",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.734,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 214.2,
+   "end": 223.06,
+   "text": "Be near me Lord, that's all I need",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.734,
+   "track_id": "eD2IMkcreEI#14"
+  },
+  {
+   "start": 226.64,
+   "end": 233.84,
+   "text": "Just be near me Lord",
+   "avg_logprob": -0.932,
+   "no_speech_prob": 0.482,
+   "track_id": "eD2IMkcreEI#14"
+  }
+ ]
+}

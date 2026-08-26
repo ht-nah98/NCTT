@@ -1,0 +1,334 @@
+{
+ "track_id": "lKk3O0goUrA#08",
+ "track_key": "lKk3O0goUrA__08",
+ "video_id": "lKk3O0goUrA",
+ "title": "You Carry Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 310.0,
+ "voiced_sec": 223.7,
+ "voice_ratio": 0.722,
+ "n_words": 251,
+ "words_per_min": 48.6,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 39,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.6,
+ "rtf": 0.041,
+ "segments": [
+  {
+   "start": 7.7,
+   "end": 19.74,
+   "text": "Smooth peep, light drums, yeah, it carried me",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.581,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 24.22,
+   "end": 32.72,
+   "text": "When I was lost and couldn't see You came and rescued me",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.635,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 34.22,
+   "end": 42.86,
+   "text": "When I was broken down on my knees Your mercy lifted me",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.635,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 44.9,
+   "end": 49.12,
+   "text": "Every valley you walked me through",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.426,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 49.86,
+   "end": 53.46,
+   "text": "Every storm, Lord, I found you",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.426,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 54.68,
+   "end": 59.3,
+   "text": "Now I stand with my hands held high",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.426,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 59.86,
+   "end": 64.44,
+   "text": "Cause you gave me a brand new life",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.426,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 66.28,
+   "end": 69.44,
+   "text": "You never left me alone",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.426,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 69.44,
+   "end": 72.46,
+   "text": "Never left me",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 76.14,
+   "end": 80.16,
+   "text": "You've been faithful through it all",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 80.16,
+   "end": 82.18,
+   "text": "Hallelujah",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 86.78,
+   "end": 91.5,
+   "text": "Every step that I take",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 91.5,
+   "end": 100.2,
+   "text": "Lord is a you who makes a way",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.614,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 101.66,
+   "end": 104.42,
+   "text": "You carried me",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.614,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 104.42,
+   "end": 110.2,
+   "text": "Oh, You carried me",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.614,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 112.68,
+   "end": 119.72,
+   "text": "When I had no strength to stand",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.614,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 119.72,
+   "end": 129.92,
+   "text": "You carried me, yeah You're my shelter, my victory",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.599,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 133.72,
+   "end": 139.88,
+   "text": "Jesus, you carried me",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.599,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 143.58,
+   "end": 148.68,
+   "text": "When the weight of the world was pressing in",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.67,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 149.88,
+   "end": 153.56,
+   "text": "You gave me hope to rise again",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.67,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 154.88,
+   "end": 158.94,
+   "text": "Even when I doubted who I was",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.67,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 158.94,
+   "end": 163.8,
+   "text": "You reminded me of your great love",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.67,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 163.8,
+   "end": 172.84,
+   "text": "Now I live with a song to sing To the Word who gave me everything",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.447,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 175.48,
+   "end": 185.46,
+   "text": "Lord my life will always be A testimony to Your mercy You carried me",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.447,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 185.46,
+   "end": 191.22,
+   "text": "Oh, You carried me",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.176,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 194.46,
+   "end": 201.32,
+   "text": "When I had no strength to stand",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.176,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 201.32,
+   "end": 204.2,
+   "text": "You carried me",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.176,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 204.2,
+   "end": 211.04,
+   "text": "You're my shelter, my victory",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.176,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 213.94,
+   "end": 220.96,
+   "text": "Jesus, you carried me",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.667,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 224.2,
+   "end": 228.98,
+   "text": "Through the fire, you carried me",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.667,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 228.98,
+   "end": 234.5,
+   "text": "Through the storm, you carried me",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.667,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 234.5,
+   "end": 239.48,
+   "text": "Every trial, every pain",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.371,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 239.48,
+   "end": 243.9,
+   "text": "Oh, you carried me through the rain",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.371,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 244.5,
+   "end": 246.42,
+   "text": "You carried me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.371,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 246.42,
+   "end": 252.32,
+   "text": "Oh, you carried me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.371,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 255.5,
+   "end": 261.8,
+   "text": "When I had no strength to stand",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.371,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 261.8,
+   "end": 271.92,
+   "text": "You carried me, yeah You're my shelter, my victory",
+   "avg_logprob": -0.506,
+   "no_speech_prob": 0.563,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 274.7,
+   "end": 281.92,
+   "text": "Jesus, You carried me",
+   "avg_logprob": -0.506,
+   "no_speech_prob": 0.563,
+   "track_id": "lKk3O0goUrA#08"
+  },
+  {
+   "start": 294.48,
+   "end": 297.16,
+   "text": "Yeah, you carried me",
+   "avg_logprob": -0.798,
+   "no_speech_prob": 0.573,
+   "track_id": "lKk3O0goUrA#08"
+  }
+ ]
+}

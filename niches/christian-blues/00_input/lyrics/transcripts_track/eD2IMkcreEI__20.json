@@ -1,0 +1,510 @@
+{
+ "track_id": "eD2IMkcreEI#20",
+ "track_key": "eD2IMkcreEI__20",
+ "video_id": "eD2IMkcreEI",
+ "title": "House of The Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 333.0,
+ "voiced_sec": 186.0,
+ "voice_ratio": 0.558,
+ "n_words": 300,
+ "words_per_min": 54.1,
+ "is_instrumental": false,
+ "n_segments": 61,
+ "n_segments_voiced": 54,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 47.8,
+ "rtf": 0.143,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 31.5,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 31.5,
+   "end": 35.86,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 35.86,
+   "end": 38.12,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 38.12,
+   "end": 38.76,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 38.76,
+   "end": 39.46,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 39.46,
+   "end": 40.18,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 40.18,
+   "end": 42.44,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 42.44,
+   "end": 43.2,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 43.2,
+   "end": 46.22,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 46.22,
+   "end": 48.92,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 48.92,
+   "end": 50.68,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 50.68,
+   "end": 51.86,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 51.86,
+   "end": 54.04,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 54.04,
+   "end": 59.9,
+   "text": "In your house though",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 71.02,
+   "end": 72.42,
+   "text": "You",
+   "avg_logprob": -0.908,
+   "no_speech_prob": 0.849,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 92.34,
+   "end": 95.14,
+   "text": "Ooh, yeah",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.792,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 97.9,
+   "end": 103.0,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.792,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 105.6,
+   "end": 110.62,
+   "text": "When the storm shakes my soul",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.792,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 111.9,
+   "end": 114.38,
+   "text": "And the night feels long",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.792,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 114.38,
+   "end": 118.82,
+   "text": "I lift my eyes to the heavens",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.792,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 118.82,
+   "end": 121.52,
+   "text": "Where my health comes from",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 122.82,
+   "end": 124.76,
+   "text": "The King eternal",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 126.36,
+   "end": 129.24,
+   "text": "Clothing glory and life",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 129.82,
+   "end": 132.46,
+   "text": "Forever His throne stands",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 132.46,
+   "end": 136.88,
+   "text": "Forever He reigns in mine",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 137.82,
+   "end": 141.6,
+   "text": "Every battle, every tear I've cried",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 141.6,
+   "end": 145.54,
+   "text": "You've been faithful standing by my side",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 145.54,
+   "end": 149.4,
+   "text": "When I was broken, you healed my pain",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 149.4,
+   "end": 153.14,
+   "text": "Jesus, my Savior, forever you reign",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 156.2,
+   "end": 159.06,
+   "text": "Jesus, reigns forever",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 159.06,
+   "end": 162.52,
+   "text": "High upon the throne",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 163.56,
+   "end": 167.46,
+   "text": "King of kings and Lord of lords",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 167.46,
+   "end": 170.26,
+   "text": "You will never be overthrown",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 170.26,
+   "end": 171.9,
+   "text": "Hallelujah",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 171.9,
+   "end": 178.04,
+   "text": "Hallelujah, Hallelujah to the Lamb that was slain",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.847,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 178.04,
+   "end": 184.02,
+   "text": "Oh, creation, lipstick and the Jesus' rain",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.847,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 184.02,
+   "end": 186.0,
+   "text": "Oh, evermore",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.847,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 194.36,
+   "end": 199.04,
+   "text": "Through the fire, you carried me through",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.847,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 199.04,
+   "end": 206.7,
+   "text": "Grace and ending mercy brand new Heaven's chorus sings out your name",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.805,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 206.7,
+   "end": 217.44,
+   "text": "Jesus the victor forever you reign Jesus reigns forever higher",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.805,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 217.44,
+   "end": 224.88,
+   "text": "High upon the throne, oh, King of kings and Lord of lords",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.675,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 224.88,
+   "end": 231.38,
+   "text": "You will never be overthrown Hallelujah, hallelujah",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.675,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 231.38,
+   "end": 237.48,
+   "text": "To the Lamb that was slain, all creation",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.675,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 237.48,
+   "end": 244.56,
+   "text": "Lift the anthem of Jesus' reign Forevermore",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.675,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 248.84,
+   "end": 251.56,
+   "text": "Oh, yes you do.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 253.28,
+   "end": 260.28,
+   "text": "You reign in glory, forever true.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 260.82,
+   "end": 264.84,
+   "text": "Nothing can stop you.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 265.36,
+   "end": 267.68,
+   "text": "No one above you, Lord.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 268.42,
+   "end": 271.54,
+   "text": "Jesus, you reign.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 290.38,
+   "end": 297.76,
+   "text": "Every knee will bow, every tongue confess, Jesus you are Lord, our righteousness.",
+   "avg_logprob": -0.879,
+   "no_speech_prob": 0.795,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 298.3,
+   "end": 301.52,
+   "text": "Heaven shouts your name, earth proclaims the same.",
+   "avg_logprob": -0.879,
+   "no_speech_prob": 0.795,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 301.52,
+   "end": 306.28,
+   "text": "Jesus reigns forever Exalted we pray",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 313.98,
+   "end": 315.38,
+   "text": "Chastity reigns",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 315.38,
+   "end": 316.52,
+   "text": "Chastity reigns",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 317.52,
+   "end": 318.52,
+   "text": "Forever reigns",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 319.08,
+   "end": 319.74,
+   "text": "Hallelujah",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 319.74,
+   "end": 322.82,
+   "text": "Jesus reigns forever",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 322.82,
+   "end": 324.52,
+   "text": "Heav'n",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 325.06,
+   "end": 325.78,
+   "text": "Forever",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 327.52,
+   "end": 330.34,
+   "text": "Jesus reigns forever",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.659,
+   "track_id": "eD2IMkcreEI#20"
+  },
+  {
+   "start": 330.34,
+   "end": 331.54,
+   "text": "Hallelujah",
+   "avg_logprob": -0.79,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#20"
+  }
+ ]
+}

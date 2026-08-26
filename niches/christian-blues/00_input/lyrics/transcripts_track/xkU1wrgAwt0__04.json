@@ -1,0 +1,190 @@
+{
+ "track_id": "xkU1wrgAwt0#04",
+ "track_key": "xkU1wrgAwt0__04",
+ "video_id": "xkU1wrgAwt0",
+ "title": "4. Psalm 23 – Shepherd of My Blues",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 217.0,
+ "voiced_sec": 182.2,
+ "voice_ratio": 0.839,
+ "n_words": 164,
+ "words_per_min": 45.3,
+ "is_instrumental": false,
+ "n_segments": 21,
+ "n_segments_voiced": 21,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.5,
+ "rtf": 0.053,
+ "segments": [
+  {
+   "start": 10.3,
+   "end": 19.78,
+   "text": "The Lord's my shepherds, I shall not mourn",
+   "avg_logprob": -0.698,
+   "no_speech_prob": 0.441,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 19.78,
+   "end": 27.94,
+   "text": "He makes me lie where the river's hung",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.377,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 28.78,
+   "end": 36.46,
+   "text": "Still water's calm and my soul's restored",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.377,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 37.78,
+   "end": 45.54,
+   "text": "He leads me on by His faithful call",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.377,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 45.54,
+   "end": 63.82,
+   "text": "Even though I walk through valleys low I won't be afraid cause He won't let go",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 63.82,
+   "end": 72.22,
+   "text": "His rod and staff, they comfort me",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.592,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 73.82,
+   "end": 81.44,
+   "text": "In every shadow, he walks with me",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.592,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 82.82,
+   "end": 90.36,
+   "text": "He sets a table before my fold",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.592,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 90.36,
+   "end": 99.18,
+   "text": "Announce my head till the blessing flows",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 100.36,
+   "end": 107.96,
+   "text": "My cup runs over grace in the air",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 107.96,
+   "end": 116.68,
+   "text": "Surely His mercy is always there",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 116.68,
+   "end": 125.68,
+   "text": "All my life His goodness will chase",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.651,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 125.68,
+   "end": 134.04,
+   "text": "I'll dwell with the Lord In His holy place",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.651,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 134.68,
+   "end": 143.58,
+   "text": "No more fear No more strife",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.651,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 143.58,
+   "end": 159.92,
+   "text": "He's the shepherd who gave me life Even though I walk through valleys low",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 159.92,
+   "end": 168.7,
+   "text": "I won't be afraid, cause he won't let go",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.668,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 169.92,
+   "end": 177.44,
+   "text": "His rod and staff, they comfort me",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.668,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 178.92,
+   "end": 186.76,
+   "text": "In every shadow, he walks with me",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.668,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 186.76,
+   "end": 194.72,
+   "text": "Through every mile and midnight to",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 194.72,
+   "end": 199.22,
+   "text": "I'll sing to my shepherd,",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#04"
+  },
+  {
+   "start": 200.88,
+   "end": 203.78,
+   "text": "Neath the blues and moon.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#04"
+  }
+ ]
+}

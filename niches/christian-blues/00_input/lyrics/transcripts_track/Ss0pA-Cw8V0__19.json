@@ -1,0 +1,246 @@
+{
+ "track_id": "Ss0pA-Cw8V0#19",
+ "track_key": "Ss0pA-Cw8V0__19",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "King's Glory",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 154.0,
+ "voiced_sec": 96.9,
+ "voice_ratio": 0.629,
+ "n_words": 224,
+ "words_per_min": 87.3,
+ "is_instrumental": false,
+ "n_segments": 28,
+ "n_segments_voiced": 27,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.9,
+ "rtf": 0.051,
+ "segments": [
+  {
+   "start": 6.4,
+   "end": 11.5,
+   "text": "The Lord is my light and my salvation, whom shall I fear?",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.59,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 12.54,
+   "end": 13.82,
+   "text": "Song 271",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.365,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 25.62,
+   "end": 29.76,
+   "text": "Yeah, I came from the struggle, pain in my chest",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.365,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 29.76,
+   "end": 33.12,
+   "text": "For God's mercy never left me, I'm truly blessed",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.365,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 33.12,
+   "end": 36.38,
+   "text": "Walked through the fire, yeah, I faced every test",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.365,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 36.38,
+   "end": 39.76,
+   "text": "Now I rise like a lion, I'm above all the rest",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.365,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 39.76,
+   "end": 43.3,
+   "text": "Change broke, doors open, heaven's my witness",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 43.3,
+   "end": 46.64,
+   "text": "Every move I make, I do it in this fitness",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 46.64,
+   "end": 50.14,
+   "text": "Power in my steps, no level, can this miss this",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 50.14,
+   "end": 54.28,
+   "text": "Faith over fear, yeah, that's the ultimate business",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 54.28,
+   "end": 57.44,
+   "text": "King's story, lift your eyes",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 57.44,
+   "end": 60.32,
+   "text": "God's story, testify",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 61.36,
+   "end": 64.1,
+   "text": "We victorious, never die",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 64.1,
+   "end": 66.96,
+   "text": "Through the struggle we rise",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 66.96,
+   "end": 74.12,
+   "text": "I stayed prayed up, vision crystal clear Every blessing came through sweat and through tears",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.726,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 74.12,
+   "end": 80.84,
+   "text": "Enemies plotted but I got no fear Gods hand on my life, yeah the path is near",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.726,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 80.84,
+   "end": 87.22,
+   "text": "Fit him at his strings, feel the power in the air Trap be heavy but my soul don't despair",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.726,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 87.22,
+   "end": 93.48,
+   "text": "He's my shield, my sword everywhere In the darkness his light always there",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.726,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 97.4,
+   "end": 102.84,
+   "text": "Through every storm, through every fight His grace is my armor, his truth is my light",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.661,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 104.1,
+   "end": 107.14,
+   "text": "No weapon formed against me shall prosper I walk in his might",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.661,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 123.48,
+   "end": 127.28,
+   "text": "I got glory, testify",
+   "avg_logprob": -0.771,
+   "no_speech_prob": 0.123,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 127.96,
+   "end": 131.0,
+   "text": "We be glorious, never die",
+   "avg_logprob": -0.771,
+   "no_speech_prob": 0.123,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 131.0,
+   "end": 133.36,
+   "text": "Through the struggle we ride",
+   "avg_logprob": -0.771,
+   "no_speech_prob": 0.123,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 133.36,
+   "end": 137.3,
+   "text": "All things are possible with God",
+   "avg_logprob": -0.771,
+   "no_speech_prob": 0.123,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 139.16,
+   "end": 139.86,
+   "text": "Keep walking",
+   "avg_logprob": -0.771,
+   "no_speech_prob": 0.123,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 142.44,
+   "end": 143.12,
+   "text": "Keep praising",
+   "avg_logprob": -0.771,
+   "no_speech_prob": 0.123,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 145.04,
+   "end": 145.7,
+   "text": "Keep rising",
+   "avg_logprob": -0.771,
+   "no_speech_prob": 0.123,
+   "track_id": "Ss0pA-Cw8V0#19"
+  },
+  {
+   "start": 153.48,
+   "end": 153.94,
+   "text": "you",
+   "avg_logprob": -0.967,
+   "no_speech_prob": 0.918,
+   "track_id": "Ss0pA-Cw8V0#19"
+  }
+ ]
+}

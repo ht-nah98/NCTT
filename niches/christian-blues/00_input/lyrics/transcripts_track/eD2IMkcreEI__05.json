@@ -1,0 +1,278 @@
+{
+ "track_id": "eD2IMkcreEI#05",
+ "track_key": "eD2IMkcreEI__05",
+ "video_id": "eD2IMkcreEI",
+ "title": "You Are My God",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 253.0,
+ "voiced_sec": 169.5,
+ "voice_ratio": 0.67,
+ "n_words": 190,
+ "words_per_min": 45.1,
+ "is_instrumental": false,
+ "n_segments": 32,
+ "n_segments_voiced": 32,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.7,
+ "rtf": 0.042,
+ "segments": [
+  {
+   "start": 9.48,
+   "end": 10.88,
+   "text": "Mmm",
+   "avg_logprob": -0.861,
+   "no_speech_prob": 0.59,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 21.44,
+   "end": 28.72,
+   "text": "Even the midnight you never left me",
+   "avg_logprob": -0.861,
+   "no_speech_prob": 0.59,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 30.0,
+   "end": 33.14,
+   "text": "You are my God",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.235,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 35.0,
+   "end": 38.26,
+   "text": "When the night's alone and I'm feeling low",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.235,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 42.0,
+   "end": 46.78,
+   "text": "You whisper peace deep in my soul",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.235,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 48.68,
+   "end": 54.42,
+   "text": "You hold my hand when I can't go on",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.235,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 54.42,
+   "end": 61.3,
+   "text": "You're the melody in my heart's song",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 61.3,
+   "end": 66.92,
+   "text": "You are my God",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 66.92,
+   "end": 70.5,
+   "text": "You are my God",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 70.5,
+   "end": 75.68,
+   "text": "Oh yes, you are my strength when I'm born",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 76.42,
+   "end": 82.16,
+   "text": "You are my God",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 82.16,
+   "end": 91.96,
+   "text": "Oh, Lord, my healer, my peace, my joy, my everything.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.642,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 95.66,
+   "end": 98.16,
+   "text": "You never changed.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.642,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 99.7,
+   "end": 101.72,
+   "text": "You've always been true.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.642,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 103.76,
+   "end": 108.64,
+   "text": "Through every storm, Lord, I ran to You.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.642,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 110.08,
+   "end": 122.0,
+   "text": "And even when I turned away Your mercy found me anyway",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.567,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 124.62,
+   "end": 136.0,
+   "text": "You waited on me You never let go",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.567,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 138.7,
+   "end": 143.42,
+   "text": "You are my God",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.704,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 144.0,
+   "end": 147.9,
+   "text": "Oh, you are, yes you are",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.704,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 147.9,
+   "end": 151.96,
+   "text": "My strength when I'm weak",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.704,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 151.96,
+   "end": 156.78,
+   "text": "You lift me up, you carry me",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.704,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 156.78,
+   "end": 162.24,
+   "text": "My hiding place",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.704,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 162.24,
+   "end": 169.24,
+   "text": "Forever, forever you reigns",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.655,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 170.5,
+   "end": 173.98,
+   "text": "You're my rock, you're my rock",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.655,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 173.98,
+   "end": 177.24,
+   "text": "My redeemer, redeemer",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.655,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 177.78,
+   "end": 181.48,
+   "text": "My salvation, my salvation",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.655,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 181.48,
+   "end": 185.3,
+   "text": "My land, yeah, yeah, rain",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.655,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 186.24,
+   "end": 190.46,
+   "text": "I lift my hands, I raise my voice",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.655,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 190.46,
+   "end": 199.22,
+   "text": "Yeah, you're the reason I rejoice",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.411,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 201.46,
+   "end": 205.74,
+   "text": "You pulled me up, gave me new life",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.411,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 208.46,
+   "end": 215.32,
+   "text": "You turned my darkness up to life",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.411,
+   "track_id": "eD2IMkcreEI#05"
+  },
+  {
+   "start": 245.52,
+   "end": 251.58,
+   "text": "You are, You are my God",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.47,
+   "track_id": "eD2IMkcreEI#05"
+  }
+ ]
+}

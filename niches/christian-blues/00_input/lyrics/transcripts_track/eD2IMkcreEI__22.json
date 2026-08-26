@@ -1,0 +1,366 @@
+{
+ "track_id": "eD2IMkcreEI#22",
+ "track_key": "eD2IMkcreEI__22",
+ "video_id": "eD2IMkcreEI",
+ "title": "Part 2: God Did",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 259.0,
+ "voiced_sec": 184.0,
+ "voice_ratio": 0.711,
+ "n_words": 249,
+ "words_per_min": 57.7,
+ "is_instrumental": false,
+ "n_segments": 43,
+ "n_segments_voiced": 43,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 23.7,
+ "rtf": 0.092,
+ "segments": [
+  {
+   "start": 5.26,
+   "end": 7.0,
+   "text": "I'm alone",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.716,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 16.34,
+   "end": 21.18,
+   "text": "Because He lives, yes, Lord",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.716,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 24.16,
+   "end": 29.0,
+   "text": "I woke up this morning with trouble in my soul",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.716,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 30.46,
+   "end": 35.28,
+   "text": "The night was long, but grace took control",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.579,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 37.1,
+   "end": 41.52,
+   "text": "Storms been raging in this heart of mine",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.579,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 41.52,
+   "end": 47.2,
+   "text": "But I found peace y'all in the hands of the divine",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.579,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 49.82,
+   "end": 55.52,
+   "text": "Oh yes I did, because He lives",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.579,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 57.68,
+   "end": 68.66,
+   "text": "I can face tomorrow Because he lives alone",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.671,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 70.2,
+   "end": 78.8,
+   "text": "I'm not alone in the sorrow Every fear is gone",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.671,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 78.8,
+   "end": 85.02,
+   "text": "Every chain I'm done, I've got hope and a song",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.649,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 88.74,
+   "end": 95.2,
+   "text": "Because he lives, yes he lives, yeah, yeah",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.649,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 96.52,
+   "end": 101.88,
+   "text": "When I was broken, he called my name",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.649,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 101.88,
+   "end": 107.76,
+   "text": "Lifted my spirit and took all my shame",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.566,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 107.76,
+   "end": 113.38,
+   "text": "He held me close when I had no fight",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.566,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 113.38,
+   "end": 119.2,
+   "text": "Gave me His mercy in the darkest night",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.566,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 119.88,
+   "end": 124.88,
+   "text": "You stay with me, yeah, you stay with me",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.566,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 125.38,
+   "end": 127.66,
+   "text": "He lives",
+   "avg_logprob": -0.816,
+   "no_speech_prob": 0.433,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 130.82,
+   "end": 133.32,
+   "text": "I got strength for the fire",
+   "avg_logprob": -0.816,
+   "no_speech_prob": 0.433,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 136.62,
+   "end": 140.42,
+   "text": "Because he lives yeah, yeah",
+   "avg_logprob": -0.816,
+   "no_speech_prob": 0.433,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 142.22,
+   "end": 144.58,
+   "text": "I'm walking in the light",
+   "avg_logprob": -0.816,
+   "no_speech_prob": 0.433,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 149.02,
+   "end": 151.06,
+   "text": "Ain't no grave",
+   "avg_logprob": -0.816,
+   "no_speech_prob": 0.433,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 151.06,
+   "end": 154.18,
+   "text": "I'm gonna hold me down",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.627,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 154.18,
+   "end": 157.74,
+   "text": "Cause my Jesus wears the crown",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.627,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 159.3,
+   "end": 164.44,
+   "text": "Oh, because He lives, yeah",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.627,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 168.12,
+   "end": 174.72,
+   "text": "He walks with me, He talks with me",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.627,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 174.72,
+   "end": 179.12,
+   "text": "He's the air I breathe, the song I sing",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 179.12,
+   "end": 183.66,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 183.66,
+   "end": 184.5,
+   "text": "Yes, He is",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 185.72,
+   "end": 188.46,
+   "text": "He lives, He lives",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 188.46,
+   "end": 191.22,
+   "text": "My redeemer lives",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 191.22,
+   "end": 194.28,
+   "text": "Through every tear",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 194.28,
+   "end": 197.42,
+   "text": "He still forgives",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 197.42,
+   "end": 200.02,
+   "text": "He rose again",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 200.72,
+   "end": 203.3,
+   "text": "That stone-rolled white",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.258,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 203.3,
+   "end": 209.6,
+   "text": "And I'm standing in the light of His glorious day",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 211.6,
+   "end": 214.14,
+   "text": "Yes, my God is alive",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 214.14,
+   "end": 217.88,
+   "text": "Oh, He lives",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 217.88,
+   "end": 220.42,
+   "text": "Oh, He lives",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 220.42,
+   "end": 223.86,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 223.86,
+   "end": 225.86,
+   "text": "Oh, He lives",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 225.86,
+   "end": 227.14,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 228.78,
+   "end": 233.42,
+   "text": "Because he lives",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.618,
+   "track_id": "eD2IMkcreEI#22"
+  },
+  {
+   "start": 234.14,
+   "end": 241.64,
+   "text": "Oh yes, because he lives",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.618,
+   "track_id": "eD2IMkcreEI#22"
+  }
+ ]
+}

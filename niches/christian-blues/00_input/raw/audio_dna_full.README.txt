@@ -1,0 +1,5 @@
+audio_dna_full.jsonl
+  307 track x 595 truong. Ban DAY DU cua audio_dna.xlsx (chi co 45 cot).
+  Nguon: repo audio-dna (rieng tu), out/merged.jsonl, chep ngay 2026-08-19.
+  Repo la THAM CHIEU, khong phai phu thuoc: file nay da nam trong du an.
+  Cot 'prompt Suno' bi loai theo yeu cau nguoi dung (du lieu tho sai).

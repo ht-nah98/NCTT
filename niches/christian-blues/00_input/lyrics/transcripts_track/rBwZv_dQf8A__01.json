@@ -1,0 +1,382 @@
+{
+ "track_id": "rBwZv_dQf8A#01",
+ "track_key": "rBwZv_dQf8A__01",
+ "video_id": "rBwZv_dQf8A",
+ "title": "The Lord Directs The Steps (Proverbs 16)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 196.0,
+ "voiced_sec": 168.6,
+ "voice_ratio": 0.86,
+ "n_words": 293,
+ "words_per_min": 89.7,
+ "is_instrumental": false,
+ "n_segments": 45,
+ "n_segments_voiced": 45,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.9,
+ "rtf": 0.056,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.74,
+   "text": "ś You can't plan your way ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 9.74,
+   "end": 12.4,
+   "text": "ś You can dream your dream ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 12.4,
+   "end": 14.78,
+   "text": "ś Write your story ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 14.78,
+   "end": 16.46,
+   "text": "ś Build your scheme ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 16.46,
+   "end": 18.5,
+   "text": "ś But the Lord's the one ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 18.5,
+   "end": 20.72,
+   "text": "ś Who weighs the heart ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 20.72,
+   "end": 23.04,
+   "text": "ś He's been in control ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 23.04,
+   "end": 25.04,
+   "text": "ś Right from the start ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 25.04,
+   "end": 26.94,
+   "text": "ś Commit your work ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 26.94,
+   "end": 29.0,
+   "text": "ś Let His will unfold ś",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 29.37,
+   "end": 33.45,
+   "text": "Silver's good but wisdom's gold",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.399,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 34.05,
+   "end": 37.75,
+   "text": "Pride goes crashing before the fall",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.399,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 37.75,
+   "end": 43.07,
+   "text": "But grace still catches those who call the Lord direct",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.399,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 43.07,
+   "end": 47.55,
+   "text": "Lord directs the steps I take",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.399,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 49.61,
+   "end": 53.95,
+   "text": "Even when I'm in, He won't let me break",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.399,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 53.95,
+   "end": 58.59,
+   "text": "I walk by faith, not by sight.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.693,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 58.81,
+   "end": 62.73,
+   "text": "The Lord directs my step each night.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.693,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 63.79,
+   "end": 72.39,
+   "text": "Better a little with peace inside than riches rolling with foolish pride.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.693,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 72.77,
+   "end": 76.71,
+   "text": "When your ways please Him, even foes find rest.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.693,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 77.11,
+   "end": 80.97,
+   "text": "His plan beats yours, His ways the best.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.693,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 80.97,
+   "end": 85.35,
+   "text": "Man makes plans with paper and pen,",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.59,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 85.83,
+   "end": 88.57,
+   "text": "But God's the one who says,",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.59,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 88.99,
+   "end": 93.03,
+   "text": "Amen. He's the author, the mover, the breath,",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.59,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 93.39,
+   "end": 98.37,
+   "text": "The spark, the light that shines through the deepest dark.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.59,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 98.67,
+   "end": 103.87,
+   "text": "The Lord directs, the directs, the steps I take.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.59,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 104.45,
+   "end": 108.37,
+   "text": "Steps I take, even when I've been.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.59,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 108.37,
+   "end": 110.37,
+   "text": "keep on let me pray",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 110.37,
+   "end": 114.71,
+   "text": "I walk by faith, not by sight",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 114.71,
+   "end": 119.23,
+   "text": "the Lord directs my step each night",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 119.23,
+   "end": 120.11,
+   "text": "ooh",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 122.23,
+   "end": 126.49,
+   "text": "Pride goes before destruction's call",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 126.49,
+   "end": 127.87,
+   "text": "Stay humble",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 127.87,
+   "end": 130.33,
+   "text": "the Lord lifts all",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 130.33,
+   "end": 132.33,
+   "text": "slow to anger",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 132.33,
+   "end": 134.41,
+   "text": "He has real strength",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 134.41,
+   "end": 137.39,
+   "text": "wisdom walks the narrow",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 138.61,
+   "end": 149.41,
+   "text": "Oh, the Lord directs the steps I take",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.75,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 152.39,
+   "end": 155.97,
+   "text": "Even when I've been, you won't let me break",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.75,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 155.97,
+   "end": 160.19,
+   "text": "I walk by faith, not by sight",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.75,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 160.19,
+   "end": 164.71,
+   "text": "The Lord directs my steps, He's night",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.75,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 164.71,
+   "end": 167.49,
+   "text": "I know when the road gets rough",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 168.31,
+   "end": 171.93,
+   "text": "And the journey's long, his truth still stands",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 172.51,
+   "end": 176.59,
+   "text": "His love still strong, the Lord directs",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 176.59,
+   "end": 181.01,
+   "text": "My soul's at rest, He knows my path",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#01"
+  },
+  {
+   "start": 181.01,
+   "end": 183.55,
+   "text": "His way's the best",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#01"
+  }
+ ]
+}

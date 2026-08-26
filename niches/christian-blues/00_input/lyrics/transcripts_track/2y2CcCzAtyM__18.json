@@ -1,0 +1,350 @@
+{
+ "track_id": "2y2CcCzAtyM#18",
+ "track_key": "2y2CcCzAtyM__18",
+ "video_id": "2y2CcCzAtyM",
+ "title": "18 — He's Been Good to Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 267.0,
+ "voiced_sec": 187.6,
+ "voice_ratio": 0.703,
+ "n_words": 301,
+ "words_per_min": 67.6,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 60.2,
+ "rtf": 0.225,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.58,
+   "text": "good. Blessed is the man that trusted in him.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.277,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 7.28,
+   "end": 13.06,
+   "text": "Psalm 34 and 8, I can testify to that.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.277,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 43.18,
+   "end": 48.3,
+   "text": "I've seen some hard days come and go.",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.368,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 49.38,
+   "end": 54.34,
+   "text": "I've been in places I didn't think I'd leave.",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.368,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 54.34,
+   "end": 66.68,
+   "text": "But every time I found myself at bottom His merciful hand reached down and set me free",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.539,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 67.66,
+   "end": 75.58,
+   "text": "He's been good to me He's been good better than I deserved",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.539,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 75.58,
+   "end": 82.4,
+   "text": "And better than I knew He's been good to me",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.616,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 82.4,
+   "end": 90.56,
+   "text": "He's been good Every step He's proved His mercies to be true",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.616,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 90.56,
+   "end": 97.02,
+   "text": "Oh, He's been good He's been so good",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.616,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 97.02,
+   "end": 99.82,
+   "text": "He's been good to me",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.616,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 103.84,
+   "end": 109.06,
+   "text": "I didn't earn the favor that he showed me",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 109.82,
+   "end": 114.82,
+   "text": "I didn't pray the way I should have prayed",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 115.82,
+   "end": 120.84,
+   "text": "But grace is not about what I deserve",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 121.82,
+   "end": 127.44,
+   "text": "It's about the promise that he made",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 127.44,
+   "end": 133.1,
+   "text": "He's been good to me, he's been good",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 133.1,
+   "end": 139.22,
+   "text": "Better than I deserved and better than I knew",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 140.44,
+   "end": 145.58,
+   "text": "He's been good to me, he's been good",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 145.58,
+   "end": 151.12,
+   "text": "Every step he's proved his mercy's to be true",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 153.46,
+   "end": 161.04,
+   "text": "He's been good, He's been so good, He's been good to me",
+   "avg_logprob": -0.549,
+   "no_speech_prob": 0.285,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 163.84,
+   "end": 166.48,
+   "text": "Somebody listening right now needs to remember",
+   "avg_logprob": -0.549,
+   "no_speech_prob": 0.285,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 167.54,
+   "end": 170.08,
+   "text": "How good the Lord has been to them",
+   "avg_logprob": -0.549,
+   "no_speech_prob": 0.285,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 170.98,
+   "end": 174.48,
+   "text": "Don't let the hardship up to day erase",
+   "avg_logprob": -0.549,
+   "no_speech_prob": 0.285,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 174.48,
+   "end": 177.3,
+   "text": "What He brought you through yesterday",
+   "avg_logprob": -0.549,
+   "no_speech_prob": 0.285,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 178.4,
+   "end": 181.34,
+   "text": "Taste and see that the Lord is good.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 182.7,
+   "end": 186.0,
+   "text": "He has been good to you.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 187.86,
+   "end": 191.14,
+   "text": "So good to me.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 191.36,
+   "end": 192.98,
+   "text": "So good to me.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 193.78,
+   "end": 195.42,
+   "text": "His mercy endures.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 195.46,
+   "end": 197.66,
+   "text": "His mercy endures.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 197.8,
+   "end": 203.56,
+   "text": "They taste and see.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 204.1,
+   "end": 205.52,
+   "text": "Taste and see.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 205.52,
+   "end": 207.0,
+   "text": "He's been good.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.463,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 207.34,
+   "end": 210.34,
+   "text": "He's been so good to me.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.463,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 211.34,
+   "end": 213.78,
+   "text": "He's been good to me.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.463,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 214.04,
+   "end": 221.88,
+   "text": "He's been good better than I deserved and better than I knew.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.463,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 223.18,
+   "end": 226.2,
+   "text": "He's been good to me.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.463,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 226.66,
+   "end": 228.5,
+   "text": "He's been good.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.463,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 228.5,
+   "end": 234.92,
+   "text": "Every step he's proved his mercy's to be true",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.331,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 239.5,
+   "end": 246.92,
+   "text": "So good, he's been so good",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.331,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 248.58,
+   "end": 251.12,
+   "text": "Good to me",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.331,
+   "track_id": "2y2CcCzAtyM#18"
+  },
+  {
+   "start": 263.74,
+   "end": 265.88,
+   "text": "I beseech you there for a brethren.",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.039,
+   "track_id": "2y2CcCzAtyM#18"
+  }
+ ]
+}

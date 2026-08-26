@@ -1,0 +1,534 @@
+{
+ "track_id": "lKk3O0goUrA#10",
+ "track_key": "lKk3O0goUrA__10",
+ "video_id": "lKk3O0goUrA",
+ "title": "Thank You Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 245.0,
+ "voiced_sec": 177.0,
+ "voice_ratio": 0.723,
+ "n_words": 293,
+ "words_per_min": 71.8,
+ "is_instrumental": false,
+ "n_segments": 64,
+ "n_segments_voiced": 63,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 20.3,
+ "rtf": 0.083,
+ "segments": [
+  {
+   "start": 11.92,
+   "end": 15.78,
+   "text": "Lord, I thank You.",
+   "avg_logprob": -0.73,
+   "no_speech_prob": 0.284,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 16.4,
+   "end": 21.06,
+   "text": "Oh, You lifted me.",
+   "avg_logprob": -0.73,
+   "no_speech_prob": 0.284,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 23.64,
+   "end": 26.14,
+   "text": "I'm still standing",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.53,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 30.1,
+   "end": 32.98,
+   "text": "I was drowning in sorrow",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.53,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 32.98,
+   "end": 36.62,
+   "text": "Felt my hopes slipping away",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.53,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 36.62,
+   "end": 40.44,
+   "text": "But you whispered in the midnight",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.53,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 41.06,
+   "end": 43.82,
+   "text": "Child hold on you'll see the day",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.53,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 43.82,
+   "end": 47.44,
+   "text": "Every tear that I was crying",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.53,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 47.44,
+   "end": 50.6,
+   "text": "You were catching one by one",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 51.44,
+   "end": 54.48,
+   "text": "And you turned my pain to promise",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 55.44,
+   "end": 58.58,
+   "text": "Now my healing has begun",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 59.94,
+   "end": 63.08,
+   "text": "I don't deserve this mercy",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 63.08,
+   "end": 66.6,
+   "text": "But you give it all the same",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 67.44,
+   "end": 70.14,
+   "text": "So I'll sing it to the nations",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 70.14,
+   "end": 73.34,
+   "text": "Live high, your holy name",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 73.34,
+   "end": 75.26,
+   "text": "You lifted me",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.561,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 75.26,
+   "end": 82.32,
+   "text": "You saved me from grief You gave me joy",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.688,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 82.32,
+   "end": 92.82,
+   "text": "You rescued me Thank You, Lord",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.688,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 92.82,
+   "end": 101.58,
+   "text": "You lifted me When the voices tried to tell me",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.688,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 101.58,
+   "end": 104.4,
+   "text": "Girl, you'll never rise again",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 105.58,
+   "end": 108.44,
+   "text": "Your spirit said, don't listen",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 108.44,
+   "end": 111.92,
+   "text": "This battle I will win",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 111.92,
+   "end": 115.26,
+   "text": "Oh, you walked into my shadow",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 115.26,
+   "end": 118.58,
+   "text": "And you lit the darkest night",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 118.58,
+   "end": 122.2,
+   "text": "Now I'm standing in your freedom",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 122.2,
+   "end": 126.26,
+   "text": "Covered in your holy light",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 126.26,
+   "end": 128.56,
+   "text": "Covered in your light",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.479,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 128.56,
+   "end": 130.82,
+   "text": "Your grace it keeps on flowing",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 132.0,
+   "end": 134.42,
+   "text": "Your love has made me whole",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 135.16,
+   "end": 138.1,
+   "text": "So I give you all the glory",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 138.96,
+   "end": 141.42,
+   "text": "Forever bless my soul",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 141.42,
+   "end": 143.22,
+   "text": "You lifted me",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 145.04,
+   "end": 146.64,
+   "text": "You set me free",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 148.54,
+   "end": 150.1,
+   "text": "You gave me joy",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 152.0,
+   "end": 154.58,
+   "text": "You rescued me",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.136,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 154.58,
+   "end": 160.5,
+   "text": "Oh, thank You, Lord.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.303,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 160.94,
+   "end": 162.24,
+   "text": "Thank You, Lord.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.303,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 162.38,
+   "end": 163.74,
+   "text": "You lifted me.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.303,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 165.68,
+   "end": 170.76,
+   "text": "Can't nobody do me like Jesus.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.303,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 172.24,
+   "end": 177.68,
+   "text": "Can't nobody do me like the Lord.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.303,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 179.12,
+   "end": 181.18,
+   "text": "He gave me joy.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.303,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 181.74,
+   "end": 182.54,
+   "text": "Yes, He did.",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.303,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 182.54,
+   "end": 185.32,
+   "text": "He saved my soul.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 185.36,
+   "end": 186.24,
+   "text": "Yes, He did.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 186.62,
+   "end": 187.88,
+   "text": "Yes, He did.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 188.76,
+   "end": 189.52,
+   "text": "Yes, He did.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 189.9,
+   "end": 191.82,
+   "text": "He lifted me up.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 192.22,
+   "end": 193.12,
+   "text": "Yes, He did.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 193.74,
+   "end": 195.2,
+   "text": "You lifted me.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 195.48,
+   "end": 196.5,
+   "text": "You lifted me.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 197.08,
+   "end": 198.52,
+   "text": "You set me free.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 199.04,
+   "end": 199.96,
+   "text": "You set me free.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 200.54,
+   "end": 202.18,
+   "text": "You gave me joy.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 202.5,
+   "end": 203.5,
+   "text": "You gave me joy.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 204.0,
+   "end": 205.64,
+   "text": "You rescued me.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 206.0,
+   "end": 206.92,
+   "text": "You rescued me.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 210.0,
+   "end": 212.44,
+   "text": "Oh, thank You, Lord.",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.477,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 212.44,
+   "end": 214.3,
+   "text": "Thank You Lord",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.435,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 214.3,
+   "end": 215.78,
+   "text": "You lifted me",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.435,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 218.02,
+   "end": 220.28,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.435,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 222.16,
+   "end": 224.78,
+   "text": "For lifting me up",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.435,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 225.44,
+   "end": 227.96,
+   "text": "I praise Your name forever",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.435,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 238.44,
+   "end": 240.48,
+   "text": "Thank You Lord",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.435,
+   "track_id": "lKk3O0goUrA#10"
+  },
+  {
+   "start": 243.58,
+   "end": 244.98,
+   "text": "you",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.887,
+   "track_id": "lKk3O0goUrA#10"
+  }
+ ]
+}

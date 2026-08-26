@@ -1,0 +1,139 @@
+{
+  "M5_1_lang": {
+    "en": 4052,
+    "es": 247,
+    "pt": 20,
+    "unknown": 2829,
+    "en_pct_of_known": 92.8505957836847
+  },
+  "M5_1_tier1_channel_pct": 62.264150943396224,
+  "M5_1_tier1_of_declared": 73.33333333333333,
+  "M5_3_band": [
+    {
+      "duration_band": "1-3h",
+      "n": 2114,
+      "med_sec": 5629.0,
+      "med_view": 975.5,
+      "ad_slots": 11.7
+    },
+    {
+      "duration_band": "1-6m",
+      "n": 1026,
+      "med_sec": 172.0,
+      "med_view": 2546.0,
+      "ad_slots": 1.0
+    },
+    {
+      "duration_band": "30-60m",
+      "n": 973,
+      "med_sec": 2477.0,
+      "med_view": 1427.0,
+      "ad_slots": 5.2
+    },
+    {
+      "duration_band": "3h+",
+      "n": 281,
+      "med_sec": 11040.0,
+      "med_view": 1154.0,
+      "ad_slots": 23.0
+    },
+    {
+      "duration_band": "6-30m",
+      "n": 796,
+      "med_sec": 973.0,
+      "med_view": 2208.0,
+      "ad_slots": 2.0
+    },
+    {
+      "duration_band": "Shorts",
+      "n": 414,
+      "med_sec": 36.5,
+      "med_view": 2873.0,
+      "ad_slots": 1.0
+    }
+  ],
+  "M5_3_median_duration_sec": 2594.5,
+  "M5_2_rpm": {
+    "low": 1.5,
+    "base": 3.0,
+    "high": 6.0,
+    "basis": "Nh\u1ea1c Tier-1 n\u1ec1n t\u1ea3ng $1.5-4; \u0111i\u1ec1u ch\u1ec9nh T\u0102NG do kh\u00e1n gi\u1ea3 60+ (s\u1ee9c mua, \u00edt adblock) v\u00e0 long-form nhi\u1ec1u ad slot; \u0111i\u1ec1u ch\u1ec9nh GI\u1ea2M do nh\u1ea1c c\u00f3 attention th\u1ea5p"
+  },
+  "T5_score": 3,
+  "T5_note": "RPM c\u01a1 s\u1edf $3.0 r\u01a1i \u0111\u00fang ranh gi\u1edbi kho\u1ea3ng $3-5 -> 3 \u0111i\u1ec3m",
+  "scenarios": {
+    "conservative": {
+      "views_per_month": 41499.6221686747,
+      "rev_low": 62.24943325301204,
+      "rev_base": 124.49886650602409,
+      "rev_high": 248.99773301204817
+    },
+    "base": {
+      "views_per_month": 106405.76313953489,
+      "rev_low": 159.60864470930233,
+      "rev_base": 319.21728941860465,
+      "rev_high": 638.4345788372093
+    },
+    "optimistic": {
+      "views_per_month": 463517.1979123154,
+      "rev_low": 695.2757968684731,
+      "rev_base": 1390.5515937369462,
+      "rev_high": 2781.1031874738924
+    }
+  },
+  "risks": [
+    {
+      "risk": "N\u1ed9i dung tr\u00f9ng l\u1eb7p (reused content)",
+      "penalty": -1,
+      "evidence": "132 ti\u00eau \u0111\u1ec1 d\u00f9ng chung b\u1edfi nhi\u1ec1u k\u00eanh, ph\u1ee7 453 video (6.3%). 5 k\u00eanh c\u00f3 \u226530% video tr\u00f9ng ti\u00eau \u0111\u1ec1 ch\u00e9o.",
+      "detail": "\u0110\u00e2y l\u00e0 r\u1ee7i ro CH\u00cdNH c\u1ee7a ng\u00e1ch. YouTube y\u00eau c\u1ea7u 'significant original value'."
+    },
+    {
+      "risk": "M\u00f4 t\u1ea3 d\u00f9ng l\u1ea1i",
+      "penalty": 0,
+      "evidence": "140 m\u1eabu m\u00f4 t\u1ea3 d\u00f9ng l\u1ea1i ph\u1ee7 1406 video, nh\u01b0ng CH\u00c9O k\u00eanh = 0 m\u1eabu.",
+      "detail": "To\u00e0n b\u1ed9 l\u00e0 template trong c\u00f9ng m\u1ed9t k\u00eanh \u2014 b\u00ecnh th\u01b0\u1eddng, kh\u00f4ng ph\u1ea3i r\u1ee7i ro."
+    },
+    {
+      "risk": "Ph\u1ee5 thu\u1ed9c k\u00eanh d\u1eabn \u0111\u1ea7u",
+      "penalty": 0,
+      "evidence": "K\u00eanh l\u1edbn nh\u1ea5t chi\u1ebfm 17.9% t\u1ed5ng view (ng\u01b0\u1ee1ng r\u1ee7i ro: >40%).",
+      "detail": "Kh\u00f4ng c\u00f3 k\u00eanh th\u1ed1ng tr\u1ecb \u2014 th\u1ecb tr\u01b0\u1eddng ph\u00e2n t\u00e1n l\u00e0nh m\u1ea1nh."
+    },
+    {
+      "risk": "Cung v\u01b0\u1ee3t c\u1ea7u",
+      "penalty": 0,
+      "evidence": "M2.4 = 1.305 (ng\u01b0\u1ee1ng r\u1ee7i ro: <0.8).",
+      "detail": "C\u1ea7u v\u1eabn t\u0103ng nhanh h\u01a1n cung."
+    },
+    {
+      "risk": "B\u1ea3n quy\u1ec1n th\u00e1nh ca",
+      "penalty": 0,
+      "evidence": "Ch\u1ec9 19 video (0.3%) \u0111\u1eb7t t\u00ean theo th\u00e1nh ca kinh \u0111i\u1ec3n.",
+      "detail": "H\u1ea7u h\u1ebft l\u00e0 s\u00e1ng t\u00e1c m\u1edbi. Th\u00e1nh ca tr\u01b0\u1edbc 1929 thu\u1ed9c ph\u1ea1m vi c\u00f4ng c\u1ed9ng."
+    },
+    {
+      "risk": "Ch\u1ee7 \u0111\u1ec1 t\u00f4n gi\u00e1o b\u1ecb soi k\u1ef9",
+      "penalty": -1,
+      "evidence": "N\u1ed9i dung t\u00f4n gi\u00e1o + AI thu\u1ed9c nh\u00f3m b\u1ecb r\u00e0 so\u00e1t ch\u1eb7t h\u01a1n v\u1ec1 ki\u1ebfm ti\u1ec1n.",
+      "detail": "Kh\u00f4ng \u0111o \u0111\u01b0\u1ee3c t\u1eeb d\u1eef li\u1ec7u \u2014 \u0111\u00e1nh gi\u00e1 d\u1ef1a tr\u00ean ch\u00ednh s\u00e1ch n\u1ec1n t\u1ea3ng."
+    }
+  ],
+  "T6_penalty": -2,
+  "cross_title_perf": {
+    "cross_vpd": 15.474885844748858,
+    "clean_vpd": 9.20822164105917
+  },
+  "cross_by_channel": {
+    "faithbluesworship": 55.4,
+    "gospelbluesescape": 45.3,
+    "gospelbluesprayer": 41.0,
+    "graceroadblues": 37.9,
+    "deeprivergospel": 34.6,
+    "goldensoulworship": 27.9,
+    "hopegospelblues": 25.0,
+    "biblebluesofficial": 21.1,
+    "faithbluesrevival": 19.5,
+    "holygrooveofficial": 15.0
+  }
+}

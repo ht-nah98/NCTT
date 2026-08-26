@@ -1,0 +1,125 @@
+{
+  "M4_1_ai_first_top20_pct": 65.0,
+  "model_dist": {
+    "ai-first": 37,
+    "hybrid": 12,
+    "artist/rebroadcast": 4
+  },
+  "M3_1_gini": 0.6257610129024167,
+  "M3_2_newcomer_success_pct": 61.53846153846154,
+  "_young_n": 39,
+  "_young_success_n": 24,
+  "M3_3_status": "KH\u00d4NG \u0110O \u0110\u01af\u1ee2C \u2014 c\u1ea7n \u22652 snapshot",
+  "M3_3_alt_median_age_of_successful": 6.898817345597897,
+  "M3_3_alt_fastest_success": [
+    {
+      "handle": "hopegospelblues",
+      "age_m": 0.6241787122207622,
+      "vpm": 232752.2505263158
+    },
+    {
+      "handle": "soulworshipprayer",
+      "age_m": 1.6754270696452036,
+      "vpm": 270855.12
+    },
+    {
+      "handle": "gracegospelblues",
+      "age_m": 2.7923784494086727,
+      "vpm": 130531.37552941177
+    },
+    {
+      "handle": "goldensoulworship",
+      "age_m": 2.8252299605781865,
+      "vpm": 1078457.6981395348
+    },
+    {
+      "handle": "heavenlyatmosphere.c",
+      "age_m": 2.890932982917214,
+      "vpm": 214186.9090909091
+    }
+  ],
+  "top1_share": 18.450841416602014,
+  "top5_share": 45.822056018442034,
+  "top20pct_share": 63.13467867250709,
+  "tier_dist": {
+    "1-D\u1eabn \u0111\u1ea7u": 3,
+    "2-Th\u00e1ch th\u1ee9c": 16,
+    "3-\u0110ang l\u00ean": 19,
+    "4-H\u1ee5t h\u01a1i": 11,
+    "5-Ng\u1eebng ho\u1ea1t \u0111\u1ed9ng": 4
+  },
+  "top_efficiency": [
+    {
+      "handle": "vintage_gospel_vgx",
+      "view_per_vid": 70244.44186046511,
+      "n_vid": 43,
+      "age_m": 7.818659658344283,
+      "med_dur_min": 4.833333333333333,
+      "per_month": 5.499663865546219,
+      "model": "hybrid"
+    },
+    {
+      "handle": "saltandlight-k2z",
+      "view_per_vid": 69109.0,
+      "n_vid": 60,
+      "age_m": 20.367936925098554,
+      "med_dur_min": 5.041666666666667,
+      "per_month": 2.945806451612903,
+      "model": "hybrid"
+    },
+    {
+      "handle": "goldensoulworship",
+      "view_per_vid": 50128.016393442624,
+      "n_vid": 61,
+      "age_m": 2.8252299605781865,
+      "med_dur_min": 120.075,
+      "per_month": 21.591162790697673,
+      "model": "ai-first"
+    },
+    {
+      "handle": "rivers-and-revival",
+      "view_per_vid": 46973.976744186046,
+      "n_vid": 43,
+      "age_m": 36.793692509855454,
+      "med_dur_min": 52.516666666666666,
+      "per_month": 1.1686785714285715,
+      "model": "artist/rebroadcast"
+    },
+    {
+      "handle": "oldiesgospelradio",
+      "view_per_vid": 46884.02717391304,
+      "n_vid": 184,
+      "age_m": 196.09067017082785,
+      "med_dur_min": 107.48333333333333,
+      "per_month": 0.9383414307254146,
+      "model": "artist/rebroadcast"
+    },
+    {
+      "handle": "holygrooveofficial",
+      "view_per_vid": 39845.612716763004,
+      "n_vid": 173,
+      "age_m": 217.6741130091984,
+      "med_dur_min": 31.583333333333332,
+      "per_month": 0.7947660730455781,
+      "model": "artist/rebroadcast"
+    },
+    {
+      "handle": "heavenlybluesgospel",
+      "view_per_vid": 38732.68253968254,
+      "n_vid": 63,
+      "age_m": 6.636005256241787,
+      "med_dur_min": 7.633333333333334,
+      "per_month": 9.493663366336634,
+      "model": "ai-first"
+    },
+    {
+      "handle": "stillworshipmusic",
+      "view_per_vid": 36234.91780821918,
+      "n_vid": 511,
+      "age_m": 15.801576872536137,
+      "med_dur_min": 2.9166666666666665,
+      "per_month": 32.3385446985447,
+      "model": "ai-first"
+    }
+  ]
+}

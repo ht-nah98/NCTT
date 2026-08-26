@@ -1,0 +1,526 @@
+{
+ "track_id": "zfRJe2HhUjs#05",
+ "track_key": "zfRJe2HhUjs__05",
+ "video_id": "zfRJe2HhUjs",
+ "title": "Light in My Darkness (Psalm 27)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 440.0,
+ "voiced_sec": 254.2,
+ "voice_ratio": 0.578,
+ "n_words": 357,
+ "words_per_min": 48.7,
+ "is_instrumental": false,
+ "n_segments": 63,
+ "n_segments_voiced": 63,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 28.9,
+ "rtf": 0.066,
+ "segments": [
+  {
+   "start": 18.6,
+   "end": 25.98,
+   "text": "The Lord is my light in this darkness deep",
+   "avg_logprob": -0.63,
+   "no_speech_prob": 0.39,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 25.98,
+   "end": 32.44,
+   "text": "Oh, the Lord is my light When the shadows creep",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.481,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 33.58,
+   "end": 39.16,
+   "text": "Who should I fear When He's by my side",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.481,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 39.16,
+   "end": 45.26,
+   "text": "He's my salvation, my strength and guide",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.481,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 45.26,
+   "end": 51.84,
+   "text": "Oh, He's my refuge, where I hide",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.481,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 59.06,
+   "end": 66.04,
+   "text": "When trouble arises, then enemies come around",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.704,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 68.88,
+   "end": 75.96,
+   "text": "When trouble arises, they're trying to take me down",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.704,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 78.4,
+   "end": 83.74,
+   "text": "My God lifts me high upon a rock",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.704,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 83.74,
+   "end": 88.54,
+   "text": "He hides me in his shelter from every shock",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.536,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 88.54,
+   "end": 95.44,
+   "text": "In his tent I'm safe from every shock",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.536,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 98.6,
+   "end": 101.12,
+   "text": "One thing I want",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.536,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 103.56,
+   "end": 106.28,
+   "text": "One thing I need",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.536,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 108.74,
+   "end": 111.88,
+   "text": "To dwell in your house",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.536,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 111.88,
+   "end": 115.6,
+   "text": "Lord that's my plea",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.523,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 117.76,
+   "end": 123.38,
+   "text": "To gaze upon Your beauty every day",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.523,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 123.38,
+   "end": 127.78,
+   "text": "In Your temple Lord I wanna stay",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.523,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 130.2,
+   "end": 133.06,
+   "text": "Oh I wanna stay",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.523,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 135.0,
+   "end": 137.72,
+   "text": "Yes I wanna stay",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.523,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 159.9,
+   "end": 167.12,
+   "text": "Hear my voice Lord, when I crowd loud",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.739,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 169.76,
+   "end": 177.32,
+   "text": "Hear my broken voice rising through the clouds",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.806,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 180.44,
+   "end": 189.12,
+   "text": "Be merciful, answer me Your face, Lord, is all I see",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.806,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 192.61,
+   "end": 199.13,
+   "text": "Your face is all I'll ever see",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.461,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 202.45,
+   "end": 207.01,
+   "text": "Though my father walks away, you won't leave",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.461,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 207.01,
+   "end": 212.51,
+   "text": "Though my mother turns her face, you receive me",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.461,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 212.51,
+   "end": 217.01,
+   "text": "Teach me, Lord, your way, I'm listening",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.461,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 217.01,
+   "end": 219.19,
+   "text": "Lead me on that straight highway",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.194,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 220.45,
+   "end": 222.13,
+   "text": "I'm falling",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.194,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 222.13,
+   "end": 224.31,
+   "text": "I believe I'll see your goodness",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.194,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 226.81,
+   "end": 229.21,
+   "text": "In the land of the living",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.194,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 231.53,
+   "end": 233.41,
+   "text": "Oh, I believe",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.194,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 237.41,
+   "end": 239.07,
+   "text": "One thing I want",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.194,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 241.71,
+   "end": 244.19,
+   "text": "One thing I need",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.194,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 244.19,
+   "end": 246.19,
+   "text": "Just one thing",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 246.71,
+   "end": 250.17,
+   "text": "To dwell in your house",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 250.17,
+   "end": 253.63,
+   "text": "Lord, that's my plea",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 253.63,
+   "end": 256.11,
+   "text": "Every morning",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 256.11,
+   "end": 258.93,
+   "text": "To gaze upon your beauty",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 258.93,
+   "end": 261.13,
+   "text": "Every day",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 261.13,
+   "end": 263.67,
+   "text": "In your temple",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 263.67,
+   "end": 265.85,
+   "text": "Lord, I wanna stay",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 265.85,
+   "end": 268.19,
+   "text": "Let me stay",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 268.85,
+   "end": 271.15,
+   "text": "Oh, I wanna stay",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.418,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 273.03,
+   "end": 276.03,
+   "text": "Yes, I wanna stay",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.731,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 278.39,
+   "end": 281.49,
+   "text": "Wait on the Lord",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.731,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 282.87,
+   "end": 286.03,
+   "text": "Be strong, my soul",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.731,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 288.21,
+   "end": 291.37,
+   "text": "Wait on the Lord",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.731,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 292.85,
+   "end": 295.41,
+   "text": "He'll make you whole",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.731,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 297.69,
+   "end": 300.05,
+   "text": "Take courage now",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.731,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 300.05,
+   "end": 307.49,
+   "text": "Don't lose your way He'll strengthen your heart for another day",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 311.13,
+   "end": 317.29,
+   "text": "Just wait on Him for another day",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 320.51,
+   "end": 330.85,
+   "text": "One thing I want, one thing I want, one thing I need, all I want",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.603,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 330.85,
+   "end": 340.81,
+   "text": "To dwell in your house, Lord that's my plea, forever Lord",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.603,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 340.81,
+   "end": 342.81,
+   "text": "The gaze upon your beauty",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 343.91,
+   "end": 344.91,
+   "text": "Every day",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 345.51,
+   "end": 346.29,
+   "text": "Every day",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 346.29,
+   "end": 347.51,
+   "text": "In your temple",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 347.51,
+   "end": 349.75,
+   "text": "Lord, I wanna stay",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 350.81,
+   "end": 351.79,
+   "text": "Amen",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 353.01,
+   "end": 354.71,
+   "text": "Oh, I wanna stay",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 356.21,
+   "end": 357.29,
+   "text": "Let me stop",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 357.81,
+   "end": 359.75,
+   "text": "Yes, I wanna stay",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 363.01,
+   "end": 365.09,
+   "text": "The Lord is my light",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.131,
+   "track_id": "zfRJe2HhUjs#05"
+  },
+  {
+   "start": 367.19,
+   "end": 379.49,
+   "text": "The Lord is my light I will wait on the Lord",
+   "avg_logprob": -0.556,
+   "no_speech_prob": 0.753,
+   "track_id": "zfRJe2HhUjs#05"
+  }
+ ]
+}

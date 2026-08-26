@@ -1,0 +1,206 @@
+{
+ "track_id": "xkU1wrgAwt0#11",
+ "track_key": "xkU1wrgAwt0__11",
+ "video_id": "xkU1wrgAwt0",
+ "title": "11. Psalm 19 – Heaven’s Blues",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 234.0,
+ "voiced_sec": 140.5,
+ "voice_ratio": 0.6,
+ "n_words": 176,
+ "words_per_min": 45.1,
+ "is_instrumental": false,
+ "n_segments": 23,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.2,
+ "rtf": 0.056,
+ "segments": [
+  {
+   "start": 18.06,
+   "end": 25.94,
+   "text": "The heavens declare in the sky shall out",
+   "avg_logprob": -0.88,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 25.94,
+   "end": 40.68,
+   "text": "No words at all, yet they draw crowds From sunrise flame to the nighttime deep",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 41.94,
+   "end": 47.28,
+   "text": "The voice of God, don't ever sleep",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 48.54,
+   "end": 55.44,
+   "text": "Oh, the Lord, the Lord is perfect and true",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.506,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 57.28,
+   "end": 61.92,
+   "text": "Reviving the soul like morning dew",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.506,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 64.28,
+   "end": 70.02,
+   "text": "More precious than gold, more sweet than white",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.506,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 70.02,
+   "end": 77.34,
+   "text": "His word is honey from the holy vine",
+   "avg_logprob": -0.667,
+   "no_speech_prob": 0.583,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 93.14,
+   "end": 98.78,
+   "text": "The fear of the Lord is clean and bright",
+   "avg_logprob": -0.517,
+   "no_speech_prob": 0.356,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 100.2,
+   "end": 106.3,
+   "text": "It opens my eyes, it gives me sight",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.488,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 106.3,
+   "end": 113.76,
+   "text": "By them I'm a warrior, by them I shine",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.488,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 113.76,
+   "end": 121.02,
+   "text": "He keeps me upright, time after time",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.488,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 123.78,
+   "end": 127.78,
+   "text": "Who can see the sin head down below?",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.296,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 131.02,
+   "end": 135.44,
+   "text": "Cleanse me Lord from the things I don't know",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.296,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 136.78,
+   "end": 142.96,
+   "text": "Let the words of my mouth, the meditations inside",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.296,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 142.96,
+   "end": 151.16,
+   "text": "Be pleasing to you, my rock, my guide",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 151.96,
+   "end": 158.5,
+   "text": "Oh, the law of the law is perfect and true",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 158.5,
+   "end": 164.84,
+   "text": "Reviving the soul like morning dew",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 164.84,
+   "end": 169.0,
+   "text": "More precious than gold",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 169.0,
+   "end": 176.16,
+   "text": "More sweet than wine His word is honey",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 177.32,
+   "end": 183.58,
+   "text": "From the holy vine The skies may roll",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 184.72,
+   "end": 191.0,
+   "text": "But I'll still sing To the maker, the judge",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 192.16,
+   "end": 194.06,
+   "text": "My everything",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11"
+  },
+  {
+   "start": 232.58,
+   "end": 233.98,
+   "text": "you",
+   "avg_logprob": -0.858,
+   "no_speech_prob": 0.87,
+   "track_id": "xkU1wrgAwt0#11"
+  }
+ ]
+}

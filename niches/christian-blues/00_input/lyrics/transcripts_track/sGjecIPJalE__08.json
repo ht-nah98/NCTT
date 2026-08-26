@@ -1,0 +1,230 @@
+{
+ "track_id": "sGjecIPJalE#08",
+ "track_key": "sGjecIPJalE__08",
+ "video_id": "sGjecIPJalE",
+ "title": "Jerusalem, Jerusalem (Matthew 23)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 216.0,
+ "voiced_sec": 157.9,
+ "voice_ratio": 0.731,
+ "n_words": 218,
+ "words_per_min": 60.6,
+ "is_instrumental": false,
+ "n_segments": 26,
+ "n_segments_voiced": 26,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.6,
+ "rtf": 0.054,
+ "segments": [
+  {
+   "start": 5.2,
+   "end": 14.06,
+   "text": "As I drew near and saw the place, my tears began to fall",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.79,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 16.72,
+   "end": 24.56,
+   "text": "If you had known this peace today, you would have heard my call",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.79,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 26.48,
+   "end": 34.64,
+   "text": "But now your eyes are blind to see The things that make you free",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.587,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 37.76,
+   "end": 46.12,
+   "text": "Your enemies will help you in And bring you to your knees",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.587,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 53.38,
+   "end": 62.12,
+   "text": "How often I longed for you to gather you close like a mother head",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.709,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 63.44,
+   "end": 70.78,
+   "text": "Protecting her young from the dew But you were not willing",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.709,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 70.78,
+   "end": 77.74,
+   "text": "You turned away, your heart grew hard once more",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 80.34,
+   "end": 86.62,
+   "text": "Jerusalem, Jerusalem, you closed the open door",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 88.6,
+   "end": 93.06,
+   "text": "They'll build their ramparts all over",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 93.78,
+   "end": 97.82,
+   "text": "Surround United States",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 99.68,
+   "end": 107.38,
+   "text": "They'll crush you down your children too, because you turned away",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.799,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 110.06,
+   "end": 118.28,
+   "text": "You did not know the hour break, when God had come to thee",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.799,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 119.84,
+   "end": 129.08,
+   "text": "How often I would have gathered you But you refused to see",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.712,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 134.12,
+   "end": 141.46,
+   "text": "Jerusalem, Jerusalem How often I longed for you",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.712,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 141.46,
+   "end": 146.1,
+   "text": "Together you close like a mother hand",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 146.1,
+   "end": 151.66,
+   "text": "Protecting her young from the dew",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 151.66,
+   "end": 154.34,
+   "text": "But you were not willing",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 154.94,
+   "end": 161.16,
+   "text": "You turned away, your heart grew hard once more",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 164.12,
+   "end": 166.68,
+   "text": "Jerusalem, Jerusalem",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 166.68,
+   "end": 170.68,
+   "text": "And then you close the open door",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 174.28,
+   "end": 178.06,
+   "text": "Behold, your house is left desolate",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 179.6,
+   "end": 183.58,
+   "text": "You will not see me again",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 184.68,
+   "end": 189.76,
+   "text": "Until you say, blessed is he who comes",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 189.76,
+   "end": 195.86,
+   "text": "In the name of the Lord, amen.",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 199.34,
+   "end": 205.76,
+   "text": "Jerusalem, Jerusalem, I still weep",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#08"
+  },
+  {
+   "start": 207.0,
+   "end": 210.36,
+   "text": "For You once more.",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#08"
+  }
+ ]
+}

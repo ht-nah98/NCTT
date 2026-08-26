@@ -1,0 +1,342 @@
+{
+ "track_id": "NwYKGZpyYs8#10",
+ "track_key": "NwYKGZpyYs8__10",
+ "video_id": "NwYKGZpyYs8",
+ "title": "The Good Shepherd (John 10)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 192.0,
+ "voiced_sec": 169.8,
+ "voice_ratio": 0.884,
+ "n_words": 362,
+ "words_per_min": 113.1,
+ "is_instrumental": false,
+ "n_segments": 40,
+ "n_segments_voiced": 40,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 39.8,
+ "rtf": 0.207,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.12,
+   "text": "He said the sheep fold hath adored",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 3.12,
+   "end": 6.28,
+   "text": "Some climbing wrongs are meant to pur",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 6.28,
+   "end": 9.82,
+   "text": "The one who enters by the gate",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 9.82,
+   "end": 13.0,
+   "text": "Is shepherd true, not thee for fake",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 13.0,
+   "end": 16.4,
+   "text": "The watchman opens his his call",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 16.4,
+   "end": 19.66,
+   "text": "The sheep know him, they follow all",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 19.66,
+   "end": 23.12,
+   "text": "He calls by name, they hear his voice",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 23.12,
+   "end": 26.84,
+   "text": "They walk behind him by their choice",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.241,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 28.22,
+   "end": 34.72,
+   "text": "I am the gate, I am the way Who enters in is safe to stay",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.705,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 34.72,
+   "end": 41.46,
+   "text": "I am the shepherd, good and true I lay my life down for you",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.705,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 41.46,
+   "end": 48.04,
+   "text": "I am the gate, I am the way The thief brings harm and leads astray",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.705,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 48.04,
+   "end": 53.84,
+   "text": "I give them life both full and free, forever held securely",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 56.1,
+   "end": 61.18,
+   "text": "The stranger voice they will not hear, they flee away",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 61.18,
+   "end": 66.36,
+   "text": "They sense the fear, this figure's speech they did not know",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 66.36,
+   "end": 69.62,
+   "text": "So Jesus made it clear and slow",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 69.62,
+   "end": 76.18,
+   "text": "The thief comes only stealing, kill destroy the flock by evil will",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 76.18,
+   "end": 83.82,
+   "text": "But I have come that life may rise Abundant life before your eyes",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 86.18,
+   "end": 96.86,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 100.18,
+   "end": 104.68,
+   "text": "The hired hand will run away when wolves appear.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 105.08,
+   "end": 112.98,
+   "text": "He will not stay, he does not own the sheep at all, so when they scatter he will fall.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 112.98,
+   "end": 116.34,
+   "text": "I know my sheep, my sheep know me",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 116.34,
+   "end": 119.22,
+   "text": "As Father knows me perfectly",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 119.22,
+   "end": 123.24,
+   "text": "I lay my life down on my own",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 123.24,
+   "end": 126.8,
+   "text": "And take it up when it is done",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 129.76,
+   "end": 133.0,
+   "text": "I am the gate, I am the way",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 133.0,
+   "end": 136.38,
+   "text": "Who enters in is safe to stay",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 136.38,
+   "end": 139.82,
+   "text": "I am the shepherd, good and true",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 139.82,
+   "end": 143.08,
+   "text": "I lay my life down for you",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 143.08,
+   "end": 146.24,
+   "text": "I am the gate, I am the way",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 146.24,
+   "end": 149.72,
+   "text": "The thief brings harm and leads astray",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 149.72,
+   "end": 153.3,
+   "text": "I give them life both full and free",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 153.3,
+   "end": 155.48,
+   "text": "Forever held securely",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 157.8,
+   "end": 161.38,
+   "text": "I have more sheep not of this pen",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 161.38,
+   "end": 164.66,
+   "text": "They too will hear my voice again",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 164.66,
+   "end": 168.0,
+   "text": "One flock, one shepherd, this will be",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 168.0,
+   "end": 171.3,
+   "text": "by Father giving unto me.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 171.9,
+   "end": 174.86,
+   "text": "The leaders picked up stones and rage.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 175.14,
+   "end": 178.2,
+   "text": "He said, which work has earned this state?",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 178.68,
+   "end": 181.54,
+   "text": "I am the Father's stand as one.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#10"
+  },
+  {
+   "start": 182.12,
+   "end": 186.7,
+   "text": "They tried to seize him, but he was gone.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#10"
+  }
+ ]
+}

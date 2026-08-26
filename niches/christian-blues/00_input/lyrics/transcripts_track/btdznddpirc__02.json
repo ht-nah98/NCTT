@@ -1,0 +1,238 @@
+{
+ "track_id": "btdznddpirc#02",
+ "track_key": "btdznddpirc__02",
+ "video_id": "btdznddpirc",
+ "title": "2. Hallelujah on the Hillside",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 193.0,
+ "voiced_sec": 119.7,
+ "voice_ratio": 0.62,
+ "n_words": 205,
+ "words_per_min": 63.7,
+ "is_instrumental": false,
+ "n_segments": 27,
+ "n_segments_voiced": 27,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.6,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 1.98,
+   "end": 10.98,
+   "text": "When may I, waves may rise But I'm walking with the one who calms the sky",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.782,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 13.06,
+   "end": 22.28,
+   "text": "When may I, waves may rise But I'm walking with the one who calms the sky",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.782,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 60.0,
+   "end": 69.44,
+   "text": "tree hoping Jesus might pass by and see then the Savior stopped and looked my way",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.581,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 70.08,
+   "end": 81.7,
+   "text": "with a smile that lit the day say calm down Zacchaeus hurry on home today my",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.581,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 81.7,
+   "end": 84.56,
+   "text": "My table's where you belong",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 85.14,
+   "end": 87.44,
+   "text": "Come down Zacchaeus",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 87.44,
+   "end": 89.26,
+   "text": "The Lord's in your street",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 89.26,
+   "end": 92.02,
+   "text": "He's got joy in his heart",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 92.64,
+   "end": 94.14,
+   "text": "And bread to eat",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 94.14,
+   "end": 96.42,
+   "text": "No sin too deep",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 96.98,
+   "end": 99.0,
+   "text": "No past too wrong",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 99.0,
+   "end": 101.38,
+   "text": "When Jesus calls",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 101.38,
+   "end": 103.46,
+   "text": "You can't stay long",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.541,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 112.4,
+   "end": 117.78,
+   "text": "I came running down with my head held low",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 117.78,
+   "end": 122.48,
+   "text": "Said Lord, there's something you ought to know",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 122.48,
+   "end": 127.3,
+   "text": "If I stole the coin I'll pay back for",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 127.3,
+   "end": 132.16,
+   "text": "Gonna bless the poor, won't cheat no more",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 132.16,
+   "end": 136.7,
+   "text": "Then he laughed with grace said, son you're free",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 136.7,
+   "end": 140.8,
+   "text": "Salvation's come to your family",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.476,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 142.38,
+   "end": 146.44,
+   "text": "Who's he here for? The lost and bound",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.476,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 146.44,
+   "end": 150.8,
+   "text": "What's he bring? A grace profound",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.476,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 150.8,
+   "end": 155.46,
+   "text": "Come down Zacchaeus, the Lord's in your street",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.476,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 155.46,
+   "end": 160.26,
+   "text": "He's got joy in his heart and bread to eat",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.476,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 160.26,
+   "end": 165.14,
+   "text": "No sin too deep, no past too wrong",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.476,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 165.14,
+   "end": 169.88,
+   "text": "When Jesus calls you can't stay long",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.042,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 179.14,
+   "end": 181.02,
+   "text": "Come on down",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.042,
+   "track_id": "btdznddpirc#02"
+  },
+  {
+   "start": 183.14,
+   "end": 185.78,
+   "text": "He's calling you by name",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.042,
+   "track_id": "btdznddpirc#02"
+  }
+ ]
+}

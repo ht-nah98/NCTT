@@ -1,0 +1,574 @@
+{
+ "track_id": "5n1cYN-yDmo#09",
+ "track_key": "5n1cYN-yDmo__09",
+ "video_id": "5n1cYN-yDmo",
+ "title": "I'm Gonna Be Ready",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 288.0,
+ "voiced_sec": 141.0,
+ "voice_ratio": 0.49,
+ "n_words": 426,
+ "words_per_min": 88.7,
+ "is_instrumental": false,
+ "n_segments": 69,
+ "n_segments_voiced": 55,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 39.3,
+ "rtf": 0.136,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 13.08,
+   "text": "Mmm, Lord.",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 19.28,
+   "end": 19.68,
+   "text": "Yeah.",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 22.68,
+   "end": 23.86,
+   "text": "You prepare me, Jesus.",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 26.0,
+   "end": 26.86,
+   "text": "Mmm,",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 28.7,
+   "end": 34.78,
+   "text": "I've been walking through shadows, face and valleys low",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 34.78,
+   "end": 41.12,
+   "text": "Trying hard to keep my faith when storms begin to blow",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 41.86,
+   "end": 48.48,
+   "text": "But every time I feel the pressure, you remind me who you are",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 48.48,
+   "end": 53.52,
+   "text": "A healer in my heartbreak, a light in the dark",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 54.96,
+   "end": 61.32,
+   "text": "You carry every burden You calm every fear",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.895,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 62.52,
+   "end": 68.74,
+   "text": "You whisper to my spirit My child, I'm right here",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.895,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 68.74,
+   "end": 74.46,
+   "text": "So even when I stumble I'm covered by your grace",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.895,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 75.24,
+   "end": 81.0,
+   "text": "You lift me up again and put me back in place",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 82.8,
+   "end": 86.44,
+   "text": "So I won't run, I won't hide",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 86.44,
+   "end": 89.84,
+   "text": "I'll stand firm with you by my side",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 89.84,
+   "end": 92.76,
+   "text": "You're the strength deep inside of me",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 93.46,
+   "end": 95.78,
+   "text": "Lord, prepare me for my destiny",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 96.46,
+   "end": 100.22,
+   "text": "I'm gonna be ready, ready Lord, ready Lord",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 100.22,
+   "end": 102.76,
+   "text": "When you call my name I'll rise to stand",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 102.76,
+   "end": 103.56,
+   "text": "Yes, I will",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 103.56,
+   "end": 106.9,
+   "text": "You've been shaping me, breaking me, holding me with love",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 106.9,
+   "end": 109.68,
+   "text": "Covered by the power of heaven above",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 109.68,
+   "end": 111.66,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 111.66,
+   "end": 113.34,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 113.34,
+   "end": 116.18,
+   "text": "No whatever comes, I won't be afraid",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 116.76,
+   "end": 119.52,
+   "text": "With your hand in mine",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 119.52,
+   "end": 121.66,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 122.76,
+   "end": 124.98,
+   "text": "I walk through disappointment",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 125.76,
+   "end": 128.3,
+   "text": "I've cried through long nights",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 128.3,
+   "end": 134.52,
+   "text": "But you turned all my mourning into joy and new life.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 134.62,
+   "end": 137.96,
+   "text": "You taught me patience in the wait and hope and pain.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 138.46,
+   "end": 141.34,
+   "text": "And now I stand stronger in Jesus' name.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 141.84,
+   "end": 144.3,
+   "text": "You opened every door that was locked in my face.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 145.14,
+   "end": 148.04,
+   "text": "You rewrite every chapter with mercy and grace.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 148.24,
+   "end": 151.54,
+   "text": "So I trust in your timing, trust in your plan.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 152.0,
+   "end": 154.68,
+   "text": "You're shaping my future with your mighty head.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 171.1,
+   "end": 173.64,
+   "text": "I'm ready Jesus ready for you.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 173.64,
+   "end": 176.1,
+   "text": "When you call my name, I'll restate it.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 176.1,
+   "end": 176.8,
+   "text": "Yes I will.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 176.9,
+   "end": 180.1,
+   "text": "You've been shaping me, breaking me, molding me with love.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 180.1,
+   "end": 183.18,
+   "text": "Liftin' me higher with power from above",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 183.18,
+   "end": 185.78,
+   "text": "I'm gonna be ready for it",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 185.78,
+   "end": 186.38,
+   "text": "Oh, I'm ready",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 186.38,
+   "end": 189.12,
+   "text": "Know whatever comes, I won't be afraid",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 189.12,
+   "end": 190.38,
+   "text": "With your hand in mine",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 190.38,
+   "end": 192.52,
+   "text": "With your hand in mine",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 192.52,
+   "end": 194.72,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 197.14,
+   "end": 199.28,
+   "text": "When the rain falls down",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 199.28,
+   "end": 200.38,
+   "text": "You lift me",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 200.38,
+   "end": 201.96,
+   "text": "When the fire burns hot",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 201.96,
+   "end": 203.56,
+   "text": "You keep me",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 203.56,
+   "end": 204.6,
+   "text": "Through the trial",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 205.38,
+   "end": 206.9,
+   "text": "You hold me",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 206.9,
+   "end": 209.24,
+   "text": "Jesus, You're my refuge",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 213.22,
+   "end": 214.4,
+   "text": "I'm ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 215.86,
+   "end": 219.34,
+   "text": "You prepared my heart, you restored my soul",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 219.34,
+   "end": 221.38,
+   "text": "Now I'm walking in purpose, Lord",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 221.38,
+   "end": 222.66,
+   "text": "Take control",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 222.66,
+   "end": 224.14,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 227.36,
+   "end": 231.14,
+   "text": "Oh, yeah, I'm stepping out in faith",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 232.1,
+   "end": 235.66,
+   "text": "I'm covered by the kingdom of heaven above",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 235.66,
+   "end": 237.52,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 237.52,
+   "end": 238.4,
+   "text": "I'm ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 238.4,
+   "end": 239.22,
+   "text": "I'm ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 239.22,
+   "end": 246.06,
+   "text": "I am, Lord you made me to be through your mercy, grace and victory",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 246.92,
+   "end": 249.38,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 261.98,
+   "end": 263.76,
+   "text": "I'm ready Lord",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 265.4,
+   "end": 267.34,
+   "text": "You prepared me",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 269.22,
+   "end": 275.9,
+   "text": "You keep me, all of me ready",
+   "avg_logprob": -0.551,
+   "no_speech_prob": 0.204,
+   "track_id": "5n1cYN-yDmo#09"
+  },
+  {
+   "start": 278.22,
+   "end": 281.96,
+   "text": "Ready when you call my name",
+   "avg_logprob": -0.551,
+   "no_speech_prob": 0.204,
+   "track_id": "5n1cYN-yDmo#09"
+  }
+ ]
+}

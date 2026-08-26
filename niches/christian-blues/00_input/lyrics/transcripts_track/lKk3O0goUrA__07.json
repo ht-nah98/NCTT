@@ -1,0 +1,294 @@
+{
+ "track_id": "lKk3O0goUrA#07",
+ "track_key": "lKk3O0goUrA__07",
+ "video_id": "lKk3O0goUrA",
+ "title": "Still Standing",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 345.0,
+ "voiced_sec": 239.4,
+ "voice_ratio": 0.694,
+ "n_words": 277,
+ "words_per_min": 48.2,
+ "is_instrumental": false,
+ "n_segments": 34,
+ "n_segments_voiced": 34,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.2,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 12.2,
+   "end": 22.64,
+   "text": "I'm still here after all I've been through thank you Jesus",
+   "avg_logprob": -0.603,
+   "no_speech_prob": 0.651,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 25.62,
+   "end": 39.06,
+   "text": "I've been knocked down But I'm still on my feet",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.563,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 45.56,
+   "end": 58.62,
+   "text": "I've been pushed around But I never faced defeat",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.503,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 63.8,
+   "end": 69.3,
+   "text": "Every storm I thought would break me",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.748,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 73.86,
+   "end": 79.04,
+   "text": "You turned into my song",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.748,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 85.16,
+   "end": 99.04,
+   "text": "Every setback only showed me That you've been with me all along",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.504,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 104.7,
+   "end": 112.84,
+   "text": "I should have been gone by now But your mercy said not yet",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.464,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 114.3,
+   "end": 121.38,
+   "text": "Now I'm standing in your favor And I'll never forget",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.464,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 121.38,
+   "end": 129.38,
+   "text": "I'm still standing still standing by the grace of God",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.532,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 130.04,
+   "end": 136.38,
+   "text": "Grace of God I'm still standing still standing",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.532,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 137.04,
+   "end": 141.08,
+   "text": "And I'll keep pressing on",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.532,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 144.5,
+   "end": 149.22,
+   "text": "When my friends walked away",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.69,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 154.28,
+   "end": 159.92,
+   "text": "Lord, you stay by my side",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.69,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 164.88,
+   "end": 170.82,
+   "text": "When the doors all closed around me",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.416,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 174.3,
+   "end": 180.1,
+   "text": "You were there to open wide",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.416,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 184.92,
+   "end": 189.34,
+   "text": "Every test became my testimony",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.425,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 194.8,
+   "end": 200.26,
+   "text": "Every trial built my faith",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.425,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 205.22,
+   "end": 210.52,
+   "text": "Now I lift my hands and worship",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.294,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 214.6,
+   "end": 220.48,
+   "text": "Thankful for your saving grace",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.294,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 225.62,
+   "end": 233.94,
+   "text": "I've seen your hand at work You've been my strength, my shield",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.712,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 235.48,
+   "end": 242.92,
+   "text": "Now I'll tell the world about you Cause my victory is sealed",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.712,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 242.92,
+   "end": 250.86,
+   "text": "I'm still standing still standing by the grace of God",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.299,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 250.86,
+   "end": 252.94,
+   "text": "Grace of God",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.299,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 252.94,
+   "end": 261.08,
+   "text": "I'm still standing still standing and I'll keep pressing on",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.299,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 264.92,
+   "end": 272.26,
+   "text": "I could've given up but I'm still standing I could've lost my way",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.299,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 272.26,
+   "end": 277.02,
+   "text": "I'm still standing through every trial",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.302,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 277.02,
+   "end": 282.04,
+   "text": "I'm still standing by the grace of God",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.302,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 282.04,
+   "end": 286.0,
+   "text": "I'm still standing, I'm still here",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.302,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 286.0,
+   "end": 290.66,
+   "text": "Still standing, thank you Jesus",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.302,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 291.26,
+   "end": 295.74,
+   "text": "Grace of God, I'm still standing",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.302,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 295.74,
+   "end": 300.96,
+   "text": "I'm still standing, still standing, and I'll keep pressing on",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.252,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 303.74,
+   "end": 310.96,
+   "text": "I'm still standing, still standing, by the grace of God",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.252,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 313.74,
+   "end": 321.3,
+   "text": "I'm still standing, still standing, and I'll keep pressing on",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.252,
+   "track_id": "lKk3O0goUrA#07"
+  },
+  {
+   "start": 321.3,
+   "end": 338.28,
+   "text": "Oh, still here, still standing, only by your grace law.",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.392,
+   "track_id": "lKk3O0goUrA#07"
+  }
+ ]
+}

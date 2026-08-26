@@ -1,0 +1,414 @@
+{
+ "track_id": "5n1cYN-yDmo#07",
+ "track_key": "5n1cYN-yDmo__07",
+ "video_id": "5n1cYN-yDmo",
+ "title": "Alpha & Omega",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 252.0,
+ "voiced_sec": 159.8,
+ "voice_ratio": 0.634,
+ "n_words": 281,
+ "words_per_min": 66.9,
+ "is_instrumental": false,
+ "n_segments": 49,
+ "n_segments_voiced": 49,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 42.5,
+ "rtf": 0.168,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.42,
+   "text": "I",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 9.54,
+   "end": 13.5,
+   "text": "You were here before the sunrise",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 15.56,
+   "end": 19.16,
+   "text": "And you'll be here when the stars all fade",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 20.82,
+   "end": 26.28,
+   "text": "How fun I'm making we worship you",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 28.6,
+   "end": 32.26,
+   "text": "From the first breath I ever breathed",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 32.26,
+   "end": 34.9,
+   "text": "Lord, You were watching over me",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 34.9,
+   "end": 37.64,
+   "text": "In every joy, in every tear",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 38.28,
+   "end": 41.22,
+   "text": "Your holy presence felt so near",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 41.22,
+   "end": 44.8,
+   "text": "You shaped my heart with Your own hands",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 44.8,
+   "end": 47.86,
+   "text": "You wrote my life before time began",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 47.86,
+   "end": 50.92,
+   "text": "No matter where this road may go",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 50.92,
+   "end": 53.6,
+   "text": "Jesus, You're the one I lean on",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 64.42,
+   "end": 67.62,
+   "text": "You're the Alpha and the Omega",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 67.62,
+   "end": 71.16,
+   "text": "Beginning and the end",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 71.16,
+   "end": 74.28,
+   "text": "My Savior and Redeemer",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 74.28,
+   "end": 77.52,
+   "text": "My Father and my friend",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 77.52,
+   "end": 80.68,
+   "text": "You're the one who never changes",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 80.68,
+   "end": 83.44,
+   "text": "You're faithful through it all",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 83.44,
+   "end": 83.58,
+   "text": "You're the Alpha and the Omega",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 84.52,
+   "end": 86.58,
+   "text": "I'll fall in omega",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 87.58,
+   "end": 90.3,
+   "text": "I'll forever call your name",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 92.48,
+   "end": 95.96,
+   "text": "When the night feels heavy on my soul",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 95.96,
+   "end": 98.94,
+   "text": "You're the light that makes the shadows go",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 98.94,
+   "end": 102.22,
+   "text": "Pull me close when I'm falling down",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 102.22,
+   "end": 105.42,
+   "text": "Your mercy lifts me off the ground",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 105.42,
+   "end": 108.44,
+   "text": "You speak peace over every storm",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 108.44,
+   "end": 111.34,
+   "text": "Your love keeps my spirit warm",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 111.34,
+   "end": 114.14,
+   "text": "And in the valley I hear your voice",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 114.14,
+   "end": 117.12,
+   "text": "Child, I've been with you all along",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 117.12,
+   "end": 120.74,
+   "text": "Rejoice, you're my shelter in the rain",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 121.34,
+   "end": 123.86,
+   "text": "My healer in the pain",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 123.86,
+   "end": 128.36,
+   "text": "So I lift my hands again",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 129.34,
+   "end": 131.62,
+   "text": "Your night, oh, baby",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 132.34,
+   "end": 135.0,
+   "text": "Beginning at the end",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 135.0,
+   "end": 138.2,
+   "text": "My savior and redeemer",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 138.2,
+   "end": 141.36,
+   "text": "My Father and my friend",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 141.36,
+   "end": 144.64,
+   "text": "You're the one who never changes",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 144.64,
+   "end": 147.7,
+   "text": "You're faithful through it all",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 148.2,
+   "end": 150.96,
+   "text": "Alpha and Omega",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 150.96,
+   "end": 156.28,
+   "text": "I'll forever call your name, yeah",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 156.28,
+   "end": 159.14,
+   "text": "From glory to glory",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 159.14,
+   "end": 162.36,
+   "text": "You're writing my story",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 163.2,
+   "end": 166.6,
+   "text": "Jesus, you're holy forever",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 168.2,
+   "end": 175.4,
+   "text": "No power can break you, no darkness can shake you",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.834,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 175.4,
+   "end": 181.96,
+   "text": "My heart will proclaim Jesus, King forever",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.834,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 191.2,
+   "end": 195.74,
+   "text": "My father and my friend.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 198.12,
+   "end": 201.96,
+   "text": "Your love will never fall.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 203.62,
+   "end": 205.2,
+   "text": "Alpha and Omega.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07"
+  },
+  {
+   "start": 205.96,
+   "end": 209.8,
+   "text": "Jesus, your Lord of all.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07"
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "track_id": "Ss0pA-Cw8V0#20",
+ "track_key": "Ss0pA-Cw8V0__20",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Holy Drip",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 178.0,
+ "voiced_sec": 152.5,
+ "voice_ratio": 0.857,
+ "n_words": 330,
+ "words_per_min": 111.3,
+ "is_instrumental": false,
+ "n_segments": 47,
+ "n_segments_voiced": 47,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 31.9,
+ "rtf": 0.179,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.9,
+   "text": "Oh",
+   "avg_logprob": -0.83,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 4.56,
+   "end": 10.92,
+   "text": "And the Lord said let my life shine through",
+   "avg_logprob": -0.83,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 13.22,
+   "end": 21.74,
+   "text": "So the world may see my glory",
+   "avg_logprob": -0.83,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 26.08,
+   "end": 30.96,
+   "text": "Holy drip, oh, Oh Can you like, oh,",
+   "avg_logprob": -0.718,
+   "no_speech_prob": 0.72,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 31.32,
+   "end": 35.74,
+   "text": "Every step, every fight, oh, Oh You make it right, oh,",
+   "avg_logprob": -0.718,
+   "no_speech_prob": 0.72,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 36.74,
+   "end": 41.7,
+   "text": "Holy drip, oh, Oh Covered in your grave, oh",
+   "avg_logprob": -0.718,
+   "no_speech_prob": 0.72,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 41.7,
+   "end": 48.32,
+   "text": "Shining through the storm, oh, Oh I runnin' my way, yeah, yeah, yeah",
+   "avg_logprob": -0.718,
+   "no_speech_prob": 0.72,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 48.32,
+   "end": 51.14,
+   "text": "Came from the bottom now I'm rising with purpose",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 51.14,
+   "end": 53.76,
+   "text": "God opened doors, yeah you show me the surface",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 54.32,
+   "end": 56.42,
+   "text": "Trial tried to break me but I stayed in the service",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 56.42,
+   "end": 59.1,
+   "text": "Now I'm drippin' holy every move is nervous",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 59.1,
+   "end": 61.8,
+   "text": "Saved from the darkness, baptized in the spirit",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 62.32,
+   "end": 64.66,
+   "text": "Every chain broken, every demon can hear it",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 64.66,
+   "end": 66.94,
+   "text": "Walk with the lion, fear can't interfere",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 66.94,
+   "end": 69.66,
+   "text": "He got my back every step he's near it",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 69.66,
+   "end": 72.16,
+   "text": "Light on my soul, shining through the pain",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 72.16,
+   "end": 74.84,
+   "text": "Holy drip flow, I'm never the same",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.651,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 75.82,
+   "end": 78.62,
+   "text": "I'm calling your name forever in Christ",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.725,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 78.62,
+   "end": 79.9,
+   "text": "Yeah, I praise the King's reign",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.725,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 79.9,
+   "end": 83.4,
+   "text": "Holy drip, oh, I walk in your light",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.725,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 84.28,
+   "end": 87.14,
+   "text": "Every step, every fight, yeah",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.725,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 87.14,
+   "end": 94.62,
+   "text": "You make it right, oh, Holy drip, oh, Cover the engraved",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.725,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 94.62,
+   "end": 100.32,
+   "text": "Shining through the stone, oh, I'm running my race, yeah",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.725,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 100.32,
+   "end": 102.24,
+   "text": "Yeah, yeah, yeah",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.725,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 102.24,
+   "end": 107.38,
+   "text": "Got the word on me, sounds in my pocket Slinging bless and daily came, nobody knockin'",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.587,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 107.7,
+   "end": 112.48,
+   "text": "Haters talk loud, but I hear the prophet My faith never quiet, yet my spirit's on rocket",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.587,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 112.48,
+   "end": 117.94,
+   "text": "Miracles follow, doors swing open Chains fall off, yet a loving outspoken",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.587,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 117.94,
+   "end": 123.3,
+   "text": "From the valley to victory, I'm chosen Holy drip swag, my soul ain't broken",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.587,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 123.3,
+   "end": 128.52,
+   "text": "This drip ain't just fashion, it's spirit and action Walkin' holy, this show the world compassion",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.587,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 128.52,
+   "end": 131.24,
+   "text": "Every move, every step, let us love it attraction",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 131.24,
+   "end": 134.04,
+   "text": "Yeah, yeah, holy drip",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 134.04,
+   "end": 136.76,
+   "text": "I walk in your light",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 137.58,
+   "end": 139.94,
+   "text": "Every step, every fight",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 140.52,
+   "end": 142.34,
+   "text": "You make it right",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 143.58,
+   "end": 144.94,
+   "text": "Holy drip",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 146.08,
+   "end": 147.52,
+   "text": "Covered in your gray",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 148.4,
+   "end": 150.34,
+   "text": "Shining through the storm",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 151.52,
+   "end": 153.68,
+   "text": "I'm running my red day",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.496,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 153.68,
+   "end": 154.42,
+   "text": "Yeah",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 155.68,
+   "end": 157.96,
+   "text": "Holy drip",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 158.68,
+   "end": 160.44,
+   "text": "Shine on me, love",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 160.44,
+   "end": 163.44,
+   "text": "Holy drip",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 163.44,
+   "end": 166.12,
+   "text": "Holy drip",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 166.68,
+   "end": 168.78,
+   "text": "Holy drip",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 168.78,
+   "end": 170.92,
+   "text": "I'm covered in your words",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 171.68,
+   "end": 174.1,
+   "text": "Holy drip",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  },
+  {
+   "start": 174.1,
+   "end": 176.6,
+   "text": "Holy drip",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#20"
+  }
+ ]
+}

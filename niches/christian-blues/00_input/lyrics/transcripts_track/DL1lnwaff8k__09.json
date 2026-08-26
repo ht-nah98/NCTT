@@ -1,0 +1,174 @@
+{
+ "track_id": "DL1lnwaff8k#09",
+ "track_key": "DL1lnwaff8k__09",
+ "video_id": "DL1lnwaff8k",
+ "title": "8. Ecclesiastes 8 – It Shall Be Well",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 229.0,
+ "voiced_sec": 147.6,
+ "voice_ratio": 0.644,
+ "n_words": 208,
+ "words_per_min": 54.5,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.1,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 18.36,
+   "end": 27.9,
+   "text": "Who is like the wise man's mind? His face shines bright, his words refine",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.357,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 33.08,
+   "end": 42.16,
+   "text": "Keep the king's word for old sake There's a time to bow and time to break",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.127,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 48.12,
+   "end": 56.0,
+   "text": "To every purpose there's a time in law Though man's heart trembles with what he saw",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.127,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 60.5,
+   "end": 64.64,
+   "text": "No man can stop the wind from blowing",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.546,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 64.64,
+   "end": 70.06,
+   "text": "Oh hold back death when it comes calling",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.546,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 73.34,
+   "end": 76.98,
+   "text": "Oh a sinner made do evil long",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.546,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 79.66,
+   "end": 83.66,
+   "text": "And days stretch out like an endless song",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.546,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 87.48,
+   "end": 91.66,
+   "text": "I know it shall be well at last",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 93.6,
+   "end": 97.66,
+   "text": "With him who fears the Lord stand fast",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 102.2,
+   "end": 107.66,
+   "text": "The wicked rise and justice stalls",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 107.76,
+   "end": 123.24,
+   "text": "They do their dirt in golden halls But fear not, judgment is not blind",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.609,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 124.94,
+   "end": 128.92,
+   "text": "God will wait all in time",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.554,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 133.6,
+   "end": 139.7,
+   "text": "There'll be times when things don't fit",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.554,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 140.24,
+   "end": 146.4,
+   "text": "The righteous suffer, the wicked sin",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.554,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 146.4,
+   "end": 162.78,
+   "text": "But joy is still the gift we hold To eat and drink before we roll",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.479,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 163.8,
+   "end": 174.54,
+   "text": "Though a sinner may do evil long, And days stretch out like an endless song,",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.381,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 178.78,
+   "end": 188.96,
+   "text": "I know it shall be well at last, With him who fears the Lord steadfast,",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.381,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 191.04,
+   "end": 202.22,
+   "text": "No man can find God's full design Though he seek with all his mind",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.448,
+   "track_id": "DL1lnwaff8k#09"
+  },
+  {
+   "start": 205.96,
+   "end": 215.92,
+   "text": "Still I say, through night and flame It shall be well with those who fear his name",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.448,
+   "track_id": "DL1lnwaff8k#09"
+  }
+ ]
+}

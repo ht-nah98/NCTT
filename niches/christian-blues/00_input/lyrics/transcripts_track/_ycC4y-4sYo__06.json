@@ -1,0 +1,270 @@
+{
+ "track_id": "_ycC4y-4sYo#06",
+ "track_key": "_ycC4y-4sYo__06",
+ "video_id": "_ycC4y-4sYo",
+ "title": "GOD of My Salvation",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 224.0,
+ "voiced_sec": 161.6,
+ "voice_ratio": 0.722,
+ "n_words": 287,
+ "words_per_min": 76.9,
+ "is_instrumental": false,
+ "n_segments": 31,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.9,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.1,
+   "text": "and renew a right spirit within me.",
+   "avg_logprob": -0.53,
+   "no_speech_prob": 0.488,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 13.32,
+   "end": 19.54,
+   "text": "The Lord is my light and my salvation.",
+   "avg_logprob": -0.53,
+   "no_speech_prob": 0.488,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 21.9,
+   "end": 25.94,
+   "text": "Who shall I fear?",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.73,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 31.44,
+   "end": 36.48,
+   "text": "The Lord is the strength of my life",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.73,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 36.48,
+   "end": 41.52,
+   "text": "Of whom shall I be afraid?",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.73,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 47.76,
+   "end": 53.02,
+   "text": "When the wicked, even my enemies and my foes",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 53.02,
+   "end": 59.1,
+   "text": "Came upon me to eat up my flesh, they stumbled and fell",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 63.18,
+   "end": 66.92,
+   "text": "Though an host shouldn't camp against me",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 69.1,
+   "end": 77.54,
+   "text": "My heart shall not fear though war should rise against me",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 79.06,
+   "end": 82.08,
+   "text": "In this will I be confident",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 84.12,
+   "end": 88.42,
+   "text": "One thing have I desired of the Lord",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 90.14,
+   "end": 92.72,
+   "text": "That will I seek after",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 95.2,
+   "end": 103.56,
+   "text": "That I may dwell in the house of the Lord All the days of my life",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.622,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 105.72,
+   "end": 115.96,
+   "text": "To behold the beauty of the Lord And to inquire in His temple",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.622,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 120.96,
+   "end": 126.94,
+   "text": "For in the time of trouble He shall hide me in His pavilion.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.807,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 131.96,
+   "end": 135.24,
+   "text": "In the secret of His tabernacles Shall He hide me?",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.807,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 136.16,
+   "end": 145.12,
+   "text": "He shall set me up upon a rock And now shall mine head be lifted up",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.807,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 145.12,
+   "end": 148.26,
+   "text": "above my enemies round about me.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 151.96,
+   "end": 156.94,
+   "text": "Therefore will I offer in this tabernacle sacrifices of joy.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 157.36,
+   "end": 162.88,
+   "text": "I will sing, yeah, I will sing praises unto the Lord.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 163.64,
+   "end": 168.1,
+   "text": "Hear, O Lord, when I cry with my voice,",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 168.72,
+   "end": 175.1,
+   "text": "have mercy also upon me and answer me without fear.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 176.1,
+   "end": 178.12,
+   "text": "I will not be able to see my face.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 178.38,
+   "end": 183.48,
+   "text": "My heart said unto thee, thy face, Lord, will I seek?",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 184.38,
+   "end": 187.2,
+   "text": "Hide not thy face far from me.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 188.28,
+   "end": 191.3,
+   "text": "Put not thy servant away in anger.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 194.84,
+   "end": 197.2,
+   "text": "Thou hast been my help.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 197.2,
+   "end": 203.3,
+   "text": "Leave me not, neither forsake me, O God of my salvation.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 205.98,
+   "end": 209.48,
+   "text": "When my father and my mother forsake me,",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 210.96,
+   "end": 217.5,
+   "text": "Then the Lord will take me up, teach me thy way, O Lord.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06"
+  },
+  {
+   "start": 219.18,
+   "end": 223.16,
+   "text": "And lead me in a plain path because of mine enemies.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06"
+  }
+ ]
+}

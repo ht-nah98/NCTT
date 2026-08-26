@@ -1,0 +1,102 @@
+{
+ "track_id": "btdznddpirc#09",
+ "track_key": "btdznddpirc__09",
+ "video_id": "btdznddpirc",
+ "title": "9. Lamp on the Hill",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 159.0,
+ "voiced_sec": 77.4,
+ "voice_ratio": 0.487,
+ "n_words": 100,
+ "words_per_min": 37.7,
+ "is_instrumental": false,
+ "n_segments": 10,
+ "n_segments_voiced": 10,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 6.4,
+ "rtf": 0.04,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.24,
+   "text": "Don't ever let it run dry",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.276,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 68.02,
+   "end": 78.0,
+   "text": "I was sitting by the roadside Never saw a morning light",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.516,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 80.48,
+   "end": 87.38,
+   "text": "Born in darkness, bound in shadows, didn't know what was wrong or right",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.604,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 90.24,
+   "end": 99.16,
+   "text": "Then he knelt down in the dust, made some clay with his holy hand",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.604,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 100.8,
+   "end": 109.84,
+   "text": "Said go wash in sea loams waters And you'll see the promised land",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.306,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 112.84,
+   "end": 126.24,
+   "text": "Now I see, Lord, now I see The chains of night have let go of me",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.306,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 128.8,
+   "end": 141.18,
+   "text": "From the pit to the daylight free Jesus touched my eyes",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.58,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 142.24,
+   "end": 149.88,
+   "text": "Now I see I came running through the market",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.58,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 151.56,
+   "end": 154.5,
+   "text": "Tears mixing with the sun",
+   "avg_logprob": -0.533,
+   "no_speech_prob": 0.589,
+   "track_id": "btdznddpirc#09"
+  },
+  {
+   "start": 156.72,
+   "end": 158.72,
+   "text": "Folks asking",
+   "avg_logprob": -0.533,
+   "no_speech_prob": 0.589,
+   "track_id": "btdznddpirc#09"
+  }
+ ]
+}

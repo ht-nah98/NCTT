@@ -1,0 +1,350 @@
+{
+ "track_id": "bcNWg9ca92Y#03",
+ "track_key": "bcNWg9ca92Y__03",
+ "video_id": "bcNWg9ca92Y",
+ "title": "Open My Heart",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 216.0,
+ "voiced_sec": 145.5,
+ "voice_ratio": 0.674,
+ "n_words": 166,
+ "words_per_min": 46.1,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.7,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 35.62,
+   "text": "I've come with trembling hands",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.362,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 37.0,
+   "end": 44.28,
+   "text": "Broken pieces, shattered plans",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.362,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 46.0,
+   "end": 52.8,
+   "text": "But you're the one who makes me new",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.362,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 52.8,
+   "end": 61.46,
+   "text": "So I bring every part of me to You",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.691,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 64.96,
+   "end": 71.26,
+   "text": "Open the doors of my heart, Lord",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.691,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 71.26,
+   "end": 73.88,
+   "text": "Open my heart",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.691,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 73.88,
+   "end": 77.92,
+   "text": "Let Your glory shine within",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.691,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 77.92,
+   "end": 82.82,
+   "text": "With you, open my heart",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.77,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 82.82,
+   "end": 86.76,
+   "text": "Wash away the way to see",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.77,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 89.92,
+   "end": 93.36,
+   "text": "Let me alone, set me free",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.77,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 93.92,
+   "end": 97.54,
+   "text": "Let your love take hold of me",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.77,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 97.54,
+   "end": 100.72,
+   "text": "Open my heart",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.77,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 100.72,
+   "end": 103.76,
+   "text": "I surrender everything",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.77,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 106.34,
+   "end": 123.28,
+   "text": "When fear tries to change my soul Your spirit moves and I am whole",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.841,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 123.28,
+   "end": 132.04,
+   "text": "You breathe your peace over my name",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.735,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 133.28,
+   "end": 139.72,
+   "text": "And I'll never ever be the same",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.735,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 141.28,
+   "end": 143.8,
+   "text": "But why I hum an intensity",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.735,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 143.8,
+   "end": 146.74,
+   "text": "Break me open, Lord",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.735,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 147.28,
+   "end": 149.7,
+   "text": "Heal me from within",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.735,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 150.28,
+   "end": 151.9,
+   "text": "Heal me from within",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.735,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 151.9,
+   "end": 157.56,
+   "text": "Shine your light, oh, shine again",
+   "avg_logprob": -0.616,
+   "no_speech_prob": 0.18,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 157.56,
+   "end": 158.76,
+   "text": "Yeah",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 160.44,
+   "end": 161.84,
+   "text": "Yeah",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 164.78,
+   "end": 165.56,
+   "text": "Oh",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 166.18,
+   "end": 166.46,
+   "text": "Ooh",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 167.56,
+   "end": 168.34,
+   "text": "Whoa",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 169.56,
+   "end": 169.78,
+   "text": "Ooh",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 169.78,
+   "end": 171.0,
+   "text": "Ooh",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 171.0,
+   "end": 172.14,
+   "text": "Ooh",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 175.28,
+   "end": 178.36,
+   "text": "Open my heart",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 178.36,
+   "end": 180.96,
+   "text": "Open me long",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 181.56,
+   "end": 182.5,
+   "text": "Overflow",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 183.56,
+   "end": 184.08,
+   "text": "Oh",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.765,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 184.08,
+   "end": 187.28,
+   "text": "Open my heart",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 187.28,
+   "end": 191.88,
+   "text": "I'll touch the places no one knows",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 194.08,
+   "end": 195.66,
+   "text": "Guide my steps",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 195.66,
+   "end": 197.64,
+   "text": "Let it strengthen me",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 197.64,
+   "end": 199.22,
+   "text": "Jesus",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 200.08,
+   "end": 202.02,
+   "text": "Take the lead",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 202.02,
+   "end": 205.44,
+   "text": "Open my heart",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  },
+  {
+   "start": 206.08,
+   "end": 208.34,
+   "text": "I surrender everything",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.673,
+   "track_id": "bcNWg9ca92Y#03"
+  }
+ ]
+}

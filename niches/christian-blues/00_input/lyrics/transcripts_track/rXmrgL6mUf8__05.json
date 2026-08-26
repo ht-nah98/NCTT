@@ -1,0 +1,134 @@
+{
+ "track_id": "rXmrgL6mUf8#05",
+ "track_key": "rXmrgL6mUf8__05",
+ "video_id": "rXmrgL6mUf8",
+ "title": "God of Hope",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 133.0,
+ "voiced_sec": 83.0,
+ "voice_ratio": 0.624,
+ "n_words": 108,
+ "words_per_min": 48.7,
+ "is_instrumental": false,
+ "n_segments": 14,
+ "n_segments_voiced": 14,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 37.1,
+ "rtf": 0.279,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 32.88,
+   "text": "In the way that sinners take",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.244,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 34.0,
+   "end": 37.98,
+   "text": "Or sit in the company of markers",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.244,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 42.0,
+   "end": 46.1,
+   "text": "But whose delight is in the law of the Lord",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.244,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 47.0,
+   "end": 51.78,
+   "text": "And who meditates on His law day and night",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.244,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 53.02,
+   "end": 58.26,
+   "text": "That person is like a tree planted by streams of water",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.244,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 58.26,
+   "end": 74.78,
+   "text": "Which heals its fruit in season And whose leaf does not wither",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.407,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 76.9,
+   "end": 84.48,
+   "text": "Whatever they do, prospers",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.501,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 86.22,
+   "end": 89.16,
+   "text": "Not so the wicked",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.501,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 91.62,
+   "end": 94.96,
+   "text": "They are like chaff",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.501,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 94.96,
+   "end": 99.72,
+   "text": "That the wind blows away",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.501,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 101.46,
+   "end": 108.18,
+   "text": "Therefore the wicked will not stand in the judgment",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.782,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 108.72,
+   "end": 114.58,
+   "text": "Nor sinners in the assembly of the righteous",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.782,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 114.58,
+   "end": 121.92,
+   "text": "For the Lord watches over the way of the righteous",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.782,
+   "track_id": "rXmrgL6mUf8#05"
+  },
+  {
+   "start": 121.92,
+   "end": 128.88,
+   "text": "But the way of the wicked leads to destruction",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.601,
+   "track_id": "rXmrgL6mUf8#05"
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "track_id": "sGjecIPJalE#02",
+ "track_key": "sGjecIPJalE__02",
+ "video_id": "sGjecIPJalE",
+ "title": "You Must Be Born Again (John 3)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 154.0,
+ "voiced_sec": 96.0,
+ "voice_ratio": 0.623,
+ "n_words": 250,
+ "words_per_min": 97.4,
+ "is_instrumental": false,
+ "n_segments": 21,
+ "n_segments_voiced": 21,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 41.0,
+ "rtf": 0.267,
+ "segments": [
+  {
+   "start": 7.84,
+   "end": 8.56,
+   "text": "Oh!",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 13.92,
+   "end": 19.3,
+   "text": "There was a man named Nakedimus, a ruler of the Jews.",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 19.82,
+   "end": 24.06,
+   "text": "He came to me one night and said, rabbi, I know it's true.",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 24.42,
+   "end": 29.06,
+   "text": "No one can do the signs you do, unless God is with him still.",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 29.06,
+   "end": 34.14,
+   "text": "I said unless one's born again he cannot see God's will",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 34.14,
+   "end": 38.96,
+   "text": "Truly truly I say to you you must be born again",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 38.96,
+   "end": 43.6,
+   "text": "Not of the flesh but of the spirit to see the life within",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 43.6,
+   "end": 48.68,
+   "text": "The wind blows where it wishes you hear it sound my friend",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 48.68,
+   "end": 53.46,
+   "text": "So it is with every soul that's born of God within",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 63.28,
+   "end": 68.4,
+   "text": "He said how can a man be born when he's holding all his ways",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 68.4,
+   "end": 73.42,
+   "text": "I said unless one's born of water and spirit he cannot see God's place",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 73.42,
+   "end": 78.06,
+   "text": "That which is born of flesh is flesh, that which is born of spirit is free",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 79.12,
+   "end": 83.28,
+   "text": "Marvel, not that I say to you, you must be born of me",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 83.28,
+   "end": 88.1,
+   "text": "Truly, truly I say to you, you must be born again",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 88.1,
+   "end": 92.62,
+   "text": "Out of the flesh, but of the spirit to see the light within",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 93.34,
+   "end": 97.8,
+   "text": "The wind blows where it wishes you hear it sound, my friend",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 97.8,
+   "end": 102.44,
+   "text": "So it is with every soul that's born of God within",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 122.66,
+   "end": 127.68,
+   "text": "As Moses lifted up the snake, so must the Son of Man be raised",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 127.68,
+   "end": 132.44,
+   "text": "That whoever leaves in him will never be erased",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 132.44,
+   "end": 137.38,
+   "text": "For God so loved this broken world, he gave his only Son",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02"
+  },
+  {
+   "start": 137.38,
+   "end": 141.9,
+   "text": "That all who put their trust in him will have life that's never done",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02"
+  }
+ ]
+}

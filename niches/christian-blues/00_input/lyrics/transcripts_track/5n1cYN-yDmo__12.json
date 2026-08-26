@@ -1,0 +1,590 @@
+{
+ "track_id": "5n1cYN-yDmo#12",
+ "track_key": "5n1cYN-yDmo__12",
+ "video_id": "5n1cYN-yDmo",
+ "title": "Part 2: The Storm Is Over Now",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 284.0,
+ "voiced_sec": 217.6,
+ "voice_ratio": 0.766,
+ "n_words": 430,
+ "words_per_min": 90.8,
+ "is_instrumental": false,
+ "n_segments": 71,
+ "n_segments_voiced": 71,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.0,
+ "rtf": 0.053,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.98,
+   "text": "Uh",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 6.44,
+   "end": 9.24,
+   "text": "Hold on",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 18.04,
+   "end": 23.26,
+   "text": "God's hand is on you the storm",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 25.48,
+   "end": 26.64,
+   "text": "Is over",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 30.0,
+   "end": 33.5,
+   "text": "I walk through the rain with tears in my eyes",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 33.5,
+   "end": 36.48,
+   "text": "Didn't know if I make it, didn't know if I'd survive",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 36.48,
+   "end": 39.96,
+   "text": "Thunder in my spirit, lightning in my soul",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 39.96,
+   "end": 43.28,
+   "text": "But you whispered in the chaos, child I'm still in control",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 43.28,
+   "end": 46.68,
+   "text": "I felt the winds raging, waves crashing strong",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 46.68,
+   "end": 50.08,
+   "text": "But you covered me in mercy and carried me along",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 50.08,
+   "end": 53.36,
+   "text": "Now the clouds are breaking, light shining through",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 53.36,
+   "end": 56.64,
+   "text": "Every miracle I needed, Lord I found in You",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 56.64,
+   "end": 59.42,
+   "text": "I thought I'd lose my mind",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 59.42,
+   "end": 60.54,
+   "text": "Oh, yes I did",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 60.54,
+   "end": 62.88,
+   "text": "I was left in right on time",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 63.44,
+   "end": 65.48,
+   "text": "Jesus, you lifted me",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 65.48,
+   "end": 68.76,
+   "text": "You gave me victory",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 69.64,
+   "end": 72.66,
+   "text": "Storm is over now",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 72.66,
+   "end": 73.36,
+   "text": "Hallelujah",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 74.24,
+   "end": 75.84,
+   "text": "Made it somehow",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 75.84,
+   "end": 77.82,
+   "text": "You dried my tears",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 77.82,
+   "end": 79.38,
+   "text": "Call my fears",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 79.38,
+   "end": 82.2,
+   "text": "Lord, you brought me out",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 82.2,
+   "end": 83.6,
+   "text": "The storm is over now",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 83.6,
+   "end": 84.46,
+   "text": "Use both peace",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 84.46,
+   "end": 86.06,
+   "text": "To the wind and waves",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 86.06,
+   "end": 92.92,
+   "text": "You broke every chain forever I'm saved I'm standing here today cause you showed me how",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.723,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 102.82,
+   "end": 107.02,
+   "text": "I remember the nights when I couldn't sleep",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.723,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 107.54,
+   "end": 113.78,
+   "text": "Partful of pain so wounded so deep I cried out your name in the dead of the night",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.723,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 113.78,
+   "end": 117.1,
+   "text": "You wrap me in your presence till the morning light",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 117.1,
+   "end": 120.46,
+   "text": "You restore my joy, you heal every scar",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 120.46,
+   "end": 123.98,
+   "text": "You remind me my spirit, who you truly are",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 123.98,
+   "end": 127.38,
+   "text": "I'll fall, make a beginning and end",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 127.38,
+   "end": 130.8,
+   "text": "I'll save you, a father, my everlasting friend",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 130.8,
+   "end": 133.66,
+   "text": "I almost let go",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 134.18,
+   "end": 137.12,
+   "text": "But your love wouldn't let me fall",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 137.12,
+   "end": 140.26,
+   "text": "You held me close",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 140.26,
+   "end": 142.76,
+   "text": "Through it all, through it all",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 143.66,
+   "end": 146.3,
+   "text": "All the storm is over now",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 146.3,
+   "end": 149.56,
+   "text": "Hallelujah, made it somehow",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 149.56,
+   "end": 153.18,
+   "text": "You dried my tears, calmed my fears",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 153.18,
+   "end": 155.82,
+   "text": "Lord, You brought me out",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 155.82,
+   "end": 157.24,
+   "text": "The storm is over now",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 157.24,
+   "end": 159.82,
+   "text": "You spoke peace to the wind and the waves",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 159.82,
+   "end": 163.04,
+   "text": "You broke every chain, forever I'm safe",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 163.04,
+   "end": 166.46,
+   "text": "I'm standing here today, cause You show me how",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 166.46,
+   "end": 170.24,
+   "text": "Oh Jesus, the storm is over now",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 170.24,
+   "end": 172.34,
+   "text": "You held my hand",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 172.34,
+   "end": 173.88,
+   "text": "He held your hand",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 173.88,
+   "end": 175.62,
+   "text": "You fought my battles",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 175.62,
+   "end": 177.22,
+   "text": "He fought your battles",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 177.22,
+   "end": 178.92,
+   "text": "You made a way",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 178.92,
+   "end": 181.0,
+   "text": "He made a way",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 181.0,
+   "end": 183.62,
+   "text": "When the enemy tried to take me out",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 184.24,
+   "end": 185.7,
+   "text": "You said no",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 187.14,
+   "end": 189.66,
+   "text": "This one belongs to me",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 189.66,
+   "end": 191.18,
+   "text": "No more rain",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 191.18,
+   "end": 192.6,
+   "text": "No more pain",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 192.6,
+   "end": 194.42,
+   "text": "No more fear",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 194.42,
+   "end": 196.24,
+   "text": "In Jesus' name",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 196.84,
+   "end": 199.3,
+   "text": "No more storm",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 200.86,
+   "end": 203.28,
+   "text": "I'm standing strong",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 205.34,
+   "end": 209.24,
+   "text": "Cause you've been with me all along",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 212.04,
+   "end": 218.96,
+   "text": "I survived it, I survived it oh yeah",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 222.28,
+   "end": 226.36,
+   "text": "You spoke peace to the wind and the waves",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 226.36,
+   "end": 229.44,
+   "text": "If you broke every chain, forever I'm saved",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 229.44,
+   "end": 233.74,
+   "text": "Now I testify with lifted hands and a bowed down heart",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 233.74,
+   "end": 240.52,
+   "text": "Oh Jesus, thank you Jesus",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 243.1,
+   "end": 256.34,
+   "text": "Oh Jesus, thank you Jesus",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 256.34,
+   "end": 263.34,
+   "text": "God has carried you through the storm",
+   "avg_logprob": -0.554,
+   "no_speech_prob": 0.543,
+   "track_id": "5n1cYN-yDmo#12"
+  },
+  {
+   "start": 269.1,
+   "end": 272.34,
+   "text": "He's over now",
+   "avg_logprob": -0.554,
+   "no_speech_prob": 0.543,
+   "track_id": "5n1cYN-yDmo#12"
+  }
+ ]
+}

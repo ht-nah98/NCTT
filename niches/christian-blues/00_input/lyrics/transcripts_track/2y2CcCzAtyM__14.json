@@ -1,0 +1,414 @@
+{
+ "track_id": "2y2CcCzAtyM#14",
+ "track_key": "2y2CcCzAtyM__14",
+ "video_id": "2y2CcCzAtyM",
+ "title": "14 — Hold Me, Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 321.0,
+ "voiced_sec": 215.5,
+ "voice_ratio": 0.671,
+ "n_words": 317,
+ "words_per_min": 59.3,
+ "is_instrumental": false,
+ "n_segments": 49,
+ "n_segments_voiced": 49,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.8,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.72,
+   "text": "Be not dismayed, for I am thy God.",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.192,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 8.52,
+   "end": 11.8,
+   "text": "I will strengthen thee, I will help thee.",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.192,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 13.46,
+   "end": 17.72,
+   "text": "Yeah I will uphold thee with the right hand of my righteousness.",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.192,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 20.14,
+   "end": 24.64,
+   "text": "Isaiah 41 and 10",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.676,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 33.72,
+   "end": 38.7,
+   "text": "When the day is taken more than I could give",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.676,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 40.36,
+   "end": 46.28,
+   "text": "When the night has come before I'm ready for it",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.451,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 47.68,
+   "end": 53.5,
+   "text": "I come back to the only place I know",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.451,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 54.76,
+   "end": 61.8,
+   "text": "Where the arms of God are open wide to hold me",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.451,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 63.62,
+   "end": 75.7,
+   "text": "Hold me, Lord, just hold me Let me feel the warmth of Thy embrace",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.396,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 78.84,
+   "end": 84.66,
+   "text": "Hold me, Lord, just hold me",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.586,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 84.66,
+   "end": 91.42,
+   "text": "Fear is gone when I can't see Thy face",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.586,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 93.14,
+   "end": 96.74,
+   "text": "Uphold me with Thy right hand",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.586,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 96.74,
+   "end": 100.74,
+   "text": "Strengthen me to stand",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.586,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 102.72,
+   "end": 109.66,
+   "text": "Hold me, Lord, just hold me",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 112.7,
+   "end": 118.48,
+   "text": "I'm not asking for the storm to go away",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 120.74,
+   "end": 126.04,
+   "text": "Just asking for your presence in the middle",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 127.74,
+   "end": 133.44,
+   "text": "For your voice To tell me once again",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.564,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 133.44,
+   "end": 142.2,
+   "text": "That nothing in this world can break What you have built in me",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.564,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 145.06,
+   "end": 150.26,
+   "text": "Hold me, Lord Just hold me",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.564,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 150.26,
+   "end": 158.36,
+   "text": "Let me feel the warmth of Thy embrace",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.423,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 159.26,
+   "end": 165.14,
+   "text": "Hold me Lord, just hold me",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.423,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 165.14,
+   "end": 172.62,
+   "text": "Fear is gone when I can see Thy face",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.423,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 172.62,
+   "end": 183.22,
+   "text": "Hold me with thy right hand Strengthen me to stand",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.17,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 183.22,
+   "end": 190.66,
+   "text": "Hold me, Lord, just hold me",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.17,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 194.42,
+   "end": 198.3,
+   "text": "There are moments when theology is not enough",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.17,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 199.92,
+   "end": 201.94,
+   "text": "When you just need to feel him near",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 203.6,
+   "end": 205.56,
+   "text": "And the beautiful truth is",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 206.98,
+   "end": 208.78,
+   "text": "He promised to hold you",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 210.24,
+   "end": 212.46,
+   "text": "With the right hand of his righteousness",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 214.5,
+   "end": 216.02,
+   "text": "You are in his grip",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 217.8,
+   "end": 222.58,
+   "text": "And his grip does not slip",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 255.48,
+   "end": 257.5,
+   "text": "Hold me, Lord",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 257.5,
+   "end": 259.04,
+   "text": "Hold me, Lord",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 259.04,
+   "end": 259.38,
+   "text": "Hold me, Lord",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 259.38,
+   "end": 261.36,
+   "text": "Just hold me",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 262.58,
+   "end": 265.44,
+   "text": "Let me feel the warmth",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 265.44,
+   "end": 267.12,
+   "text": "Of Thy embrace",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 267.12,
+   "end": 270.08,
+   "text": "Of Thy embrace",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 270.58,
+   "end": 272.7,
+   "text": "Hold me, Lord",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 272.7,
+   "end": 274.12,
+   "text": "Hold me, Lord",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 274.12,
+   "end": 276.64,
+   "text": "Just hold me",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.456,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 276.64,
+   "end": 284.44,
+   "text": "Fear is gone when I can see thy face",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.219,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 285.64,
+   "end": 290.04,
+   "text": "Hold me near to thee",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.219,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 290.04,
+   "end": 293.88,
+   "text": "Hold me, Lord",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.219,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 294.64,
+   "end": 296.56,
+   "text": "Hold me, Lord",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.219,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 296.56,
+   "end": 297.62,
+   "text": "No",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.02,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 304.94,
+   "end": 308.1,
+   "text": "I will bless the Lord at all times",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.02,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 311.68,
+   "end": 314.36,
+   "text": "His praise shall continually be in my mouth",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.02,
+   "track_id": "2y2CcCzAtyM#14"
+  },
+  {
+   "start": 316.34,
+   "end": 318.4,
+   "text": "Psalm 34 and 1",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.02,
+   "track_id": "2y2CcCzAtyM#14"
+  }
+ ]
+}

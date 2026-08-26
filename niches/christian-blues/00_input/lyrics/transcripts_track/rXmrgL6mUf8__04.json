@@ -1,0 +1,374 @@
+{
+ "track_id": "rXmrgL6mUf8#04",
+ "track_key": "rXmrgL6mUf8__04",
+ "video_id": "rXmrgL6mUf8",
+ "title": "Favor",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 251.0,
+ "voiced_sec": 216.7,
+ "voice_ratio": 0.863,
+ "n_words": 359,
+ "words_per_min": 85.8,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 44,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.2,
+ "rtf": 0.057,
+ "segments": [
+  {
+   "start": 2.34,
+   "end": 6.18,
+   "text": "It's not faith, chance or coincidence",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.746,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 8.92,
+   "end": 10.62,
+   "text": "It's divine",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.746,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 13.0,
+   "end": 15.88,
+   "text": "It's by design",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.746,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 18.78,
+   "end": 23.64,
+   "text": "The favor of the Lord it rests on me",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.746,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 23.64,
+   "end": 27.6,
+   "text": "Not by my mind, not by decree",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.746,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 27.6,
+   "end": 32.3,
+   "text": "It ain't for sure I make no boast",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.713,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 32.3,
+   "end": 36.5,
+   "text": "It's grace alone I need it most",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.713,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 37.32,
+   "end": 41.4,
+   "text": "I worship God in every way, carry my cross",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.713,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 41.4,
+   "end": 46.24,
+   "text": "Every day I see God's favor over silver and gold",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.713,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 46.24,
+   "end": 50.14,
+   "text": "He's opened up doors, no man can close every setback",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.713,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 50.14,
+   "end": 54.76,
+   "text": "Made me whole in every trial, blessings unfold",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.713,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 54.76,
+   "end": 60.9,
+   "text": "He opened doors where I did not put my name in rooms",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.666,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 60.9,
+   "end": 66.8,
+   "text": "I never thought took my night enough and made it more",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.666,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 66.8,
+   "end": 70.82,
+   "text": "Gave me joy I never had before",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.666,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 75.56,
+   "end": 78.9,
+   "text": "Father God, I thank You for the favor",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.666,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 78.9,
+   "end": 87.16,
+   "text": "Favour that rests on me God has blessed me",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.815,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 87.16,
+   "end": 100.16,
+   "text": "Beyond all measure I am blessed and I leave Favour",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.815,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 100.16,
+   "end": 113.46,
+   "text": "Thank You for Your blessings, Thank You for Your favor, favor that rests on me",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.799,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 117.54,
+   "end": 126.94,
+   "text": "The favor of the Lord it rests on me, Not by my might, not by decree",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.799,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 126.94,
+   "end": 136.48,
+   "text": "It ain't for sure I make no post It's grace alone I need it most",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.831,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 137.78,
+   "end": 145.68,
+   "text": "Favourite opportunities open wide for me No weapon, no storm, no enemy",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.831,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 145.68,
+   "end": 150.9,
+   "text": "I got supernatural peace Divine promotion, don't repeat",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.831,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 150.9,
+   "end": 153.34,
+   "text": "Bless beyond what eyes can see",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.728,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 154.34,
+   "end": 158.44,
+   "text": "When I put him first, he handled the rest",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.728,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 158.44,
+   "end": 163.08,
+   "text": "When I trusted his plan, he gave me his best",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.728,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 163.08,
+   "end": 167.8,
+   "text": "Favour when I should have felt Favour when I almost fell",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.728,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 167.8,
+   "end": 172.52,
+   "text": "Favour when I felt alone Favour all over me",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.728,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 173.06,
+   "end": 177.2,
+   "text": "The favour of the Lord, it rests on me",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.728,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 177.2,
+   "end": 181.14,
+   "text": "Not by my might, not by decree",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.683,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 181.14,
+   "end": 185.84,
+   "text": "It ain't for sure I'll make no boast",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.683,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 185.84,
+   "end": 190.02,
+   "text": "It's grace alone, I need it more",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.683,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 193.12,
+   "end": 195.14,
+   "text": "God has blessed me",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.683,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 197.68,
+   "end": 202.14,
+   "text": "He has blessed me beyond all measure",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.683,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 202.14,
+   "end": 206.58,
+   "text": "I am blessed and highly favored",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 207.14,
+   "end": 210.68,
+   "text": "He gave me peace when the storm rolled in",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 210.68,
+   "end": 214.52,
+   "text": "Strength to rise and start again",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 215.14,
+   "end": 219.26,
+   "text": "Love I could never earn",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 219.26,
+   "end": 222.34,
+   "text": "But seek ye first the kingdom of God",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 222.34,
+   "end": 223.96,
+   "text": "And His righteousness",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 223.96,
+   "end": 228.14,
+   "text": "And all these things shall be added unto you",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 228.14,
+   "end": 230.68,
+   "text": "Favor on my hands",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.804,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 230.68,
+   "end": 237.44,
+   "text": "On my name, in my goal, in my state",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.762,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 237.44,
+   "end": 244.3,
+   "text": "For my children, for my house, on the job",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.762,
+   "track_id": "rXmrgL6mUf8#04"
+  },
+  {
+   "start": 244.3,
+   "end": 246.32,
+   "text": "All around",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.762,
+   "track_id": "rXmrgL6mUf8#04"
+  }
+ ]
+}

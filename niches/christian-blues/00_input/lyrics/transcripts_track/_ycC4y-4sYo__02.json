@@ -1,0 +1,382 @@
+{
+ "track_id": "_ycC4y-4sYo#02",
+ "track_key": "_ycC4y-4sYo__02",
+ "video_id": "_ycC4y-4sYo",
+ "title": "You Are My GOD",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 303.0,
+ "voiced_sec": 242.5,
+ "voice_ratio": 0.8,
+ "n_words": 311,
+ "words_per_min": 61.6,
+ "is_instrumental": false,
+ "n_segments": 45,
+ "n_segments_voiced": 45,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.5,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 1.62,
+   "end": 2.0,
+   "text": "17.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 3.68,
+   "end": 4.28,
+   "text": "Hmm.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 5.54,
+   "end": 7.26,
+   "text": "You are my God.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 9.7,
+   "end": 12.94,
+   "text": "Forever the same.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 14.96,
+   "end": 16.88,
+   "text": "Mighty and holy.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 20.0,
+   "end": 21.82,
+   "text": "I bless your name.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 24.16,
+   "end": 26.56,
+   "text": "Alpha Omega.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 28.22,
+   "end": 32.14,
+   "text": "beginning and end.",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.519,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 33.18,
+   "end": 39.86,
+   "text": "You are my God, my Savior, my everything.",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.519,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 48.56,
+   "end": 57.02,
+   "text": "El Shaddai, Almighty King To you alone I lift my offering",
+   "avg_logprob": -0.591,
+   "no_speech_prob": 0.594,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 57.02,
+   "end": 66.04,
+   "text": "Jehovah, Jai, you provide In every storm you're by my side",
+   "avg_logprob": -0.591,
+   "no_speech_prob": 0.594,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 68.08,
+   "end": 75.54,
+   "text": "Eilean, the most high one, bright morning star, the risen Son.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.563,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 76.46,
+   "end": 83.66,
+   "text": "I deny sovereign Lord above clothing, justice, mercy and love.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.563,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 84.68,
+   "end": 91.94,
+   "text": "You are my God, forever the same.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.563,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 91.94,
+   "end": 96.46,
+   "text": "I'm in holy, in holy",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 96.46,
+   "end": 98.3,
+   "text": "I bless your name",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 101.08,
+   "end": 105.42,
+   "text": "Alpha Omega, Omega",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 105.42,
+   "end": 108.28,
+   "text": "Beginning and ending",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 108.28,
+   "end": 116.16,
+   "text": "You are my God, my Savior, my everything",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 125.18,
+   "end": 134.14,
+   "text": "Jehovah Rapha, Lord who heals, Your power and truth, forever revealed.",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.613,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 134.98,
+   "end": 142.96,
+   "text": "Jehovah Nisi, my banner raised, To you alone belongs all praise.",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.613,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 142.96,
+   "end": 151.88,
+   "text": "The great I am, unchanging one Who was and is and is to come",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.733,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 151.88,
+   "end": 160.24,
+   "text": "Emmanuel, God with a still ruler of all Whose word for fear",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.733,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 160.24,
+   "end": 168.44,
+   "text": "You are my God, forever the same",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.733,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 168.44,
+   "end": 174.78,
+   "text": "Mighty and holy, mighty and holy, I bless Your name",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.39,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 177.44,
+   "end": 185.78,
+   "text": "I pray, Omega, Omega, beginning and end, yeah",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.39,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 186.44,
+   "end": 192.66,
+   "text": "You are my God, my Savior, my everything",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.39,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 201.68,
+   "end": 210.52,
+   "text": "Jehovah Shalom, my perfect peace Your loving grace will never cease",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.692,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 211.36,
+   "end": 219.68,
+   "text": "The rock of ages, my heart in place Redeemer King, full of grace",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.692,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 219.68,
+   "end": 223.94,
+   "text": "Lamb of God who bore my shame",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 223.94,
+   "end": 228.4,
+   "text": "Yes, you are the matchless name",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 228.4,
+   "end": 232.76,
+   "text": "Lion of Judah, strong and bold",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 232.76,
+   "end": 236.82,
+   "text": "And chin of days whose truth is told",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 236.82,
+   "end": 240.48,
+   "text": "You are my God",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 240.48,
+   "end": 244.72,
+   "text": "Forever the same",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 244.72,
+   "end": 247.1,
+   "text": "Mighty in hope",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 247.1,
+   "end": 251.24,
+   "text": "Mighty and holy, I bless your name",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.627,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 254.1,
+   "end": 262.26,
+   "text": "I'm Omega, Omega, getting in, getting in",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.627,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 263.1,
+   "end": 269.14,
+   "text": "You are my God, my Savior, my everything",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.627,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 269.14,
+   "end": 277.32,
+   "text": "I will Father lift you high Holy Spirit be ever now",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 277.32,
+   "end": 285.28,
+   "text": "Counselor, Comforter, guiding light Your presence turns death to life",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 285.28,
+   "end": 290.0,
+   "text": "You are my God, You are my God",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 290.0,
+   "end": 294.44,
+   "text": "Forever the same, Forever the same",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 294.44,
+   "end": 298.68,
+   "text": "Mighty and holy Mighty and holy",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.266,
+   "track_id": "_ycC4y-4sYo#02"
+  },
+  {
+   "start": 298.68,
+   "end": 301.84,
+   "text": "I exalt your name",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.266,
+   "track_id": "_ycC4y-4sYo#02"
+  }
+ ]
+}

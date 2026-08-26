@@ -1,0 +1,174 @@
+{
+ "track_id": "DL1lnwaff8k#07",
+ "track_key": "DL1lnwaff8k__07",
+ "video_id": "DL1lnwaff8k",
+ "title": "6. Ecclesiastes 6 – A Soul Not Satisfied",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 283.0,
+ "voiced_sec": 164.2,
+ "voice_ratio": 0.58,
+ "n_words": 198,
+ "words_per_min": 42.0,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.2,
+ "rtf": 0.04,
+ "segments": [
+  {
+   "start": 60.0,
+   "end": 67.94,
+   "text": "under the sun, a man with wealth and all things one.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.407,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 69.54,
+   "end": 74.58,
+   "text": "But God gives him not the power to eat.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.407,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 76.32,
+   "end": 81.28,
+   "text": "A stranger comes and takes his seat.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.407,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 85.28,
+   "end": 97.14,
+   "text": "Though he have a hundred children grown And live long days but die unknown",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.516,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 98.42,
+   "end": 104.12,
+   "text": "If his soul is never filled with good",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.666,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 104.12,
+   "end": 109.48,
+   "text": "A stillborn child hath more livelihood",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.666,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 111.32,
+   "end": 116.84,
+   "text": "A soul not satisfied though full of gain",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.666,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 116.84,
+   "end": 123.28,
+   "text": "His poor is still than one in pain",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.666,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 123.28,
+   "end": 135.7,
+   "text": "What good is gold if jar won't stay You leave it all and fade away",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.723,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 163.08,
+   "end": 175.24,
+   "text": "All the labor is for the mouth Yet the soul is empty in the house",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.411,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 175.24,
+   "end": 187.92,
+   "text": "What advantage have the wise or fools When life is short and death is cruel",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.549,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 190.14,
+   "end": 200.84,
+   "text": "Better aside than wondering soul But chasing wind will take its toll",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.549,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 200.84,
+   "end": 214.02,
+   "text": "Man cannot contend with one more strong In many words can still be wrong",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.716,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 214.02,
+   "end": 226.84,
+   "text": "A soul not satisfied though full of gain Is poorer still than wanting pain",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.716,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 226.84,
+   "end": 233.74,
+   "text": "What could his goal if joy won't stay?",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.645,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 235.06,
+   "end": 239.52,
+   "text": "You leave it all and fade away",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.645,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 239.52,
+   "end": 247.02,
+   "text": "For who can tell what life will bring?",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.645,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 247.94,
+   "end": 253.2,
+   "text": "And after death who knows a thing?",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.645,
+   "track_id": "DL1lnwaff8k#07"
+  },
+  {
+   "start": 253.2,
+   "end": 266.5,
+   "text": "Vanity echoes through the land, dust and bread that's all of man.",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.581,
+   "track_id": "DL1lnwaff8k#07"
+  }
+ ]
+}

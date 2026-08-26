@@ -1,0 +1,302 @@
+{
+ "track_id": "QJl7vyz8YTQ#11",
+ "track_key": "QJl7vyz8YTQ__11",
+ "video_id": "QJl7vyz8YTQ",
+ "title": "Psalm.Clean Heart",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 233.0,
+ "voiced_sec": 169.1,
+ "voice_ratio": 0.726,
+ "n_words": 210,
+ "words_per_min": 54.1,
+ "is_instrumental": false,
+ "n_segments": 35,
+ "n_segments_voiced": 35,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.1,
+ "rtf": 0.043,
+ "segments": [
+  {
+   "start": 12.88,
+   "end": 18.7,
+   "text": "Let it praise Him all night long",
+   "avg_logprob": -0.943,
+   "no_speech_prob": 0.675,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 33.34,
+   "end": 43.88,
+   "text": "These lips that beg for mercy Now they're singing out his name",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.585,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 46.48,
+   "end": 57.32,
+   "text": "These knees that hit the floor Now they're dancing with no shame",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.688,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 60.14,
+   "end": 71.58,
+   "text": "This heart that almost quiet Is the loudest in the room",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.688,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 71.58,
+   "end": 81.7,
+   "text": "Because He brought me through And I owe Him every time",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.78,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 81.7,
+   "end": 87.82,
+   "text": "Everything that has prayed Praised the Lord tonight",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.78,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 88.58,
+   "end": 95.84,
+   "text": "Every broken heart Every tear stained night",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.78,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 95.84,
+   "end": 99.24,
+   "text": "I praise Him with the pie",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 99.24,
+   "end": 100.28,
+   "text": "Praise Him Lord",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 100.28,
+   "end": 102.52,
+   "text": "Praise Him with this song",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 103.74,
+   "end": 106.46,
+   "text": "Everything that has breathed",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 106.46,
+   "end": 110.52,
+   "text": "Let it praise Him all night longs",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 110.52,
+   "end": 113.7,
+   "text": "I almost didn't make eye",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 113.7,
+   "end": 117.1,
+   "text": "I almost didn't sigh",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 118.52,
+   "end": 121.26,
+   "text": "I almost let the silence",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 121.82,
+   "end": 124.04,
+   "text": "Be my final offering",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 124.04,
+   "end": 131.76,
+   "text": "But You kept my breath, Lord",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 131.76,
+   "end": 134.22,
+   "text": "You kept it for this moment",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 136.32,
+   "end": 140.12,
+   "text": "So every breath I have left is Yours",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 140.12,
+   "end": 145.48,
+   "text": "Lord, Yours, from the first praise to the last one",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 145.48,
+   "end": 149.06,
+   "text": "From the crying to the chorus",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 149.06,
+   "end": 152.88,
+   "text": "I will praise You, I will praise You",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 152.88,
+   "end": 156.5,
+   "text": "Till there's no breath left in me",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 156.5,
+   "end": 159.1,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 159.88,
+   "end": 163.88,
+   "text": "Everything that is breathed",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 165.0,
+   "end": 169.84,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 169.84,
+   "end": 171.3,
+   "text": "One more time",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 171.88,
+   "end": 174.78,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 174.78,
+   "end": 177.18,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 177.18,
+   "end": 181.08,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 185.94,
+   "end": 192.14,
+   "text": "Every breath, every single one",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 193.18,
+   "end": 197.98,
+   "text": "Was always meant for this",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 199.38,
+   "end": 202.96,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 210.06,
+   "end": 218.22,
+   "text": "Oh, with everything I have left, praise Him",
+   "avg_logprob": -0.676,
+   "no_speech_prob": 0.58,
+   "track_id": "QJl7vyz8YTQ#11"
+  },
+  {
+   "start": 219.96,
+   "end": 226.68,
+   "text": "Yeah, hmm, hmm, praise Him",
+   "avg_logprob": -0.676,
+   "no_speech_prob": 0.58,
+   "track_id": "QJl7vyz8YTQ#11"
+  }
+ ]
+}

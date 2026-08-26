@@ -1,0 +1,430 @@
+{
+ "track_id": "NwYKGZpyYs8#14",
+ "track_key": "NwYKGZpyYs8__14",
+ "video_id": "NwYKGZpyYs8",
+ "title": "The Way The Truth The Life (John 14)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 258.0,
+ "voiced_sec": 238.5,
+ "voice_ratio": 0.924,
+ "n_words": 386,
+ "words_per_min": 89.8,
+ "is_instrumental": false,
+ "n_segments": 51,
+ "n_segments_voiced": 51,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.9,
+ "rtf": 0.054,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.12,
+   "text": "your hearts be filled with fear.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 3.84,
+   "end": 7.54,
+   "text": "Believing God, my words are clear.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 8.66,
+   "end": 12.08,
+   "text": "And my father's house rooms remain.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 13.66,
+   "end": 17.02,
+   "text": "I go prepare your place to stay.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 18.28,
+   "end": 21.22,
+   "text": "If this were false, I would not say.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 22.48,
+   "end": 25.9,
+   "text": "I go ahead to make the way.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 25.9,
+   "end": 35.08,
+   "text": "And if I go, I will return to take you where my heart does burn",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.669,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 35.08,
+   "end": 44.28,
+   "text": "I am the way, the truth, the light No one comes but through my life",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.669,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 44.28,
+   "end": 53.22,
+   "text": "If you know me, you know the Father too From now on you know Him true",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.669,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 53.22,
+   "end": 58.46,
+   "text": "I am the way, the truth, the light",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.52,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 58.46,
+   "end": 62.56,
+   "text": "Heaven open through my light",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.52,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 63.22,
+   "end": 67.76,
+   "text": "Who has seen me, has seen the Father face",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.52,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 67.76,
+   "end": 71.72,
+   "text": "True reveal by living grace",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.52,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 71.72,
+   "end": 76.42,
+   "text": "Thomas said, Lord we do not know",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.52,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 77.22,
+   "end": 80.68,
+   "text": "The road you take, the place you go",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.52,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 80.68,
+   "end": 89.9,
+   "text": "Jesus said I am the road I am the truth, the life of God",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.259,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 90.68,
+   "end": 98.48,
+   "text": "Philip said, Lord show us him Jesus said, have I not been",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.259,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 98.48,
+   "end": 103.12,
+   "text": "With you long yet you do not see",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 103.12,
+   "end": 107.98,
+   "text": "The Father lives revealed in me",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 110.26,
+   "end": 114.92,
+   "text": "Believe my words or trust the works",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 114.92,
+   "end": 119.38,
+   "text": "The signs that show the Father work",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 119.38,
+   "end": 123.44,
+   "text": "Who trust in me will also do",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 123.44,
+   "end": 128.2,
+   "text": "The works I do and greater truth",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.672,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 128.2,
+   "end": 132.56,
+   "text": "Because I go to God above",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.672,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 133.44,
+   "end": 137.34,
+   "text": "Ask my name and act in love",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.672,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 137.34,
+   "end": 141.92,
+   "text": "I will do what you request",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.672,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 142.44,
+   "end": 146.48,
+   "text": "So God is on earth manifest",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.672,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 147.44,
+   "end": 151.26,
+   "text": "I am the way, the truth, the light",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.672,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 151.26,
+   "end": 155.84,
+   "text": "No one comes but through my life",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.691,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 155.84,
+   "end": 161.02,
+   "text": "If you know me, you know the Father too",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.691,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 161.02,
+   "end": 164.9,
+   "text": "From now on you know Him true",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.691,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 164.9,
+   "end": 169.48,
+   "text": "I am the way, the truth, the light",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.691,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 169.48,
+   "end": 174.08,
+   "text": "Heaven opened through my life",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.691,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 174.08,
+   "end": 179.3,
+   "text": "Who has seen me, has seen the Father face",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.691,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 179.3,
+   "end": 183.16,
+   "text": "True revealed by living grace",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 184.0,
+   "end": 187.58,
+   "text": "If you love me, keep my word",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 188.3,
+   "end": 192.16,
+   "text": "My commands will be observed",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 192.8,
+   "end": 196.26,
+   "text": "I will ask the Father near",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 197.3,
+   "end": 201.3,
+   "text": "He will send the help of here",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 201.3,
+   "end": 205.36,
+   "text": "The spirit of truth will stay",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 205.36,
+   "end": 209.84,
+   "text": "The world cannot receive His way",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.499,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 210.36,
+   "end": 214.56,
+   "text": "He lives with you and will be in",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.499,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 214.56,
+   "end": 219.18,
+   "text": "You are not left alone within",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.499,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 219.18,
+   "end": 223.4,
+   "text": "I will not leave you often still",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.499,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 223.4,
+   "end": 228.42,
+   "text": "I come to you by Father will",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.499,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 228.42,
+   "end": 232.7,
+   "text": "The world will see me nevermore",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.499,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 232.7,
+   "end": 237.42,
+   "text": "But you will live forever short",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.497,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 237.42,
+   "end": 241.7,
+   "text": "Because I live, you live as well",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.497,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 241.7,
+   "end": 246.22,
+   "text": "My peace I give, my peace I tell",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.497,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 246.22,
+   "end": 251.02,
+   "text": "Not as the world gives peace to you",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.497,
+   "track_id": "NwYKGZpyYs8#14"
+  },
+  {
+   "start": 251.02,
+   "end": 255.04,
+   "text": "Let not your hearts be shaken through",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.497,
+   "track_id": "NwYKGZpyYs8#14"
+  }
+ ]
+}

@@ -1,0 +1,526 @@
+{
+ "track_id": "eD2IMkcreEI#09",
+ "track_key": "eD2IMkcreEI__09",
+ "video_id": "eD2IMkcreEI",
+ "title": "Jesus Reigns Forever",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 273.0,
+ "voiced_sec": 156.8,
+ "voice_ratio": 0.574,
+ "n_words": 250,
+ "words_per_min": 55.0,
+ "is_instrumental": false,
+ "n_segments": 63,
+ "n_segments_voiced": 56,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 63.0,
+ "rtf": 0.231,
+ "segments": [
+  {
+   "start": 30.8,
+   "end": 32.0,
+   "text": "Mm-hmm",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.851,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 35.16,
+   "end": 40.68,
+   "text": "When the storm shake my soul and the night feels long",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.851,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 40.68,
+   "end": 46.48,
+   "text": "I lift my eyes to the heavens where my health comes from",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.851,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 46.48,
+   "end": 48.12,
+   "text": "The King",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.851,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 48.8,
+   "end": 49.4,
+   "text": "Eternal",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.851,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 50.0,
+   "end": 56.18,
+   "text": "Clothing glory and life forever his throne stands forever",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.851,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 56.18,
+   "end": 58.24,
+   "text": "He rings in my",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.851,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 58.24,
+   "end": 63.82,
+   "text": "Every battle, every tear I've cried",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.717,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 63.82,
+   "end": 69.4,
+   "text": "You've been faith, standing by my side",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.717,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 69.4,
+   "end": 75.32,
+   "text": "When I was broken, you healed my pain",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.717,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 75.32,
+   "end": 81.16,
+   "text": "Jesus, my Savior, forever you reign",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.717,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 81.16,
+   "end": 87.68,
+   "text": "Jesus reigns forever, high upon the throne",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.717,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 87.68,
+   "end": 90.8,
+   "text": "King of kings and Lord of lords",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 90.8,
+   "end": 93.64,
+   "text": "You will never be overthrown",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 93.64,
+   "end": 95.24,
+   "text": "Hallelujah",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 96.68,
+   "end": 99.22,
+   "text": "To the Lamb that was slain",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 99.22,
+   "end": 101.82,
+   "text": "All creation lifts the anthem",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 101.82,
+   "end": 104.9,
+   "text": "Jesus reigns forevermore",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 104.9,
+   "end": 106.74,
+   "text": "Through the fire",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 106.74,
+   "end": 109.4,
+   "text": "You carried me through",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 110.68,
+   "end": 112.36,
+   "text": "Grace unending",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 112.36,
+   "end": 115.06,
+   "text": "Mercy brand new",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.479,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 115.06,
+   "end": 120.98,
+   "text": "Heaven's voice sings out your name",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 120.98,
+   "end": 126.74,
+   "text": "Jesus the victor, forever you reign",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 126.74,
+   "end": 130.84,
+   "text": "Jesus reigns forever",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 130.84,
+   "end": 133.32,
+   "text": "High upon the throne",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 133.32,
+   "end": 136.42,
+   "text": "King of kings and Lord of lords",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 136.42,
+   "end": 139.06,
+   "text": "You will never be overthrown",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 139.7,
+   "end": 140.86,
+   "text": "Hallelujah",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 140.86,
+   "end": 142.44,
+   "text": "Hallelujah",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 142.44,
+   "end": 144.94,
+   "text": "To the Lamb that was slain",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 144.94,
+   "end": 147.5,
+   "text": "All creation lifts the anthem",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 147.5,
+   "end": 150.7,
+   "text": "Jesus reigns forevermore",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 150.7,
+   "end": 152.8,
+   "text": "What, what, what?",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 153.84,
+   "end": 155.64,
+   "text": "Hallelujah",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 156.16,
+   "end": 157.86,
+   "text": "What, what, what?",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 158.28,
+   "end": 158.96,
+   "text": "Hallelujah",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 160.38,
+   "end": 161.56,
+   "text": "Hallelujah",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 162.36,
+   "end": 164.1,
+   "text": "What, what, what?",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 165.9,
+   "end": 166.94,
+   "text": "What, what, what?",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.822,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 171.0,
+   "end": 173.72,
+   "text": "You reign in power",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 173.72,
+   "end": 175.1,
+   "text": "You reign in power",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 175.1,
+   "end": 176.76,
+   "text": "Yes, you do",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 176.76,
+   "end": 177.98,
+   "text": "You reign in glory",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 177.98,
+   "end": 179.68,
+   "text": "You reign in glory",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 179.68,
+   "end": 183.4,
+   "text": "Nothing can stop you, Lord",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 183.4,
+   "end": 185.38,
+   "text": "What a love you, Lord",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 185.38,
+   "end": 186.56,
+   "text": "Jesus",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 186.56,
+   "end": 188.42,
+   "text": "You reign",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 188.42,
+   "end": 189.5,
+   "text": "Jesus",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 189.5,
+   "end": 190.76,
+   "text": "For you",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 190.76,
+   "end": 197.44,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 197.44,
+   "end": 199.3,
+   "text": "Every knee will bow",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 200.46,
+   "end": 202.18,
+   "text": "Every tongue confess",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 203.08,
+   "end": 205.44,
+   "text": "Jesus, you are Lord",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 205.44,
+   "end": 207.4,
+   "text": "Our righteousness",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 208.8,
+   "end": 211.3,
+   "text": "Heaven shouts your name",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 211.3,
+   "end": 213.66,
+   "text": "Earth proclaims the same",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 214.2,
+   "end": 216.2,
+   "text": "Jesus reigns forever",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 217.06,
+   "end": 219.52,
+   "text": "Exalted we praise",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.735,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 251.06,
+   "end": 259.52,
+   "text": "Hallelujah, forevermore, evermore, Hallelujah, forevermore",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.736,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 263.44,
+   "end": 267.34,
+   "text": "Forevermore, yeah, yeah",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.736,
+   "track_id": "eD2IMkcreEI#09"
+  },
+  {
+   "start": 269.1,
+   "end": 270.5,
+   "text": "Forevermore",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.736,
+   "track_id": "eD2IMkcreEI#09"
+  }
+ ]
+}

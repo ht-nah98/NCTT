@@ -1,0 +1,326 @@
+{
+ "track_id": "zfRJe2HhUjs#07",
+ "track_key": "zfRJe2HhUjs__07",
+ "video_id": "zfRJe2HhUjs",
+ "title": "Under His Wings (Psalm 91)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 480.0,
+ "voiced_sec": 253.3,
+ "voice_ratio": 0.528,
+ "n_words": 280,
+ "words_per_min": 35.0,
+ "is_instrumental": false,
+ "n_segments": 38,
+ "n_segments_voiced": 38,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 28.8,
+ "rtf": 0.06,
+ "segments": [
+  {
+   "start": 36.52,
+   "end": 47.52,
+   "text": "In the secret place I'm dwelling In the shadow of your wings",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.266,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 51.0,
+   "end": 54.74,
+   "text": "You're my refuge and my fortress",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.381,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 58.1,
+   "end": 61.76,
+   "text": "To your promises I cling",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.381,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 64.5,
+   "end": 69.58,
+   "text": "No fear of terror in the night time",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.381,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 72.86,
+   "end": 76.1,
+   "text": "No arrow in the day",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.381,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 79.92,
+   "end": 91.34,
+   "text": "Ten thousand fall around me But you keep me safe always",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.434,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 94.92,
+   "end": 102.7,
+   "text": "When the darkness arrives When the storms rage on",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.481,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 103.34,
+   "end": 113.8,
+   "text": "I know you are with me Under your wings I'll find my shelter",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.481,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 116.16,
+   "end": 120.36,
+   "text": "Under your wings I am secure",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.631,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 124.22,
+   "end": 128.3,
+   "text": "Though thousands fall beside me",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.631,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 128.3,
+   "end": 131.74,
+   "text": "I'm standing in your power",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.631,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 131.74,
+   "end": 135.74,
+   "text": "You are my shield",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.631,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 135.74,
+   "end": 138.92,
+   "text": "My strong defender",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.631,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 138.92,
+   "end": 145.92,
+   "text": "Under your wings forevermore",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.355,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 161.92,
+   "end": 165.5,
+   "text": "You command your angels for me",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.355,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 168.92,
+   "end": 187.3,
+   "text": "to God me on my way they lift me up and hold me through every single day",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.192,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 190.58,
+   "end": 201.78,
+   "text": "No plague will overtake me No harm will reach my door",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.653,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 205.54,
+   "end": 216.14,
+   "text": "Because I love you deeply You rescue me for sure",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.549,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 220.98,
+   "end": 227.58,
+   "text": "When the darkness surrounds me When the storms rage on",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.549,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 227.58,
+   "end": 238.6,
+   "text": "I know you are with me Under your wings I find my shelter",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.512,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 240.98,
+   "end": 245.08,
+   "text": "Under your wings I am secure",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.512,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 248.9,
+   "end": 256.34,
+   "text": "Though thousands fall beside me I'm standing in your power",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.512,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 256.34,
+   "end": 270.68,
+   "text": "You are my shield, my strong defender Under your wings forevermore",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.723,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 271.34,
+   "end": 279.78,
+   "text": "Because I know your name You will answer when I call",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.723,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 283.42,
+   "end": 294.26,
+   "text": "In trouble you are with me You catch me when I fall",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.505,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 298.02,
+   "end": 308.54,
+   "text": "Long life you have promised Salvation you will show",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.505,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 312.3,
+   "end": 323.74,
+   "text": "My God, my strength, my refuge I'll never let you go",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.646,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 326.22,
+   "end": 334.2,
+   "text": "Under your wings I find my shelter Oh yes",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.646,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 334.2,
+   "end": 337.56,
+   "text": "Under your wings I am secure",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.144,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 342.2,
+   "end": 345.54,
+   "text": "Though thousands fall beside me",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.144,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 346.2,
+   "end": 348.8,
+   "text": "I'm standing in your power",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.144,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 348.8,
+   "end": 352.62,
+   "text": "You are my shield",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.144,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 353.2,
+   "end": 355.82,
+   "text": "My strong defender",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.144,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 357.2,
+   "end": 360.26,
+   "text": "Under your wings",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.144,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 360.26,
+   "end": 363.54,
+   "text": "Forever more",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.679,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 366.78,
+   "end": 370.88,
+   "text": "Under your wings",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.679,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 373.2,
+   "end": 377.6,
+   "text": "Forever safe, forever home",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.679,
+   "track_id": "zfRJe2HhUjs#07"
+  },
+  {
+   "start": 381.34,
+   "end": 385.3,
+   "text": "Under your wings",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.679,
+   "track_id": "zfRJe2HhUjs#07"
+  }
+ ]
+}

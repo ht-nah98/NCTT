@@ -1,0 +1,174 @@
+{
+ "track_id": "DL1lnwaff8k#13",
+ "track_key": "DL1lnwaff8k__13",
+ "video_id": "DL1lnwaff8k",
+ "title": "12. Ecclesiastes 12 – Dust Shall Return",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 315.0,
+ "voiced_sec": 201.7,
+ "voice_ratio": 0.64,
+ "n_words": 198,
+ "words_per_min": 37.7,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.7,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 11.12,
+   "end": 24.16,
+   "text": "Remember now thy maker and friend Before the silver cord shall bend",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.284,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 26.8,
+   "end": 41.66,
+   "text": "Before the grinder sees their sound And dust is laid into the ground",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.295,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 49.32,
+   "end": 63.12,
+   "text": "The keepers tremble, the windows grow dim, the daughters of song lose their hands.",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.256,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 64.54,
+   "end": 78.14,
+   "text": "Desire shall fail the years draw near When man shall say, I have no more cheer",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.7,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 78.14,
+   "end": 93.1,
+   "text": "Then shall the dust return once more To earth below as days of yore",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.319,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 93.1,
+   "end": 108.1,
+   "text": "And the spirit shall rise and upward so To God who gave forevermore",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 116.98,
+   "end": 123.4,
+   "text": "Vanity of entities, set the wise",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.389,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 124.82,
+   "end": 131.04,
+   "text": "All is empty beneath the skies",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.389,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 131.04,
+   "end": 146.04,
+   "text": "But the words of truth nailed in place Are like golds of grace in time and space",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.414,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 146.04,
+   "end": 153.98,
+   "text": "Let us hear the end of all",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.424,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 153.98,
+   "end": 160.96,
+   "text": "Fear the Lord, obey his call",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.424,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 162.04,
+   "end": 168.7,
+   "text": "This is man's whole duty and song",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.424,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 168.7,
+   "end": 184.16,
+   "text": "For God will judge the right and wrong Then shall the dust return once more",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.299,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 184.16,
+   "end": 198.36,
+   "text": "To earth below, as days of yore And the spirit shall rise and upward so",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.49,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 199.68,
+   "end": 205.9,
+   "text": "To God who gave forevermore",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.49,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 237.26,
+   "end": 243.58,
+   "text": "So write it down and pass it on",
+   "avg_logprob": -0.641,
+   "no_speech_prob": 0.55,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 243.58,
+   "end": 258.74,
+   "text": "Before the breath of youth is gone The preacher spoke, his words still burn",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.368,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 258.74,
+   "end": 266.32,
+   "text": "From dust we come to dust return",
+   "avg_logprob": -0.516,
+   "no_speech_prob": 0.548,
+   "track_id": "DL1lnwaff8k#13"
+  },
+  {
+   "start": 296.22,
+   "end": 298.46,
+   "text": "Heal my heart",
+   "avg_logprob": -0.927,
+   "no_speech_prob": 0.469,
+   "track_id": "DL1lnwaff8k#13"
+  }
+ ]
+}

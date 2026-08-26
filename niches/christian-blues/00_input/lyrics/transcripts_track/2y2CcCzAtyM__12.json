@@ -1,0 +1,422 @@
+{
+ "track_id": "2y2CcCzAtyM#12",
+ "track_key": "2y2CcCzAtyM__12",
+ "video_id": "2y2CcCzAtyM",
+ "title": "12 — Valley Song",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 292.0,
+ "voiced_sec": 214.1,
+ "voice_ratio": 0.733,
+ "n_words": 320,
+ "words_per_min": 65.8,
+ "is_instrumental": false,
+ "n_segments": 50,
+ "n_segments_voiced": 50,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 39.2,
+ "rtf": 0.134,
+ "segments": [
+  {
+   "start": 0.98,
+   "end": 9.84,
+   "text": "Though I walk through the valley of the shadow of death, I will fear no evil for thou art",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.109,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 9.84,
+   "end": 10.78,
+   "text": "with me.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.109,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 13.36,
+   "end": 15.94,
+   "text": "Thy rod and thy staff, they comfort me.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.109,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 18.82,
+   "end": 21.14,
+   "text": "Psalm 23 and 4.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.109,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 27.6,
+   "end": 34.1,
+   "text": "The valley does not mean he has forsaken me",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 35.68,
+   "end": 41.32,
+   "text": "The shadow does not mean he cannot see",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 42.92,
+   "end": 48.92,
+   "text": "Though dark the path may be before my feet",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.38,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 48.92,
+   "end": 56.4,
+   "text": "He walks beside me That is all I need",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.482,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 56.4,
+   "end": 64.92,
+   "text": "I will fear no evil I will fear no evil",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.482,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 65.92,
+   "end": 72.12,
+   "text": "For Thou art with me Through the darkest night",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.482,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 72.12,
+   "end": 76.38,
+   "text": "I will fear no evil",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.781,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 77.12,
+   "end": 81.12,
+   "text": "I will fear no evil",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.781,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 81.12,
+   "end": 83.4,
+   "text": "Thy rod and Thy staff",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.781,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 84.12,
+   "end": 87.22,
+   "text": "Are my comfort and my light",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.781,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 88.12,
+   "end": 91.62,
+   "text": "Thou art with me",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.781,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 93.12,
+   "end": 95.38,
+   "text": "Thou art with me",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.781,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 96.12,
+   "end": 98.3,
+   "text": "I am not alone",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.781,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 106.0,
+   "end": 111.74,
+   "text": "He spread a table in the enemy's sight",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.279,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 112.9,
+   "end": 118.9,
+   "text": "Anointed me with oil and filled my cup",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.279,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 120.52,
+   "end": 126.1,
+   "text": "The goodness and the mercy chased me down",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.279,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 126.1,
+   "end": 135.26,
+   "text": "And in his house forever I'll be kept home",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.6,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 137.44,
+   "end": 146.1,
+   "text": "I will fear no evil For thou art with me",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.6,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 146.1,
+   "end": 157.74,
+   "text": "Through the darkest night I will fear no evil",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.195,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 157.74,
+   "end": 165.48,
+   "text": "Thy rod and thy staff are my comfort and my light",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.195,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 167.0,
+   "end": 172.74,
+   "text": "The valley is real, but so is his presence.",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.325,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 174.56,
+   "end": 177.42,
+   "text": "And the rod and the staff were not ornaments.",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.325,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 179.36,
+   "end": 179.92,
+   "text": "They were tools.",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.325,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 182.1,
+   "end": 184.4,
+   "text": "He used them to guide and to protect.",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.325,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 186.54,
+   "end": 192.5,
+   "text": "In every valley you walk through, he is already there.",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.325,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 192.5,
+   "end": 195.82,
+   "text": "Oh Oh Ohh",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 198.42,
+   "end": 199.46,
+   "text": "No...",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 199.46,
+   "end": 200.88,
+   "text": "No Evil scientific",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 200.88,
+   "end": 203.24,
+   "text": "No Evil scientific",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 203.24,
+   "end": 204.76,
+   "text": "No Evil scientific",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 204.76,
+   "end": 205.44,
+   "text": "No Evil scientific",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 205.44,
+   "end": 205.52,
+   "text": "No Evil scientific",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 205.52,
+   "end": 207.02,
+   "text": "He is with me",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 207.02,
+   "end": 208.88,
+   "text": "He is with me",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 208.88,
+   "end": 210.96,
+   "text": "He is with me",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 210.96,
+   "end": 212.4,
+   "text": "Through the valley",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 214.1,
+   "end": 216.18,
+   "text": "Not Alone",
+   "avg_logprob": -1.994,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 220.18,
+   "end": 224.4,
+   "text": "I am not alone",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.731,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 226.18,
+   "end": 228.54,
+   "text": "I will fear no evil",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.731,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 232.48,
+   "end": 240.02,
+   "text": "For thou art with me through the darkest night",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.731,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 240.02,
+   "end": 252.14,
+   "text": "I will fear no evil Thy rod and Thy staff",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.591,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 253.02,
+   "end": 260.8,
+   "text": "Are my comfort and my light Thou art with me",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.591,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 260.8,
+   "end": 265.7,
+   "text": "Through the valley, not afraid",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.084,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 279.8,
+   "end": 281.8,
+   "text": "The Lord is my shepherd",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.084,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 283.86,
+   "end": 285.84,
+   "text": "I shall not want",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.084,
+   "track_id": "2y2CcCzAtyM#12"
+  },
+  {
+   "start": 288.46,
+   "end": 291.76,
+   "text": "He make it me to lie down in green pastures",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.239,
+   "track_id": "2y2CcCzAtyM#12"
+  }
+ ]
+}

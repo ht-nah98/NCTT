@@ -1,0 +1,174 @@
+{
+ "track_id": "JqDkxKCb4ec#12",
+ "track_key": "JqDkxKCb4ec__12",
+ "video_id": "JqDkxKCb4ec",
+ "title": "The House Wisdom Built (Proverbs 14)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 158.0,
+ "voiced_sec": 104.3,
+ "voice_ratio": 0.66,
+ "n_words": 137,
+ "words_per_min": 52.0,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.7,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 27.18,
+   "text": "Mm-hmm, mm-hmm, mm-hmm, mm-hmm, mm-hmm.",
+   "avg_logprob": -0.666,
+   "no_speech_prob": 0.588,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 27.18,
+   "end": 33.06,
+   "text": "Where there's no ox, the trough stays clean, but strength come where they plow",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 33.06,
+   "end": 38.68,
+   "text": "The faithful speak with honesty while fools just boast too loud",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 38.68,
+   "end": 43.22,
+   "text": "Keep your hands steady, keep your heart right",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 44.38,
+   "end": 48.22,
+   "text": "Let wisdom be your crown tonight",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 49.5,
+   "end": 54.16,
+   "text": "Fools laugh loud, know why they still",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 55.5,
+   "end": 60.36,
+   "text": "The house stands firm, that wisdom builds",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 72.32,
+   "end": 77.94,
+   "text": "A quick tempestors upstripe a patience calms it down",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 77.94,
+   "end": 83.64,
+   "text": "The simple believe every word, the prudent stand their ground",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 83.64,
+   "end": 87.16,
+   "text": "In the fear of the Lord their safety",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 87.16,
+   "end": 90.94,
+   "text": "Strong confidence inside a soft answer",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 91.46,
+   "end": 94.96,
+   "text": "Keeps you steady while prized the fool's disguise",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 94.96,
+   "end": 96.4,
+   "text": "Hey",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 101.0,
+   "end": 103.72,
+   "text": "Keep your hands steady",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 103.72,
+   "end": 111.32,
+   "text": "Keep your heart right, let wisdom be your crown tonight",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.651,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 112.72,
+   "end": 117.72,
+   "text": "Fools laugh loud, the wise stay still",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.651,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 118.72,
+   "end": 122.96,
+   "text": "The house stands firm, that wisdom builds",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.651,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 129.08,
+   "end": 131.8,
+   "text": "Yeah, the house still stays",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#12"
+  },
+  {
+   "start": 135.3,
+   "end": 137.22,
+   "text": "Where's the built-in ride?",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#12"
+  }
+ ]
+}

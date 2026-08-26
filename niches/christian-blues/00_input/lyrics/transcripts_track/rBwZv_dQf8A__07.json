@@ -1,0 +1,310 @@
+{
+ "track_id": "rBwZv_dQf8A#07",
+ "track_key": "rBwZv_dQf8A__07",
+ "video_id": "rBwZv_dQf8A",
+ "title": "The Power Of Words (Proverbs 18)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 215.0,
+ "voiced_sec": 128.9,
+ "voice_ratio": 0.6,
+ "n_words": 248,
+ "words_per_min": 69.2,
+ "is_instrumental": false,
+ "n_segments": 36,
+ "n_segments_voiced": 29,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 25.7,
+ "rtf": 0.119,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 33.0,
+   "text": "When the word is round, like a crutch",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.712,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 33.0,
+   "end": 37.16,
+   "text": "A fool loves his voice, don't care to learn",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.712,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 37.16,
+   "end": 41.66,
+   "text": "But wisdom waits a rightful turn",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.712,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 41.66,
+   "end": 46.12,
+   "text": "You can't bless or break with the things you say",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.712,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 46.12,
+   "end": 50.12,
+   "text": "Turn night to dawn, light to gray",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.712,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 51.0,
+   "end": 54.98,
+   "text": "So guard that tongue, let your speech be true",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.712,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 54.98,
+   "end": 58.66,
+   "text": "What you say gonna come back to you",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 59.98,
+   "end": 60.86,
+   "text": "Yeah",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 61.98,
+   "end": 66.28,
+   "text": "Life and death in the power of words",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 66.28,
+   "end": 70.98,
+   "text": "What you say echoes and stirs",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 71.52,
+   "end": 76.12,
+   "text": "Speak of life, let truth be heard",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 76.12,
+   "end": 82.82,
+   "text": "Life and death in the power of words",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.589,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 82.82,
+   "end": 88.6,
+   "text": "First, a man's mouth builds or burns his home",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.854,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 88.6,
+   "end": 92.8,
+   "text": "You can lift a heart or leave it alone",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.854,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 93.82,
+   "end": 97.26,
+   "text": "Answer quick, you'll miss the mark",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.854,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 97.82,
+   "end": 101.76,
+   "text": "But listen close, you'll find the spark",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.854,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 102.82,
+   "end": 106.88,
+   "text": "The name of the Lord's almighty tower",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.854,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 106.88,
+   "end": 111.18,
+   "text": "Run inside, find holy power",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.854,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 111.18,
+   "end": 115.18,
+   "text": "Tongues can heal or cut like swords",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.661,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 115.18,
+   "end": 120.36,
+   "text": "So watch your heart when you use your words",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.661,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 122.02,
+   "end": 126.38,
+   "text": "Life and death in the power of words",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.661,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 126.38,
+   "end": 131.56,
+   "text": "What you say echoes and stirs",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.661,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 131.56,
+   "end": 136.32,
+   "text": "Speak love, speak light, let truth be heard",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.661,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 136.32,
+   "end": 143.5,
+   "text": "Life and death in the power of words",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.241,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 145.28,
+   "end": 149.68,
+   "text": "Don't talk quick, take time to hear",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.241,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 149.68,
+   "end": 153.92,
+   "text": "The wise man's mouth brings others near",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.241,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 153.92,
+   "end": 158.14,
+   "text": "The fool speaks loud but the rite just learns",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.241,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 158.14,
+   "end": 163.6,
+   "text": "Let the Spirit guide each word and tongue",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.081,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 167.44,
+   "end": 171.8,
+   "text": "Life and death in the power of words",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.081,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 171.8,
+   "end": 175.02,
+   "text": "Speak peace till the world's assured",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.081,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 176.74,
+   "end": 180.78,
+   "text": "Let grace roll deep, let kindness stir",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.081,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 180.78,
+   "end": 186.34,
+   "text": "Life and death in the powers",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.588,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 188.36,
+   "end": 191.8,
+   "text": "Speak truth in love",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.588,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 192.78,
+   "end": 196.48,
+   "text": "That's heaven's cause",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.588,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 197.78,
+   "end": 204.4,
+   "text": "Life and death in the powers",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.588,
+   "track_id": "rBwZv_dQf8A#07"
+  },
+  {
+   "start": 211.36,
+   "end": 212.76,
+   "text": "you",
+   "avg_logprob": -0.71,
+   "no_speech_prob": 0.895,
+   "track_id": "rBwZv_dQf8A#07"
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+{
+ "track_id": "Ss0pA-Cw8V0#10",
+ "track_key": "Ss0pA-Cw8V0__10",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Lion Of Judah",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 277.0,
+ "voiced_sec": 199.2,
+ "voice_ratio": 0.719,
+ "n_words": 443,
+ "words_per_min": 96.0,
+ "is_instrumental": false,
+ "n_segments": 61,
+ "n_segments_voiced": 61,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 56.2,
+ "rtf": 0.203,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 31.26,
+   "text": "The Lion of Judah",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.45,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 34.64,
+   "end": 36.02,
+   "text": "Run through my pain",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.45,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 39.96,
+   "end": 41.32,
+   "text": "Breaking every chain",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.45,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 48.12,
+   "end": 51.26,
+   "text": "I don't walk through storms seen the fire rain",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.45,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 51.26,
+   "end": 54.14,
+   "text": "Still I lift my head through the hurting pain",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.45,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 54.14,
+   "end": 59.38,
+   "text": "In the mean whisper he'll never rise again, but my God said something I've already written in the end",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.45,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 59.38,
+   "end": 62.3,
+   "text": "Every trial sharp in my fate",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 62.3,
+   "end": 64.68,
+   "text": "Every loss disobeying his gaze",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 64.68,
+   "end": 67.26,
+   "text": "Devil try to block me, I change the lane",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 67.26,
+   "end": 69.96,
+   "text": "Now I'm driving through grace on the King's highway",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 69.96,
+   "end": 72.74,
+   "text": "Brush on my chest, but I learn to pray",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 72.74,
+   "end": 75.36,
+   "text": "Even in the darkest light found a way",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 75.36,
+   "end": 78.12,
+   "text": "God angels around me, they don't sleep",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 78.12,
+   "end": 80.82,
+   "text": "The line of truth, they're watching over his sheep",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 80.82,
+   "end": 83.54,
+   "text": "When I'm broken, you restore my soul",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 83.54,
+   "end": 87.42,
+   "text": "You take my weakness and make me hold every mouth move",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.519,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 87.42,
+   "end": 92.02,
+   "text": "When you call my name, Liner Judah, wherever you range",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 92.02,
+   "end": 95.36,
+   "text": "Hold on to Liner Judah, Mighty and strong",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 95.36,
+   "end": 97.06,
+   "text": "Don't you bite my belly",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 97.06,
+   "end": 99.76,
+   "text": "You write my role, don't you bite the chain",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 99.76,
+   "end": 103.82,
+   "text": "You come to play, Liner Judah, wherever you range",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 103.82,
+   "end": 106.26,
+   "text": "Hold on to Liner Judah, Mighty and strong",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 106.26,
+   "end": 109.02,
+   "text": "Hold on to Liner Judah, You write my role",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 109.02,
+   "end": 111.82,
+   "text": "You break the chains, you calm the flames",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 111.82,
+   "end": 115.0,
+   "text": "Liner Judah, wherever you range",
+   "avg_logprob": -0.673,
+   "no_speech_prob": 0.466,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 118.44,
+   "end": 122.68,
+   "text": "Yeah, you rain Forever, forever, forever",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.571,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 123.6,
+   "end": 127.64,
+   "text": "This power in your name Forever, forever, uh",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.571,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 127.64,
+   "end": 131.78,
+   "text": "Forever, yeah He came from the bottom, he lifted me higher",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.571,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 132.4,
+   "end": 137.22,
+   "text": "Out the ashes, I'm covered in fire Now consumed, but refined in the flame",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.571,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 137.22,
+   "end": 142.8,
+   "text": "Every storm, my soul testifies to his name Lost a few friends when the light hit me",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.571,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 142.8,
+   "end": 145.82,
+   "text": "Now I'm surrounded by His glory, it fits me",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 145.82,
+   "end": 147.88,
+   "text": "Holy Spirit with me can't fake that",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 148.52,
+   "end": 150.92,
+   "text": "I'm alive cause the blood still stings",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 150.92,
+   "end": 153.64,
+   "text": "They said I fall but I'm standing still",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 153.64,
+   "end": 156.32,
+   "text": "Now my mind but by His will",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 156.32,
+   "end": 159.1,
+   "text": "From pain to praise I made that trade",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 159.1,
+   "end": 161.92,
+   "text": "Cause victory's already been paid",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 161.92,
+   "end": 164.5,
+   "text": "Who breaks the chains when I can't see through",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 164.5,
+   "end": 167.34,
+   "text": "Lion or Judah, it's you, it's you",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 167.34,
+   "end": 169.8,
+   "text": "Who gives me peace when I'm feeling low",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.565,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 169.8,
+   "end": 172.68,
+   "text": "Lying to Judah, I already know",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 172.68,
+   "end": 174.64,
+   "text": "Raise forever",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 177.32,
+   "end": 179.92,
+   "text": "Holy and true",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 181.42,
+   "end": 183.76,
+   "text": "I am ever",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 188.42,
+   "end": 190.22,
+   "text": "Oh, you're right",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 191.92,
+   "end": 195.44,
+   "text": "Oh, you're right",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 195.44,
+   "end": 196.96,
+   "text": "Lying to Judah",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 196.96,
+   "end": 197.98,
+   "text": "Mighty strong",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 197.98,
+   "end": 199.6,
+   "text": "You fight my battles",
+   "avg_logprob": -0.887,
+   "no_speech_prob": 0.387,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 199.6,
+   "end": 203.52,
+   "text": "You're right my rose, you come to play,",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.404,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 203.82,
+   "end": 206.9,
+   "text": "Land of Judah, wherever you are in,",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.404,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 209.82,
+   "end": 212.28,
+   "text": "Yeah, forevermore my king,",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.404,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 212.28,
+   "end": 223.1,
+   "text": "You are above you, you reign, you reign, you reign",
+   "avg_logprob": -0.779,
+   "no_speech_prob": 0.656,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 223.1,
+   "end": 232.5,
+   "text": "You ain't, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.78,
+   "no_speech_prob": 0.141,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 232.5,
+   "end": 242.64,
+   "text": "You ain't, oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.78,
+   "no_speech_prob": 0.141,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 242.64,
+   "end": 247.42,
+   "text": "Oh, line of Judah Oh, oh, oh, oh, oh",
+   "avg_logprob": -0.78,
+   "no_speech_prob": 0.141,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 247.42,
+   "end": 251.12,
+   "text": "You ranes out of her For love, forever",
+   "avg_logprob": -0.78,
+   "no_speech_prob": 0.141,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 252.9,
+   "end": 255.3,
+   "text": "The same lion that roared in the wilderness",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.087,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 258.42,
+   "end": 264.92,
+   "text": "Roars inside of me no fear only faith",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.087,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 269.46,
+   "end": 270.68,
+   "text": "Line of Judah",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.087,
+   "track_id": "Ss0pA-Cw8V0#10"
+  },
+  {
+   "start": 271.54,
+   "end": 272.98,
+   "text": "Rain forever",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.087,
+   "track_id": "Ss0pA-Cw8V0#10"
+  }
+ ]
+}

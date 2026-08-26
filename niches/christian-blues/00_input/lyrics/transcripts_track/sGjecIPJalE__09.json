@@ -1,0 +1,262 @@
+{
+ "track_id": "sGjecIPJalE#09",
+ "track_key": "sGjecIPJalE__09",
+ "video_id": "sGjecIPJalE",
+ "title": "I Am The Resurrection (John 11)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 225.0,
+ "voiced_sec": 121.7,
+ "voice_ratio": 0.541,
+ "n_words": 201,
+ "words_per_min": 53.6,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 30,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.0,
+ "rtf": 0.053,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.46,
+   "text": "Oh",
+   "avg_logprob": -0.625,
+   "no_speech_prob": 0.478,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 11.58,
+   "end": 15.28,
+   "text": "Mother said Lord if you'd been here",
+   "avg_logprob": -0.625,
+   "no_speech_prob": 0.478,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 19.52,
+   "end": 21.52,
+   "text": "My brother would not have died",
+   "avg_logprob": -0.625,
+   "no_speech_prob": 0.478,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 27.42,
+   "end": 38.88,
+   "text": "But I said, your brother will rise again And hope stir deep inside",
+   "avg_logprob": -0.47,
+   "no_speech_prob": 0.462,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 44.08,
+   "end": 47.96,
+   "text": "She said I know he'll rise one day",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 50.88,
+   "end": 53.4,
+   "text": "When the last trumpet cries",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 57.52,
+   "end": 59.64,
+   "text": "I said I am the resurrection",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 61.0,
+   "end": 64.34,
+   "text": "The life that never dies",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 68.02,
+   "end": 70.9,
+   "text": "I am the resurrection",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 72.7,
+   "end": 75.18,
+   "text": "I am the life",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 76.54,
+   "end": 82.34,
+   "text": "He who believes in me will live though he tastes the night",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 83.9,
+   "end": 90.34,
+   "text": "Whoever lives and believes in me will never die again",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 92.28,
+   "end": 98.24,
+   "text": "I am the resurrection eternal life within",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.655,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 115.18,
+   "end": 119.28,
+   "text": "She read and called her sister near",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.655,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 131.26,
+   "end": 135.26,
+   "text": "I said, where have you laid Him down?",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 136.12,
+   "end": 138.88,
+   "text": "They answered, come and see.",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 140.22,
+   "end": 146.3,
+   "text": "And Jesus wept His heart of love, moved with deep mercy.",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 147.26,
+   "end": 148.98,
+   "text": "I am the resurrection.",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 151.2,
+   "end": 153.86,
+   "text": "I am the life",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.822,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 155.16,
+   "end": 161.58,
+   "text": "He who believes in me will live though he takes some night",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.822,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 161.58,
+   "end": 169.34,
+   "text": "Whoever lives and believes in me will never die again",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.822,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 170.76,
+   "end": 176.66,
+   "text": "I am the resurrection, eternal life within",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 180.04,
+   "end": 182.72,
+   "text": "Lazarus, come forth, I cry",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 183.34,
+   "end": 186.4,
+   "text": "And the stone was rolled away",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 187.34,
+   "end": 191.36,
+   "text": "The dead man rose and walked to me",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 191.36,
+   "end": 194.96,
+   "text": "Where light replaced the grave",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 194.96,
+   "end": 198.24,
+   "text": "Unbound Him now and let Him go",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 198.96,
+   "end": 202.2,
+   "text": "The chains of death undone",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 202.96,
+   "end": 205.92,
+   "text": "I am the resurrection",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09"
+  },
+  {
+   "start": 208.8,
+   "end": 213.2,
+   "text": "The life, the risen Son",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09"
+  }
+ ]
+}

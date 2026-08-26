@@ -1,0 +1,302 @@
+{
+ "track_id": "eD2IMkcreEI#12",
+ "track_key": "eD2IMkcreEI__12",
+ "video_id": "eD2IMkcreEI",
+ "title": "Be Praised",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 344.0,
+ "voiced_sec": 232.0,
+ "voice_ratio": 0.674,
+ "n_words": 254,
+ "words_per_min": 44.3,
+ "is_instrumental": false,
+ "n_segments": 35,
+ "n_segments_voiced": 35,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 28.0,
+ "rtf": 0.081,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.22,
+   "text": "And he watches even me",
+   "avg_logprob": -0.556,
+   "no_speech_prob": 0.325,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 12.22,
+   "end": 17.22,
+   "text": "Feel the night as it lying cold",
+   "avg_logprob": -0.556,
+   "no_speech_prob": 0.325,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 19.8,
+   "end": 24.0,
+   "text": "And the silence feels my soul",
+   "avg_logprob": -0.556,
+   "no_speech_prob": 0.325,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 26.3,
+   "end": 35.7,
+   "text": "You whisper truth in the dark And your loving nights are spark",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.496,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 39.12,
+   "end": 49.12,
+   "text": "I've been down but never out You found me deep in my doubt",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.496,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 51.22,
+   "end": 61.94,
+   "text": "You pulled me close, wiped my tears And reminded me of near",
+   "avg_logprob": -0.536,
+   "no_speech_prob": 0.542,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 61.94,
+   "end": 72.26,
+   "text": "Hear He praise in the valley and the flame",
+   "avg_logprob": -0.814,
+   "no_speech_prob": 0.482,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 75.52,
+   "end": 84.22,
+   "text": "Be brave through the sorrow and the rain",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.611,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 87.72,
+   "end": 93.74,
+   "text": "You are holy, You are true",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.611,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 93.74,
+   "end": 103.56,
+   "text": "Every battle you carry me through I will lift my hands and say",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.63,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 103.56,
+   "end": 111.3,
+   "text": "Be praised, be praised",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.63,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 116.46,
+   "end": 126.04,
+   "text": "When the world is turned away You still listen when I pray",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.597,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 129.0,
+   "end": 138.96,
+   "text": "You're the rock beneath my feet You're the calm when storms repeat",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.597,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 141.82,
+   "end": 152.64,
+   "text": "In my weakness you were strong You've been right here all along",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.683,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 155.6,
+   "end": 164.44,
+   "text": "Your promises have never faded Through it all, your name I pray",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.683,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 164.44,
+   "end": 175.3,
+   "text": "Be praised, be praised In the shadow and the sun",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.612,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 179.18,
+   "end": 187.9,
+   "text": "Be praised When the healing's just begun",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.612,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 190.64,
+   "end": 196.62,
+   "text": "You are mercy, You are light",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.581,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 197.9,
+   "end": 202.84,
+   "text": "You surround me every night",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.581,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 202.84,
+   "end": 206.16,
+   "text": "I will lift my hands and say",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.581,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 206.9,
+   "end": 213.0,
+   "text": "Be praised, be praised",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.581,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 213.0,
+   "end": 216.78,
+   "text": "Oh, you never felt me",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 216.78,
+   "end": 220.04,
+   "text": "You never leave me",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 220.04,
+   "end": 225.7,
+   "text": "You hold me close in grace",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 225.7,
+   "end": 234.46,
+   "text": "Oh, yes, I will bless your name",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 240.12,
+   "end": 245.8,
+   "text": "Be praised in the fire and the fire",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.775,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 250.12,
+   "end": 258.74,
+   "text": "Be praised, you have always been my life",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.775,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 258.74,
+   "end": 259.68,
+   "text": "I",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.582,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 261.24,
+   "end": 264.26,
+   "text": "You are faithful",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.582,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 265.74,
+   "end": 267.28,
+   "text": "You are king",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.582,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 268.74,
+   "end": 273.76,
+   "text": "Let the heavens and earth sing",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.582,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 273.76,
+   "end": 277.14,
+   "text": "I will lift my hands and say",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.582,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 278.74,
+   "end": 283.92,
+   "text": "Be praise, oh be praise",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.582,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 319.1,
+   "end": 325.2,
+   "text": "Oh, oh, oh, oh, oh Be brave",
+   "avg_logprob": -0.787,
+   "no_speech_prob": 0.699,
+   "track_id": "eD2IMkcreEI#12"
+  },
+  {
+   "start": 329.32,
+   "end": 332.12,
+   "text": "Be brave",
+   "avg_logprob": -0.787,
+   "no_speech_prob": 0.699,
+   "track_id": "eD2IMkcreEI#12"
+  }
+ ]
+}

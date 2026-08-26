@@ -1,0 +1,246 @@
+{
+ "track_id": "rXmrgL6mUf8#02",
+ "track_key": "rXmrgL6mUf8__02",
+ "video_id": "rXmrgL6mUf8",
+ "title": "God's Protection",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 181.0,
+ "voiced_sec": 74.0,
+ "voice_ratio": 0.409,
+ "n_words": 288,
+ "words_per_min": 95.5,
+ "is_instrumental": false,
+ "n_segments": 28,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.6,
+ "rtf": 0.058,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.78,
+   "text": "Hmm",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.633,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 13.48,
+   "end": 17.92,
+   "text": "He who dwells in the secret place of the most high",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.633,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 20.44,
+   "end": 25.44,
+   "text": "Shall abide under the shadow of the Almighty",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.633,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 25.44,
+   "end": 38.96,
+   "text": "I will say of the Lord He is my refuge and my fortress. My God and Him I will trust.",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.862,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 41.1,
+   "end": 53.14,
+   "text": "Surely He shall deliver you from the snare of the Father and from the perilous pestilence.",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.862,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 54.9,
+   "end": 65.66,
+   "text": "He shall cover you with his feathers And under his wings you shall take refuge",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.667,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 65.66,
+   "end": 72.74,
+   "text": "His truth shall be your shield and buck You shall not be afraid of the terror by",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.667,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 72.74,
+   "end": 76.38,
+   "text": "night Nor of the arrow that flies by day",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.667,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 76.38,
+   "end": 82.8,
+   "text": "Nor of the pestilence that walks in darkness Nor of the distraction that lays waste",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.667,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 82.8,
+   "end": 83.78,
+   "text": "That new name",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.895,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 83.78,
+   "end": 86.76,
+   "text": "A thousand may fall at your sight",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.895,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 86.76,
+   "end": 90.28,
+   "text": "And ten thousand at your right hand",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.895,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 90.28,
+   "end": 94.64,
+   "text": "But it shall not come near you",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.895,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 97.24,
+   "end": 100.3,
+   "text": "Only with your eyes shall you look",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.895,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 100.92,
+   "end": 103.94,
+   "text": "And see the reward of the wicked",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.895,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 104.8,
+   "end": 109.22,
+   "text": "Cause you have made the Lord who is my refuge",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.895,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 110.72,
+   "end": 118.2,
+   "text": "Even the most higher dwelling place No evil shall befall you",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.863,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 118.2,
+   "end": 128.86,
+   "text": "Nor shall any plague come near your dwelling For he shall give his angels charge over you",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.863,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 128.86,
+   "end": 135.88,
+   "text": "To keep you in all your ways In their hands they shall bear you up",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.863,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 135.88,
+   "end": 139.28,
+   "text": "Unless you dash your foot against a stone",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.808,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 139.28,
+   "end": 142.16,
+   "text": "You shall tread upon the lion and the cobra",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.808,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 142.88,
+   "end": 146.22,
+   "text": "The young lion and the serpent, you shall trample underfoot",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.808,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 146.22,
+   "end": 150.58,
+   "text": "Because he has set his love upon me, therefore I will deliver him",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.808,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 150.58,
+   "end": 153.56,
+   "text": "I will set him on high because he's high-spirited",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.808,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 153.56,
+   "end": 159.5,
+   "text": "You shall call upon me, and I will answer him",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.808,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 159.5,
+   "end": 162.56,
+   "text": "I will be with him in trouble",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.808,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 162.56,
+   "end": 169.06,
+   "text": "I will deliver him and honor him with long life I will satisfy him",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.693,
+   "track_id": "rXmrgL6mUf8#02"
+  },
+  {
+   "start": 170.38,
+   "end": 173.82,
+   "text": "And show him my salvation",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.693,
+   "track_id": "rXmrgL6mUf8#02"
+  }
+ ]
+}

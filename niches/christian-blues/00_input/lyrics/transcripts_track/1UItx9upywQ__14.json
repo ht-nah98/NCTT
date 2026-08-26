@@ -1,0 +1,150 @@
+{
+ "track_id": "1UItx9upywQ#14",
+ "track_key": "1UItx9upywQ__14",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Safe in His Shadow\" - Psalm 91",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 177.0,
+ "voiced_sec": 87.8,
+ "voice_ratio": 0.496,
+ "n_words": 112,
+ "words_per_min": 38.0,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 22.4,
+ "rtf": 0.126,
+ "segments": [
+  {
+   "start": 6.06,
+   "end": 21.98,
+   "text": "Hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm",
+   "avg_logprob": -0.617,
+   "no_speech_prob": 0.409,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 21.98,
+   "end": 26.1,
+   "text": "Beneath the wings I stand so still",
+   "avg_logprob": -0.617,
+   "no_speech_prob": 0.409,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 27.64,
+   "end": 31.1,
+   "text": "Shadows fall but they don't chill",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.741,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 33.16,
+   "end": 37.34,
+   "text": "Ooh, ooh, ooh, it's shelter wraps me tight",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.741,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 41.1,
+   "end": 47.78,
+   "text": "No storm to allow, no night too deep",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.741,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 47.78,
+   "end": 53.36,
+   "text": "As promises are meant to keep",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.741,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 53.36,
+   "end": 63.32,
+   "text": "Safe in this shadow I'll stay Every fear fades away",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.432,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 65.64,
+   "end": 69.86,
+   "text": "Safe in this shadow each day",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.432,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 83.84,
+   "end": 87.8,
+   "text": "The lion roars, the arrows fly",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.622,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 89.74,
+   "end": 93.9,
+   "text": "But I won't bend, I won't cry",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.622,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 95.68,
+   "end": 99.78,
+   "text": "It's truth, my shield, my guiding light",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.622,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 100.76,
+   "end": 106.36,
+   "text": "No trap to slide, no dark to near",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.622,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 106.4,
+   "end": 112.46,
+   "text": "Yeah, this voice is all I'll ever hear",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.594,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 113.4,
+   "end": 116.68,
+   "text": "Safe in this shadow I'll stay",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.594,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 119.3,
+   "end": 122.44,
+   "text": "Every fear fades away",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.594,
+   "track_id": "1UItx9upywQ#14"
+  },
+  {
+   "start": 125.4,
+   "end": 128.8,
+   "text": "Safe in this shadow we stay",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.594,
+   "track_id": "1UItx9upywQ#14"
+  }
+ ]
+}

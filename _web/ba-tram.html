@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ba Trạm Chưng Cất Dữ Liệu</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<style>
+:root{
+  --ink:#12100E; --paper:#F7F4EF; --bg:#F7F4EF; --fg:#12100E;
+  --surf:#FFFDFA; --surf2:#EFEAE1; --line:#DED6C9; --line2:#C9BEAD;
+  --mute:#8B8177; --amber:#B0742C; --amber-d:#C8873A;
+  --keep:#3F7256; --drop:#9B3B31; --keep-bg:#E4EDE7; --drop-bg:#F5E3E0;
+  --amber-bg:#F6EADA;
+  --dsp:'Fraunces',Georgia,serif; --body:'Inter',system-ui,sans-serif;
+  --mono:'JetBrains Mono',ui-monospace,Menlo,monospace;
+  --mw:1180px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#12100E; --fg:#F0EAE1; --surf:#1B1815; --surf2:#242019; --line:#332D25; --line2:#463E33;
+  --mute:#9A9086; --amber:#D9964A; --amber-d:#E0A55E;
+  --keep:#6FAE8A; --drop:#D0736A; --keep-bg:#1C2A22; --drop-bg:#2C1E1C; --amber-bg:#2A2114;
+}}
+:root[data-theme="dark"]{
+  --bg:#12100E; --fg:#F0EAE1; --surf:#1B1815; --surf2:#242019; --line:#332D25; --line2:#463E33;
+  --mute:#9A9086; --amber:#D9964A; --amber-d:#E0A55E;
+  --keep:#6FAE8A; --drop:#D0736A; --keep-bg:#1C2A22; --drop-bg:#2C1E1C; --amber-bg:#2A2114;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);line-height:1.6;
+  -webkit-font-smoothing:antialiased;margin:0;font-size:16px}
+.wrap{max-width:var(--mw);margin:0 auto;padding:0 24px}
+h1,h2,h3{font-family:var(--dsp);font-weight:600;text-wrap:balance;margin:0;line-height:1.15}
+p{margin:0}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums;font-weight:700}
+
+/* ── HERO ── */
+header{border-bottom:1px solid var(--line);background:var(--surf);padding:64px 0 52px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--amber);font-weight:500;margin-bottom:20px}
+h1{font-size:clamp(34px,5.2vw,58px);letter-spacing:-.02em;max-width:16ch}
+.lede{font-size:clamp(17px,2vw,20px);color:var(--mute);max-width:62ch;margin-top:20px}
+.lede b{color:var(--fg);font-weight:600}
+.hero-stats{display:flex;flex-wrap:wrap;gap:0;margin-top:40px;border:1px solid var(--line);
+  border-radius:3px;overflow:hidden;background:var(--bg)}
+.hs{flex:1 1 150px;padding:18px 20px;border-right:1px solid var(--line)}
+.hs:last-child{border-right:0}
+.hs .k{font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--mute);
+  font-family:var(--mono);margin-bottom:6px}
+.hs .v{font-family:var(--mono);font-size:23px;font-weight:700;font-variant-numeric:tabular-nums}
+.hs .v small{font-size:13px;color:var(--mute);font-weight:400}
+
+/* ── STATION ── */
+.station{padding:76px 0 0;position:relative}
+.st-head{display:flex;gap:22px;align-items:flex-start;margin-bottom:14px}
+.st-num{font-family:var(--mono);font-size:12px;font-weight:700;letter-spacing:.1em;
+  background:var(--fg);color:var(--bg);width:34px;height:34px;flex:0 0 34px;
+  display:flex;align-items:center;justify-content:center;border-radius:2px;margin-top:6px}
+.st-head h2{font-size:clamp(25px,3.4vw,35px);letter-spacing:-.015em}
+.st-sub{font-family:var(--mono);font-size:11px;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--amber);margin-bottom:9px;font-weight:500}
+.st-desc{color:var(--mute);max-width:66ch;margin:16px 0 0 56px;font-size:16.5px}
+.st-desc b{color:var(--fg);font-weight:600}
+.st-body{margin:30px 0 0 56px}
+@media(max-width:720px){.st-desc,.st-body{margin-left:0}}
+
+/* funnel connector */
+.funnel{margin:42px 0 0 56px;display:flex;align-items:center;gap:16px;color:var(--mute);
+  font-family:var(--mono);font-size:12px}
+.funnel .bar{height:1px;background:linear-gradient(90deg,var(--line2),var(--amber));flex:1}
+.funnel .tag{border:1px solid var(--amber);color:var(--amber);padding:5px 13px;border-radius:2px;
+  letter-spacing:.06em;white-space:nowrap;background:var(--amber-bg)}
+@media(max-width:720px){.funnel{margin-left:0}}
+
+/* ── TABLE ── */
+.tblbox{border:1px solid var(--line);border-radius:3px;overflow:hidden;background:var(--surf)}
+.tblbar{display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap;
+  padding:11px 15px;border-bottom:1px solid var(--line);background:var(--surf2);
+  font-family:var(--mono);font-size:11.5px;color:var(--mute)}
+.tblbar .fn{color:var(--fg);font-weight:500}
+.scroll{overflow-x:auto;max-height:400px;overflow-y:auto}
+table{border-collapse:collapse;width:100%;font-size:12.5px;font-family:var(--mono);
+  font-variant-numeric:tabular-nums;white-space:nowrap}
+thead th{position:sticky;top:0;background:var(--surf2);text-align:left;padding:9px 12px;
+  border-bottom:1px solid var(--line2);font-weight:500;font-size:10.5px;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--mute);z-index:2}
+tbody td{padding:7px 12px;border-bottom:1px solid var(--line)}
+tbody tr:last-child td{border-bottom:0}
+td.r{text-align:right}
+td.ttl{white-space:nowrap;max-width:290px;overflow:hidden;text-overflow:ellipsis;
+  font-family:var(--body);font-size:13px}
+tr.drop{color:var(--mute)}
+tr.drop td.ttl{opacity:.62}
+tr.keep td:first-child{box-shadow:inset 3px 0 0 var(--keep)}
+.pill{display:inline-block;padding:1px 7px;border-radius:2px;font-size:10px;font-weight:700;
+  letter-spacing:.05em}
+.pill.k{background:var(--keep-bg);color:var(--keep)}
+.pill.d{background:var(--drop-bg);color:var(--drop)}
+.pill.a{background:var(--amber-bg);color:var(--amber)}
+
+/* ── CALLOUT ── */
+.callout{border:1px solid var(--line);border-left:3px solid var(--amber);background:var(--surf);
+  padding:20px 24px;border-radius:3px;margin-top:22px}
+.callout .lb{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--amber);font-weight:500;margin-bottom:9px}
+.callout p{font-size:15.5px;color:var(--mute)}
+.callout b{color:var(--fg);font-weight:600}
+
+/* ── BUCKETS ── */
+.bks{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin-top:24px}
+.bk{border:1px solid var(--line);border-radius:3px;padding:19px;background:var(--surf);
+  display:flex;flex-direction:column;gap:10px}
+.bk .top{display:flex;align-items:baseline;gap:9px}
+.bk .kk{font-family:var(--mono);font-size:11px;font-weight:700;color:var(--bg);
+  background:var(--amber);padding:2px 7px;border-radius:2px;letter-spacing:.06em}
+.bk .nm{font-family:var(--dsp);font-size:19px;font-weight:600}
+.bk .cnt{margin-left:auto;font-family:var(--mono);font-size:21px;font-weight:700;
+  font-variant-numeric:tabular-nums}
+.bk .rule{font-family:var(--mono);font-size:11.5px;color:var(--amber);background:var(--amber-bg);
+  padding:7px 10px;border-radius:2px;white-space:normal;line-height:1.5}
+.bk .why{font-size:14px;color:var(--mute);line-height:1.55}
+
+/* ── HISTOGRAM ── */
+.hist{margin-top:26px;border:1px solid var(--line);border-radius:3px;background:var(--surf);padding:22px}
+.hist h4{font-family:var(--dsp);font-size:17px;font-weight:600;margin:0 0 4px}
+.hist .cap{font-size:13.5px;color:var(--mute);margin-bottom:20px;max-width:70ch}
+.hrow{display:grid;grid-template-columns:78px 1fr 128px;gap:12px;align-items:center;
+  padding:4px 0;font-family:var(--mono);font-size:11.5px}
+.hrow .lb{color:var(--mute);text-align:right}
+.htrack{height:15px;background:var(--surf2);border-radius:2px;overflow:hidden;position:relative}
+.hall{height:100%;background:var(--line2);position:absolute;left:0;top:0}
+.hsel{height:100%;background:var(--keep);position:absolute;left:0;top:0}
+.hrow .rt{color:var(--mute);font-size:11px;font-variant-numeric:tabular-nums}
+.hrow .rt b{color:var(--keep);font-weight:700}
+.hleg{display:flex;gap:20px;margin-top:16px;font-family:var(--mono);font-size:11px;color:var(--mute);
+  flex-wrap:wrap;padding-top:14px;border-top:1px solid var(--line)}
+.hleg i{display:inline-block;width:11px;height:11px;border-radius:2px;margin-right:6px;
+  vertical-align:-1px}
+
+/* ── COMMENT NOISE ── */
+.cmp{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:24px}
+@media(max-width:820px){.cmp{grid-template-columns:1fr}}
+.cmcol{border:1px solid var(--line);border-radius:3px;background:var(--surf);overflow:hidden}
+.cmcol .hd{padding:12px 16px;border-bottom:1px solid var(--line);background:var(--surf2)}
+.cmcol .hd .t{font-family:var(--dsp);font-size:16px;font-weight:600}
+.cmcol .hd .s{font-family:var(--mono);font-size:11px;color:var(--mute);margin-top:3px}
+.cmlist{padding:6px 0;max-height:330px;overflow-y:auto}
+.cmi{padding:9px 16px;border-bottom:1px solid var(--line);font-size:13.5px;line-height:1.5}
+.cmi:last-child{border-bottom:0}
+.cmi .mt{font-family:var(--mono);font-size:10.5px;color:var(--mute);margin-top:5px}
+.cmi.n{color:var(--mute)}
+.noisebar{display:flex;gap:7px;flex-wrap:wrap;margin-top:16px}
+.nchip{font-family:var(--mono);font-size:11.5px;border:1px solid var(--line2);border-radius:2px;
+  padding:5px 10px;background:var(--surf);color:var(--mute)}
+.nchip b{color:var(--drop);font-weight:700}
+
+/* ── OUTCOMES ── */
+.ocs{display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:13px;margin-top:24px}
+.oc{border:1px solid var(--line);border-radius:3px;padding:16px;background:var(--surf)}
+.oc .n{font-family:var(--mono);font-size:10.5px;color:var(--amber);letter-spacing:.09em;margin-bottom:7px}
+.oc .t{font-family:var(--dsp);font-size:16.5px;font-weight:600;margin-bottom:9px;line-height:1.25}
+.oc .i{font-size:12.5px;color:var(--mute);font-family:var(--mono);line-height:1.7}
+.oc .i span{display:inline-block;border-bottom:1px dotted var(--line2)}
+
+/* ── TIMESERIES ── */
+.tsbox{margin-top:24px;border:1px solid var(--line);border-radius:3px;background:var(--surf);
+  padding:22px;position:relative}
+.simlabel{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:10.5px;
+  letter-spacing:.09em;text-transform:uppercase;color:var(--drop);background:var(--drop-bg);
+  border:1px solid var(--drop);padding:5px 11px;border-radius:2px;font-weight:600;margin-bottom:16px}
+#spark{width:100%;height:190px;display:block}
+.tsfoot{font-size:13.5px;color:var(--mute);margin-top:14px;max-width:74ch}
+.tsfoot b{color:var(--fg);font-weight:600}
+
+/* ── PRODUCT MOCK ── */
+.mock{margin-top:34px;border:1px solid var(--line2);border-radius:5px;overflow:hidden;
+  background:var(--surf);box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.mockbar{display:flex;align-items:center;gap:9px;padding:10px 14px;background:var(--surf2);
+  border-bottom:1px solid var(--line)}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--line2)}
+.mockbar .url{font-family:var(--mono);font-size:11px;color:var(--mute);margin-left:10px}
+.mockbody{display:grid;grid-template-columns:186px 1fr;min-height:430px}
+@media(max-width:820px){.mockbody{grid-template-columns:1fr}}
+.side{border-right:1px solid var(--line);padding:16px 0;background:var(--bg)}
+.side .sh{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--mute);padding:0 16px;margin-bottom:9px}
+.prj{padding:9px 16px;font-size:13.5px;border-left:2px solid transparent;cursor:default}
+.prj.on{border-left-color:var(--amber);background:var(--amber-bg);font-weight:600}
+.prj .m{font-family:var(--mono);font-size:10.5px;color:var(--mute);margin-top:2px}
+.main{padding:0;display:flex;flex-direction:column;min-width:0}
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--line);padding:0 14px;background:var(--surf);
+  overflow-x:auto}
+.tab{padding:12px 15px;font-size:13.5px;cursor:pointer;border-bottom:2px solid transparent;
+  color:var(--mute);white-space:nowrap;background:none;border-top:0;border-left:0;border-right:0;
+  font-family:var(--body);transition:color .12s}
+.tab:hover{color:var(--fg)}
+.tab[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--amber);font-weight:600}
+.tab:focus-visible{outline:2px solid var(--amber);outline-offset:-2px}
+.pane{padding:18px;display:none;min-width:0}
+.pane.on{display:block}
+.ctrls{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:14px;
+  padding-bottom:14px;border-bottom:1px solid var(--line)}
+.ck{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:12px;
+  border:1px solid var(--line2);padding:6px 11px;border-radius:2px;cursor:pointer;background:var(--surf);
+  user-select:none;transition:all .12s}
+.ck:hover{border-color:var(--amber)}
+.ck input{accent-color:var(--amber);margin:0;cursor:pointer}
+.ck.on{border-color:var(--amber);background:var(--amber-bg);color:var(--amber);font-weight:500}
+.ck .c{color:var(--mute);font-size:11px}
+.ck.on .c{color:var(--amber)}
+.livect{margin-left:auto;font-family:var(--mono);font-size:12px;color:var(--mute)}
+.livect b{color:var(--fg);font-size:15px;font-weight:700}
+
+/* ── CLOSER ── */
+.closer{margin:80px 0 0;border-top:1px solid var(--line);padding:56px 0 76px}
+.qa{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:22px;margin-top:30px}
+.qi{border:1px solid var(--line);border-radius:3px;padding:22px;background:var(--surf)}
+.qi .q{font-family:var(--dsp);font-size:17.5px;font-weight:600;margin-bottom:11px;line-height:1.3}
+.qi .a{font-size:14.5px;color:var(--mute);line-height:1.62}
+.qi .a b{color:var(--fg);font-weight:600}
+.qi .a .n{font-family:var(--mono);font-weight:700;color:var(--amber);font-variant-numeric:tabular-nums}
+footer{border-top:1px solid var(--line);padding:26px 0;font-family:var(--mono);font-size:11.5px;
+  color:var(--mute);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<header>
+<div class="wrap">
+  <div class="eyebrow">Dự án Christian Blues · 53 kênh · Mô phỏng sản phẩm</div>
+  <h1>Ba trạm chưng cất dữ liệu</h1>
+  <p class="lede">Đầu vào là <b>một danh sách kênh</b>. Đầu ra là <b>bản nghiên cứu thị trường đối chiếu được tới từng dòng dữ liệu</b>. Trang này giải thích chuyện gì xảy ra ở giữa — và vì sao <b>Trạm 2 tồn tại</b>.</p>
+  <div class="hero-stats" id="herostats"></div>
+</div>
+</header>
+
+<div class="wrap">
+
+<!-- STATION 1 -->
+<section class="station">
+  <div class="st-head">
+    <div class="st-num">01</div>
+    <div>
+      <div class="st-sub">Trạm 1 · Thu thập</div>
+      <h2>Data thô — trải phẳng, không phán xét</h2>
+    </div>
+  </div>
+  <p class="st-desc">Mọi thứ crawl được đều nằm đây, một dòng một video, không bỏ gì. <b>Đây là bản ghi, không phải bản phân tích.</b> Giá trị của nó là tính đầy đủ và khả năng truy vết — bất kỳ con số nào trong báo cáo cuối cũng lần ngược về được đúng dòng này.</p>
+  <div class="st-body">
+    <div class="tblbox">
+      <div class="tblbar">
+        <span class="fn">videos_enriched.parquet</span>
+        <span id="t1meta"></span>
+      </div>
+      <div class="scroll"><table id="t1"></table></div>
+    </div>
+    <div class="callout">
+      <div class="lb">Vấn đề lộ ra ngay ở đây</div>
+      <p id="c1txt"></p>
+    </div>
+  </div>
+  <div class="funnel"><span class="tag">4 rổ lọc + khử trùng lặp</span><span class="bar"></span></div>
+</section>
+
+<!-- STATION 2 -->
+<section class="station">
+  <div class="st-head">
+    <div class="st-num">02</div>
+    <div>
+      <div class="st-sub">Trạm 2 · Chuẩn hóa</div>
+      <h2>Chọn cái đáng phân tích</h2>
+    </div>
+  </div>
+  <p class="st-desc">Đây là trạm hay bị hỏi <i>"để làm gì?"</i>. Câu trả lời gọn nhất nằm ở một con số: bỏ đi <b id="d1"></b> video, chỉ mất <b id="d2"></b> lượt xem. Phần bị bỏ không phải thị trường — nó là <b>đuôi dài không ai xem</b>. Giữ nó lại thì AI học từ nhiễu.</p>
+  <div class="st-body">
+    <div class="hist">
+      <h4>Cùng một tập dữ liệu, nhìn theo bậc view</h4>
+      <p class="cap">Thanh xám là toàn bộ <span class="mono" id="hv1"></span> video. Thanh xanh là phần được giữ. Bộ lọc <b>không cắt ngẫu nhiên</b> — nó giữ gần trọn phần trên và loại gần trọn phần đáy.</p>
+      <div id="histrows"></div>
+      <div class="hleg">
+        <span><i style="background:var(--line2)"></i>Toàn bộ data thô</span>
+        <span><i style="background:var(--keep)"></i>Được giữ để phân tích</span>
+        <span>Số bên phải = giữ / tổng của bậc đó</span>
+      </div>
+    </div>
+
+    <div class="bks" id="bks"></div>
+
+    <div class="callout">
+      <div class="lb">Rổ B4 là thứ phân biệt nghiên cứu với sưu tầm</div>
+      <p>Ba rổ đầu tìm cái <b>thắng</b>. Rổ B4 cố tình lấy video <b>thua trên chính kênh đang mạnh</b>. Không có nó, mọi kết luận đều mắc <b>survivorship bias</b>: ta nói "tiêu đề dài thì thắng" mà không biết video thua <i>cũng</i> tiêu đề dài. Có B4, quan sát trở thành <b>so sánh có kiểm soát</b>.</p>
+    </div>
+
+    <h3 style="font-size:21px;margin:44px 0 6px">Cùng logic đó, áp lên comment</h3>
+    <p style="color:var(--mute);font-size:15.5px;max-width:68ch">Với comment, nhiễu còn lộ liễu hơn. <span class="mono" id="cn1"></span> comment dưới 25 ký tự — <b id="cn2"></b> tổng số.</p>
+    <div class="noisebar" id="noisechips"></div>
+    <div class="cmp">
+      <div class="cmcol">
+        <div class="hd"><div class="t">Lấy ngẫu nhiên từ data thô</div>
+          <div class="s" id="cmrawmeta"></div></div>
+        <div class="cmlist" id="cmraw"></div>
+      </div>
+      <div class="cmcol">
+        <div class="hd"><div class="t">Sau chuẩn hóa 3 tầng</div>
+          <div class="s" id="cmselmeta"></div></div>
+        <div class="cmlist" id="cmsel"></div>
+      </div>
+    </div>
+    <div class="callout">
+      <div class="lb">Vì sao không đưa hết 145.150 comment vào AI</div>
+      <p>Không phải vì đắt — mà vì <b>nhiễu át tín hiệu</b>. Hỏi AI "khán giả muốn gì" trên tập có 2.169 chữ "Amen", câu trả lời sẽ là "khán giả muốn cầu nguyện". Đúng, nhưng vô dụng. Tầng <span class="mono">C3_random</span> giữ <span class="mono">1.500</span> comment lấy ngẫu nhiên thuần — <b>để chống chính thiên lệch mà hai tầng kia tạo ra</b>.</p>
+    </div>
+  </div>
+  <div class="funnel"><span class="tag">Nạp theo outcome</span><span class="bar"></span></div>
+</section>
+
+<!-- STATION 3 -->
+<section class="station">
+  <div class="st-head">
+    <div class="st-num">03</div>
+    <div>
+      <div class="st-sub">Trạm 3 · Phân tích</div>
+      <h2>Mỗi báo cáo ăn một khẩu phần khác nhau</h2>
+    </div>
+  </div>
+  <p class="st-desc">Không phải outcome nào cũng dùng chung một tập. Báo cáo đối thủ cần <b>phủ đủ 53 kênh</b> (rổ B3). Báo cáo công thức thắng cần <b>outlier và nhóm đối chứng</b> (B1+B4). Người dùng chọn được khẩu phần; mặc định thì hệ thống tự ghép theo nguyên tắc đã thiết kế.</p>
+  <div class="st-body">
+    <div class="ocs" id="ocs"></div>
+  </div>
+</section>
+
+<!-- TIMESERIES -->
+<section class="station">
+  <div class="st-head">
+    <div class="st-num">04</div>
+    <div>
+      <div class="st-sub">Lộ trình · Chưa có trong bản hiện tại</div>
+      <h2>Từ ảnh chụp sang thước phim</h2>
+    </div>
+  </div>
+  <p class="st-desc">Bản hiện tại là <b>một ảnh chụp tại một thời điểm</b> — đủ để trả lời "thị trường đang thế nào", không đủ để trả lời "đang chuyển động ra sao". Crawl hằng ngày biến mỗi dòng data thô thành một đường giá.</p>
+  <div class="st-body">
+    <div class="tsbox">
+      <div class="simlabel">◆ Dữ liệu minh họa — hệ thống hiện mới có 1 snapshot</div>
+      <canvas id="spark" width="1000" height="190"></canvas>
+      <p class="tsfoot">Khi có chuỗi ngày, những thứ hôm nay <b>không tính được</b> sẽ mở ra: tốc độ tăng view của một video trong 7 ngày đầu, thời điểm một kênh đổi công thức, và quan trọng nhất — <b>outlier thật sự đang lên</b> thay vì outlier đã lên xong từ nửa năm trước. Đây cũng là điều kiện để trục M2.4 nâng độ tin cậy từ "vừa" lên "cao".</p>
+    </div>
+  </div>
+</section>
+
+<!-- PRODUCT MOCK -->
+<section class="station">
+  <div class="st-head">
+    <div class="st-num">05</div>
+    <div>
+      <div class="st-sub">Mô phỏng giao diện</div>
+      <h2>Ba trạm trong một màn hình</h2>
+    </div>
+  </div>
+  <p class="st-desc">Bấm thử các tab và bật/tắt bộ lọc — <b>số liệu chạy trên dữ liệu thật của Christian Blues</b>, không phải ảnh tĩnh.</p>
+  <div class="st-body">
+    <div class="mock">
+      <div class="mockbar">
+        <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+        <span class="url">niche-research.internal / du-an / christian-blues</span>
+      </div>
+      <div class="mockbody">
+        <div class="side">
+          <div class="sh">Dự án</div>
+          <div class="prj on">Christian Blues<div class="m" id="pm1"></div></div>
+          <div class="prj">Lofi Study<div class="m">— chưa crawl</div></div>
+          <div class="prj">Sleep Stories<div class="m">— chưa crawl</div></div>
+          <div class="sh" style="margin-top:20px">Trạng thái</div>
+          <div class="prj" style="cursor:default">
+            <div class="m" id="pm2"></div>
+          </div>
+        </div>
+        <div class="main">
+          <div class="tabs" role="tablist">
+            <button class="tab" role="tab" aria-selected="true" data-p="p1">Data thô</button>
+            <button class="tab" role="tab" aria-selected="false" data-p="p2">Chuẩn hóa</button>
+            <button class="tab" role="tab" aria-selected="false" data-p="p3">Outcome</button>
+          </div>
+          <div class="pane on" id="p1">
+            <div class="ctrls">
+              <span class="mono" style="font-size:12px;color:var(--mute)">Không lọc — toàn bộ bản ghi, kể cả video 71 view</span>
+              <span class="livect">Bản ghi <b id="rawn"></b></span>
+            </div>
+            <div class="scroll" style="max-height:300px"><table id="mt1"></table></div>
+          </div>
+          <div class="pane" id="p2">
+            <div class="ctrls" id="ctrls"></div>
+            <div class="scroll" style="max-height:300px"><table id="mt2"></table></div>
+          </div>
+          <div class="pane" id="p3">
+            <div class="ctrls">
+              <span class="mono" style="font-size:12px;color:var(--mute)">Mỗi outcome nạp một khẩu phần dữ liệu riêng</span>
+            </div>
+            <div id="mocs"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CLOSER -->
+<section class="closer">
+  <div class="st-sub">Trả lời trực tiếp</div>
+  <h2 style="font-size:clamp(24px,3.2vw,32px);max-width:22ch">Ba câu sếp sẽ hỏi</h2>
+  <div class="qa" id="qa"></div>
+</section>
+
+<footer>
+  <span>Số liệu đọc từ dữ liệu thật · dự án christian-blues</span>
+  <span id="ftr"></span>
+</footer>
+</div>
+
+<script id="D" type="application/json">{"raw_rows": [{"id": "xjZBXXJWmps", "t": "When My Faith Was Weak 🙏 Powerful Gospel Blues Worship Music", "ch": "faithbluesrevival", "v": 71, "l": 7, "cm": 2, "d": 4994, "age": 1, "vpd": 71.0, "or": 0.02, "sel": false, "pub": "2026-08-12"}, {"id": "Nz1NdSBqnbk", "t": "LORD DON'T LET GO 🙏 Deep Emotional Gospel Blues Worship | The Broken Halleluja", "ch": "thebrokenhallelujah", "v": 368, "l": 16, "cm": 0, "d": 403, "age": 18, "vpd": 20.44, "or": 0.32, "sel": false, "pub": "2026-07-26"}, {"id": "oA3KzFsso9I", "t": "💙 Tears Fell Down My Face, Yet I Still Believe | Gospel Blues", "ch": "graceroadblues", "v": 161, "l": 2, "cm": 0, "d": 7584, "age": 30, "vpd": 5.37, "or": 0.8, "sel": false, "pub": "2026-07-13"}, {"id": "LqPVFCEAAa4", "t": "The Moment Blues Transformed Into Grace #GospelBlues #Redemption", "ch": "holyspiritsoundblues", "v": 586, "l": 33, "cm": 1, "d": 20, "age": 34, "vpd": 17.24, "or": 0.56, "sel": false, "pub": "2026-07-10"}, {"id": "WPkFfP0AHPQ", "t": "Un día a la vez | Gospel Soul Blues in Spanish cuando la semana comienza cuest", "ch": "gospelblueshouses", "v": 1311, "l": 21, "cm": 0, "d": 6514, "age": 41, "vpd": 31.98, "or": 1.49, "sel": false, "pub": "2026-07-02"}, {"id": "-Vmuia0_oIQ", "t": "Leave It Here | Drop Your Guilt and Shame - Healing Christian Ambient", "ch": "deeperstillworship", "v": 1130, "l": 44, "cm": 6, "d": 3932, "age": 43, "vpd": 26.28, "or": 0.38, "sel": false, "pub": "2026-06-30"}, {"id": "23RdAMhDqQQ", "t": "Lord, Don't Let Me Walk Alone | Gospel Blues | Stay With Me Tonight", "ch": "herblues1", "v": 824, "l": 26, "cm": 0, "d": 4041, "age": 49, "vpd": 16.82, "or": 1.76, "sel": false, "pub": "2026-06-24"}, {"id": "r0JP1t3sEls", "t": "🎧 Soul Christian Blues | If you're listening to this, don't give up now!", "ch": "christiansoulblues", "v": 684, "l": 25, "cm": 2, "d": 1730, "age": 50, "vpd": 13.68, "or": 0.26, "sel": false, "pub": "2026-06-24"}, {"id": "1snDySJYQOA", "t": "God Didn’t Bring You This Far to Leave You | Gospel Blues | Hope for Hard Seas", "ch": "herblues1", "v": 4800, "l": 133, "cm": 9, "d": 4209, "age": 67, "vpd": 71.64, "or": 10.22, "sel": false, "pub": "2026-06-06"}, {"id": "-sBP15TAEjM", "t": "When Tears Finally Fell | NEW Soulful Gospel Blues for Comfort, Healing & Pray", "ch": "gospelbluesroom", "v": 348, "l": 23, "cm": 0, "d": 4785, "age": 76, "vpd": 4.58, "or": 0.81, "sel": false, "pub": "2026-05-28"}, {"id": "pT8mr9p3a4E", "t": "PSALMS FOR A HEAVY HEART🙏🏾 Deep Gospel Blues Prayer | Emotional Worship Song", "ch": "gospelbluesprayer", "v": 474, "l": 32, "cm": 2, "d": 4066, "age": 77, "vpd": 6.16, "or": 0.64, "sel": false, "pub": "2026-05-27"}, {"id": "BlBeKzQrir8", "t": "Held Together ❤️❤️ #bluesgospel #gospelmusic #bluesofgrace #gospel2026 #soulmu", "ch": "bluesofgracevibes", "v": 3709, "l": 124, "cm": 4, "d": 156, "age": 82, "vpd": 45.23, "or": 25.4, "sel": false, "pub": "2026-05-22"}, {"id": "zxqUzo-Zb2E", "t": "Quiet My Soul | Peaceful Gospel Blues for Prayer (3H)", "ch": "gospelbluessanctuarymusic", "v": 960, "l": 19, "cm": 0, "d": 10971, "age": 85, "vpd": 11.29, "or": 1.28, "sel": false, "pub": "2026-05-19"}, {"id": "e7n-NAJYols", "t": "Cadena rota | Soul Blues in Spanish, aunque el alma siga cansada por dentro", "ch": "gospelblueshouses", "v": 11969, "l": 84, "cm": 4, "d": 6847, "age": 89, "vpd": 134.48, "or": 13.63, "sel": false, "pub": "2026-05-15"}, {"id": "bF9-VWtbgZU", "t": "When You Feel Lost, Listen to This Gospel Blues | Peace & Healing (3H)", "ch": "gospelbluessanctuarymusic", "v": 799, "l": 17, "cm": 0, "d": 10923, "age": 90, "vpd": 8.88, "or": 1.06, "sel": false, "pub": "2026-05-14"}, {"id": "m5aqUm1Kt3E", "t": "The Book of Ephesians in BLUES Style", "ch": "rivers-and-revival", "v": 3733, "l": 166, "cm": 5, "d": 2184, "age": 93, "vpd": 40.14, "or": 0.26, "sel": false, "pub": "2026-05-11"}, {"id": "-uFtWbe2eP8", "t": "Be Still 🙏 100 Minutes of Deep Gospel Blues Worship for Rest, Prayer & Healing", "ch": "soulhealingmusicgospelblues", "v": 997, "l": 25, "cm": 0, "d": 6130, "age": 94, "vpd": 10.61, "or": 2.84, "sel": false, "pub": "2026-05-10"}, {"id": "oKA9A81JVbw", "t": "Jada Monroe - WHY SO HEAVY #jadamonroe #psalm42", "ch": "biblebluesofficial", "v": 3389, "l": 138, "cm": 3, "d": 31, "age": 99, "vpd": 34.23, "or": 1.8, "sel": false, "pub": "2026-05-06"}, {"id": "j14Hj-pKy2E", "t": "Gospel Blues Testimony for Strength & Hope 🙏🏾 Lord, My Soul Is Tired and Empty", "ch": "christianbluesgospel86", "v": 134, "l": 5, "cm": 1, "d": 4047, "age": 100, "vpd": 1.34, "or": 0.34, "sel": false, "pub": "2026-05-04"}, {"id": "sDIVUwbf9U0", "t": "When life feels like a storm you didn't see", "ch": "holyspiritsoundblues", "v": 788, "l": 33, "cm": 1, "d": 36, "age": 103, "vpd": 7.65, "or": 0.76, "sel": false, "pub": "2026-05-02"}, {"id": "I-nhQErMQsU", "t": "Blues for the soul", "ch": "bluesguy-h", "v": 1871, "l": 65, "cm": 8, "d": 39, "age": 103, "vpd": 18.17, "or": 0.76, "sel": false, "pub": "2026-05-02"}, {"id": "x5wTcnOketE", "t": "For you #bluesgospel #bluescommunity #music #bluesmusic #oldies #soulmusic #bl", "ch": "bluesguy-h", "v": 4114, "l": 168, "cm": 13, "d": 57, "age": 107, "vpd": 38.45, "or": 1.66, "sel": false, "pub": "2026-04-27"}, {"id": "D2CorMwCmFo", "t": "Un día a la vez | Deep Blues in Spanish cuando el alma se siente sobrecargada", "ch": "gospelblueshouses", "v": 239, "l": 4, "cm": 0, "d": 7075, "age": 115, "vpd": 2.08, "or": 0.27, "sel": false, "pub": "2026-04-19"}, {"id": "yv5DhfevF94", "t": "I Need Your Glory 🙏🔥 | Deep Gospel Blues Worship & Surrender Song | The Broken", "ch": "thebrokenhallelujah", "v": 41801, "l": 275, "cm": 8, "d": 484, "age": 119, "vpd": 351.27, "or": 36.05, "sel": true, "pub": "2026-04-15"}, {"id": "elGa1u6YD1I", "t": "Still Worship — Everlasting Mercy: A Solemn Blend of KJV Gospel Truth and Deep", "ch": "stillworshipmusic", "v": 4084, "l": 100, "cm": 18, "d": 667, "age": 127, "vpd": 32.16, "or": 0.47, "sel": false, "pub": "2026-04-07"}, {"id": "2qcY85LWR_0", "t": "Let the Music Bring You Peace | Soulful Gospel Blues | Christian Worship | R&B", "ch": "spiritflow-s2l", "v": 1430, "l": 54, "cm": 0, "d": 2512, "age": 128, "vpd": 11.17, "or": 2.31, "sel": false, "pub": "2026-04-06"}, {"id": "v62XPTAEbGI", "t": "CHRISTIAN BLUES Gospel Blues & Christian Worship Music: Psalm 46 for Calm Nigh", "ch": "graceinbluesgospel", "v": 38, "l": 1, "cm": 1, "d": 4366, "age": 135, "vpd": 0.28, "or": 0.06, "sel": false, "pub": "2026-03-30"}, {"id": "M1Lt-G6nCZ0", "t": "Mercy on My Mind: Finding Light in Darkness #shorts", "ch": "graceinbluesgospel", "v": 1059, "l": 49, "cm": 0, "d": 103, "age": 149, "vpd": 7.11, "or": 1.76, "sel": false, "pub": "2026-03-16"}, {"id": "Uchb7wD2DkE", "t": "Don't Think You're Out of Reach! Mercy's Closer", "ch": "holyspiritsoundblues", "v": 1203, "l": 21, "cm": 2, "d": 18, "age": 151, "vpd": 7.97, "or": 1.16, "sel": false, "pub": "2026-03-14"}, {"id": "KFQZcWDRmZk", "t": "Deep Gospel Blues – Peace in His Presence | Christian Worship & Prayer", "ch": "stillworshipmusic", "v": 1242, "l": 87, "cm": 13, "d": 1627, "age": 153, "vpd": 8.12, "or": 0.14, "sel": true, "pub": "2026-03-12"}, {"id": "0P5yO9EFgUg", "t": "Blues Gospel Don’t Let Me Go | for Anxious Hearts 1 Hour | Deep Soul Prayer", "ch": "sacredrootsmusic", "v": 735, "l": 22, "cm": 4, "d": 3866, "age": 168, "vpd": 4.38, "or": 2.84, "sel": false, "pub": "2026-02-25"}, {"id": "Xo69yrTExAs", "t": "✝️ Hold My Heart, My Lord | Christian Blues | Soulful Worship", "ch": "christianbluesgospel86", "v": 480, "l": 11, "cm": 0, "d": 4267, "age": 175, "vpd": 2.74, "or": 1.22, "sel": false, "pub": "2026-02-18"}, {"id": "PC7L99QaltY", "t": "Whiskey Blues Songs | Slow Melodies for Evening Chill", "ch": "herblues1", "v": 33, "l": 1, "cm": 0, "d": 4653, "age": 177, "vpd": 0.19, "or": 0.07, "sel": false, "pub": "2026-02-16"}, {"id": "hZ_bs5PbXqc", "t": "Gospel Blues Reflection 🎸 | Quiet Prayer & Soulful Worship (3 Hours, 4K)", "ch": "gospelbluessanctuarymusic", "v": 1779, "l": 36, "cm": 2, "d": 10816, "age": 181, "vpd": 9.83, "or": 2.37, "sel": false, "pub": "2026-02-12"}, {"id": "4zSKH6SLS0o", "t": "Shadows #bluesgospel #bluesmusic #soul", "ch": "bluesguy-h", "v": 7833, "l": 259, "cm": 8, "d": 33, "age": 186, "vpd": 42.11, "or": 3.16, "sel": false, "pub": "2026-02-08"}, {"id": "aeaPh2gU-f8", "t": "Praise Through the Groove | Soulful Gospel R&B (80s Style)", "ch": "spiritflow-s2l", "v": 163, "l": 4, "cm": 0, "d": 2338, "age": 187, "vpd": 0.87, "or": 0.26, "sel": false, "pub": "2026-02-06"}, {"id": "XN1qFCuleqk", "t": "Whiskey Blues Music | Soulful Slow Blues & Rock After Midnight", "ch": "herblues1", "v": 232, "l": 5, "cm": 0, "d": 4454, "age": 195, "vpd": 1.19, "or": 0.49, "sel": false, "pub": "2026-01-29"}, {"id": "3SGcscPObSc", "t": "Dark Blues to Unwind & Relax After a Long Day", "ch": "herblues1", "v": 108, "l": 4, "cm": 0, "d": 1619, "age": 202, "vpd": 0.53, "or": 0.23, "sel": false, "pub": "2026-01-22"}, {"id": "fDp_ih8ya5w", "t": "Stand Right Here | Soulful Gospel Blues #gospelblues #christianmusic #shorts", "ch": "stillworshipmusic", "v": 6084, "l": 298, "cm": 32, "d": 172, "age": 206, "vpd": 29.53, "or": 0.7, "sel": false, "pub": "2026-01-18"}, {"id": "vGbvjmmV2Zk", "t": "When Doctors said No.. God Says Yes #blues #gospel", "ch": "holyspiritsoundblues", "v": 1878, "l": 71, "cm": 1, "d": 59, "age": 217, "vpd": 8.65, "or": 1.81, "sel": false, "pub": "2026-01-07"}, {"id": "UrcgBY3ZMko", "t": "Find Comfort in FAITH with Soothing Christian Blues Worship", "ch": "gospelbluesroom", "v": 1910, "l": 50, "cm": 1, "d": 2560, "age": 220, "vpd": 8.68, "or": 4.44, "sel": false, "pub": "2026-01-04"}, {"id": "y_XstM7TWOI", "t": "✨Gospel Blues Worship | Healing & Peace for Weary Souls", "ch": "soulstringsblues-o1g", "v": 143, "l": 5, "cm": 0, "d": 1927, "age": 230, "vpd": 0.62, "or": 0.28, "sel": false, "pub": "2025-12-25"}, {"id": "c3H4VOmB3_U", "t": "Soulful Christian Blues | Gospel Blues to Bring Peace Right Now | Christmas Go", "ch": "stillworshipmusic", "v": 220, "l": 10, "cm": 2, "d": 1557, "age": 231, "vpd": 0.95, "or": 0.03, "sel": false, "pub": "2025-12-24"}, {"id": "eM2sY9pRp9M", "t": "Gospel Blues Warmth | Peaceful Christian Worship #soulfulgospel #worshipmusic", "ch": "stillworshipmusic", "v": 3611, "l": 244, "cm": 13, "d": 171, "age": 231, "vpd": 15.63, "or": 0.41, "sel": false, "pub": "2025-12-24"}, {"id": "iYGrIrOOdn8", "t": "Soul Gospel for the Broken | Deep Worship Songs for Peace & Healing", "ch": "sacredrootsmusic", "v": 20710, "l": 382, "cm": 54, "d": 3631, "age": 237, "vpd": 87.38, "or": 80.12, "sel": true, "pub": "2025-12-18"}, {"id": "VXrHFJHTS4M", "t": "Jesus, Calm My Fears 🙏 Christian Blues | Soulful Worship | 2+ Hour Playlist | ", "ch": "christianbluesgospel86", "v": 771, "l": 18, "cm": 0, "d": 7470, "age": 254, "vpd": 3.04, "or": 1.95, "sel": false, "pub": "2025-12-01"}, {"id": "m3FGLJzYT3Y", "t": "🔥 THE LOVE THAT STAYS — Powerful Christian R&B Worship Song | Gospel Love & Pr", "ch": "thearksound", "v": 280, "l": 0, "cm": 1, "d": 742, "age": 256, "vpd": 1.09, "or": 0.76, "sel": false, "pub": "2025-11-29"}, {"id": "nRhTWDwTnpY", "t": "Soulful 1960s Gospel Blues | Timeless Spirit | Vintage Harmony", "ch": "oldiesgospelradio", "v": 13910, "l": 230, "cm": 13, "d": 5829, "age": 258, "vpd": 53.91, "or": 1.14, "sel": false, "pub": "2025-11-27"}, {"id": "CM0TnNvaS7o", "t": "Relaxing Psalms in R&B | Peaceful Christian Gospel Music for Study, Prayer & S", "ch": "thearksound", "v": 120, "l": 0, "cm": 1, "d": 3721, "age": 264, "vpd": 0.45, "or": 0.33, "sel": false, "pub": "2025-11-21"}, {"id": "-H5r_Y3IAuo", "t": "When God Never Leaves You in the Darkness #GospelBlues #Worship #Faith", "ch": "stillworshipmusic", "v": 1519, "l": 95, "cm": 5, "d": 90, "age": 268, "vpd": 5.67, "or": 0.17, "sel": true, "pub": "2025-11-17"}, {"id": "tKoFzHaV50w", "t": "Christian Trap Music Playlist | Christian Rap Music | Gospel Rap Music | Chris", "ch": "revivalworshiproommusic", "v": 35740, "l": 885, "cm": 45, "d": 2638, "age": 275, "vpd": 129.96, "or": 8.86, "sel": true, "pub": "2025-11-10"}, {"id": "kwY0wY1zDHs", "t": "Psalm 13 – How Long, O Lord, Will You Forget Me? | Emotional Gospel Blues", "ch": "holygroove-1", "v": 2651, "l": 36, "cm": 2, "d": 256, "age": 300, "vpd": 8.84, "or": 2.86, "sel": false, "pub": "2025-10-16"}, {"id": "M2rTIEaAIE8", "t": "Gospel Blues Worship Night | Songs That Speak to the Heart", "ch": "gospelbluesroom", "v": 849, "l": 17, "cm": 1, "d": 2901, "age": 337, "vpd": 2.52, "or": 1.97, "sel": false, "pub": "2025-09-09"}, {"id": "dYcFtUfAnqY", "t": "“My Tongue Shall Sing of Your Righteousness” – Psalm 35", "ch": "holygroove-1", "v": 3806, "l": 56, "cm": 6, "d": 388, "age": 339, "vpd": 11.23, "or": 4.1, "sel": false, "pub": "2025-09-07"}, {"id": "ced_mTplqDg", "t": "Blues Cristianos Para Conectar con Dios en Oración", "ch": "bluescristianosprofundos", "v": 2742, "l": 55, "cm": 2, "d": 1094, "age": 392, "vpd": 6.99, "or": 0.88, "sel": false, "pub": "2025-07-16"}, {"id": "AfHuQpe2l8A", "t": "Soaking Praise & Worship Christian Live Band Contemporary Gospel Music Playlis", "ch": "revivalworshiproommusic", "v": 792, "l": 19, "cm": 0, "d": 4325, "age": 400, "vpd": 1.98, "or": 0.2, "sel": true, "pub": "2025-07-08"}, {"id": "sn2szwROHyY", "t": "BLUES CRISTIANO para el Alma | 2 Horas de Adoración Profunda y Promesas de Dio", "ch": "bluescristianosprofundos", "v": 19371, "l": 327, "cm": 29, "d": 6926, "age": 444, "vpd": 43.63, "or": 6.23, "sel": false, "pub": "2025-05-25"}, {"id": "1BrCwBF4kTI", "t": "🎸 BLUES CRISTIANOS RELAJANTES | Música para ORAR & CONECTA con Dios✨", "ch": "bluescristianosprofundos", "v": 23315, "l": 461, "cm": 30, "d": 1732, "age": 452, "vpd": 51.58, "or": 7.5, "sel": true, "pub": "2025-05-17"}, {"id": "XkV6EknsrY8", "t": "Rap & Hip-Hop CRISTIANO | Alabanza, Fe y Esperanza en Cada VERSO 🎤🙏🏻", "ch": "bluescristianosprofundos", "v": 432, "l": 13, "cm": 0, "d": 898, "age": 493, "vpd": 0.88, "or": 0.14, "sel": false, "pub": "2025-04-07"}, {"id": "joNcCa9kZwI", "t": "Ópera Cristiana Poderosa | Alabanza, Fe y Adoración | Música Cristiana Inspira", "ch": "bluescristianosprofundos", "v": 6727, "l": 129, "cm": 13, "d": 684, "age": 537, "vpd": 12.53, "or": 2.16, "sel": false, "pub": "2025-02-21"}], "sel_rows": [{"id": "UUc37KP8OgM", "t": "When Fear Takes Over, Play This Gospel Blues #TrustInGod", "ch": "stillworshipmusic", "v": 3652301, "l": 127211, "cm": 7568, "d": 161, "age": 120, "vpd": 30435.84, "or": 417.45, "sel": true, "pub": "2026-04-14"}, {"id": "6rz6D787n0U", "t": "This Psalm Sounds Like It Was Born in the Blues", "ch": "holygrooveofficial", "v": 1697203, "l": 99289, "cm": 4137, "d": 2068, "age": 369, "vpd": 4599.47, "or": 291.17, "sel": true, "pub": "2025-08-08"}, {"id": "_ycC4y-4sYo", "t": "Soul Saving \"BLUES\" Gospel Music: Modern Christian Praise and Worship Music PL", "ch": "saltandlight-k2z", "v": 1343374, "l": 42557, "cm": 2878, "d": 2347, "age": 401, "vpd": 3350.06, "or": 624.53, "sel": true, "pub": "2025-07-07"}, {"id": "2y2CcCzAtyM", "t": "Be Still | 100 Minutes of Relaxing Black Gospel Music for Rest & Prayer", "ch": "stillworshipmusic", "v": 1298849, "l": 28656, "cm": 2275, "d": 6098, "age": 105, "vpd": 12369.99, "or": 148.46, "sel": true, "pub": "2026-04-29"}, {"id": "5VdjXaFrhDg", "t": "Somebody Been Praying For Me | Deep Gospel Blues | Grace & Mercy | Heavenly Bl", "ch": "heavenlybluesgospel", "v": 1211933, "l": 24052, "cm": 953, "d": 443, "age": 185, "vpd": 6550.99, "or": 160.56, "sel": true, "pub": "2026-02-08"}, {"id": "eSAaF5VHsmg", "t": "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”", "ch": "holygroove-1", "v": 1180460, "l": 16806, "cm": 441, "d": 345, "age": 352, "vpd": 3353.58, "or": 1272.05, "sel": true, "pub": "2025-08-25"}, {"id": "G4HzYUFmOVc", "t": "Soulful Gospel blues #bluesgospel #music", "ch": "bluesguy-h", "v": 1128571, "l": 10895, "cm": 90, "d": 48, "age": 216, "vpd": 5224.87, "or": 455.9, "sel": true, "pub": "2026-01-08"}, {"id": "HQhllDe_aHc", "t": "Southern Soul Gospel | Through The Storm: A Southern Soul Testimony", "ch": "oldiesgospelradio", "v": 1103012, "l": 14159, "cm": 667, "d": 5020, "age": 300, "vpd": 3676.71, "or": 90.24, "sel": true, "pub": "2025-10-16"}, {"id": "1UItx9upywQ", "t": "The Psalms In Blues Hit So Deep It’s Unreal", "ch": "rivers-and-revival", "v": 1024147, "l": 53993, "cm": 2380, "d": 3688, "age": 295, "vpd": 3471.68, "or": 70.81, "sel": true, "pub": "2025-10-22"}, {"id": "Xh8ZaO1dxTU", "t": "I Had A Talk With God 🙏  Powerful Gospel Blues Testimony  The Broken Halleluja", "ch": "thebrokenhallelujah", "v": 1020833, "l": 14740, "cm": 395, "d": 443, "age": 131, "vpd": 7792.62, "or": 880.41, "sel": true, "pub": "2026-04-03"}, {"id": "OBpHWpdFbPo", "t": "Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship”", "ch": "holygroove-1", "v": 996738, "l": 12473, "cm": 466, "d": 337, "age": 353, "vpd": 2823.62, "or": 1074.07, "sel": true, "pub": "2025-08-24"}, {"id": "a6YOpEKvBpE", "t": "Touch Me Lord Jesus 🙏 | Powerful Gospel Blues Song | The Broken Hallelujah | H", "ch": "thebrokenhallelujah", "v": 992208, "l": 11949, "cm": 486, "d": 424, "age": 134, "vpd": 7404.54, "or": 855.72, "sel": true, "pub": "2026-03-31"}, {"id": "a9tzDeDdWBQ", "t": "✨Gospel Blues - Everlasting Grace – a heartfelt blend of Christian Blues and s", "ch": "gospelbluesescape", "v": 978948, "l": 14169, "cm": 681, "d": 7815, "age": 258, "vpd": 3794.37, "or": 924.41, "sel": true, "pub": "2025-11-27"}, {"id": "lKk3O0goUrA", "t": "Christian Blues Gospel R&B 🎶Soulful Modern Praise & Worship Playlist", "ch": "stillworshipmusic", "v": 972321, "l": 23553, "cm": 1525, "d": 3203, "age": 379, "vpd": 2565.49, "or": 111.14, "sel": true, "pub": "2025-07-30"}, {"id": "diCK2QfUT8Y", "t": "Vintage 1960s Gospel Blues | Classic Soulful Spirit | Timeless Harmony", "ch": "oldiesgospelradio", "v": 957497, "l": 20427, "cm": 995, "d": 6057, "age": 312, "vpd": 3068.9, "or": 78.34, "sel": true, "pub": "2025-10-04"}, {"id": "rXmrgL6mUf8", "t": "Uplifting R&B Gospel Music: Modern Christian Praise & Worship Music", "ch": "saltandlight-k2z", "v": 914865, "l": 19468, "cm": 1012, "d": 2307, "age": 410, "vpd": 2231.38, "or": 425.32, "sel": true, "pub": "2025-06-28"}, {"id": "RNBCdT6dOW4", "t": "Your Grip on Me is Strong | Christian RnB for Devotion #GospelRnB #StillWorshi", "ch": "stillworshipmusic", "v": 878627, "l": 10439, "cm": 284, "d": 120, "age": 335, "vpd": 2622.77, "or": 100.43, "sel": true, "pub": "2025-09-11"}, {"id": "BTo5mf3wb0o", "t": "Jesus, I Can’t Carry This Alone 🙏 2 Hours of Deep Gospel Worship", "ch": "goldensoulworship", "v": 877840, "l": 21467, "cm": 3719, "d": 7151, "age": 66, "vpd": 13300.61, "or": 85.86, "sel": true, "pub": "2026-06-08"}, {"id": "3qkImqieGrQ", "t": "Everlasting Grace | Christian Blues | Soulful Worship", "ch": "christiansoulblues", "v": 810407, "l": 12561, "cm": 580, "d": 1260, "age": 311, "vpd": 2605.81, "or": 307.15, "sel": true, "pub": "2025-10-06"}, {"id": "xsps-HQF-8Y", "t": "Psalms 23 in Blues - 1950’s Gospel Soul Version", "ch": "songsworshipblues", "v": 805190, "l": 14047, "cm": 374, "d": 303, "age": 300, "vpd": 2683.97, "or": 863.94, "sel": true, "pub": "2025-10-16"}, {"id": "bDRSM1rX-l8", "t": "GOD, YOU’RE HOLDING ME TOGETHER – Christian Blues | Black Gospel Music", "ch": "stillworshipmusic", "v": 773174, "l": 6128, "cm": 220, "d": 488, "age": 197, "vpd": 3924.74, "or": 88.37, "sel": true, "pub": "2026-01-27"}, {"id": "4QG5FOARzHk", "t": "Psalm and Blues Vintage Gospel Playlist | Vintage Blues Prayers Gospel Songs", "ch": "vintage_gospel_vgx", "v": 768680, "l": 16495, "cm": 650, "d": 4390, "age": 213, "vpd": 3608.83, "or": 103.86, "sel": true, "pub": "2026-01-11"}, {"id": "xkU1wrgAwt0", "t": "Psalms sung in Blues by David would sound like this...", "ch": "holygrooveofficial", "v": 748783, "l": 47369, "cm": 3255, "d": 2450, "age": 361, "vpd": 2074.19, "or": 128.46, "sel": true, "pub": "2025-08-16"}, {"id": "jnf7oWsFpQw", "t": "Classic Blues Gospel | Soulful 1960s Vintage Sound | Timeless Spirit", "ch": "oldiesgospelradio", "v": 731910, "l": 13146, "cm": 524, "d": 6043, "age": 315, "vpd": 2323.52, "or": 59.88, "sel": true, "pub": "2025-10-01"}, {"id": "3Pn0nztfF-U", "t": "The Blood Still Covers Me~Ephesians 1:7 |Soulful Gospel Blues for Worship |Spi", "ch": "holyspiritsoundblues", "v": 729828, "l": 8764, "cm": 171, "d": 254, "age": 291, "vpd": 2508.0, "or": 703.11, "sel": true, "pub": "2025-10-25"}, {"id": "t8VhS17fy8k", "t": "Powerful Psalm 91 Blues | Anointed Christian R&B & Gospel Blues | Uplifting Ch", "ch": "holyspiritsoundblues", "v": 726564, "l": 9010, "cm": 113, "d": 215, "age": 311, "vpd": 2336.22, "or": 699.97, "sel": true, "pub": "2025-10-05"}, {"id": "Ml82LWaqRJo", "t": "Psalm 91 ✝️ – The Protection Prayer That'll Give You Peace 🙏| Gospel Blues Sou", "ch": "vintage_gospel_vgx", "v": 689580, "l": 15807, "cm": 535, "d": 390, "age": 221, "vpd": 3120.27, "or": 93.17, "sel": true, "pub": "2026-01-03"}, {"id": "QMpT5KmaQys", "t": "ASKING, SEEKING, KNOCKING | NEW Powerful R&B Gospel Song (Official Music) | Up", "ch": "saltandlight-k2z", "v": 684208, "l": 5658, "cm": 212, "d": 401, "age": 423, "vpd": 1617.51, "or": 318.09, "sel": true, "pub": "2025-06-15"}, {"id": "oGE0HRGlMTw", "t": "Blues of hope #soulmusic #bluesgospel #bluesmusic #music", "ch": "bluesguy-h", "v": 675045, "l": 13025, "cm": 259, "d": 51, "age": 205, "vpd": 3292.9, "or": 272.69, "sel": true, "pub": "2026-01-19"}, {"id": "2Rc6hBX1apo", "t": "Cuando el Alma Duele | Blues Gospel Profundo para Sanidad Interior", "ch": "gospelblueshouses", "v": 666092, "l": 11202, "cm": 282, "d": 6018, "age": 217, "vpd": 3069.55, "or": 758.65, "sel": true, "pub": "2026-01-07"}, {"id": "3JeeyHdU4KM", "t": "Classic Soul Gospel: Uplifting Vintage Soul Gospel Music for the Soul", "ch": "oldiesgospelradio", "v": 664025, "l": 10430, "cm": 277, "d": 5717, "age": 307, "vpd": 2162.95, "or": 54.33, "sel": true, "pub": "2025-10-09"}, {"id": "5n1cYN-yDmo", "t": "Bible R&B Worship To Heal the Soul Vol.3 | Prayer, Meditation & Reflection Gos", "ch": "revivalworshiproommusic", "v": 614050, "l": 15629, "cm": 748, "d": 3745, "age": 247, "vpd": 2486.03, "or": 152.26, "sel": true, "pub": "2025-12-08"}, {"id": "mF0QZnATmaQ", "t": "Psalm 121 (Lyrics) | I Lift My Eyes to the Hills | Worship Blues”", "ch": "holygroove-1", "v": 601838, "l": 8661, "cm": 241, "d": 316, "age": 353, "vpd": 1704.92, "or": 648.53, "sel": true, "pub": "2025-08-24"}, {"id": "eD2IMkcreEI", "t": "God Heals the Soul | Soulful Blues Gospel & R&B Christian Worship Mix", "ch": "revivalworshiproommusic", "v": 591990, "l": 11490, "cm": 872, "d": 6834, "age": 298, "vpd": 1986.54, "or": 146.79, "sel": true, "pub": "2025-10-18"}, {"id": "YCBv44crM8w", "t": "Powerful Christian Blues Worship | Faith That Lifts You Up", "ch": "gospelbluesroom", "v": 540564, "l": 12957, "cm": 939, "d": 2850, "age": 306, "vpd": 1766.55, "or": 1257.13, "sel": true, "pub": "2025-10-10"}, {"id": "DL1lnwaff8k", "t": "The book of Ecclesiastes was born to be Sung in Blues", "ch": "holygrooveofficial", "v": 511274, "l": 39921, "cm": 2086, "d": 3105, "age": 355, "vpd": 1440.21, "or": 87.71, "sel": true, "pub": "2025-08-22"}, {"id": "ULRtxzbxidE", "t": "Bless Me Jesus 🙏🏾 Deep Gospel Blues Prayer | Emotional Testimony Song | Christ", "ch": "christianblueshaven-oasis", "v": 488578, "l": 7474, "cm": 683, "d": 6793, "age": 113, "vpd": 4323.7, "or": 125.71, "sel": true, "pub": "2026-04-21"}, {"id": "VwWemwsvzz4", "t": "Southern Soul Gospel Blessings | Songs for the Soul", "ch": "oldiesgospelradio", "v": 470332, "l": 5939, "cm": 255, "d": 5716, "age": 276, "vpd": 1704.1, "or": 38.48, "sel": true, "pub": "2025-11-09"}, {"id": "nzM91L_-mrc", "t": "The Blood Still Covers Me #bluescommunity #gospelmusic #christianmusic #bluesm", "ch": "holyspiritsoundblues", "v": 439219, "l": 10566, "cm": 462, "d": 39, "age": 272, "vpd": 1614.78, "or": 423.14, "sel": true, "pub": "2025-11-13"}, {"id": "6mrHpzBBSZU", "t": "Heal My Soul | Soulful Worship Nonstop • Gospel Blues Prayer & Peace", "ch": "marcusmoore-i8y", "v": 417232, "l": 8780, "cm": 359, "d": 3498, "age": 115, "vpd": 3628.1, "or": 256.6, "sel": true, "pub": "2026-04-19"}, {"id": "942nxbPorY4", "t": "Soaked in God’s Presence – Soulful Christian R&B & Blues Playlist | Praise & W", "ch": "revivalworshiproommusic", "v": 412491, "l": 10454, "cm": 1121, "d": 3126, "age": 348, "vpd": 1185.32, "or": 102.28, "sel": true, "pub": "2025-08-29"}, {"id": "OJ9d7AzkrLg", "t": "Psalm 91 (Lyrics) | God My Refuge & Fortress | Christian Blues Song”", "ch": "holygroove-1", "v": 402338, "l": 5517, "cm": 203, "d": 408, "age": 353, "vpd": 1139.77, "or": 433.55, "sel": true, "pub": "2025-08-24"}, {"id": "fy8Cr6R13Ik", "t": "The Book of Isaiah sung in Blues will shock you!", "ch": "holygrooveofficial", "v": 401108, "l": 24395, "cm": 1544, "d": 2531, "age": 341, "vpd": 1176.27, "or": 68.81, "sel": true, "pub": "2025-09-05"}, {"id": "BkPERHGFquw", "t": "Found My Rest ❤️❤️✝️ #christianmusic #gospelmusic #bluesmusic #churchblues #go", "ch": "soulful-gospel-blues", "v": 397220, "l": 8969, "cm": 229, "d": 170, "age": 89, "vpd": 4463.15, "or": 1211.04, "sel": true, "pub": "2026-05-15"}, {"id": "8D5yUpIZc7E", "t": "What If David Played Guitar Instead of Harp? | Psalm in Blues", "ch": "holygrooveofficial", "v": 395235, "l": 25341, "cm": 1081, "d": 2255, "age": 376, "vpd": 1051.16, "or": 67.8, "sel": true, "pub": "2025-08-01"}, {"id": "L7rzNkHLG6o", "t": "\"SOLID ROCK\" ( New R&B Gospel Song ) Christian R&B Music | Christian Worship |", "ch": "saltandlight-k2z", "v": 385943, "l": 1913, "cm": 42, "d": 252, "age": 420, "vpd": 918.91, "or": 179.42, "sel": true, "pub": "2025-06-18"}, {"id": "he9RPaTjtlY", "t": "Señor sana mi corazón roto💔| Ya no aguanto mas | Blues Gospel | 1 hora de Ador", "ch": "latinmusicgospel", "v": 385701, "l": 10686, "cm": 2220, "d": 3461, "age": 90, "vpd": 4285.57, "or": 700.0, "sel": true, "pub": "2026-05-14"}, {"id": "6MhdeIZ5E28", "t": "Retro Soul & Motown Gospel Worship Classics | Oldies Gospel", "ch": "oldiesgospelradio", "v": 384558, "l": 12174, "cm": 449, "d": 6111, "age": 332, "vpd": 1158.31, "or": 31.46, "sel": true, "pub": "2025-09-14"}, {"id": "bcNWg9ca92Y", "t": "Bible R&B Worship To Heal the Soul Vol.5 | Prayer, Meditation & Reflection Gos", "ch": "revivalworshiproommusic", "v": 379396, "l": 8277, "cm": 445, "d": 8307, "age": 209, "vpd": 1815.29, "or": 94.07, "sel": true, "pub": "2026-01-15"}, {"id": "Yj4cYTbCTqQ", "t": "I Trust You Lord 🙏 2 Hours of Soulful Gospel R&B Worship for Faith in the Stor", "ch": "goldensoulworship", "v": 355729, "l": 10364, "cm": 1341, "d": 7238, "age": 63, "vpd": 5646.49, "or": 34.79, "sel": true, "pub": "2026-06-11"}, {"id": "Cm4Do25rPv8", "t": "You Kept Me Still Worship #gospelmusic #worship #faith", "ch": "stillworshipmusic", "v": 351029, "l": 12131, "cm": 832, "d": 175, "age": 104, "vpd": 3375.28, "or": 40.12, "sel": true, "pub": "2026-04-30"}, {"id": "CvZt91nBcfk", "t": "He Won't Fail You | Gospel R&B Worship Playlist #gospelmusic #worship #faith", "ch": "stillworshipmusic", "v": 347882, "l": 11635, "cm": 952, "d": 175, "age": 110, "vpd": 3162.56, "or": 39.76, "sel": true, "pub": "2026-04-24"}, {"id": "aQoCoIQH4hM", "t": "God, Take This Pain Away 🙏 2 Hours of Black Gospel Worship & Soulful Prayer", "ch": "goldensoulworship", "v": 346918, "l": 8929, "cm": 1322, "d": 7205, "age": 68, "vpd": 5101.74, "or": 33.93, "sel": true, "pub": "2026-06-06"}, {"id": "Ss0pA-Cw8V0", "t": "Soulful Christian Hip Hop Worship Songs | Faith Over Fear Rap Trap Music Mix", "ch": "revivalworshiproommusic", "v": 344647, "l": 9385, "cm": 517, "d": 4883, "age": 257, "vpd": 1341.04, "or": 85.46, "sel": true, "pub": "2025-11-28"}, {"id": "eIuLtOKD9ns", "t": "Psalm 23✝️– The Gospel Blues That'll Restore Your Soul🙏| Vintage Gospel Soul", "ch": "vintage_gospel_vgx", "v": 328939, "l": 4380, "cm": 89, "d": 283, "age": 219, "vpd": 1502.0, "or": 44.45, "sel": true, "pub": "2026-01-05"}, {"id": "orcC0yT9Z2I", "t": "Soul Healing in Jesus’ Presence Vol.4 | Soulful Gospel R&B Worship Music for H", "ch": "revivalworshiproommusic", "v": 323188, "l": 5942, "cm": 522, "d": 4419, "age": 280, "vpd": 1154.24, "or": 80.14, "sel": true, "pub": "2025-11-05"}, {"id": "OR5UuPtc54g", "t": "I Still Believe in 2026 ✨ Powerful Gospel Blues & Emotional Worship", "ch": "faithbluesrevival", "v": 318933, "l": 8364, "cm": 948, "d": 5464, "age": 94, "vpd": 3392.9, "or": 99.42, "sel": true, "pub": "2026-05-10"}, {"id": "IZlF3Y_eKKk", "t": "Psalm 23 Harmony for Weary Souls – Relaxing Gospel Blues for Comfort", "ch": "holyspiritsoundblues", "v": 300990, "l": 4724, "cm": 75, "d": 282, "age": 315, "vpd": 955.52, "or": 289.97, "sel": true, "pub": "2025-10-01"}, {"id": "J9rUHxxh5As", "t": "BLUES CRISTIANO | YESHUA, SÁLVAME – Himnos de Fe y Restauración 🙌🎶", "ch": "bluescristianosprofundos", "v": 297503, "l": 8053, "cm": 391, "d": 913, "age": 479, "vpd": 621.09, "or": 95.72, "sel": true, "pub": "2025-04-21"}, {"id": "fzxBaH6-Foo", "t": "Soulful Blues Gospel R&B Worship Music | Relaxing Christian Soul & Praise Play", "ch": "revivalworshiproommusic", "v": 297036, "l": 8399, "cm": 494, "d": 4186, "age": 397, "vpd": 748.2, "or": 73.65, "sel": true, "pub": "2025-07-11"}], "tot": {"ch": 53, "v": 7193, "cm": 145150, "th": 7193, "view": 100353380, "medv": 1204, "meanv": 13951}, "sel": {"v": 965, "cm": 6794, "view": 80889532, "medv": 22519, "meanv": 83823, "pct_v": 13.4, "pct_view": 80.6, "pct_cm": 4.7}, "buckets": [{"k": "B1", "n": "Outlier", "cnt": 435, "rule": "orat ≥ 5× VÀ view ≥ 20.000  ·  chỉ xét video đã chín", "why": "Giải mã công thức thắng. Ngưỡng 5× loại dao động ngẫu nhiên; ngưỡng view loại kênh tí hon \"10×\" của 10 view."}, {"k": "B2", "n": "Đang lên", "cnt": 366, "rule": "tuổi ≤ 90 ngày VÀ vpd ≥ P90 (175)", "why": "Chỉ lấy outlier lịch sử là học công thức của quá khứ. Rổ này bắt cái đang chạy ngay bây giờ."}, {"k": "B3", "n": "Đại diện", "cnt": 264, "rule": "Top 5 view mỗi kênh", "why": "B1/B2 thiên về kênh lớn. Rổ này ép cả 53 kênh đóng góp, để bản đồ đối thủ không khuyết."}, {"k": "B4", "n": "Đối chứng", "cnt": 161, "rule": "orat ≤ 0.2 VÀ view ≥ 500  ·  chỉ xét video đã chín", "why": "Không có nhóm thua thì không thể nói \"title dài thắng\" — biết đâu video thua cũng title dài. Đây là chống survivorship bias."}], "cm": {"noise_n": 40624, "noise_pct": 28.0, "medlen": 55, "medlen_sel": 228, "medlike": 1.0, "medlike_sel": 4.0, "top": [{"t": "Amen", "n": 2169}, {"t": "❤", "n": 1014}, {"t": "Amen 🙏", "n": 627}, {"t": "❤❤❤", "n": 599}, {"t": "❤❤❤❤", "n": 373}, {"t": "Thanks for listening", "n": 327}, {"t": "AMEN", "n": 268}, {"t": "❤️", "n": 223}, {"t": "Amen!", "n": 218}, {"t": "❤❤❤❤❤", "n": 199}], "tiers": [{"k": "C2_depth", "n": 3771}, {"k": "C3_random", "n": 1500}, {"k": "C1_voted", "n": 1157}, {"k": "C1_voted+C2_depth", "n": 366}]}, "cm_raw": [{"t": "Amen!", "l": 1, "len": 5}, {"t": "Its technically AI generated in some way, but still, \"the rocks will shout\" wouldnt they? :D", "l": 1, "len": 92}, {"t": "Amen", "l": 0, "len": 4}, {"t": "Thank you for sharing such an inspiring and faith-filled comment. Your devotion is truly uplifting!", "l": 0, "len": 99}, {"t": "Jesus Chris is King 🤴  Thank you  so much Amen 🙏 🙌 👏 ❤️", "l": 0, "len": 55}, {"t": "Amen 🙏❤️", "l": 0, "len": 8}, {"t": "Viviann Cooks Calhoun! Pray for me and my family please. Blessings! 🙏🏽", "l": 0, "len": 70}, {"t": "Amen, Amen, and Amen! 🙏❤️ Thank you Lord for Your goodness, love, and faithfulness. May His presence continue to fill yo", "l": 0, "len": 181}, {"t": "This is way better IMO than the  stuff the radio plays.  And better than typical Christian radio too", "l": 5, "len": 100}, {"t": "Thank you very much for your comment! May God greatly bless your life.", "l": 0, "len": 70}, {"t": "A King is Born !\nWe are children of a King !\nMerry Christmas !\nOceans of Love to all of You !\n♥️🙏☝️✝️", "l": 3, "len": 101}, {"t": "​@deenett1236 all, 😂🎉🎉🎉🎉", "l": 0, "len": 24}, {"t": "Am yes Lord Jesus let's have church", "l": 9, "len": 35}, {"t": "Amen,  You carry this load. It is too heavy for me Lord. Lord i am so tired", "l": 0, "len": 75}], "cm_sel": [{"t": "As a musician and guitar player of over 45 years I finally came to understand that the music I always played was all about sex, drugs, and rock and roll. None of it glorifies God the Father or the Son the Lord Jesus Christ and pro", "l": 6737, "len": 395, "tier": "C1_voted+C2_depth"}, {"t": "I’ve been struggling listening to Christian music for quite some time, it just doesn’t do anything for me so often, especially the stuff on the radio. This immediately grabbed me! Finally something that honors the Lord and moves m", "l": 3379, "len": 242, "tier": "C1_voted+C2_depth"}, {"t": "I remember before I was saved I made a joke to someone trying to share the word with me. I told them the day God lets me drink Bloody Mary's and listen to blues I might consider it. Well here I am years later saved and sober, drin", "l": 2758, "len": 336, "tier": "C1_voted+C2_depth"}, {"t": "If there was ever a book meant for Blues it is this one.", "l": 2638, "len": 56, "tier": "C1_voted"}, {"t": "I just found this channel, I’m 76 and walking with the Lord for over 50 years and never heard the Word presented in this manner. I love it, it is heart felt praise blessings brother you nailed it", "l": 2474, "len": 195, "tier": "C1_voted"}, {"t": "The Blues were never about bad times, they are always about getting through tough times, this does it with heart of worship", "l": 2008, "len": 123, "tier": "C1_voted"}, {"t": "I am a 65 year old disabled (white) woman. Why am I mentioning I am white? Because as a white woman, we are never exposed to any blues worship music in any church. I know you don't care if I'm white. (But I have gotten a few repli", "l": 1922, "len": 1126, "tier": "C1_voted+C2_depth"}, {"t": "We have no excuses.. singers, writers, musicians, let EVERYTHING that has breath (breath of life) PRAISE THE LORD! ❤", "l": 1917, "len": 116, "tier": "C1_voted"}], "hist": [{"b": "<100", "all": 514, "sel": 1}, {"b": "100–500", "all": 1786, "sel": 22}, {"b": "500–1K", "all": 1047, "sel": 112}, {"b": "1K–5K", "all": 2023, "sel": 147}, {"b": "5K–20K", "all": 1178, "sel": 169}, {"b": "20K–50K", "all": 338, "sel": 212}, {"b": "50K–100K", "all": 136, "sel": 131}, {"b": "100K–500K", "all": 135, "sel": 135}, {"b": ">500K", "all": 36, "sel": 36}], "combo": {"NONE": 0, "B1": 435, "B2": 366, "B3": 264, "B4": 161, "B1B2": 753, "B1B3": 518, "B1B4": 596, "B2B3": 571, "B2B4": 527, "B3B4": 425, "B1B2B3": 804, "B1B2B4": 914, "B1B3B4": 679, "B2B3B4": 732, "B1B2B3B4": 965}}</script>
+<script>
+const D=JSON.parse(document.getElementById('D').textContent);
+const vn=n=>n.toLocaleString('de-DE');
+const $=s=>document.querySelector(s);
+
+/* hero */
+$('#herostats').innerHTML=[
+ ['Kênh đầu vào',vn(D.tot.ch)],['Video thô',vn(D.tot.v)],['Comment thô',vn(D.tot.cm)],
+ ['Thumbnail số hóa',vn(D.tot.th)],['Lượt xem phủ',vn(D.tot.view)]
+].map(([k,v])=>`<div class="hs"><div class="k">${k}</div><div class="v">${v}</div></div>`).join('');
+
+/* tables */
+const HD=['','Tiêu đề','Kênh','View','Like','Cmt','Giây','Tuổi','VPD','Bội số'];
+function tbl(el,rows,mark){
+  el.innerHTML='<thead><tr>'+HD.map((h,i)=>`<th${i>2?' style="text-align:right"':''}>${h}</th>`).join('')+'</tr></thead><tbody>'+
+  rows.map(r=>{
+    const k=r.sel;
+    return `<tr class="${mark?(k?'keep':'drop'):''}">
+    <td>${mark?`<span class="pill ${k?'k':'d'}">${k?'GIỮ':'BỎ'}</span>`:''}</td>
+    <td class="ttl" title="${r.t.replace(/"/g,'&quot;')}">${r.t}</td>
+    <td style="color:var(--mute)">@${r.ch}</td>
+    <td class="r">${vn(r.v)}</td><td class="r">${vn(r.l)}</td><td class="r">${vn(r.cm)}</td>
+    <td class="r">${vn(r.d)}</td><td class="r">${vn(r.age)}</td>
+    <td class="r">${r.vpd==null?'—':vn(Math.round(r.vpd))}</td>
+    <td class="r" style="color:${r.or>=5?'var(--keep)':(r.or!=null&&r.or<=0.2?'var(--drop)':'inherit')}">${r.or==null?'—':r.or.toFixed(2)+'×'}</td></tr>`;
+  }).join('')+'</tbody>';
+}
+tbl($('#t1'),D.raw_rows,true);
+$('#t1meta').textContent=`${vn(D.tot.v)} dòng × 28 cột · hiển thị 60 dòng ngẫu nhiên`;
+$('#c1txt').innerHTML=`View <b>trung vị</b> chỉ <b>${vn(D.tot.medv)}</b>, trong khi view <b>trung bình</b> là <b>${vn(D.tot.meanv)}</b> — lệch <b>${Math.round(D.tot.meanv/D.tot.medv)} lần</b>. Nghĩa là quá nửa số video gần như không ai xem, còn toàn bộ lượt xem dồn vào một nhóm nhỏ. Đưa cả bảng này cho AI thì <b>đa số dữ liệu nó đọc là video không ai xem</b> — và nó sẽ mô tả thị trường theo những video đó.`;
+
+/* station 2 numbers */
+$('#d1').textContent=(100-D.sel.pct_v).toFixed(1).replace('.',',')+'%';
+$('#d2').textContent=(100-D.sel.pct_view).toFixed(1).replace('.',',')+'%';
+$('#hv1').textContent=vn(D.tot.v);
+
+/* histogram */
+const mx=Math.max(...D.hist.map(h=>h.all));
+$('#histrows').innerHTML=D.hist.map(h=>{
+  const pa=h.all/mx*100, ps=h.sel/mx*100, r=h.all?Math.round(h.sel/h.all*100):0;
+  return `<div class="hrow"><div class="lb">${h.b}</div>
+  <div class="htrack"><div class="hall" style="width:${pa}%"></div><div class="hsel" style="width:${ps}%"></div></div>
+  <div class="rt"><b>${vn(h.sel)}</b> / ${vn(h.all)} · ${r}%</div></div>`;
+}).join('');
+
+/* buckets */
+$('#bks').innerHTML=D.buckets.map(b=>`<div class="bk">
+  <div class="top"><span class="kk">${b.k}</span><span class="nm">${b.n}</span><span class="cnt">${vn(b.cnt)}</span></div>
+  <div class="rule">${b.rule}</div><div class="why">${b.why}</div></div>`).join('');
+
+/* comments */
+$('#cn1').textContent=vn(D.cm.noise_n);
+$('#cn2').textContent=D.cm.noise_pct.toFixed(0)+'% ';
+$('#noisechips').innerHTML=D.cm.top.slice(0,8).map(t=>
+ `<span class="nchip">"${t.t}" <b>×${vn(t.n)}</b></span>`).join('');
+$('#cmrawmeta').textContent=`độ dài trung vị ${D.cm.medlen} ký tự · like trung vị ${D.cm.medlike}`;
+$('#cmselmeta').textContent=`${vn(D.sel.cm)} comment (${D.sel.pct_cm.toString().replace('.',',')}%) · trung vị ${D.cm.medlen_sel} ký tự · like ${D.cm.medlike_sel}`;
+$('#cmraw').innerHTML=D.cm_raw.map(c=>{
+  const n=c.len<25;
+  return `<div class="cmi ${n?'n':''}">${c.t}<div class="mt">${c.len} ký tự · ${c.l} like${n?' · <span style="color:var(--drop)">loại: dưới ngưỡng</span>':''}</div></div>`;
+}).join('');
+$('#cmsel').innerHTML=D.cm_sel.map(c=>
+ `<div class="cmi">${c.t}<div class="mt">${c.len} ký tự · ${vn(c.l)} like · <span class="pill a">${c.tier}</span></div></div>`).join('');
+
+/* outcomes */
+const OC=[
+ ['O1','Quy mô &amp; động lượng',['B3 · phủ 53 kênh','video_stats theo tháng','channels_enriched']],
+ ['O2','Đối thủ &amp; cửa gia nhập',['B3 · Top 5 mỗi kênh','channels_enriched','kênh mới &lt; 18 tháng']],
+ ['O3','Công thức thắng',['B1 · outlier','B4 · đối chứng','thumb_features_full']],
+ ['O4','Chân dung khán giả',['C1 · comment vote cao','C2 · comment dài','C3 · ngẫu nhiên chống lệch']],
+ ['O5','Khoảng trống nội dung',['B1 + B2','lyrics_features','comment C2']],
+ ['O6','Từ khóa &amp; tiêu đề',['B1 · title thắng','B4 · title thua','tags']],
+ ['O7','Công thức âm nhạc',['audio_dna_full · 594 cột','cohort view ≥ 500K']],
+ ['O8','Bản quyền &amp; rủi ro',['lyrics_raw','bộ đối chiếu PD 36 hymn']],
+];
+$('#ocs').innerHTML=OC.map(([n,t,ins])=>`<div class="oc"><div class="n">${n}</div><div class="t">${t}</div>
+ <div class="i">${ins.map(i=>`<span>${i}</span>`).join('<br>')}</div></div>`).join('');
+
+/* sparkline — SIMULATED, labelled */
+(function(){
+ const cv=$('#spark'),x=cv.getContext('2d');
+ function draw(){
+  const W=cv.clientWidth,H=190,dpr=window.devicePixelRatio||1;
+  cv.width=W*dpr;cv.height=H*dpr;x.setTransform(dpr,0,0,dpr,0,0);
+  const cs=getComputedStyle(document.body);
+  const line=cs.getPropertyValue('--line').trim(),mute=cs.getPropertyValue('--mute').trim();
+  const amber=cs.getPropertyValue('--amber').trim(),keep=cs.getPropertyValue('--keep').trim();
+  x.clearRect(0,0,W,H);
+  const P={l:8,r:8,t:14,b:26},N=90;
+  // deterministic pseudo-series
+  const S=(seed,base,tr,amp)=>{let v=base,o=[];for(let i=0;i<N;i++){
+    const w=Math.sin(i*.31+seed)*amp+Math.sin(i*.11+seed*2)*amp*.6;
+    v=v*(1+tr)+w; o.push(v);} return o;};
+  const a=S(1,100,.021,3.2), b=S(4,120,.004,2.4);
+  const all=[...a,...b],mn=Math.min(...all),mxv=Math.max(...all);
+  const px=i=>P.l+i/(N-1)*(W-P.l-P.r), py=v=>P.t+(1-(v-mn)/(mxv-mn))*(H-P.t-P.b);
+  x.strokeStyle=line;x.lineWidth=1;
+  for(let g=0;g<=3;g++){const y=P.t+g/3*(H-P.t-P.b);
+    x.beginPath();x.moveTo(P.l,y);x.lineTo(W-P.r,y);x.stroke();}
+  [[a,amber,'Kênh A · đang tăng tốc'],[b,keep,'Kênh B · đi ngang']].forEach(([s,c],k)=>{
+    x.strokeStyle=c;x.lineWidth=1.9;x.beginPath();
+    s.forEach((v,i)=>i?x.lineTo(px(i),py(v)):x.moveTo(px(i),py(v)));x.stroke();
+    x.fillStyle=c;x.beginPath();x.arc(px(N-1),py(s[N-1]),3.2,0,7);x.fill();
+  });
+  x.fillStyle=mute;x.font='500 10px ui-monospace,monospace';
+  x.fillText('T-90 ngày',P.l,H-8); x.textAlign='right'; x.fillText('hôm nay',W-P.r,H-8);
+  x.textAlign='left';x.fillStyle=amber;x.fillText('Kênh A · tăng tốc',P.l+4,py(a[N-1])-9);
+  x.fillStyle=keep;x.fillText('Kênh B · đi ngang',P.l+4,py(b[N-1])+15);
+ }
+ draw(); addEventListener('resize',draw);
+ matchMedia('(prefers-color-scheme:dark)').addEventListener('change',draw);
+})();
+
+/* mock */
+$('#pm1').textContent=`${D.tot.ch} kênh · ${vn(D.tot.v)} video`;
+$('#pm2').innerHTML=`<span style="color:var(--keep)">●</span> Snapshot 1/1 &nbsp;·&nbsp; crawl hằng ngày: chưa bật`;
+$('#rawn').textContent=vn(D.tot.v);
+tbl($('#mt1'),D.raw_rows.slice(0,40),false);
+$('#mocs').innerHTML='<div class="ocs" style="margin-top:0">'+OC.map(([n,t,ins])=>
+ `<div class="oc"><div class="n">${n}</div><div class="t">${t}</div>
+  <div class="i">${ins.map(i=>`<span>${i}</span>`).join('<br>')}</div></div>`).join('')+'</div>';
+
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
+  document.querySelectorAll('.tab').forEach(o=>o.setAttribute('aria-selected',o===t));
+  document.querySelectorAll('.pane').forEach(p=>p.classList.toggle('on',p.id===t.dataset.p));
+});
+
+/* filter controls */
+const ST={B1:true,B2:true,B3:true,B4:true};
+$('#ctrls').innerHTML=D.buckets.map(b=>
+ `<label class="ck on" data-k="${b.k}"><input type="checkbox" checked>
+   ${b.k} · ${b.n} <span class="c">${vn(b.cnt)}</span></label>`).join('')+
+ `<span class="livect"><span id="dupN" style="font-size:11px;margin-right:12px;color:var(--mute)"></span>Được giữ <b id="selN"></b> <span style="font-size:11px">/ ${vn(D.tot.v)}</span></span>`;
+function apply(){
+  const on=['B1','B2','B3','B4'].filter(k=>ST[k]);
+  // Số thật cho từng tổ hợp, tính sẵn bằng hợp nhất có khử trùng lặp —
+  // KHÔNG cộng dồn: B1+B2 ra 753 chứ không phải 801, vì có video nằm ở cả hai rổ.
+  const n=D.combo[on.join('')||'NONE'];
+  const sum=D.buckets.filter(b=>ST[b.k]).reduce((s,b)=>s+b.cnt,0);
+  $('#selN').textContent=vn(n);
+  const dup=$('#dupN');
+  if(dup) dup.innerHTML = on.length>1&&sum>n
+    ? `cộng dồn ${vn(sum)} &minus; trùng ${vn(sum-n)}`
+    : (on.length?'không có trùng lặp':'');
+  const rows=on.length?D.sel_rows.slice(0,Math.max(4,Math.round(40*on.length/4))):[];
+  tbl($('#mt2'),rows,false);
+  if(!on.length)$('#mt2').innerHTML='<tbody><tr><td style="padding:26px;color:var(--mute);font-family:var(--body)">Tắt hết bộ lọc thì không còn gì để phân tích — đây chính là lý do Trạm 2 tồn tại.</td></tr></tbody>';
+}
+document.querySelectorAll('.ck').forEach(l=>{
+  const cb=l.querySelector('input');
+  cb.onchange=()=>{ST[l.dataset.k]=cb.checked;l.classList.toggle('on',cb.checked);apply();};
+});
+apply();
+
+/* QA */
+$('#qa').innerHTML=[
+ ['Trạm 1 và Trạm 2 khác nhau chỗ nào?',
+  `Trạm 1 trả lời <b>"có gì"</b> — bản ghi đầy đủ, <span class="n">${vn(D.tot.v)}</span> dòng, không bỏ gì để còn truy vết. Trạm 2 trả lời <b>"cái gì đáng phân tích"</b> — <span class="n">${vn(D.sel.v)}</span> dòng có kèm <b>lý do được chọn</b>. Cùng dữ liệu, khác câu hỏi.`],
+ ['Bỏ Trạm 2 đi có được không?',
+  `Được, nhưng kết luận sẽ sai. View trung vị toàn tập là <span class="n">${vn(D.tot.medv)}</span>; sau lọc là <span class="n">${vn(D.sel.medv)}</span> — gấp <span class="n">${(D.sel.medv/D.tot.medv).toFixed(1).replace('.',',')}×</span>. Không lọc thì AI mô tả thị trường dựa trên <b>video không ai xem</b>, và <b>2.169 chữ "Amen"</b> sẽ trở thành insight khán giả.`],
+ ['Sao biết lọc không làm mất thị trường?',
+  `Vì có <b>kiểm định phủ</b>, không phải cảm tính: giữ <span class="n">${D.sel.pct_v.toString().replace('.',',')}%</span> video nhưng phủ <span class="n">${D.sel.pct_view.toString().replace('.',',')}%</span> lượt xem, đủ <b>53/53 kênh</b>, <b>19/20 tháng</b>, <b>6/6 định dạng</b>. Mọi ngưỡng ghi trong <span class="mono" style="font-size:12.5px">_selection_params.json</span> — sửa được, và sửa thì <b>chạy lại ra số khác, minh bạch</b>.`]
+].map(([q,a])=>`<div class="qi"><div class="q">${q}</div><div class="a">${a}</div></div>`).join('');
+$('#ftr').textContent='Cập nhật '+new Date().toLocaleDateString('vi-VN');
+</script>
+
+</body>
+</html>

@@ -1,0 +1,638 @@
+{
+ "video_id": "QMpT5KmaQys",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 400.7,
+ "voiced_sec": 244.7,
+ "voice_ratio": 0.611,
+ "is_instrumental": false,
+ "n_segments": 62,
+ "n_segments_voiced": 49,
+ "n_tracks": 1,
+ "n_seg_mapped": 62,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 19.58,
+   "end": 25.26,
+   "text": "Father God I am asking in the name of Yeshua",
+   "avg_logprob": -0.773,
+   "no_speech_prob": 0.527,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 19.58,
+   "track_end": 25.26
+  },
+  {
+   "start": 25.26,
+   "end": 32.02,
+   "text": "For the courage of Moses calling Pharaoh's bluff",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.561,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 25.26,
+   "track_end": 32.02
+  },
+  {
+   "start": 32.02,
+   "end": 37.42,
+   "text": "Fulfilling your will even when it's tough",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.561,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 32.02,
+   "track_end": 37.42
+  },
+  {
+   "start": 37.42,
+   "end": 43.38,
+   "text": "Give me strength of Samson in the spirit he stood",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.561,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 37.42,
+   "track_end": 43.38
+  },
+  {
+   "start": 44.26,
+   "end": 49.74,
+   "text": "Crushed every chain turned pain into good",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.561,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 44.26,
+   "track_end": 49.74
+  },
+  {
+   "start": 52.16,
+   "end": 58.24,
+   "text": "Faith like Jobun shaking when the stone rose in",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.663,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 52.16,
+   "track_end": 58.24
+  },
+  {
+   "start": 58.24,
+   "end": 64.58,
+   "text": "Lost everything but he never gave in",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.663,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 58.24,
+   "track_end": 64.58
+  },
+  {
+   "start": 64.58,
+   "end": 68.6,
+   "text": "Bless me with the wisdom of Solomon",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.663,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 64.58,
+   "track_end": 68.6
+  },
+  {
+   "start": 68.6,
+   "end": 75.44,
+   "text": "Deep as the well, he heard your whisper",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.663,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 68.6,
+   "track_end": 75.44
+  },
+  {
+   "start": 75.44,
+   "end": 82.44,
+   "text": "Where silence dwells",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.652,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 75.44,
+   "track_end": 82.44
+  },
+  {
+   "start": 87.02,
+   "end": 92.04,
+   "text": "Like Abraham's faith when he looked to the skies",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.652,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 87.02,
+   "track_end": 92.04
+  },
+  {
+   "start": 92.04,
+   "end": 97.58,
+   "text": "Believed in the promise with tears stained eyes",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.652,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 92.04,
+   "track_end": 97.58
+  },
+  {
+   "start": 97.58,
+   "end": 102.3,
+   "text": "And Sammy also willing so still",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.652,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 97.58,
+   "track_end": 102.3
+  },
+  {
+   "start": 102.3,
+   "end": 108.72,
+   "text": "He answered the call, surrendered it all",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.774,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 102.3,
+   "track_end": 108.72
+  },
+  {
+   "start": 109.3,
+   "end": 114.24,
+   "text": "These ancient names still carry the flame",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.774,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 109.3,
+   "track_end": 114.24
+  },
+  {
+   "start": 114.24,
+   "end": 119.82,
+   "text": "Reminding my soul to worship through the pain",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.774,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 114.24,
+   "track_end": 119.82
+  },
+  {
+   "start": 119.82,
+   "end": 125.14,
+   "text": "Your gifts of grace, their fight for faith",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.774,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 119.82,
+   "track_end": 125.14
+  },
+  {
+   "start": 125.14,
+   "end": 131.72,
+   "text": "I trust You Lord to light my way",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.695,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 125.14,
+   "track_end": 131.72
+  },
+  {
+   "start": 131.72,
+   "end": 136.42,
+   "text": "You said yes and it will be given",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.695,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 131.72,
+   "track_end": 136.42
+  },
+  {
+   "start": 137.78,
+   "end": 143.02,
+   "text": "See and You will find",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.695,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 137.78,
+   "track_end": 143.02
+  },
+  {
+   "start": 144.14,
+   "end": 147.6,
+   "text": "And the door will be open",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.695,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 144.14,
+   "track_end": 147.6
+  },
+  {
+   "start": 148.14,
+   "end": 153.4,
+   "text": "Here I am oh Lord",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.695,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 148.14,
+   "track_end": 153.4
+  },
+  {
+   "start": 153.4,
+   "end": 157.14,
+   "text": "Don't pass me by",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.622,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 153.4,
+   "track_end": 157.14
+  },
+  {
+   "start": 159.4,
+   "end": 163.74,
+   "text": "Here I am",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.622,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 159.4,
+   "track_end": 163.74
+  },
+  {
+   "start": 164.4,
+   "end": 170.98,
+   "text": "Oh Lord, asking, seeking nothing",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.622,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 164.4,
+   "track_end": 170.98
+  },
+  {
+   "start": 173.9,
+   "end": 178.88,
+   "text": "Yes, the vision of Joseph dreaming through chains",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.622,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 173.9,
+   "track_end": 178.88
+  },
+  {
+   "start": 179.94,
+   "end": 184.82,
+   "text": "Turn betrayal to blessing forgave through the pain",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.887,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 179.94,
+   "track_end": 184.82
+  },
+  {
+   "start": 186.44,
+   "end": 190.24,
+   "text": "Deborah discernment bold on the field",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.887,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 186.44,
+   "track_end": 190.24
+  },
+  {
+   "start": 191.38,
+   "end": 197.66,
+   "text": "She prophesied power, may warriors yield",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.887,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 191.38,
+   "track_end": 197.66
+  },
+  {
+   "start": 197.66,
+   "end": 202.6,
+   "text": "Asking for David's faith over fear, slinging hand down",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.887,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 197.66,
+   "track_end": 202.6
+  },
+  {
+   "start": 202.6,
+   "end": 204.9,
+   "text": "Came Goliath's face in the sand",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.887,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 202.6,
+   "track_end": 204.9
+  },
+  {
+   "start": 204.9,
+   "end": 207.36,
+   "text": "Test the zealot against brave interfere",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 204.9,
+   "track_end": 207.36
+  },
+  {
+   "start": 207.36,
+   "end": 210.42,
+   "text": "She saved her people, wiped every tear",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 207.36,
+   "track_end": 210.42
+  },
+  {
+   "start": 210.42,
+   "end": 212.94,
+   "text": "Noah's obedience, building in faith",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 210.42,
+   "track_end": 212.94
+  },
+  {
+   "start": 212.94,
+   "end": 215.78,
+   "text": "While others mocked, he prepared the ark",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 212.94,
+   "track_end": 215.78
+  },
+  {
+   "start": 215.78,
+   "end": 218.52,
+   "text": "And pawed with the passion, preaching through pain",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 215.78,
+   "track_end": 218.52
+  },
+  {
+   "start": 218.52,
+   "end": 221.2,
+   "text": "Role letters and chains that still remain",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 218.52,
+   "track_end": 221.2
+  },
+  {
+   "start": 221.2,
+   "end": 224.2,
+   "text": "These echoes of old, they got my soul",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 221.2,
+   "track_end": 224.2
+  },
+  {
+   "start": 224.2,
+   "end": 227.06,
+   "text": "Proof that your purpose still unfolds",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 224.2,
+   "track_end": 227.06
+  },
+  {
+   "start": 227.06,
+   "end": 229.7,
+   "text": "That legacy lives, it's my birthright too",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 227.06,
+   "track_end": 229.7
+  },
+  {
+   "start": 229.7,
+   "end": 232.9,
+   "text": "So I lift up my hands and break on through",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.323,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 229.7,
+   "track_end": 232.9
+  },
+  {
+   "start": 238.76,
+   "end": 242.04,
+   "text": "You will find",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.61,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 238.76,
+   "track_end": 242.04
+  },
+  {
+   "start": 243.46,
+   "end": 247.86,
+   "text": "And the door will be open",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.61,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 243.46,
+   "track_end": 247.86
+  },
+  {
+   "start": 247.86,
+   "end": 250.68,
+   "text": "Here I am",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.61,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 247.86,
+   "track_end": 250.68
+  },
+  {
+   "start": 250.68,
+   "end": 253.04,
+   "text": "Oh Lord",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.61,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 250.68,
+   "track_end": 253.04
+  },
+  {
+   "start": 253.04,
+   "end": 255.86,
+   "text": "Don't pass me by",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.61,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 253.04,
+   "track_end": 255.86
+  },
+  {
+   "start": 258.46,
+   "end": 269.3,
+   "text": "Here I am, oh, oh, asking, seeking",
+   "avg_logprob": -0.473,
+   "no_speech_prob": 0.767,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 258.46,
+   "track_end": 269.3
+  },
+  {
+   "start": 273.74,
+   "end": 281.02,
+   "text": "I am the Apostles' Pentecost on the Holy Spirit I wait",
+   "avg_logprob": -0.473,
+   "no_speech_prob": 0.767,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 273.74,
+   "track_end": 281.02
+  },
+  {
+   "start": 281.02,
+   "end": 286.62,
+   "text": "I am Peter on water, Stepping out on faith",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.824,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 281.02,
+   "track_end": 286.62
+  },
+  {
+   "start": 286.62,
+   "end": 292.62,
+   "text": "I am Mary at your feet, Pouring it home",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.824,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 286.62,
+   "track_end": 292.62
+  },
+  {
+   "start": 292.62,
+   "end": 298.18,
+   "text": "I am Elijah, Waiting for fire to fall",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.824,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 292.62,
+   "track_end": 298.18
+  },
+  {
+   "start": 298.18,
+   "end": 302.6,
+   "text": "I am clay in your hands, Still being shaped",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.824,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 298.18,
+   "track_end": 302.6
+  },
+  {
+   "start": 302.6,
+   "end": 308.28,
+   "text": "With the mustard seed of faith I will wait",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.824,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 302.6,
+   "track_end": 308.28
+  },
+  {
+   "start": 308.28,
+   "end": 314.5,
+   "text": "Your presence is power, your spirit is flames",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.867,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 308.28,
+   "track_end": 314.5
+  },
+  {
+   "start": 315.28,
+   "end": 320.42,
+   "text": "You know my heart, you call me by name",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.867,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 315.28,
+   "track_end": 320.42
+  },
+  {
+   "start": 321.64,
+   "end": 324.68,
+   "text": "Here and there will be a temple",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.867,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 321.64,
+   "track_end": 324.68
+  },
+  {
+   "start": 329.36,
+   "end": 335.88,
+   "text": "The door will be opened",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.867,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 329.36,
+   "track_end": 335.88
+  },
+  {
+   "start": 335.88,
+   "end": 338.26,
+   "text": "The door will be opened",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.867,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 335.88,
+   "track_end": 338.26
+  },
+  {
+   "start": 347.5,
+   "end": 353.06,
+   "text": "Here I am",
+   "avg_logprob": -0.715,
+   "no_speech_prob": 0.877,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 347.5,
+   "track_end": 353.06
+  },
+  {
+   "start": 356.98,
+   "end": 362.5,
+   "text": "Here I am",
+   "avg_logprob": -0.715,
+   "no_speech_prob": 0.877,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 356.98,
+   "track_end": 362.5
+  },
+  {
+   "start": 362.5,
+   "end": 364.38,
+   "text": "Here I am",
+   "avg_logprob": -0.715,
+   "no_speech_prob": 0.877,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 362.5,
+   "track_end": 364.38
+  },
+  {
+   "start": 369.62,
+   "end": 383.28,
+   "text": "Here I am, asking, seeking, knocking",
+   "avg_logprob": -0.533,
+   "no_speech_prob": 0.728,
+   "track_id": "QMpT5KmaQys#01",
+   "track_start": 369.62,
+   "track_end": 383.28
+  }
+ ]
+}

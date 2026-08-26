@@ -1,0 +1,174 @@
+{
+ "track_id": "ODr3aDcsuNA#07",
+ "track_key": "ODr3aDcsuNA__07",
+ "video_id": "ODr3aDcsuNA",
+ "title": "7. Psalm 63 – My Soul Thirsts for You",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 230.0,
+ "voiced_sec": 147.5,
+ "voice_ratio": 0.641,
+ "n_words": 172,
+ "words_per_min": 44.9,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.8,
+ "rtf": 0.042,
+ "segments": [
+  {
+   "start": 19.84,
+   "end": 28.0,
+   "text": "Oh God, you are my God alone Early I seek you and I'm far from home",
+   "avg_logprob": -0.493,
+   "no_speech_prob": 0.558,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 28.0,
+   "end": 43.94,
+   "text": "In a dry land where the rivers fade My soul still calls your holy name",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.255,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 45.4,
+   "end": 53.0,
+   "text": "My soul thirsts for you, my body earns",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.371,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 53.94,
+   "end": 61.14,
+   "text": "In the heat of trial, my spirit burns",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.371,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 62.54,
+   "end": 69.72,
+   "text": "But I've seen your power in the place of praise",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.371,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 69.72,
+   "end": 78.34,
+   "text": "And I'll bless you Lord, oh my days",
+   "avg_logprob": -0.708,
+   "no_speech_prob": 0.548,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 96.74,
+   "end": 105.34,
+   "text": "Your love is better than life itself No gold or wine, no earthly wealth",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.646,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 105.34,
+   "end": 112.56,
+   "text": "My lips will glorify Your name",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.365,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 114.02,
+   "end": 121.36,
+   "text": "In the night I'll sing through joy and pain",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.365,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 125.26,
+   "end": 130.38,
+   "text": "On my bed I remember You",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.365,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 133.5,
+   "end": 138.08,
+   "text": "In the shadow of wings I'm pulled through",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.45,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 142.22,
+   "end": 147.6,
+   "text": "You hold my hand, I cling so tight",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.45,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 147.6,
+   "end": 155.52,
+   "text": "And I sing the blues with Heaven's light",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.45,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 155.52,
+   "end": 164.78,
+   "text": "My soul thirsts for You, my body yearns",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.377,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 164.78,
+   "end": 172.36,
+   "text": "In the heat of trial, my spirit burns",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.377,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 173.78,
+   "end": 181.36,
+   "text": "But I've seen Your power in the place of praise",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.377,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 181.36,
+   "end": 189.42,
+   "text": "And I'll bless you Lord, oh my days",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.376,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 191.28,
+   "end": 197.96,
+   "text": "Yes my soul follows hard behind",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.376,
+   "track_id": "ODr3aDcsuNA#07"
+  },
+  {
+   "start": 199.42,
+   "end": 206.92,
+   "text": "In the driest place you're what I find",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.376,
+   "track_id": "ODr3aDcsuNA#07"
+  }
+ ]
+}

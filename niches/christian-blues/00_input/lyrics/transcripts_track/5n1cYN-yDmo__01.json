@@ -1,0 +1,478 @@
+{
+ "track_id": "5n1cYN-yDmo#01",
+ "track_key": "5n1cYN-yDmo__01",
+ "video_id": "5n1cYN-yDmo",
+ "title": "Amazing Grace",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 314.0,
+ "voiced_sec": 255.2,
+ "voice_ratio": 0.813,
+ "n_words": 401,
+ "words_per_min": 76.6,
+ "is_instrumental": false,
+ "n_segments": 57,
+ "n_segments_voiced": 57,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 43.3,
+ "rtf": 0.138,
+ "segments": [
+  {
+   "start": 9.32,
+   "end": 11.88,
+   "text": "Welcome to the Rhyla Worship Room Music.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.496,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 14.76,
+   "end": 19.34,
+   "text": "But weary hearts find rest, broken spirits find healing.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.496,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 20.76,
+   "end": 25.4,
+   "text": "And every soul searching for hope finds the love of Jesus waiting with open arms.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.496,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 25.4,
+   "end": 29.52,
+   "text": "Right here, right now",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 30.8,
+   "end": 34.1,
+   "text": "Let His presence wash over you",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 36.5,
+   "end": 39.44,
+   "text": "Let His peace settle in your chest",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 41.4,
+   "end": 45.42,
+   "text": "And let His amazing grace lift you higher",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 45.42,
+   "end": 48.98,
+   "text": "Than every burden you walked in with",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 48.98,
+   "end": 51.88,
+   "text": "Your home, your scene, your love",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 51.88,
+   "end": 53.66,
+   "text": "Let's worship together",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 55.12,
+   "end": 58.0,
+   "text": "I was walking through the shadows",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 58.0,
+   "end": 61.0,
+   "text": "Didn't know which way to turn",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 61.0,
+   "end": 63.78,
+   "text": "Had a heart full of sorrow",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 63.78,
+   "end": 66.6,
+   "text": "And a soul that wouldn't learn",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 66.6,
+   "end": 69.76,
+   "text": "But then you whispered in the darkness",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 69.76,
+   "end": 72.66,
+   "text": "Said my child don't be afraid",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 72.66,
+   "end": 75.82,
+   "text": "And in a moment chains were broken",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 75.82,
+   "end": 77.62,
+   "text": "You covered me with grace",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 78.96,
+   "end": 80.52,
+   "text": "Amazing grace",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 80.52,
+   "end": 86.52,
+   "text": "How sweet the sound that lived in me",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 87.16,
+   "end": 89.76,
+   "text": "When I fell down",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 89.76,
+   "end": 93.06,
+   "text": "Your mercy found me wrapped around me",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 93.06,
+   "end": 97.3,
+   "text": "Jesus, You turned my life around",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 97.3,
+   "end": 101.78,
+   "text": "Oh, amazing grace",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 104.82,
+   "end": 107.82,
+   "text": "Forever I'll sing",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 107.82,
+   "end": 115.56,
+   "text": "You healed my heart You made me clean every breath I breathed",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.703,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 115.56,
+   "end": 121.9,
+   "text": "My Lord and King I stand in Your amazing grace",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.703,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 127.46,
+   "end": 135.84,
+   "text": "I carried guilt like heavy stones Felt the weight of yesterday",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 138.26,
+   "end": 145.86,
+   "text": "But you took all my failures And you washed them all away",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 145.86,
+   "end": 151.24,
+   "text": "Now I'm walking in your freedom, got a joy I can't explain",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 151.86,
+   "end": 160.42,
+   "text": "Cause when the world tried to break me, you called me by my name",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 163.12,
+   "end": 171.36,
+   "text": "Amazing grace, how sweet the sound that lived in me",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 171.36,
+   "end": 177.74,
+   "text": "When I fell down, Your mercy found me wrapped around me",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 177.74,
+   "end": 181.9,
+   "text": "Jesus, You turned my life around",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 181.9,
+   "end": 189.5,
+   "text": "Oh, amazing grace, amazing grace",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 189.5,
+   "end": 195.58,
+   "text": "Forever I'll sing You healed my heart",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 195.58,
+   "end": 200.22,
+   "text": "You made me clean Every breath I breathed",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 200.22,
+   "end": 206.32,
+   "text": "my Lord and King I stand in Your amazing way",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 209.22,
+   "end": 212.2,
+   "text": "When I was lost Your grace found",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 212.2,
+   "end": 215.34,
+   "text": "When I was broken Your love crowned me",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 215.34,
+   "end": 218.52,
+   "text": "When I was sinking You reached down for me",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 218.52,
+   "end": 221.5,
+   "text": "And now I'm standing in victory",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 222.22,
+   "end": 227.36,
+   "text": "Grace, oh, amazing Love everlasting",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 227.36,
+   "end": 234.66,
+   "text": "Jesus, you saved me Now my soul is dancing",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.805,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 238.94,
+   "end": 247.28,
+   "text": "Amazing grace How sweet the sound",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.805,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 247.28,
+   "end": 251.08,
+   "text": "How did this defeat me?",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 251.54,
+   "end": 253.02,
+   "text": "Where I fell down",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 253.02,
+   "end": 254.94,
+   "text": "Your mercy found me",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 254.94,
+   "end": 256.52,
+   "text": "Wrapped around me",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 256.52,
+   "end": 260.54,
+   "text": "Jesus you turned my life around",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 261.78,
+   "end": 264.04,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 264.04,
+   "end": 268.12,
+   "text": "Amazing grace, amazing grace",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 268.12,
+   "end": 274.2,
+   "text": "Forever I'll sing You heal my heart",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 274.2,
+   "end": 280.2,
+   "text": "You made me clean Every breath I breathe, my Lord and King",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 280.2,
+   "end": 285.06,
+   "text": "I stand in Your amazing grace",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 288.86,
+   "end": 294.5,
+   "text": "Your grace, Your grace, Your grace",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01"
+  },
+  {
+   "start": 296.58,
+   "end": 307.72,
+   "text": "Keeps carrying, worrying me Amazing grace, forever I'll see",
+   "avg_logprob": -0.747,
+   "no_speech_prob": 0.448,
+   "track_id": "5n1cYN-yDmo#01"
+  }
+ ]
+}

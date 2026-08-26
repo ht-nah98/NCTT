@@ -1,0 +1,166 @@
+{
+ "track_id": "btdznddpirc#04",
+ "track_key": "btdznddpirc__04",
+ "video_id": "btdznddpirc",
+ "title": "4. Lay It Down",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 177.0,
+ "voiced_sec": 102.5,
+ "voice_ratio": 0.579,
+ "n_words": 135,
+ "words_per_min": 45.8,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.8,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.9,
+   "text": "In moms you're gonna stay Come to me child don't delay",
+   "avg_logprob": -0.352,
+   "no_speech_prob": 0.602,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 7.9,
+   "end": 13.72,
+   "text": "I'll be your light at the break of day",
+   "avg_logprob": -0.352,
+   "no_speech_prob": 0.602,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 18.76,
+   "end": 22.04,
+   "text": "Come on home",
+   "avg_logprob": -0.352,
+   "no_speech_prob": 0.602,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 26.6,
+   "end": 30.12,
+   "text": "Come on home",
+   "avg_logprob": -0.941,
+   "no_speech_prob": 0.471,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 51.22,
+   "end": 55.1,
+   "text": "Come to me, I'll give you rest,",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.564,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 55.1,
+   "end": 62.88,
+   "text": "Let your head upon my chest Let the storm just fade away",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.672,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 62.88,
+   "end": 70.68,
+   "text": "In my arms you're gonna stay Come to me child, don't delay",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.672,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 70.68,
+   "end": 76.62,
+   "text": "I'll be your light at the break of day",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.672,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 81.84,
+   "end": 85.36,
+   "text": "Come on home",
+   "avg_logprob": -0.717,
+   "no_speech_prob": 0.569,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 89.7,
+   "end": 92.62,
+   "text": "Come on home",
+   "avg_logprob": -0.717,
+   "no_speech_prob": 0.569,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 117.22,
+   "end": 123.62,
+   "text": "Sitting on the hillside, crowds gather round",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.37,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 125.62,
+   "end": 132.08,
+   "text": "Jesus starts speaking and the world slows down",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.37,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 132.08,
+   "end": 138.42,
+   "text": "No silver tongue, just truth so pure",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.297,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 139.08,
+   "end": 145.34,
+   "text": "Said the poor in spirit, got a kingdom secure",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.297,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 147.08,
+   "end": 153.36,
+   "text": "I got those blessed and broken blues",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.297,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 153.36,
+   "end": 160.1,
+   "text": "A crown of glory in my worn out shoes",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.332,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 161.7,
+   "end": 167.46,
+   "text": "We're all made mark, but I won't refuse",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.332,
+   "track_id": "btdznddpirc#04"
+  },
+  {
+   "start": 169.04,
+   "end": 174.98,
+   "text": "I'm rich in heaven with these humble blues",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.332,
+   "track_id": "btdznddpirc#04"
+  }
+ ]
+}

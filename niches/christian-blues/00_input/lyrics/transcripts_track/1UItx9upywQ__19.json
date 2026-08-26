@@ -1,0 +1,102 @@
+{
+ "track_id": "1UItx9upywQ#19",
+ "track_key": "1UItx9upywQ__19",
+ "video_id": "1UItx9upywQ",
+ "title": "\"You Hear the Helpless Cry\" - Psalm 10",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 92.0,
+ "voiced_sec": 63.3,
+ "voice_ratio": 0.688,
+ "n_words": 82,
+ "words_per_min": 53.5,
+ "is_instrumental": false,
+ "n_segments": 10,
+ "n_segments_voiced": 10,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 4.2,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 8.56,
+   "end": 20.12,
+   "text": "The sky bends low like a weary sigh The earth it trembles with a broken lie",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.547,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 20.12,
+   "end": 25.2,
+   "text": "Whispered prayers rise like smoke to the sky",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.454,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 27.96,
+   "end": 35.1,
+   "text": "You hear, oh you hear, every tear",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.454,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 37.12,
+   "end": 42.06,
+   "text": "You hear the helpless cry",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.454,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 42.06,
+   "end": 47.16,
+   "text": "No shadow as they paint from your eye",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.454,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 47.16,
+   "end": 54.62,
+   "text": "You hear, you hear the helpless cry",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.395,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 63.74,
+   "end": 69.06,
+   "text": "The hungry wander through the streets of dust",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.395,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 69.06,
+   "end": 74.42,
+   "text": "Hearts grow heavy but they hold their trust",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.395,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 74.42,
+   "end": 79.52,
+   "text": "You live the lonely when the world turns unjust",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.184,
+   "track_id": "1UItx9upywQ#19"
+  },
+  {
+   "start": 82.96,
+   "end": 89.2,
+   "text": "You know, oh you know, everyone",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.184,
+   "track_id": "1UItx9upywQ#19"
+  }
+ ]
+}

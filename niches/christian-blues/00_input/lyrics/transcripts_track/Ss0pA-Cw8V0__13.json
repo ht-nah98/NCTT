@@ -1,0 +1,486 @@
+{
+ "track_id": "Ss0pA-Cw8V0#13",
+ "track_key": "Ss0pA-Cw8V0__13",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "God Will Make Away",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 213.0,
+ "voiced_sec": 167.8,
+ "voice_ratio": 0.788,
+ "n_words": 383,
+ "words_per_min": 107.9,
+ "is_instrumental": false,
+ "n_segments": 58,
+ "n_segments_voiced": 58,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 30.8,
+ "rtf": 0.144,
+ "segments": [
+  {
+   "start": 11.68,
+   "end": 18.0,
+   "text": "Even when we can't see the path God is already walking ahead of us",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.219,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 20.82,
+   "end": 24.14,
+   "text": "I was stuck in the valley, couldn't see the mountain top",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.219,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 24.8,
+   "end": 27.3,
+   "text": "Everything fell heavy, every blessing put on stop",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.219,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 27.3,
+   "end": 30.54,
+   "text": "Build stackin' tears, dropping heart achin' nonstop",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 30.54,
+   "end": 32.48,
+   "text": "But in the silence I heard God whispered,",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 32.5,
+   "end": 34.94,
+   "text": "Child, I got you watch, people left you stay",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 34.94,
+   "end": 36.84,
+   "text": "Those clothes you made away",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 36.84,
+   "end": 40.04,
+   "text": "When the pressure had me breakin' you was shaping me like clay",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 40.04,
+   "end": 43.36,
+   "text": "What they meant for destruction, you turned an instruction",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 43.36,
+   "end": 47.24,
+   "text": "My pain was in punishment, it was part of the construction",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 47.78,
+   "end": 50.94,
+   "text": "They poured away for me",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 50.94,
+   "end": 53.38,
+   "text": "He made away for me",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.399,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 53.38,
+   "end": 58.4,
+   "text": "Even when I couldn't see me",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 58.4,
+   "end": 61.62,
+   "text": "I don't know how, but I know that He did",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 61.62,
+   "end": 64.88,
+   "text": "He turned the impossible into yes it is",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 64.88,
+   "end": 67.6,
+   "text": "God will make a way out of no way",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 67.6,
+   "end": 70.42,
+   "text": "Every single time He comes through",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 70.42,
+   "end": 74.06,
+   "text": "God will make a way out of no way",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 74.06,
+   "end": 78.32,
+   "text": "He's faithful, He's making all things new",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 78.32,
+   "end": 81.68,
+   "text": "He is open in door",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 82.46,
+   "end": 83.98,
+   "text": "I trust you love",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 85.68,
+   "end": 89.02,
+   "text": "You never failed me",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 89.02,
+   "end": 90.38,
+   "text": "You never failed me",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 91.34,
+   "end": 93.96,
+   "text": "I walk by faith, I don't walk by sight",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 94.82,
+   "end": 97.2,
+   "text": "Even in the dark your word is my light",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 97.98,
+   "end": 100.26,
+   "text": "Every test I face became testimony",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 101.2,
+   "end": 103.66,
+   "text": "Every battle won't you get the glory",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 103.66,
+   "end": 106.46,
+   "text": "You lifted me from fear to faith",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 106.46,
+   "end": 109.68,
+   "text": "From ashes to grave, from broken to break",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.717,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 109.68,
+   "end": 113.16,
+   "text": "I'm proof that the story ain't over till God signs it",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 113.16,
+   "end": 117.32,
+   "text": "He made a way in the desert water where I couldn't find it",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 117.32,
+   "end": 123.04,
+   "text": "He made a way, I'm telling you, He made a way for me",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 123.04,
+   "end": 126.92,
+   "text": "He made a way, God, for you",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 126.92,
+   "end": 129.28,
+   "text": "Yes He will, yes He will",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 130.02,
+   "end": 132.82,
+   "text": "But the enemy built up love me",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 133.8,
+   "end": 135.74,
+   "text": "God used to push me through",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 135.74,
+   "end": 140.6,
+   "text": "Quiet out of nowhere Every single time He comes through",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.384,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 140.6,
+   "end": 143.96,
+   "text": "Oh God, I will make a way out of nowhere",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.384,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 144.74,
+   "end": 148.54,
+   "text": "He's faithful, He's making all things new",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.384,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 148.54,
+   "end": 150.54,
+   "text": "Quiet out of nowhere",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.384,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 154.58,
+   "end": 157.74,
+   "text": "Quiet out of nowhere",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.384,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 157.74,
+   "end": 158.88,
+   "text": "Ooh",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 160.3,
+   "end": 162.92,
+   "text": "When the road is blocked",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 163.98,
+   "end": 165.66,
+   "text": "God creates another",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 166.68,
+   "end": 169.34,
+   "text": "When the door is locked",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 170.54,
+   "end": 172.18,
+   "text": "He builds one from scratch",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 172.18,
+   "end": 173.52,
+   "text": "Ooh",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 174.74,
+   "end": 176.56,
+   "text": "What feels like the end of man",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 177.48,
+   "end": 179.92,
+   "text": "Is just the beginning for God",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 179.92,
+   "end": 180.88,
+   "text": "God, make a way",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 180.88,
+   "end": 181.7,
+   "text": "Go!",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 182.96,
+   "end": 183.72,
+   "text": "Yes, He will",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 184.76,
+   "end": 186.14,
+   "text": "Yes, He will",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.526,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 186.14,
+   "end": 189.54,
+   "text": "He's faithful still",
+   "avg_logprob": -0.578,
+   "no_speech_prob": 0.773,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 189.54,
+   "end": 191.14,
+   "text": "He's faithful still",
+   "avg_logprob": -0.578,
+   "no_speech_prob": 0.773,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 191.14,
+   "end": 199.74,
+   "text": "My provider, my defender",
+   "avg_logprob": -0.578,
+   "no_speech_prob": 0.773,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 203.14,
+   "end": 206.04,
+   "text": "He always makes a way",
+   "avg_logprob": -0.578,
+   "no_speech_prob": 0.773,
+   "track_id": "Ss0pA-Cw8V0#13"
+  },
+  {
+   "start": 208.14,
+   "end": 210.7,
+   "text": "Thank you Jesus, Lord",
+   "avg_logprob": -0.578,
+   "no_speech_prob": 0.773,
+   "track_id": "Ss0pA-Cw8V0#13"
+  }
+ ]
+}

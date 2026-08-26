@@ -1,0 +1,454 @@
+{
+ "track_id": "lKk3O0goUrA#02",
+ "track_key": "lKk3O0goUrA__02",
+ "video_id": "lKk3O0goUrA",
+ "title": "You Lifted Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 389.0,
+ "voiced_sec": 259.3,
+ "voice_ratio": 0.667,
+ "n_words": 345,
+ "words_per_min": 53.2,
+ "is_instrumental": false,
+ "n_segments": 54,
+ "n_segments_voiced": 54,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 56.4,
+ "rtf": 0.145,
+ "segments": [
+  {
+   "start": 3.02,
+   "end": 10.78,
+   "text": "Lord, I thank You, You lifted me",
+   "avg_logprob": -0.603,
+   "no_speech_prob": 0.457,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 14.52,
+   "end": 17.36,
+   "text": "I'm still standing",
+   "avg_logprob": -0.603,
+   "no_speech_prob": 0.457,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 22.8,
+   "end": 32.34,
+   "text": "I was drowning in sorrow Felt my hopes slipping away",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.566,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 35.6,
+   "end": 44.42,
+   "text": "But you whispered in the midnight Child, hold on, you'll see the day",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.566,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 46.32,
+   "end": 56.5,
+   "text": "Every tear that I was crying You were catching one by one",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.613,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 58.06,
+   "end": 67.76,
+   "text": "And you turned my pain to promise Now my healing has begun",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.613,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 70.14,
+   "end": 79.78,
+   "text": "I don't deserve this mercy But you give it all the same",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.63,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 82.64,
+   "end": 91.92,
+   "text": "So I'll sing it to the nations Lift high your holy name",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.63,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 91.92,
+   "end": 103.02,
+   "text": "You lifted me You set me free",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.772,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 105.92,
+   "end": 114.94,
+   "text": "You gave me joy You rescued me",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.772,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 114.94,
+   "end": 117.56,
+   "text": "You rescued me",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.284,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 123.94,
+   "end": 126.9,
+   "text": "Thank You, Lord",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.284,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 126.9,
+   "end": 129.32,
+   "text": "Thank You, Lord",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.284,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 129.32,
+   "end": 135.24,
+   "text": "You lifted me",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.284,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 167.06,
+   "end": 171.7,
+   "text": "When I was sinking, Lord, You came to me",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.346,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 173.36,
+   "end": 178.4,
+   "text": "Pulled me out of the deep, set my soul free",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.346,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 179.24,
+   "end": 183.34,
+   "text": "Every scar You turned into grace",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.346,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 185.32,
+   "end": 189.72,
+   "text": "Every tear You wiped from my face",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.346,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 189.72,
+   "end": 195.7,
+   "text": "I was lost but you called my name",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.632,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 195.7,
+   "end": 201.26,
+   "text": "I'm redeemed by your holy flame",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.632,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 202.6,
+   "end": 207.28,
+   "text": "Now I stand with my hands lifted high",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.632,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 207.28,
+   "end": 212.9,
+   "text": "You gave me love that will never die",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.632,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 213.72,
+   "end": 216.44,
+   "text": "When the night gets cold",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.632,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 216.44,
+   "end": 222.8,
+   "text": "You are my fire When I lose my way",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.618,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 222.8,
+   "end": 228.44,
+   "text": "You lift me higher Lord, I'll never walk alone",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.618,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 228.44,
+   "end": 231.74,
+   "text": "Cause Your arms will bring me home",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.618,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 235.3,
+   "end": 241.78,
+   "text": "Hold on to me Hold on, Lord, don't let go",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.618,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 241.78,
+   "end": 244.44,
+   "text": "Grab me in Your love",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.255,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 244.44,
+   "end": 247.46,
+   "text": "Your love is all I know",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.255,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 247.46,
+   "end": 250.74,
+   "text": "You're my hope, my victory",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.255,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 252.02,
+   "end": 256.76,
+   "text": "Jesus, hold on to me",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.255,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 260.52,
+   "end": 262.04,
+   "text": "Through the trials",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.255,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 263.82,
+   "end": 265.86,
+   "text": "You carried me through",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.255,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 266.92,
+   "end": 268.62,
+   "text": "Every battle, Lord",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.255,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 268.62,
+   "end": 277.22,
+   "text": "I leaned on you Even when I doubted you stayed near",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.522,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 280.14,
+   "end": 289.94,
+   "text": "Whisper truth that casts out fear You're my joy, my song, my king",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.522,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 291.52,
+   "end": 295.52,
+   "text": "I'll praise you in everything",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.547,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 297.04,
+   "end": 301.82,
+   "text": "With every breath I give you praise",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.547,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 303.1,
+   "end": 307.32,
+   "text": "For the mercy that fills my days",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.547,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 307.32,
+   "end": 309.3,
+   "text": "Your love to me",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.547,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 309.3,
+   "end": 312.56,
+   "text": "Hold on, Lord, don't let go",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.547,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 312.56,
+   "end": 315.42,
+   "text": "Grab me in Your love",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.547,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 315.42,
+   "end": 318.26,
+   "text": "Your love is all I know",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.547,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 318.26,
+   "end": 321.78,
+   "text": "You're my hope, my victory",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.4,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 321.78,
+   "end": 326.96,
+   "text": "Jesus, hold on to me",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.4,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 330.26,
+   "end": 333.48,
+   "text": "He won't let you go",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.4,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 336.26,
+   "end": 339.44,
+   "text": "His love will never fail",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.4,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 339.44,
+   "end": 342.66,
+   "text": "For as you prevailed",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.4,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 342.66,
+   "end": 345.46,
+   "text": "Hold on to me",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.4,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 345.46,
+   "end": 347.86,
+   "text": "You'll let me go",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.334,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 347.86,
+   "end": 352.06,
+   "text": "Never let me go",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.334,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 353.26,
+   "end": 354.04,
+   "text": "Mmm",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.334,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 356.76,
+   "end": 359.12,
+   "text": "You're my everything",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.334,
+   "track_id": "lKk3O0goUrA#02"
+  },
+  {
+   "start": 366.76,
+   "end": 367.58,
+   "text": "Oh",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.334,
+   "track_id": "lKk3O0goUrA#02"
+  }
+ ]
+}

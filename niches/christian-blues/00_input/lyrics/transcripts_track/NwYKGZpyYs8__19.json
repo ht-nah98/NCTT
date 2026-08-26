@@ -1,0 +1,590 @@
+{
+ "track_id": "NwYKGZpyYs8#19",
+ "track_key": "NwYKGZpyYs8__19",
+ "video_id": "NwYKGZpyYs8",
+ "title": "It Is Finished (John 19)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 390.0,
+ "voiced_sec": 251.2,
+ "voice_ratio": 0.644,
+ "n_words": 470,
+ "words_per_min": 72.3,
+ "is_instrumental": false,
+ "n_segments": 71,
+ "n_segments_voiced": 71,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 74.8,
+ "rtf": 0.192,
+ "segments": [
+  {
+   "start": 17.22,
+   "end": 23.38,
+   "text": "Then Polly took Jesus and head him scourged.",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 24.66,
+   "end": 29.76,
+   "text": "The soldiers twisted a crown of thumbs and placed it on his head",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 30.72,
+   "end": 35.72,
+   "text": "They clothed him in purple and came to Mark and say",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 38.0,
+   "end": 42.32,
+   "text": "Hail, king of the Jews, and they struck him again",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 44.1,
+   "end": 50.28,
+   "text": "Behold the man standing there despising, wounded, bearing shame",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 50.28,
+   "end": 54.26,
+   "text": "Crucify they cried, take Him away",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 54.26,
+   "end": 58.08,
+   "text": "And no guilt was found in Him that day",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 60.12,
+   "end": 63.04,
+   "text": "Pile brought Jesus out again",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 63.04,
+   "end": 64.94,
+   "text": "And said, see Him now",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 66.2,
+   "end": 69.22,
+   "text": "I find no guilt in Him",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 69.22,
+   "end": 71.38,
+   "text": "Though you accuse Him loud",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 72.52,
+   "end": 75.34,
+   "text": "When they saw Him they cried",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 75.88,
+   "end": 78.06,
+   "text": "Crucify Him still",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 79.2,
+   "end": 86.04,
+   "text": "Paul said, take him yourselves, I'll find no guilt, yeah, yeah",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 86.04,
+   "end": 92.4,
+   "text": "Behold the man standing there, despised and wounded, bearing shame",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 92.4,
+   "end": 100.24,
+   "text": "Crucify, they cry, take him away, yeah, no guilt was found in him that day",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 102.04,
+   "end": 107.42,
+   "text": "They answered, he must die, he claimed to be God's son",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 137.42,
+   "end": 142.52,
+   "text": "Take him away, and no guilt was found in him that day",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.545,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 150.76,
+   "end": 155.88,
+   "text": "Pilots are to release him, but the crowd cried aloud",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.545,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 157.48,
+   "end": 162.62,
+   "text": "If you free this man, you will pose Caesar now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.545,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 162.62,
+   "end": 168.92,
+   "text": "They said we have no king But Caesar alone",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.693,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 170.62,
+   "end": 175.14,
+   "text": "Pilate handed Jesus over To be crucified",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.693,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 176.6,
+   "end": 181.1,
+   "text": "Behold the man Standing there despised",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.693,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 181.1,
+   "end": 186.0,
+   "text": "Wounded, bearing shame Crucified, they cried",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.693,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 186.0,
+   "end": 191.34,
+   "text": "Take Him away, yet no guilt was found in Him that day",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.147,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 192.52,
+   "end": 194.14,
+   "text": "That day",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.147,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 195.54,
+   "end": 198.56,
+   "text": "They took Jesus to Golgotha",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.147,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 199.9,
+   "end": 201.54,
+   "text": "The place of the skull",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.147,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 202.9,
+   "end": 205.42,
+   "text": "They crucified Him there",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.147,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 206.4,
+   "end": 207.62,
+   "text": "Between two men",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.147,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 209.4,
+   "end": 211.14,
+   "text": "Pilate wrote a title",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.147,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 212.3,
+   "end": 217.78,
+   "text": "Jesus of Nazareth, the king of the Jews,",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.631,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 218.02,
+   "end": 221.02,
+   "text": "ridden plainly for all.",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.631,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 222.22,
+   "end": 227.06,
+   "text": "Behold, the man lifted high between the earth and sky.",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.631,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 227.24,
+   "end": 231.46,
+   "text": "King of the Jews, ridden above, rejected by men,",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.631,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 231.54,
+   "end": 233.52,
+   "text": "yet sending love.",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.631,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 234.76,
+   "end": 239.86,
+   "text": "The soldiers divided his garments, casting lots below.",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.631,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 241.2,
+   "end": 246.44,
+   "text": "that the scripture might be fulfilled just as written long ago",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 247.68,
+   "end": 253.42,
+   "text": "Jesus saw his mother and the disciple he loved",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 254.14,
+   "end": 259.8,
+   "text": "He said, woman, behold your son, behold your mother",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 261.26,
+   "end": 266.06,
+   "text": "Behold the man lifted high between the earth and sky",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.31,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 266.06,
+   "end": 268.26,
+   "text": "King of the Jews, waiting above",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 268.26,
+   "end": 271.94,
+   "text": "Rejected by man, yet sent in love",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 274.36,
+   "end": 276.22,
+   "text": "Jesus knew all was finished",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 277.6,
+   "end": 279.2,
+   "text": "To fulfill the word",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 279.2,
+   "end": 283.16,
+   "text": "He said, I thirst and they lifted vinegar up",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 284.1,
+   "end": 286.06,
+   "text": "When He had received it",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 287.54,
+   "end": 289.26,
+   "text": "He said it is finished",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 290.44,
+   "end": 292.78,
+   "text": "He bowed His head",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 292.78,
+   "end": 295.92,
+   "text": "And gave up his spirit",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 300.22,
+   "end": 301.66,
+   "text": "Behold the man",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 301.66,
+   "end": 302.66,
+   "text": "Lifted high",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 302.66,
+   "end": 304.94,
+   "text": "Between the earth and sky",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 304.94,
+   "end": 305.88,
+   "text": "The work is done",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 305.88,
+   "end": 307.3,
+   "text": "The price is paid",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 307.3,
+   "end": 309.22,
+   "text": "The lamb has given",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 309.22,
+   "end": 311.06,
+   "text": "His final breath",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 311.06,
+   "end": 311.8,
+   "text": "Oh",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 312.78,
+   "end": 315.68,
+   "text": "Not one of his bones was broken",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 315.68,
+   "end": 318.26,
+   "text": "Though his side was pierced",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 319.58,
+   "end": 322.26,
+   "text": "Blood and water flowed",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.473,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 322.26,
+   "end": 328.18,
+   "text": "As the scripture was clear, they laid him in a new tomb",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.379,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 329.38,
+   "end": 335.18,
+   "text": "Before the Sabbath day, Joseph and Nicodemus",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.379,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 335.18,
+   "end": 340.5,
+   "text": "Wrapped him and laid him away, behold the man",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.379,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 340.5,
+   "end": 343.88,
+   "text": "Lifted high, high between the earth and sky",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.379,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 343.88,
+   "end": 346.12,
+   "text": "King of the Jews, ridden above",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.379,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 346.12,
+   "end": 350.14,
+   "text": "rejected by men yet sinning in love",
+   "avg_logprob": -0.869,
+   "no_speech_prob": 0.356,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 361.82,
+   "end": 363.22,
+   "text": "Oh...",
+   "avg_logprob": -1.597,
+   "no_speech_prob": 0.523,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 367.82,
+   "end": 369.84,
+   "text": "Behold a man",
+   "avg_logprob": -1.597,
+   "no_speech_prob": 0.523,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 371.48,
+   "end": 373.54,
+   "text": "Behold a man",
+   "avg_logprob": -1.597,
+   "no_speech_prob": 0.523,
+   "track_id": "NwYKGZpyYs8#19"
+  },
+  {
+   "start": 374.84,
+   "end": 376.96,
+   "text": "Behold a man",
+   "avg_logprob": -1.597,
+   "no_speech_prob": 0.523,
+   "track_id": "NwYKGZpyYs8#19"
+  }
+ ]
+}

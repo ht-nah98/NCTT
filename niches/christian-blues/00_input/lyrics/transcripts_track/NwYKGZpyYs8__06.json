@@ -1,0 +1,486 @@
+{
+ "track_id": "NwYKGZpyYs8#06",
+ "track_key": "NwYKGZpyYs8__06",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Bread Of Life (John 6)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 284.0,
+ "voiced_sec": 173.7,
+ "voice_ratio": 0.612,
+ "n_words": 407,
+ "words_per_min": 86.0,
+ "is_instrumental": false,
+ "n_segments": 58,
+ "n_segments_voiced": 58,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 18.2,
+ "rtf": 0.064,
+ "segments": [
+  {
+   "start": 27.18,
+   "end": 29.98,
+   "text": "and we'll see you next time.",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 30.0,
+   "end": 34.62,
+   "text": "The disciples there and by, he saw the crowd both vast and wide",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 34.62,
+   "end": 37.4,
+   "text": "And asked where bread could be supplied",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 37.4,
+   "end": 39.66,
+   "text": "I am the bread that came from heaven",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 39.66,
+   "end": 42.54,
+   "text": "All who eat will live forgiven",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 42.54,
+   "end": 45.78,
+   "text": "Who comes to me will hunger no more",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 45.78,
+   "end": 48.7,
+   "text": "Who believes will thirst no more",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 48.7,
+   "end": 51.52,
+   "text": "I am the bread that came from heaven",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 51.52,
+   "end": 54.44,
+   "text": "Life eternal freely given",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 55.0,
+   "end": 57.5,
+   "text": "This is the work God asked of you",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.843,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 57.5,
+   "end": 60.7,
+   "text": "Believe the one he sent to you",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.204,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 72.38,
+   "end": 75.96,
+   "text": "A boy had lows and fish is small",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.204,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 76.5,
+   "end": 79.04,
+   "text": "Five and two, not much at all",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.204,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 79.04,
+   "end": 81.86,
+   "text": "Jesus gave thanks, broke the bread",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.204,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 82.5,
+   "end": 84.78,
+   "text": "Fid the crown till all were fit",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.204,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 84.78,
+   "end": 87.82,
+   "text": "12 full baskets gathered there",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 87.82,
+   "end": 90.88,
+   "text": "Nothing lost and all could share",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 90.88,
+   "end": 93.6,
+   "text": "They said this prophet surely came",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 93.6,
+   "end": 96.94,
+   "text": "The one foretold in God's great name",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 102.16,
+   "end": 105.72,
+   "text": "They sought to make him king by force",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 105.72,
+   "end": 108.64,
+   "text": "Jesus left and changed his course",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 108.64,
+   "end": 111.72,
+   "text": "Night fell dark, the sea grew wild",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.534,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 111.72,
+   "end": 114.34,
+   "text": "He came walking ways we got",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 114.34,
+   "end": 117.52,
+   "text": "They cried out grip by fear",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 117.52,
+   "end": 120.26,
+   "text": "He said it is, I'll be not unclear",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 120.26,
+   "end": 123.42,
+   "text": "The wind grew calm, the boat stood fast",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 123.42,
+   "end": 126.52,
+   "text": "They reached the shore, the storm was past",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 128.54,
+   "end": 131.6,
+   "text": "I am the bread that came from heaven",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 131.6,
+   "end": 134.32,
+   "text": "All who eat will live forgiven",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 134.32,
+   "end": 137.56,
+   "text": "Who comes to me will hunger no more",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 137.56,
+   "end": 140.48,
+   "text": "Who believes will thirst no more",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.602,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 140.48,
+   "end": 143.38,
+   "text": "I am the bread that came from heaven",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.402,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 143.38,
+   "end": 146.34,
+   "text": "Life eternal, freely given",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.402,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 146.34,
+   "end": 149.28,
+   "text": "This is the work God asked of you",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.402,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 149.28,
+   "end": 152.44,
+   "text": "Believe the one He sent to you",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.402,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 176.14,
+   "end": 179.64,
+   "text": "They said our fathers ate and died",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 180.22,
+   "end": 182.54,
+   "text": "Man of felt from heaven wide",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 183.12,
+   "end": 188.34,
+   "text": "Jesus said the bread was not the living bread that God has brought",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 188.92,
+   "end": 191.22,
+   "text": "The flesh I give is life indeed",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 191.8,
+   "end": 194.3,
+   "text": "For all the world in desperate need",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 194.3,
+   "end": 197.26,
+   "text": "Some turned back and walked away",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 197.26,
+   "end": 201.58,
+   "text": "But Peter said, where else could we stay?",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 202.96,
+   "end": 206.3,
+   "text": "You have the words of life so true.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 206.64,
+   "end": 209.1,
+   "text": "We believe in though it is you.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 209.64,
+   "end": 212.3,
+   "text": "The holy ones sent down from God.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 212.54,
+   "end": 214.96,
+   "text": "Though many hearts still choose to not.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 215.54,
+   "end": 217.94,
+   "text": "Jesus said one would betray.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 218.44,
+   "end": 220.84,
+   "text": "Chosen twelve yet turn away.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 221.38,
+   "end": 224.04,
+   "text": "The words he spoke were life and breath.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.373,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 224.04,
+   "end": 228.0,
+   "text": "Spirit life not bound by death",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 229.26,
+   "end": 232.08,
+   "text": "I am the bread that came from heaven",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 232.08,
+   "end": 234.98,
+   "text": "All who eat will live forgiven",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 235.54,
+   "end": 238.22,
+   "text": "Who comes to me will hunger no more",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 238.22,
+   "end": 241.12,
+   "text": "Who believes will thirst no more",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 241.12,
+   "end": 243.94,
+   "text": "I am the bread that came from heaven",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 244.54,
+   "end": 246.82,
+   "text": "Life eternal freely given",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 247.54,
+   "end": 249.98,
+   "text": "This is the work God asked of you",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.525,
+   "track_id": "NwYKGZpyYs8#06"
+  },
+  {
+   "start": 249.98,
+   "end": 254.82,
+   "text": "Believe the one he sent to you",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.077,
+   "track_id": "NwYKGZpyYs8#06"
+  }
+ ]
+}

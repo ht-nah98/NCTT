@@ -1,0 +1,614 @@
+{
+ "track_id": "5n1cYN-yDmo#06",
+ "track_key": "5n1cYN-yDmo__06",
+ "video_id": "5n1cYN-yDmo",
+ "title": "God is Good",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 278.0,
+ "voiced_sec": 236.9,
+ "voice_ratio": 0.852,
+ "n_words": 418,
+ "words_per_min": 90.2,
+ "is_instrumental": false,
+ "n_segments": 74,
+ "n_segments_voiced": 74,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 36.9,
+ "rtf": 0.133,
+ "segments": [
+  {
+   "start": 6.22,
+   "end": 8.46,
+   "text": "Yes, he is.",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.64,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 10.7,
+   "end": 13.96,
+   "text": "Oh God, it's good all the time.",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.64,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 16.08,
+   "end": 20.0,
+   "text": "Come on and lift your hands.",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.64,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 23.88,
+   "end": 31.6,
+   "text": "Let his life wash over you, oh",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 34.56,
+   "end": 38.9,
+   "text": "Woke up this morning with breath in my chest",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 38.9,
+   "end": 43.18,
+   "text": "Didn't know how blessed I was till you whispered prayers",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 43.18,
+   "end": 47.68,
+   "text": "You held me through the midnight dried every tear",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 47.68,
+   "end": 51.9,
+   "text": "Pull me from the darkness and drew me near",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 51.9,
+   "end": 56.36,
+   "text": "When the world tried to break me, you covered my soul",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 56.36,
+   "end": 60.86,
+   "text": "Your mercy kept me standing when I've lost control",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 60.86,
+   "end": 65.38,
+   "text": "Through every valley you stayed by my side",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 65.38,
+   "end": 69.58,
+   "text": "Jesus, you're the reason I'm still alive",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 69.58,
+   "end": 71.58,
+   "text": "God is good",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 71.58,
+   "end": 73.94,
+   "text": "Oh yes, he's good",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 73.94,
+   "end": 78.2,
+   "text": "Better than I ever dreamed he would",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 78.2,
+   "end": 81.94,
+   "text": "He lifts me up, he carries me through",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 82.5,
+   "end": 86.78,
+   "text": "There's nobody faithful like you",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 86.78,
+   "end": 91.86,
+   "text": "God is good, my soul knows he's good",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 91.86,
+   "end": 95.24,
+   "text": "In the fire, in the storm, in the flood",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 95.24,
+   "end": 98.76,
+   "text": "Jesus, you've proven time and again",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 98.76,
+   "end": 99.94,
+   "text": "My Savior",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 99.94,
+   "end": 101.36,
+   "text": "My healer",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 101.36,
+   "end": 102.38,
+   "text": "My friend",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 102.38,
+   "end": 106.66,
+   "text": "Oh, oh, oh, God is good",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 108.54,
+   "end": 113.16,
+   "text": "I've walked through some battles that should've taken me out",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 113.16,
+   "end": 117.34,
+   "text": "But your love fought for me and moved every doubt",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 117.34,
+   "end": 121.74,
+   "text": "You healed my broken places with hands full of grace",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 121.74,
+   "end": 126.1,
+   "text": "Turned my mourning into worship, gave joy in its place",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 126.1,
+   "end": 130.52,
+   "text": "When I was lost and wonder too far",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 130.52,
+   "end": 134.24,
+   "text": "You pulled me from the shadows with your nail scars",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 135.02,
+   "end": 139.22,
+   "text": "You never gave up, never let go",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 140.52,
+   "end": 144.88,
+   "text": "Your love is the truth every heart should know",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 146.06,
+   "end": 148.14,
+   "text": "Oh yes, he's good",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 148.14,
+   "end": 152.24,
+   "text": "Better than I ever dreamed he would",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 152.24,
+   "end": 154.74,
+   "text": "Would he listen me up?",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 155.12,
+   "end": 156.72,
+   "text": "He carries me through",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 156.72,
+   "end": 160.66,
+   "text": "There's nobody faithful like you",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 160.66,
+   "end": 163.2,
+   "text": "God is good",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 163.72,
+   "end": 166.18,
+   "text": "My soul knows he's good",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 166.18,
+   "end": 169.36,
+   "text": "In the fire, in the storm, in the flood",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 169.36,
+   "end": 172.78,
+   "text": "Jesus, you've proven time and again",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 172.78,
+   "end": 177.16,
+   "text": "My Savior, my healer, my friend",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 177.16,
+   "end": 180.64,
+   "text": "Oh, God is good",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 180.64,
+   "end": 183.1,
+   "text": "When I think about his goodness",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 183.1,
+   "end": 185.34,
+   "text": "Goodness, goodness",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 185.34,
+   "end": 187.68,
+   "text": "All the miracles he's done",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 187.68,
+   "end": 188.74,
+   "text": "He's done it",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 188.74,
+   "end": 191.9,
+   "text": "My heart can't stay silent",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 191.9,
+   "end": 194.2,
+   "text": "No, no, no",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 194.2,
+   "end": 196.38,
+   "text": "I gotta praise the Holy One",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 196.38,
+   "end": 198.56,
+   "text": "Holy One, Holy One",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 198.56,
+   "end": 199.6,
+   "text": "He picked me up",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 199.6,
+   "end": 200.82,
+   "text": "Turned me around",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 200.82,
+   "end": 201.78,
+   "text": "He set my feet",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 201.78,
+   "end": 203.08,
+   "text": "On solid ground",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 203.08,
+   "end": 203.96,
+   "text": "Every day",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 203.96,
+   "end": 205.14,
+   "text": "In every way",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 205.14,
+   "end": 207.32,
+   "text": "Together's good",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 209.86,
+   "end": 212.56,
+   "text": "God is good",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 213.78,
+   "end": 221.68,
+   "text": "God is good, better than I ever dreamed He",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 221.68,
+   "end": 226.6,
+   "text": "Oh, He lifts me up, He carries me through",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 226.6,
+   "end": 230.62,
+   "text": "There's nobody faithful like you",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 230.62,
+   "end": 236.02,
+   "text": "God is good, yes, Lord is good",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 236.02,
+   "end": 239.18,
+   "text": "Forever and always understood",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 239.18,
+   "end": 242.96,
+   "text": "Your love is the reason I stand",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 242.96,
+   "end": 247.8,
+   "text": "Holding tight to your nails, God hands",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 247.8,
+   "end": 250.58,
+   "text": "Oh God is good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 251.18,
+   "end": 253.38,
+   "text": "Yes, he is",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 253.38,
+   "end": 254.38,
+   "text": "So good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 255.18,
+   "end": 256.42,
+   "text": "So good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 257.18,
+   "end": 259.36,
+   "text": "God is good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 260.18,
+   "end": 261.7,
+   "text": "All the time",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 261.7,
+   "end": 264.18,
+   "text": "All the time",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06"
+  },
+  {
+   "start": 264.18,
+   "end": 267.7,
+   "text": "God is love",
+   "avg_logprob": -1.095,
+   "no_speech_prob": 0.153,
+   "track_id": "5n1cYN-yDmo#06"
+  }
+ ]
+}

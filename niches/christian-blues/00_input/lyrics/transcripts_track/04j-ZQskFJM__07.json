@@ -1,0 +1,190 @@
+{
+ "track_id": "04j-ZQskFJM#07",
+ "track_key": "04j-ZQskFJM__07",
+ "video_id": "04j-ZQskFJM",
+ "title": "7. Psalm 13 – How Long, O Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 199.0,
+ "voiced_sec": 146.3,
+ "voice_ratio": 0.735,
+ "n_words": 164,
+ "words_per_min": 49.4,
+ "is_instrumental": false,
+ "n_segments": 21,
+ "n_segments_voiced": 21,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.2,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 13.04,
+   "end": 20.68,
+   "text": "How long, oh Lord, will you hide your face?",
+   "avg_logprob": -0.746,
+   "no_speech_prob": 0.601,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 20.68,
+   "end": 27.76,
+   "text": "I've been searching night and day for grace",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.612,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 28.36,
+   "end": 35.2,
+   "text": "Sorrow in my heart, tears in my bed",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.612,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 35.2,
+   "end": 41.14,
+   "text": "Enemies laughing, thinking I'm dead",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.612,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 42.36,
+   "end": 49.64,
+   "text": "But I will trust in your unfailing love",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.612,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 49.64,
+   "end": 56.5,
+   "text": "Though I'm down low, you lift me up above",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.63,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 57.64,
+   "end": 64.0,
+   "text": "My heart will sing, yes I still rejoice",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.63,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 64.64,
+   "end": 70.84,
+   "text": "Even in silence I hear your voice",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.63,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 78.18,
+   "end": 84.88,
+   "text": "How long must I wrestle with this pain?",
+   "avg_logprob": -0.573,
+   "no_speech_prob": 0.703,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 86.92,
+   "end": 92.52,
+   "text": "Feeling forgotten in the pouring rain?",
+   "avg_logprob": -0.573,
+   "no_speech_prob": 0.703,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 92.52,
+   "end": 99.3,
+   "text": "Eyes grow weary, soul feels torn",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.591,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 100.52,
+   "end": 106.5,
+   "text": "Still I remember why I was born",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.591,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 107.52,
+   "end": 113.5,
+   "text": "Look on me, Lord, give light to my eyes",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.591,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 115.06,
+   "end": 120.42,
+   "text": "Don't let death be my last disguise",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.591,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 120.42,
+   "end": 134.9,
+   "text": "Let them not say he's lost the fight I'll rise again in mercy's light",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.756,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 134.9,
+   "end": 143.52,
+   "text": "But I will trust in your unfailing love",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.77,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 143.52,
+   "end": 149.56,
+   "text": "Though I'm down low, you lift me above",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.77,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 150.9,
+   "end": 157.34,
+   "text": "My heart will sing, yes I still rejoice",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.77,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 157.34,
+   "end": 164.4,
+   "text": "Even in silence I hear your voice",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.715,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 164.4,
+   "end": 171.82,
+   "text": "I will praise you for all you've done",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.715,
+   "track_id": "04j-ZQskFJM#07"
+  },
+  {
+   "start": 172.34,
+   "end": 177.98,
+   "text": "Even in blues the battle's won",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.715,
+   "track_id": "04j-ZQskFJM#07"
+  }
+ ]
+}

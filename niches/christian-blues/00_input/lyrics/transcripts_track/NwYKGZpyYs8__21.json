@@ -1,0 +1,566 @@
+{
+ "track_id": "NwYKGZpyYs8#21",
+ "track_key": "NwYKGZpyYs8__21",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Follow Me (John 21)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 260.7,
+ "voiced_sec": 218.5,
+ "voice_ratio": 0.838,
+ "n_words": 484,
+ "words_per_min": 111.4,
+ "is_instrumental": false,
+ "n_segments": 68,
+ "n_segments_voiced": 68,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 16.2,
+ "rtf": 0.062,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.68,
+   "text": "Jesus showed himself again by the sea of Galilee.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 8.1,
+   "end": 12.96,
+   "text": "Simon Peter said to them, I am going now to fish.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 14.32,
+   "end": 17.32,
+   "text": "They said, we will go with you.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 18.02,
+   "end": 19.8,
+   "text": "They went out through the night.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 21.0,
+   "end": 26.78,
+   "text": "They caught nothing in the dark till the morning light.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 26.78,
+   "end": 30.1,
+   "text": "Cast the net on the other side.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 30.78,
+   "end": 32.88,
+   "text": "You will find a bread supply.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 33.68,
+   "end": 36.04,
+   "text": "At your word we will obey.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 36.46,
+   "end": 38.32,
+   "text": "And the nets begin to break.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 39.82,
+   "end": 41.82,
+   "text": "Jesus stood upon the shore.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 42.62,
+   "end": 44.78,
+   "text": "They did not know it was him.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 46.16,
+   "end": 48.24,
+   "text": "He said, children, have you any fish?",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 49.16,
+   "end": 50.82,
+   "text": "They answered no to him.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 51.46,
+   "end": 54.04,
+   "text": "He said, cast the net to the right.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.601,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 54.04,
+   "end": 56.94,
+   "text": "And you will surely find",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 58.04,
+   "end": 60.54,
+   "text": "They ought to catch they could not hold",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 60.54,
+   "end": 63.28,
+   "text": "By strength of our more line",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 63.28,
+   "end": 66.4,
+   "text": "Cast the net on the other side",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 66.4,
+   "end": 69.28,
+   "text": "You will find a great supply",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 69.28,
+   "end": 72.32,
+   "text": "At your word we will obey",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 72.32,
+   "end": 74.6,
+   "text": "And the nets begin to rain",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 75.86,
+   "end": 78.32,
+   "text": "The disciple Jesus love",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 79.04,
+   "end": 81.3,
+   "text": "Said it is the Lord",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.729,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 81.3,
+   "end": 87.12,
+   "text": "Peter put his outer garment on and rushed into the water.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 87.94,
+   "end": 93.02,
+   "text": "The others came with heaviness, full of fish ashore.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 93.44,
+   "end": 99.56,
+   "text": "They saw fire with fish and bread, prepared by Christ the Lord.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 100.28,
+   "end": 102.48,
+   "text": "Cast the net on the other side.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 103.54,
+   "end": 105.54,
+   "text": "You will find a grace reply.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 105.88,
+   "end": 110.74,
+   "text": "At your word we will obey, and the nets begin to break.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 112.14,
+   "end": 114.66,
+   "text": "Jesus said bring some of the fish",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 114.66,
+   "end": 117.24,
+   "text": "That you have just caught today",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 118.26,
+   "end": 120.86,
+   "text": "Simon Peter, hold the net",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 122.22,
+   "end": 122.98,
+   "text": "153",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 123.7,
+   "end": 126.4,
+   "text": "Though the net was full and stretched",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 126.4,
+   "end": 129.26,
+   "text": "It was not torn apart",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 129.26,
+   "end": 132.34,
+   "text": "Jesus said come and eat with me",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 132.34,
+   "end": 135.8,
+   "text": "And they knew it was the Lord",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 137.54,
+   "end": 140.24,
+   "text": "Cast the net on the other side",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.719,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 140.24,
+   "end": 146.26,
+   "text": "You will find a great supply At your word we will obey",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.642,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 146.26,
+   "end": 148.66,
+   "text": "And the necks begin to break",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.642,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 149.82,
+   "end": 155.38,
+   "text": "After breakfast Jesus spoke Simon Peter come to me",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.642,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 155.38,
+   "end": 160.94,
+   "text": "Do you love me more than these? Peter said, Lord you know",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.642,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 160.94,
+   "end": 166.5,
+   "text": "Feed my lambs, Jesus said Do you love me still?",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.642,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 166.5,
+   "end": 170.32,
+   "text": "Peter said, Lord, you know I do.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 170.72,
+   "end": 173.42,
+   "text": "Jesus said, tear my sheep.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 174.16,
+   "end": 176.5,
+   "text": "Cast the net on the other side.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 177.58,
+   "end": 179.46,
+   "text": "You will find a great supply.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 180.04,
+   "end": 182.5,
+   "text": "At your word, we will obey.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 183.02,
+   "end": 184.78,
+   "text": "And the nest begins to break.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 186.48,
+   "end": 191.38,
+   "text": "A third time Jesus asked Him, Simon, do you love me now?",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 192.08,
+   "end": 194.74,
+   "text": "Peter was grieved and answered Him.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.612,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 194.74,
+   "end": 199.98,
+   "text": "Lord you know all things, you know that I love you",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 199.98,
+   "end": 203.38,
+   "text": "Jesus said, feed my sheep",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 203.38,
+   "end": 206.48,
+   "text": "When you were young you went your way",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 206.48,
+   "end": 209.66,
+   "text": "When old another leaves",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 210.24,
+   "end": 212.74,
+   "text": "Cast the net on the other side",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 212.74,
+   "end": 215.74,
+   "text": "You will find a great supply",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 215.74,
+   "end": 218.72,
+   "text": "At your word we will obey",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 218.72,
+   "end": 221.06,
+   "text": "And the nets begin to break",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 222.38,
+   "end": 227.86,
+   "text": "Jesus said to Peter, follow me from now on.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 229.06,
+   "end": 230.88,
+   "text": "Peter turned and saw the one.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 231.68,
+   "end": 233.06,
+   "text": "Jesus still in love.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 234.04,
+   "end": 236.42,
+   "text": "He said, Lord, what about this man?",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 237.6,
+   "end": 239.4,
+   "text": "Jesus answered clear.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 240.14,
+   "end": 246.14,
+   "text": "If I want him to remain, what is that to you?",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 248.12,
+   "end": 250.38,
+   "text": "Cast the net on the other side.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 250.38,
+   "end": 256.42,
+   "text": "You will find a great supply At your word we will obey",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#21"
+  },
+  {
+   "start": 256.42,
+   "end": 258.68,
+   "text": "And the nests begin to break",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#21"
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "track_id": "sGjecIPJalE#14",
+ "track_key": "sGjecIPJalE__14",
+ "video_id": "sGjecIPJalE",
+ "title": "Your Faith Has Made You Well (Matthew 9)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 208.0,
+ "voiced_sec": 158.2,
+ "voice_ratio": 0.761,
+ "n_words": 279,
+ "words_per_min": 80.5,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 39,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.4,
+ "rtf": 0.055,
+ "segments": [
+  {
+   "start": 10.76,
+   "end": 20.28,
+   "text": "A woman came in the crowd that day, 12 long years in pain.",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.385,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 21.6,
+   "end": 30.2,
+   "text": "She spent her all on doctors hands But healing never came",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.391,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 32.72,
+   "end": 40.34,
+   "text": "She said within her heart so still If I touch his robe I'll be free",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.391,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 42.2,
+   "end": 46.2,
+   "text": "She pressed her way through fear and doubt",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 47.38,
+   "end": 50.74,
+   "text": "And reached her hand to me",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 52.14,
+   "end": 54.04,
+   "text": "Who touched me?",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 54.44,
+   "end": 56.16,
+   "text": "I felt the power flow",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 56.16,
+   "end": 59.0,
+   "text": "Through faith that made her whole",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 59.0,
+   "end": 61.5,
+   "text": "Daughter, your faith has made you well",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 61.5,
+   "end": 64.16,
+   "text": "Peace be upon your soul",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 64.16,
+   "end": 66.64,
+   "text": "Go and peace be healed this day",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 66.64,
+   "end": 69.4,
+   "text": "From the pain that once held you down",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 69.4,
+   "end": 71.84,
+   "text": "Your faith has made you well",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 71.84,
+   "end": 74.68,
+   "text": "Your joy and strength are found",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 83.24,
+   "end": 87.3,
+   "text": "She trembled there before my feet",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 88.54,
+   "end": 92.6,
+   "text": "And told me all she'd done",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 93.64,
+   "end": 97.4,
+   "text": "How hope had sparked inside her heart",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 97.4,
+   "end": 102.06,
+   "text": "And healing had begun",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 103.46,
+   "end": 107.12,
+   "text": "I looked on her with love divine",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 108.62,
+   "end": 112.62,
+   "text": "Her tears fell to the ground",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 114.14,
+   "end": 117.94,
+   "text": "Daughter, your faith has made you well",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 117.94,
+   "end": 123.18,
+   "text": "Those words, the angels crowned",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 123.18,
+   "end": 125.9,
+   "text": "Who touched me?",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 126.2,
+   "end": 127.86,
+   "text": "I felt the power flow",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 127.86,
+   "end": 130.76,
+   "text": "Through faith that made her whole",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 130.76,
+   "end": 133.12,
+   "text": "Daughter your faith has made you well",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 133.12,
+   "end": 135.88,
+   "text": "Peace be upon your soul",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 135.88,
+   "end": 138.36,
+   "text": "Growing peace be healed this day",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 138.36,
+   "end": 141.1,
+   "text": "From the pain that once held you down",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 141.1,
+   "end": 143.48,
+   "text": "Your faith has made you well",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 143.48,
+   "end": 146.18,
+   "text": "Your joy and strength are found",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 146.18,
+   "end": 148.82,
+   "text": "I felt the power flow",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 153.72,
+   "end": 161.96,
+   "text": "Peace be upon your soul, from the pain that once held you down.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 162.42,
+   "end": 164.34,
+   "text": "Your faith has made you well.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 166.38,
+   "end": 169.3,
+   "text": "Powerful, her chains were gone.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 170.82,
+   "end": 174.38,
+   "text": "Faith rose where fear had been.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 174.38,
+   "end": 184.66,
+   "text": "What no man's hand could ever do Her touch brought healing in",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 186.1,
+   "end": 194.68,
+   "text": "Daughter, your faith has made you well Go in peace forever free",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#14"
+  },
+  {
+   "start": 195.86,
+   "end": 204.76,
+   "text": "Your faith has made you whole I said she reached in faith to me",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.318,
+   "track_id": "sGjecIPJalE#14"
+  }
+ ]
+}

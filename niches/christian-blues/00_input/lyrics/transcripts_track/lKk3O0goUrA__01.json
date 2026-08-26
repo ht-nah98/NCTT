@@ -1,0 +1,430 @@
+{
+ "track_id": "lKk3O0goUrA#01",
+ "track_key": "lKk3O0goUrA__01",
+ "video_id": "lKk3O0goUrA",
+ "title": "You Never Let Me Go",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 374.0,
+ "voiced_sec": 259.2,
+ "voice_ratio": 0.693,
+ "n_words": 349,
+ "words_per_min": 56.0,
+ "is_instrumental": false,
+ "n_segments": 51,
+ "n_segments_voiced": 51,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 16.6,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 16.06,
+   "end": 16.98,
+   "text": "I'm not going to be a stranger to you.",
+   "avg_logprob": -0.864,
+   "no_speech_prob": 0.276,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 16.98,
+   "end": 17.16,
+   "text": "I'm not going to be a stranger to you.",
+   "avg_logprob": -0.864,
+   "no_speech_prob": 0.276,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 17.16,
+   "end": 18.22,
+   "text": "Lord, I thank You.",
+   "avg_logprob": -0.864,
+   "no_speech_prob": 0.276,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 21.0,
+   "end": 23.36,
+   "text": "I should have been lost.",
+   "avg_logprob": -0.864,
+   "no_speech_prob": 0.276,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 26.3,
+   "end": 30.16,
+   "text": "But you never let me go",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.641,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 36.02,
+   "end": 41.22,
+   "text": "No, there were nights I almost gave up",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.641,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 44.4,
+   "end": 47.78,
+   "text": "Thought I'd never see the day",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.641,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 51.68,
+   "end": 62.46,
+   "text": "But you held me in my weakness And you carried me all the way",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.419,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 65.78,
+   "end": 76.52,
+   "text": "Every time I felt unworthy You reminded me of grace",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.289,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 79.94,
+   "end": 90.88,
+   "text": "And you read me in your mercy Till I saw your smiling face",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.289,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 90.88,
+   "end": 99.5,
+   "text": "Even when I ran from Your presence Your love still found me there",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.486,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 99.5,
+   "end": 106.76,
+   "text": "Now I'll give You all of my worship For the mercy You always share",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.486,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 109.96,
+   "end": 114.88,
+   "text": "You never let me go",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.486,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 114.88,
+   "end": 117.28,
+   "text": "Never let me go",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 117.92,
+   "end": 120.98,
+   "text": "You kept me through it all",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 122.0,
+   "end": 124.38,
+   "text": "Through it all",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 125.04,
+   "end": 128.06,
+   "text": "When I couldn't stand alone",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 128.96,
+   "end": 131.28,
+   "text": "Stand alone",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 132.16,
+   "end": 134.98,
+   "text": "You heard my every call",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 136.32,
+   "end": 138.6,
+   "text": "Every call",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 139.76,
+   "end": 140.38,
+   "text": "Oh",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.555,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 142.98,
+   "end": 149.26,
+   "text": "Thank you Lord, you never let me go",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.396,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 152.1,
+   "end": 157.02,
+   "text": "I can't count the times you saved me",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.396,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 159.78,
+   "end": 163.62,
+   "text": "When my faith was growing thin",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.396,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 166.4,
+   "end": 178.04,
+   "text": "You turned ashes into beauty And gave me hope again",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.465,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 180.82,
+   "end": 192.48,
+   "text": "So I'll lift my hands and surrender And I'll bow before your throne",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.466,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 195.02,
+   "end": 206.54,
+   "text": "Cause no matter where life takes me I'll never walk alone",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.455,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 211.04,
+   "end": 218.52,
+   "text": "Through every trial and valley You've been my dearest friend",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.455,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 218.52,
+   "end": 226.88,
+   "text": "And I know you walk beside me until my journey's end",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 229.52,
+   "end": 236.28,
+   "text": "You never let me go, never let me go",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 236.28,
+   "end": 243.52,
+   "text": "You kept me through it all, through it all",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 243.62,
+   "end": 250.42,
+   "text": "When I couldn't stand alone, stand alone",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.509,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 250.42,
+   "end": 257.8,
+   "text": "You heard my every call, every call",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.509,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 258.62,
+   "end": 264.44,
+   "text": "Oh, thank You Lord",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.509,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 264.44,
+   "end": 268.16,
+   "text": "You never let me go",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.509,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 271.66,
+   "end": 279.78,
+   "text": "You saved me You saved me",
+   "avg_logprob": -0.622,
+   "no_speech_prob": 0.326,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 279.78,
+   "end": 283.32,
+   "text": "You kept me You kept me",
+   "avg_logprob": -0.622,
+   "no_speech_prob": 0.326,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 283.32,
+   "end": 289.8,
+   "text": "You never let me go Never let me go",
+   "avg_logprob": -0.622,
+   "no_speech_prob": 0.326,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 293.3,
+   "end": 298.14,
+   "text": "Thank you Jesus For holding me in your arms",
+   "avg_logprob": -0.622,
+   "no_speech_prob": 0.326,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 298.14,
+   "end": 300.0,
+   "text": "Holding me close",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 300.78,
+   "end": 303.94,
+   "text": "You never let me go",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 304.86,
+   "end": 306.86,
+   "text": "Never let me go",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 307.48,
+   "end": 310.7,
+   "text": "You kept me through it all",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 312.02,
+   "end": 314.64,
+   "text": "Through it all",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 314.64,
+   "end": 318.24,
+   "text": "When I couldn't stand alone",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 319.1,
+   "end": 321.5,
+   "text": "Stand alone",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 322.14,
+   "end": 325.3,
+   "text": "You hurt my every call",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.791,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 333.0,
+   "end": 339.44,
+   "text": "Thank you Lord, you never let me go",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.658,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 340.3,
+   "end": 346.66,
+   "text": "Thank you Jesus, for never letting me go",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.658,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 349.88,
+   "end": 353.56,
+   "text": "I worship you forever",
+   "avg_logprob": -0.707,
+   "no_speech_prob": 0.468,
+   "track_id": "lKk3O0goUrA#01"
+  },
+  {
+   "start": 359.9,
+   "end": 365.04,
+   "text": "Never let me go",
+   "avg_logprob": -0.707,
+   "no_speech_prob": 0.468,
+   "track_id": "lKk3O0goUrA#01"
+  }
+ ]
+}

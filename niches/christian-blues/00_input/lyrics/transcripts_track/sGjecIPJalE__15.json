@@ -1,0 +1,278 @@
+{
+ "track_id": "sGjecIPJalE#15",
+ "track_key": "sGjecIPJalE__15",
+ "video_id": "sGjecIPJalE",
+ "title": "The John 17 Prayer (John 17)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 200.8,
+ "voiced_sec": 117.0,
+ "voice_ratio": 0.582,
+ "n_words": 241,
+ "words_per_min": 72.0,
+ "is_instrumental": false,
+ "n_segments": 32,
+ "n_segments_voiced": 28,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.4,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.86,
+   "text": "I said she reached in faith to me",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 8.46,
+   "end": 12.14,
+   "text": "Father the hours come",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 15.2,
+   "end": 16.86,
+   "text": "Glorify your son",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 19.2,
+   "end": 25.74,
+   "text": "That the Sun may glorify you you have given them power",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 27.7,
+   "end": 36.52,
+   "text": "Overall flesh and all To give eternal life to all you've caught",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.646,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 38.3,
+   "end": 46.56,
+   "text": "This is eternal life They know you, the only true God",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.646,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 46.56,
+   "end": 49.96,
+   "text": "And Jesus Christ whom you have sent",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 49.96,
+   "end": 54.88,
+   "text": "Glorify me in your own presence",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 55.56,
+   "end": 59.12,
+   "text": "With the glory I had with you",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 60.06,
+   "end": 62.38,
+   "text": "Before the world began",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 64.32,
+   "end": 68.0,
+   "text": "I have manifested your name",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 69.16,
+   "end": 72.6,
+   "text": "To the people you gave me",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 74.72,
+   "end": 76.94,
+   "text": "They have kept Your Word",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 78.8,
+   "end": 83.04,
+   "text": "Now they know all is from Thee",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 83.04,
+   "end": 86.26,
+   "text": "I pray for them, not for the world",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 88.1,
+   "end": 90.74,
+   "text": "But for those You gave to me",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 92.86,
+   "end": 97.1,
+   "text": "All mine are Yours and Yours are mine",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 97.1,
+   "end": 101.78,
+   "text": "And I am glorified in them.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.8,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 102.08,
+   "end": 111.28,
+   "text": "This is eternal life that they know you, the only true God.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.8,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 111.84,
+   "end": 119.64,
+   "text": "In Jesus Christ whom you have sent, glorify me in your own presence.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.8,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 119.64,
+   "end": 127.0,
+   "text": "with the glory I had with you before the world began",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 132.56,
+   "end": 135.8,
+   "text": "Holy Father keep them in Your name",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 136.68,
+   "end": 140.38,
+   "text": "that they may be one as we are one",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 142.08,
+   "end": 145.44,
+   "text": "sanctify them in the truth Your Word is true",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 145.44,
+   "end": 149.96,
+   "text": "As you sent me into the world so I have sent them to",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 153.34,
+   "end": 156.88,
+   "text": "Father, I desire that they be with me",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 157.8,
+   "end": 161.2,
+   "text": "Where I am to see my glory",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 162.22,
+   "end": 165.1,
+   "text": "The love you gave before the world",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 165.1,
+   "end": 168.46,
+   "text": "That love may be in them",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 169.22,
+   "end": 170.74,
+   "text": "And I in them",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 170.74,
+   "end": 173.6,
+   "text": "That love may be in them",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15"
+  },
+  {
+   "start": 175.94,
+   "end": 177.44,
+   "text": "And I am them",
+   "avg_logprob": -0.608,
+   "no_speech_prob": 0.513,
+   "track_id": "sGjecIPJalE#15"
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "track_id": "ODr3aDcsuNA#02",
+ "track_key": "ODr3aDcsuNA__02",
+ "video_id": "ODr3aDcsuNA",
+ "title": "2. Psalm 91 – Under His Wings",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 206.0,
+ "voiced_sec": 124.7,
+ "voice_ratio": 0.606,
+ "n_words": 151,
+ "words_per_min": 44.0,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 20.8,
+ "rtf": 0.101,
+ "segments": [
+  {
+   "start": 21.9,
+   "end": 27.34,
+   "text": "He who dwells in the secret place,",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.679,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 27.34,
+   "end": 33.22,
+   "text": "Of the most high-wrapped and gray",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.704,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 35.52,
+   "end": 41.26,
+   "text": "Rest in the shadows, safe and still",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.704,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 41.26,
+   "end": 45.82,
+   "text": "While the world outside keeps growing ill",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.704,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 46.34,
+   "end": 51.92,
+   "text": "Under his wings, I'm not afraid",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.704,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 51.92,
+   "end": 64.78,
+   "text": "Night may fall, but I won't fade A thousand falling, ten thousand more",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.567,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 66.92,
+   "end": 78.36,
+   "text": "But I won't knock on my door He is my refuge, my fortress strong",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.567,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 78.36,
+   "end": 82.52,
+   "text": "My God in whom I belong",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.724,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 84.78,
+   "end": 90.86,
+   "text": "He sent His angels to guard my way",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.724,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 90.86,
+   "end": 94.68,
+   "text": "So I can walk through fire and stay",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.724,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 97.1,
+   "end": 102.66,
+   "text": "No evil will touch, no plague draw near",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.724,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 102.66,
+   "end": 108.78,
+   "text": "He speaks my name, I have no fear",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.749,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 108.78,
+   "end": 114.44,
+   "text": "With long life, he'll satisfy",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.749,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 114.44,
+   "end": 121.42,
+   "text": "And show salvation before I die",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.749,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 123.22,
+   "end": 128.44,
+   "text": "Under his wings, I'm not afraid",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.749,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 128.44,
+   "end": 141.22,
+   "text": "Night may fall, but I won't fade A thousand fall and ten thousand more",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.576,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 141.22,
+   "end": 147.14,
+   "text": "But I won't knock on my door",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.609,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 172.4,
+   "end": 183.34,
+   "text": "Here's my shelter, my song, my stage And I'll keep singing, come what may",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.334,
+   "track_id": "ODr3aDcsuNA#02"
+  },
+  {
+   "start": 204.5,
+   "end": 205.9,
+   "text": "you",
+   "avg_logprob": -0.666,
+   "no_speech_prob": 0.878,
+   "track_id": "ODr3aDcsuNA#02"
+  }
+ ]
+}

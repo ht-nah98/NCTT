@@ -1,0 +1,638 @@
+{
+ "track_id": "Ss0pA-Cw8V0#09",
+ "track_key": "Ss0pA-Cw8V0__09",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "He Dried My Tears",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 236.0,
+ "voiced_sec": 217.3,
+ "voice_ratio": 0.921,
+ "n_words": 506,
+ "words_per_min": 128.7,
+ "is_instrumental": false,
+ "n_segments": 77,
+ "n_segments_voiced": 77,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 25.7,
+ "rtf": 0.109,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.16,
+   "text": "I'm your hope, a gyro, my provider, my king",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.191,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 6.0,
+   "end": 13.54,
+   "text": "I use all your teeth",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.191,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 16.0,
+   "end": 20.34,
+   "text": "Every broken heart of me",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.191,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 22.0,
+   "end": 25.38,
+   "text": "And still you love me",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.191,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 26.0,
+   "end": 27.12,
+   "text": "Thank you",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.191,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 28.02,
+   "end": 31.64,
+   "text": "Ooh, oh, oh, oh, yeah",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 31.64,
+   "end": 34.3,
+   "text": "I was shattered, heart heavy like waste",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 34.3,
+   "end": 36.96,
+   "text": "Nights full of fear, days full of mistakes",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 36.96,
+   "end": 39.84,
+   "text": "Pain in my chest, I was drowning in shame",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 39.84,
+   "end": 42.74,
+   "text": "But you pulled me up when I called on your name",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 42.74,
+   "end": 45.62,
+   "text": "I was stuck in my thoughts, couldn't break free",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 45.62,
+   "end": 48.34,
+   "text": "Then you wiped my eyes so I finally could see",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 48.34,
+   "end": 51.2,
+   "text": "You held me close while I fall through the years",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 51.2,
+   "end": 54.08,
+   "text": "Your love like rain, Lord, you drive my tears",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.501,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 54.08,
+   "end": 63.6,
+   "text": "Hold on, he's close, he's near, don't fear",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.52,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 63.6,
+   "end": 66.5,
+   "text": "He dried my tears when I was broken",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.52,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 67.08,
+   "end": 69.72,
+   "text": "He healed my heart with just one word spoken",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.52,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 69.72,
+   "end": 72.38,
+   "text": "Jesus held me through the pain and the fears",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.52,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 72.38,
+   "end": 75.2,
+   "text": "Grace overflowed, yeah he dried my tears",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.52,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 75.2,
+   "end": 77.9,
+   "text": "He dried my tears, made the storm disappear",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.52,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 77.9,
+   "end": 80.82,
+   "text": "Even in darkness I knew he was near",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.52,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 80.82,
+   "end": 83.72,
+   "text": "Mercy and love taking over my years",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 83.72,
+   "end": 85.22,
+   "text": "Jesus my savior",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 85.78,
+   "end": 87.96,
+   "text": "He tried my life",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 88.46,
+   "end": 90.58,
+   "text": "I remember those nights on the floor",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 90.58,
+   "end": 93.5,
+   "text": "Crying out God I can't do this no more",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 93.5,
+   "end": 96.32,
+   "text": "But you pulled me back gave me strength in the war",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 96.32,
+   "end": 98.94,
+   "text": "Taught me I'm chosen I'm broken apart",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 98.94,
+   "end": 101.96,
+   "text": "I give you everything my life my praise",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 101.96,
+   "end": 104.76,
+   "text": "You turn my sorrow into venturi days",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 104.76,
+   "end": 107.38,
+   "text": "Every battle I fought brought me closer to you",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 107.38,
+   "end": 110.4,
+   "text": "Now my soul shining through like life breaking through",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.456,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 110.4,
+   "end": 111.88,
+   "text": "You wipe my eyes",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 111.88,
+   "end": 113.28,
+   "text": "He dried my tears",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 113.28,
+   "end": 114.7,
+   "text": "You change my life",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 114.7,
+   "end": 116.16,
+   "text": "He called my fear",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 116.16,
+   "end": 117.38,
+   "text": "You help me type",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 117.38,
+   "end": 119.38,
+   "text": "You drew me near",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 120.26,
+   "end": 122.86,
+   "text": "He dried my tears when I was broken",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 123.5,
+   "end": 126.14,
+   "text": "He healed my heart with just one word spoken",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 126.14,
+   "end": 128.78,
+   "text": "Jesus held me through the pain and the fist",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 128.78,
+   "end": 131.6,
+   "text": "Grace overflowed, yeah, he dried my tears",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 131.6,
+   "end": 134.3,
+   "text": "He dried my tears, made the storm disappear",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 134.3,
+   "end": 137.22,
+   "text": "Even in darkness, I knew he was here",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.348,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 137.22,
+   "end": 140.08,
+   "text": "Mercy and love taken over my years",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 140.08,
+   "end": 141.66,
+   "text": "Jesus my savior",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 141.66,
+   "end": 145.04,
+   "text": "We tried my tears",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 145.04,
+   "end": 147.38,
+   "text": "Every tear became a seed for joy",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 148.28,
+   "end": 150.56,
+   "text": "Every heartbreak became a testimony",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 151.58,
+   "end": 153.42,
+   "text": "Every valley made me stronger",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 153.42,
+   "end": 155.2,
+   "text": "His love didn't just touch my pain",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 156.22,
+   "end": 158.28,
+   "text": "He transformed it",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 158.28,
+   "end": 162.08,
+   "text": "Joy comes in the morning",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 162.08,
+   "end": 164.14,
+   "text": "Joy comes",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 164.14,
+   "end": 165.56,
+   "text": "Joy comes",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.168,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 165.56,
+   "end": 166.88,
+   "text": "Join us.",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 167.5,
+   "end": 170.0,
+   "text": "Now I walk in purpose, now I walk in peace",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 170.0,
+   "end": 172.72,
+   "text": "Grace unlocked chains and gave my soul release",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 172.72,
+   "end": 175.62,
+   "text": "He took the pressure, turned it into strength",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 175.62,
+   "end": 178.4,
+   "text": "He turned my sorrow into heaven sent",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 178.4,
+   "end": 181.28,
+   "text": "Now I praise through the hurt, praise through the pain",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 181.28,
+   "end": 184.08,
+   "text": "Praise in the sunshine, praise in the rain",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 184.08,
+   "end": 186.92,
+   "text": "With tears wiped clean, I got nothing to fear",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 186.92,
+   "end": 188.3,
+   "text": "Jesus came through",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 188.3,
+   "end": 190.66,
+   "text": "He dried my tears when I was broken",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 190.66,
+   "end": 193.82,
+   "text": "He healed my heart with just one word spoken",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 193.82,
+   "end": 196.48,
+   "text": "Jesus held me through the pain and the fears",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 196.48,
+   "end": 199.32,
+   "text": "Grace overflowed, yeah, he dried my tears",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 199.32,
+   "end": 201.92,
+   "text": "He dried my tears, made the storm disappear",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 201.92,
+   "end": 204.9,
+   "text": "Even in darkness, I knew he was near",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 204.9,
+   "end": 207.82,
+   "text": "Mercy and love taken over my years",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 207.82,
+   "end": 209.28,
+   "text": "Jesus, my savior",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 210.28,
+   "end": 212.9,
+   "text": "He dried my tears",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 215.74,
+   "end": 218.44,
+   "text": "He dried my tears",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.322,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 220.08,
+   "end": 224.36,
+   "text": "I need drive-on-stay",
+   "avg_logprob": -0.603,
+   "no_speech_prob": 0.689,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 224.36,
+   "end": 230.8,
+   "text": "I need drive-on-stay",
+   "avg_logprob": -0.603,
+   "no_speech_prob": 0.689,
+   "track_id": "Ss0pA-Cw8V0#09"
+  },
+  {
+   "start": 230.8,
+   "end": 235.94,
+   "text": "I need drive-on-stay",
+   "avg_logprob": -0.603,
+   "no_speech_prob": 0.689,
+   "track_id": "Ss0pA-Cw8V0#09"
+  }
+ ]
+}

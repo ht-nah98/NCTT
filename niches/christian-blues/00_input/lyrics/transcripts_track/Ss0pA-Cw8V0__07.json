@@ -1,0 +1,470 @@
+{
+ "track_id": "Ss0pA-Cw8V0#07",
+ "track_key": "Ss0pA-Cw8V0__07",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "I Need An Angel",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 204.0,
+ "voiced_sec": 166.4,
+ "voice_ratio": 0.816,
+ "n_words": 387,
+ "words_per_min": 113.8,
+ "is_instrumental": false,
+ "n_segments": 56,
+ "n_segments_voiced": 56,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.0,
+ "rtf": 0.059,
+ "segments": [
+  {
+   "start": 12.2,
+   "end": 16.0,
+   "text": "I need you right now",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.646,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 16.6,
+   "end": 20.0,
+   "text": "Help me hear me",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.646,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 20.94,
+   "end": 26.86,
+   "text": "Save me",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.646,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 28.24,
+   "end": 31.96,
+   "text": "I've been walking through the fire, scars on my soul",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 32.64,
+   "end": 35.4,
+   "text": "Carryin' away the very story I'm told",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 35.4,
+   "end": 39.0,
+   "text": "Tears hit the floor, there ain't when it falls",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 39.0,
+   "end": 42.54,
+   "text": "I'm tryin' to stand, but I stumble and crawl",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 42.54,
+   "end": 44.24,
+   "text": "Told everybody I'm fine, but I'm not",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 44.24,
+   "end": 46.14,
+   "text": "I'm drownin' inside and I'm losin' my spine",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 46.14,
+   "end": 47.9,
+   "text": "I don't need fame, don't need money or things",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 47.9,
+   "end": 49.76,
+   "text": "I just need peace that your presence brings",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 49.76,
+   "end": 51.98,
+   "text": "I'm broken, but I'm still holdin' on",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 51.98,
+   "end": 53.68,
+   "text": "Lost in the night, but I'm long and for done",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.736,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 53.68,
+   "end": 55.5,
+   "text": "Lord, I'm tired of being strong on my own",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.213,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 55.5,
+   "end": 57.88,
+   "text": "I need Your voice and You're not alone",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.213,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 60.64,
+   "end": 67.1,
+   "text": "I need an angel to come down and rescue me",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.213,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 67.8,
+   "end": 74.18,
+   "text": "I need Your love, Lord, to hold me and set me free",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.213,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 74.96,
+   "end": 78.3,
+   "text": "When I feel broken, You're the hope I claim",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.213,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 78.96,
+   "end": 81.98,
+   "text": "Grab me in Your mercy and the shadow of Your wing",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.213,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 81.98,
+   "end": 87.26,
+   "text": "I need an angel Show me grace, let your healing begin",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.616,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 89.2,
+   "end": 93.54,
+   "text": "Everybody see the smile But not the pain inside",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.616,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 94.18,
+   "end": 98.08,
+   "text": "They don't see the sleep as nice when I cry But you do",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.616,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 98.74,
+   "end": 103.78,
+   "text": "You saw every tear I shed You held me together when I messed up",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.616,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 103.78,
+   "end": 106.2,
+   "text": "Instead I tried running from your love",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.616,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 106.2,
+   "end": 108.82,
+   "text": "But you stayed I pushed you away",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.616,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 108.82,
+   "end": 110.62,
+   "text": "Still you never walked away",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 110.62,
+   "end": 112.46,
+   "text": "Pray so deep",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 112.46,
+   "end": 114.32,
+   "text": "It covers my shame",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 114.32,
+   "end": 116.26,
+   "text": "You pulled me from darkness",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 116.82,
+   "end": 117.88,
+   "text": "Called me by name",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 117.88,
+   "end": 121.16,
+   "text": "Lord I surrender I can't run anymore",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 121.82,
+   "end": 125.02,
+   "text": "I lay down my fears at the foot of your door",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 125.02,
+   "end": 127.2,
+   "text": "Take my heart, take control",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 127.2,
+   "end": 128.44,
+   "text": "Take everything",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 128.44,
+   "end": 130.44,
+   "text": "All I want is you",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 130.44,
+   "end": 132.18,
+   "text": "My savior, my king",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 132.18,
+   "end": 133.96,
+   "text": "When I can't breathe",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 133.96,
+   "end": 135.7,
+   "text": "You're breathing me",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.47,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 135.7,
+   "end": 139.36,
+   "text": "When I can't stand you carrying me",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 139.36,
+   "end": 142.88,
+   "text": "Your love is the anchor when I lose my way",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 142.88,
+   "end": 147.22,
+   "text": "Jesus, I need you every single day",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 147.22,
+   "end": 151.42,
+   "text": "Every day, every day, every day",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 151.42,
+   "end": 154.5,
+   "text": "Ha, every day, every day",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 154.5,
+   "end": 158.42,
+   "text": "Ha, every day, every day",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 158.42,
+   "end": 161.28,
+   "text": "Ha, every day, every day",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 161.28,
+   "end": 162.86,
+   "text": "I need an angel",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.729,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 162.86,
+   "end": 167.4,
+   "text": "To come down and rescue me",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.652,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 167.4,
+   "end": 170.18,
+   "text": "I need your love, Lord",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.652,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 170.86,
+   "end": 174.24,
+   "text": "To hold me and set me free",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.652,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 174.86,
+   "end": 178.38,
+   "text": "When I feel broken, you're the only comfort",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.652,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 178.38,
+   "end": 182.46,
+   "text": "Ride me in your mercy and the shadow of your wing",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.652,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 182.46,
+   "end": 186.0,
+   "text": "I need an angel, show me grace",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.652,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 186.0,
+   "end": 187.7,
+   "text": "Let your healing begin",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.652,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 192.86,
+   "end": 194.52,
+   "text": "Thank you for never leaving me",
+   "avg_logprob": -0.612,
+   "no_speech_prob": 0.132,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 196.86,
+   "end": 199.26,
+   "text": "Even when I walk away",
+   "avg_logprob": -0.612,
+   "no_speech_prob": 0.132,
+   "track_id": "Ss0pA-Cw8V0#07"
+  },
+  {
+   "start": 200.8,
+   "end": 201.92,
+   "text": "Oh man",
+   "avg_logprob": -0.612,
+   "no_speech_prob": 0.132,
+   "track_id": "Ss0pA-Cw8V0#07"
+  }
+ ]
+}

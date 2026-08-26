@@ -1,0 +1,270 @@
+{
+ "track_id": "_ycC4y-4sYo#05",
+ "track_key": "_ycC4y-4sYo__05",
+ "video_id": "_ycC4y-4sYo",
+ "title": "Search Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 270.0,
+ "voiced_sec": 202.2,
+ "voice_ratio": 0.749,
+ "n_words": 257,
+ "words_per_min": 57.1,
+ "is_instrumental": false,
+ "n_segments": 31,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.6,
+ "rtf": 0.043,
+ "segments": [
+  {
+   "start": 19.06,
+   "end": 25.74,
+   "text": "You have searched me Lord and you know me",
+   "avg_logprob": -0.665,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 27.16,
+   "end": 47.02,
+   "text": "You know when I sin and when I rise, you perceive my thoughts from afar.",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.49,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 52.42,
+   "end": 59.08,
+   "text": "You discern my going out and my lying down.",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.728,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 61.9,
+   "end": 69.14,
+   "text": "You are familiar with all my ways.",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.728,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 69.14,
+   "end": 83.18,
+   "text": "Before a word is on my tongue, you Lord know it completely.",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.308,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 86.64,
+   "end": 92.8,
+   "text": "Search me, oh Lord, and know my heart.",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.308,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 94.76,
+   "end": 101.6,
+   "text": "Try me, oh Lord, and oh my thoughts.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.658,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 103.86,
+   "end": 109.98,
+   "text": "Oh Lord, if there be any wicked way in me,",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.658,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 110.2,
+   "end": 116.06,
+   "text": "creating me a clean heart, oh God,",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.658,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 116.06,
+   "end": 122.06,
+   "text": "and renew a right spirit within me.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 127.94,
+   "end": 132.46,
+   "text": "You hand me in behind and before,",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 132.92,
+   "end": 135.92,
+   "text": "and you lay your hand upon me.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 136.9,
+   "end": 140.94,
+   "text": "Such knowledge is too wonderful for me,",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 141.56,
+   "end": 144.3,
+   "text": "too lofty for me to attain.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 144.3,
+   "end": 151.36,
+   "text": "Search me, oh Lord, and know my heart.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 153.3,
+   "end": 159.88,
+   "text": "Try me, oh Lord, and know my thoughts.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 162.16,
+   "end": 168.14,
+   "text": "Oh Lord, if there be any wicked way in me",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 168.14,
+   "end": 181.24,
+   "text": "created me a clean heart oh God and renew the right spirit within me",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.32,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 186.78,
+   "end": 193.5,
+   "text": "For you created my inmost being.",
+   "avg_logprob": -0.488,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 196.68,
+   "end": 202.0,
+   "text": "You knit me together in my mother's womb.",
+   "avg_logprob": -0.488,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 204.36,
+   "end": 211.86,
+   "text": "I praise you because I am fearfully and wonderfully made.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 212.72,
+   "end": 215.68,
+   "text": "Your works are wonderful.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 217.18,
+   "end": 219.52,
+   "text": "I know that for well.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 221.92,
+   "end": 229.6,
+   "text": "My frame was not hidden from you when I was made in the secret place.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 229.6,
+   "end": 235.22,
+   "text": "When I was woven together in the depths of the earth",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 235.22,
+   "end": 238.38,
+   "text": "Your eyes saw my unformed body",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 238.38,
+   "end": 243.74,
+   "text": "All the days ordained for me were",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 243.74,
+   "end": 246.84,
+   "text": "Written in your book",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 246.84,
+   "end": 251.7,
+   "text": "Before one of them came to be",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 251.7,
+   "end": 258.12,
+   "text": "He created me a clean heart, oh God",
+   "avg_logprob": -0.498,
+   "no_speech_prob": 0.204,
+   "track_id": "_ycC4y-4sYo#05"
+  },
+  {
+   "start": 261.28,
+   "end": 269.94,
+   "text": "And renew a right spirit within me",
+   "avg_logprob": -0.498,
+   "no_speech_prob": 0.204,
+   "track_id": "_ycC4y-4sYo#05"
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "track_id": "fy8Cr6R13Ik#07",
+ "track_key": "fy8Cr6R13Ik__07",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "7. Isaiah 35 — The Highway of the Redeemed",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 244.0,
+ "voiced_sec": 169.5,
+ "voice_ratio": 0.695,
+ "n_words": 283,
+ "words_per_min": 69.6,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 29,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.6,
+ "rtf": 0.051,
+ "segments": [
+  {
+   "start": 1.46,
+   "end": 2.86,
+   "text": "Music",
+   "avg_logprob": -0.571,
+   "no_speech_prob": 0.447,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 11.0,
+   "end": 16.46,
+   "text": "Has thou not known? Has thou not heard?",
+   "avg_logprob": -0.571,
+   "no_speech_prob": 0.447,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 17.64,
+   "end": 22.4,
+   "text": "The everlasting God still rules the world",
+   "avg_logprob": -0.571,
+   "no_speech_prob": 0.447,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 22.4,
+   "end": 29.4,
+   "text": "The Creator fainted not, nor is He ever tied",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 29.94,
+   "end": 36.64,
+   "text": "His understanding infinite, His mercy never expires",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 37.4,
+   "end": 43.5,
+   "text": "But they that wait upon the Lord shall renew their strength again",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 43.5,
+   "end": 49.94,
+   "text": "They shall mount up with wings like eagles in the wind",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 49.94,
+   "end": 53.02,
+   "text": "Then they shall run and not be weary",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 53.64,
+   "end": 56.26,
+   "text": "They shall walk and never fade",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 59.02,
+   "end": 65.34,
+   "text": "For the Lord is their portion, their rock and their saint",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 70.44,
+   "end": 75.88,
+   "text": "He gives power to the faint, to the weak He grants His might",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 75.88,
+   "end": 82.14,
+   "text": "Even the young shall stumble, but he lifts them through the night.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 82.64,
+   "end": 88.36,
+   "text": "His hand is not shortened, his eyes do not sleep.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 89.14,
+   "end": 94.54,
+   "text": "He gathers up the broken ones and plants their roots deep.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 95.74,
+   "end": 102.02,
+   "text": "But they that wait upon the Lord shall renew their strength again.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 102.02,
+   "end": 108.52,
+   "text": "They shall mount up with wings like eagles in the wind",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.433,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 108.52,
+   "end": 114.72,
+   "text": "They shall run and not be weary, they shall walk and never faint",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.433,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 117.4,
+   "end": 123.84,
+   "text": "For the Lord is their portion, their rock and their sing",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.433,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 127.6,
+   "end": 136.7,
+   "text": "Teach me, Lord, wait in silence, not in fear",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 140.24,
+   "end": 147.74,
+   "text": "To trust Your voice, those storms draw near",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 152.7,
+   "end": 158.96,
+   "text": "You're the keeper of the weary soul, the breath in every fight",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.802,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 159.74,
+   "end": 167.06,
+   "text": "You clothe my bones with courage and turn my dark to light",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.802,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 168.74,
+   "end": 174.36,
+   "text": "But they that wait upon the Lord shall renew their strength again",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.802,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 174.36,
+   "end": 180.86,
+   "text": "They shall mount up with wings like eagles in the wind",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 180.86,
+   "end": 183.78,
+   "text": "They shall run and not be weary",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 183.78,
+   "end": 186.86,
+   "text": "They shall walk and never fade",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 189.56,
+   "end": 196.14,
+   "text": "For the Lord is their portion, their rock and their sea",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 197.56,
+   "end": 203.48,
+   "text": "And when my blues feel heavy and my strength is wearing thin",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 203.48,
+   "end": 214.1,
+   "text": "I remember those wings and I rise again, again",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.365,
+   "track_id": "fy8Cr6R13Ik#07"
+  },
+  {
+   "start": 240.7,
+   "end": 242.1,
+   "text": "you",
+   "avg_logprob": -0.943,
+   "no_speech_prob": 0.883,
+   "track_id": "fy8Cr6R13Ik#07"
+  }
+ ]
+}

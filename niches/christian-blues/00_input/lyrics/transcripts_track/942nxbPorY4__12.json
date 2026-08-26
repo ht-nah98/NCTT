@@ -1,0 +1,326 @@
+{
+ "track_id": "942nxbPorY4#12",
+ "track_key": "942nxbPorY4__12",
+ "video_id": "942nxbPorY4",
+ "title": "I Can Do All Things Through Jesus Christ",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 255.8,
+ "voiced_sec": 140.7,
+ "voice_ratio": 0.55,
+ "n_words": 177,
+ "words_per_min": 41.5,
+ "is_instrumental": false,
+ "n_segments": 38,
+ "n_segments_voiced": 38,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.5,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 25.66,
+   "end": 27.1,
+   "text": "My brothers and sisters",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.208,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 31.4,
+   "end": 48.88,
+   "text": "When the storms of life begin to rage And the road ahead feels too heavy to walk",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.345,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 52.76,
+   "end": 66.82,
+   "text": "Remember this truth, they that trust in the Lord shall be as Mount Zion, which cannot",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.326,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 66.82,
+   "end": 69.98,
+   "text": "be removed but abided forever",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.469,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 75.68,
+   "end": 79.66,
+   "text": "As the mountains are round about Jerusalem",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.469,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 81.82,
+   "end": 84.78,
+   "text": "So the Lord is round about His people",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.469,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 84.78,
+   "end": 88.46,
+   "text": "from henceforth even forever",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.469,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 89.82,
+   "end": 94.88,
+   "text": "That song 1-25 verses 1-2",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.469,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 94.88,
+   "end": 97.38,
+   "text": "You are not forgotten",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 98.88,
+   "end": 100.6,
+   "text": "You are not",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 100.6,
+   "end": 103.62,
+   "text": "You are not forsaken",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 103.62,
+   "end": 106.66,
+   "text": "You are not",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 106.66,
+   "end": 109.64,
+   "text": "God's hand is still on you",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 109.64,
+   "end": 112.28,
+   "text": "You are not",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 112.28,
+   "end": 114.56,
+   "text": "Even in the dark",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 114.56,
+   "end": 117.88,
+   "text": "You are not",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 117.88,
+   "end": 120.62,
+   "text": "He's building strength in your silence",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 120.62,
+   "end": 122.88,
+   "text": "You are not",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.527,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 123.22,
+   "end": 126.7,
+   "text": "He's shaping victory through your valleys",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 127.22,
+   "end": 128.56,
+   "text": "You are not",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 128.56,
+   "end": 131.58,
+   "text": "So hold your head up high",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 132.22,
+   "end": 134.32,
+   "text": "You are not",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 134.32,
+   "end": 137.4,
+   "text": "Lift your eyes to the hills",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 137.4,
+   "end": 140.48,
+   "text": "You are not",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 140.48,
+   "end": 144.62,
+   "text": "So where we fade",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 145.22,
+   "end": 150.82,
+   "text": "I can do all things through Jesus Christ",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.503,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 150.82,
+   "end": 153.58,
+   "text": "Eyes to strengthen me",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.684,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 155.82,
+   "end": 162.52,
+   "text": "Oh, yeah, yeah",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.684,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 163.82,
+   "end": 168.3,
+   "text": "Keep walking, keep trusting",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.684,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 169.82,
+   "end": 174.92,
+   "text": "You're closer than you think",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.684,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 181.24,
+   "end": 182.64,
+   "text": "Amen",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.61,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 182.64,
+   "end": 182.66,
+   "text": "Amen",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.61,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 185.58,
+   "end": 187.92,
+   "text": "Keep walking",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.61,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 188.92,
+   "end": 190.64,
+   "text": "Keep trusting",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.61,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 191.92,
+   "end": 193.66,
+   "text": "You're closer",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.61,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 194.92,
+   "end": 196.24,
+   "text": "Than you think",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.61,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 198.48,
+   "end": 199.88,
+   "text": "Evening",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.61,
+   "track_id": "942nxbPorY4#12"
+  },
+  {
+   "start": 199.88,
+   "end": 207.46,
+   "text": "Even, I'm in, I'm in",
+   "avg_logprob": -0.985,
+   "no_speech_prob": 0.338,
+   "track_id": "942nxbPorY4#12"
+  }
+ ]
+}

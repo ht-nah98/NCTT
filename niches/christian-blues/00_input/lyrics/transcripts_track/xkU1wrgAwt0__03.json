@@ -1,0 +1,166 @@
+{
+ "track_id": "xkU1wrgAwt0#03",
+ "track_key": "xkU1wrgAwt0__03",
+ "video_id": "xkU1wrgAwt0",
+ "title": "3. Psalm 37 – The Steps of the Righteous",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 224.0,
+ "voiced_sec": 143.4,
+ "voice_ratio": 0.64,
+ "n_words": 170,
+ "words_per_min": 45.5,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.5,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 16.6,
+   "end": 22.46,
+   "text": "Don't you fret by the wicked man",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.553,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 24.1,
+   "end": 31.14,
+   "text": "Don't envy the schemes in his hand",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 31.14,
+   "end": 39.92,
+   "text": "Like grass you'll fade, like flowers dry",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 40.46,
+   "end": 47.96,
+   "text": "But trust in the Lord and you'll stand high",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 49.56,
+   "end": 65.0,
+   "text": "The steps of the righteous are made firm by the Lord who holds them till the end of the term",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.328,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 66.84,
+   "end": 83.66,
+   "text": "Though he stumble, he will not fall For God's strong hand is holding it all",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.412,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 87.5,
+   "end": 94.56,
+   "text": "Delight in the Lord, He'll give your hearts cry",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.463,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 95.66,
+   "end": 102.62,
+   "text": "Commit your way, let your burdens fly",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.463,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 104.2,
+   "end": 107.44,
+   "text": "Be still before him",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 107.44,
+   "end": 111.4,
+   "text": "Don't burn in rage",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 112.72,
+   "end": 116.06,
+   "text": "The Lord will act",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 116.06,
+   "end": 119.88,
+   "text": "He will set the stage",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 121.5,
+   "end": 126.5,
+   "text": "Better the lids of the righteous own",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 126.5,
+   "end": 130.54,
+   "text": "Than riches piled on a hard of stone",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 130.54,
+   "end": 141.72,
+   "text": "I've been young now I'm old and gray never seen the just turned away with steps of the",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.232,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 141.72,
+   "end": 154.66,
+   "text": "righteous are made firm by the Lord who holds them till the end of the turn",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.232,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 156.76,
+   "end": 171.14,
+   "text": "Though he's stumble, he will not fall For God's strong hand is holding it all",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#03"
+  },
+  {
+   "start": 173.38,
+   "end": 179.46,
+   "text": "Holding it all, oh he's holding it all",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#03"
+  }
+ ]
+}

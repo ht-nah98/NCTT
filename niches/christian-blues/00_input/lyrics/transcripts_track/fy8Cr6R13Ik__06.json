@@ -1,0 +1,246 @@
+{
+ "track_id": "fy8Cr6R13Ik#06",
+ "track_key": "fy8Cr6R13Ik__06",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "6. Isaiah 26 — Perfect Peace in Midnight Blues",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 250.0,
+ "voiced_sec": 171.2,
+ "voice_ratio": 0.685,
+ "n_words": 288,
+ "words_per_min": 69.1,
+ "is_instrumental": false,
+ "n_segments": 28,
+ "n_segments_voiced": 28,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.6,
+ "rtf": 0.042,
+ "segments": [
+  {
+   "start": 2.06,
+   "end": 2.9,
+   "text": "Music",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.509,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 13.32,
+   "end": 18.8,
+   "text": "Strengthen ye the weak hands, confirm the feeble knees",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.509,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 20.0,
+   "end": 25.32,
+   "text": "Say to them, oh fearful heart, the Lord will bring them peace",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.509,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 25.32,
+   "end": 31.82,
+   "text": "Be strong and do not fear now Your God will surely come",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 31.82,
+   "end": 38.58,
+   "text": "With vengeance and salvation He will call His children home",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 40.08,
+   "end": 46.52,
+   "text": "And a highway shall be there and away So pure and bright",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 47.32,
+   "end": 53.2,
+   "text": "The unclean shall not pass over it Nor lions walk by night",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 53.2,
+   "end": 59.96,
+   "text": "But the redeemed shall journey there, with singing evermore",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.266,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 59.96,
+   "end": 66.98,
+   "text": "And sorrow and sighing shall flee away from shore",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.266,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 71.34,
+   "end": 78.0,
+   "text": "Then the eyes of the blind shall open, the ears of the deaf shall hear",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.266,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 78.0,
+   "end": 84.46,
+   "text": "The lame shall leap like a young deer The tongue of the mute will cheer",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 85.0,
+   "end": 91.08,
+   "text": "Water shall break in the wilderness Streams in the desert sand",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 92.0,
+   "end": 97.44,
+   "text": "The park shall shout for rivers Flowing at God's command",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 99.34,
+   "end": 105.76,
+   "text": "And a highway shall be there And a way so pure and bright",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 105.76,
+   "end": 112.44,
+   "text": "The unclean shall not pass over it, nor lions walk by night",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.496,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 112.44,
+   "end": 119.2,
+   "text": "But the redeemed shall journey there with singing evermore",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.496,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 119.76,
+   "end": 125.84,
+   "text": "And sorrow and sight shall flee away from shore",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.496,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 155.42,
+   "end": 161.9,
+   "text": "No ravenous beast shall be found there nor thread upon the road",
+   "avg_logprob": -0.575,
+   "no_speech_prob": 0.424,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 161.9,
+   "end": 168.34,
+   "text": "Only the holy walking home redeemed by Christ bestowed",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 168.34,
+   "end": 175.16,
+   "text": "With everlasting joy upon their heads they'll come",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 175.16,
+   "end": 182.62,
+   "text": "Designed with rejoicing no more far from home",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 182.62,
+   "end": 190.16,
+   "text": "And a highway shall be there and away so pure and bright",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 190.16,
+   "end": 196.88,
+   "text": "The unclean shall not pass over it nor lions walk by night",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 196.88,
+   "end": 203.64,
+   "text": "But the redeemed shall journey there with singing evermore",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 204.16,
+   "end": 210.46,
+   "text": "And sorrow and sighing shall flee away from shore",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 211.74,
+   "end": 218.4,
+   "text": "On that road I walk in blues but my steps are light and true",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 218.4,
+   "end": 225.12,
+   "text": "For Zion's song is in my bones And the king is calling through",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.519,
+   "track_id": "fy8Cr6R13Ik#06"
+  },
+  {
+   "start": 230.1,
+   "end": 231.82,
+   "text": "Deadly do",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.519,
+   "track_id": "fy8Cr6R13Ik#06"
+  }
+ ]
+}

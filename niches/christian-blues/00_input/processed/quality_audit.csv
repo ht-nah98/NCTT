@@ -1,0 +1,13 @@
+check,value,pass,note
+Trùng video_id trong videos,0,True,
+Trùng channel_id trong channels,0,True,
+view_count âm/null,0,True,
+published_at ở tương lai,0,True,
+Số snapshot video_stats,1,False,1 snapshot -> hạ tin cậy trục T2 xuống 'vừa'
+Phủ comments (% video),74.1,True,
+Phủ thumbnails (% video),100.0,True,
+Phủ media_probe (% video),0.6,False,Dưới 30% -> KHÔNG dùng để kết luận
+Null: videos.description,4.5%,True,Trên 30% -> không dùng làm kết luận chính
+Null: videos.tags,23.2%,True,Trên 30% -> không dùng làm kết luận chính
+Null: videos.duration_sec,0.2%,True,Trên 30% -> không dùng làm kết luận chính
+Null: videos.default_audio_language,39.3%,False,Trên 30% -> không dùng làm kết luận chính

@@ -1,0 +1,494 @@
+{
+ "track_id": "2y2CcCzAtyM#15",
+ "track_key": "2y2CcCzAtyM__15",
+ "video_id": "2y2CcCzAtyM",
+ "title": "15 — I Will Bless Thee, O Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 469.0,
+ "voiced_sec": 351.8,
+ "voice_ratio": 0.75,
+ "n_words": 449,
+ "words_per_min": 57.4,
+ "is_instrumental": false,
+ "n_segments": 59,
+ "n_segments_voiced": 59,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 23.2,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.76,
+   "text": "At all times",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.397,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 11.88,
+   "end": 16.74,
+   "text": "Not only when the sun is shining bright",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.397,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 23.0,
+   "end": 26.92,
+   "text": "Not only when the answer comes my way",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.397,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 32.88,
+   "end": 48.66,
+   "text": "I made a covenant before his throne To bless his name each moment of each day",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.297,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 51.92,
+   "end": 61.02,
+   "text": "I will bless thee, oh Lord, at all times",
+   "avg_logprob": -0.401,
+   "no_speech_prob": 0.608,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 64.66,
+   "end": 71.04,
+   "text": "Every morning when the sun begins to rise",
+   "avg_logprob": -0.401,
+   "no_speech_prob": 0.608,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 73.82,
+   "end": 93.14,
+   "text": "I will bless thee, oh Lord, at all times In the midnight when I cannot see thy face",
+   "avg_logprob": -0.469,
+   "no_speech_prob": 0.696,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 95.18,
+   "end": 107.46,
+   "text": "I will bless thee at all times With all that is within me",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.566,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 107.46,
+   "end": 116.12,
+   "text": "I will bless thee Oh Lord",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.566,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 120.02,
+   "end": 126.86,
+   "text": "Through weeping seasons, when the night grows long",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.468,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 130.12,
+   "end": 136.94,
+   "text": "Through victories that come and fade away",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.468,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 139.96,
+   "end": 158.36,
+   "text": "In triumph, in triumph both the same His praise shall be upon my lips today",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.583,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 161.92,
+   "end": 171.1,
+   "text": "I will bless thee, oh Lord at all times",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.559,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 174.36,
+   "end": 181.92,
+   "text": "Every morning when the sun begins to rise",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.559,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 181.92,
+   "end": 193.52,
+   "text": "I will bless thee, oh Lord, at all times",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.67,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 195.24,
+   "end": 203.76,
+   "text": "In the midnight when I cannot see thy face",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.67,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 206.46,
+   "end": 212.02,
+   "text": "I will bless thee at all times",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.398,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 213.76,
+   "end": 217.72,
+   "text": "With all that is within me",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.398,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 218.76,
+   "end": 221.44,
+   "text": "I will bless thee",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.398,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 224.76,
+   "end": 226.7,
+   "text": "Oh Lord",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.398,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 226.7,
+   "end": 230.38,
+   "text": "At all times means when it is hard",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.398,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 231.94,
+   "end": 235.26,
+   "text": "At all times means when you don't feel like it.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 237.72,
+   "end": 240.16,
+   "text": "At all times means the Lord is worthy.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 242.96,
+   "end": 245.92,
+   "text": "Regardless of what your circumstance looks like.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 247.26,
+   "end": 248.88,
+   "text": "Bless his name.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 249.14,
+   "end": 250.4,
+   "text": "Bless his name.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 250.46,
+   "end": 252.78,
+   "text": "At all times.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 253.38,
+   "end": 254.56,
+   "text": "At all times.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 256.32,
+   "end": 257.54,
+   "text": "At all times.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 257.82,
+   "end": 260.36,
+   "text": "At all times.",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.177,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 260.36,
+   "end": 262.14,
+   "text": "Praise His name.",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.258,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 262.26,
+   "end": 263.7,
+   "text": "Praise His name.",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.258,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 263.9,
+   "end": 266.04,
+   "text": "At all times.",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.258,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 269.26,
+   "end": 271.04,
+   "text": "I will bless thee.",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.258,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 271.14,
+   "end": 277.6,
+   "text": "Oh, oh, Lord, at all times.",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.258,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 279.16,
+   "end": 290.14,
+   "text": "Every morning when the sun begins to rise",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.539,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 290.14,
+   "end": 299.7,
+   "text": "I will bless thee, oh Lord, at all times",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.539,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 301.36,
+   "end": 310.34,
+   "text": "In the midnight when I cannot see Thy face",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.712,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 312.92,
+   "end": 320.86,
+   "text": "I will bless Thee at all times",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.712,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 324.84,
+   "end": 327.08,
+   "text": "I will bless thee",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.178,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 330.78,
+   "end": 335.6,
+   "text": "I will bless thee",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.178,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 342.38,
+   "end": 345.26,
+   "text": "I will bless the Lord at all times",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.178,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 349.3,
+   "end": 357.32,
+   "text": "I will bless the Lord at all times His praise shall continually be in my mouth",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.185,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 359.44,
+   "end": 366.34,
+   "text": "Psalm 34 and 1 at all times",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.46,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 369.32,
+   "end": 372.26,
+   "text": "Not only when the sun is shining bright",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.46,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 375.32,
+   "end": 379.04,
+   "text": "Not only when the answer comes my way",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.46,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 381.32,
+   "end": 384.42,
+   "text": "I made a covenant before His throne",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.46,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 384.42,
+   "end": 389.66,
+   "text": "To bless His name each moment of each day",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.646,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 389.66,
+   "end": 397.3,
+   "text": "I will bless thee, oh Lord, at all times",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.646,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 398.4,
+   "end": 402.42,
+   "text": "Every morning when the sun begins to rise",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.646,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 403.04,
+   "end": 409.42,
+   "text": "I will bless thee, oh Lord, at all times",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.646,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 409.42,
+   "end": 415.12,
+   "text": "In the midnight when I cannot see that face",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 415.12,
+   "end": 419.8,
+   "text": "I will bless thee at all times",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 421.1,
+   "end": 424.44,
+   "text": "With all that is within me",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 424.44,
+   "end": 429.12,
+   "text": "I will bless thee, oh Lord",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 431.52,
+   "end": 436.7,
+   "text": "Through weeping seasons when the night grows long",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 438.08,
+   "end": 449.96,
+   "text": "Through victories that come and fade away I made a covenant before his throne to bless",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.742,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 449.96,
+   "end": 460.14,
+   "text": "his name each moment of each day I will bless thee, oh Lord",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.742,
+   "track_id": "2y2CcCzAtyM#15"
+  },
+  {
+   "start": 460.14,
+   "end": 468.66,
+   "text": "And I'll give thanks unto the Lord for he is good.",
+   "avg_logprob": -0.614,
+   "no_speech_prob": 0.347,
+   "track_id": "2y2CcCzAtyM#15"
+  }
+ ]
+}

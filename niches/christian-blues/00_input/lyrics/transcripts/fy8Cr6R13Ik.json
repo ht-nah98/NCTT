@@ -1,0 +1,2778 @@
+{
+ "video_id": "fy8Cr6R13Ik",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 2530.0,
+ "voiced_sec": 1780.8,
+ "voice_ratio": 0.704,
+ "is_instrumental": false,
+ "n_segments": 276,
+ "n_segments_voiced": 275,
+ "n_tracks": 9,
+ "n_seg_mapped": 276,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 11.88,
+   "end": 25.14,
+   "text": "In the year that King Uzziah died, I saw the Lord on high.",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.522,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 11.88,
+   "track_end": 25.14
+  },
+  {
+   "start": 27.18,
+   "end": 37.72,
+   "text": "His train filled the temple Yonder throne up in the sky",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.694,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 27.18,
+   "track_end": 37.72
+  },
+  {
+   "start": 40.88,
+   "end": 51.56,
+   "text": "Sarah Phim's crying, holy, holy Oh how high and lifted he",
+   "avg_logprob": -0.655,
+   "no_speech_prob": 0.513,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 40.88,
+   "track_end": 51.56
+  },
+  {
+   "start": 54.82,
+   "end": 60.18,
+   "text": "dirty lips cleansed by cold from heaven",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 54.82,
+   "track_end": 60.18
+  },
+  {
+   "start": 60.18,
+   "end": 65.4,
+   "text": "now my sight is free",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 60.18,
+   "track_end": 65.4
+  },
+  {
+   "start": 68.54,
+   "end": 76.38,
+   "text": "Holy, Holy, Holy is the Lord Almighty's name",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 68.54,
+   "track_end": 76.38
+  },
+  {
+   "start": 78.42,
+   "end": 84.74,
+   "text": "Echo through the midnight skies, His glory still the same",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.541,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 78.42,
+   "track_end": 84.74
+  },
+  {
+   "start": 86.38,
+   "end": 96.02,
+   "text": "Heaven and earth declare the matchless Burning flame in that holy, holy name",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.541,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 86.38,
+   "track_end": 96.02
+  },
+  {
+   "start": 96.02,
+   "end": 100.24,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.541,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 96.02,
+   "track_end": 100.24
+  },
+  {
+   "start": 103.42,
+   "end": 115.22,
+   "text": "I heard the voice of one proclaiming Who can stand when God lays claim",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.499,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 103.42,
+   "track_end": 115.22
+  },
+  {
+   "start": 117.08,
+   "end": 121.9,
+   "text": "Now that I have nails burned off my guilt",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 117.08,
+   "track_end": 121.9
+  },
+  {
+   "start": 124.48,
+   "end": 128.76,
+   "text": "Remove the scarlet stain",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 124.48,
+   "track_end": 128.76
+  },
+  {
+   "start": 131.28,
+   "end": 135.64,
+   "text": "Here I am, send me",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 131.28,
+   "track_end": 135.64
+  },
+  {
+   "start": 137.32,
+   "end": 141.58,
+   "text": "Take my heart and soul away",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 137.32,
+   "track_end": 141.58
+  },
+  {
+   "start": 145.14,
+   "end": 155.74,
+   "text": "Let me bring your message in this blues Let me speak what you say",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.676,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 145.14,
+   "track_end": 155.74
+  },
+  {
+   "start": 158.52,
+   "end": 166.26,
+   "text": "Holy, holy, holy is the Lord Almighty's name",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.676,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 158.52,
+   "track_end": 166.26
+  },
+  {
+   "start": 168.32,
+   "end": 174.66,
+   "text": "Echo through the midnight skies His glory still the same",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.505,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 168.32,
+   "track_end": 174.66
+  },
+  {
+   "start": 176.26,
+   "end": 185.86,
+   "text": "Heaven and earth declare the matchless Burning flame in that holy, holy name",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.505,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 176.26,
+   "track_end": 185.86
+  },
+  {
+   "start": 185.86,
+   "end": 190.14,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.505,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 185.86,
+   "track_end": 190.14
+  },
+  {
+   "start": 195.22,
+   "end": 203.28,
+   "text": "Hear the echo of the seraphim Swear their wings and lift the hymn",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.601,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 195.22,
+   "track_end": 203.28
+  },
+  {
+   "start": 203.28,
+   "end": 209.9,
+   "text": "Cry to one another Loud mercy remove our sin",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.601,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 203.28,
+   "track_end": 209.9
+  },
+  {
+   "start": 209.9,
+   "end": 216.82,
+   "text": "My voice joins their mighty sound Healing balm my soul is found",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.601,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 209.9,
+   "track_end": 216.82
+  },
+  {
+   "start": 216.82,
+   "end": 220.52,
+   "text": "Now I'm sent in humble stride",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 216.82,
+   "track_end": 220.52
+  },
+  {
+   "start": 220.52,
+   "end": 224.46,
+   "text": "With Isaiah's vow while abide",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 220.52,
+   "track_end": 224.46
+  },
+  {
+   "start": 227.82,
+   "end": 235.12,
+   "text": "Holy, holy, holy is the Lord Almighty's name",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 227.82,
+   "track_end": 235.12
+  },
+  {
+   "start": 237.82,
+   "end": 243.76,
+   "text": "Echo through the midnight skies His glory's still the same",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 237.82,
+   "track_end": 243.76
+  },
+  {
+   "start": 243.76,
+   "end": 250.66,
+   "text": "Heaven and earth declare the matchless burning flame",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.661,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 243.76,
+   "track_end": 250.66
+  },
+  {
+   "start": 250.66,
+   "end": 258.86,
+   "text": "In that holy, holy name I'll never be the same",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.661,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 250.66,
+   "track_end": 258.86
+  },
+  {
+   "start": 261.68,
+   "end": 266.46,
+   "text": "Soft guitar, whispers alone",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.661,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 261.68,
+   "track_end": 266.46
+  },
+  {
+   "start": 268.38,
+   "end": 279.34,
+   "text": "The temple's fire in my soul, sent by Heaven's cold",
+   "avg_logprob": -0.617,
+   "no_speech_prob": 0.685,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 268.38,
+   "track_end": 279.34
+  },
+  {
+   "start": 279.34,
+   "end": 286.18,
+   "text": "I rise in blues I tell the tale he stole",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.639,
+   "track_id": "fy8Cr6R13Ik#01",
+   "track_start": 279.34,
+   "track_end": 286.18
+  },
+  {
+   "start": 331.78,
+   "end": 342.0,
+   "text": "The people that walked in darkness have seen a glorious light.",
+   "avg_logprob": -0.526,
+   "no_speech_prob": 0.413,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 11.78,
+   "track_end": 22.0
+  },
+  {
+   "start": 342.25,
+   "end": 354.55,
+   "text": "Day that dwell in the land of shadow, now awakened from the night",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.766,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 22.25,
+   "track_end": 34.55
+  },
+  {
+   "start": 354.55,
+   "end": 366.45,
+   "text": "The fire burns in Galilee, the star beyond all fame",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.766,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 34.55,
+   "track_end": 46.45
+  },
+  {
+   "start": 367.85,
+   "end": 379.57,
+   "text": "Hope has come to troubled hearts And Jesus is His name",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.653,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 47.85,
+   "track_end": 59.57
+  },
+  {
+   "start": 380.41,
+   "end": 391.29,
+   "text": "For unto us, a child is born, Unto us, a son is given",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.653,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 60.41,
+   "track_end": 71.29
+  },
+  {
+   "start": 391.29,
+   "end": 400.43,
+   "text": "And the government shall rest upon his shoulders, strong and driven",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.49,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 71.29,
+   "track_end": 80.43
+  },
+  {
+   "start": 402.77,
+   "end": 412.55,
+   "text": "His name shall be called wonderful, counselor, mighty God above",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.49,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 82.77,
+   "track_end": 92.55
+  },
+  {
+   "start": 415.09,
+   "end": 424.73,
+   "text": "The everlasting Father, Prince of Peace, full of love.",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.783,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 95.09,
+   "track_end": 104.73
+  },
+  {
+   "start": 428.41,
+   "end": 439.29,
+   "text": "Thou hast multiplied the nation, and increased their joy within.",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.783,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 108.41,
+   "track_end": 119.29
+  },
+  {
+   "start": 440.65,
+   "end": 452.09,
+   "text": "They rejoice before the eyes in harvest As the victors from their sin",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.67,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 120.65,
+   "track_end": 132.09
+  },
+  {
+   "start": 452.09,
+   "end": 464.33,
+   "text": "He broke the yoke that held them Snap the staff of cruel command",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.67,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 132.09,
+   "track_end": 144.33
+  },
+  {
+   "start": 465.79,
+   "end": 477.43,
+   "text": "As in the day of Midian, he saved with mighty hand.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.73,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 145.79,
+   "track_end": 157.43
+  },
+  {
+   "start": 478.21,
+   "end": 482.41,
+   "text": "For unto us, hey, child is born.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.73,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 158.21,
+   "track_end": 162.41
+  },
+  {
+   "start": 484.13,
+   "end": 494.43,
+   "text": "Unto us, the Son is given And the government shall rest upon his",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.576,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 164.13,
+   "track_end": 174.43
+  },
+  {
+   "start": 494.43,
+   "end": 498.19,
+   "text": "shoulders Strong and driven",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.576,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 174.43,
+   "track_end": 178.19
+  },
+  {
+   "start": 500.55,
+   "end": 510.27,
+   "text": "His name shall be called Wonderful, counselor, mighty God above",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.728,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 180.55,
+   "track_end": 190.27
+  },
+  {
+   "start": 512.95,
+   "end": 522.23,
+   "text": "The everlasting Father, Prince of Peace, full of love",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.728,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 192.95,
+   "track_end": 202.23
+  },
+  {
+   "start": 528.19,
+   "end": 537.43,
+   "text": "Of the increase of His rule and peace There shall be no end",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.354,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 208.19,
+   "track_end": 217.43
+  },
+  {
+   "start": 540.13,
+   "end": 549.73,
+   "text": "Upon the throne of David He shall reign and never bend",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.354,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 220.13,
+   "track_end": 229.73
+  },
+  {
+   "start": 549.73,
+   "end": 561.75,
+   "text": "With judgment and with justice From henceforth and forevermore",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.614,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 229.73,
+   "track_end": 241.75
+  },
+  {
+   "start": 563.23,
+   "end": 574.73,
+   "text": "The zeal of the Lord of hosts Shall perform this and much more",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.614,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 243.23,
+   "track_end": 254.73
+  },
+  {
+   "start": 574.73,
+   "end": 586.19,
+   "text": "For unto us a child is born, unto us a son is given,",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.646,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 254.73,
+   "track_end": 266.19
+  },
+  {
+   "start": 587.59,
+   "end": 595.73,
+   "text": "And the government shall rest upon his shoulders, strong and driven.",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.646,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 267.59,
+   "track_end": 275.73
+  },
+  {
+   "start": 598.09,
+   "end": 608.01,
+   "text": "His name shall be called Wonderful, counselor, mighty God above",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.742,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 278.09,
+   "track_end": 288.01
+  },
+  {
+   "start": 610.49,
+   "end": 619.97,
+   "text": "The everlasting Father, Prince of Peace, full of love",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.742,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 290.49,
+   "track_end": 299.97
+  },
+  {
+   "start": 624.19,
+   "end": 634.83,
+   "text": "The blues once whipped in darkness, now they sing of dawning day.",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.501,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 304.19,
+   "track_end": 314.83
+  },
+  {
+   "start": 634.83,
+   "end": 647.53,
+   "text": "For the child who shattered silence walks our sorrows away",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.394,
+   "track_id": "fy8Cr6R13Ik#02",
+   "track_start": 314.83,
+   "track_end": 327.53
+  },
+  {
+   "start": 686.32,
+   "end": 692.34,
+   "text": "There shall come forth a rod out of Jesse's broken line",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.52,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 12.32,
+   "track_end": 18.34
+  },
+  {
+   "start": 693.0,
+   "end": 698.16,
+   "text": "A branch shall grow from roots the world thought left behind",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.52,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 19.0,
+   "track_end": 24.16
+  },
+  {
+   "start": 699.24,
+   "end": 705.22,
+   "text": "The spirit of the Lord shall rest upon his frame",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 25.24,
+   "track_end": 31.22
+  },
+  {
+   "start": 705.22,
+   "end": 711.16,
+   "text": "Wisdom, counsel, fear of God and truth no man can tame",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 31.22,
+   "track_end": 37.16
+  },
+  {
+   "start": 711.16,
+   "end": 717.3,
+   "text": "He shall not judge by sight or speak by what he hears",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 37.16,
+   "track_end": 43.3
+  },
+  {
+   "start": 717.3,
+   "end": 723.36,
+   "text": "But with righteousness he'll rule and wipe away the tears",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 43.3,
+   "track_end": 49.36
+  },
+  {
+   "start": 723.36,
+   "end": 729.12,
+   "text": "With the breath of his lips he'll slay the wicked's path",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.564,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 49.36,
+   "track_end": 55.12
+  },
+  {
+   "start": 729.12,
+   "end": 735.36,
+   "text": "And gird his loins with faithfulness and robe himself in wrath",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.564,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 55.12,
+   "track_end": 61.36
+  },
+  {
+   "start": 746.14,
+   "end": 752.6,
+   "text": "The spirit of might and knowledge burns within his soul",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.564,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 72.14,
+   "track_end": 78.6
+  },
+  {
+   "start": 753.36,
+   "end": 758.5,
+   "text": "The fear of God is treasure, his judgment pure in whole",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 79.36,
+   "track_end": 84.5
+  },
+  {
+   "start": 759.52,
+   "end": 765.48,
+   "text": "He'll judge the poor with justice, reprove the meek with grace",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 85.52,
+   "track_end": 91.48
+  },
+  {
+   "start": 765.48,
+   "end": 771.24,
+   "text": "And break oppression scepter in every wicked place",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 91.48,
+   "track_end": 97.24
+  },
+  {
+   "start": 771.24,
+   "end": 777.32,
+   "text": "He shall not judge by sight or speak by what he hears",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 97.24,
+   "track_end": 103.32
+  },
+  {
+   "start": 777.32,
+   "end": 783.34,
+   "text": "But with righteousness he'll rule And wipe away the tears",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.544,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 103.32,
+   "track_end": 109.34
+  },
+  {
+   "start": 783.34,
+   "end": 789.1,
+   "text": "With the breath of his lips he'll slay the wicked's path",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.544,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 109.34,
+   "track_end": 115.1
+  },
+  {
+   "start": 789.1,
+   "end": 795.26,
+   "text": "And gird his loins with faithfulness And robe himself in wrath",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.544,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 115.1,
+   "track_end": 121.26
+  },
+  {
+   "start": 807.32,
+   "end": 812.5,
+   "text": "True shall be the girdle wrapped round his waiting ways",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 133.32,
+   "track_end": 138.5
+  },
+  {
+   "start": 813.62,
+   "end": 818.28,
+   "text": "And faithfulness the fabric none other king embraced",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 139.62,
+   "track_end": 144.28
+  },
+  {
+   "start": 819.34,
+   "end": 825.16,
+   "text": "He comes not dressed in grandeur, but with eyes that see the heart",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 145.34,
+   "track_end": 151.16
+  },
+  {
+   "start": 825.16,
+   "end": 830.94,
+   "text": "The branch from Jesse's sorrow, God's justice set apart",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 151.16,
+   "track_end": 156.94
+  },
+  {
+   "start": 830.94,
+   "end": 837.12,
+   "text": "He shall not judge by sight or speak by what he hears",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 156.94,
+   "track_end": 163.12
+  },
+  {
+   "start": 837.94,
+   "end": 843.04,
+   "text": "But with righteousness he'll rule and wipe away the tears",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 163.94,
+   "track_end": 169.04
+  },
+  {
+   "start": 843.04,
+   "end": 848.84,
+   "text": "With the breath of his lips he'll slay the wicked's path",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 169.04,
+   "track_end": 174.84
+  },
+  {
+   "start": 849.94,
+   "end": 854.94,
+   "text": "And gird his ones with faithfulness and robe himself in wrath",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 175.94,
+   "track_end": 180.94
+  },
+  {
+   "start": 861.16,
+   "end": 866.98,
+   "text": "The branches bloomed in fire, His word like sharp and steel",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.267,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 187.16,
+   "track_end": 192.98
+  },
+  {
+   "start": 867.94,
+   "end": 873.36,
+   "text": "And in the blues we echo What the prophets made so real",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.267,
+   "track_id": "fy8Cr6R13Ik#03",
+   "track_start": 193.94,
+   "track_end": 199.36
+  },
+  {
+   "start": 906.8,
+   "end": 911.88,
+   "text": "Oh Lord I will praise thee",
+   "avg_logprob": -0.989,
+   "no_speech_prob": 0.412,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 17.8,
+   "track_end": 22.88
+  },
+  {
+   "start": 911.88,
+   "end": 915.66,
+   "text": "Though once you were rough with me",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 22.88,
+   "track_end": 26.66
+  },
+  {
+   "start": 915.66,
+   "end": 920.1,
+   "text": "Your anger turned away",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 26.66,
+   "track_end": 31.1
+  },
+  {
+   "start": 920.1,
+   "end": 924.42,
+   "text": "And now you comfort faithfully",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 31.1,
+   "track_end": 35.42
+  },
+  {
+   "start": 925.9,
+   "end": 928.88,
+   "text": "Behold, God is my salvation",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 36.9,
+   "track_end": 39.88
+  },
+  {
+   "start": 929.46,
+   "end": 933.72,
+   "text": "I will trust and not be afraid",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 40.46,
+   "track_end": 44.72
+  },
+  {
+   "start": 933.72,
+   "end": 939.32,
+   "text": "For the Lord Jehovah is my strength",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 44.72,
+   "track_end": 50.32
+  },
+  {
+   "start": 939.32,
+   "end": 942.7,
+   "text": "And in Him my soul is stayed",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 50.32,
+   "track_end": 53.7
+  },
+  {
+   "start": 944.9,
+   "end": 950.12,
+   "text": "Therefore with joy shall we draw water",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 55.9,
+   "track_end": 61.12
+  },
+  {
+   "start": 950.12,
+   "end": 954.2,
+   "text": "From the wells that never dry",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 61.12,
+   "track_end": 65.2
+  },
+  {
+   "start": 955.32,
+   "end": 959.02,
+   "text": "Sing unto the Lord forever",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 66.32,
+   "track_end": 70.02
+  },
+  {
+   "start": 959.02,
+   "end": 963.04,
+   "text": "Let His praises fill the sky",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 70.02,
+   "track_end": 74.04
+  },
+  {
+   "start": 963.04,
+   "end": 968.42,
+   "text": "In that day shout and declare His name",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 74.04,
+   "track_end": 79.42
+  },
+  {
+   "start": 968.42,
+   "end": 976.52,
+   "text": "For the Holy One is mighty and Zion ever the same",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.396,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 79.42,
+   "track_end": 87.52
+  },
+  {
+   "start": 984.42,
+   "end": 992.2,
+   "text": "Call upon His holy name, make His deeds known in the earth",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.396,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 95.42,
+   "track_end": 103.2
+  },
+  {
+   "start": 992.2,
+   "end": 1000.92,
+   "text": "Let the nations hear the anthem of His mercy and His word",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.383,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 103.2,
+   "track_end": 111.92
+  },
+  {
+   "start": 1000.92,
+   "end": 1009.64,
+   "text": "He hath done excellent things, let this be known abroad",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.383,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 111.92,
+   "track_end": 120.64
+  },
+  {
+   "start": 1010.2,
+   "end": 1018.38,
+   "text": "Cry out and shout, ye people, He alone is God",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.383,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 121.2,
+   "track_end": 129.38
+  },
+  {
+   "start": 1020.36,
+   "end": 1025.52,
+   "text": "Therefore with joy shall we draw water",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 131.36,
+   "track_end": 136.52
+  },
+  {
+   "start": 1025.52,
+   "end": 1029.48,
+   "text": "From the wells that never dry",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 136.52,
+   "track_end": 140.48
+  },
+  {
+   "start": 1029.48,
+   "end": 1034.26,
+   "text": "Sing unto the Lord forever",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 140.48,
+   "track_end": 145.26
+  },
+  {
+   "start": 1034.26,
+   "end": 1038.32,
+   "text": "Let His praises fill the sky",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 145.26,
+   "track_end": 149.32
+  },
+  {
+   "start": 1038.32,
+   "end": 1043.76,
+   "text": "In that day he shone and declared his name",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 149.32,
+   "track_end": 154.76
+  },
+  {
+   "start": 1043.76,
+   "end": 1047.44,
+   "text": "For the Holy One is mighty and Zion",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 154.76,
+   "track_end": 158.44
+  },
+  {
+   "start": 1049.6,
+   "end": 1051.86,
+   "text": "Ever the same",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 160.6,
+   "track_end": 162.86
+  },
+  {
+   "start": 1053.92,
+   "end": 1058.34,
+   "text": "Sing oh soul that once was low",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 164.92,
+   "track_end": 169.34
+  },
+  {
+   "start": 1058.34,
+   "end": 1062.5,
+   "text": "Drink from grace that overflows",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 169.34,
+   "track_end": 173.5
+  },
+  {
+   "start": 1062.5,
+   "end": 1067.08,
+   "text": "In that day we'll say again",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 173.5,
+   "track_end": 178.08
+  },
+  {
+   "start": 1067.08,
+   "end": 1071.38,
+   "text": "The Lord has turned our night to rain",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 178.08,
+   "track_end": 182.38
+  },
+  {
+   "start": 1073.76,
+   "end": 1078.64,
+   "text": "Therefore with joy shall we draw water",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 184.76,
+   "track_end": 189.64
+  },
+  {
+   "start": 1078.64,
+   "end": 1082.82,
+   "text": "From the wells that never dry",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 189.64,
+   "track_end": 193.82
+  },
+  {
+   "start": 1083.76,
+   "end": 1087.54,
+   "text": "Sing unto the Lord forever",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 194.76,
+   "track_end": 198.54
+  },
+  {
+   "start": 1087.54,
+   "end": 1091.84,
+   "text": "Let His praises fill the sky",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 198.54,
+   "track_end": 202.84
+  },
+  {
+   "start": 1091.84,
+   "end": 1097.04,
+   "text": "In that day shall and declare His name",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 202.84,
+   "track_end": 208.04
+  },
+  {
+   "start": 1097.04,
+   "end": 1100.64,
+   "text": "For the Holy One is mighty in Zion",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 208.04,
+   "track_end": 211.64
+  },
+  {
+   "start": 1102.92,
+   "end": 1105.18,
+   "text": "ever the same",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 213.92,
+   "track_end": 216.18
+  },
+  {
+   "start": 1107.48,
+   "end": 1111.6,
+   "text": "From the deepest well of grace",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 218.48,
+   "track_end": 222.6
+  },
+  {
+   "start": 1111.6,
+   "end": 1115.92,
+   "text": "I pulled a song of restoration",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 222.6,
+   "track_end": 226.92
+  },
+  {
+   "start": 1116.64,
+   "end": 1120.58,
+   "text": "And in this blues I lift my voice",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 227.64,
+   "track_end": 231.58
+  },
+  {
+   "start": 1120.58,
+   "end": 1123.04,
+   "text": "The sound of salvation",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04",
+   "track_start": 231.58,
+   "track_end": 234.04
+  },
+  {
+   "start": 1150.0,
+   "end": 1152.76,
+   "text": "bjbjb",
+   "avg_logprob": -1.552,
+   "no_speech_prob": 0.589,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 0.0,
+   "track_end": 2.76
+  },
+  {
+   "start": 1155.68,
+   "end": 1157.08,
+   "text": "bjbjb",
+   "avg_logprob": -1.552,
+   "no_speech_prob": 0.589,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 5.68,
+   "track_end": 7.08
+  },
+  {
+   "start": 1177.44,
+   "end": 1181.66,
+   "text": "He will swallow up death and victory",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.134,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 27.44,
+   "track_end": 31.66
+  },
+  {
+   "start": 1183.82,
+   "end": 1196.94,
+   "text": "Wipe the tears from every face Take away his people's reproach",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 33.82,
+   "track_end": 46.94
+  },
+  {
+   "start": 1196.94,
+   "end": 1209.46,
+   "text": "With mercy and with grace The Lord has spoken in",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 46.94,
+   "track_end": 59.46
+  },
+  {
+   "start": 1209.46,
+   "end": 1214.1,
+   "text": "And His word shall never fall",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.287,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 59.46,
+   "track_end": 64.1
+  },
+  {
+   "start": 1219.46,
+   "end": 1224.52,
+   "text": "In the shadow of the mountain we hear",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.287,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 69.46,
+   "track_end": 74.52
+  },
+  {
+   "start": 1225.46,
+   "end": 1227.46,
+   "text": "Here is solemn call",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.287,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 75.46,
+   "track_end": 77.46
+  },
+  {
+   "start": 1231.22,
+   "end": 1234.96,
+   "text": "Lord, this is our God",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 81.22,
+   "track_end": 84.96
+  },
+  {
+   "start": 1236.52,
+   "end": 1241.38,
+   "text": "We have waited for Him long",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 86.52,
+   "track_end": 91.38
+  },
+  {
+   "start": 1245.46,
+   "end": 1248.7,
+   "text": "He will save us",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 95.46,
+   "track_end": 98.7
+  },
+  {
+   "start": 1248.7,
+   "end": 1252.06,
+   "text": "He will raise us",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 98.7,
+   "track_end": 102.06
+  },
+  {
+   "start": 1252.06,
+   "end": 1258.36,
+   "text": "He will turn our sides to song",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 102.06,
+   "track_end": 108.36
+  },
+  {
+   "start": 1259.06,
+   "end": 1262.3,
+   "text": "This is the Lord",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 109.06,
+   "track_end": 112.3
+  },
+  {
+   "start": 1263.06,
+   "end": 1268.24,
+   "text": "We have waited our joy and our reward",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 113.06,
+   "track_end": 118.24
+  },
+  {
+   "start": 1271.66,
+   "end": 1275.86,
+   "text": "We will be glad and rejoice",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 121.66,
+   "track_end": 125.86
+  },
+  {
+   "start": 1275.86,
+   "end": 1280.92,
+   "text": "In the salvation of the Lord",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 125.86,
+   "track_end": 130.92
+  },
+  {
+   "start": 1285.58,
+   "end": 1292.4,
+   "text": "In this mountain shall the veil be destroyed from every soul",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 135.58,
+   "track_end": 142.4
+  },
+  {
+   "start": 1292.4,
+   "end": 1296.38,
+   "text": "No more hiding, no more sorrow",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 142.4,
+   "track_end": 146.38
+  },
+  {
+   "start": 1296.38,
+   "end": 1299.2,
+   "text": "Only love that makes us whole",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 146.38,
+   "track_end": 149.2
+  },
+  {
+   "start": 1299.2,
+   "end": 1306.34,
+   "text": "The hand of God shall rest here upon his faithful land",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.306,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 149.2,
+   "track_end": 156.34
+  },
+  {
+   "start": 1306.34,
+   "end": 1316.26,
+   "text": "He will lift the dusted faces and raise the weary hands",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.306,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 156.34,
+   "track_end": 166.26
+  },
+  {
+   "start": 1318.08,
+   "end": 1322.3,
+   "text": "Lord, this is our God",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 168.08,
+   "track_end": 172.3
+  },
+  {
+   "start": 1323.26,
+   "end": 1328.02,
+   "text": "We have waited for Him long",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 173.26,
+   "track_end": 178.02
+  },
+  {
+   "start": 1332.02,
+   "end": 1335.1,
+   "text": "He will save us",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 182.02,
+   "track_end": 185.1
+  },
+  {
+   "start": 1336.26,
+   "end": 1338.14,
+   "text": "He will raise us",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 186.26,
+   "track_end": 188.14
+  },
+  {
+   "start": 1338.14,
+   "end": 1342.14,
+   "text": "He will turn our sides",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 188.14,
+   "track_end": 192.14
+  },
+  {
+   "start": 1342.14,
+   "end": 1346.96,
+   "text": "to song this is the",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 192.14,
+   "track_end": 196.96
+  },
+  {
+   "start": 1349.14,
+   "end": 1353.78,
+   "text": "we have waited joy and reward",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 199.14,
+   "track_end": 203.78
+  },
+  {
+   "start": 1357.84,
+   "end": 1362.06,
+   "text": "we will be glad and rejoice",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 207.84,
+   "track_end": 212.06
+  },
+  {
+   "start": 1362.06,
+   "end": 1367.34,
+   "text": "in the salvation of the Lord",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 212.06,
+   "track_end": 217.34
+  },
+  {
+   "start": 1371.92,
+   "end": 1376.42,
+   "text": "Oh death where is thy sting now?",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 221.92,
+   "track_end": 226.42
+  },
+  {
+   "start": 1376.7,
+   "end": 1378.68,
+   "text": "Grave where is thy boast?",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 226.7,
+   "track_end": 228.68
+  },
+  {
+   "start": 1379.38,
+   "end": 1385.5,
+   "text": "He has swallowed up the silence and drawn near to the lost",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 229.38,
+   "track_end": 235.5
+  },
+  {
+   "start": 1385.5,
+   "end": 1392.22,
+   "text": "And in that holy silence we'll hear the trumpet's tone",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 235.5,
+   "track_end": 242.22
+  },
+  {
+   "start": 1392.22,
+   "end": 1399.04,
+   "text": "Calling home the broken hearts that once wept all alone",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.34,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 242.22,
+   "track_end": 249.04
+  },
+  {
+   "start": 1400.84,
+   "end": 1410.6,
+   "text": "Lo, this is our God, we have waited for Him long",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.34,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 250.84,
+   "track_end": 260.6
+  },
+  {
+   "start": 1414.88,
+   "end": 1421.24,
+   "text": "He will save us, He will raise us",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.489,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 264.88,
+   "track_end": 271.24
+  },
+  {
+   "start": 1421.24,
+   "end": 1427.82,
+   "text": "He will turn our sides to song",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.489,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 271.24,
+   "track_end": 277.82
+  },
+  {
+   "start": 1428.6,
+   "end": 1433.84,
+   "text": "This is the Lord, we have waited",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.489,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 278.6,
+   "track_end": 283.84
+  },
+  {
+   "start": 1433.84,
+   "end": 1437.2,
+   "text": "our joy and our reward.",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.568,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 283.84,
+   "track_end": 287.2
+  },
+  {
+   "start": 1441.84,
+   "end": 1450.22,
+   "text": "We will be glad and rejoice in the salvation of the Lord.",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.568,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 291.84,
+   "track_end": 300.22
+  },
+  {
+   "start": 1454.44,
+   "end": 1461.86,
+   "text": "No more tears on my guitar, no more cries inside the cord.",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.568,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 304.44,
+   "track_end": 311.86
+  },
+  {
+   "start": 1461.86,
+   "end": 1469.86,
+   "text": "Just a soul that waits rejoicing for the salvation of the Lord",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.312,
+   "track_id": "fy8Cr6R13Ik#05",
+   "track_start": 311.86,
+   "track_end": 319.86
+  },
+  {
+   "start": 1522.06,
+   "end": 1522.9,
+   "text": "Music",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.509,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 2.06,
+   "track_end": 2.9
+  },
+  {
+   "start": 1533.32,
+   "end": 1538.8,
+   "text": "Strengthen ye the weak hands, confirm the feeble knees",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.509,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 13.32,
+   "track_end": 18.8
+  },
+  {
+   "start": 1540.0,
+   "end": 1545.32,
+   "text": "Say to them, oh fearful heart, the Lord will bring them peace",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.509,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 20.0,
+   "track_end": 25.32
+  },
+  {
+   "start": 1545.32,
+   "end": 1551.82,
+   "text": "Be strong and do not fear now Your God will surely come",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 25.32,
+   "track_end": 31.82
+  },
+  {
+   "start": 1551.82,
+   "end": 1558.58,
+   "text": "With vengeance and salvation He will call His children home",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 31.82,
+   "track_end": 38.58
+  },
+  {
+   "start": 1560.08,
+   "end": 1566.52,
+   "text": "And a highway shall be there and away So pure and bright",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 40.08,
+   "track_end": 46.52
+  },
+  {
+   "start": 1567.32,
+   "end": 1573.2,
+   "text": "The unclean shall not pass over it Nor lions walk by night",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 47.32,
+   "track_end": 53.2
+  },
+  {
+   "start": 1573.2,
+   "end": 1579.96,
+   "text": "But the redeemed shall journey there, with singing evermore",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.266,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 53.2,
+   "track_end": 59.96
+  },
+  {
+   "start": 1579.96,
+   "end": 1586.98,
+   "text": "And sorrow and sighing shall flee away from shore",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.266,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 59.96,
+   "track_end": 66.98
+  },
+  {
+   "start": 1591.34,
+   "end": 1598.0,
+   "text": "Then the eyes of the blind shall open, the ears of the deaf shall hear",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.266,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 71.34,
+   "track_end": 78.0
+  },
+  {
+   "start": 1598.0,
+   "end": 1604.46,
+   "text": "The lame shall leap like a young deer The tongue of the mute will cheer",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 78.0,
+   "track_end": 84.46
+  },
+  {
+   "start": 1605.0,
+   "end": 1611.08,
+   "text": "Water shall break in the wilderness Streams in the desert sand",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 85.0,
+   "track_end": 91.08
+  },
+  {
+   "start": 1612.0,
+   "end": 1617.44,
+   "text": "The park shall shout for rivers Flowing at God's command",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 92.0,
+   "track_end": 97.44
+  },
+  {
+   "start": 1619.34,
+   "end": 1625.76,
+   "text": "And a highway shall be there And a way so pure and bright",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.409,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 99.34,
+   "track_end": 105.76
+  },
+  {
+   "start": 1625.76,
+   "end": 1632.44,
+   "text": "The unclean shall not pass over it, nor lions walk by night",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.496,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 105.76,
+   "track_end": 112.44
+  },
+  {
+   "start": 1632.44,
+   "end": 1639.2,
+   "text": "But the redeemed shall journey there with singing evermore",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.496,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 112.44,
+   "track_end": 119.2
+  },
+  {
+   "start": 1639.76,
+   "end": 1645.84,
+   "text": "And sorrow and sight shall flee away from shore",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.496,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 119.76,
+   "track_end": 125.84
+  },
+  {
+   "start": 1675.42,
+   "end": 1681.9,
+   "text": "No ravenous beast shall be found there nor thread upon the road",
+   "avg_logprob": -0.575,
+   "no_speech_prob": 0.424,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 155.42,
+   "track_end": 161.9
+  },
+  {
+   "start": 1681.9,
+   "end": 1688.34,
+   "text": "Only the holy walking home redeemed by Christ bestowed",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 161.9,
+   "track_end": 168.34
+  },
+  {
+   "start": 1688.34,
+   "end": 1695.16,
+   "text": "With everlasting joy upon their heads they'll come",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 168.34,
+   "track_end": 175.16
+  },
+  {
+   "start": 1695.16,
+   "end": 1702.62,
+   "text": "Designed with rejoicing no more far from home",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 175.16,
+   "track_end": 182.62
+  },
+  {
+   "start": 1702.62,
+   "end": 1710.16,
+   "text": "And a highway shall be there and away so pure and bright",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 182.62,
+   "track_end": 190.16
+  },
+  {
+   "start": 1710.16,
+   "end": 1716.88,
+   "text": "The unclean shall not pass over it nor lions walk by night",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 190.16,
+   "track_end": 196.88
+  },
+  {
+   "start": 1716.88,
+   "end": 1723.64,
+   "text": "But the redeemed shall journey there with singing evermore",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 196.88,
+   "track_end": 203.64
+  },
+  {
+   "start": 1724.16,
+   "end": 1730.46,
+   "text": "And sorrow and sighing shall flee away from shore",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 204.16,
+   "track_end": 210.46
+  },
+  {
+   "start": 1731.74,
+   "end": 1738.4,
+   "text": "On that road I walk in blues but my steps are light and true",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 211.74,
+   "track_end": 218.4
+  },
+  {
+   "start": 1738.4,
+   "end": 1745.12,
+   "text": "For Zion's song is in my bones And the king is calling through",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.519,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 218.4,
+   "track_end": 225.12
+  },
+  {
+   "start": 1750.1,
+   "end": 1751.82,
+   "text": "Deadly do",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.519,
+   "track_id": "fy8Cr6R13Ik#06",
+   "track_start": 230.1,
+   "track_end": 231.82
+  },
+  {
+   "start": 1771.46,
+   "end": 1772.86,
+   "text": "Music",
+   "avg_logprob": -0.571,
+   "no_speech_prob": 0.447,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 1.46,
+   "track_end": 2.86
+  },
+  {
+   "start": 1781.0,
+   "end": 1786.46,
+   "text": "Has thou not known? Has thou not heard?",
+   "avg_logprob": -0.571,
+   "no_speech_prob": 0.447,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 11.0,
+   "track_end": 16.46
+  },
+  {
+   "start": 1787.64,
+   "end": 1792.4,
+   "text": "The everlasting God still rules the world",
+   "avg_logprob": -0.571,
+   "no_speech_prob": 0.447,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 17.64,
+   "track_end": 22.4
+  },
+  {
+   "start": 1792.4,
+   "end": 1799.4,
+   "text": "The Creator fainted not, nor is He ever tied",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 22.4,
+   "track_end": 29.4
+  },
+  {
+   "start": 1799.94,
+   "end": 1806.64,
+   "text": "His understanding infinite, His mercy never expires",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 29.94,
+   "track_end": 36.64
+  },
+  {
+   "start": 1807.4,
+   "end": 1813.5,
+   "text": "But they that wait upon the Lord shall renew their strength again",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 37.4,
+   "track_end": 43.5
+  },
+  {
+   "start": 1813.5,
+   "end": 1819.94,
+   "text": "They shall mount up with wings like eagles in the wind",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 43.5,
+   "track_end": 49.94
+  },
+  {
+   "start": 1819.94,
+   "end": 1823.02,
+   "text": "Then they shall run and not be weary",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 49.94,
+   "track_end": 53.02
+  },
+  {
+   "start": 1823.64,
+   "end": 1826.26,
+   "text": "They shall walk and never fade",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 53.64,
+   "track_end": 56.26
+  },
+  {
+   "start": 1829.02,
+   "end": 1835.34,
+   "text": "For the Lord is their portion, their rock and their saint",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 59.02,
+   "track_end": 65.34
+  },
+  {
+   "start": 1840.44,
+   "end": 1845.88,
+   "text": "He gives power to the faint, to the weak He grants His might",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.458,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 70.44,
+   "track_end": 75.88
+  },
+  {
+   "start": 1845.88,
+   "end": 1852.14,
+   "text": "Even the young shall stumble, but he lifts them through the night.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 75.88,
+   "track_end": 82.14
+  },
+  {
+   "start": 1852.64,
+   "end": 1858.36,
+   "text": "His hand is not shortened, his eyes do not sleep.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 82.64,
+   "track_end": 88.36
+  },
+  {
+   "start": 1859.14,
+   "end": 1864.54,
+   "text": "He gathers up the broken ones and plants their roots deep.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 89.14,
+   "track_end": 94.54
+  },
+  {
+   "start": 1865.74,
+   "end": 1872.02,
+   "text": "But they that wait upon the Lord shall renew their strength again.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.723,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 95.74,
+   "track_end": 102.02
+  },
+  {
+   "start": 1872.02,
+   "end": 1878.52,
+   "text": "They shall mount up with wings like eagles in the wind",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.433,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 102.02,
+   "track_end": 108.52
+  },
+  {
+   "start": 1878.52,
+   "end": 1884.72,
+   "text": "They shall run and not be weary, they shall walk and never faint",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.433,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 108.52,
+   "track_end": 114.72
+  },
+  {
+   "start": 1887.4,
+   "end": 1893.84,
+   "text": "For the Lord is their portion, their rock and their sing",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.433,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 117.4,
+   "track_end": 123.84
+  },
+  {
+   "start": 1897.6,
+   "end": 1906.7,
+   "text": "Teach me, Lord, wait in silence, not in fear",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 127.6,
+   "track_end": 136.7
+  },
+  {
+   "start": 1910.24,
+   "end": 1917.74,
+   "text": "To trust Your voice, those storms draw near",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 140.24,
+   "track_end": 147.74
+  },
+  {
+   "start": 1922.7,
+   "end": 1928.96,
+   "text": "You're the keeper of the weary soul, the breath in every fight",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.802,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 152.7,
+   "track_end": 158.96
+  },
+  {
+   "start": 1929.74,
+   "end": 1937.06,
+   "text": "You clothe my bones with courage and turn my dark to light",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.802,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 159.74,
+   "track_end": 167.06
+  },
+  {
+   "start": 1938.74,
+   "end": 1944.36,
+   "text": "But they that wait upon the Lord shall renew their strength again",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.802,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 168.74,
+   "track_end": 174.36
+  },
+  {
+   "start": 1944.36,
+   "end": 1950.86,
+   "text": "They shall mount up with wings like eagles in the wind",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 174.36,
+   "track_end": 180.86
+  },
+  {
+   "start": 1950.86,
+   "end": 1953.78,
+   "text": "They shall run and not be weary",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 180.86,
+   "track_end": 183.78
+  },
+  {
+   "start": 1953.78,
+   "end": 1956.86,
+   "text": "They shall walk and never fade",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 183.78,
+   "track_end": 186.86
+  },
+  {
+   "start": 1959.56,
+   "end": 1966.14,
+   "text": "For the Lord is their portion, their rock and their sea",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 189.56,
+   "track_end": 196.14
+  },
+  {
+   "start": 1967.56,
+   "end": 1973.48,
+   "text": "And when my blues feel heavy and my strength is wearing thin",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.61,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 197.56,
+   "track_end": 203.48
+  },
+  {
+   "start": 1973.48,
+   "end": 1984.1,
+   "text": "I remember those wings and I rise again, again",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.365,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 203.48,
+   "track_end": 214.1
+  },
+  {
+   "start": 2010.7,
+   "end": 2012.1,
+   "text": "you",
+   "avg_logprob": -0.943,
+   "no_speech_prob": 0.883,
+   "track_id": "fy8Cr6R13Ik#07",
+   "track_start": 240.7,
+   "track_end": 242.1
+  },
+  {
+   "start": 2038.04,
+   "end": 2043.98,
+   "text": "Behold my servant, whom I love,",
+   "avg_logprob": -0.848,
+   "no_speech_prob": 0.472,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 24.04,
+   "track_end": 29.98
+  },
+  {
+   "start": 2050.08,
+   "end": 2057.0,
+   "text": "I have put my spirit upon him, he shall bring forth just as sure,",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.684,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 36.08,
+   "track_end": 43.0
+  },
+  {
+   "start": 2057.54,
+   "end": 2062.98,
+   "text": "Not with shouts nor with bruising, but with quiet power pure.",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.684,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 43.54,
+   "track_end": 48.98
+  },
+  {
+   "start": 2064.74,
+   "end": 2073.82,
+   "text": "A bruised reed he shall not break, nor quench the smoking flax,",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.684,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 50.74,
+   "track_end": 59.82
+  },
+  {
+   "start": 2073.82,
+   "end": 2075.94,
+   "text": "Nor let the humble shake",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.557,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 59.82,
+   "track_end": 61.94
+  },
+  {
+   "start": 2076.52,
+   "end": 2081.46,
+   "text": "He shall not fail, nor be discouraged in the fight",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.557,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 62.52,
+   "track_end": 67.46
+  },
+  {
+   "start": 2082.12,
+   "end": 2087.92,
+   "text": "Till he brings forth judgment and sets the wrong things right",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.557,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 68.12,
+   "track_end": 73.92
+  },
+  {
+   "start": 2101.26,
+   "end": 2107.44,
+   "text": "I the Lord have called thee in righteousness and light",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 87.26,
+   "track_end": 93.44
+  },
+  {
+   "start": 2107.44,
+   "end": 2113.04,
+   "text": "Will hold thy hand and keep thee through the darkest night",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 93.44,
+   "track_end": 99.04
+  },
+  {
+   "start": 2113.04,
+   "end": 2126.52,
+   "text": "A covenant to the people, a light unto the world To open blinded eyes and free the souls unfurled",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.671,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 99.04,
+   "track_end": 112.52
+  },
+  {
+   "start": 2126.52,
+   "end": 2138.04,
+   "text": "A bruised reed, he shall not break Nor quench the smoking flax nor let the humble shake",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.671,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 112.52,
+   "track_end": 124.04
+  },
+  {
+   "start": 2138.44,
+   "end": 2150.44,
+   "text": "He shall not fail nor be discouraged in the fight, Till he brings forth judgment and sets the wrong things right.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.699,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 124.44,
+   "track_end": 136.44
+  },
+  {
+   "start": 2151.14,
+   "end": 2162.44,
+   "text": "To bring out prisoners from the dark, And lose the chains of iron that left the deepest mark,",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.699,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 137.14,
+   "track_end": 148.44
+  },
+  {
+   "start": 2162.82,
+   "end": 2168.72,
+   "text": "He walks in silence yet kings bow down",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 148.82,
+   "track_end": 154.72
+  },
+  {
+   "start": 2168.72,
+   "end": 2174.58,
+   "text": "The gentle flame wears heaven's crown",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 154.72,
+   "track_end": 160.58
+  },
+  {
+   "start": 2174.58,
+   "end": 2180.86,
+   "text": "A bruise reed he shall not break",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 160.58,
+   "track_end": 166.86
+  },
+  {
+   "start": 2182.04,
+   "end": 2186.82,
+   "text": "Nor quench the smoking flax nor let the humble shake",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 168.04,
+   "track_end": 172.82
+  },
+  {
+   "start": 2187.32,
+   "end": 2193.12,
+   "text": "He shall not fail nor be discouraged in the fight",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 173.32,
+   "track_end": 179.12
+  },
+  {
+   "start": 2193.12,
+   "end": 2199.36,
+   "text": "Till he brings forth judgment and sets the wrong things right",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 179.12,
+   "track_end": 185.36
+  },
+  {
+   "start": 2200.32,
+   "end": 2206.9,
+   "text": "So I follow in his footsteps where the world grows dim",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 186.32,
+   "track_end": 192.9
+  },
+  {
+   "start": 2206.9,
+   "end": 2211.94,
+   "text": "For the light of justice walks with him",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08",
+   "track_start": 192.9,
+   "track_end": 197.94
+  },
+  {
+   "start": 2263.22,
+   "end": 2271.72,
+   "text": "Who has believed our report, and to whom is his arm revealed?",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.345,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 8.22,
+   "track_end": 16.72
+  },
+  {
+   "start": 2273.48,
+   "end": 2281.72,
+   "text": "He grew up as a tender plant where no glory was conceived",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.474,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 18.48,
+   "track_end": 26.72
+  },
+  {
+   "start": 2284.7,
+   "end": 2292.72,
+   "text": "No form, no comeliness we saw, no beauty to desire",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.474,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 29.7,
+   "track_end": 37.72
+  },
+  {
+   "start": 2292.72,
+   "end": 2302.02,
+   "text": "Desire, despised, rejected of men, so crushed, heart on fire.",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.588,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 37.72,
+   "track_end": 47.02
+  },
+  {
+   "start": 2304.32,
+   "end": 2313.04,
+   "text": "Surely he had borne our griefs and carried all our pain,",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.588,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 49.32,
+   "track_end": 58.04
+  },
+  {
+   "start": 2313.04,
+   "end": 2322.1,
+   "text": "Yet we did a steam him stricken, smitten and slain",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 58.04,
+   "track_end": 67.1
+  },
+  {
+   "start": 2323.68,
+   "end": 2332.44,
+   "text": "Wounded for our transgressions, bruised for every crime",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 68.68,
+   "track_end": 77.44
+  },
+  {
+   "start": 2332.44,
+   "end": 2341.38,
+   "text": "The chastisement of our peace was upon Him all the time",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.554,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 77.44,
+   "track_end": 86.38
+  },
+  {
+   "start": 2344.44,
+   "end": 2352.12,
+   "text": "Oh, we like sheep have gone astray Turned each to His own way",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.554,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 89.44,
+   "track_end": 97.12
+  },
+  {
+   "start": 2353.72,
+   "end": 2362.12,
+   "text": "But the Lord laid on him the guilt we chose to stay",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.62,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 98.72,
+   "track_end": 107.12
+  },
+  {
+   "start": 2365.82,
+   "end": 2373.12,
+   "text": "Oppressed and afflicted yet he opened not his mouth",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.62,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 110.82,
+   "track_end": 118.12
+  },
+  {
+   "start": 2373.72,
+   "end": 2382.38,
+   "text": "led like a lamb to the slaughter, salvation bleeding out",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.587,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 118.72,
+   "track_end": 127.38
+  },
+  {
+   "start": 2384.1,
+   "end": 2393.72,
+   "text": "Surely He had borne our griefs and carried all our pain",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.587,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 129.1,
+   "track_end": 138.72
+  },
+  {
+   "start": 2393.72,
+   "end": 2402.68,
+   "text": "Yet we did esteem Him stricken, smitten and slain.",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.332,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 138.72,
+   "track_end": 147.68
+  },
+  {
+   "start": 2403.92,
+   "end": 2412.7,
+   "text": "Wounded for our transgression, bruised for every crime.",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.332,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 148.92,
+   "track_end": 157.7
+  },
+  {
+   "start": 2412.7,
+   "end": 2421.64,
+   "text": "The chastisement of our peace was upon him all the time",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 157.7,
+   "track_end": 166.64
+  },
+  {
+   "start": 2423.08,
+   "end": 2431.88,
+   "text": "He made his grave with a wicked, yet in death he stood no blame",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 168.08,
+   "track_end": 176.88
+  },
+  {
+   "start": 2432.7,
+   "end": 2440.58,
+   "text": "With the rich in his burial, though he never knew shame",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 177.7,
+   "track_end": 185.58
+  },
+  {
+   "start": 2440.58,
+   "end": 2448.58,
+   "text": "It pleased the Lord to bruise him to make his soul an offering still",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 185.58,
+   "track_end": 193.58
+  },
+  {
+   "start": 2449.26,
+   "end": 2454.0,
+   "text": "And by his stripes we are healed",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 194.26,
+   "track_end": 199.0
+  },
+  {
+   "start": 2454.0,
+   "end": 2458.48,
+   "text": "By his pain we find his will",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 199.0,
+   "track_end": 203.48
+  },
+  {
+   "start": 2460.1,
+   "end": 2464.7,
+   "text": "Surely he had born our grief",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 205.1,
+   "track_end": 209.7
+  },
+  {
+   "start": 2464.7,
+   "end": 2469.16,
+   "text": "And carried all our pain",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 209.7,
+   "track_end": 214.16
+  },
+  {
+   "start": 2469.16,
+   "end": 2478.5,
+   "text": "Yet we did esteem Him stricken, smitten and slain",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.467,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 214.16,
+   "track_end": 223.5
+  },
+  {
+   "start": 2479.94,
+   "end": 2488.78,
+   "text": "Wounded for our transgressions, bruised for every crime",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.467,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 224.94,
+   "track_end": 233.78
+  },
+  {
+   "start": 2488.78,
+   "end": 2497.5,
+   "text": "The chastisement of our peace was upon him all the time",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.47,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 233.78,
+   "track_end": 242.5
+  },
+  {
+   "start": 2499.34,
+   "end": 2508.46,
+   "text": "He poured out his soul unto death, numbered with the worst",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.47,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 244.34,
+   "track_end": 253.46
+  },
+  {
+   "start": 2508.46,
+   "end": 2517.84,
+   "text": "And bore the sin of many, now I sing the blues reversed.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.119,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 253.46,
+   "track_end": 262.84
+  },
+  {
+   "start": 2523.34,
+   "end": 2524.74,
+   "text": "Oh.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.119,
+   "track_id": "fy8Cr6R13Ik#09",
+   "track_start": 268.34,
+   "track_end": 269.74
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "track_id": "942nxbPorY4#08",
+ "track_key": "942nxbPorY4__08",
+ "video_id": "942nxbPorY4",
+ "title": "Be Thou My Vision",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 341.0,
+ "voiced_sec": 242.0,
+ "voice_ratio": 0.71,
+ "n_words": 275,
+ "words_per_min": 48.4,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 43,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 39.4,
+ "rtf": 0.116,
+ "segments": [
+  {
+   "start": 31.18,
+   "end": 39.98,
+   "text": "Through darkest valleys You shine so bright",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.532,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 41.5,
+   "end": 50.06,
+   "text": "No other presence Can take your place",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.532,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 51.7,
+   "end": 60.18,
+   "text": "You are my wisdom, my hiding space",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.767,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 62.46,
+   "end": 67.06,
+   "text": "When I'm weak, Lord, You are strong",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.767,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 67.68,
+   "end": 72.06,
+   "text": "You're the melody in my song",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.767,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 72.72,
+   "end": 77.06,
+   "text": "You're the fire burning deep within",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.767,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 77.54,
+   "end": 82.9,
+   "text": "You're where my story will begin",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.773,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 83.54,
+   "end": 86.18,
+   "text": "Without my vision",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.773,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 87.98,
+   "end": 90.7,
+   "text": "Lord, I see",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.773,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 93.0,
+   "end": 97.76,
+   "text": "All that I am",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.773,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 98.54,
+   "end": 101.08,
+   "text": "You've called me to be",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.773,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 103.02,
+   "end": 111.7,
+   "text": "I lay down my fears and rise in Your name",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.628,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 113.78,
+   "end": 121.5,
+   "text": "Forever I'm changed, I won't be the same",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.628,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 124.08,
+   "end": 142.82,
+   "text": "Without my shelter, when storms arise, my soul finds peace in your sacred eyes.",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.622,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 144.58,
+   "end": 152.98,
+   "text": "Even in silence I hear you speak",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.504,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 154.58,
+   "end": 163.16,
+   "text": "You lift me up when I'm feeling weak",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.504,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 165.84,
+   "end": 175.6,
+   "text": "Your mercy flows like rivers wide Your spirit walks right by my side",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.841,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 175.6,
+   "end": 186.44,
+   "text": "You're the hope that fills the night My Savior, my joy, my guiding light",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.841,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 186.44,
+   "end": 193.52,
+   "text": "Be thou my vision, Lord I see",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.135,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 196.2,
+   "end": 203.82,
+   "text": "All that I am, you've called me to be",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.135,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 206.02,
+   "end": 214.48,
+   "text": "I lay down my fears and rise in your name",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.135,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 216.7,
+   "end": 224.24,
+   "text": "Forever I'm changed, I won't be the same",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.489,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 227.82,
+   "end": 233.28,
+   "text": "No riches I seek, no vain empty praise",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.489,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 233.28,
+   "end": 238.5,
+   "text": "Just dwell in Your love for all of my days",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.489,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 238.5,
+   "end": 243.22,
+   "text": "Be first in my heart, oh High King above",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.489,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 243.22,
+   "end": 252.22,
+   "text": "Surround me, oh Lord in Your endless love",
+   "avg_logprob": -0.722,
+   "no_speech_prob": 0.474,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 257.2,
+   "end": 258.24,
+   "text": "Whoa",
+   "avg_logprob": -0.722,
+   "no_speech_prob": 0.474,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 258.24,
+   "end": 266.5,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 266.5,
+   "end": 268.92,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 268.92,
+   "end": 270.86,
+   "text": "Oh, it's out my vision",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 272.48,
+   "end": 274.48,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 274.48,
+   "end": 276.58,
+   "text": "Oh I see You",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 276.58,
+   "end": 278.1,
+   "text": "I see You",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 278.1,
+   "end": 278.6,
+   "text": "I see You clearly",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 278.6,
+   "end": 281.54,
+   "text": "Oh that I am",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 281.54,
+   "end": 284.38,
+   "text": "I'm walking in purpose",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 284.38,
+   "end": 285.56,
+   "text": "For me to be",
+   "avg_logprob": -0.933,
+   "no_speech_prob": 0.581,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 285.56,
+   "end": 287.06,
+   "text": "Walking in grace",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.573,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 289.0,
+   "end": 291.36,
+   "text": "I lay down my vision",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.573,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 294.16,
+   "end": 296.9,
+   "text": "And rise in Your name",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.573,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 299.56,
+   "end": 301.68,
+   "text": "Forever I'm changed",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.573,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 304.5,
+   "end": 306.62,
+   "text": "I won't be the same",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.573,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 309.02,
+   "end": 328.44,
+   "text": "Be thou my vision, forever yours, I remain",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.436,
+   "track_id": "942nxbPorY4#08"
+  },
+  {
+   "start": 339.54,
+   "end": 340.94,
+   "text": "you",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.877,
+   "track_id": "942nxbPorY4#08"
+  }
+ ]
+}

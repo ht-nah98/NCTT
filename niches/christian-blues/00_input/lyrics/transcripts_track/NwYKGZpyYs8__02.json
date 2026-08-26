@@ -1,0 +1,382 @@
+{
+ "track_id": "NwYKGZpyYs8#02",
+ "track_key": "NwYKGZpyYs8__02",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Water To Wine (John 2)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 202.0,
+ "voiced_sec": 161.0,
+ "voice_ratio": 0.797,
+ "n_words": 303,
+ "words_per_min": 90.0,
+ "is_instrumental": false,
+ "n_segments": 45,
+ "n_segments_voiced": 45,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.2,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 11.76,
+   "end": 15.6,
+   "text": "Jesus was there with his disciples seated",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.524,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 15.6,
+   "end": 19.74,
+   "text": "The wine ran out, the joy ran thin",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.524,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 20.78,
+   "end": 24.34,
+   "text": "His mother said they need help again",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.524,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 24.34,
+   "end": 28.36,
+   "text": "Jesus said my arm is not yet near",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.524,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 28.36,
+   "end": 29.98,
+   "text": "She took the hand of the Lord",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.524,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 29.98,
+   "end": 33.04,
+   "text": "Know the service just listen clear",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.438,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 34.06,
+   "end": 37.76,
+   "text": "Six stone jars standing side by side",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.438,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 38.62,
+   "end": 41.3,
+   "text": "Used for washing, set aside",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.438,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 43.1,
+   "end": 46.38,
+   "text": "Fill the jars with water now",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.438,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 47.66,
+   "end": 51.04,
+   "text": "Do whatever He allows",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.438,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 52.14,
+   "end": 55.5,
+   "text": "Draw it out and take it through",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.438,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 55.5,
+   "end": 64.68,
+   "text": "Watch what God is going to do Fill the jars with water now",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.662,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 65.5,
+   "end": 73.82,
+   "text": "Do whatever He allows What was plain is made brand new",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.662,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 74.5,
+   "end": 80.1,
+   "text": "The first sign came shining through",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.662,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 83.22,
+   "end": 86.7,
+   "text": "They filled the mud right to the brim",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.782,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 87.68,
+   "end": 91.54,
+   "text": "They drew it out and brought it in",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.782,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 92.1,
+   "end": 97.18,
+   "text": "The master tasted, didn't I know where the wine had come to flow",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.782,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 97.18,
+   "end": 99.54,
+   "text": "The best was saved till the end",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.782,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 99.54,
+   "end": 101.98,
+   "text": "Joy restored again and again",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.782,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 101.98,
+   "end": 105.46,
+   "text": "This sign revealed his glory bright",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.782,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 106.58,
+   "end": 110.12,
+   "text": "His disciples believed that night",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 110.12,
+   "end": 112.88,
+   "text": "He went to the temple course that day",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 112.88,
+   "end": 115.06,
+   "text": "Saw the trading had lost its way",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 115.06,
+   "end": 116.84,
+   "text": "Oxen sheep and money loud",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 116.84,
+   "end": 119.14,
+   "text": "A house of prayer lost in the crowd",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 119.14,
+   "end": 121.44,
+   "text": "He made a whip and drove the mouse",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 121.44,
+   "end": 123.52,
+   "text": "Billed the coins, turned tables down",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 123.52,
+   "end": 125.66,
+   "text": "Sealed for God, consumed his name",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 125.66,
+   "end": 127.88,
+   "text": "They asked for proof, he spoke again",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 127.88,
+   "end": 131.78,
+   "text": "Billed the jars with water now",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.741,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 131.78,
+   "end": 137.08,
+   "text": "Do whatever He allows",
+   "avg_logprob": -0.528,
+   "no_speech_prob": 0.614,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 143.28,
+   "end": 145.56,
+   "text": "Draw, draw",
+   "avg_logprob": -0.528,
+   "no_speech_prob": 0.614,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 148.78,
+   "end": 153.52,
+   "text": "Watch what God is going to do",
+   "avg_logprob": -0.528,
+   "no_speech_prob": 0.614,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 153.52,
+   "end": 156.84,
+   "text": "Fill the jars with water now",
+   "avg_logprob": -0.528,
+   "no_speech_prob": 0.614,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 156.84,
+   "end": 161.16,
+   "text": "Do whatever He allows",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.5,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 161.84,
+   "end": 165.68,
+   "text": "What was plain is made brand new",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.5,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 165.68,
+   "end": 171.94,
+   "text": "The first sign came shining through",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.5,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 174.56,
+   "end": 177.56,
+   "text": "Destroy this temple raised with hands",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.5,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 177.56,
+   "end": 180.66,
+   "text": "In three short days I will stand",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.5,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 180.66,
+   "end": 183.86,
+   "text": "They thought He spoke of stone and wood",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.5,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 183.86,
+   "end": 186.42,
+   "text": "But He meant His body understood",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 186.42,
+   "end": 189.88,
+   "text": "Many signs were seen and known",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 189.88,
+   "end": 192.72,
+   "text": "Yet He trusted God alone",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 192.72,
+   "end": 196.04,
+   "text": "He knew the heart of every man",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#02"
+  },
+  {
+   "start": 196.04,
+   "end": 199.86,
+   "text": "No one taught Him who they am",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#02"
+  }
+ ]
+}

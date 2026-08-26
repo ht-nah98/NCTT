@@ -1,0 +1,158 @@
+{
+ "track_id": "6rz6D787n0U#05",
+ "track_key": "6rz6D787n0U__05",
+ "video_id": "6rz6D787n0U",
+ "title": "5. Psalm 32 – Covered by Mercy",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 158.0,
+ "voiced_sec": 93.0,
+ "voice_ratio": 0.589,
+ "n_words": 138,
+ "words_per_min": 52.4,
+ "is_instrumental": false,
+ "n_segments": 17,
+ "n_segments_voiced": 17,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.6,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 37.36,
+   "text": "My bones grew old like summer heat without no cold",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.148,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 38.0,
+   "end": 42.08,
+   "text": "But I said, Lord, I'm gonna stray",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.148,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 43.0,
+   "end": 47.44,
+   "text": "I laid my sin out on display",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.148,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 49.0,
+   "end": 53.38,
+   "text": "And You forgave my hidden shame",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.148,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 53.38,
+   "end": 58.62,
+   "text": "Now I'm covered by mercy, not my name",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.448,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 70.38,
+   "end": 74.66,
+   "text": "Let all the faithful pray while near",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.448,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 75.38,
+   "end": 80.1,
+   "text": "When floods come down, they got no fear",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.448,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 80.1,
+   "end": 91.3,
+   "text": "You are my hiding place, my song You surround me when the night feels long",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.709,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 92.1,
+   "end": 101.48,
+   "text": "You said don't be like whoresome you Resist in raising breaking rules",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.709,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 101.48,
+   "end": 106.6,
+   "text": "I'll teach you, lead you, watch your path",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.605,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 107.48,
+   "end": 112.26,
+   "text": "I'll hold your clothes through storm and wrath",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.605,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 112.26,
+   "end": 117.2,
+   "text": "But I said, Lord, I've gone astray",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.605,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 118.48,
+   "end": 122.46,
+   "text": "I laid my sin out on display",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.605,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 123.48,
+   "end": 128.2,
+   "text": "And you forgave my hidden shame",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.605,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 129.1,
+   "end": 133.58,
+   "text": "Now I'm covered by mercy, not my name",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.563,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 134.78,
+   "end": 138.86,
+   "text": "Rejoice, you righteous, lift your voice",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.563,
+   "track_id": "6rz6D787n0U#05"
+  },
+  {
+   "start": 138.86,
+   "end": 144.7,
+   "text": "The blues are gone, I found my choice",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.563,
+   "track_id": "6rz6D787n0U#05"
+  }
+ ]
+}

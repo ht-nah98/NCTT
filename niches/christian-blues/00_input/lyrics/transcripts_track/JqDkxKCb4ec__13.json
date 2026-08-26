@@ -1,0 +1,230 @@
+{
+ "track_id": "JqDkxKCb4ec#13",
+ "track_key": "JqDkxKCb4ec__13",
+ "video_id": "JqDkxKCb4ec",
+ "title": "The Feast Of Fools (Proverbs 9)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 193.0,
+ "voiced_sec": 109.6,
+ "voice_ratio": 0.568,
+ "n_words": 177,
+ "words_per_min": 55.0,
+ "is_instrumental": false,
+ "n_segments": 26,
+ "n_segments_voiced": 26,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.4,
+ "rtf": 0.043,
+ "segments": [
+  {
+   "start": 31.86,
+   "end": 36.86,
+   "text": "She said the table ready, she calls from her throne",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 38.3,
+   "end": 45.28,
+   "text": "Come eat my bread, drink my wine, leave your foolish ways behind",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 45.28,
+   "end": 50.64,
+   "text": "There's a beast of fools down the road",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 52.88,
+   "end": 56.0,
+   "text": "Don't sit where the darkness grows",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 56.34,
+   "end": 63.36,
+   "text": "Let's grow, turn your heart to truth and light.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 66.34,
+   "end": 69.68,
+   "text": "Walk the way the wise man knows.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 72.42,
+   "end": 74.96,
+   "text": "Griebuke a marker and get shame.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 75.42,
+   "end": 77.72,
+   "text": "Correct the wise and the game.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 78.76,
+   "end": 81.3,
+   "text": "The fear of the Lord is the star.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 81.3,
+   "end": 84.16,
+   "text": "The knowledge that stays and remains",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 85.46,
+   "end": 90.42,
+   "text": "There's a feast of fools down the road",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 92.36,
+   "end": 96.7,
+   "text": "Don't sit where the darkness grows",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 96.7,
+   "end": 103.12,
+   "text": "Turn your heart to truth and light",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 104.94,
+   "end": 109.34,
+   "text": "Walk the way the wise man knows",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 139.34,
+   "end": 142.94,
+   "text": "The street, the stolen water sweet",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 142.94,
+   "end": 146.38,
+   "text": "But her guests lie deep in death",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 146.38,
+   "end": 149.64,
+   "text": "Where shadows never sleep",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 153.34,
+   "end": 157.34,
+   "text": "There's a beast of fools down the road",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 157.34,
+   "end": 159.9,
+   "text": "Down the road",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 159.9,
+   "end": 163.72,
+   "text": "Don't sit where the darkness grows",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 163.72,
+   "end": 165.7,
+   "text": "I am a",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 165.7,
+   "end": 170.08,
+   "text": "Keep your soul with wisdom's light",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 170.08,
+   "end": 172.56,
+   "text": "Hey, yeah, yeah",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 172.56,
+   "end": 176.26,
+   "text": "Walk the way the wise man do",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 176.26,
+   "end": 179.22,
+   "text": "Hey, yeah, yeah",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13"
+  },
+  {
+   "start": 179.22,
+   "end": 191.5,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13"
+  }
+ ]
+}

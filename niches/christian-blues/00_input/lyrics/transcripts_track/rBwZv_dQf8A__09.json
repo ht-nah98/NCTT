@@ -1,0 +1,374 @@
+{
+ "track_id": "rBwZv_dQf8A#09",
+ "track_key": "rBwZv_dQf8A__09",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Iron Sharpens Iron (Proverbs 27)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 264.0,
+ "voiced_sec": 201.2,
+ "voice_ratio": 0.762,
+ "n_words": 300,
+ "words_per_min": 68.2,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 42,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 26.2,
+ "rtf": 0.099,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.52,
+   "text": "For an honest inside",
+   "avg_logprob": -0.53,
+   "no_speech_prob": 0.324,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 24.62,
+   "end": 27.38,
+   "text": "Don't brag about tomorrow",
+   "avg_logprob": -0.53,
+   "no_speech_prob": 0.324,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 27.38,
+   "end": 33.18,
+   "text": "You don't know the day Let another man praise you",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.675,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 33.18,
+   "end": 38.46,
+   "text": "Let your work say the way Over rebukes better",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.675,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 38.46,
+   "end": 44.78,
+   "text": "Than a fake friend's grin Wounds from love cut deep",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.675,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 44.78,
+   "end": 52.2,
+   "text": "But here within Perfume and counsel make the heart glad",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.675,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 52.2,
+   "end": 58.38,
+   "text": "Faithful friends give what money never had",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.747,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 58.38,
+   "end": 63.26,
+   "text": "When the fire's hot and life's uncertain",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.747,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 64.2,
+   "end": 69.36,
+   "text": "Truth shines clear behind that curtain",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.747,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 70.2,
+   "end": 74.7,
+   "text": "Eyes sharp as iron, sparks gonna fly",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.747,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 74.7,
+   "end": 80.76,
+   "text": "We grow stronger walking side by side",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.747,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 80.76,
+   "end": 85.82,
+   "text": "Real love's tough, it cuts and refines",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 86.76,
+   "end": 92.86,
+   "text": "I am sharp and tired, I thank God for mine",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 97.66,
+   "end": 102.38,
+   "text": "Don't leave your brother when the storm rolls through",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 102.38,
+   "end": 108.24,
+   "text": "Better a friend close by than can that sun true",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 108.24,
+   "end": 113.52,
+   "text": "The furnace test goes, the fire shows work",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 113.52,
+   "end": 119.24,
+   "text": "So a man's praise proves what's in the earth",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 119.24,
+   "end": 124.76,
+   "text": "The fool never learns, oh he's ground like grain",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 124.76,
+   "end": 130.34,
+   "text": "But the wise man's scars bring holy gain",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 130.34,
+   "end": 135.84,
+   "text": "Be steady and hard, stay humble and tall",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 135.84,
+   "end": 138.64,
+   "text": "You're sharp in me",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 138.64,
+   "end": 141.86,
+   "text": "I'm not alone",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 141.86,
+   "end": 144.54,
+   "text": "I'm sharp in Zion",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 144.54,
+   "end": 147.08,
+   "text": "Sports gonna fly",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 147.84,
+   "end": 153.3,
+   "text": "We grow stronger walking side by side",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 153.3,
+   "end": 155.66,
+   "text": "Real love's tough",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 155.66,
+   "end": 157.98,
+   "text": "It cuts and refined",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 158.84,
+   "end": 161.36,
+   "text": "I am sharp in Zion",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.687,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 161.36,
+   "end": 165.7,
+   "text": "And I'll be your for my eyes",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.751,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 165.7,
+   "end": 167.54,
+   "text": "I am sharp and zealous",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.751,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 167.54,
+   "end": 169.74,
+   "text": "I am sharp and sired",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.751,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 170.36,
+   "end": 173.74,
+   "text": "I am sharp and sired",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.751,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 173.74,
+   "end": 180.96,
+   "text": "I am sharp and sired",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.751,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 180.96,
+   "end": 184.4,
+   "text": "I am sharp and sired",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.751,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 184.4,
+   "end": 191.34,
+   "text": "I am sharp and sired",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.751,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 191.34,
+   "end": 198.52,
+   "text": "I am shopping, Zion Side by side",
+   "avg_logprob": -0.645,
+   "no_speech_prob": 0.814,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 198.52,
+   "end": 209.7,
+   "text": "Counsel sweet like honey's grape Truth and mercy face to face",
+   "avg_logprob": -0.645,
+   "no_speech_prob": 0.814,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 214.56,
+   "end": 225.92,
+   "text": "I'm sharp inside, sparks gonna fly We grow stronger walking side by side",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.88,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 225.92,
+   "end": 237.0,
+   "text": "Real love's tough, it cuts and refined I'm sharp inside, sharp and light",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.88,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 237.0,
+   "end": 245.02,
+   "text": "I'm made of iron, I'm sharpened, iron, sharpened",
+   "avg_logprob": -0.686,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 245.02,
+   "end": 249.44,
+   "text": "till the Lord returns and hards aligns",
+   "avg_logprob": -0.686,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 249.44,
+   "end": 253.28,
+   "text": "Iron sharpens, iron sharpens iron",
+   "avg_logprob": -0.686,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 253.28,
+   "end": 257.14,
+   "text": "Whoa, whoa, whoa, whoa",
+   "avg_logprob": -0.686,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#09"
+  },
+  {
+   "start": 259.86,
+   "end": 263.1,
+   "text": "Iron sharpens, iron",
+   "avg_logprob": -0.686,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#09"
+  }
+ ]
+}

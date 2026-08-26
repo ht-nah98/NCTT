@@ -1,0 +1,334 @@
+{
+ "track_id": "rBwZv_dQf8A#16",
+ "track_key": "rBwZv_dQf8A__16",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Bold As A Lion (Proverbs 28)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 192.0,
+ "voiced_sec": 137.5,
+ "voice_ratio": 0.716,
+ "n_words": 255,
+ "words_per_min": 79.7,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 39,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.6,
+ "rtf": 0.055,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.48,
+   "text": "Ooh",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 13.04,
+   "end": 16.68,
+   "text": "The wicked round when there's no chase",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 18.96,
+   "end": 23.38,
+   "text": "Fears got a hold can't show his face",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 24.0,
+   "end": 29.9,
+   "text": "But the righteous stand with holy pride bold as a lion on the spirit side",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.628,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 30.0,
+   "end": 32.56,
+   "text": "Better be poor and walking straight",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 32.56,
+   "end": 35.4,
+   "text": "Than rich and crooked at Heaven's gate",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 35.4,
+   "end": 38.3,
+   "text": "Confess your sin and mercy flows",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 38.3,
+   "end": 42.02,
+   "text": "The humble rise is how it goes",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 42.92,
+   "end": 47.84,
+   "text": "I'm bold as a lion Strong in the Lord",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 48.84,
+   "end": 53.56,
+   "text": "Walking in truth Standing on His Word",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 54.42,
+   "end": 59.06,
+   "text": "Fear can't run, but I won't run",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.521,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 59.06,
+   "end": 61.78,
+   "text": "I'm bold as a lion",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.521,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 64.98,
+   "end": 66.96,
+   "text": "God's works not",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.521,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 72.26,
+   "end": 74.98,
+   "text": "The crooked fall in their own trap",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.521,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 74.98,
+   "end": 77.8,
+   "text": "But the righteous walk on the narrow map",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.521,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 77.8,
+   "end": 80.72,
+   "text": "Greed stirs, might pry, blind sight",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.521,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 80.72,
+   "end": 83.54,
+   "text": "But peace belongs to the man of right",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.503,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 83.54,
+   "end": 86.42,
+   "text": "Trust in yourself, you'll go astray",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.503,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 86.42,
+   "end": 89.06,
+   "text": "But wisdom walks the righteous way",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.503,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 89.06,
+   "end": 92.02,
+   "text": "He who gives will never lack",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.503,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 92.02,
+   "end": 95.28,
+   "text": "God's handle favors, got your back",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.503,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 96.58,
+   "end": 101.5,
+   "text": "I'm bold as a lion, strong in the law",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.503,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 102.54,
+   "end": 107.34,
+   "text": "Walking in truth, standing on His word",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.503,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 107.34,
+   "end": 112.76,
+   "text": "Fear can't run, but I won't run",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.53,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 113.34,
+   "end": 115.54,
+   "text": "I'm bold as a lion",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.53,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 116.34,
+   "end": 121.8,
+   "text": "Oh, God's work's not done",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.53,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 126.34,
+   "end": 130.88,
+   "text": "The wicked flee, but I stand tall",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.53,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 130.88,
+   "end": 136.24,
+   "text": "Bold as a lion, threw it off",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.53,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 137.98,
+   "end": 142.1,
+   "text": "Righteous hearts, we can't be moved",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.449,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 143.32,
+   "end": 147.8,
+   "text": "Fates of fire and loves are proof",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.449,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 147.8,
+   "end": 152.14,
+   "text": "I'm bold as a liar, strong as a lord",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.449,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 153.78,
+   "end": 159.12,
+   "text": "Walking in truth, standing on His word",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.449,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 159.12,
+   "end": 163.66,
+   "text": "Fear can't roar, but I won't run",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.449,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 163.66,
+   "end": 166.3,
+   "text": "But I'm bold as a liar",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.538,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 169.06,
+   "end": 171.4,
+   "text": "Till the kingdom comes, yeah",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.538,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 172.92,
+   "end": 174.82,
+   "text": "I'm bold as a liar",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.538,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 177.06,
+   "end": 178.96,
+   "text": "His victory is won",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.538,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 178.96,
+   "end": 180.5,
+   "text": "I'm bold as a liar",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.538,
+   "track_id": "rBwZv_dQf8A#16"
+  },
+  {
+   "start": 183.16,
+   "end": 186.34,
+   "text": "In the power of the sun",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.538,
+   "track_id": "rBwZv_dQf8A#16"
+  }
+ ]
+}

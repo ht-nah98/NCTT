@@ -1,0 +1,198 @@
+{
+ "track_id": "6rz6D787n0U#07",
+ "track_key": "6rz6D787n0U__07",
+ "video_id": "6rz6D787n0U",
+ "title": "7. Psalm 63 – My Soul Thirsts for You",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 230.0,
+ "voiced_sec": 138.0,
+ "voice_ratio": 0.6,
+ "n_words": 174,
+ "words_per_min": 45.4,
+ "is_instrumental": false,
+ "n_segments": 22,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.3,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 19.76,
+   "end": 23.24,
+   "text": "Oh God, you are my God alone.",
+   "avg_logprob": -0.82,
+   "no_speech_prob": 0.484,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 23.24,
+   "end": 35.32,
+   "text": "Early I seek you and I'm far from home In a dry land where the rivers fade",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.469,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 38.0,
+   "end": 49.24,
+   "text": "My soul still calls your holy name My soul thirsts for you",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.469,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 49.24,
+   "end": 52.96,
+   "text": "through my body earns",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.246,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 55.24,
+   "end": 57.58,
+   "text": "in the heat of trial",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.246,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 59.24,
+   "end": 61.16,
+   "text": "my spirit burns",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.246,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 63.24,
+   "end": 66.1,
+   "text": "but I've seen your power",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.246,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 67.24,
+   "end": 69.9,
+   "text": "in the place of praise",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.246,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 72.24,
+   "end": 74.74,
+   "text": "and I bless you Lord",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.246,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 74.74,
+   "end": 78.36,
+   "text": "Lord, all my days",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.415,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 97.74,
+   "end": 100.9,
+   "text": "Your love is better than life itself",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.415,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 100.9,
+   "end": 112.54,
+   "text": "No gold or wine, no earthly wealth My lips will glorify Your name",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.331,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 114.9,
+   "end": 121.38,
+   "text": "In the night I'll sing through joy and pain",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.331,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 125.5,
+   "end": 129.92,
+   "text": "On my bed I remember you",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.355,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 133.5,
+   "end": 138.12,
+   "text": "In the shadow of wings I'm pulled through",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.355,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 142.22,
+   "end": 147.58,
+   "text": "You hold my hand, I cling so tight",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.355,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 147.58,
+   "end": 155.42,
+   "text": "And I sing the blues with heaven's light",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.218,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 156.58,
+   "end": 164.74,
+   "text": "My soul thirsts for You, my body yearns",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.218,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 165.58,
+   "end": 172.4,
+   "text": "In the heat of trial, my spirit burns",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.218,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 172.4,
+   "end": 181.28,
+   "text": "But I've seen your power in the place of praise",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.267,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 181.28,
+   "end": 189.68,
+   "text": "And I bless you Lord, oh my days",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.267,
+   "track_id": "6rz6D787n0U#07"
+  },
+  {
+   "start": 191.26,
+   "end": 207.04,
+   "text": "Yes, my soul follows hard behind In the driest place, you're what I find",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.372,
+   "track_id": "6rz6D787n0U#07"
+  }
+ ]
+}

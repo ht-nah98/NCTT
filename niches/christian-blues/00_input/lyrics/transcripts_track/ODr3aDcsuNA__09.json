@@ -1,0 +1,166 @@
+{
+ "track_id": "ODr3aDcsuNA#09",
+ "track_key": "ODr3aDcsuNA__09",
+ "video_id": "ODr3aDcsuNA",
+ "title": "9. Psalm 24 – Open Up the Gates",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 207.0,
+ "voiced_sec": 106.8,
+ "voice_ratio": 0.516,
+ "n_words": 163,
+ "words_per_min": 47.3,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.6,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 20.54,
+   "end": 24.58,
+   "text": "The earth is the lodge and all it holds",
+   "avg_logprob": -0.747,
+   "no_speech_prob": 0.588,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 26.5,
+   "end": 36.2,
+   "text": "The world and all who walk his roads He found it on the waters deep",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.493,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 38.98,
+   "end": 48.72,
+   "text": "Still his promises he keeps Who may stand on that holy hill",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.493,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 48.72,
+   "end": 53.78,
+   "text": "The one with hands and a heart that's still",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.488,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 54.72,
+   "end": 59.66,
+   "text": "Lift up your heads, you ancient gates",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.488,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 59.66,
+   "end": 65.2,
+   "text": "Let the king of glory enter straight",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.488,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 74.8,
+   "end": 78.38,
+   "text": "He don't play games, he don't do fraud",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.345,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 80.56,
+   "end": 84.34,
+   "text": "He walks in truth and fears his God",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.345,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 86.82,
+   "end": 89.64,
+   "text": "Blessings range from heaven's throne",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.345,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 91.56,
+   "end": 95.42,
+   "text": "To those who seek Him and Him alone",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.612,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 97.56,
+   "end": 102.64,
+   "text": "Open wide, you doers of praise",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.612,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 103.64,
+   "end": 108.28,
+   "text": "Let the King come through the haze",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.612,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 108.28,
+   "end": 113.44,
+   "text": "Who is this King so strong and wise",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.612,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 113.44,
+   "end": 119.0,
+   "text": "The Lord of hosts in fire he rise",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.677,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 160.6,
+   "end": 165.3,
+   "text": "Who may stand on that holy hill?",
+   "avg_logprob": -0.642,
+   "no_speech_prob": 0.489,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 165.3,
+   "end": 176.36,
+   "text": "The one with hands and a heart that still Lift up your heads, you ancient gates",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.506,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 176.36,
+   "end": 181.98,
+   "text": "Let the King of Glory enter straight",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.506,
+   "track_id": "ODr3aDcsuNA#09"
+  },
+  {
+   "start": 191.42,
+   "end": 203.32,
+   "text": "So I'll tune my soul and raise my sound The gates are open, His glory's found",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.308,
+   "track_id": "ODr3aDcsuNA#09"
+  }
+ ]
+}

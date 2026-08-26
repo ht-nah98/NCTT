@@ -1,0 +1,8 @@
+check,value,target,pass
+Phủ kênh,53/53,100%,True
+Phủ thời gian,19/20 tháng,≥90%,True
+Phủ định dạng,6/6,đủ 6,True
+Rổ đối chứng B4,161,≥100,True
+Phủ view,80.6%,≥70%,True
+Tỷ lệ video,13.4%,10-15%,True
+Tỷ lệ comment,4.7%,4-6%,True

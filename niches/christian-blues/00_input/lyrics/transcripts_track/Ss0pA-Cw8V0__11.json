@@ -1,0 +1,646 @@
+{
+ "track_id": "Ss0pA-Cw8V0#11",
+ "track_key": "Ss0pA-Cw8V0__11",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Amazing Grace",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 249.0,
+ "voiced_sec": 189.0,
+ "voice_ratio": 0.759,
+ "n_words": 549,
+ "words_per_min": 132.3,
+ "is_instrumental": false,
+ "n_segments": 78,
+ "n_segments_voiced": 73,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 16.5,
+ "rtf": 0.066,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.62,
+   "text": "I ain't a Judah",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.057,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 2.64,
+   "end": 3.68,
+   "text": "Rain forever",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.057,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 5.14,
+   "end": 6.0,
+   "text": "Rain forever",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.057,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 18.54,
+   "end": 21.5,
+   "text": "But by grace you have been saved through faith",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.057,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 21.5,
+   "end": 23.48,
+   "text": "And this is not your own doing",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.057,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 24.46,
+   "end": 26.3,
+   "text": "It is the gift of God",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.057,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 26.3,
+   "end": 27.56,
+   "text": "Not a result of work",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.057,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 27.56,
+   "end": 29.24,
+   "text": "So that door made bows",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 29.24,
+   "end": 32.7,
+   "text": "Yeah, I was broken, lost in the dark",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 32.7,
+   "end": 35.56,
+   "text": "Chains on my soul, pain in my heart",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 35.56,
+   "end": 38.12,
+   "text": "Then he called my name, said child depart",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 38.12,
+   "end": 41.14,
+   "text": "From the lives of the world on your fresh start",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 41.14,
+   "end": 43.96,
+   "text": "Eight always hit heavy, but my spirit so free",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 43.96,
+   "end": 46.7,
+   "text": "Jesus in my life, now I'm finally me",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 47.24,
+   "end": 49.62,
+   "text": "From the trap to the cross, yeah I see",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 50.24,
+   "end": 52.36,
+   "text": "Amazing grace, say the sinner like me",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 52.36,
+   "end": 55.22,
+   "text": "Every step I take, he provide he got",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.296,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 55.22,
+   "end": 58.1,
+   "text": "Storms coming over, I ain't scared to ride",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 58.1,
+   "end": 60.84,
+   "text": "Faith over fear, yeah, I got that inside",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 60.84,
+   "end": 63.78,
+   "text": "With the king of kings, I'll never have to hide",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 63.78,
+   "end": 65.18,
+   "text": "Amazing grace",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 65.18,
+   "end": 66.56,
+   "text": "How sweet the sound",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 66.56,
+   "end": 69.32,
+   "text": "Save the lost soul lifted me from the ground",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 69.32,
+   "end": 72.18,
+   "text": "Travelling life changing, yeah, my heart found",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 72.18,
+   "end": 74.96,
+   "text": "Peace in Jesus, blessings all around",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 74.96,
+   "end": 76.58,
+   "text": "Amazing grace",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 76.58,
+   "end": 77.84,
+   "text": "Mercy never ends",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 77.84,
+   "end": 80.68,
+   "text": "He my father, savior in my best friend",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 80.68,
+   "end": 83.36,
+   "text": "Through the fire, through the storm, He defend",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 83.36,
+   "end": 84.7,
+   "text": "Amazing grace",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.336,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 84.7,
+   "end": 86.28,
+   "text": "So I'm him out of pain",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 86.28,
+   "end": 89.08,
+   "text": "Every struggle, every fight, he with me",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 89.08,
+   "end": 91.86,
+   "text": "It always knocking, but my soul feeling free",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 91.86,
+   "end": 94.74,
+   "text": "From the pain to the joy, yeah, now I see",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 94.74,
+   "end": 97.32,
+   "text": "God's love is mercy, he'll never leave",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 97.32,
+   "end": 100.36,
+   "text": "Trap, night, street, lights, temptation so real",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 100.36,
+   "end": 103.26,
+   "text": "But his word in my heart, yeah, in my shield",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 103.26,
+   "end": 106.08,
+   "text": "Pray every day, every move I reveal",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 106.08,
+   "end": 108.88,
+   "text": "Amazing grace, Lord, your power I feel",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 108.88,
+   "end": 111.48,
+   "text": "In a meal, earth, but I rise in the Lord",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.65,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 111.48,
+   "end": 117.3,
+   "text": "Spirit in me, hey, open the door No more chain, no more lies to afford",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.872,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 117.3,
+   "end": 120.24,
+   "text": "I'm redeemed, I'm free, I'm heaven rewalled",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.872,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 120.24,
+   "end": 125.8,
+   "text": "Amazing grace, how sweet the sound Said a lost soul, that they came from the ground",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.872,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 125.8,
+   "end": 131.42,
+   "text": "Trapped life, changed it, brought heart found Peace in Jesus, blessings all around",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.872,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 131.42,
+   "end": 137.08,
+   "text": "Amazing grace, mercy never ends He my Father, Savior, my best friend",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.872,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 137.08,
+   "end": 140.06,
+   "text": "Do the fire, do the storm, He defend it",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 140.06,
+   "end": 142.68,
+   "text": "Amazing grace, on Him I depend",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 143.98,
+   "end": 146.3,
+   "text": "I once was blind, now I see",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 146.3,
+   "end": 149.1,
+   "text": "Chains where everybody set me free",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 149.1,
+   "end": 152.06,
+   "text": "Every tear, every pain, every loss in the night",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 152.06,
+   "end": 154.7,
+   "text": "Turns to victory, turns to light",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 154.7,
+   "end": 158.44,
+   "text": "Amazing grace, amazing love",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 159.42,
+   "end": 163.8,
+   "text": "Lifting my soul to heaven above",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.558,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 164.96,
+   "end": 170.96,
+   "text": "I walk in faith every step with him Life ain't perfect but my soul never dim",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.609,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 170.96,
+   "end": 176.6,
+   "text": "Trap beats bumping but my spirit wins Through the trials, through the storms, his life with them",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.609,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 176.6,
+   "end": 180.84,
+   "text": "From the streets to the pulpit, yeah I proclaim, Jesus my King",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.609,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 180.84,
+   "end": 185.1,
+   "text": "Forever praise his name, no shame, no fear, no worldly gain",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.609,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 185.1,
+   "end": 187.9,
+   "text": "Amazing grace, chain me ain't never the same",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.609,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 187.9,
+   "end": 190.78,
+   "text": "Every blessing, every gift, every day I sing",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.609,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 190.78,
+   "end": 193.28,
+   "text": "He the Alpha Omega, my everything",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 193.28,
+   "end": 196.4,
+   "text": "With the angels I rise, my heart take wing",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 196.4,
+   "end": 199.34,
+   "text": "Amazing grace, hallelujah to the King",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 199.34,
+   "end": 200.78,
+   "text": "Amazing grace",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 200.78,
+   "end": 202.12,
+   "text": "How sweet the sound",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 202.12,
+   "end": 204.88,
+   "text": "Say the Lord's soul, let it meet from the ground",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 204.88,
+   "end": 207.72,
+   "text": "Travelling life, changing my heart found",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 207.72,
+   "end": 210.52,
+   "text": "Peace in Jesus, blessings all around",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 210.52,
+   "end": 212.1,
+   "text": "Amazing grace",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 212.1,
+   "end": 213.44,
+   "text": "Mercy never ends",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 213.44,
+   "end": 216.16,
+   "text": "He my Father, Savior and my best friend",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 216.16,
+   "end": 218.86,
+   "text": "Through the fire, through the storm, He defend",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 218.86,
+   "end": 220.36,
+   "text": "Amazing grace",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.548,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 220.36,
+   "end": 221.9,
+   "text": "I'm here, I'm out of pain",
+   "avg_logprob": -0.675,
+   "no_speech_prob": 0.474,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 221.9,
+   "end": 223.44,
+   "text": "Amazing Grace",
+   "avg_logprob": -0.675,
+   "no_speech_prob": 0.474,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 227.4,
+   "end": 229.92,
+   "text": "Amazing Grace",
+   "avg_logprob": -0.675,
+   "no_speech_prob": 0.474,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 229.92,
+   "end": 232.92,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.675,
+   "no_speech_prob": 0.474,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 232.92,
+   "end": 238.08,
+   "text": "Amazing Grace",
+   "avg_logprob": -0.675,
+   "no_speech_prob": 0.474,
+   "track_id": "Ss0pA-Cw8V0#11"
+  },
+  {
+   "start": 241.04,
+   "end": 243.1,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.675,
+   "no_speech_prob": 0.474,
+   "track_id": "Ss0pA-Cw8V0#11"
+  }
+ ]
+}

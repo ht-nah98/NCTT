@@ -1,0 +1,246 @@
+{
+ "track_id": "eD2IMkcreEI#11",
+ "track_key": "eD2IMkcreEI__11",
+ "video_id": "eD2IMkcreEI",
+ "title": "His Eye Is On The Sparrow",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 250.0,
+ "voiced_sec": 187.9,
+ "voice_ratio": 0.752,
+ "n_words": 239,
+ "words_per_min": 57.4,
+ "is_instrumental": false,
+ "n_segments": 28,
+ "n_segments_voiced": 28,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.0,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 15.66,
+   "end": 29.76,
+   "text": "I know you're watching every step, every tear, your need.",
+   "avg_logprob": -0.799,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 33.38,
+   "end": 36.94,
+   "text": "Why should I feel discouraged?",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 38.08,
+   "end": 40.38,
+   "text": "Why should the shadows come?",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 41.46,
+   "end": 47.68,
+   "text": "Why should my heart feel lonely and long for heaven my home?",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 48.32,
+   "end": 54.66,
+   "text": "When Jesus is my portion, a constant friend is he.",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 54.66,
+   "end": 65.32,
+   "text": "His eye is on the sparrow And I know he watches me",
+   "avg_logprob": -0.352,
+   "no_speech_prob": 0.648,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 66.66,
+   "end": 72.26,
+   "text": "Yes, he does I sing because I'm happy",
+   "avg_logprob": -0.352,
+   "no_speech_prob": 0.648,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 75.44,
+   "end": 86.88,
+   "text": "I sing because I'm free, yeah His eyes on the sparrow",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.81,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 88.62,
+   "end": 96.14,
+   "text": "And I know, I know He watches me",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.81,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 96.14,
+   "end": 101.38,
+   "text": "Through the valley, still watchin', still holdin' me",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.373,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 104.46,
+   "end": 110.92,
+   "text": "Let not your heart be troubled These words I hear Him say",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.373,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 112.14,
+   "end": 118.02,
+   "text": "And restin' on His goodness I lose my doubts and fears each day",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.373,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 118.02,
+   "end": 125.12,
+   "text": "Though by the path He leads me, sometimes I cannot see",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 125.12,
+   "end": 135.82,
+   "text": "Still His eye is on the sparrow, and I know He watches me",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 139.14,
+   "end": 142.86,
+   "text": "I sing because I'm happy",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 144.78,
+   "end": 149.94,
+   "text": "Yes I do, I sing because I'm free",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 151.98,
+   "end": 157.52,
+   "text": "Free of my soul, Lord, His eye is on the sparrow",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 159.14,
+   "end": 164.14,
+   "text": "And I know, yes I know, He watches me",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 165.56,
+   "end": 173.8,
+   "text": "He's watching over me night and day, never turned away",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.798,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 173.8,
+   "end": 186.0,
+   "text": "He sees the tears, comes my feet through joy and pain",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.798,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 186.0,
+   "end": 188.66,
+   "text": "His love remains",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.806,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 191.0,
+   "end": 194.0,
+   "text": "Every sparrow, every soul",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.806,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 194.0,
+   "end": 198.06,
+   "text": "I know, I know",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.806,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 199.0,
+   "end": 202.96,
+   "text": "I sing because I'm happy",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.806,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 205.96,
+   "end": 210.18,
+   "text": "I sing because I'm free",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.806,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 213.22,
+   "end": 223.62,
+   "text": "His eyes on the sparrow And I know he watches me",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.508,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 227.44,
+   "end": 238.82,
+   "text": "Oh, watch as me, yeah His eyes on the sparrow",
+   "avg_logprob": -0.661,
+   "no_speech_prob": 0.494,
+   "track_id": "eD2IMkcreEI#11"
+  },
+  {
+   "start": 240.68,
+   "end": 245.92,
+   "text": "And he watches even me",
+   "avg_logprob": -0.661,
+   "no_speech_prob": 0.494,
+   "track_id": "eD2IMkcreEI#11"
+  }
+ ]
+}

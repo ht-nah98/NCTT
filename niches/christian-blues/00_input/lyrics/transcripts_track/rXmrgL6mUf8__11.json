@@ -1,0 +1,406 @@
+{
+ "track_id": "rXmrgL6mUf8#11",
+ "track_key": "rXmrgL6mUf8__11",
+ "video_id": "rXmrgL6mUf8",
+ "title": "Covered",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 204.5,
+ "voiced_sec": 154.4,
+ "voice_ratio": 0.755,
+ "n_words": 394,
+ "words_per_min": 115.6,
+ "is_instrumental": false,
+ "n_segments": 48,
+ "n_segments_voiced": 47,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.3,
+ "rtf": 0.065,
+ "segments": [
+  {
+   "start": 23.16,
+   "end": 29.14,
+   "text": "Oh, yeah, another sunrise City sleeping world in pause",
+   "avg_logprob": -0.659,
+   "no_speech_prob": 0.774,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 29.14,
+   "end": 32.34,
+   "text": "Still the voice is creeping in, trying to shake my cause",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 32.34,
+   "end": 35.48,
+   "text": "See it in the stairs, in the silence when I pass",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 35.48,
+   "end": 38.4,
+   "text": "People I call day ones, now ghost me like the past",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 38.4,
+   "end": 41.66,
+   "text": "They say why take the long road, when you could fly fast",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 41.66,
+   "end": 44.76,
+   "text": "But I've seen what comes quick, and I know it don't last",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 44.76,
+   "end": 47.84,
+   "text": "Whispers in the noise, they fall in line, just blend",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 47.84,
+   "end": 50.98,
+   "text": "But I'm doubtin' the truth, can't pretend won't bend",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 50.98,
+   "end": 54.16,
+   "text": "Heard the lies since you dressed up like friends",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 54.16,
+   "end": 57.06,
+   "text": "But I walk in peace, they won't comprehend",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.707,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 57.06,
+   "end": 61.44,
+   "text": "And I'm covered, wrapped in a love unshaken",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.621,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 61.94,
+   "end": 64.56,
+   "text": "I'm sealed, marked and never forsaken",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.621,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 65.28,
+   "end": 68.98,
+   "text": "Protected, storm can blow, I won't fold in a broken world",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.621,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 68.98,
+   "end": 73.0,
+   "text": "I'm anchored in gold, let them watch, let them talk, let it ride",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.621,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 73.0,
+   "end": 77.16,
+   "text": "I'm covered sealed, protected by the most high",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.621,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 82.34,
+   "end": 85.44,
+   "text": "I move through shadows, no fear in my chest",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.621,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 85.44,
+   "end": 91.56,
+   "text": "I rest in the best, try to plant out, saying I ain't enough",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 91.56,
+   "end": 94.8,
+   "text": "But my roots run deep, I was built for the rough",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 94.8,
+   "end": 98.14,
+   "text": "They flash their pleasures like that, so there is",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 98.14,
+   "end": 101.08,
+   "text": "But I sip from a stream that flows infinite bliss",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 101.08,
+   "end": 104.1,
+   "text": "This world ain't home, just a layover flight",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 104.1,
+   "end": 107.38,
+   "text": "But I walk with purpose, got it by light",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 107.38,
+   "end": 110.58,
+   "text": "Truth in my bones, my soul won't drift",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 110.58,
+   "end": 113.54,
+   "text": "Armor on tight, I was born for this",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.769,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 113.54,
+   "end": 117.88,
+   "text": "Yeah, I'm covered, love that no blade can sever",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 117.88,
+   "end": 121.0,
+   "text": "I'm sealed in a bond last forever",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 121.8,
+   "end": 123.96,
+   "text": "Protected, no skin can catch me blind",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 123.96,
+   "end": 127.08,
+   "text": "I walk in peace, the world can't find",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 127.08,
+   "end": 130.3,
+   "text": "Let them plan, let them plop, let them press from the side",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 130.3,
+   "end": 133.98,
+   "text": "I'm covered, sealed, protected by the most high",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 139.0,
+   "end": 141.98,
+   "text": "Temptation calls off, tryna pull my mind",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.565,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 141.98,
+   "end": 145.02,
+   "text": "But the light around me too fierce to bind",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 145.02,
+   "end": 148.16,
+   "text": "Arrows fly, but I've seen them fall",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 148.16,
+   "end": 151.32,
+   "text": "Faith is my fortress, I fear no wall",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 151.32,
+   "end": 154.54,
+   "text": "No weapon making dim my flame",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 154.54,
+   "end": 157.62,
+   "text": "When he holds me close, I rise again",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 157.62,
+   "end": 159.84,
+   "text": "I'm covered, yeah",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 159.84,
+   "end": 161.66,
+   "text": "His love never breaks",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 161.66,
+   "end": 164.86,
+   "text": "I'm sealed, written deep, no fakes",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 164.86,
+   "end": 167.86,
+   "text": "I'm protected, won't slip, won't sway",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 167.86,
+   "end": 171.02,
+   "text": "In a world gone cold, I'm still lit with day",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.395,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 171.02,
+   "end": 174.1,
+   "text": "Let them test, let them shout, let the storm collide",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.682,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 174.1,
+   "end": 178.08,
+   "text": "I'm covered, sealed, protected by the mosehy",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.682,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 183.26,
+   "end": 185.46,
+   "text": "Covered, sealed, protected",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.682,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 185.46,
+   "end": 188.66,
+   "text": "There's no fear, no shame I'm collected",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.682,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 188.66,
+   "end": 192.0,
+   "text": "In his hands, all directed",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.682,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 194.02,
+   "end": 197.0,
+   "text": "Covered, sealed, protected",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.682,
+   "track_id": "rXmrgL6mUf8#11"
+  },
+  {
+   "start": 201.08,
+   "end": 202.48,
+   "text": "you",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.894,
+   "track_id": "rXmrgL6mUf8#11"
+  }
+ ]
+}

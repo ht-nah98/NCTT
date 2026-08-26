@@ -1,0 +1,342 @@
+{
+ "track_id": "2y2CcCzAtyM#11",
+ "track_key": "2y2CcCzAtyM__11",
+ "video_id": "2y2CcCzAtyM",
+ "title": "11 — Perfect Peace",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 306.0,
+ "voiced_sec": 207.4,
+ "voice_ratio": 0.678,
+ "n_words": 255,
+ "words_per_min": 50.0,
+ "is_instrumental": false,
+ "n_segments": 40,
+ "n_segments_voiced": 40,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.5,
+ "rtf": 0.041,
+ "segments": [
+  {
+   "start": 1.7,
+   "end": 9.04,
+   "text": "whose mind is stale on thee, because ye trusteth in thee.",
+   "avg_logprob": -0.799,
+   "no_speech_prob": 0.204,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 11.76,
+   "end": 15.36,
+   "text": "Isaiah 26 and 3.",
+   "avg_logprob": -0.799,
+   "no_speech_prob": 0.204,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 32.14,
+   "end": 45.1,
+   "text": "When my mind begins to wander into fear And all the shadows gather at my door",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.53,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 48.0,
+   "end": 52.86,
+   "text": "I fix my thoughts on thee and thou are near",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.53,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 54.26,
+   "end": 60.02,
+   "text": "And peace descends like it has done before",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 62.16,
+   "end": 68.18,
+   "text": "Perfect peace, perfect peace",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 69.6,
+   "end": 74.86,
+   "text": "Thou wilt keep me in Thy perfect peace",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 76.88,
+   "end": 80.62,
+   "text": "When my mind has stayed on thee",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.733,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 80.62,
+   "end": 86.48,
+   "text": "Without all I'll ever need Perfect peace",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.412,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 86.48,
+   "end": 90.66,
+   "text": "Perfect peace",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.412,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 90.66,
+   "end": 96.76,
+   "text": "Perfect peace",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.412,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 96.76,
+   "end": 106.72,
+   "text": "The world around me shakes And shifts like sand",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.412,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 106.72,
+   "end": 112.16,
+   "text": "But underneath my feet there is a rock",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.289,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 114.72,
+   "end": 120.42,
+   "text": "I take the hand of God, He holds me fast",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.289,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 121.72,
+   "end": 127.24,
+   "text": "No power in this world can break that lock",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.289,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 128.72,
+   "end": 130.82,
+   "text": "Perfect peace",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.289,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 132.48,
+   "end": 134.9,
+   "text": "Perfect peace",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.289,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 136.72,
+   "end": 142.52,
+   "text": "Thou will keep me in Thy perfect peace",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.402,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 144.72,
+   "end": 147.72,
+   "text": "When my mind is straight on Thee",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.402,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 148.32,
+   "end": 151.6,
+   "text": "Thou art all I'll ever need",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.402,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 151.6,
+   "end": 153.58,
+   "text": "Perfect peace",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.402,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 153.58,
+   "end": 155.36,
+   "text": "Perfect peace",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.402,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 155.36,
+   "end": 157.7,
+   "text": "Perfect peace",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.402,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 158.72,
+   "end": 160.72,
+   "text": "Perfect peace",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.402,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 160.72,
+   "end": 172.2,
+   "text": "Stayed on thee, my mind has stayed upon the Lord",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.271,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 175.6,
+   "end": 187.06,
+   "text": "Stayed on thee, and in that staying I have found my peace",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.271,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 190.72,
+   "end": 195.64,
+   "text": "The enemy wants your mind, he wants you anxious, worried, afraid",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 197.22,
+   "end": 199.42,
+   "text": "But God promises perfect peace",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 199.42,
+   "end": 202.82,
+   "text": "To the mind that has stayed upon him",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 204.22,
+   "end": 205.12,
+   "text": "Not sometimes",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 208.22,
+   "end": 209.04,
+   "text": "Perfect peace",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 211.22,
+   "end": 213.08,
+   "text": "Keep your mind on Jesus",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 214.22,
+   "end": 214.5,
+   "text": "Oh",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 215.72,
+   "end": 216.88,
+   "text": "Perfect peace",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 217.72,
+   "end": 219.72,
+   "text": "Perfect peace",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 219.72,
+   "end": 231.46,
+   "text": "When I trust in thee, stay on you, perfect peace",
+   "avg_logprob": -0.697,
+   "no_speech_prob": 0.516,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 249.72,
+   "end": 257.56,
+   "text": "Perfect peace, that will keep me alive Perfect peace",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.536,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 257.56,
+   "end": 266.72,
+   "text": "When my mind is state only, that's all I'll ever need",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.536,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 266.72,
+   "end": 278.66,
+   "text": "Perfect peace, perfect peace Perfect peace, perfect peace",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.536,
+   "track_id": "2y2CcCzAtyM#11"
+  },
+  {
+   "start": 282.36,
+   "end": 291.62,
+   "text": "Perfect peace, perfect peace, stayed on the perfect peace",
+   "avg_logprob": -0.768,
+   "no_speech_prob": 0.149,
+   "track_id": "2y2CcCzAtyM#11"
+  }
+ ]
+}

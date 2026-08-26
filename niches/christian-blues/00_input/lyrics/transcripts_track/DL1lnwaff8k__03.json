@@ -1,0 +1,206 @@
+{
+ "track_id": "DL1lnwaff8k#03",
+ "track_key": "DL1lnwaff8k__03",
+ "video_id": "DL1lnwaff8k",
+ "title": "2. Ecclesiastes 2 – Chasing the Wind",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 230.0,
+ "voiced_sec": 161.2,
+ "voice_ratio": 0.701,
+ "n_words": 196,
+ "words_per_min": 51.1,
+ "is_instrumental": false,
+ "n_segments": 23,
+ "n_segments_voiced": 23,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.3,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 22.04,
+   "end": 28.02,
+   "text": "I said in my heart, go now redores",
+   "avg_logprob": -0.751,
+   "no_speech_prob": 0.408,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 28.02,
+   "end": 34.02,
+   "text": "Try laughter wine, a merry voice",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.702,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 34.66,
+   "end": 40.02,
+   "text": "I built me houses, planted trees",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.702,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 41.2,
+   "end": 46.02,
+   "text": "Pools and gardens for my yeast",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.702,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 47.44,
+   "end": 52.96,
+   "text": "I had servants born in my game",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.702,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 52.96,
+   "end": 58.88,
+   "text": "Silver gold, a kingly state",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.762,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 59.96,
+   "end": 65.44,
+   "text": "Musician sang, my halls were wide",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.762,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 65.96,
+   "end": 70.82,
+   "text": "But still that hollow stayed inside",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.762,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 71.96,
+   "end": 77.42,
+   "text": "I looked on all my hands that made",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.762,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 77.42,
+   "end": 89.74,
+   "text": "And on the labor where I laid But it was vanity chasing the wind",
+   "avg_logprob": -0.4,
+   "no_speech_prob": 0.818,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 90.42,
+   "end": 95.62,
+   "text": "No prophet found, no peace within",
+   "avg_logprob": -0.4,
+   "no_speech_prob": 0.818,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 99.34,
+   "end": 111.32,
+   "text": "Then I turned myself to wisdom and folly To see what man gains from working knowledge",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.56,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 112.82,
+   "end": 123.14,
+   "text": "The wise man dies just like the fool Same grave, same fate, same broken rule",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.56,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 123.14,
+   "end": 129.38,
+   "text": "I hated all my tolling game",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.658,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 130.14,
+   "end": 136.18,
+   "text": "Knowing it goes to another man's name",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.658,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 136.18,
+   "end": 142.04,
+   "text": "Whether he be wise or mad or weak",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.658,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 142.04,
+   "end": 147.72,
+   "text": "He'll take my fruit though he did not see",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.658,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 147.72,
+   "end": 160.82,
+   "text": "I looked on all my hands that made And on the labor where I laid",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.73,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 160.82,
+   "end": 172.42,
+   "text": "But it was vanity chasing the wind No profit found, no peace within",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.73,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 176.52,
+   "end": 182.08,
+   "text": "There's nothing better than this I find",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.555,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 182.08,
+   "end": 187.72,
+   "text": "Eat, drink and enjoy with toil combined",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.555,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 188.42,
+   "end": 194.26,
+   "text": "Yet this too comes from God alone",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.555,
+   "track_id": "DL1lnwaff8k#03"
+  },
+  {
+   "start": 194.26,
+   "end": 200.66,
+   "text": "Who gives the heart that calls him home?",
+   "avg_logprob": -0.398,
+   "no_speech_prob": 0.549,
+   "track_id": "DL1lnwaff8k#03"
+  }
+ ]
+}

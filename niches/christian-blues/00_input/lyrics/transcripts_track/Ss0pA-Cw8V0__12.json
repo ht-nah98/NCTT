@@ -1,0 +1,462 @@
+{
+ "track_id": "Ss0pA-Cw8V0#12",
+ "track_key": "Ss0pA-Cw8V0__12",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "God's Mercy",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 223.0,
+ "voiced_sec": 176.2,
+ "voice_ratio": 0.79,
+ "n_words": 410,
+ "words_per_min": 110.3,
+ "is_instrumental": false,
+ "n_segments": 55,
+ "n_segments_voiced": 55,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.3,
+ "rtf": 0.064,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.14,
+   "text": "Oh, praise the Lord",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 3.14,
+   "end": 7.0,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 12.24,
+   "end": 16.02,
+   "text": "Mercy, mercy, mercy",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 17.84,
+   "end": 21.88,
+   "text": "I should have been gone a long time ago",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 23.54,
+   "end": 26.22,
+   "text": "But these grace pulled me out to fight",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.473,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 27.52,
+   "end": 30.64,
+   "text": "And His mercy kept me in",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.6,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 34.64,
+   "end": 36.72,
+   "text": "Thank You, Lord",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.6,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 40.0,
+   "end": 43.08,
+   "text": "I was running from the light, tryna hide my shame",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.6,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 43.08,
+   "end": 45.8,
+   "text": "Drowning in my pain, playing dangerous games",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.6,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 45.8,
+   "end": 48.48,
+   "text": "Heart full of pride, mind full of lies",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.6,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 48.48,
+   "end": 51.56,
+   "text": "Still He called my name, opened my eyes",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.6,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 51.56,
+   "end": 53.68,
+   "text": "I fell down, He beat me again",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.6,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 53.68,
+   "end": 56.58,
+   "text": "Said son don't quit, I'm your father not a friend",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 56.58,
+   "end": 59.18,
+   "text": "Every scar he turned to a star",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 59.18,
+   "end": 61.94,
+   "text": "Every fall let me close to the glory",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 61.94,
+   "end": 64.72,
+   "text": "I done sinned but he covered me still",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 64.72,
+   "end": 67.36,
+   "text": "Mercy so deep is breaking my will",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 67.36,
+   "end": 70.16,
+   "text": "I was lost in the dark but he lit that flame",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 70.16,
+   "end": 72.82,
+   "text": "Now I walk with peace I ain't never the same",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 72.82,
+   "end": 75.5,
+   "text": "But every time I fell you pulled me through",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 76.08,
+   "end": 78.3,
+   "text": "Your mercy said I still choose you",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 78.3,
+   "end": 80.88,
+   "text": "I was broken but you made me new",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.429,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 80.88,
+   "end": 83.7,
+   "text": "Oh Lord, I owe it all to you",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 83.7,
+   "end": 86.82,
+   "text": "God's mercy keeps covering me",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 86.82,
+   "end": 89.52,
+   "text": "When the world gave up, you still believed",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 89.52,
+   "end": 92.22,
+   "text": "I was blind, but now I see",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 92.22,
+   "end": 96.18,
+   "text": "God's mercy keeps following me",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 96.18,
+   "end": 98.64,
+   "text": "Keep following me",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 98.64,
+   "end": 101.68,
+   "text": "And following me",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 101.68,
+   "end": 103.1,
+   "text": "I'm praying so low",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 103.1,
+   "end": 106.26,
+   "text": "God's mercy keeps covering me",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 106.26,
+   "end": 109.08,
+   "text": "I came out to trench you with a holy flame",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.606,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 109.08,
+   "end": 111.8,
+   "text": "Devil whispered lies but I don't play his game",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 111.8,
+   "end": 114.1,
+   "text": "Used to chase in, I chase peace",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 114.1,
+   "end": 116.78,
+   "text": "Used to fear death, now my soul's released",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 116.78,
+   "end": 119.22,
+   "text": "Every loss just molded my fate",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 119.22,
+   "end": 121.96,
+   "text": "Every tip just watered my praise",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 121.96,
+   "end": 124.58,
+   "text": "He took my mess, turned it to a map",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 124.58,
+   "end": 127.26,
+   "text": "Show me mercy in every trap",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 127.26,
+   "end": 129.32,
+   "text": "No more running, I'm rooted in truth",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 129.32,
+   "end": 131.96,
+   "text": "Every step guided, he's proof",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 131.96,
+   "end": 134.76,
+   "text": "From the block to the altar, my hands raise high",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 134.76,
+   "end": 140.0,
+   "text": "Cause mercy don't run dry When I was low, who lifted me high",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.297,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 140.0,
+   "end": 145.44,
+   "text": "God's mercy is never denied When I was low, so open my eyes",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.297,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 145.44,
+   "end": 150.86,
+   "text": "God's mercy is never died When I was broken, who covered my sin",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.297,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 150.86,
+   "end": 156.38,
+   "text": "God's mercy again and again When I was broken, who covered my sin",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.297,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 156.38,
+   "end": 160.64,
+   "text": "God's mercy again and again God's mercy",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.297,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 169.88,
+   "end": 175.74,
+   "text": "God's mercy, it covered me When I fell down, you still believed",
+   "avg_logprob": -0.71,
+   "no_speech_prob": 0.574,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 175.74,
+   "end": 187.56,
+   "text": "Grace on it, cause mercy is high to follow in me",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.453,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 189.3,
+   "end": 192.84,
+   "text": "Everyday, through the mercy I see",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.453,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 194.74,
+   "end": 200.86,
+   "text": "Thank You Lord, I should have been the Lord",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.453,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 205.74,
+   "end": 207.42,
+   "text": "But mercy said not this one.",
+   "avg_logprob": -0.613,
+   "no_speech_prob": 0.006,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 210.34,
+   "end": 212.06,
+   "text": "It's His mercy that covered me.",
+   "avg_logprob": -0.613,
+   "no_speech_prob": 0.006,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 214.8,
+   "end": 216.4,
+   "text": "It's His mercy that keeps me",
+   "avg_logprob": -0.613,
+   "no_speech_prob": 0.006,
+   "track_id": "Ss0pA-Cw8V0#12"
+  },
+  {
+   "start": 218.5,
+   "end": 219.58,
+   "text": "forever grateful.",
+   "avg_logprob": -0.613,
+   "no_speech_prob": 0.006,
+   "track_id": "Ss0pA-Cw8V0#12"
+  }
+ ]
+}

@@ -1,0 +1,904 @@
+{
+  "niche": "christian-blues",
+  "n_tracks": 307,
+  "n_videos": 29,
+  "n_channels": 6,
+  "unit_of_analysis": "video (track gộp bằng trung vị)",
+  "view_span": {
+    "min": 11967,
+    "median": 412491,
+    "max": 3652301,
+    "ratio": 305.2
+  },
+  "channel_spread_ratio": 33.9,
+  "tests": [
+    {
+      "rho_mean": -0.5833333333333333,
+      "Z": -4.784838524744734,
+      "p": 1.7112485146686396e-06,
+      "k_channels": 6,
+      "k_positive": 1,
+      "per_channel": {
+        "biblebluesofficial": -0.6,
+        "holygrooveofficial": -1.0,
+        "revivalworshiproommusic": -0.7,
+        "rivers-and-revival": 0.3,
+        "saltandlight-k2z": -1.0,
+        "stillworshipmusic": -0.5
+      },
+      "feature": "drums_over_vocals",
+      "q": 5.9893698013402386e-05,
+      "verdict": "YẾU"
+    },
+    {
+      "rho_mean": -0.6166666666666667,
+      "Z": -3.57669264560927,
+      "p": 0.0003479689020218224,
+      "k_channels": 6,
+      "k_positive": 0,
+      "per_channel": {
+        "biblebluesofficial": -0.5,
+        "holygrooveofficial": -1.0,
+        "revivalworshiproommusic": -0.3,
+        "rivers-and-revival": -0.3,
+        "saltandlight-k2z": -0.9,
+        "stillworshipmusic": -0.7
+      },
+      "feature": "stem_drums",
+      "q": 0.006089455785381892,
+      "verdict": "XÁC NHẬN"
+    },
+    {
+      "rho_mean": 0.3,
+      "Z": 2.7825478675518185,
+      "p": 0.0053933908619892,
+      "k_channels": 6,
+      "k_positive": 5,
+      "per_channel": {
+        "biblebluesofficial": 0.1,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": 0.6,
+        "rivers-and-revival": 0.6,
+        "saltandlight-k2z": 0.3,
+        "stillworshipmusic": 1.0
+      },
+      "feature": "tach_stem_dB",
+      "q": 0.05532153927910344,
+      "verdict": "YẾU"
+    },
+    {
+      "rho_mean": 0.3,
+      "Z": 2.7305715030385462,
+      "p": 0.006322461631897536,
+      "k_channels": 6,
+      "k_positive": 5,
+      "per_channel": {
+        "biblebluesofficial": 0.4,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": 0.4,
+        "rivers-and-revival": 1.0,
+        "saltandlight-k2z": 0.3,
+        "stillworshipmusic": 0.5
+      },
+      "feature": "stereo_width",
+      "q": 0.05532153927910344,
+      "verdict": "YẾU"
+    },
+    {
+      "rho_mean": -0.2833333333333333,
+      "Z": -2.0095429812547567,
+      "p": 0.04447958123868467,
+      "k_channels": 6,
+      "k_positive": 1,
+      "per_channel": {
+        "biblebluesofficial": 0.2,
+        "holygrooveofficial": -1.0,
+        "revivalworshiproommusic": -0.6,
+        "rivers-and-revival": -0.1,
+        "saltandlight-k2z": 0.0,
+        "stillworshipmusic": -0.2
+      },
+      "feature": "buoc_lien",
+      "q": 0.24256894056452372,
+      "verdict": "YẾU"
+    },
+    {
+      "rho_mean": 0.08333333333333333,
+      "Z": 1.9736341892359852,
+      "p": 0.048423353250239165,
+      "k_channels": 6,
+      "k_positive": 3,
+      "per_channel": {
+        "biblebluesofficial": 0.4,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": 0.7,
+        "rivers-and-revival": -0.6,
+        "saltandlight-k2z": 1.0,
+        "stillworshipmusic": -0.2
+      },
+      "feature": "vibrato_hz",
+      "q": 0.24256894056452372,
+      "verdict": "YẾU"
+    },
+    {
+      "rho_mean": 0.26666666666666666,
+      "Z": 1.972840054223341,
+      "p": 0.04851378811290474,
+      "k_channels": 6,
+      "k_positive": 4,
+      "per_channel": {
+        "biblebluesofficial": 0.7,
+        "holygrooveofficial": 1.0,
+        "revivalworshiproommusic": -0.1,
+        "rivers-and-revival": 0.3,
+        "saltandlight-k2z": 0.2,
+        "stillworshipmusic": -0.5
+      },
+      "feature": "hnr_db",
+      "q": 0.24256894056452372,
+      "verdict": "YẾU"
+    },
+    {
+      "rho_mean": -0.5,
+      "Z": -1.869710119426368,
+      "p": 0.06152408350727523,
+      "k_channels": 6,
+      "k_positive": 0,
+      "per_channel": {
+        "biblebluesofficial": -0.5,
+        "holygrooveofficial": -0.4,
+        "revivalworshiproommusic": -0.5,
+        "rivers-and-revival": -0.4,
+        "saltandlight-k2z": -0.5,
+        "stillworshipmusic": -0.7
+      },
+      "feature": "stem_drums_clr",
+      "q": 0.2691678653443291,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.21666666666666667,
+      "Z": 1.730126856754804,
+      "p": 0.08360761282068463,
+      "k_channels": 6,
+      "k_positive": 4,
+      "per_channel": {
+        "biblebluesofficial": 0.6,
+        "holygrooveofficial": 1.0,
+        "revivalworshiproommusic": -0.1,
+        "rivers-and-revival": -0.6,
+        "saltandlight-k2z": 0.1,
+        "stillworshipmusic": 0.3
+      },
+      "feature": "stem_vocals_clr",
+      "q": 0.29322412869956627,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.4166666666666667,
+      "Z": -1.7005745771180025,
+      "p": 0.089022901393921,
+      "k_channels": 6,
+      "k_positive": 1,
+      "per_channel": {
+        "biblebluesofficial": -0.5,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": -0.8,
+        "rivers-and-revival": -0.7,
+        "saltandlight-k2z": -0.2,
+        "stillworshipmusic": 0.5
+      },
+      "feature": "drums_over_guitar",
+      "q": 0.29322412869956627,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.3999999999999999,
+      "Z": 1.6505283417494165,
+      "p": 0.09883492150246553,
+      "k_channels": 6,
+      "k_positive": 5,
+      "per_channel": {
+        "biblebluesofficial": 0.5,
+        "holygrooveofficial": 0.8,
+        "revivalworshiproommusic": 0.8,
+        "rivers-and-revival": 0.8,
+        "saltandlight-k2z": 0.2,
+        "stillworshipmusic": -0.7
+      },
+      "feature": "stem_guitar",
+      "q": 0.29322412869956627,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.4000000000000001,
+      "Z": 1.6422703594396875,
+      "p": 0.10053398698270843,
+      "k_channels": 6,
+      "k_positive": 5,
+      "per_channel": {
+        "biblebluesofficial": 0.8,
+        "holygrooveofficial": 0.4,
+        "revivalworshiproommusic": 0.3,
+        "rivers-and-revival": -0.4,
+        "saltandlight-k2z": 0.6,
+        "stillworshipmusic": 0.7
+      },
+      "feature": "stem_vocals",
+      "q": 0.29322412869956627,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.3089827921354622,
+      "Z": -1.2947827049558913,
+      "p": 0.19539519984901332,
+      "k_channels": 6,
+      "k_positive": 2,
+      "per_channel": {
+        "biblebluesofficial": -0.2,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": 0.1,
+        "rivers-and-revival": -0.718,
+        "saltandlight-k2z": -0.8,
+        "stillworshipmusic": 0.564
+      },
+      "feature": "not_moi_giay",
+      "q": 0.5260639995934974,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.3333333333333333,
+      "Z": -1.1986479693724543,
+      "p": 0.23066485746472254,
+      "k_channels": 6,
+      "k_positive": 0,
+      "per_channel": {
+        "biblebluesofficial": -0.2,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": -0.1,
+        "rivers-and-revival": -0.1,
+        "saltandlight-k2z": -0.2,
+        "stillworshipmusic": -0.6
+      },
+      "feature": "stem_bass",
+      "q": 0.5766621436618063,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.3,
+      "Z": -1.1078798895962552,
+      "p": 0.2679136918105014,
+      "k_channels": 6,
+      "k_positive": 1,
+      "per_channel": {
+        "biblebluesofficial": 0.3,
+        "holygrooveofficial": -0.4,
+        "revivalworshiproommusic": -0.5,
+        "rivers-and-revival": -0.3,
+        "saltandlight-k2z": -0.2,
+        "stillworshipmusic": -0.7
+      },
+      "feature": "stem_bass_clr",
+      "q": 0.5937158564737788,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.11244657241348271,
+      "Z": -1.099814477826832,
+      "p": 0.27141296295944173,
+      "k_channels": 6,
+      "k_positive": 2,
+      "per_channel": {
+        "biblebluesofficial": 0.6,
+        "holygrooveofficial": 0.4,
+        "revivalworshiproommusic": -0.1,
+        "rivers-and-revival": -0.975,
+        "saltandlight-k2z": -0.3,
+        "stillworshipmusic": -0.3
+      },
+      "feature": "four_on_floor",
+      "q": 0.5937158564737788,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.03463225093759104,
+      "Z": -1.0128574489738607,
+      "p": 0.31112825542322486,
+      "k_channels": 6,
+      "k_positive": 4,
+      "per_channel": {
+        "biblebluesofficial": -0.462,
+        "holygrooveofficial": -1.0,
+        "revivalworshiproommusic": 0.7,
+        "rivers-and-revival": 0.1,
+        "saltandlight-k2z": 0.154,
+        "stillworshipmusic": 0.3
+      },
+      "feature": "do_tre_ms",
+      "q": 0.6405581729301689,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.33766009462332097,
+      "Z": -0.9042721651207224,
+      "p": 0.36585110252971775,
+      "k_channels": 4,
+      "k_positive": 0,
+      "per_channel": {
+        "holygrooveofficial": -0.632,
+        "revivalworshiproommusic": 0.0,
+        "rivers-and-revival": -0.359,
+        "stillworshipmusic": -0.359
+      },
+      "feature": "so_hop_am_rieng",
+      "q": 0.6800112315753378,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.2666666666666666,
+      "Z": -0.8661961208782812,
+      "p": 0.3863826202779239,
+      "k_channels": 6,
+      "k_positive": 1,
+      "per_channel": {
+        "biblebluesofficial": -0.5,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": -0.2,
+        "rivers-and-revival": -0.2,
+        "saltandlight-k2z": -0.7,
+        "stillworshipmusic": 0.8
+      },
+      "feature": "lufs",
+      "q": 0.6800112315753378,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.17521648626737626,
+      "Z": -0.8454638850222953,
+      "p": 0.39785188856206544,
+      "k_channels": 6,
+      "k_positive": 2,
+      "per_channel": {
+        "biblebluesofficial": -0.051,
+        "holygrooveofficial": -0.6,
+        "revivalworshiproommusic": 0.7,
+        "rivers-and-revival": 0.5,
+        "saltandlight-k2z": -0.7,
+        "stillworshipmusic": -0.9
+      },
+      "feature": "plr_db",
+      "q": 0.6800112315753378,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.2226186510588609,
+      "Z": 0.8274064271050344,
+      "p": 0.4080067389452027,
+      "k_channels": 6,
+      "k_positive": 5,
+      "per_channel": {
+        "biblebluesofficial": 0.5,
+        "holygrooveofficial": 0.2,
+        "revivalworshiproommusic": 0.3,
+        "rivers-and-revival": 0.7,
+        "saltandlight-k2z": 0.2,
+        "stillworshipmusic": -0.564
+      },
+      "feature": "lech_cent",
+      "q": 0.6800112315753378,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.17478054967508563,
+      "Z": -0.7705667202790355,
+      "p": 0.4409637935165769,
+      "k_channels": 6,
+      "k_positive": 3,
+      "per_channel": {
+        "biblebluesofficial": 0.1,
+        "holygrooveofficial": -0.949,
+        "revivalworshiproommusic": 0.7,
+        "rivers-and-revival": -0.6,
+        "saltandlight-k2z": 0.1,
+        "stillworshipmusic": -0.4
+      },
+      "feature": "phut",
+      "q": 0.6820618879473392,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.2333333333333333,
+      "Z": -0.7324608951094307,
+      "p": 0.46388730245515797,
+      "k_channels": 6,
+      "k_positive": 5,
+      "per_channel": {
+        "biblebluesofficial": 0.6,
+        "holygrooveofficial": 0.8,
+        "revivalworshiproommusic": 0.3,
+        "rivers-and-revival": 0.5,
+        "saltandlight-k2z": 0.2,
+        "stillworshipmusic": -1.0
+      },
+      "feature": "stem_guitar_clr",
+      "q": 0.6820618879473392,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.18333333333333332,
+      "Z": -0.6791559775670181,
+      "p": 0.4970390372675779,
+      "k_channels": 6,
+      "k_positive": 1,
+      "per_channel": {
+        "biblebluesofficial": -0.2,
+        "holygrooveofficial": -0.2,
+        "revivalworshiproommusic": -0.3,
+        "rivers-and-revival": -0.7,
+        "saltandlight-k2z": -0.2,
+        "stillworshipmusic": 0.5
+      },
+      "feature": "bam_luoi_semitone",
+      "q": 0.6820618879473392,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.10854981960070959,
+      "Z": 0.6661062564007203,
+      "p": 0.5053431858507138,
+      "k_channels": 6,
+      "k_positive": 3,
+      "per_channel": {
+        "biblebluesofficial": -0.6,
+        "holygrooveofficial": 0.0,
+        "revivalworshiproommusic": 0.4,
+        "rivers-and-revival": 0.051,
+        "saltandlight-k2z": 0.9,
+        "stillworshipmusic": -0.1
+      },
+      "feature": "lra",
+      "q": 0.6820618879473392,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.153030807743268,
+      "Z": -0.6640246330154352,
+      "p": 0.5066745453323092,
+      "k_channels": 6,
+      "k_positive": 2,
+      "per_channel": {
+        "biblebluesofficial": 0.0,
+        "holygrooveofficial": 0.0,
+        "revivalworshiproommusic": 0.2,
+        "rivers-and-revival": -0.718,
+        "saltandlight-k2z": -0.5,
+        "stillworshipmusic": 0.1
+      },
+      "feature": "swing_phase",
+      "q": 0.6820618879473392,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.18333333333333332,
+      "Z": -0.5670599503647467,
+      "p": 0.5706734516484198,
+      "k_channels": 6,
+      "k_positive": 1,
+      "per_channel": {
+        "biblebluesofficial": -0.4,
+        "holygrooveofficial": -0.2,
+        "revivalworshiproommusic": -0.3,
+        "rivers-and-revival": -0.5,
+        "saltandlight-k2z": -0.4,
+        "stillworshipmusic": 0.7
+      },
+      "feature": "dao_phach",
+      "q": 0.7397618817664701,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.15,
+      "Z": -0.5315532497168803,
+      "p": 0.5950354512944425,
+      "k_channels": 6,
+      "k_positive": 2,
+      "per_channel": {
+        "biblebluesofficial": -0.6,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": 0.5,
+        "rivers-and-revival": 0.0,
+        "saltandlight-k2z": -0.3,
+        "stillworshipmusic": 0.3
+      },
+      "feature": "jitter",
+      "q": 0.7437943141180531,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.13333333333333333,
+      "Z": -0.35475180406913237,
+      "p": 0.7227755376716956,
+      "k_channels": 6,
+      "k_positive": 4,
+      "per_channel": {
+        "biblebluesofficial": -0.2,
+        "holygrooveofficial": -1.0,
+        "revivalworshiproommusic": 0.5,
+        "rivers-and-revival": 0.3,
+        "saltandlight-k2z": 0.7,
+        "stillworshipmusic": 0.5
+      },
+      "feature": "tuong_quan_LR",
+      "q": 0.8530478981409488,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 2.0816681711721685e-17,
+      "Z": -0.3435510898639662,
+      "p": 0.7311839126922419,
+      "k_channels": 6,
+      "k_positive": 3,
+      "per_channel": {
+        "biblebluesofficial": -0.9,
+        "holygrooveofficial": 0.8,
+        "revivalworshiproommusic": 0.1,
+        "rivers-and-revival": -0.1,
+        "saltandlight-k2z": 0.1,
+        "stillworshipmusic": 0.0
+      },
+      "feature": "quang_semitone",
+      "q": 0.8530478981409488,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.01666666666666668,
+      "Z": 0.24497520078730778,
+      "p": 0.806475633294649,
+      "k_channels": 6,
+      "k_positive": 3,
+      "per_channel": {
+        "biblebluesofficial": -0.7,
+        "holygrooveofficial": -0.6,
+        "revivalworshiproommusic": 0.1,
+        "rivers-and-revival": 0.3,
+        "saltandlight-k2z": -0.1,
+        "stillworshipmusic": 0.9
+      },
+      "feature": "stem_piano_clr",
+      "q": 0.9105370053326682,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.03333333333333335,
+      "Z": 0.17999224540755576,
+      "p": 0.8571586560457936,
+      "k_channels": 6,
+      "k_positive": 3,
+      "per_channel": {
+        "biblebluesofficial": -0.6,
+        "holygrooveofficial": -0.8,
+        "revivalworshiproommusic": 0.1,
+        "rivers-and-revival": 0.3,
+        "saltandlight-k2z": -0.1,
+        "stillworshipmusic": 0.9
+      },
+      "feature": "stem_piano",
+      "q": 0.9375172800500867,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.033333333333333326,
+      "Z": -0.12382123710481115,
+      "p": 0.9014568164339585,
+      "k_channels": 6,
+      "k_positive": 2,
+      "per_channel": {
+        "biblebluesofficial": 0.3,
+        "holygrooveofficial": 0.0,
+        "revivalworshiproommusic": -0.4,
+        "rivers-and-revival": -0.2,
+        "saltandlight-k2z": 0.2,
+        "stillworshipmusic": -0.1
+      },
+      "feature": "hop_am_moi_o_nhip",
+      "q": 0.9560905628845014,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": 0.05346378027802056,
+      "Z": 0.07100059831255212,
+      "p": 0.9433972793096499,
+      "k_channels": 6,
+      "k_positive": 3,
+      "per_channel": {
+        "biblebluesofficial": 0.462,
+        "holygrooveofficial": 0.6,
+        "revivalworshiproommusic": 0.359,
+        "rivers-and-revival": -0.6,
+        "saltandlight-k2z": -0.5,
+        "stillworshipmusic": 0.0
+      },
+      "feature": "bpm",
+      "q": 0.9711442581128749,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "rho_mean": -0.005519011857441611,
+      "Z": 0.028108407456392072,
+      "p": 0.9775756885436004,
+      "k_channels": 6,
+      "k_positive": 2,
+      "per_channel": {
+        "biblebluesofficial": -0.5,
+        "holygrooveofficial": 0.0,
+        "revivalworshiproommusic": 0.2,
+        "rivers-and-revival": 0.667,
+        "saltandlight-k2z": -0.3,
+        "stillworshipmusic": -0.1
+      },
+      "feature": "tempo_cv",
+      "q": 0.9775756885436004,
+      "verdict": "BÁC BỎ"
+    }
+  ],
+  "categorical_tests": [
+    {
+      "feature": "truong_thu",
+      "k_channels_tested": 1,
+      "k_channels_significant": 0,
+      "per_channel_p": {
+        "saltandlight-k2z": 1.0
+      },
+      "confound_with_channel_chi2": 12.880454925952675,
+      "confound_p": 0.024525163683445688,
+      "verdict": "KHÔNG ĐỦ MẪU",
+      "note": ""
+    },
+    {
+      "feature": "quang_giong",
+      "k_channels_tested": 2,
+      "k_channels_significant": 0,
+      "per_channel_p": {
+        "saltandlight-k2z": 0.2482,
+        "stillworshipmusic": 0.5637
+      },
+      "confound_with_channel_chi2": 63.16029032607301,
+      "confound_p": 2.284253434114231e-06,
+      "verdict": "KHÔNG ĐỦ MẪU",
+      "note": "lẫn nặng với kênh — thể loại gần như chỉ là biến thay cho kênh"
+    },
+    {
+      "feature": "ho_the_loai",
+      "k_channels_tested": 1,
+      "k_channels_significant": 0,
+      "per_channel_p": {
+        "rivers-and-revival": 1.0
+      },
+      "confound_with_channel_chi2": 248.33413870162332,
+      "confound_p": 5.684607471983235e-34,
+      "verdict": "KHÔNG ĐỦ MẪU",
+      "note": "lẫn nặng với kênh — thể loại gần như chỉ là biến thay cho kênh"
+    },
+    {
+      "feature": "nhip",
+      "k_channels_tested": 1,
+      "k_channels_significant": 0,
+      "per_channel_p": {
+        "saltandlight-k2z": 0.5637
+      },
+      "confound_with_channel_chi2": 12.407232964301098,
+      "confound_p": 0.029614342135213627,
+      "verdict": "KHÔNG ĐỦ MẪU",
+      "note": ""
+    }
+  ],
+  "naive_pooled": {
+    "bpm": {
+      "rho": 0.02,
+      "p": 0.9191704792962017
+    },
+    "lufs": {
+      "rho": -0.074,
+      "p": 0.7010801701998286
+    },
+    "plr_db": {
+      "rho": 0.168,
+      "p": 0.38279625644991594
+    },
+    "lra": {
+      "rho": 0.056,
+      "p": 0.7732093498817743
+    },
+    "stereo_width": {
+      "rho": 0.18,
+      "p": 0.34931742907753854
+    },
+    "stem_vocals": {
+      "rho": 0.002,
+      "p": 0.991906086779222
+    },
+    "stem_bass": {
+      "rho": -0.043,
+      "p": 0.8233163121901836
+    },
+    "stem_drums": {
+      "rho": -0.088,
+      "p": 0.6492171971406479
+    },
+    "stem_guitar": {
+      "rho": -0.197,
+      "p": 0.30558534545743987
+    },
+    "stem_piano": {
+      "rho": 0.387,
+      "p": 0.038084291434101
+    },
+    "swing_phase": {
+      "rho": -0.31,
+      "p": 0.10219877826007237
+    },
+    "dao_phach": {
+      "rho": -0.267,
+      "p": 0.16101811469740057
+    },
+    "four_on_floor": {
+      "rho": 0.117,
+      "p": 0.5454244486138542
+    },
+    "tempo_cv": {
+      "rho": -0.182,
+      "p": 0.34459012369787045
+    },
+    "do_tre_ms": {
+      "rho": 0.421,
+      "p": 0.023022161582785743
+    },
+    "hop_am_moi_o_nhip": {
+      "rho": -0.135,
+      "p": 0.48351008162857523
+    },
+    "so_hop_am_rieng": {
+      "rho": -0.164,
+      "p": 0.39627811761926923
+    },
+    "quang_semitone": {
+      "rho": 0.004,
+      "p": 0.9838109655755514
+    },
+    "buoc_lien": {
+      "rho": 0.196,
+      "p": 0.309117405884265
+    },
+    "not_moi_giay": {
+      "rho": 0.14,
+      "p": 0.46979842064524163
+    },
+    "vibrato_hz": {
+      "rho": -0.434,
+      "p": 0.01861374602063131
+    },
+    "hnr_db": {
+      "rho": 0.271,
+      "p": 0.15436180201590535
+    },
+    "jitter": {
+      "rho": -0.102,
+      "p": 0.5968716261640155
+    },
+    "lech_cent": {
+      "rho": -0.256,
+      "p": 0.1805309908161259
+    },
+    "bam_luoi_semitone": {
+      "rho": 0.258,
+      "p": 0.1772441822644845
+    },
+    "tuong_quan_LR": {
+      "rho": -0.118,
+      "p": 0.5413235788135258
+    },
+    "tach_stem_dB": {
+      "rho": 0.364,
+      "p": 0.05221179364245237
+    },
+    "phut": {
+      "rho": 0.062,
+      "p": 0.7489567020786685
+    },
+    "stem_vocals_clr": {
+      "rho": -0.333,
+      "p": 0.078000409720941
+    },
+    "stem_bass_clr": {
+      "rho": -0.293,
+      "p": 0.12346725107255285
+    },
+    "stem_drums_clr": {
+      "rho": -0.448,
+      "p": 0.014734127417823276
+    },
+    "stem_guitar_clr": {
+      "rho": -0.237,
+      "p": 0.2148903133865406
+    },
+    "stem_piano_clr": {
+      "rho": 0.37,
+      "p": 0.04823063536807458
+    },
+    "drums_over_vocals": {
+      "rho": -0.055,
+      "p": 0.7781597772035429
+    },
+    "drums_over_guitar": {
+      "rho": 0.174,
+      "p": 0.3656033152619794
+    }
+  },
+  "simpson_warnings": [
+    {
+      "feature": "vibrato_hz",
+      "naive_rho": -0.434,
+      "naive_p": 0.01861374602063131,
+      "within_rho": 0.083,
+      "within_q": 0.24256894056452372,
+      "k_positive": 3,
+      "k_channels": 6,
+      "reversed_sign": true,
+      "verdict": "YẾU"
+    },
+    {
+      "feature": "stem_drums_clr",
+      "naive_rho": -0.448,
+      "naive_p": 0.014734127417823276,
+      "within_rho": -0.5,
+      "within_q": 0.2691678653443291,
+      "k_positive": 0,
+      "k_channels": 6,
+      "reversed_sign": false,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "feature": "do_tre_ms",
+      "naive_rho": 0.421,
+      "naive_p": 0.023022161582785743,
+      "within_rho": -0.035,
+      "within_q": 0.6405581729301689,
+      "k_positive": 4,
+      "k_channels": 6,
+      "reversed_sign": true,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "feature": "stem_piano_clr",
+      "naive_rho": 0.37,
+      "naive_p": 0.04823063536807458,
+      "within_rho": -0.017,
+      "within_q": 0.9105370053326682,
+      "k_positive": 3,
+      "k_channels": 6,
+      "reversed_sign": true,
+      "verdict": "BÁC BỎ"
+    },
+    {
+      "feature": "stem_piano",
+      "naive_rho": 0.387,
+      "naive_p": 0.038084291434101,
+      "within_rho": -0.033,
+      "within_q": 0.9375172800500867,
+      "k_positive": 3,
+      "k_channels": 6,
+      "reversed_sign": true,
+      "verdict": "BÁC BỎ"
+    }
+  ],
+  "_meta": {
+    "method": "Spearman trong từng kênh → gộp Stouffer → hiệu chỉnh BH",
+    "min_videos_per_channel": 4,
+    "verdict_rule": "XÁC NHẬN = q<0,05 VÀ mọi kênh cùng dấu",
+    "limits": [
+      "n thật = 29 video, không phải 307 track",
+      "chưa có nhóm kênh THẤT BẠI làm đối chứng",
+      "stem là tỉ lệ hợp thành (tổng≈0,91) — đọc kèm bản CLR"
+    ]
+  }
+}

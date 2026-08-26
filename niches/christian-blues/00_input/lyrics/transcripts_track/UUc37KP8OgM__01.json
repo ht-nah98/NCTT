@@ -1,0 +1,222 @@
+{
+ "track_id": "UUc37KP8OgM#01",
+ "track_key": "UUc37KP8OgM__01",
+ "video_id": "UUc37KP8OgM",
+ "title": NaN,
+ "model": "small",
+ "language": "en",
+ "duration_sec": 160.4,
+ "voiced_sec": 131.0,
+ "voice_ratio": 0.817,
+ "n_words": 178,
+ "words_per_min": 66.6,
+ "is_instrumental": false,
+ "n_segments": 25,
+ "n_segments_voiced": 25,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.2,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.36,
+   "text": "I trust you Lord",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.639,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 7.78,
+   "end": 12.3,
+   "text": "I trust you",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.639,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 18.0,
+   "end": 20.44,
+   "text": "I don't always understand",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.639,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 23.0,
+   "end": 25.8,
+   "text": "The role that you have chosen",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.639,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 27.7,
+   "end": 34.68,
+   "text": "I don't always see the reason For the seasons that feel frozen",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.497,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 36.36,
+   "end": 42.92,
+   "text": "I've stood at crossroads Where every path felt wrong",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.497,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 42.92,
+   "end": 51.88,
+   "text": "Held onto a word from years ago Just trying to stay strong",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.497,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 53.32,
+   "end": 60.02,
+   "text": "But in the not knowing, in the unanswered prayer",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.498,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 60.88,
+   "end": 68.54,
+   "text": "I found the deepest place of worship is simply trusting you are there",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.498,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 69.84,
+   "end": 76.02,
+   "text": "Trust in the Lord with all thine heart",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.498,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 76.02,
+   "end": 82.64,
+   "text": "And lead not to thine own understanding",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.382,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 85.02,
+   "end": 88.86,
+   "text": "In all thy ways acknowledge him",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.382,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 88.86,
+   "end": 94.02,
+   "text": "And he shall direct thy paths",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.382,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 94.56,
+   "end": 99.04,
+   "text": "I've read those words a thousand times",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.382,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 99.04,
+   "end": 102.6,
+   "text": "But living them is something else",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.382,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 102.6,
+   "end": 112.78,
+   "text": "And today I lay my understanding down And choose to trust in nothing else",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.403,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 112.78,
+   "end": 120.68,
+   "text": "I trust You, Lord When the road is dark before me",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.403,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 120.68,
+   "end": 129.64,
+   "text": "I trust You, Lord When I cannot see the end",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.403,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 129.64,
+   "end": 133.1,
+   "text": "I trust you, Lord",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.184,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 133.64,
+   "end": 135.88,
+   "text": "With everything inside me",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.184,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 136.64,
+   "end": 139.36,
+   "text": "Every broken piece I'm holding",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.184,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 140.64,
+   "end": 142.82,
+   "text": "Every question without answer",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.184,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 143.64,
+   "end": 147.0,
+   "text": "Every night that has no morning",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.184,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 147.64,
+   "end": 152.8,
+   "text": "I trust you, Lord",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.184,
+   "track_id": "UUc37KP8OgM#01"
+  },
+  {
+   "start": 154.48,
+   "end": 159.5,
+   "text": "Lord, I trust You",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.32,
+   "track_id": "UUc37KP8OgM#01"
+  }
+ ]
+}

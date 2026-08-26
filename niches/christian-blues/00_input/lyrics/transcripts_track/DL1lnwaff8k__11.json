@@ -1,0 +1,230 @@
+{
+ "track_id": "DL1lnwaff8k#11",
+ "track_key": "DL1lnwaff8k__11",
+ "video_id": "DL1lnwaff8k",
+ "title": "10. Ecclesiastes 10 – Dead Flies and Folly",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 221.0,
+ "voiced_sec": 123.2,
+ "voice_ratio": 0.557,
+ "n_words": 208,
+ "words_per_min": 56.5,
+ "is_instrumental": false,
+ "n_segments": 26,
+ "n_segments_voiced": 26,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.7,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 31.48,
+   "text": "I'm a little bit of a man of stone and a sting",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.566,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 33.6,
+   "end": 37.16,
+   "text": "So does a little folly make the wise man blink",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.566,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 38.8,
+   "end": 42.26,
+   "text": "A fool's heart walks on the left hand side",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.566,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 44.0,
+   "end": 47.76,
+   "text": "But wisdom keeps his feet in stride",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.566,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 49.2,
+   "end": 52.8,
+   "text": "If the spirit of the ruler rise",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.566,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 54.56,
+   "end": 62.98,
+   "text": "Don't leave your place statewide Foolishness is set in high state",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.556,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 65.16,
+   "end": 68.28,
+   "text": "While the rich in wisdom walk low and late",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.556,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 69.4,
+   "end": 79.52,
+   "text": "The snake may bite without a charm And words without grace do more harm",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.556,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 79.52,
+   "end": 89.7,
+   "text": "A babbler's voice brings him down But the wise man's words were a crown",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.267,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 114.92,
+   "end": 118.22,
+   "text": "What are the old land of the fools?",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.407,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 120.52,
+   "end": 123.62,
+   "text": "Where princes feast and break the rules?",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.407,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 125.8,
+   "end": 129.04,
+   "text": "But bless the land where the king grown wise",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.407,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 131.04,
+   "end": 134.0,
+   "text": "And nobles who eat when duty applies",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.407,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 134.0,
+   "end": 139.84,
+   "text": "By much sloth the roof decays,",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.561,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 139.92,
+   "end": 144.9,
+   "text": "Idleness lets the rafters sway,",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.561,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 146.86,
+   "end": 149.5,
+   "text": "Money answers many things,",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.561,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 151.6,
+   "end": 155.18,
+   "text": "But wisdom knows what judgment brings.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.561,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 157.18,
+   "end": 161.32,
+   "text": "The snake may bite without a charm,",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.561,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 161.32,
+   "end": 166.34,
+   "text": "And words without grace do more harm",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.55,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 166.34,
+   "end": 172.42,
+   "text": "A beveler's voice brings him down",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.55,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 172.42,
+   "end": 177.06,
+   "text": "But the wise man's words were a crown",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.55,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 180.84,
+   "end": 185.48,
+   "text": "Curse not the king, not even in thought",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.55,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 185.48,
+   "end": 190.5,
+   "text": "For the birds may carry what you forgot",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.55,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 190.5,
+   "end": 196.14,
+   "text": "Let your heart be clean, your lips stay still",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.483,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 196.14,
+   "end": 205.48,
+   "text": "Or folly may fly, where wisdom is killed",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.483,
+   "track_id": "DL1lnwaff8k#11"
+  },
+  {
+   "start": 209.5,
+   "end": 210.8,
+   "text": "Somebody help",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.483,
+   "track_id": "DL1lnwaff8k#11"
+  }
+ ]
+}

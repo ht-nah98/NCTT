@@ -1,0 +1,502 @@
+{
+ "track_id": "2y2CcCzAtyM#01",
+ "track_key": "2y2CcCzAtyM__01",
+ "video_id": "2y2CcCzAtyM",
+ "title": "1 — Lay It All Down",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 352.0,
+ "voiced_sec": 255.6,
+ "voice_ratio": 0.726,
+ "n_words": 343,
+ "words_per_min": 58.5,
+ "is_instrumental": false,
+ "n_segments": 60,
+ "n_segments_voiced": 60,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 21.3,
+ "rtf": 0.06,
+ "segments": [
+  {
+   "start": 2.88,
+   "end": 10.0,
+   "text": "Casting all your care upon him, for he cared for you.",
+   "avg_logprob": -0.547,
+   "no_speech_prob": 0.128,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 11.4,
+   "end": 21.52,
+   "text": "First Peter five and seven He carried for you",
+   "avg_logprob": -0.624,
+   "no_speech_prob": 0.082,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 33.64,
+   "end": 39.48,
+   "text": "I carried burdens that were never mine to hold",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.202,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 43.2,
+   "end": 59.3,
+   "text": "I worried over things beyond my sight The weight of all my years had made me cold",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.325,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 60.92,
+   "end": 69.2,
+   "text": "Too tired now to put up any fight",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.507,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 69.2,
+   "end": 73.02,
+   "text": "Lay it all down",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.507,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 74.54,
+   "end": 77.94,
+   "text": "Lay it all down",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.481,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 81.08,
+   "end": 88.6,
+   "text": "Every worry, every heartache, every fear",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.481,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 90.02,
+   "end": 92.86,
+   "text": "Lay it all down",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.481,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 95.02,
+   "end": 98.56,
+   "text": "Lay it all down",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.481,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 100.38,
+   "end": 107.86,
+   "text": "Cast your care on Him for He is here",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.677,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 108.56,
+   "end": 111.06,
+   "text": "He carried for you",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.677,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 114.34,
+   "end": 118.24,
+   "text": "Lay it all down",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.677,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 123.52,
+   "end": 128.34,
+   "text": "I've tried to fix what only God can mend",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.505,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 131.32,
+   "end": 138.06,
+   "text": "I've tried to see what only faith can know",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.505,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 142.3,
+   "end": 157.6,
+   "text": "Today I choose to trust Him to the end And let these heavy burdens finally go",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.33,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 159.6,
+   "end": 168.18,
+   "text": "Lay it all down, Lay it all down",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 169.88,
+   "end": 178.14,
+   "text": "Every worry, every heartache, Every fear",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.555,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 178.14,
+   "end": 188.64,
+   "text": "Oh lay it all down, lay it all down",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 188.64,
+   "end": 198.14,
+   "text": "Cast your care on Him for He is here",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 198.14,
+   "end": 200.88,
+   "text": "He cared for you",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 200.88,
+   "end": 204.6,
+   "text": "Oh He cared for you",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.648,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 204.6,
+   "end": 208.42,
+   "text": "Lay it all down",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 209.6,
+   "end": 210.78,
+   "text": "Let it go",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 211.6,
+   "end": 213.82,
+   "text": "Let it go",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 213.82,
+   "end": 215.28,
+   "text": "Let it go",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 215.28,
+   "end": 220.54,
+   "text": "He's already working in ways you can't see",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 220.54,
+   "end": 222.28,
+   "text": "Let it go",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 222.28,
+   "end": 223.98,
+   "text": "Let it go",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 223.98,
+   "end": 225.6,
+   "text": "Let it go",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 226.32,
+   "end": 229.2,
+   "text": "In his hands is the safest place",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.437,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 230.94,
+   "end": 233.54,
+   "text": "It could ever be",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.1,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 237.02,
+   "end": 239.38,
+   "text": "Whatever you picked up on the way here today",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.1,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 241.46,
+   "end": 243.9,
+   "text": "Whatever weight you carry through that door",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.1,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 245.8,
+   "end": 247.42,
+   "text": "Lay it down right now",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.1,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 248.88,
+   "end": 251.32,
+   "text": "He said to cast your care upon him",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.1,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 252.84,
+   "end": 255.44,
+   "text": "Because he cares for you",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.1,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 255.44,
+   "end": 258.14,
+   "text": "Not someone else you",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 260.18,
+   "end": 262.22,
+   "text": "Lay it down",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 262.22,
+   "end": 263.74,
+   "text": "Lay it down",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 264.44,
+   "end": 265.8,
+   "text": "Lay it down",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 265.8,
+   "end": 267.52,
+   "text": "Cast your care",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 267.52,
+   "end": 269.12,
+   "text": "Cast your care",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 269.12,
+   "end": 270.96,
+   "text": "Cast your care",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 270.96,
+   "end": 272.76,
+   "text": "He will hold it",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 272.76,
+   "end": 274.04,
+   "text": "He will hold it",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 274.04,
+   "end": 275.24,
+   "text": "He will hold it",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 275.24,
+   "end": 276.94,
+   "text": "Lay it down",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 276.94,
+   "end": 278.44,
+   "text": "Lay it down",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 279.0,
+   "end": 280.4,
+   "text": "Belong it",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 280.4,
+   "end": 282.9,
+   "text": "Lay it all down",
+   "avg_logprob": -0.183,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 285.16,
+   "end": 288.06,
+   "text": "Lay it all down",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.233,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 290.76,
+   "end": 298.4,
+   "text": "Every worry, every heartache, every fear",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.233,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 301.9,
+   "end": 311.3,
+   "text": "Lay it all down",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.233,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 311.3,
+   "end": 318.3,
+   "text": "Cast your care on him for he is here",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.067,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 319.3,
+   "end": 324.96,
+   "text": "Lay it down, he cares for you",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.067,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 326.3,
+   "end": 329.44,
+   "text": "Lay it all down",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.067,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 339.1,
+   "end": 341.66,
+   "text": "Casting all you care upon him.",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.057,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 344.52,
+   "end": 346.24,
+   "text": "Bless the Lord, O my soul.",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.057,
+   "track_id": "2y2CcCzAtyM#01"
+  },
+  {
+   "start": 349.16,
+   "end": 351.98,
+   "text": "And all that is within me blesses whole.",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.057,
+   "track_id": "2y2CcCzAtyM#01"
+  }
+ ]
+}

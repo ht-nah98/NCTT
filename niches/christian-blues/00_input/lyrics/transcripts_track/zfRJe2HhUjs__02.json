@@ -1,0 +1,374 @@
+{
+ "track_id": "zfRJe2HhUjs#02",
+ "track_key": "zfRJe2HhUjs__02",
+ "video_id": "zfRJe2HhUjs",
+ "title": "Green Pastures Blues (Psalm 23)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 430.0,
+ "voiced_sec": 245.4,
+ "voice_ratio": 0.571,
+ "n_words": 296,
+ "words_per_min": 41.3,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 44,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 17.6,
+ "rtf": 0.041,
+ "segments": [
+  {
+   "start": 19.64,
+   "end": 28.4,
+   "text": "The Lord is my shepherd, yes he is",
+   "avg_logprob": -0.754,
+   "no_speech_prob": 0.294,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 30.04,
+   "end": 37.78,
+   "text": "Oh, the Lord is my shepherd, I got all I need",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.2,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 40.34,
+   "end": 47.44,
+   "text": "He makes me lie down where the grass is green",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.2,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 49.82,
+   "end": 57.6,
+   "text": "Leave me by the water where the stream runs clean",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.362,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 60.92,
+   "end": 67.24,
+   "text": "Oh Lord, you restore my weary soul",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.362,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 70.74,
+   "end": 77.4,
+   "text": "Yes, Lord, you restore my weary soul.",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.457,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 79.7,
+   "end": 87.68,
+   "text": "When I walk through the valley, death shadow all around.",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.457,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 90.04,
+   "end": 97.68,
+   "text": "When I walk through that valley With darkness all around",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.41,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 101.28,
+   "end": 109.26,
+   "text": "I ain't got no fear No fear in my heart",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.41,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 110.44,
+   "end": 118.66,
+   "text": "Cause you're walking with me Been there from the start",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.46,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 121.5,
+   "end": 128.06,
+   "text": "You're riding your staff They comfort me",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.46,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 130.38,
+   "end": 138.68,
+   "text": "Oh, you're riding your staff Lord, they comfort me",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.358,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 141.88,
+   "end": 148.78,
+   "text": "You prepare a table Right before my enemies",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.358,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 150.5,
+   "end": 158.56,
+   "text": "You prepare that table They just stand and see",
+   "avg_logprob": -0.497,
+   "no_speech_prob": 0.591,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 161.74,
+   "end": 168.74,
+   "text": "You anoint my head My cup's running over",
+   "avg_logprob": -0.497,
+   "no_speech_prob": 0.591,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 171.02,
+   "end": 177.96,
+   "text": "Surely goodness and mercy gonna follow me",
+   "avg_logprob": -0.497,
+   "no_speech_prob": 0.591,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 177.96,
+   "end": 183.9,
+   "text": "Follow me all my days",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.675,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 185.84,
+   "end": 193.44,
+   "text": "Oh, they follow me all my days",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.675,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 233.18,
+   "end": 236.24,
+   "text": "Even when trouble comes knocking",
+   "avg_logprob": -0.643,
+   "no_speech_prob": 0.42,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 236.24,
+   "end": 250.36,
+   "text": "I'm gonna go in, at my door When trouble comes knocking, shakin' up my floor",
+   "avg_logprob": -0.697,
+   "no_speech_prob": 0.616,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 252.84,
+   "end": 259.88,
+   "text": "I know where I'm going When this life is through",
+   "avg_logprob": -0.697,
+   "no_speech_prob": 0.616,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 262.54,
+   "end": 270.5,
+   "text": "Gonna dwell in your house Lord forever with you",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.378,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 271.78,
+   "end": 279.36,
+   "text": "Oh I'm gonna dwell in your house Forever and ever with you",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.378,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 281.02,
+   "end": 287.06,
+   "text": "You know, sometimes life gets heavy",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.4,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 289.08,
+   "end": 292.14,
+   "text": "The road gets long",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.4,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 293.94,
+   "end": 296.54,
+   "text": "But I got a shepherd",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.4,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 298.66,
+   "end": 301.24,
+   "text": "Who makes me strong",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.4,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 303.26,
+   "end": 306.34,
+   "text": "Yes, he makes me strong",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.34,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 308.06,
+   "end": 311.62,
+   "text": "You prepare a table",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.34,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 312.24,
+   "end": 316.06,
+   "text": "Right before my enemies",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.34,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 316.06,
+   "end": 321.38,
+   "text": "You prepare that table",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.34,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 322.24,
+   "end": 326.22,
+   "text": "They just stand and sing",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.34,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 326.22,
+   "end": 331.32,
+   "text": "Dancing you anoint my head",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.309,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 333.22,
+   "end": 337.22,
+   "text": "My cup's running over, over",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.309,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 337.22,
+   "end": 339.94,
+   "text": "Surely goodness and mercy",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.309,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 342.22,
+   "end": 347.3,
+   "text": "Gonna follow me, follow me",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.309,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 347.3,
+   "end": 352.54,
+   "text": "All my days, all my days",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.309,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 352.54,
+   "end": 355.08,
+   "text": "Oh, they follow me",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.182,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 356.96,
+   "end": 359.34,
+   "text": "Oh, my days",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.182,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 361.16,
+   "end": 363.7,
+   "text": "The Lord is my shepherd",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.182,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 366.28,
+   "end": 367.26,
+   "text": "Yes",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.182,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 370.54,
+   "end": 373.48,
+   "text": "The Lord is my shepherd",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.182,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 375.62,
+   "end": 377.9,
+   "text": "I shall not want",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.182,
+   "track_id": "zfRJe2HhUjs#02"
+  },
+  {
+   "start": 380.42,
+   "end": 382.76,
+   "text": "I shall not want",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.745,
+   "track_id": "zfRJe2HhUjs#02"
+  }
+ ]
+}

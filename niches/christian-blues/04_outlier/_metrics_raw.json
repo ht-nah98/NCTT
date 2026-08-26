@@ -1,0 +1,574 @@
+{
+  "n_B1": 435,
+  "n_B4": 161,
+  "paired_channels": 17,
+  "excluded_engagement": {
+    "reason": "artefact to\u00e1n h\u1ecdc \u2014 m\u1eabu s\u1ed1 view l\u1edbn k\u00e9o t\u1ef7 l\u1ec7 xu\u1ed1ng",
+    "B1_median_view": 71314.0,
+    "B4_median_view": 863.0,
+    "spearman_view_vs_eng": -0.202
+  },
+  "binary_tests": [
+    {
+      "feature": "C\u00f3 ch\u1eef Lyrics",
+      "B1_pct": 2.2988505747126435,
+      "B4_pct": 0.0,
+      "B1_n": "10/435",
+      "B4_n": "0/161",
+      "lift": Infinity,
+      "p": 0.06938368830713862,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "feature": "C\u00f3 t\u00ean s\u00e1ch Kinh Th\u00e1nh",
+      "B1_pct": 10.114942528735632,
+      "B4_pct": 1.2422360248447204,
+      "B1_n": "44/435",
+      "B4_n": "2/161",
+      "lift": 8.142528735632185,
+      "p": 8.970137592425611e-05,
+      "verdict": "X\u00c1C NH\u1eacN"
+    },
+    {
+      "feature": "C\u00f3 ch\u1eef Psalm",
+      "B1_pct": 12.183908045977011,
+      "B4_pct": 3.7267080745341614,
+      "B1_n": "53/435",
+      "B4_n": "6/161",
+      "lift": 3.2693486590038314,
+      "p": 0.001730329306045559,
+      "verdict": "X\u00c1C NH\u1eacN"
+    },
+    {
+      "feature": "C\u00f3 ch\u1eef s\u1ed1",
+      "B1_pct": 25.74712643678161,
+      "B4_pct": 17.391304347826086,
+      "B1_n": "112/435",
+      "B4_n": "28/161",
+      "lift": 1.4804597701149427,
+      "p": 0.03838427576338119,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "feature": "C\u00f3 ghi th\u1eddi l\u01b0\u1ee3ng",
+      "B1_pct": 6.206896551724138,
+      "B4_pct": 4.968944099378882,
+      "B1_n": "27/435",
+      "B4_n": "8/161",
+      "lift": 1.2491379310344828,
+      "p": 0.6960396468320506,
+      "verdict": "B\u00c1C B\u1ece"
+    }
+  ],
+  "tests": [
+    {
+      "feature": "T\u1ef7 l\u1ec7 ch\u1eef HOA",
+      "B1": 0.13793103448275862,
+      "B4": 0.14457831325301204,
+      "unit": "",
+      "diff_pct": -4.597701149425284,
+      "p": 0.0017942378309187732,
+      "cliffs_delta": -0.16644534875419434,
+      "verdict": "Y\u1ebeU",
+      "measure": "tr\u1ef1c ti\u1ebfp"
+    },
+    {
+      "feature": "T\u1eadp trung gi\u1eefa \u1ea3nh",
+      "B1": 0.06832677544039012,
+      "B4": 0.08913862782452553,
+      "unit": "",
+      "diff_pct": -23.347736993556516,
+      "p": 0.03105924034678635,
+      "cliffs_delta": -0.1149568073106304,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "\u0110\u1ed9 t\u01b0\u01a1ng ph\u1ea3n",
+      "B1": 0.2196662648440268,
+      "B4": 0.2240661690582596,
+      "unit": "",
+      "diff_pct": -1.9636628915134378,
+      "p": 0.08384481873847263,
+      "cliffs_delta": -0.09216820161347898,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "\u0110i\u1ec3m ch\u1eef tr\u00ean \u1ea3nh",
+      "B1": 0.3492526620633182,
+      "B4": 0.3695274159295436,
+      "unit": "",
+      "diff_pct": -5.4866710810142205,
+      "p": 0.08875275571526363,
+      "cliffs_delta": -0.09074034411365746,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "S\u1ed1 d\u1ea5u |",
+      "B1": 1.0,
+      "B4": 1.0,
+      "unit": "",
+      "diff_pct": 0.0,
+      "p": 0.07431424812025322,
+      "cliffs_delta": -0.08878417933890198,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "tr\u1ef1c ti\u1ebfp"
+    },
+    {
+      "feature": "M\u1eadt \u0111\u1ed9 \u0111\u01b0\u1eddng n\u00e9t",
+      "B1": 0.08659422122627439,
+      "B4": 0.09125240177045267,
+      "unit": "",
+      "diff_pct": -5.104721030681509,
+      "p": 0.16478785150006636,
+      "cliffs_delta": -0.07406296851574212,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "S\u1ed1 t\u1eeb ti\u00eau \u0111\u1ec1",
+      "B1": 13.0,
+      "B4": 13.0,
+      "unit": "t\u1eeb",
+      "diff_pct": 0.0,
+      "p": 0.3530627444570934,
+      "cliffs_delta": 0.04931819804383523,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "tr\u1ef1c ti\u1ebfp"
+    },
+    {
+      "feature": "\u0110\u1ed9 r\u1ef1c m\u00e0u",
+      "B1": 0.1681815571835447,
+      "B4": 0.1731130107101817,
+      "unit": "",
+      "diff_pct": -2.848690289889903,
+      "p": 0.5314900606548443,
+      "cliffs_delta": -0.033369029770828874,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "\u0110\u1ed9 d\u00e0i video",
+      "B1": 2650.0,
+      "B4": 1825.0,
+      "unit": "gi\u00e2y",
+      "diff_pct": 45.20547945205479,
+      "p": 0.5972119950796957,
+      "cliffs_delta": 0.028216915738352236,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "tr\u1ef1c ti\u1ebfp"
+    },
+    {
+      "feature": "S\u1ed1 hashtag",
+      "B1": 0.0,
+      "B4": 0.0,
+      "unit": "",
+      "diff_pct": NaN,
+      "p": 0.41211242488266253,
+      "cliffs_delta": 0.02520168487184979,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "tr\u1ef1c ti\u1ebfp"
+    },
+    {
+      "feature": "T\u1ef7 l\u1ec7 v\u00f9ng t\u1ed1i",
+      "B1": 0.6866666666666666,
+      "B4": 0.6909027777777778,
+      "unit": "",
+      "diff_pct": -0.6131269474319021,
+      "p": 0.7146369148557414,
+      "cliffs_delta": 0.019504533447561933,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "\u0110\u1ed9 s\u00e1ng \u1ea3nh",
+      "B1": 0.2345871657407407,
+      "B4": 0.2267761182461874,
+      "unit": "",
+      "diff_pct": 3.4443871581193815,
+      "p": 0.7168371043516233,
+      "cliffs_delta": -0.019347469122581566,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "\u0110\u1ed9 b\u00e3o h\u00f2a",
+      "B1": 0.4510690844540092,
+      "B4": 0.487354687751881,
+      "unit": "",
+      "diff_pct": -7.445419980518447,
+      "p": 0.780978547445162,
+      "cliffs_delta": -0.01483543942314557,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "proxy"
+    },
+    {
+      "feature": "\u0110\u1ed9 d\u00e0i ti\u00eau \u0111\u1ec1",
+      "B1": 74.0,
+      "B4": 73.0,
+      "unit": "k\u00fd t\u1ef1",
+      "diff_pct": 1.36986301369863,
+      "p": 0.8510241907631194,
+      "cliffs_delta": 0.010023559648747056,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "tr\u1ef1c ti\u1ebfp"
+    },
+    {
+      "feature": "S\u1ed1 emoji",
+      "B1": 0.0,
+      "B4": 0.0,
+      "unit": "",
+      "diff_pct": NaN,
+      "p": 0.9390956953893302,
+      "cliffs_delta": -0.0032412365245948456,
+      "verdict": "B\u00c1C B\u1ece",
+      "measure": "tr\u1ef1c ti\u1ebfp"
+    }
+  ],
+  "format_matrix": [
+    {
+      "duration_band": "1-3h",
+      "B1_th\u1eafng": 148,
+      "B4_thua": 53,
+      "pct_B1": 73.6318407960199
+    },
+    {
+      "duration_band": "1-6m",
+      "B1_th\u1eafng": 76,
+      "B4_thua": 21,
+      "pct_B1": 78.35051546391753
+    },
+    {
+      "duration_band": "30-60m",
+      "B1_th\u1eafng": 104,
+      "B4_thua": 25,
+      "pct_B1": 80.62015503875969
+    },
+    {
+      "duration_band": "3h+",
+      "B1_th\u1eafng": 18,
+      "B4_thua": 6,
+      "pct_B1": 75.0
+    },
+    {
+      "duration_band": "6-30m",
+      "B1_th\u1eafng": 65,
+      "B4_thua": 47,
+      "pct_B1": 58.03571428571429
+    },
+    {
+      "duration_band": "Shorts",
+      "B1_th\u1eafng": 20,
+      "B4_thua": 9,
+      "pct_B1": 68.96551724137932
+    }
+  ],
+  "format_all": [
+    {
+      "duration_band": "1-3h",
+      "n": 3068,
+      "vpd": 11.697222222222223,
+      "mv": 738.0
+    },
+    {
+      "duration_band": "1-6m",
+      "n": 1156,
+      "vpd": 15.63529442445105,
+      "mv": 2557.0
+    },
+    {
+      "duration_band": "30-60m",
+      "n": 1163,
+      "vpd": 8.486274509803922,
+      "mv": 923.0
+    },
+    {
+      "duration_band": "3h+",
+      "n": 394,
+      "vpd": 9.86674559326493,
+      "mv": 1143.5
+    },
+    {
+      "duration_band": "6-30m",
+      "n": 901,
+      "vpd": 9.797202797202797,
+      "mv": 1713.0
+    },
+    {
+      "duration_band": "Shorts",
+      "n": 496,
+      "vpd": 21.583251177565998,
+      "mv": 2450.0
+    }
+  ],
+  "top_phrases": [
+    {
+      "phrase": "prayer",
+      "n_words": 1,
+      "n_channels": 23,
+      "in_B4_count": 26
+    },
+    {
+      "phrase": "lord",
+      "n_words": 1,
+      "n_channels": 19,
+      "in_B4_count": 16
+    },
+    {
+      "phrase": "god",
+      "n_words": 1,
+      "n_channels": 18,
+      "in_B4_count": 24
+    },
+    {
+      "phrase": "peace",
+      "n_words": 1,
+      "n_channels": 15,
+      "in_B4_count": 20
+    },
+    {
+      "phrase": "faith",
+      "n_words": 1,
+      "n_channels": 15,
+      "in_B4_count": 13
+    },
+    {
+      "phrase": "healing",
+      "n_words": 1,
+      "n_channels": 14,
+      "in_B4_count": 11
+    },
+    {
+      "phrase": "powerful",
+      "n_words": 1,
+      "n_channels": 14,
+      "in_B4_count": 19
+    },
+    {
+      "phrase": "jesus",
+      "n_words": 1,
+      "n_channels": 11,
+      "in_B4_count": 13
+    },
+    {
+      "phrase": "praise",
+      "n_words": 1,
+      "n_channels": 11,
+      "in_B4_count": 23
+    },
+    {
+      "phrase": "strength",
+      "n_words": 1,
+      "n_channels": 10,
+      "in_B4_count": 3
+    },
+    {
+      "phrase": "still",
+      "n_words": 1,
+      "n_channels": 10,
+      "in_B4_count": 7
+    },
+    {
+      "phrase": "testimony",
+      "n_words": 1,
+      "n_channels": 10,
+      "in_B4_count": 22
+    },
+    {
+      "phrase": "grace",
+      "n_words": 1,
+      "n_channels": 10,
+      "in_B4_count": 2
+    },
+    {
+      "phrase": "psalm",
+      "n_words": 1,
+      "n_channels": 9,
+      "in_B4_count": 12
+    },
+    {
+      "phrase": "psalms",
+      "n_words": 1,
+      "n_channels": 9,
+      "in_B4_count": 9
+    },
+    {
+      "phrase": "heart",
+      "n_words": 1,
+      "n_channels": 8,
+      "in_B4_count": 4
+    },
+    {
+      "phrase": "need",
+      "n_words": 1,
+      "n_channels": 8,
+      "in_B4_count": 6
+    },
+    {
+      "phrase": "through",
+      "n_words": 1,
+      "n_channels": 8,
+      "in_B4_count": 3
+    },
+    {
+      "phrase": "relaxing",
+      "n_words": 1,
+      "n_channels": 7,
+      "in_B4_count": 1
+    },
+    {
+      "phrase": "hope",
+      "n_words": 1,
+      "n_channels": 7,
+      "in_B4_count": 2
+    }
+  ],
+  "bible_market_wide": {
+    "n_bib": 489,
+    "n_no": 5120,
+    "vpd_bib": 4.900568181818182,
+    "vpd_no": 10.161224489795918,
+    "lift": 0.48228126312329966,
+    "p": 9.64901718225478e-10
+  },
+  "bible_within_channel": {
+    "n_channels": 13,
+    "n_better": 6,
+    "median_lift": 0.8195872279011492,
+    "rows": [
+      {
+        "handle": "holygrooveofficial",
+        "n_bib": 45,
+        "vpd_bib": 33.34905660377358,
+        "vpd_no": 14.306213335536643,
+        "lift": 2.3310890045889714
+      },
+      {
+        "handle": "soulstringsblues-o1g",
+        "n_bib": 14,
+        "vpd_bib": 7.831903945111493,
+        "vpd_no": 4.3933333333333335,
+        "lift": 1.7826791984320545
+      },
+      {
+        "handle": "vintage_gospel_vgx",
+        "n_bib": 24,
+        "vpd_bib": 75.5882985074627,
+        "vpd_no": 43.36812440038375,
+        "lift": 1.7429459897692472
+      },
+      {
+        "handle": "bluesoffaith1",
+        "n_bib": 5,
+        "vpd_bib": 2.19672131147541,
+        "vpd_no": 1.273972602739726,
+        "lift": 1.7243081262118811
+      },
+      {
+        "handle": "holygroove-1",
+        "n_bib": 255,
+        "vpd_bib": 3.835777126099707,
+        "vpd_no": 2.7468671679197993,
+        "lift": 1.3964188625125757
+      },
+      {
+        "handle": "holyspiritsoundblues",
+        "n_bib": 22,
+        "vpd_bib": 9.252667960223139,
+        "vpd_no": 7.797727272727273,
+        "lift": 1.1865852236951855
+      },
+      {
+        "handle": "saltandlight-k2z",
+        "n_bib": 7,
+        "vpd_bib": 15.06989247311828,
+        "vpd_no": 18.387173396674584,
+        "lift": 0.8195872279011492
+      },
+      {
+        "handle": "deeprivergospel",
+        "n_bib": 5,
+        "vpd_bib": 2.9791666666666665,
+        "vpd_no": 4.074418604651163,
+        "lift": 0.7311881659056316
+      },
+      {
+        "handle": "songsworshipblues",
+        "n_bib": 29,
+        "vpd_bib": 2.8524590163934427,
+        "vpd_no": 4.015533695492586,
+        "lift": 0.710356140105439
+      },
+      {
+        "handle": "rivers-and-revival",
+        "n_bib": 6,
+        "vpd_bib": 58.29600694444444,
+        "vpd_no": 82.5760642865906,
+        "lift": 0.7059673701827304
+      },
+      {
+        "handle": "thearksound",
+        "n_bib": 7,
+        "vpd_bib": 1.3563218390804597,
+        "vpd_no": 3.3053435114503817,
+        "lift": 0.4103421730243423
+      },
+      {
+        "handle": "graceinbluesgospel",
+        "n_bib": 32,
+        "vpd_bib": 1.99760402057036,
+        "vpd_no": 5.532258064516129,
+        "lift": 0.3610829424937677
+      },
+      {
+        "handle": "biblebluesofficial",
+        "n_bib": 22,
+        "vpd_bib": 2.4394847495920673,
+        "vpd_no": 18.62686567164179,
+        "lift": 0.13096592806303567
+      }
+    ]
+  },
+  "bible_verdict": "KH\u00d4NG X\u00c1C NH\u1eacN \u2014 ngh\u1ecbch l\u00fd Simpson: gi\u00e0u trong nh\u00f3m outlier nh\u01b0ng to\u00e0n th\u1ecb tr\u01b0\u1eddng k\u00e9m h\u01a1n (0.48x) v\u00e0 trong t\u1eebng k\u00eanh ch\u1ec9 6/13 k\u00eanh t\u1ed1t h\u01a1n",
+  "format_chi2_p": 0.002742448825782044,
+  "format_b1b4": [
+    {
+      "duration_band": "1-3h",
+      "B1_th\u1eafng": 148,
+      "B4_thua": 53,
+      "pct_B1": 73.6318407960199
+    },
+    {
+      "duration_band": "1-6m",
+      "B1_th\u1eafng": 76,
+      "B4_thua": 21,
+      "pct_B1": 78.35051546391753
+    },
+    {
+      "duration_band": "30-60m",
+      "B1_th\u1eafng": 104,
+      "B4_thua": 25,
+      "pct_B1": 80.62015503875969
+    },
+    {
+      "duration_band": "3h+",
+      "B1_th\u1eafng": 18,
+      "B4_thua": 6,
+      "pct_B1": 75.0
+    },
+    {
+      "duration_band": "6-30m",
+      "B1_th\u1eafng": 65,
+      "B4_thua": 47,
+      "pct_B1": 58.03571428571429
+    },
+    {
+      "duration_band": "Shorts",
+      "B1_th\u1eafng": 20,
+      "B4_thua": 9,
+      "pct_B1": 68.96551724137932
+    }
+  ]
+}

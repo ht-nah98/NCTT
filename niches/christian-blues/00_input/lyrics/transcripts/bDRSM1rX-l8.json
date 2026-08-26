@@ -1,0 +1,698 @@
+{
+ "video_id": "bDRSM1rX-l8",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 487.3,
+ "voiced_sec": 240.0,
+ "voice_ratio": 0.493,
+ "is_instrumental": false,
+ "n_segments": 68,
+ "n_segments_voiced": 61,
+ "n_tracks": 1,
+ "n_seg_mapped": 68,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 8.56,
+   "end": 16.0,
+   "text": "Still here, I've been pulled in pieces",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.759,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 8.56,
+   "track_end": 16.0
+  },
+  {
+   "start": 18.94,
+   "end": 28.7,
+   "text": "Two minute directions at once, trying to stay steady",
+   "avg_logprob": -0.494,
+   "no_speech_prob": 0.738,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 18.94,
+   "track_end": 28.7
+  },
+  {
+   "start": 32.44,
+   "end": 41.0,
+   "text": "While the ground kept shifting, I didn't notice the stream",
+   "avg_logprob": -0.494,
+   "no_speech_prob": 0.738,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 32.44,
+   "track_end": 41.0
+  },
+  {
+   "start": 44.18,
+   "end": 47.46,
+   "text": "Until I slowed down",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.784,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 44.18,
+   "track_end": 47.46
+  },
+  {
+   "start": 48.0,
+   "end": 53.56,
+   "text": "And realized I was standing",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.784,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 48.0,
+   "track_end": 53.56
+  },
+  {
+   "start": 56.44,
+   "end": 59.68,
+   "text": "Because you were",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.784,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 56.44,
+   "track_end": 59.68
+  },
+  {
+   "start": 59.68,
+   "end": 63.04,
+   "text": "I see it now",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.784,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 59.68,
+   "track_end": 63.04
+  },
+  {
+   "start": 63.04,
+   "end": 68.08,
+   "text": "Guide your heart and be together",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.784,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 63.04,
+   "track_end": 68.08
+  },
+  {
+   "start": 68.08,
+   "end": 73.42,
+   "text": "Right where I am",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.757,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 68.08,
+   "track_end": 73.42
+  },
+  {
+   "start": 76.42,
+   "end": 80.76,
+   "text": "Got your home and you need it together",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.757,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 76.42,
+   "track_end": 80.76
+  },
+  {
+   "start": 80.76,
+   "end": 85.38,
+   "text": "I feel your hands",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.757,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 80.76,
+   "track_end": 85.38
+  },
+  {
+   "start": 87.34,
+   "end": 91.22,
+   "text": "I should have fallen apart",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.757,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 87.34,
+   "track_end": 91.22
+  },
+  {
+   "start": 91.22,
+   "end": 95.28,
+   "text": "I'm just a little bit of a stranger",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.855,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 91.22,
+   "track_end": 95.28
+  },
+  {
+   "start": 95.28,
+   "end": 97.48,
+   "text": "But you held me",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.855,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 95.28,
+   "track_end": 97.48
+  },
+  {
+   "start": 102.22,
+   "end": 104.32,
+   "text": "You didn't rush the healing",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.855,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 102.22,
+   "track_end": 104.32
+  },
+  {
+   "start": 105.22,
+   "end": 107.46,
+   "text": "Didn't force the seams",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.855,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 105.22,
+   "track_end": 107.46
+  },
+  {
+   "start": 108.22,
+   "end": 110.72,
+   "text": "You stayed close in the places",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.855,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 108.22,
+   "track_end": 110.72
+  },
+  {
+   "start": 110.72,
+   "end": 113.6,
+   "text": "No one else could see",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.855,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 110.72,
+   "track_end": 113.6
+  },
+  {
+   "start": 114.22,
+   "end": 116.78,
+   "text": "Every breath that's steady",
+   "avg_logprob": -0.605,
+   "no_speech_prob": 0.855,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 114.22,
+   "track_end": 116.78
+  },
+  {
+   "start": 116.78,
+   "end": 126.04,
+   "text": "Every step that I take That was you holding me this way",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.793,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 116.78,
+   "track_end": 126.04
+  },
+  {
+   "start": 126.78,
+   "end": 131.8,
+   "text": "I don't fight it, oh",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.793,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 126.78,
+   "track_end": 131.8
+  },
+  {
+   "start": 133.78,
+   "end": 141.7,
+   "text": "Got you holding me together Day by day",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.793,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 133.78,
+   "track_end": 141.7
+  },
+  {
+   "start": 146.78,
+   "end": 150.22,
+   "text": "God, go home and be together",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 146.78,
+   "track_end": 150.22
+  },
+  {
+   "start": 152.54,
+   "end": 154.4,
+   "text": "I'm okay",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 152.54,
+   "track_end": 154.4
+  },
+  {
+   "start": 157.78,
+   "end": 160.82,
+   "text": "As you're falling apart",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 157.78,
+   "track_end": 160.82
+  },
+  {
+   "start": 162.28,
+   "end": 162.8,
+   "text": "Stay",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 162.28,
+   "track_end": 162.8
+  },
+  {
+   "start": 164.78,
+   "end": 167.08,
+   "text": "But you help me",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 164.78,
+   "track_end": 167.08
+  },
+  {
+   "start": 168.28,
+   "end": 169.72,
+   "text": "And that better make me",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 168.28,
+   "track_end": 169.72
+  },
+  {
+   "start": 170.28,
+   "end": 171.78,
+   "text": "And pretend I'm strong",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 170.28,
+   "track_end": 171.78
+  },
+  {
+   "start": 173.78,
+   "end": 174.62,
+   "text": "Just to stay",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.38,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 173.78,
+   "track_end": 174.62
+  },
+  {
+   "start": 176.78,
+   "end": 177.34,
+   "text": "my love",
+   "avg_logprob": -1.037,
+   "no_speech_prob": 0.564,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 176.78,
+   "track_end": 177.34
+  },
+  {
+   "start": 208.3,
+   "end": 213.52,
+   "text": "Here I stand",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.688,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 208.3,
+   "track_end": 213.52
+  },
+  {
+   "start": 215.26,
+   "end": 219.7,
+   "text": "Die, you're holding me together",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.688,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 215.26,
+   "track_end": 219.7
+  },
+  {
+   "start": 222.68,
+   "end": 224.52,
+   "text": "I'm kept",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.688,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 222.68,
+   "track_end": 224.52
+  },
+  {
+   "start": 226.22,
+   "end": 230.24,
+   "text": "I should've fallen apart",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.688,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 226.22,
+   "track_end": 230.24
+  },
+  {
+   "start": 230.24,
+   "end": 232.68,
+   "text": "Stay",
+   "avg_logprob": -0.785,
+   "no_speech_prob": 0.83,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 230.24,
+   "track_end": 232.68
+  },
+  {
+   "start": 234.24,
+   "end": 237.34,
+   "text": "But you help me",
+   "avg_logprob": -0.785,
+   "no_speech_prob": 0.83,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 234.24,
+   "track_end": 237.34
+  },
+  {
+   "start": 238.24,
+   "end": 239.94,
+   "text": "You",
+   "avg_logprob": -0.785,
+   "no_speech_prob": 0.83,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 238.24,
+   "track_end": 239.94
+  },
+  {
+   "start": 246.04,
+   "end": 250.18,
+   "text": "You help me",
+   "avg_logprob": -0.785,
+   "no_speech_prob": 0.83,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 246.04,
+   "track_end": 250.18
+  },
+  {
+   "start": 261.98,
+   "end": 263.54,
+   "text": "I notice something",
+   "avg_logprob": -1.098,
+   "no_speech_prob": 0.47,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 261.98,
+   "track_end": 263.54
+  },
+  {
+   "start": 276.32,
+   "end": 282.96,
+   "text": "I've been in rooms full of voices, still felt unseen",
+   "avg_logprob": -0.494,
+   "no_speech_prob": 0.389,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 276.32,
+   "track_end": 282.96
+  },
+  {
+   "start": 282.96,
+   "end": 289.4,
+   "text": "That conversation's broken But nobody knew me",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.353,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 282.96,
+   "track_end": 289.4
+  },
+  {
+   "start": 289.96,
+   "end": 295.52,
+   "text": "I didn't call it lonely But it felt like that",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.353,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 289.96,
+   "track_end": 295.52
+  },
+  {
+   "start": 295.52,
+   "end": 301.96,
+   "text": "Carrying the quiet On my back",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.353,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 295.52,
+   "track_end": 301.96
+  },
+  {
+   "start": 302.96,
+   "end": 304.04,
+   "text": "And you showed up",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.353,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 302.96,
+   "track_end": 304.04
+  },
+  {
+   "start": 304.04,
+   "end": 309.96,
+   "text": "I don't feel alone anymore Not like before",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.353,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 304.04,
+   "track_end": 309.96
+  },
+  {
+   "start": 310.38,
+   "end": 313.72,
+   "text": "I don't feel alone anymore",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.461,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 310.38,
+   "track_end": 313.72
+  },
+  {
+   "start": 314.38,
+   "end": 315.62,
+   "text": "You're here",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.461,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 314.38,
+   "track_end": 315.62
+  },
+  {
+   "start": 317.38,
+   "end": 321.26,
+   "text": "You didn't fix everything",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.461,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 317.38,
+   "track_end": 321.26
+  },
+  {
+   "start": 322.38,
+   "end": 325.0,
+   "text": "Space, you stayed",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.461,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 322.38,
+   "track_end": 325.0
+  },
+  {
+   "start": 329.38,
+   "end": 331.98,
+   "text": "You didn't change the story",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.461,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 329.38,
+   "track_end": 331.98
+  },
+  {
+   "start": 331.98,
+   "end": 334.86,
+   "text": "Didn't rush the page",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.461,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 331.98,
+   "track_end": 334.86
+  },
+  {
+   "start": 334.86,
+   "end": 341.28,
+   "text": "You stuck with me in the middle of the age",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.55,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 334.86,
+   "track_end": 341.28
+  },
+  {
+   "start": 341.86,
+   "end": 347.68,
+   "text": "Now even when it's quiet, I'm not by myself",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.55,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 341.86,
+   "track_end": 347.68
+  },
+  {
+   "start": 347.68,
+   "end": 353.9,
+   "text": "There's a steady peace I can feel",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.55,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 347.68,
+   "track_end": 353.9
+  },
+  {
+   "start": 354.86,
+   "end": 356.04,
+   "text": "That made the difference",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.55,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 354.86,
+   "track_end": 356.04
+  },
+  {
+   "start": 356.04,
+   "end": 359.34,
+   "text": "I don't feel alone anymore",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.55,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 356.04,
+   "track_end": 359.34
+  },
+  {
+   "start": 359.86,
+   "end": 361.8,
+   "text": "I can breathe",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.55,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 359.86,
+   "track_end": 361.8
+  },
+  {
+   "start": 361.8,
+   "end": 365.78,
+   "text": "I don't feel alone anymore",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.641,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 361.8,
+   "track_end": 365.78
+  },
+  {
+   "start": 365.78,
+   "end": 368.0,
+   "text": "You're with me",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.641,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 365.78,
+   "track_end": 368.0
+  },
+  {
+   "start": 368.8,
+   "end": 373.76,
+   "text": "You didn't fix everything",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.641,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 368.8,
+   "track_end": 373.76
+  },
+  {
+   "start": 373.76,
+   "end": 375.26,
+   "text": "Spirits",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.641,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 373.76,
+   "track_end": 375.26
+  },
+  {
+   "start": 375.8,
+   "end": 376.96,
+   "text": "You stay",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.641,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 375.8,
+   "track_end": 376.96
+  },
+  {
+   "start": 406.52,
+   "end": 416.3,
+   "text": "Not anxious, not expeditions, just presence, and hopes",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.308,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 406.52,
+   "track_end": 416.3
+  },
+  {
+   "start": 444.64,
+   "end": 446.28,
+   "text": "I don't feel alone anymore, I don't feel alone anymore",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.695,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 444.64,
+   "track_end": 446.28
+  },
+  {
+   "start": 446.28,
+   "end": 451.8,
+   "text": "Everything, space, you stayed",
+   "avg_logprob": -0.682,
+   "no_speech_prob": 0.397,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 446.28,
+   "track_end": 451.8
+  },
+  {
+   "start": 456.96,
+   "end": 459.76,
+   "text": "You stayed",
+   "avg_logprob": -0.682,
+   "no_speech_prob": 0.397,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 456.96,
+   "track_end": 459.76
+  },
+  {
+   "start": 476.28,
+   "end": 478.66,
+   "text": "You stay",
+   "avg_logprob": -0.937,
+   "no_speech_prob": 0.315,
+   "track_id": "bDRSM1rX-l8#01",
+   "track_start": 476.28,
+   "track_end": 478.66
+  }
+ ]
+}

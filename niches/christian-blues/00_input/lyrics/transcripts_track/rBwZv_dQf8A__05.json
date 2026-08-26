@@ -1,0 +1,358 @@
+{
+ "track_id": "rBwZv_dQf8A#05",
+ "track_key": "rBwZv_dQf8A__05",
+ "video_id": "rBwZv_dQf8A",
+ "title": "The Way That Seems Right (Proverbs 21)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 222.0,
+ "voiced_sec": 109.1,
+ "voice_ratio": 0.492,
+ "n_words": 272,
+ "words_per_min": 73.5,
+ "is_instrumental": false,
+ "n_segments": 42,
+ "n_segments_voiced": 35,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 52.2,
+ "rtf": 0.235,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 34.28,
+   "text": "To do what's right is better than gold",
+   "avg_logprob": -0.165,
+   "no_speech_prob": 0.89,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 35.0,
+   "end": 39.18,
+   "text": "Better than sacrifice, part or soul",
+   "avg_logprob": -0.165,
+   "no_speech_prob": 0.89,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 40.0,
+   "end": 43.54,
+   "text": "You can fool the world with your silver tongue",
+   "avg_logprob": -0.165,
+   "no_speech_prob": 0.89,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 43.54,
+   "end": 48.0,
+   "text": "But the heart don't hide from the Holy One",
+   "avg_logprob": -0.165,
+   "no_speech_prob": 0.89,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 48.0,
+   "end": 51.04,
+   "text": "There's a way that seems right",
+   "avg_logprob": -0.165,
+   "no_speech_prob": 0.89,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 51.04,
+   "end": 53.3,
+   "text": "But it leads to fall",
+   "avg_logprob": -0.165,
+   "no_speech_prob": 0.89,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 53.3,
+   "end": 57.72,
+   "text": "Only truth gonna stand when it calls it all",
+   "avg_logprob": -0.165,
+   "no_speech_prob": 0.89,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 57.72,
+   "end": 59.78,
+   "text": "You can run, you can fight",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.464,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 59.78,
+   "end": 62.06,
+   "text": "But you can't outshine the line",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.464,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 62.06,
+   "end": 64.38,
+   "text": "There's a way that seems right",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.464,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 65.52,
+   "end": 67.96,
+   "text": "But not to the Lord tonight",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.464,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 70.48,
+   "end": 75.28,
+   "text": "The plans of the diligent lead to gain",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.464,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 75.28,
+   "end": 79.18,
+   "text": "But hate springs back in a life of pain",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.464,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 79.18,
+   "end": 83.9,
+   "text": "If you shut your hip to the poor man's cry",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.464,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 83.9,
+   "end": 87.78,
+   "text": "We already know answer we'll reply",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 88.44,
+   "end": 92.52,
+   "text": "Whether unstraught, love and grace",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 92.52,
+   "end": 96.72,
+   "text": "Finds life and honor in God's embrace",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 96.72,
+   "end": 100.62,
+   "text": "No wisdom or war can stop His hand",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 100.62,
+   "end": 104.68,
+   "text": "The Lord decides where the victors stand",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 104.68,
+   "end": 107.48,
+   "text": "There's a way that seems right",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 107.48,
+   "end": 109.68,
+   "text": "But it leads to fall",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 109.68,
+   "end": 111.8,
+   "text": "Only truth gonna stand",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.737,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 111.8,
+   "end": 114.02,
+   "text": "When it calls it off",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 114.02,
+   "end": 116.08,
+   "text": "You can run, you can fight",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 116.08,
+   "end": 118.3,
+   "text": "But you cannot shine the light",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 118.3,
+   "end": 120.54,
+   "text": "There's a way that seems right",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 121.8,
+   "end": 124.08,
+   "text": "But not to the Lord tonight",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 124.08,
+   "end": 127.8,
+   "text": "Ah, ah, to the Lord tonight",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 128.4,
+   "end": 131.88,
+   "text": "But to the Lord tonight",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 131.88,
+   "end": 137.0,
+   "text": "Ah, ah, to the Lord tonight",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.798,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 138.4,
+   "end": 146.94,
+   "text": "Some trust horses, some trust mine But the Lord brings victory in the fight",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.459,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 147.98,
+   "end": 156.66,
+   "text": "Plans may rise and kings may fall But the Lord's the one who rules it all",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.459,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 167.76,
+   "end": 168.6,
+   "text": "Oooh",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 173.06,
+   "end": 175.56,
+   "text": "There's a way that seems right",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 175.56,
+   "end": 177.78,
+   "text": "but it leads to phone",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 177.78,
+   "end": 179.78,
+   "text": "all the truth gonna stand",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 179.78,
+   "end": 182.08,
+   "text": "when it calls it off",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 182.08,
+   "end": 184.24,
+   "text": "you can run, you can hide",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 184.24,
+   "end": 186.3,
+   "text": "but it's white, cause it's white",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 186.3,
+   "end": 188.42,
+   "text": "There's a way that seems right",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 188.42,
+   "end": 190.54,
+   "text": "but it's my God",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  },
+  {
+   "start": 190.54,
+   "end": 191.0,
+   "text": "ohh",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#05"
+  }
+ ]
+}

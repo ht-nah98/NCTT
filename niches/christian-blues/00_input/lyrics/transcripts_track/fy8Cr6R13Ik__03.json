@@ -1,0 +1,230 @@
+{
+ "track_id": "fy8Cr6R13Ik#03",
+ "track_key": "fy8Cr6R13Ik__03",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "3. Isaiah 11.1–5 — The Branch and the Breath",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 215.0,
+ "voiced_sec": 149.4,
+ "voice_ratio": 0.695,
+ "n_words": 278,
+ "words_per_min": 77.6,
+ "is_instrumental": false,
+ "n_segments": 26,
+ "n_segments_voiced": 26,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.9,
+ "rtf": 0.042,
+ "segments": [
+  {
+   "start": 12.32,
+   "end": 18.34,
+   "text": "There shall come forth a rod out of Jesse's broken line",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.52,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 19.0,
+   "end": 24.16,
+   "text": "A branch shall grow from roots the world thought left behind",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.52,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 25.24,
+   "end": 31.22,
+   "text": "The spirit of the Lord shall rest upon his frame",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 31.22,
+   "end": 37.16,
+   "text": "Wisdom, counsel, fear of God and truth no man can tame",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 37.16,
+   "end": 43.3,
+   "text": "He shall not judge by sight or speak by what he hears",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 43.3,
+   "end": 49.36,
+   "text": "But with righteousness he'll rule and wipe away the tears",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.695,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 49.36,
+   "end": 55.12,
+   "text": "With the breath of his lips he'll slay the wicked's path",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.564,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 55.12,
+   "end": 61.36,
+   "text": "And gird his loins with faithfulness and robe himself in wrath",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.564,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 72.14,
+   "end": 78.6,
+   "text": "The spirit of might and knowledge burns within his soul",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.564,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 79.36,
+   "end": 84.5,
+   "text": "The fear of God is treasure, his judgment pure in whole",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 85.52,
+   "end": 91.48,
+   "text": "He'll judge the poor with justice, reprove the meek with grace",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 91.48,
+   "end": 97.24,
+   "text": "And break oppression scepter in every wicked place",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 97.24,
+   "end": 103.32,
+   "text": "He shall not judge by sight or speak by what he hears",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.272,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 103.32,
+   "end": 109.34,
+   "text": "But with righteousness he'll rule And wipe away the tears",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.544,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 109.34,
+   "end": 115.1,
+   "text": "With the breath of his lips he'll slay the wicked's path",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.544,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 115.1,
+   "end": 121.26,
+   "text": "And gird his loins with faithfulness And robe himself in wrath",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.544,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 133.32,
+   "end": 138.5,
+   "text": "True shall be the girdle wrapped round his waiting ways",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 139.62,
+   "end": 144.28,
+   "text": "And faithfulness the fabric none other king embraced",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 145.34,
+   "end": 151.16,
+   "text": "He comes not dressed in grandeur, but with eyes that see the heart",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 151.16,
+   "end": 156.94,
+   "text": "The branch from Jesse's sorrow, God's justice set apart",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.085,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 156.94,
+   "end": 163.12,
+   "text": "He shall not judge by sight or speak by what he hears",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 163.94,
+   "end": 169.04,
+   "text": "But with righteousness he'll rule and wipe away the tears",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 169.04,
+   "end": 174.84,
+   "text": "With the breath of his lips he'll slay the wicked's path",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 175.94,
+   "end": 180.94,
+   "text": "And gird his ones with faithfulness and robe himself in wrath",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.317,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 187.16,
+   "end": 192.98,
+   "text": "The branches bloomed in fire, His word like sharp and steel",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.267,
+   "track_id": "fy8Cr6R13Ik#03"
+  },
+  {
+   "start": 193.94,
+   "end": 199.36,
+   "text": "And in the blues we echo What the prophets made so real",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.267,
+   "track_id": "fy8Cr6R13Ik#03"
+  }
+ ]
+}

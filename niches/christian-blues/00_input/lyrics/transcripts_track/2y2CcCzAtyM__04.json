@@ -1,0 +1,398 @@
+{
+ "track_id": "2y2CcCzAtyM#04",
+ "track_key": "2y2CcCzAtyM__04",
+ "video_id": "2y2CcCzAtyM",
+ "title": "4 — Great Is Thy Faithfulness",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 305.0,
+ "voiced_sec": 232.4,
+ "voice_ratio": 0.762,
+ "n_words": 267,
+ "words_per_min": 52.5,
+ "is_instrumental": false,
+ "n_segments": 47,
+ "n_segments_voiced": 47,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 16.0,
+ "rtf": 0.052,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.42,
+   "text": "Because his compassion's failed not.",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.034,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 4.68,
+   "end": 6.34,
+   "text": "They are new every morning.",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.034,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 8.26,
+   "end": 11.14,
+   "text": "Great is thy faithfulness.",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.034,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 12.98,
+   "end": 20.12,
+   "text": "Lamentations three, 22 and 23.",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.034,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 31.56,
+   "end": 43.7,
+   "text": "Every morning when I opened up my eyes I find his mercies waiting fresh and new",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.334,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 46.76,
+   "end": 52.6,
+   "text": "He could have left me in the wreck I made",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.334,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 52.6,
+   "end": 59.56,
+   "text": "But His compassion carried me on through",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.417,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 61.6,
+   "end": 68.04,
+   "text": "Great is Thy faithfulness, oh God, my Father",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.417,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 68.6,
+   "end": 76.06,
+   "text": "Morning by morning, new mercies I see",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.417,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 76.06,
+   "end": 84.42,
+   "text": "All I have needed, Thy hand hath provided",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.511,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 86.06,
+   "end": 92.34,
+   "text": "Great is Thy faithfulness, Lord unto me",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.511,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 95.82,
+   "end": 101.5,
+   "text": "Summer and winter, harvest and the spring",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.511,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 101.5,
+   "end": 108.68,
+   "text": "Every season bears the mark of His good hand",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.594,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 108.68,
+   "end": 116.54,
+   "text": "Those seasons change His faithfulness remains",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.594,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 118.32,
+   "end": 125.22,
+   "text": "The same today as when all time began",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.594,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 129.9,
+   "end": 141.42,
+   "text": "Oh God, my father morning by morning new mercies I see",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.658,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 143.22,
+   "end": 149.84,
+   "text": "All I have needed I have provided",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.658,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 149.84,
+   "end": 157.92,
+   "text": "Great is thy faithfulness, Lord unto me",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.527,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 161.16,
+   "end": 166.84,
+   "text": "Haunted for sin and a peace that endureeth",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.527,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 168.38,
+   "end": 174.98,
+   "text": "Thine own dear presence to cheer and to guide",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.527,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 174.98,
+   "end": 183.4,
+   "text": "Straight for today and bright hope for tomorrow",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.432,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 183.98,
+   "end": 192.36,
+   "text": "Blessings all mine with ten thousand beside",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.432,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 195.34,
+   "end": 200.4,
+   "text": "Every morning he starts over with you",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.432,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 200.4,
+   "end": 206.1,
+   "text": "Every morning His mercies are fresh",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.319,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 208.84,
+   "end": 212.3,
+   "text": "He does not hold yesterday against you Today",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.319,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 212.3,
+   "end": 217.48,
+   "text": "He is faithful When you are faithless",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.319,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 218.0,
+   "end": 221.28,
+   "text": "He is constant When you are changing",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.319,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 221.28,
+   "end": 227.92,
+   "text": "Great is His faithfulness New every morning",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.319,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 227.92,
+   "end": 229.76,
+   "text": "New every morning",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 231.92,
+   "end": 233.74,
+   "text": "His mercies never cease",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 235.66,
+   "end": 237.82,
+   "text": "Great and faithful",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 239.88,
+   "end": 242.44,
+   "text": "Faithful Lord",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 242.44,
+   "end": 250.58,
+   "text": "Great is Thy faithfulness",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 250.58,
+   "end": 254.44,
+   "text": "Oh, oh God, my Father",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 254.44,
+   "end": 257.96,
+   "text": "Morning by morning",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 257.96,
+   "end": 260.84,
+   "text": "New mercies I sing",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 260.84,
+   "end": 262.64,
+   "text": "All I have needed",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 262.64,
+   "end": 264.92,
+   "text": "All I have needed",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 264.92,
+   "end": 266.44,
+   "text": "The hand",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 267.28,
+   "end": 268.78,
+   "text": "Have provided",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 268.78,
+   "end": 270.44,
+   "text": "Greatest",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 271.28,
+   "end": 272.44,
+   "text": "Thy faithfulness",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 273.58,
+   "end": 276.9,
+   "text": "Lord unto me",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 278.8,
+   "end": 282.56,
+   "text": "Greatest Thy faithfulness",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.533,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 282.56,
+   "end": 286.94,
+   "text": "New every morning",
+   "avg_logprob": -0.974,
+   "no_speech_prob": 0.026,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 297.66,
+   "end": 300.46,
+   "text": "Be still",
+   "avg_logprob": -0.974,
+   "no_speech_prob": 0.026,
+   "track_id": "2y2CcCzAtyM#04"
+  },
+  {
+   "start": 300.46,
+   "end": 302.1,
+   "text": "And never",
+   "avg_logprob": -0.974,
+   "no_speech_prob": 0.026,
+   "track_id": "2y2CcCzAtyM#04"
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "track_id": "DL1lnwaff8k#04",
+ "track_key": "DL1lnwaff8k__04",
+ "video_id": "DL1lnwaff8k",
+ "title": "3. Ecclesiastes 3 – A Time for Every Blues",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 225.0,
+ "voiced_sec": 160.9,
+ "voice_ratio": 0.715,
+ "n_words": 185,
+ "words_per_min": 49.3,
+ "is_instrumental": false,
+ "n_segments": 17,
+ "n_segments_voiced": 17,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.5,
+ "rtf": 0.042,
+ "segments": [
+  {
+   "start": 11.88,
+   "end": 22.98,
+   "text": "to everything there's a season and a time to every purpose under heaven's",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.408,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 22.98,
+   "end": 50.64,
+   "text": "reason. A time to be born, a time to die, a time to plant, a time to cry, a time to",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.628,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 50.64,
+   "end": 60.16,
+   "text": "Weep for time to dance, time to lose, time for chance.",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.402,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 61.84,
+   "end": 68.08,
+   "text": "He hath made all things beautiful in time,",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.402,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 68.94,
+   "end": 72.26,
+   "text": "but man can't grasp his full design.",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.402,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 72.26,
+   "end": 84.9,
+   "text": "He said eternity in our soul yet we see only part not whole",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.415,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 98.02,
+   "end": 109.22,
+   "text": "A time to cast away the stone A time to gather what was thrown",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.321,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 110.34,
+   "end": 121.56,
+   "text": "A time to keep, a time to tear, a time to speak, a time to care",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.639,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 123.22,
+   "end": 133.66,
+   "text": "I know there's nothing better for man Than to rejoice and do what he can",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.639,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 133.66,
+   "end": 139.92,
+   "text": "To eat and drink and labor truth",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.438,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 139.92,
+   "end": 145.66,
+   "text": "This is the gift God gives to you",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.438,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 146.52,
+   "end": 154.02,
+   "text": "He hath made all things beautiful in time",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.438,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 154.02,
+   "end": 158.26,
+   "text": "But man can't grasp his full design",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.438,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 158.26,
+   "end": 170.5,
+   "text": "He said eternity in our soul yet we see only part not whole",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.373,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 172.28,
+   "end": 177.26,
+   "text": "Whatsoever God do it shall be forever",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.373,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 178.26,
+   "end": 182.66,
+   "text": "No adding, no taking, none shall sever",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.373,
+   "track_id": "DL1lnwaff8k#04"
+  },
+  {
+   "start": 182.66,
+   "end": 194.9,
+   "text": "Fear before Him standing on for His times eternal law",
+   "avg_logprob": -0.721,
+   "no_speech_prob": 0.614,
+   "track_id": "DL1lnwaff8k#04"
+  }
+ ]
+}

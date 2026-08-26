@@ -1,0 +1,382 @@
+{
+ "track_id": "2y2CcCzAtyM#05",
+ "track_key": "2y2CcCzAtyM__05",
+ "video_id": "2y2CcCzAtyM",
+ "title": "5 — Still My Soul",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 297.0,
+ "voiced_sec": 202.9,
+ "voice_ratio": 0.683,
+ "n_words": 283,
+ "words_per_min": 57.2,
+ "is_instrumental": false,
+ "n_segments": 45,
+ "n_segments_voiced": 45,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 31.9,
+ "rtf": 0.107,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.48,
+   "text": "I know that I am God",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.081,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 7.76,
+   "end": 9.96,
+   "text": "Psalm 46 and 10",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.081,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 39.44,
+   "end": 40.4,
+   "text": "Mmm...",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.381,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 40.4,
+   "end": 44.68,
+   "text": "The storm inside refuses to be quiet",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.381,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 47.08,
+   "end": 51.34,
+   "text": "My thoughts are racing like a restless sea",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.381,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 54.06,
+   "end": 59.18,
+   "text": "But then I hear thy voice beneath the riot",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.517,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 59.18,
+   "end": 66.74,
+   "text": "Be still beloved one and rest in me",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.517,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 68.34,
+   "end": 72.74,
+   "text": "Still my soul, oh Lord",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.517,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 74.18,
+   "end": 76.82,
+   "text": "Still my soul",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.517,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 76.82,
+   "end": 84.24,
+   "text": "Let thy peace wash over every troubled wave",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.42,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 84.82,
+   "end": 93.24,
+   "text": "Still my soul, oh Lord, still my soul",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.42,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 93.24,
+   "end": 100.7,
+   "text": "In thy presence I am found and I am saved",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.42,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 105.92,
+   "end": 110.28,
+   "text": "How long I ran from what I could not name",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.518,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 112.46,
+   "end": 117.24,
+   "text": "How long I searched for what was always near",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.518,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 118.94,
+   "end": 124.54,
+   "text": "But Thou art God and evermore the same",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.518,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 126.12,
+   "end": 132.28,
+   "text": "And in the stillness that I'd always hear",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.755,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 132.86,
+   "end": 137.56,
+   "text": "Still my soul, oh Lord",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.755,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 137.56,
+   "end": 149.08,
+   "text": "Still my soul, let thy peace wash over every troubled wave",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.755,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 149.08,
+   "end": 154.64,
+   "text": "Still my soul, oh Lord",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 155.48,
+   "end": 158.44,
+   "text": "Still my soul",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 158.44,
+   "end": 161.42,
+   "text": "In Thy presence I am found",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 162.48,
+   "end": 164.92,
+   "text": "And I am saved",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 166.3,
+   "end": 167.74,
+   "text": "Be still",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 169.48,
+   "end": 171.08,
+   "text": "And know that He is God",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 172.38,
+   "end": 175.66,
+   "text": "Be still and know that He is Lord",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.476,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 177.72,
+   "end": 179.76,
+   "text": "Be still and know",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.477,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 179.76,
+   "end": 183.92,
+   "text": "Be still",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.477,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 189.72,
+   "end": 193.4,
+   "text": "God does not shout over the noise of your life",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.477,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 195.12,
+   "end": 197.14,
+   "text": "He waits in the silence",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.477,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 198.38,
+   "end": 200.4,
+   "text": "He is already there",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.477,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 202.1,
+   "end": 205.34,
+   "text": "In the quiet you have been afraid to enter",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.356,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 207.4,
+   "end": 211.5,
+   "text": "Be still child, He is God",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.356,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 214.7,
+   "end": 219.58,
+   "text": "Be still, and know, and know",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.356,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 220.4,
+   "end": 227.1,
+   "text": "He is God, resting Him, resting Him",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.356,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 227.1,
+   "end": 232.14,
+   "text": "Still my soul, oh Lord",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.488,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 232.14,
+   "end": 234.34,
+   "text": "Still my soul, oh Lord",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.488,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 234.34,
+   "end": 236.18,
+   "text": "Still my soul",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.488,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 237.1,
+   "end": 243.28,
+   "text": "Let Thy peace wash over every troubled way",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.488,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 244.1,
+   "end": 251.04,
+   "text": "Still my soul, oh Lord",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.488,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 251.04,
+   "end": 253.24,
+   "text": "Still my soul",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.488,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 253.24,
+   "end": 263.28,
+   "text": "In Thy presence I am found And I am saved",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.181,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 268.7,
+   "end": 275.5,
+   "text": "Be still, he is God",
+   "avg_logprob": -0.742,
+   "no_speech_prob": 0.179,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 278.58,
+   "end": 281.38,
+   "text": "Be still",
+   "avg_logprob": -0.742,
+   "no_speech_prob": 0.179,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 283.42,
+   "end": 290.22,
+   "text": "He shall cover thee with his feathers, and under his wings shall thou trust.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.147,
+   "track_id": "2y2CcCzAtyM#05"
+  },
+  {
+   "start": 293.4,
+   "end": 296.02,
+   "text": "His truth shall be thy shield and buckler.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.147,
+   "track_id": "2y2CcCzAtyM#05"
+  }
+ ]
+}

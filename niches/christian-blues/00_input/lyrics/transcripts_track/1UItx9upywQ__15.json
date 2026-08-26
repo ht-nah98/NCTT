@@ -1,0 +1,134 @@
+{
+ "track_id": "1UItx9upywQ#15",
+ "track_key": "1UItx9upywQ__15",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Judge of the Earth\" - Psalm 94",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 188.0,
+ "voiced_sec": 63.6,
+ "voice_ratio": 0.338,
+ "n_words": 101,
+ "words_per_min": 32.2,
+ "is_instrumental": false,
+ "n_segments": 14,
+ "n_segments_voiced": 12,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.1,
+ "rtf": 0.038,
+ "segments": [
+  {
+   "start": 21.06,
+   "end": 27.18,
+   "text": "I'm on my knees, but the world don't care",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.178,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 30.34,
+   "end": 37.2,
+   "text": "A cry for mercy in the heavy air",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.232,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 40.48,
+   "end": 44.06,
+   "text": "Oh, judge of the earth",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.232,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 49.48,
+   "end": 52.7,
+   "text": "What is just is worth",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.232,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 54.88,
+   "end": 59.8,
+   "text": "Raise your head Break the chain",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.609,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 59.8,
+   "end": 66.9,
+   "text": "Sweep this darkness of the plain judge of the earth",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.609,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 66.9,
+   "end": 71.58,
+   "text": "Hear my cry again",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.609,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 94.62,
+   "end": 98.24,
+   "text": "I've seen the wicked dance in the street",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.403,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 102.18,
+   "end": 108.46,
+   "text": "There left a mark of dust on my feet",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.561,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 112.14,
+   "end": 119.56,
+   "text": "But I keep walking, I won't retreat",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.561,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 123.2,
+   "end": 135.42,
+   "text": "Oh, judge of the earth What is just His word?",
+   "avg_logprob": -0.582,
+   "no_speech_prob": 0.859,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 138.06,
+   "end": 142.78,
+   "text": "Raise your hand Break the chain",
+   "avg_logprob": -0.582,
+   "no_speech_prob": 0.859,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 142.78,
+   "end": 149.96,
+   "text": "Sweep this darkness of the plane, judge of the earth",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.356,
+   "track_id": "1UItx9upywQ#15"
+  },
+  {
+   "start": 151.78,
+   "end": 154.36,
+   "text": "Hear my cry again",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.356,
+   "track_id": "1UItx9upywQ#15"
+  }
+ ]
+}

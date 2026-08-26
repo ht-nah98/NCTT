@@ -1,0 +1,310 @@
+{
+ "track_id": "2y2CcCzAtyM#07",
+ "track_key": "2y2CcCzAtyM__07",
+ "video_id": "2y2CcCzAtyM",
+ "title": "7 — Thou Art Worthy",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 295.0,
+ "voiced_sec": 215.7,
+ "voice_ratio": 0.731,
+ "n_words": 246,
+ "words_per_min": 50.0,
+ "is_instrumental": false,
+ "n_segments": 36,
+ "n_segments_voiced": 36,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.0,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.18,
+   "text": "And for Thy pleasure they are and were created",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.013,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 5.9,
+   "end": 10.28,
+   "text": "Revelation 4 and 11",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.013,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 20.64,
+   "end": 26.94,
+   "text": "Not for what He's done, though countless blessings fall",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.013,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 28.28,
+   "end": 34.76,
+   "text": "Not for any favor He has shown to me",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.365,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 36.56,
+   "end": 42.8,
+   "text": "But for who He is, the Holy, just and wise",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.365,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 43.96,
+   "end": 50.28,
+   "text": "He is worthy of all praise for eternity",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.365,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 50.28,
+   "end": 70.72,
+   "text": "Thou art worthy, Thou art worthy, Thou art worthy, O Lord, to receive all glory,",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.689,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 70.72,
+   "end": 82.46,
+   "text": "Honor and power Thou art worthy, oh Lord",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.502,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 87.22,
+   "end": 92.3,
+   "text": "Every creature in the heaven bows before Him",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.502,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 92.3,
+   "end": 99.8,
+   "text": "Every tongue shall one day praise His holy name",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.424,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 99.8,
+   "end": 107.6,
+   "text": "The King eternal, immortal and invisible",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.424,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 108.3,
+   "end": 115.92,
+   "text": "His worth and glory always are the same",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.424,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 115.92,
+   "end": 123.86,
+   "text": "Thou art worthy, Thou art worthy",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.529,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 125.92,
+   "end": 135.8,
+   "text": "Thou art worthy, O Lord, O Lord, to receive all glory,",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.529,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 135.8,
+   "end": 148.86,
+   "text": "Honor and power Thou art worthy, oh Lord",
+   "avg_logprob": -0.703,
+   "no_speech_prob": 0.618,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 148.86,
+   "end": 153.24,
+   "text": "Holy, holy, holy",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.641,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 153.24,
+   "end": 156.04,
+   "text": "Is the Lord God Almighty",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.641,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 156.86,
+   "end": 161.02,
+   "text": "Who was and is",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.641,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 161.02,
+   "end": 164.1,
+   "text": "and is to come",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.641,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 166.04,
+   "end": 169.18,
+   "text": "Holy, holy, holy",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.641,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 169.18,
+   "end": 172.36,
+   "text": "Every knee shall bow",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.641,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 176.54,
+   "end": 178.9,
+   "text": "Before the sun",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.26,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 182.14,
+   "end": 186.8,
+   "text": "There is a moment in worship when you stop asking for things",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.26,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 188.32,
+   "end": 193.96,
+   "text": "And you simply gaze upon His glory and declare who He is",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.26,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 195.14,
+   "end": 198.9,
+   "text": "That is where true worship begins, He is worthy",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.26,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 200.44,
+   "end": 207.12,
+   "text": "Not because of what he does, but because of who he is.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.414,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 207.76,
+   "end": 210.46,
+   "text": "Worthy, worthy is the Lord.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.414,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 211.86,
+   "end": 214.74,
+   "text": "Worthy, worthy is his name.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.414,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 216.06,
+   "end": 219.9,
+   "text": "He is worthy, he is worthy.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.414,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 221.18,
+   "end": 223.9,
+   "text": "Now I'm worthy, oh Lordy.",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.414,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 233.28,
+   "end": 244.1,
+   "text": "Worthy, oh Lord, to receive all glory and power.",
+   "avg_logprob": -0.751,
+   "no_speech_prob": 0.631,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 244.1,
+   "end": 255.24,
+   "text": "That heart worthy whole Lord",
+   "avg_logprob": -0.988,
+   "no_speech_prob": 0.687,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 260.34,
+   "end": 267.32,
+   "text": "That heart worthy holy Lord",
+   "avg_logprob": -0.988,
+   "no_speech_prob": 0.687,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 271.0,
+   "end": 273.8,
+   "text": "That worthy",
+   "avg_logprob": -0.808,
+   "no_speech_prob": 0.033,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 288.7,
+   "end": 292.08,
+   "text": "Come unto me",
+   "avg_logprob": -0.808,
+   "no_speech_prob": 0.033,
+   "track_id": "2y2CcCzAtyM#07"
+  },
+  {
+   "start": 294.32,
+   "end": 294.98,
+   "text": "All ye",
+   "avg_logprob": -0.808,
+   "no_speech_prob": 0.033,
+   "track_id": "2y2CcCzAtyM#07"
+  }
+ ]
+}

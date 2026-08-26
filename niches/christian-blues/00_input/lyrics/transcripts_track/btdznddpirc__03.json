@@ -1,0 +1,206 @@
+{
+ "track_id": "btdznddpirc#03",
+ "track_key": "btdznddpirc__03",
+ "video_id": "btdznddpirc",
+ "title": "3. He Sat Beside My Silence",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 174.0,
+ "voiced_sec": 108.9,
+ "voice_ratio": 0.626,
+ "n_words": 177,
+ "words_per_min": 61.0,
+ "is_instrumental": false,
+ "n_segments": 23,
+ "n_segments_voiced": 23,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 26.4,
+ "rtf": 0.152,
+ "segments": [
+  {
+   "start": 48.34,
+   "end": 56.86,
+   "text": "Been carrying this burden Feels like a mountain on my back",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.251,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 56.86,
+   "end": 58.64,
+   "text": "Every step is heavy",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.339,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 60.68,
+   "end": 67.5,
+   "text": "And my soul is starting to crack then I hear a gentle whisper",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.339,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 69.14,
+   "end": 71.38,
+   "text": "Cut through the midnight",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.339,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 72.9,
+   "end": 75.84,
+   "text": "Come to me weary soul",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.339,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 76.74,
+   "end": 83.46,
+   "text": "And I live the load you bear come to me. I'll give you rest",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.339,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 83.82,
+   "end": 91.96,
+   "text": "Let your head upon my chest Let the storm just fade away",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.614,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 91.96,
+   "end": 99.5,
+   "text": "In moms, you're gonna stay Come to me, child, don't delay",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.614,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 99.5,
+   "end": 105.28,
+   "text": "I'll be your light at the break of day",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.614,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 110.86,
+   "end": 119.34,
+   "text": "I've chased the world solutions But they fade like morning mist",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.564,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 119.34,
+   "end": 126.92,
+   "text": "Found no peace in silver No joy in the serpent's twist",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.564,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 126.92,
+   "end": 129.98,
+   "text": "But the Lamb of God is calling",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.518,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 131.92,
+   "end": 135.02,
+   "text": "With a love that's pure and wide",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.518,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 135.02,
+   "end": 138.52,
+   "text": "Took my shame and nailed it",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.518,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 138.52,
+   "end": 142.68,
+   "text": "To a cross where he died",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.518,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 142.68,
+   "end": 145.66,
+   "text": "There's no chain too strong",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.518,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 146.92,
+   "end": 150.1,
+   "text": "No night too long",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.518,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 150.92,
+   "end": 154.6,
+   "text": "No sin too far gone",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.518,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 154.6,
+   "end": 158.3,
+   "text": "For His grace to make you strong",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.503,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 158.3,
+   "end": 162.26,
+   "text": "Come to me, I'll give you rest",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.503,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 162.26,
+   "end": 166.34,
+   "text": "Lay your head upon my chest",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.503,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 166.34,
+   "end": 170.08,
+   "text": "Let the storm just fade away",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.503,
+   "track_id": "btdznddpirc#03"
+  },
+  {
+   "start": 170.6,
+   "end": 173.86,
+   "text": "In my arms you're gonna stay",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.503,
+   "track_id": "btdznddpirc#03"
+  }
+ ]
+}

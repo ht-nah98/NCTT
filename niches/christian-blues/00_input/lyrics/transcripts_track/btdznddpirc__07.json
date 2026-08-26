@@ -1,0 +1,54 @@
+{
+ "track_id": "btdznddpirc#07",
+ "track_key": "btdznddpirc__07",
+ "video_id": "btdznddpirc",
+ "title": "7. Grace Poured Down Like Rain",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 162.0,
+ "voiced_sec": 19.5,
+ "voice_ratio": 0.121,
+ "n_words": 25,
+ "words_per_min": 9.3,
+ "is_instrumental": true,
+ "n_segments": 4,
+ "n_segments_voiced": 4,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 43.4,
+ "rtf": 0.268,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.2,
+   "text": "Yeah when Jesus calls you rise",
+   "avg_logprob": -0.851,
+   "no_speech_prob": 0.307,
+   "track_id": "btdznddpirc#07"
+  },
+  {
+   "start": 150.0,
+   "end": 151.92,
+   "text": "land of dust and stone",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.374,
+   "track_id": "btdznddpirc#07"
+  },
+  {
+   "start": 153.56,
+   "end": 157.06,
+   "text": "Then a stranger sat by the well",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.374,
+   "track_id": "btdznddpirc#07"
+  },
+  {
+   "start": 157.06,
+   "end": 159.98,
+   "text": "said I know you can call home",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.374,
+   "track_id": "btdznddpirc#07"
+  }
+ ]
+}

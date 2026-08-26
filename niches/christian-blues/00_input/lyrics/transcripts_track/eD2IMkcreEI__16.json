@@ -1,0 +1,302 @@
+{
+ "track_id": "eD2IMkcreEI#16",
+ "track_key": "eD2IMkcreEI__16",
+ "video_id": "eD2IMkcreEI",
+ "title": "Your Grace",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 248.0,
+ "voiced_sec": 155.9,
+ "voice_ratio": 0.629,
+ "n_words": 259,
+ "words_per_min": 62.7,
+ "is_instrumental": false,
+ "n_segments": 35,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.4,
+ "rtf": 0.042,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.2,
+   "text": "Plans to give you hope in the future",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.159,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 10.48,
+   "end": 14.02,
+   "text": "Even when my skies turn gray",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.159,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 16.62,
+   "end": 21.54,
+   "text": "And the dreams I had fade far away",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.159,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 22.76,
+   "end": 26.52,
+   "text": "You remind me I'm not alone",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.159,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 29.1,
+   "end": 33.52,
+   "text": "Your hand, my shelter, my home",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.865,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 36.46,
+   "end": 40.58,
+   "text": "And waiting in the air",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.865,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 42.7,
+   "end": 47.94,
+   "text": "You're still writing every page",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.865,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 47.94,
+   "end": 52.84,
+   "text": "Through the fire, through the doubt",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.865,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 52.84,
+   "end": 58.84,
+   "text": "You whisper, child, don't count me out",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.832,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 59.48,
+   "end": 65.54,
+   "text": "You have plans for me",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.832,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 65.54,
+   "end": 71.52,
+   "text": "Greater than my eyes can see",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.832,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 71.52,
+   "end": 76.18,
+   "text": "Even when I lose my way",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.832,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 76.18,
+   "end": 79.18,
+   "text": "Your love is still making away",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.832,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 79.18,
+   "end": 83.9,
+   "text": "Oh, Lord, I trust in You",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.459,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 85.56,
+   "end": 90.82,
+   "text": "Your promises always come true",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.459,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 99.44,
+   "end": 101.34,
+   "text": "Hope is not just a feeling",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.459,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 102.42,
+   "end": 104.86,
+   "text": "It's a fire you placed in my soul",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.459,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 105.58,
+   "end": 110.6,
+   "text": "It burns when all else fades It rises in the rubble of my past declaring",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.563,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 111.46,
+   "end": 117.4,
+   "text": "You are not your broken days So I walk, not by what I see",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.563,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 118.54,
+   "end": 122.2,
+   "text": "But by the certainty that you are for me",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.563,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 123.3,
+   "end": 132.06,
+   "text": "You turn morning into song Restore the weak, make the broken strong",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.563,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 134.58,
+   "end": 146.96,
+   "text": "Every season you remain, steady in joy, steady in pain",
+   "avg_logprob": -0.646,
+   "no_speech_prob": 0.798,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 148.06,
+   "end": 154.68,
+   "text": "You everything, it's all gonna be, yes you do, oh no",
+   "avg_logprob": -0.646,
+   "no_speech_prob": 0.798,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 154.68,
+   "end": 160.1,
+   "text": "Oh, yes, who I'm on feet",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.525,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 160.1,
+   "end": 163.22,
+   "text": "Even when I lose my way",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.525,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 163.22,
+   "end": 166.58,
+   "text": "Your love is still making your way",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.525,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 166.58,
+   "end": 171.44,
+   "text": "Oh, Lord, I trust in You",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.525,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 173.06,
+   "end": 177.5,
+   "text": "Your promises always come true",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.525,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 178.22,
+   "end": 180.18,
+   "text": "You are riding my victory",
+   "avg_logprob": -0.514,
+   "no_speech_prob": 0.525,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 191.1,
+   "end": 208.96,
+   "text": "I know, I know, I know You have plans for me, Lord",
+   "avg_logprob": -0.686,
+   "no_speech_prob": 0.759,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 208.96,
+   "end": 215.32,
+   "text": "Plans for my healing, my freedom, my future",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.344,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 228.96,
+   "end": 231.4,
+   "text": "When the road feels long",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.344,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 233.1,
+   "end": 235.72,
+   "text": "And the night refuses to lift",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.344,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 238.32,
+   "end": 242.18,
+   "text": "I remember the same God who painted the stars",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.366,
+   "track_id": "eD2IMkcreEI#16"
+  },
+  {
+   "start": 243.36,
+   "end": 246.16,
+   "text": "Is the same God who lights my path",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.366,
+   "track_id": "eD2IMkcreEI#16"
+  }
+ ]
+}

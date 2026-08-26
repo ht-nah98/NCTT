@@ -1,0 +1,550 @@
+{
+ "track_id": "NwYKGZpyYs8#11",
+ "track_key": "NwYKGZpyYs8__11",
+ "video_id": "NwYKGZpyYs8",
+ "title": "I Am The Resurrection (John 11)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 229.0,
+ "voiced_sec": 212.3,
+ "voice_ratio": 0.927,
+ "n_words": 417,
+ "words_per_min": 109.2,
+ "is_instrumental": false,
+ "n_segments": 66,
+ "n_segments_voiced": 66,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.4,
+ "rtf": 0.058,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.76,
+   "text": "I am the resurrection now",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 3.4,
+   "end": 6.12,
+   "text": "The life or death cannot shut down",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 6.64,
+   "end": 9.24,
+   "text": "Whoever trusts though death may come",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 9.84,
+   "end": 12.28,
+   "text": "Rise again the grave undone",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 13.04,
+   "end": 15.68,
+   "text": "I am the resurrection now",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 16.24,
+   "end": 19.14,
+   "text": "The life or death cannot shut down",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 19.14,
+   "end": 22.02,
+   "text": "Whoever lives and trusts in me",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 22.64,
+   "end": 24.96,
+   "text": "Will never die eternally",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 26.22,
+   "end": 28.86,
+   "text": "A man named Lazarus sick and weak",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.069,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 28.86,
+   "end": 31.78,
+   "text": "From Bethany's sister, speak",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 31.78,
+   "end": 35.14,
+   "text": "Mary and Martha sent the word",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 35.14,
+   "end": 38.54,
+   "text": "Lord, the one you love is heard",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 38.54,
+   "end": 42.4,
+   "text": "Jesus said this will not end in death",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 42.4,
+   "end": 44.74,
+   "text": "But God will glory sin",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 44.74,
+   "end": 47.92,
+   "text": "He stayed two days where He had been",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 47.92,
+   "end": 50.68,
+   "text": "So faith could rise where hope grew",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 50.68,
+   "end": 53.74,
+   "text": "Then I am the resurrection now",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 53.74,
+   "end": 56.96,
+   "text": "The life and death cannot shut down",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.322,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 56.96,
+   "end": 60.16,
+   "text": "Whoever trusts, though death may come,",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 60.3,
+   "end": 63.22,
+   "text": "will rise again the grave undone.",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 63.86,
+   "end": 66.38,
+   "text": "I am the resurrection now,",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 67.06,
+   "end": 69.54,
+   "text": "the life of death cannot shut down.",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 70.2,
+   "end": 72.64,
+   "text": "Whoever lives and trusts in me,",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 72.98,
+   "end": 75.56,
+   "text": "will never die eternally.",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 76.4,
+   "end": 78.68,
+   "text": "He said, let us return again.",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 79.76,
+   "end": 82.0,
+   "text": "The disciples feared the men,",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 82.86,
+   "end": 85.24,
+   "text": "lies or sleeps, but I will wait.",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.707,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 85.24,
+   "end": 88.82,
+   "text": "They thought he spoke a rest, he said death",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 88.82,
+   "end": 91.88,
+   "text": "For days he lay within the grave",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 91.88,
+   "end": 95.04,
+   "text": "When Jesus reached the stone cave",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 95.04,
+   "end": 98.42,
+   "text": "Martha said, Lord, if you were near",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 98.42,
+   "end": 101.74,
+   "text": "My brother would still breathe right here",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 101.74,
+   "end": 104.68,
+   "text": "Your brother will rise again, he said",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 104.68,
+   "end": 108.0,
+   "text": "She spoke of hope beyond the dead",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 108.0,
+   "end": 110.98,
+   "text": "I know the last day will restore",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 110.98,
+   "end": 114.18,
+   "text": "Jesus said there is something more",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.442,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 114.18,
+   "end": 118.94,
+   "text": "I am the life, the rising power who trusts in me",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 118.94,
+   "end": 121.92,
+   "text": "In darkest hour do you believe?",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 122.28,
+   "end": 126.68,
+   "text": "She answered yes, you are the Christ God sent to bless",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 126.68,
+   "end": 129.42,
+   "text": "I am the resurrection now",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 129.42,
+   "end": 132.54,
+   "text": "The life that death cannot shut down",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 132.54,
+   "end": 135.68,
+   "text": "Whoever trusts, though death may come",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 135.68,
+   "end": 138.76,
+   "text": "We rise again, the grave undone",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 138.76,
+   "end": 142.02,
+   "text": "I am the resurrection now",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.58,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 142.02,
+   "end": 145.08,
+   "text": "The life and death cannot shut down",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 145.08,
+   "end": 148.24,
+   "text": "Whoever lives and trusts in me",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 148.24,
+   "end": 151.18,
+   "text": "Will never die eternally",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 151.18,
+   "end": 155.02,
+   "text": "Mary wept and Jesus cried",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 155.02,
+   "end": 158.22,
+   "text": "Seeing sorrow standing wide",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 158.22,
+   "end": 161.26,
+   "text": "He came to tomb and asked them move",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 161.26,
+   "end": 164.44,
+   "text": "The stone aside they fear the truth",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 164.44,
+   "end": 167.64,
+   "text": "Lord, he smells the fourth day past",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 167.64,
+   "end": 170.7,
+   "text": "Jesus said, did I not ask",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 170.7,
+   "end": 173.68,
+   "text": "Believe and you will see God light",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 173.68,
+   "end": 177.1,
+   "text": "They rolled the stone away that night",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 177.1,
+   "end": 179.96,
+   "text": "He lifted eyes and spoke His prayer",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 179.96,
+   "end": 183.08,
+   "text": "Father, I know you hear me there",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 183.08,
+   "end": 186.3,
+   "text": "He cried out loud with mighty breath",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 186.3,
+   "end": 189.34,
+   "text": "Lazarus come out of death",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 189.34,
+   "end": 192.5,
+   "text": "The man came forth still wrapped in cloth",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 192.5,
+   "end": 195.32,
+   "text": "Jesus said, lose him, let him walk",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 195.32,
+   "end": 198.78,
+   "text": "Many believe from what they saw",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 198.78,
+   "end": 202.32,
+   "text": "Oh, some random tale of the law",
+   "avg_logprob": -0.604,
+   "no_speech_prob": 0.189,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 205.28,
+   "end": 208.28,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.604,
+   "no_speech_prob": 0.189,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 209.22,
+   "end": 213.4,
+   "text": "Ooh, ooh, ooh, ooh, ooh",
+   "avg_logprob": -0.604,
+   "no_speech_prob": 0.189,
+   "track_id": "NwYKGZpyYs8#11"
+  },
+  {
+   "start": 213.4,
+   "end": 226.8,
+   "text": "Ooh, ooh, ooh, ooh, ooh",
+   "avg_logprob": -0.604,
+   "no_speech_prob": 0.189,
+   "track_id": "NwYKGZpyYs8#11"
+  }
+ ]
+}

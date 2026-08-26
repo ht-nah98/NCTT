@@ -1,0 +1,454 @@
+{
+ "track_id": "NwYKGZpyYs8#13",
+ "track_key": "NwYKGZpyYs8__13",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Love One Another (John 13)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 204.0,
+ "voiced_sec": 176.2,
+ "voice_ratio": 0.864,
+ "n_words": 376,
+ "words_per_min": 110.6,
+ "is_instrumental": false,
+ "n_segments": 54,
+ "n_segments_voiced": 54,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.0,
+ "rtf": 0.059,
+ "segments": [
+  {
+   "start": 11.32,
+   "end": 18.66,
+   "text": "Before the feast before the night Jesus knew the hour was right",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.536,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 18.66,
+   "end": 25.06,
+   "text": "He loved his own until the end Knowing where his steps would bend",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.536,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 25.06,
+   "end": 27.88,
+   "text": "He rose from supper late aside",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 27.88,
+   "end": 31.14,
+   "text": "User his hands to wash and dry",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 31.66,
+   "end": 34.46,
+   "text": "He poured the water low he bends",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 34.46,
+   "end": 38.0,
+   "text": "To not be served but serve his friends",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 38.74,
+   "end": 41.34,
+   "text": "Love one another as I loved you",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 41.9,
+   "end": 44.7,
+   "text": "This is the command I give you",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 44.7,
+   "end": 48.0,
+   "text": "By this the world will surely see",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 48.0,
+   "end": 51.12,
+   "text": "Love one another and love me",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 51.12,
+   "end": 54.1,
+   "text": "Love one another as I loved you",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.309,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 54.1,
+   "end": 57.16,
+   "text": "Walk in the way that I've shown you",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.451,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 57.16,
+   "end": 60.48,
+   "text": "If you keep this word that I speak true",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.451,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 60.48,
+   "end": 63.12,
+   "text": "My love will always rest on you",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.451,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 69.1,
+   "end": 72.44,
+   "text": "He came to Peter and washed his feet",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.451,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 72.44,
+   "end": 75.72,
+   "text": "Peter said, Lord, this is not me",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.451,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 75.72,
+   "end": 78.1,
+   "text": "You will not wash me not today",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.451,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 78.68,
+   "end": 82.06,
+   "text": "Jesus said, you have no way",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.451,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 82.06,
+   "end": 85.16,
+   "text": "Unless I wash you clean and whole",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 85.16,
+   "end": 88.46,
+   "text": "You have no share within my soul",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 88.46,
+   "end": 91.5,
+   "text": "Peter said then wash me off",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 91.5,
+   "end": 94.74,
+   "text": "Jesus said you already washed",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 94.74,
+   "end": 97.86,
+   "text": "When he was done he spoke again",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 97.86,
+   "end": 101.06,
+   "text": "Do you see what I have done",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 101.06,
+   "end": 104.04,
+   "text": "I am your Lord your teacher true",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 104.04,
+   "end": 107.32,
+   "text": "Yet I have served and humbled too",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 107.32,
+   "end": 110.38,
+   "text": "If I have washed your feet with care",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.292,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 110.38,
+   "end": 113.46,
+   "text": "You also serve each other there",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 113.46,
+   "end": 116.58,
+   "text": "I gave example, plain and right",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 116.58,
+   "end": 119.96,
+   "text": "Blessed are those who live this sight",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 120.82,
+   "end": 123.38,
+   "text": "Love one another as I love you",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 124.26,
+   "end": 126.44,
+   "text": "This is the command I give",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 126.44,
+   "end": 130.1,
+   "text": "By this the world will surely see",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 130.1,
+   "end": 132.62,
+   "text": "Love one another and love",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 133.38,
+   "end": 136.86,
+   "text": "Love one another as I love you",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.556,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 136.86,
+   "end": 139.24,
+   "text": "Walk in the way that I have shown you",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 139.24,
+   "end": 142.56,
+   "text": "If you keep this word that I speak true",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 142.56,
+   "end": 145.14,
+   "text": "My love will always rest on you",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 145.66,
+   "end": 148.12,
+   "text": "One among you will betray",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 148.12,
+   "end": 151.46,
+   "text": "My spirit troubled as I say",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 151.46,
+   "end": 154.58,
+   "text": "They looked around in silent fear",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 155.18,
+   "end": 157.86,
+   "text": "Who could it be? The end is near",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 157.86,
+   "end": 160.96,
+   "text": "The one I give this bread dipped down",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 160.96,
+   "end": 164.18,
+   "text": "State unentered hearts unbound",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.377,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 164.18,
+   "end": 167.28,
+   "text": "What you do go do it fast",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 167.28,
+   "end": 170.56,
+   "text": "Night fell dark, the died was cast",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 170.56,
+   "end": 173.54,
+   "text": "When he was gone, Jesus declared",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 173.54,
+   "end": 176.92,
+   "text": "Now the sun is glorified here",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 176.92,
+   "end": 179.84,
+   "text": "Little children hear my plea",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 179.84,
+   "end": 183.1,
+   "text": "Where I go, you cannot be",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 183.1,
+   "end": 186.06,
+   "text": "Peter said, Lord, I will follow still",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 186.06,
+   "end": 189.84,
+   "text": "I would lay down life by will",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 189.84,
+   "end": 192.86,
+   "text": "Jesus said before the dawn",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.439,
+   "track_id": "NwYKGZpyYs8#13"
+  },
+  {
+   "start": 192.86,
+   "end": 199.52,
+   "text": "You will deny me three times on",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.45,
+   "track_id": "NwYKGZpyYs8#13"
+  }
+ ]
+}

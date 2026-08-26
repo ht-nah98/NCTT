@@ -1,0 +1,174 @@
+{
+ "track_id": "btdznddpirc#05",
+ "track_key": "btdznddpirc__05",
+ "video_id": "btdznddpirc",
+ "title": "5. Old Rugged Path",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 228.0,
+ "voiced_sec": 152.1,
+ "voice_ratio": 0.667,
+ "n_words": 179,
+ "words_per_min": 47.1,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.3,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.34,
+   "text": "I'm rich in heaven with these humble blues",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.041,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 11.0,
+   "end": 16.24,
+   "text": "Not the proud, not the ones who fight",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.041,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 18.0,
+   "end": 24.02,
+   "text": "But the meek gonna shine in the Father's light",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.041,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 25.66,
+   "end": 36.4,
+   "text": "Mercy's given to the merciful hand And the pure in the heart gonna see the",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.393,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 36.4,
+   "end": 38.58,
+   "text": "promised land",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.393,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 38.58,
+   "end": 52.38,
+   "text": "Slow down, Lord, I lay my pride down low Just a beggar at your door I go",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.503,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 52.38,
+   "end": 61.3,
+   "text": "So far, cause the gate is narrow, the road is true",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.709,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 61.3,
+   "end": 67.38,
+   "text": "And the kingdom belongs to the ones like you",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.709,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 67.38,
+   "end": 74.8,
+   "text": "I got those blessed and broken blows",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.709,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 74.8,
+   "end": 81.64,
+   "text": "A crown of glory in my worn out shoes.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 83.08,
+   "end": 88.92,
+   "text": "World may mock, but I won't refuse.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 91.0,
+   "end": 96.42,
+   "text": "I'm rich in heaven with these humble blues.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.603,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 130.28,
+   "end": 134.74,
+   "text": "I got those blisters",
+   "avg_logprob": -0.829,
+   "no_speech_prob": 0.432,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 134.74,
+   "end": 143.44,
+   "text": "and broken blues A crown of glory in my worn out shoes",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.577,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 146.18,
+   "end": 158.98,
+   "text": "World may mock but I won't refuse I'm rich in heaven with these humble blues",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.577,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 160.26,
+   "end": 176.96,
+   "text": "Bless it, Lord, Bless it, Lord, Poor and spirit but rich in you.",
+   "avg_logprob": -0.677,
+   "no_speech_prob": 0.687,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 201.56,
+   "end": 208.52,
+   "text": "The storm was cold, the grave was sealed",
+   "avg_logprob": -0.714,
+   "no_speech_prob": 0.226,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 208.52,
+   "end": 223.76,
+   "text": "For long days, no breath to feel Martha wept, Mary cried",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.163,
+   "track_id": "btdznddpirc#05"
+  },
+  {
+   "start": 224.52,
+   "end": 227.94,
+   "text": "Said, Lord, if you'd been here",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.163,
+   "track_id": "btdznddpirc#05"
+  }
+ ]
+}

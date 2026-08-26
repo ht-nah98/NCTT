@@ -1,0 +1,2748 @@
+{
+ "video_id": "_ycC4y-4sYo",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 2359.7,
+ "voiced_sec": 1561.4,
+ "voice_ratio": 0.662,
+ "is_instrumental": false,
+ "n_segments": 273,
+ "n_segments_voiced": 273,
+ "n_tracks": 9,
+ "n_seg_mapped": 273,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 1.62,
+   "end": 2.0,
+   "text": "17.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 1.62,
+   "track_end": 2.0
+  },
+  {
+   "start": 3.68,
+   "end": 4.28,
+   "text": "Hmm.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 3.68,
+   "track_end": 4.28
+  },
+  {
+   "start": 5.54,
+   "end": 7.26,
+   "text": "You are my God.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 5.54,
+   "track_end": 7.26
+  },
+  {
+   "start": 9.7,
+   "end": 12.94,
+   "text": "Forever the same.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 9.7,
+   "track_end": 12.94
+  },
+  {
+   "start": 14.96,
+   "end": 16.88,
+   "text": "Mighty and holy.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 14.96,
+   "track_end": 16.88
+  },
+  {
+   "start": 20.0,
+   "end": 21.82,
+   "text": "I bless your name.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 20.0,
+   "track_end": 21.82
+  },
+  {
+   "start": 24.16,
+   "end": 26.56,
+   "text": "Alpha Omega.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.557,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 24.16,
+   "track_end": 26.56
+  },
+  {
+   "start": 28.22,
+   "end": 32.14,
+   "text": "beginning and end.",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.519,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 28.22,
+   "track_end": 32.14
+  },
+  {
+   "start": 33.18,
+   "end": 39.86,
+   "text": "You are my God, my Savior, my everything.",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.519,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 33.18,
+   "track_end": 39.86
+  },
+  {
+   "start": 48.56,
+   "end": 57.02,
+   "text": "El Shaddai, Almighty King To you alone I lift my offering",
+   "avg_logprob": -0.591,
+   "no_speech_prob": 0.594,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 48.56,
+   "track_end": 57.02
+  },
+  {
+   "start": 57.02,
+   "end": 66.04,
+   "text": "Jehovah, Jai, you provide In every storm you're by my side",
+   "avg_logprob": -0.591,
+   "no_speech_prob": 0.594,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 57.02,
+   "track_end": 66.04
+  },
+  {
+   "start": 68.08,
+   "end": 75.54,
+   "text": "Eilean, the most high one, bright morning star, the risen Son.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.563,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 68.08,
+   "track_end": 75.54
+  },
+  {
+   "start": 76.46,
+   "end": 83.66,
+   "text": "I deny sovereign Lord above clothing, justice, mercy and love.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.563,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 76.46,
+   "track_end": 83.66
+  },
+  {
+   "start": 84.68,
+   "end": 91.94,
+   "text": "You are my God, forever the same.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.563,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 84.68,
+   "track_end": 91.94
+  },
+  {
+   "start": 91.94,
+   "end": 96.46,
+   "text": "I'm in holy, in holy",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 91.94,
+   "track_end": 96.46
+  },
+  {
+   "start": 96.46,
+   "end": 98.3,
+   "text": "I bless your name",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 96.46,
+   "track_end": 98.3
+  },
+  {
+   "start": 101.08,
+   "end": 105.42,
+   "text": "Alpha Omega, Omega",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 101.08,
+   "track_end": 105.42
+  },
+  {
+   "start": 105.42,
+   "end": 108.28,
+   "text": "Beginning and ending",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 105.42,
+   "track_end": 108.28
+  },
+  {
+   "start": 108.28,
+   "end": 116.16,
+   "text": "You are my God, my Savior, my everything",
+   "avg_logprob": -0.756,
+   "no_speech_prob": 0.485,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 108.28,
+   "track_end": 116.16
+  },
+  {
+   "start": 125.18,
+   "end": 134.14,
+   "text": "Jehovah Rapha, Lord who heals, Your power and truth, forever revealed.",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.613,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 125.18,
+   "track_end": 134.14
+  },
+  {
+   "start": 134.98,
+   "end": 142.96,
+   "text": "Jehovah Nisi, my banner raised, To you alone belongs all praise.",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.613,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 134.98,
+   "track_end": 142.96
+  },
+  {
+   "start": 142.96,
+   "end": 151.88,
+   "text": "The great I am, unchanging one Who was and is and is to come",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.733,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 142.96,
+   "track_end": 151.88
+  },
+  {
+   "start": 151.88,
+   "end": 160.24,
+   "text": "Emmanuel, God with a still ruler of all Whose word for fear",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.733,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 151.88,
+   "track_end": 160.24
+  },
+  {
+   "start": 160.24,
+   "end": 168.44,
+   "text": "You are my God, forever the same",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.733,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 160.24,
+   "track_end": 168.44
+  },
+  {
+   "start": 168.44,
+   "end": 174.78,
+   "text": "Mighty and holy, mighty and holy, I bless Your name",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.39,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 168.44,
+   "track_end": 174.78
+  },
+  {
+   "start": 177.44,
+   "end": 185.78,
+   "text": "I pray, Omega, Omega, beginning and end, yeah",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.39,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 177.44,
+   "track_end": 185.78
+  },
+  {
+   "start": 186.44,
+   "end": 192.66,
+   "text": "You are my God, my Savior, my everything",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.39,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 186.44,
+   "track_end": 192.66
+  },
+  {
+   "start": 201.68,
+   "end": 210.52,
+   "text": "Jehovah Shalom, my perfect peace Your loving grace will never cease",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.692,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 201.68,
+   "track_end": 210.52
+  },
+  {
+   "start": 211.36,
+   "end": 219.68,
+   "text": "The rock of ages, my heart in place Redeemer King, full of grace",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.692,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 211.36,
+   "track_end": 219.68
+  },
+  {
+   "start": 219.68,
+   "end": 223.94,
+   "text": "Lamb of God who bore my shame",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 219.68,
+   "track_end": 223.94
+  },
+  {
+   "start": 223.94,
+   "end": 228.4,
+   "text": "Yes, you are the matchless name",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 223.94,
+   "track_end": 228.4
+  },
+  {
+   "start": 228.4,
+   "end": 232.76,
+   "text": "Lion of Judah, strong and bold",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 228.4,
+   "track_end": 232.76
+  },
+  {
+   "start": 232.76,
+   "end": 236.82,
+   "text": "And chin of days whose truth is told",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 232.76,
+   "track_end": 236.82
+  },
+  {
+   "start": 236.82,
+   "end": 240.48,
+   "text": "You are my God",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 236.82,
+   "track_end": 240.48
+  },
+  {
+   "start": 240.48,
+   "end": 244.72,
+   "text": "Forever the same",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 240.48,
+   "track_end": 244.72
+  },
+  {
+   "start": 244.72,
+   "end": 247.1,
+   "text": "Mighty in hope",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.617,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 244.72,
+   "track_end": 247.1
+  },
+  {
+   "start": 247.1,
+   "end": 251.24,
+   "text": "Mighty and holy, I bless your name",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.627,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 247.1,
+   "track_end": 251.24
+  },
+  {
+   "start": 254.1,
+   "end": 262.26,
+   "text": "I'm Omega, Omega, getting in, getting in",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.627,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 254.1,
+   "track_end": 262.26
+  },
+  {
+   "start": 263.1,
+   "end": 269.14,
+   "text": "You are my God, my Savior, my everything",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.627,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 263.1,
+   "track_end": 269.14
+  },
+  {
+   "start": 269.14,
+   "end": 277.32,
+   "text": "I will Father lift you high Holy Spirit be ever now",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 269.14,
+   "track_end": 277.32
+  },
+  {
+   "start": 277.32,
+   "end": 285.28,
+   "text": "Counselor, Comforter, guiding light Your presence turns death to life",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 277.32,
+   "track_end": 285.28
+  },
+  {
+   "start": 285.28,
+   "end": 290.0,
+   "text": "You are my God, You are my God",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 285.28,
+   "track_end": 290.0
+  },
+  {
+   "start": 290.0,
+   "end": 294.44,
+   "text": "Forever the same, Forever the same",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.325,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 290.0,
+   "track_end": 294.44
+  },
+  {
+   "start": 294.44,
+   "end": 298.68,
+   "text": "Mighty and holy Mighty and holy",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.266,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 294.44,
+   "track_end": 298.68
+  },
+  {
+   "start": 298.68,
+   "end": 301.84,
+   "text": "I exalt your name",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.266,
+   "track_id": "_ycC4y-4sYo#02",
+   "track_start": 298.68,
+   "track_end": 301.84
+  },
+  {
+   "start": 303.0,
+   "end": 305.24,
+   "text": "I'll hold your name",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 0.0,
+   "track_end": 2.24
+  },
+  {
+   "start": 306.6,
+   "end": 309.1,
+   "text": "Alpha Omega",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 3.6,
+   "track_end": 6.1
+  },
+  {
+   "start": 311.0,
+   "end": 313.68,
+   "text": "Beginning and end",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 8.0,
+   "track_end": 10.68
+  },
+  {
+   "start": 315.7,
+   "end": 317.44,
+   "text": "God the Father",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 12.7,
+   "track_end": 14.44
+  },
+  {
+   "start": 318.0,
+   "end": 319.64,
+   "text": "God the Son",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 15.0,
+   "track_end": 16.64
+  },
+  {
+   "start": 320.2,
+   "end": 322.5,
+   "text": "God the Holy Spirit",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 17.2,
+   "track_end": 19.5
+  },
+  {
+   "start": 324.6,
+   "end": 326.16,
+   "text": "My everything",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 21.6,
+   "track_end": 23.16
+  },
+  {
+   "start": 334.14,
+   "end": 336.64,
+   "text": "The Lord is my shepherd.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.437,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 31.14,
+   "track_end": 33.64
+  },
+  {
+   "start": 344.0,
+   "end": 345.44,
+   "text": "I shall not want.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.437,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 41.0,
+   "track_end": 42.44
+  },
+  {
+   "start": 353.72,
+   "end": 357.26,
+   "text": "He maketh me to lie down in green pasture.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.437,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 50.72,
+   "track_end": 54.26
+  },
+  {
+   "start": 361.36,
+   "end": 366.32,
+   "text": "He lead me beside the still waters.",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.608,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 58.36,
+   "track_end": 63.32
+  },
+  {
+   "start": 371.42,
+   "end": 373.42,
+   "text": "He restoreeth my soul.",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.608,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 68.42,
+   "track_end": 70.42
+  },
+  {
+   "start": 373.42,
+   "end": 382.5,
+   "text": "Oh, he leadeth me in the past of righteousness, for his name's saved.",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.615,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 70.42,
+   "track_end": 79.5
+  },
+  {
+   "start": 388.44,
+   "end": 399.78,
+   "text": "Yeah, though I walk through the valley of the shadow of death, I will fear no evil.",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.615,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 85.44,
+   "track_end": 96.78
+  },
+  {
+   "start": 402.4,
+   "end": 409.52,
+   "text": "For thou water with me, thy rod and thy staff, they comfort me.",
+   "avg_logprob": -0.496,
+   "no_speech_prob": 0.716,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 99.4,
+   "track_end": 106.52
+  },
+  {
+   "start": 416.22,
+   "end": 423.46,
+   "text": "Now I'll prepare us to table before me in the presence of mine enemies.",
+   "avg_logprob": -0.496,
+   "no_speech_prob": 0.716,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 113.22,
+   "track_end": 120.46
+  },
+  {
+   "start": 424.82,
+   "end": 432.26,
+   "text": "Thou are known as my head with oil, my cup runneth over.",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 121.82,
+   "track_end": 129.26
+  },
+  {
+   "start": 436.22,
+   "end": 446.5,
+   "text": "Surely goodness and mercy shall follow me all the days of my life, and I will dwell",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 133.22,
+   "track_end": 143.5
+  },
+  {
+   "start": 446.5,
+   "end": 450.68,
+   "text": "in the house of the Lord forever",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.536,
+   "track_id": "_ycC4y-4sYo#03",
+   "track_start": 143.5,
+   "track_end": 147.68
+  },
+  {
+   "start": 547.98,
+   "end": 553.3,
+   "text": "I stood at the crossroads, hard heavy with pain",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.604,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 22.98,
+   "track_end": 28.3
+  },
+  {
+   "start": 553.3,
+   "end": 557.44,
+   "text": "Looking down the road through the pouring rain",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 28.3,
+   "track_end": 32.44
+  },
+  {
+   "start": 557.44,
+   "end": 562.96,
+   "text": "Said, Lord, show me the old old way",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 32.44,
+   "track_end": 37.96
+  },
+  {
+   "start": 562.96,
+   "end": 568.22,
+   "text": "Where the saints once walk, where my soul can stay",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 37.96,
+   "track_end": 43.22
+  },
+  {
+   "start": 569.88,
+   "end": 574.12,
+   "text": "Jeremiah 6, 16 in the Good Book say",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 44.88,
+   "track_end": 49.12
+  },
+  {
+   "start": 578.12,
+   "end": 585.86,
+   "text": "Stand at the crossroads and look, ask for the ancient past.",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.774,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 53.12,
+   "track_end": 60.86
+  },
+  {
+   "start": 587.6,
+   "end": 596.44,
+   "text": "Ask where the good way is and walk in it, and you will find rest for your souls.",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.774,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 62.6,
+   "track_end": 71.44
+  },
+  {
+   "start": 596.44,
+   "end": 605.86,
+   "text": "Oh, if we hope for what we do not see, we wait, we wait so patiently.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.537,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 71.44,
+   "track_end": 80.86
+  },
+  {
+   "start": 607.02,
+   "end": 616.48,
+   "text": "If it's the Lord's will not mind but Him, we live, we breathe, we walk in Him.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.537,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 82.02,
+   "track_end": 91.48
+  },
+  {
+   "start": 616.48,
+   "end": 624.26,
+   "text": "Yes, we walk, yes, long in it",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.432,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 91.48,
+   "track_end": 99.26
+  },
+  {
+   "start": 635.34,
+   "end": 639.74,
+   "text": "I heard a whisper in the wind so still",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.432,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 110.34,
+   "track_end": 114.74
+  },
+  {
+   "start": 639.74,
+   "end": 644.56,
+   "text": "Saying, this is the way, walk in my will",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.432,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 114.74,
+   "track_end": 119.56
+  },
+  {
+   "start": 644.56,
+   "end": 649.78,
+   "text": "Don't follow the noise, don't follow the crowd",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 119.56,
+   "track_end": 124.78
+  },
+  {
+   "start": 650.56,
+   "end": 654.44,
+   "text": "Come to the place where I am found",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 125.56,
+   "track_end": 129.44
+  },
+  {
+   "start": 654.44,
+   "end": 661.06,
+   "text": "Yahuwah is beckoning",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 129.44,
+   "track_end": 136.06
+  },
+  {
+   "start": 664.12,
+   "end": 668.1,
+   "text": "Stand at the crossroads and look",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 139.12,
+   "track_end": 143.1
+  },
+  {
+   "start": 668.1,
+   "end": 672.16,
+   "text": "Ask for the ancient past",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 143.1,
+   "track_end": 147.16
+  },
+  {
+   "start": 673.3,
+   "end": 679.14,
+   "text": "Ask where the good way is and walk in it",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 148.3,
+   "track_end": 154.14
+  },
+  {
+   "start": 679.14,
+   "end": 682.94,
+   "text": "And you will find rest for your souls",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 154.14,
+   "track_end": 157.94
+  },
+  {
+   "start": 682.94,
+   "end": 687.84,
+   "text": "Oh, if we hope for what we do not see",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 157.94,
+   "track_end": 162.84
+  },
+  {
+   "start": 687.84,
+   "end": 692.16,
+   "text": "We wait, we wait so patiently",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 162.84,
+   "track_end": 167.16
+  },
+  {
+   "start": 692.16,
+   "end": 697.16,
+   "text": "If it's the Lord's will not mind but Him",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 167.16,
+   "track_end": 172.16
+  },
+  {
+   "start": 697.58,
+   "end": 702.96,
+   "text": "We live, we move, we trust in Him",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.527,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 172.58,
+   "track_end": 177.96
+  },
+  {
+   "start": 702.96,
+   "end": 710.06,
+   "text": "Yes, we walk through fire with our Savior",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.527,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 177.96,
+   "track_end": 185.06
+  },
+  {
+   "start": 757.58,
+   "end": 760.24,
+   "text": "They only let to let",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 232.58,
+   "track_end": 235.24
+  },
+  {
+   "start": 760.78,
+   "end": 765.32,
+   "text": "Ask for that path carved by nail-scored hands",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 235.78,
+   "track_end": 240.32
+  },
+  {
+   "start": 765.32,
+   "end": 770.48,
+   "text": "The one that leads to the promised land",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 240.32,
+   "track_end": 245.48
+  },
+  {
+   "start": 770.48,
+   "end": 773.84,
+   "text": "Ask for the way in",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 245.48,
+   "track_end": 248.84
+  },
+  {
+   "start": 774.58,
+   "end": 776.66,
+   "text": "And walk in",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 249.58,
+   "track_end": 251.66
+  },
+  {
+   "start": 776.66,
+   "end": 778.62,
+   "text": "You will find breath",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 251.66,
+   "track_end": 253.62
+  },
+  {
+   "start": 778.62,
+   "end": 780.16,
+   "text": "Yes, speak",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 253.62,
+   "track_end": 255.16
+  },
+  {
+   "start": 782.58,
+   "end": 784.18,
+   "text": "With it",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04",
+   "track_start": 257.58,
+   "track_end": 259.18
+  },
+  {
+   "start": 808.06,
+   "end": 814.74,
+   "text": "You have searched me Lord and you know me",
+   "avg_logprob": -0.665,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 19.06,
+   "track_end": 25.74
+  },
+  {
+   "start": 816.16,
+   "end": 836.02,
+   "text": "You know when I sin and when I rise, you perceive my thoughts from afar.",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.49,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 27.16,
+   "track_end": 47.02
+  },
+  {
+   "start": 841.42,
+   "end": 848.08,
+   "text": "You discern my going out and my lying down.",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.728,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 52.42,
+   "track_end": 59.08
+  },
+  {
+   "start": 850.9,
+   "end": 858.14,
+   "text": "You are familiar with all my ways.",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.728,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 61.9,
+   "track_end": 69.14
+  },
+  {
+   "start": 858.14,
+   "end": 872.18,
+   "text": "Before a word is on my tongue, you Lord know it completely.",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.308,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 69.14,
+   "track_end": 83.18
+  },
+  {
+   "start": 875.64,
+   "end": 881.8,
+   "text": "Search me, oh Lord, and know my heart.",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.308,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 86.64,
+   "track_end": 92.8
+  },
+  {
+   "start": 883.76,
+   "end": 890.6,
+   "text": "Try me, oh Lord, and oh my thoughts.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.658,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 94.76,
+   "track_end": 101.6
+  },
+  {
+   "start": 892.86,
+   "end": 898.98,
+   "text": "Oh Lord, if there be any wicked way in me,",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.658,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 103.86,
+   "track_end": 109.98
+  },
+  {
+   "start": 899.2,
+   "end": 905.06,
+   "text": "creating me a clean heart, oh God,",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.658,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 110.2,
+   "track_end": 116.06
+  },
+  {
+   "start": 905.06,
+   "end": 911.06,
+   "text": "and renew a right spirit within me.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 116.06,
+   "track_end": 122.06
+  },
+  {
+   "start": 916.94,
+   "end": 921.46,
+   "text": "You hand me in behind and before,",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 127.94,
+   "track_end": 132.46
+  },
+  {
+   "start": 921.92,
+   "end": 924.92,
+   "text": "and you lay your hand upon me.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 132.92,
+   "track_end": 135.92
+  },
+  {
+   "start": 925.9,
+   "end": 929.94,
+   "text": "Such knowledge is too wonderful for me,",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 136.9,
+   "track_end": 140.94
+  },
+  {
+   "start": 930.56,
+   "end": 933.3,
+   "text": "too lofty for me to attain.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 141.56,
+   "track_end": 144.3
+  },
+  {
+   "start": 933.3,
+   "end": 940.36,
+   "text": "Search me, oh Lord, and know my heart.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 144.3,
+   "track_end": 151.36
+  },
+  {
+   "start": 942.3,
+   "end": 948.88,
+   "text": "Try me, oh Lord, and know my thoughts.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 153.3,
+   "track_end": 159.88
+  },
+  {
+   "start": 951.16,
+   "end": 957.14,
+   "text": "Oh Lord, if there be any wicked way in me",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 162.16,
+   "track_end": 168.14
+  },
+  {
+   "start": 957.14,
+   "end": 970.24,
+   "text": "created me a clean heart oh God and renew the right spirit within me",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.32,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 168.14,
+   "track_end": 181.24
+  },
+  {
+   "start": 975.78,
+   "end": 982.5,
+   "text": "For you created my inmost being.",
+   "avg_logprob": -0.488,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 186.78,
+   "track_end": 193.5
+  },
+  {
+   "start": 985.68,
+   "end": 991.0,
+   "text": "You knit me together in my mother's womb.",
+   "avg_logprob": -0.488,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 196.68,
+   "track_end": 202.0
+  },
+  {
+   "start": 993.36,
+   "end": 1000.86,
+   "text": "I praise you because I am fearfully and wonderfully made.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 204.36,
+   "track_end": 211.86
+  },
+  {
+   "start": 1001.72,
+   "end": 1004.68,
+   "text": "Your works are wonderful.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 212.72,
+   "track_end": 215.68
+  },
+  {
+   "start": 1006.18,
+   "end": 1008.52,
+   "text": "I know that for well.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 217.18,
+   "track_end": 219.52
+  },
+  {
+   "start": 1010.92,
+   "end": 1018.6,
+   "text": "My frame was not hidden from you when I was made in the secret place.",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.592,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 221.92,
+   "track_end": 229.6
+  },
+  {
+   "start": 1018.6,
+   "end": 1024.22,
+   "text": "When I was woven together in the depths of the earth",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 229.6,
+   "track_end": 235.22
+  },
+  {
+   "start": 1024.22,
+   "end": 1027.38,
+   "text": "Your eyes saw my unformed body",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 235.22,
+   "track_end": 238.38
+  },
+  {
+   "start": 1027.38,
+   "end": 1032.74,
+   "text": "All the days ordained for me were",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 238.38,
+   "track_end": 243.74
+  },
+  {
+   "start": 1032.74,
+   "end": 1035.84,
+   "text": "Written in your book",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 243.74,
+   "track_end": 246.84
+  },
+  {
+   "start": 1035.84,
+   "end": 1040.7,
+   "text": "Before one of them came to be",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 246.84,
+   "track_end": 251.7
+  },
+  {
+   "start": 1040.7,
+   "end": 1047.12,
+   "text": "He created me a clean heart, oh God",
+   "avg_logprob": -0.498,
+   "no_speech_prob": 0.204,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 251.7,
+   "track_end": 258.12
+  },
+  {
+   "start": 1050.28,
+   "end": 1058.94,
+   "text": "And renew a right spirit within me",
+   "avg_logprob": -0.498,
+   "no_speech_prob": 0.204,
+   "track_id": "_ycC4y-4sYo#05",
+   "track_start": 261.28,
+   "track_end": 269.94
+  },
+  {
+   "start": 1059.0,
+   "end": 1070.1,
+   "text": "and renew a right spirit within me.",
+   "avg_logprob": -0.53,
+   "no_speech_prob": 0.488,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 0.0,
+   "track_end": 11.1
+  },
+  {
+   "start": 1072.32,
+   "end": 1078.54,
+   "text": "The Lord is my light and my salvation.",
+   "avg_logprob": -0.53,
+   "no_speech_prob": 0.488,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 13.32,
+   "track_end": 19.54
+  },
+  {
+   "start": 1080.9,
+   "end": 1084.94,
+   "text": "Who shall I fear?",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.73,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 21.9,
+   "track_end": 25.94
+  },
+  {
+   "start": 1090.44,
+   "end": 1095.48,
+   "text": "The Lord is the strength of my life",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.73,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 31.44,
+   "track_end": 36.48
+  },
+  {
+   "start": 1095.48,
+   "end": 1100.52,
+   "text": "Of whom shall I be afraid?",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.73,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 36.48,
+   "track_end": 41.52
+  },
+  {
+   "start": 1106.76,
+   "end": 1112.02,
+   "text": "When the wicked, even my enemies and my foes",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 47.76,
+   "track_end": 53.02
+  },
+  {
+   "start": 1112.02,
+   "end": 1118.1,
+   "text": "Came upon me to eat up my flesh, they stumbled and fell",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 53.02,
+   "track_end": 59.1
+  },
+  {
+   "start": 1122.18,
+   "end": 1125.92,
+   "text": "Though an host shouldn't camp against me",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 63.18,
+   "track_end": 66.92
+  },
+  {
+   "start": 1128.1,
+   "end": 1136.54,
+   "text": "My heart shall not fear though war should rise against me",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 69.1,
+   "track_end": 77.54
+  },
+  {
+   "start": 1138.06,
+   "end": 1141.08,
+   "text": "In this will I be confident",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 79.06,
+   "track_end": 82.08
+  },
+  {
+   "start": 1143.12,
+   "end": 1147.42,
+   "text": "One thing have I desired of the Lord",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 84.12,
+   "track_end": 88.42
+  },
+  {
+   "start": 1149.14,
+   "end": 1151.72,
+   "text": "That will I seek after",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 90.14,
+   "track_end": 92.72
+  },
+  {
+   "start": 1154.2,
+   "end": 1162.56,
+   "text": "That I may dwell in the house of the Lord All the days of my life",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.622,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 95.2,
+   "track_end": 103.56
+  },
+  {
+   "start": 1164.72,
+   "end": 1174.96,
+   "text": "To behold the beauty of the Lord And to inquire in His temple",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.622,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 105.72,
+   "track_end": 115.96
+  },
+  {
+   "start": 1179.96,
+   "end": 1185.94,
+   "text": "For in the time of trouble He shall hide me in His pavilion.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.807,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 120.96,
+   "track_end": 126.94
+  },
+  {
+   "start": 1190.96,
+   "end": 1194.24,
+   "text": "In the secret of His tabernacles Shall He hide me?",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.807,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 131.96,
+   "track_end": 135.24
+  },
+  {
+   "start": 1195.16,
+   "end": 1204.12,
+   "text": "He shall set me up upon a rock And now shall mine head be lifted up",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.807,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 136.16,
+   "track_end": 145.12
+  },
+  {
+   "start": 1204.12,
+   "end": 1207.26,
+   "text": "above my enemies round about me.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 145.12,
+   "track_end": 148.26
+  },
+  {
+   "start": 1210.96,
+   "end": 1215.94,
+   "text": "Therefore will I offer in this tabernacle sacrifices of joy.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 151.96,
+   "track_end": 156.94
+  },
+  {
+   "start": 1216.36,
+   "end": 1221.88,
+   "text": "I will sing, yeah, I will sing praises unto the Lord.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 157.36,
+   "track_end": 162.88
+  },
+  {
+   "start": 1222.64,
+   "end": 1227.1,
+   "text": "Hear, O Lord, when I cry with my voice,",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 163.64,
+   "track_end": 168.1
+  },
+  {
+   "start": 1227.72,
+   "end": 1234.1,
+   "text": "have mercy also upon me and answer me without fear.",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.333,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 168.72,
+   "track_end": 175.1
+  },
+  {
+   "start": 1235.1,
+   "end": 1237.12,
+   "text": "I will not be able to see my face.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 176.1,
+   "track_end": 178.12
+  },
+  {
+   "start": 1237.38,
+   "end": 1242.48,
+   "text": "My heart said unto thee, thy face, Lord, will I seek?",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 178.38,
+   "track_end": 183.48
+  },
+  {
+   "start": 1243.38,
+   "end": 1246.2,
+   "text": "Hide not thy face far from me.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 184.38,
+   "track_end": 187.2
+  },
+  {
+   "start": 1247.28,
+   "end": 1250.3,
+   "text": "Put not thy servant away in anger.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 188.28,
+   "track_end": 191.3
+  },
+  {
+   "start": 1253.84,
+   "end": 1256.2,
+   "text": "Thou hast been my help.",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.653,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 194.84,
+   "track_end": 197.2
+  },
+  {
+   "start": 1256.2,
+   "end": 1262.3,
+   "text": "Leave me not, neither forsake me, O God of my salvation.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 197.2,
+   "track_end": 203.3
+  },
+  {
+   "start": 1264.98,
+   "end": 1268.48,
+   "text": "When my father and my mother forsake me,",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 205.98,
+   "track_end": 209.48
+  },
+  {
+   "start": 1269.96,
+   "end": 1276.5,
+   "text": "Then the Lord will take me up, teach me thy way, O Lord.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 210.96,
+   "track_end": 217.5
+  },
+  {
+   "start": 1278.18,
+   "end": 1282.16,
+   "text": "And lead me in a plain path because of mine enemies.",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.459,
+   "track_id": "_ycC4y-4sYo#06",
+   "track_start": 219.18,
+   "track_end": 223.16
+  },
+  {
+   "start": 1283.0,
+   "end": 1286.22,
+   "text": "me in a plain path because of my enemies.",
+   "avg_logprob": -0.666,
+   "no_speech_prob": 0.536,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 0.0,
+   "track_end": 3.22
+  },
+  {
+   "start": 1293.92,
+   "end": 1295.32,
+   "text": "Praise.",
+   "avg_logprob": -1.648,
+   "no_speech_prob": 0.586,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 10.92,
+   "track_end": 12.32
+  },
+  {
+   "start": 1299.0,
+   "end": 1301.8,
+   "text": "Blessed assurance.",
+   "avg_logprob": -1.648,
+   "no_speech_prob": 0.586,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 16.0,
+   "track_end": 18.8
+  },
+  {
+   "start": 1305.7,
+   "end": 1308.86,
+   "text": "Jesus' mind.",
+   "avg_logprob": -1.648,
+   "no_speech_prob": 0.586,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 22.7,
+   "track_end": 25.86
+  },
+  {
+   "start": 1312.12,
+   "end": 1321.22,
+   "text": "Oh what a foretaste of glory divine.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.656,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 29.12,
+   "track_end": 38.22
+  },
+  {
+   "start": 1324.44,
+   "end": 1345.2,
+   "text": "Hair of salvation, purchase of God, born of His Spirit, washed in His blood.",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.64,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 41.44,
+   "track_end": 62.2
+  },
+  {
+   "start": 1348.54,
+   "end": 1352.84,
+   "text": "This is my story.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 65.54,
+   "track_end": 69.84
+  },
+  {
+   "start": 1354.18,
+   "end": 1357.22,
+   "text": "This is my song.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 71.18,
+   "track_end": 74.22
+  },
+  {
+   "start": 1359.84,
+   "end": 1366.4,
+   "text": "Praising my Savior all the day long.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 76.84,
+   "track_end": 83.4
+  },
+  {
+   "start": 1370.48,
+   "end": 1372.38,
+   "text": "This is my story.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 87.48,
+   "track_end": 89.38
+  },
+  {
+   "start": 1372.38,
+   "end": 1388.38,
+   "text": "This is my song, praising my Savior all the day long.",
+   "avg_logprob": -0.586,
+   "no_speech_prob": 0.482,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 89.38,
+   "track_end": 105.38
+  },
+  {
+   "start": 1388.78,
+   "end": 1404.58,
+   "text": "long. Perfect submission, perfect delight.",
+   "avg_logprob": -0.729,
+   "no_speech_prob": 0.749,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 105.78,
+   "track_end": 121.58
+  },
+  {
+   "start": 1406.64,
+   "end": 1429.04,
+   "text": "visions of rapture now burst on my sight angels descending bring from above echoes of mercy",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.734,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 123.64,
+   "track_end": 146.04
+  },
+  {
+   "start": 1429.04,
+   "end": 1434.86,
+   "text": "see whispers of love.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.754,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 146.04,
+   "track_end": 151.86
+  },
+  {
+   "start": 1438.04,
+   "end": 1454.8,
+   "text": "Nor hide nor death nor any other creature shall be able to separate us from the love of God.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.754,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 155.04,
+   "track_end": 171.8
+  },
+  {
+   "start": 1487.06,
+   "end": 1488.46,
+   "text": "You",
+   "avg_logprob": -0.965,
+   "no_speech_prob": 0.477,
+   "track_id": "_ycC4y-4sYo#07",
+   "track_start": 204.06,
+   "track_end": 205.46
+  },
+  {
+   "start": 1534.42,
+   "end": 1536.22,
+   "text": "In the beginning",
+   "avg_logprob": -1.114,
+   "no_speech_prob": 0.389,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 25.42,
+   "track_end": 27.22
+  },
+  {
+   "start": 1536.22,
+   "end": 1545.22,
+   "text": "The name was the word and the word was with God.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 27.22,
+   "track_end": 36.22
+  },
+  {
+   "start": 1548.22,
+   "end": 1552.18,
+   "text": "And the word was God's name.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 39.22,
+   "track_end": 43.18
+  },
+  {
+   "start": 1554.16,
+   "end": 1560.16,
+   "text": "Jesus answered, I am the way and the truth and the life.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 45.16,
+   "track_end": 51.16
+  },
+  {
+   "start": 1560.16,
+   "end": 1567.86,
+   "text": "No one comes to the Father except through me",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.214,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 51.16,
+   "track_end": 58.86
+  },
+  {
+   "start": 1571.16,
+   "end": 1578.36,
+   "text": "In the beginning the starting point for all that exists",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.214,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 62.16,
+   "track_end": 69.36
+  },
+  {
+   "start": 1580.16,
+   "end": 1581.54,
+   "text": "Jesus was present",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.214,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 71.16,
+   "track_end": 72.54
+  },
+  {
+   "start": 1586.96,
+   "end": 1595.88,
+   "text": "Oh, in the beginning The Word was with God",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.294,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 77.96,
+   "track_end": 86.88
+  },
+  {
+   "start": 1597.32,
+   "end": 1599.74,
+   "text": "The Word being Jesus",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.294,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 88.32,
+   "track_end": 90.74
+  },
+  {
+   "start": 1607.4,
+   "end": 1614.44,
+   "text": "Jesus answered, I am the way and the truth and the life",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 98.4,
+   "track_end": 105.44
+  },
+  {
+   "start": 1614.44,
+   "end": 1622.44,
+   "text": "No one comes to the Father except through me",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 105.44,
+   "track_end": 113.44
+  },
+  {
+   "start": 1625.72,
+   "end": 1635.88,
+   "text": "The Word was God declares the divinity of Jesus",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.245,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 116.72,
+   "track_end": 126.88
+  },
+  {
+   "start": 1638.44,
+   "end": 1650.6,
+   "text": "The Word is not just a messenger or a tool of God",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.245,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 129.44,
+   "track_end": 141.6
+  },
+  {
+   "start": 1650.6,
+   "end": 1658.24,
+   "text": "But is God Himself?",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 141.6,
+   "track_end": 149.24
+  },
+  {
+   "start": 1663.6,
+   "end": 1668.96,
+   "text": "Jesus answered, I am the way and the truth and the life",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 154.6,
+   "track_end": 159.96
+  },
+  {
+   "start": 1669.6,
+   "end": 1676.62,
+   "text": "No one comes to the Father except through me",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 160.6,
+   "track_end": 167.62
+  },
+  {
+   "start": 1714.84,
+   "end": 1726.0,
+   "text": "In the beginning was the word and the word was with God.",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.518,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 205.84,
+   "track_end": 217.0
+  },
+  {
+   "start": 1728.0,
+   "end": 1730.88,
+   "text": "And the word was God.",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.518,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 219.0,
+   "track_end": 221.88
+  },
+  {
+   "start": 1733.12,
+   "end": 1736.06,
+   "text": "He was with God in the beginning.",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.518,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 224.12,
+   "track_end": 227.06
+  },
+  {
+   "start": 1737.38,
+   "end": 1740.44,
+   "text": "Through Him all things were made",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 228.38,
+   "track_end": 231.44
+  },
+  {
+   "start": 1741.62,
+   "end": 1746.42,
+   "text": "Without Him nothing was made that has been made",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 232.62,
+   "track_end": 237.42
+  },
+  {
+   "start": 1746.42,
+   "end": 1748.68,
+   "text": "In Him was life",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 237.42,
+   "track_end": 239.68
+  },
+  {
+   "start": 1750.14,
+   "end": 1753.96,
+   "text": "And that life was the light of all mankind",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 241.14,
+   "track_end": 244.96
+  },
+  {
+   "start": 1754.88,
+   "end": 1758.0,
+   "text": "The light shines in the darkness",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 245.88,
+   "track_end": 249.0
+  },
+  {
+   "start": 1758.0,
+   "end": 1762.48,
+   "text": "And the darkness has not overcome it",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08",
+   "track_start": 249.0,
+   "track_end": 253.48
+  },
+  {
+   "start": 1766.0,
+   "end": 1769.0,
+   "text": "And the darkness has not overcome it.",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 0.0,
+   "track_end": 3.0
+  },
+  {
+   "start": 1775.4,
+   "end": 1781.88,
+   "text": "Save, fall, like lightning from heaven.",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 9.4,
+   "track_end": 15.88
+  },
+  {
+   "start": 1782.64,
+   "end": 1788.2,
+   "text": "The accuser of our brethren who accused them",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 16.64,
+   "track_end": 22.2
+  },
+  {
+   "start": 1788.2,
+   "end": 1791.82,
+   "text": "before our God day and night.",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 22.2,
+   "track_end": 25.82
+  },
+  {
+   "start": 1796.14,
+   "end": 1799.94,
+   "text": "has been cast down.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 30.14,
+   "track_end": 33.94
+  },
+  {
+   "start": 1806.0,
+   "end": 1808.92,
+   "text": "In the blood of Jesus,",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 40.0,
+   "track_end": 42.92
+  },
+  {
+   "start": 1810.28,
+   "end": 1812.88,
+   "text": "Satan I rebuke you.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 44.28,
+   "track_end": 46.88
+  },
+  {
+   "start": 1813.44,
+   "end": 1816.54,
+   "text": "In the name of Jesus,",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 47.44,
+   "track_end": 50.54
+  },
+  {
+   "start": 1817.18,
+   "end": 1820.28,
+   "text": "get behind me, Satan.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 51.18,
+   "track_end": 54.28
+  },
+  {
+   "start": 1821.1,
+   "end": 1823.88,
+   "text": "You have been defeated.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 55.1,
+   "track_end": 57.88
+  },
+  {
+   "start": 1823.88,
+   "end": 1830.12,
+   "text": "I have the victory, thank you Jesus, it is written.",
+   "avg_logprob": -0.632,
+   "no_speech_prob": 0.424,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 57.88,
+   "track_end": 64.12
+  },
+  {
+   "start": 1836.2,
+   "end": 1849.46,
+   "text": "Behold, I give you the authority to trample on serpents and scorpions.",
+   "avg_logprob": -0.439,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 70.2,
+   "track_end": 83.46
+  },
+  {
+   "start": 1850.86,
+   "end": 1865.0,
+   "text": "And over all the power of the enemy And nothing shall by any means hurt you",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.646,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 84.86,
+   "track_end": 99.0
+  },
+  {
+   "start": 1865.0,
+   "end": 1868.56,
+   "text": "Victory is written",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 99.0,
+   "track_end": 102.56
+  },
+  {
+   "start": 1873.0,
+   "end": 1876.88,
+   "text": "Fight the good fight of faith",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 107.0,
+   "track_end": 110.88
+  },
+  {
+   "start": 1880.32,
+   "end": 1884.9,
+   "text": "Scripture fast pray",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 114.32,
+   "track_end": 118.9
+  },
+  {
+   "start": 1887.0,
+   "end": 1890.9,
+   "text": "Put the enemy in his place",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 121.0,
+   "track_end": 124.9
+  },
+  {
+   "start": 1896.48,
+   "end": 1905.02,
+   "text": "But on the whole armor of God that you may be able to stand against the wiles of the",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.327,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 130.48,
+   "track_end": 139.02
+  },
+  {
+   "start": 1905.02,
+   "end": 1905.56,
+   "text": "devil.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.327,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 139.02,
+   "track_end": 139.56
+  },
+  {
+   "start": 1911.74,
+   "end": 1919.16,
+   "text": "For we do not wrestle against flesh and blood, but against principalities, against powers,",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.327,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 145.74,
+   "track_end": 153.16
+  },
+  {
+   "start": 1919.16,
+   "end": 1925.74,
+   "text": "against the rulers of the darkness of this age against spiritual hopes of",
+   "avg_logprob": -0.732,
+   "no_speech_prob": 0.472,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 153.16,
+   "track_end": 159.74
+  },
+  {
+   "start": 1925.74,
+   "end": 1931.36,
+   "text": "wickedness in the heavenly places victory is",
+   "avg_logprob": -0.732,
+   "no_speech_prob": 0.472,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 159.74,
+   "track_end": 165.36
+  },
+  {
+   "start": 1936.52,
+   "end": 1941.08,
+   "text": "fight the good fight a faith",
+   "avg_logprob": -0.732,
+   "no_speech_prob": 0.472,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 170.52,
+   "track_end": 175.08
+  },
+  {
+   "start": 1944.72,
+   "end": 1956.72,
+   "text": "Scripture fast pray Put the enemy in his place",
+   "avg_logprob": -0.713,
+   "no_speech_prob": 0.511,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 178.72,
+   "track_end": 190.72
+  },
+  {
+   "start": 1961.34,
+   "end": 1969.5,
+   "text": "Take the sword of the spirit which is the Word of God.",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.389,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 195.34,
+   "track_end": 203.5
+  },
+  {
+   "start": 1971.2,
+   "end": 1978.12,
+   "text": "Therefore submit to God, resist the devil and he will flee from you.",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.389,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 205.2,
+   "track_end": 212.12
+  },
+  {
+   "start": 1978.12,
+   "end": 1990.74,
+   "text": "The Lord will fight for you and you shall hold your peace.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.159,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 212.12,
+   "track_end": 224.74
+  },
+  {
+   "start": 1991.96,
+   "end": 2003.14,
+   "text": "No weapon formed against you shall prosper and every tongue which rises against you in",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.159,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 225.96,
+   "track_end": 237.14
+  },
+  {
+   "start": 2003.14,
+   "end": 2021.46,
+   "text": "judgment you shall condemn greater is he who is in you than he who is in the world.",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.248,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 237.14,
+   "track_end": 255.46
+  },
+  {
+   "start": 2030.72,
+   "end": 2031.44,
+   "text": "ougigh",
+   "avg_logprob": -2.642,
+   "no_speech_prob": 0.175,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 264.72,
+   "track_end": 265.44
+  },
+  {
+   "start": 2031.44,
+   "end": 2035.88,
+   "text": "Who givets us to victory through Our Lord Jesus Christ",
+   "avg_logprob": -2.642,
+   "no_speech_prob": 0.175,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 265.44,
+   "track_end": 269.88
+  },
+  {
+   "start": 2037.46,
+   "end": 2041.98,
+   "text": "If God is't for us who can be against us",
+   "avg_logprob": -2.642,
+   "no_speech_prob": 0.175,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 271.46,
+   "track_end": 275.98
+  },
+  {
+   "start": 2043.42,
+   "end": 2051.72,
+   "text": "The God of peace will crush Satan under your feet shortly.",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09",
+   "track_start": 277.42,
+   "track_end": 285.72
+  },
+  {
+   "start": 2053.0,
+   "end": 2059.02,
+   "text": "This will crush Satan under your feet shortly.",
+   "avg_logprob": -0.649,
+   "no_speech_prob": 0.142,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 0.0,
+   "track_end": 6.02
+  },
+  {
+   "start": 2071.0,
+   "end": 2077.8,
+   "text": "Oh, oh, yeah.",
+   "avg_logprob": -0.649,
+   "no_speech_prob": 0.142,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 18.0,
+   "track_end": 24.8
+  },
+  {
+   "start": 2080.28,
+   "end": 2089.14,
+   "text": "Repent, turn from your sinful ways.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.724,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 27.28,
+   "track_end": 36.14
+  },
+  {
+   "start": 2091.94,
+   "end": 2095.62,
+   "text": "Repent that day and hour.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.724,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 38.94,
+   "track_end": 42.62
+  },
+  {
+   "start": 2096.42,
+   "end": 2099.4,
+   "text": "No with no man.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.724,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 43.42,
+   "track_end": 46.4
+  },
+  {
+   "start": 2099.4,
+   "end": 2110.26,
+   "text": "and repent, be reconciled to God.",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.657,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 46.4,
+   "track_end": 57.26
+  },
+  {
+   "start": 2111.44,
+   "end": 2114.22,
+   "text": "Oh, oh, oh.",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.657,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 58.44,
+   "track_end": 61.22
+  },
+  {
+   "start": 2117.4,
+   "end": 2123.04,
+   "text": "Therefore we make it our aim, whether present or absent,",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.657,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 64.4,
+   "track_end": 70.04
+  },
+  {
+   "start": 2123.04,
+   "end": 2128.16,
+   "text": "to be well pleasing to him.",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.689,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 70.04,
+   "track_end": 75.16
+  },
+  {
+   "start": 2131.1,
+   "end": 2138.04,
+   "text": "For we must all appear before the judgment seat of Christ,",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.689,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 78.1,
+   "track_end": 85.04
+  },
+  {
+   "start": 2141.5,
+   "end": 2149.04,
+   "text": "that each one may receive the things done in the body,",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.689,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 88.5,
+   "track_end": 96.04
+  },
+  {
+   "start": 2150.92,
+   "end": 2159.54,
+   "text": "According to what he has done, whether good or bad.",
+   "avg_logprob": -0.531,
+   "no_speech_prob": 0.788,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 97.92,
+   "track_end": 106.54
+  },
+  {
+   "start": 2162.42,
+   "end": 2169.06,
+   "text": "Knowing therefore the terror of the Lord, we persuade men,",
+   "avg_logprob": -0.531,
+   "no_speech_prob": 0.788,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 109.42,
+   "track_end": 116.06
+  },
+  {
+   "start": 2169.55,
+   "end": 2175.19,
+   "text": "But we are well known to God.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.712,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 116.55,
+   "track_end": 122.19
+  },
+  {
+   "start": 2176.65,
+   "end": 2185.51,
+   "text": "Repent, turn from your sinful ways.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.712,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 123.65,
+   "track_end": 132.51
+  },
+  {
+   "start": 2187.99,
+   "end": 2191.85,
+   "text": "Repent that day and now.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.712,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 134.99,
+   "track_end": 138.85
+  },
+  {
+   "start": 2193.35,
+   "end": 2206.13,
+   "text": "knoweth no man repents, be reconciled to God.",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 140.35,
+   "track_end": 153.13
+  },
+  {
+   "start": 2206.75,
+   "end": 2218.39,
+   "text": "So we are always confident, knowing that while we are at home in the body, we are",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 153.75,
+   "track_end": 165.39
+  },
+  {
+   "start": 2221.13,
+   "end": 2224.85,
+   "text": "from the Lord.",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 168.13,
+   "track_end": 171.85
+  },
+  {
+   "start": 2226.27,
+   "end": 2231.87,
+   "text": "For we walk by faith, not by sight.",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 173.27,
+   "track_end": 178.87
+  },
+  {
+   "start": 2232.33,
+   "end": 2234.55,
+   "text": "We are confident.",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 179.33,
+   "track_end": 181.55
+  },
+  {
+   "start": 2236.65,
+   "end": 2242.23,
+   "text": "Yes, to be absent from the body",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 183.65,
+   "track_end": 189.23
+  },
+  {
+   "start": 2242.23,
+   "end": 2249.25,
+   "text": "is to be present with the Lord.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 189.23,
+   "track_end": 196.25
+  },
+  {
+   "start": 2251.51,
+   "end": 2252.31,
+   "text": "Repeat.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 198.51,
+   "track_end": 199.31
+  },
+  {
+   "start": 2253.99,
+   "end": 2258.15,
+   "text": "Align yourself with the word of God, not the world or expectations of man.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 200.99,
+   "track_end": 205.15
+  },
+  {
+   "start": 2258.87,
+   "end": 2260.55,
+   "text": "True repentance begins.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 205.87,
+   "track_end": 207.55
+  },
+  {
+   "start": 2261.33,
+   "end": 2266.05,
+   "text": "When I recognize the sinfulness of my heart and acknowledge I am powerless to change.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 208.33,
+   "track_end": 213.05
+  },
+  {
+   "start": 2266.05,
+   "end": 2271.97,
+   "text": "Because of the weakness of my flesh and helplessness I cry out to God for a new heart.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 213.05,
+   "track_end": 218.97
+  },
+  {
+   "start": 2273.01,
+   "end": 2276.33,
+   "text": "He graciously provides what I cannot do for myself.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 220.01,
+   "track_end": 223.33
+  },
+  {
+   "start": 2276.77,
+   "end": 2282.09,
+   "text": "He gives me a new nature that loves righteousness and longs to obey Him.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 223.77,
+   "track_end": 229.09
+  },
+  {
+   "start": 2282.93,
+   "end": 2287.03,
+   "text": "He gives me His Holy Spirit to empower me to walk in His ways.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 229.93,
+   "track_end": 234.03
+  },
+  {
+   "start": 2287.89,
+   "end": 2291.47,
+   "text": "Just as a tree bears fruit according to its nature.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 234.89,
+   "track_end": 238.47
+  },
+  {
+   "start": 2291.47,
+   "end": 2295.09,
+   "text": "So I haven't truly repented begin to bear fruit",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 238.47,
+   "track_end": 242.09
+  },
+  {
+   "start": 2295.09,
+   "end": 2297.19,
+   "text": "and keeping with this new nature.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 242.09,
+   "track_end": 244.19
+  },
+  {
+   "start": 2297.77,
+   "end": 2301.03,
+   "text": "Fruit that pleases God and is evident to others,",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 244.77,
+   "track_end": 248.03
+  },
+  {
+   "start": 2301.55,
+   "end": 2305.41,
+   "text": "thus says the Lord, every tree which does not bear good fruit",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 248.55,
+   "track_end": 252.41
+  },
+  {
+   "start": 2305.41,
+   "end": 2309.63,
+   "text": "is cut down and thrown into the fire.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 252.41,
+   "track_end": 256.63
+  },
+  {
+   "start": 2318.93,
+   "end": 2326.33,
+   "text": "Repent, turn from your sinful ways.",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.614,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 265.93,
+   "track_end": 273.33
+  },
+  {
+   "start": 2328.83,
+   "end": 2336.59,
+   "text": "Repent that day in our knoweth no man.",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 275.83,
+   "track_end": 283.59
+  },
+  {
+   "start": 2339.53,
+   "end": 2347.13,
+   "text": "Repent, be reconciled to God.",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 286.53,
+   "track_end": 294.13
+  },
+  {
+   "start": 2347.85,
+   "end": 2348.71,
+   "text": "Oh.",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#10",
+   "track_start": 294.85,
+   "track_end": 295.71
+  }
+ ]
+}

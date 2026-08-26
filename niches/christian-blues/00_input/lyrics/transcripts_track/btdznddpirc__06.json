@@ -1,0 +1,206 @@
+{
+ "track_id": "btdznddpirc#06",
+ "track_key": "btdznddpirc__06",
+ "video_id": "btdznddpirc",
+ "title": "6. When My Knees Hit the Ground",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 187.0,
+ "voiced_sec": 133.8,
+ "voice_ratio": 0.716,
+ "n_words": 178,
+ "words_per_min": 57.1,
+ "is_instrumental": false,
+ "n_segments": 23,
+ "n_segments_voiced": 23,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.3,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 1.94,
+   "end": 11.08,
+   "text": "Mary cried, said, Lord, if you'd been here, you'd still be alive.",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.51,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 13.14,
+   "end": 21.18,
+   "text": "But he said, I'm the resurrection, the life that breaks the chain.",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.51,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 21.18,
+   "end": 28.36,
+   "text": "Just believe in you, see God's glory reign",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.505,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 28.36,
+   "end": 34.46,
+   "text": "Lazarus come out, death step aside",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.505,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 36.58,
+   "end": 42.24,
+   "text": "The Lord of life is standing outside",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.505,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 44.4,
+   "end": 50.16,
+   "text": "Grave close for all, the night turns to day",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.505,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 50.16,
+   "end": 57.16,
+   "text": "When Jesus calls the dead obeyed",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.437,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 69.38,
+   "end": 73.42,
+   "text": "The crowd stepped back",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.437,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 75.16,
+   "end": 77.22,
+   "text": "The silence broke",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.437,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 80.16,
+   "end": 85.22,
+   "text": "With a thunder rolling in everywhere he spoke",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.039,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 88.16,
+   "end": 93.2,
+   "text": "One voice cut through the fear and doubt",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.039,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 96.06,
+   "end": 101.42,
+   "text": "Lazarus come out and the dead walked out",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.039,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 103.16,
+   "end": 108.84,
+   "text": "Tears of joy and shouts of praise",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.039,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 110.64,
+   "end": 117.0,
+   "text": "Hearts on fire in that holy place",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.222,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 118.26,
+   "end": 124.42,
+   "text": "Slow down, no tomb too deep, no stone too wide",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.222,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 124.42,
+   "end": 128.56,
+   "text": "No shadow can hide from the sun's bright side",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.222,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 129.92,
+   "end": 131.74,
+   "text": "Bring it up",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.222,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 135.22,
+   "end": 144.22,
+   "text": "When He calls your name, chains hit the ground, life rushes in and hope is found.",
+   "avg_logprob": -0.511,
+   "no_speech_prob": 0.387,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 148.24,
+   "end": 156.62,
+   "text": "Let the rush come out, dead step aside",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.377,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 156.62,
+   "end": 163.28,
+   "text": "The Lord of life is standing outside",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.377,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 165.8,
+   "end": 171.36,
+   "text": "Grave close for the night turns to day",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.377,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 172.7,
+   "end": 178.7,
+   "text": "When Jesus calls the dead, oh baby",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.497,
+   "track_id": "btdznddpirc#06"
+  },
+  {
+   "start": 181.18,
+   "end": 184.8,
+   "text": "Yeah, when Jesus calls you",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.497,
+   "track_id": "btdznddpirc#06"
+  }
+ ]
+}

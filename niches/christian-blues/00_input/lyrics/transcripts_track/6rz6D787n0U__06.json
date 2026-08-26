@@ -1,0 +1,174 @@
+{
+ "track_id": "6rz6D787n0U#06",
+ "track_key": "6rz6D787n0U__06",
+ "video_id": "6rz6D787n0U",
+ "title": "6. Psalm 46 – River in the Ruins",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 233.0,
+ "voiced_sec": 144.4,
+ "voice_ratio": 0.62,
+ "n_words": 156,
+ "words_per_min": 40.2,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.6,
+ "rtf": 0.063,
+ "segments": [
+  {
+   "start": 34.9,
+   "end": 41.62,
+   "text": "God is our refuge, our strength in the fight",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.418,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 43.0,
+   "end": 49.16,
+   "text": "A help ever present through the long dark night",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.418,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 51.0,
+   "end": 57.46,
+   "text": "Though the earth gives way and the mountains fall",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.418,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 57.46,
+   "end": 63.32,
+   "text": "We won't be shaking, not at all",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.529,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 63.32,
+   "end": 71.14,
+   "text": "There's a river in the ruins, flowing still",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.529,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 71.14,
+   "end": 78.44,
+   "text": "A holy stream from Zion's hill",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.529,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 78.44,
+   "end": 85.26,
+   "text": "The Lord is with us, never gone",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.436,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 87.0,
+   "end": 93.2,
+   "text": "He's our fortress, He makes us strong",
+   "avg_logprob": -0.394,
+   "no_speech_prob": 0.436,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 102.2,
+   "end": 108.04,
+   "text": "Nation's rage, kingdom's real",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.426,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 109.82,
+   "end": 115.54,
+   "text": "But one word from Him and all things heal",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.426,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 117.02,
+   "end": 129.58,
+   "text": "The God of Jacob walks with me through fire, through stone, through history.",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.601,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 131.58,
+   "end": 144.96,
+   "text": "Be still and know He reigns above Exalted high, fierce in love.",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.601,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 146.6,
+   "end": 156.1,
+   "text": "He breaks the bull, shatters the spear, says peace be still.",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.585,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 157.44,
+   "end": 159.6,
+   "text": "I know he's near.",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.585,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 164.08,
+   "end": 171.14,
+   "text": "There's a river in the ruins, flowing still.",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.585,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 171.14,
+   "end": 178.48,
+   "text": "A holy stream from Zion's hill",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.568,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 178.48,
+   "end": 185.42,
+   "text": "The Lord is with us, never gone",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.568,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 187.04,
+   "end": 193.24,
+   "text": "He's our fortress, He makes us strong",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.568,
+   "track_id": "6rz6D787n0U#06"
+  },
+  {
+   "start": 193.24,
+   "end": 207.64,
+   "text": "So when my world shakes to the core I'll trust the rock forevermore",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.596,
+   "track_id": "6rz6D787n0U#06"
+  }
+ ]
+}

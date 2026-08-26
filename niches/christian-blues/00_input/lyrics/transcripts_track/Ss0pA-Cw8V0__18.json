@@ -1,0 +1,550 @@
+{
+ "track_id": "Ss0pA-Cw8V0#18",
+ "track_key": "Ss0pA-Cw8V0__18",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Jesus is King",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 211.0,
+ "voiced_sec": 166.6,
+ "voice_ratio": 0.79,
+ "n_words": 401,
+ "words_per_min": 114.0,
+ "is_instrumental": false,
+ "n_segments": 66,
+ "n_segments_voiced": 66,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.1,
+ "rtf": 0.053,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.26,
+   "text": "Every blessing, every victory, you'll surround",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.44,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 8.74,
+   "end": 11.6,
+   "text": "Therefore God exalted him to the highest place",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.44,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 13.36,
+   "end": 16.0,
+   "text": "And gave him the name that is above every name",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.44,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 17.42,
+   "end": 19.9,
+   "text": "That at the name of Jesus every knee should bow",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.44,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 21.16,
+   "end": 22.7,
+   "text": "In heaven and on earth",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.44,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 23.64,
+   "end": 24.9,
+   "text": "And under the earth",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.44,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 26.04,
+   "end": 29.12,
+   "text": "Yeah, woke up with peace I ain't earned that's grace on me",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.44,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 29.12,
+   "end": 31.66,
+   "text": "Used to walk in storms, now the sun shine faithfully",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 31.66,
+   "end": 33.98,
+   "text": "Battered with my past, but he broke those chains",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 33.98,
+   "end": 36.62,
+   "text": "Turned my pain into purpose, washed my stains",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 36.62,
+   "end": 39.12,
+   "text": "Devil tried to tell me I was done, I'm finished",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 39.12,
+   "end": 41.76,
+   "text": "But Christ said, child, you mind now I'm replenished",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 41.76,
+   "end": 43.9,
+   "text": "Every scar that I got became my testimony",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 43.9,
+   "end": 46.16,
+   "text": "Now I'm covered in the blood, Holy Spirit",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 46.16,
+   "end": 50.36,
+   "text": "And say my soul, you set me free",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 51.98,
+   "end": 54.4,
+   "text": "Now I stand in victory",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.068,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 56.22,
+   "end": 57.22,
+   "text": "Jesus is King",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 57.22,
+   "end": 60.44,
+   "text": "All glory to the risen King",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 60.44,
+   "end": 62.68,
+   "text": "Forever I proclaim",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 62.68,
+   "end": 65.08,
+   "text": "Jesus is King",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 65.08,
+   "end": 67.94,
+   "text": "Jesus is King",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 67.94,
+   "end": 68.84,
+   "text": "Jesus is King",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 68.84,
+   "end": 70.44,
+   "text": "Yeah, He reigns forever",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 70.44,
+   "end": 73.1,
+   "text": "Jesus is King",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 73.1,
+   "end": 75.68,
+   "text": "No stone can sever",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 75.68,
+   "end": 78.0,
+   "text": "Oh, when I pour",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 78.0,
+   "end": 78.9,
+   "text": "You lift me",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 78.9,
+   "end": 80.96,
+   "text": "Pour me through the fire",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 80.96,
+   "end": 83.84,
+   "text": "Your love runs deep",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 83.84,
+   "end": 84.38,
+   "text": "Your love runs deep",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.781,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 84.38,
+   "end": 86.7,
+   "text": "Takes me higher and higher",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 86.7,
+   "end": 87.98,
+   "text": "Jesus is King",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 87.98,
+   "end": 91.0,
+   "text": "King of all my names",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 91.0,
+   "end": 91.54,
+   "text": "Yeah",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 91.54,
+   "end": 93.12,
+   "text": "Jesus is King",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 93.66,
+   "end": 95.76,
+   "text": "Forever you reign",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 97.86,
+   "end": 99.2,
+   "text": "Every chain is broken",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 99.2,
+   "end": 101.38,
+   "text": "Every heart redeemed",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 101.38,
+   "end": 103.88,
+   "text": "Hallelujah to the Lamb",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 104.5,
+   "end": 105.92,
+   "text": "Jesus is King",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 107.44,
+   "end": 109.32,
+   "text": "I'm steppin' with faith, not fear",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 109.32,
+   "end": 110.68,
+   "text": "Can't play small",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 110.68,
+   "end": 113.2,
+   "text": "Walkin' on waves when I hear that call",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 113.2,
+   "end": 115.7,
+   "text": "Used to chase fame, now I chase his will",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 115.7,
+   "end": 117.62,
+   "text": "Got the peace this world can't steal",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 117.62,
+   "end": 118.9,
+   "text": "From the valley to the throne",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 118.9,
+   "end": 121.44,
+   "text": "His love never fades, he the alpha and omega",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 121.44,
+   "end": 124.02,
+   "text": "My path he paved, every loss was a lesson",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 124.02,
+   "end": 127.74,
+   "text": "Every test of gain, now I'm drenched in the rain of his holy name",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 127.74,
+   "end": 130.9,
+   "text": "They crowned him with thorns, but he rose in glory",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 130.9,
+   "end": 133.68,
+   "text": "They mocked his name, but now every tongue sings his story",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 133.68,
+   "end": 135.96,
+   "text": "Where darkness tried to dwell, his light broke through",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 135.96,
+   "end": 138.7,
+   "text": "My heart is his temple, my life made new",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.361,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 147.46,
+   "end": 152.42,
+   "text": "Jesus is king, king for all the love",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.665,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 153.2,
+   "end": 157.62,
+   "text": "Jesus is king, open heaven's door",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.665,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 159.2,
+   "end": 162.64,
+   "text": "From the cross to the grave, from the grave he rose",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.665,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 163.2,
+   "end": 168.36,
+   "text": "Now his mercy's the only, oh my Lord",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.665,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 168.36,
+   "end": 169.7,
+   "text": "Jesus is King",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 169.7,
+   "end": 172.38,
+   "text": "Yeah, my heart will sing",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 173.36,
+   "end": 175.12,
+   "text": "Jesus is King",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 175.12,
+   "end": 177.9,
+   "text": "By everything",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 180.36,
+   "end": 183.38,
+   "text": "All the glory, all the praise I bring",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 183.38,
+   "end": 185.56,
+   "text": "Forever and ever",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 186.36,
+   "end": 187.68,
+   "text": "Jesus is King",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 188.36,
+   "end": 189.96,
+   "text": "Every knee will bow",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.343,
+   "track_id": "Ss0pA-Cw8V0#18"
+  },
+  {
+   "start": 195.7,
+   "end": 208.16,
+   "text": "Every tongue will sing Glory to the Lord, Jesus is King",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.328,
+   "track_id": "Ss0pA-Cw8V0#18"
+  }
+ ]
+}

@@ -1,0 +1,478 @@
+{
+ "track_id": "eD2IMkcreEI#13",
+ "track_key": "eD2IMkcreEI__13",
+ "video_id": "eD2IMkcreEI",
+ "title": "When Mercy Found Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 449.0,
+ "voiced_sec": 265.6,
+ "voice_ratio": 0.592,
+ "n_words": 335,
+ "words_per_min": 44.8,
+ "is_instrumental": false,
+ "n_segments": 57,
+ "n_segments_voiced": 57,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 29.1,
+ "rtf": 0.065,
+ "segments": [
+  {
+   "start": 8.5,
+   "end": 16.0,
+   "text": "I wasn't looking for grace, but grace came looking for me.",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.297,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 16.0,
+   "end": 19.38,
+   "text": "Mm, yeah",
+   "avg_logprob": -0.479,
+   "no_speech_prob": 0.392,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 23.0,
+   "end": 27.3,
+   "text": "Mm, yeah, Lord",
+   "avg_logprob": -0.479,
+   "no_speech_prob": 0.392,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 33.0,
+   "end": 35.72,
+   "text": "I was walking through the fire",
+   "avg_logprob": -0.479,
+   "no_speech_prob": 0.392,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 38.0,
+   "end": 40.96,
+   "text": "With nothing left inside",
+   "avg_logprob": -0.479,
+   "no_speech_prob": 0.392,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 46.0,
+   "end": 49.76,
+   "text": "tried to fix it all alone",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.373,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 51.0,
+   "end": 56.0,
+   "text": "but I was running out of time",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.373,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 60.54,
+   "end": 63.66,
+   "text": "Sinning wrapped around me",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.373,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 65.0,
+   "end": 68.18,
+   "text": "like chains I couldn't break",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.373,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 72.1,
+   "end": 81.5,
+   "text": "But you stepped in full of mercy And washed my guilt away",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.534,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 84.26,
+   "end": 93.02,
+   "text": "You washed it all away When mercy found me",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.534,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 93.02,
+   "end": 96.84,
+   "text": "Down on the floor",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.413,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 96.84,
+   "end": 100.4,
+   "text": "Couldn't take no more hours",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.413,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 101.02,
+   "end": 103.52,
+   "text": "Crying out, Lord",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.413,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 103.52,
+   "end": 106.44,
+   "text": "You reached out low",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.413,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 107.02,
+   "end": 110.56,
+   "text": "With your nail-scarred hand",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.413,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 110.56,
+   "end": 113.32,
+   "text": "Pulled me out the grave",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.413,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 113.32,
+   "end": 116.54,
+   "text": "And made me stand",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.413,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 116.54,
+   "end": 122.34,
+   "text": "I stand, I'm here today",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.559,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 123.96,
+   "end": 126.8,
+   "text": "Cause mercy found me",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.559,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 126.8,
+   "end": 129.68,
+   "text": "Oh, yes it did",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.559,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 129.68,
+   "end": 131.22,
+   "text": "Thank You Lord",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.559,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 131.22,
+   "end": 136.22,
+   "text": "Ooh, ooh, ooh",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.559,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 136.22,
+   "end": 139.86,
+   "text": "I had holes in my soul",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.559,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 142.42,
+   "end": 146.28,
+   "text": "From the choices that I made",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.587,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 149.24,
+   "end": 152.92,
+   "text": "Thought I burned too many bridges",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.587,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 155.36,
+   "end": 159.8,
+   "text": "Thought it was too late to pray",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.587,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 162.92,
+   "end": 166.92,
+   "text": "But you never stopped knocking",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.587,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 169.8,
+   "end": 180.08,
+   "text": "Even when I walked away, you, you lit a fire in my spirit.",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.658,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 181.26,
+   "end": 187.92,
+   "text": "Now I praise you, every day I'll bless your name.",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.658,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 188.3,
+   "end": 198.78,
+   "text": "When mercy found me, I was speaking fast.",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.561,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 199.58,
+   "end": 205.74,
+   "text": "My future was fading, living in the past.",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.561,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 206.24,
+   "end": 210.06,
+   "text": "But grace rewrote my story with the other.",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.561,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 210.06,
+   "end": 212.38,
+   "text": "Love stayed pinned",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 213.26,
+   "end": 218.5,
+   "text": "Gave me peace and made me hold again",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 220.22,
+   "end": 224.7,
+   "text": "I'm alive cause mercy found me",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 226.38,
+   "end": 227.66,
+   "text": "I'm alive",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 228.38,
+   "end": 229.48,
+   "text": "I'm alive",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 229.48,
+   "end": 231.04,
+   "text": "Thank you Jesus",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 232.38,
+   "end": 232.86,
+   "text": "Oh",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 234.38,
+   "end": 238.04,
+   "text": "I should have been gone",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.369,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 238.04,
+   "end": 241.02,
+   "text": "But you said not yet",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.394,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 242.04,
+   "end": 244.76,
+   "text": "You looked at my mess",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.394,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 244.76,
+   "end": 249.08,
+   "text": "And gave me rest",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.394,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 250.04,
+   "end": 253.1,
+   "text": "You gave me rest",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.394,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 253.1,
+   "end": 255.22,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.394,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 257.04,
+   "end": 260.08,
+   "text": "Now I stand here forgiving",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.394,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 262.96,
+   "end": 273.88,
+   "text": "With fire in my bones I was lost in the desert",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.47,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 275.76,
+   "end": 286.16,
+   "text": "But you brought me home So whatever we tear, I cry",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.47,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 286.16,
+   "end": 297.12,
+   "text": "And every song I sing will be for the one who gave me everything",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.664,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 297.12,
+   "end": 301.94,
+   "text": "You gave me everything",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.664,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 303.44,
+   "end": 310.56,
+   "text": "And mercy found me, the chains all broke",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.664,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 310.56,
+   "end": 316.94,
+   "text": "I felt heaven in my chest I could finally hold",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.361,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 317.56,
+   "end": 330.8,
+   "text": "Now I lift my voice with the angels to cause the same grace that saved me can save you",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.361,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 330.8,
+   "end": 333.02,
+   "text": "Hallelujah",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.361,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 335.74,
+   "end": 340.58,
+   "text": "Oh, mercy found me",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#13"
+  },
+  {
+   "start": 342.02,
+   "end": 346.9,
+   "text": "Oh, yes it did",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#13"
+  }
+ ]
+}

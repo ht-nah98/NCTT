@@ -1,0 +1,618 @@
+{
+ "video_id": "xoKFimV_5gI",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 261.2,
+ "voiced_sec": 211.5,
+ "voice_ratio": 0.81,
+ "is_instrumental": false,
+ "n_segments": 60,
+ "n_segments_voiced": 60,
+ "n_tracks": 1,
+ "n_seg_mapped": 60,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 22.1,
+   "end": 28.64,
+   "text": "I was born with the price and oh, a high price was paid",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.622,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 22.1,
+   "track_end": 28.64
+  },
+  {
+   "start": 28.64,
+   "end": 34.88,
+   "text": "My savior beating marked his pure face to stain",
+   "avg_logprob": -0.526,
+   "no_speech_prob": 0.764,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 28.64,
+   "track_end": 34.88
+  },
+  {
+   "start": 34.88,
+   "end": 40.38,
+   "text": "Every whiplash echo tearing flesh and bone",
+   "avg_logprob": -0.526,
+   "no_speech_prob": 0.764,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 34.88,
+   "track_end": 40.38
+  },
+  {
+   "start": 40.38,
+   "end": 46.38,
+   "text": "A crown of thorns accrued just claiming a blood soak throne",
+   "avg_logprob": -0.526,
+   "no_speech_prob": 0.764,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 40.38,
+   "track_end": 46.38
+  },
+  {
+   "start": 46.38,
+   "end": 52.16,
+   "text": "They dragged him up that hill, nails pierced through his hands",
+   "avg_logprob": -0.526,
+   "no_speech_prob": 0.764,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 46.38,
+   "track_end": 52.16
+  },
+  {
+   "start": 52.76,
+   "end": 58.3,
+   "text": "Hung upon that rugged cross fulfilling ancient plans",
+   "avg_logprob": -0.526,
+   "no_speech_prob": 0.764,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 52.76,
+   "track_end": 58.3
+  },
+  {
+   "start": 58.3,
+   "end": 61.18,
+   "text": "The sky grew dark creation rose",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 58.3,
+   "track_end": 61.18
+  },
+  {
+   "start": 61.18,
+   "end": 64.42,
+   "text": "As his last breath took flight",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 61.18,
+   "track_end": 64.42
+  },
+  {
+   "start": 64.42,
+   "end": 66.82,
+   "text": "Then he descended to the depths",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 64.42,
+   "track_end": 66.82
+  },
+  {
+   "start": 66.82,
+   "end": 70.3,
+   "text": "Axel 27 conquering endless night",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 66.82,
+   "track_end": 70.3
+  },
+  {
+   "start": 70.3,
+   "end": 72.82,
+   "text": "Yes, he did, oh lord",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 70.3,
+   "track_end": 72.82
+  },
+  {
+   "start": 72.82,
+   "end": 76.08,
+   "text": "For my salvation so he",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 72.82,
+   "track_end": 76.08
+  },
+  {
+   "start": 76.08,
+   "end": 78.62,
+   "text": "Took my condemnation",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 76.08,
+   "track_end": 78.62
+  },
+  {
+   "start": 78.62,
+   "end": 80.58,
+   "text": "Let his precious blood flow",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 78.62,
+   "track_end": 80.58
+  },
+  {
+   "start": 81.3,
+   "end": 85.18,
+   "text": "But the grave couldn't hold him",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.794,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 81.3,
+   "track_end": 85.18
+  },
+  {
+   "start": 85.18,
+   "end": 87.94,
+   "text": "No death couldn't win",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 85.18,
+   "track_end": 87.94
+  },
+  {
+   "start": 87.94,
+   "end": 91.02,
+   "text": "He walked out victorious",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 87.94,
+   "track_end": 91.02
+  },
+  {
+   "start": 91.02,
+   "end": 94.36,
+   "text": "Breaking every chain of sin",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 91.02,
+   "track_end": 94.36
+  },
+  {
+   "start": 95.18,
+   "end": 97.76,
+   "text": "Oh what a king, what a king",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 95.18,
+   "track_end": 97.76
+  },
+  {
+   "start": 97.76,
+   "end": 99.8,
+   "text": "I'm blood for the sake",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 97.76,
+   "track_end": 99.8
+  },
+  {
+   "start": 99.8,
+   "end": 102.58,
+   "text": "By grace through faith",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 99.8,
+   "track_end": 102.58
+  },
+  {
+   "start": 103.62,
+   "end": 105.84,
+   "text": "Yah'shua lead the way",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 103.62,
+   "track_end": 105.84
+  },
+  {
+   "start": 105.84,
+   "end": 108.52,
+   "text": "I'll follow all my days",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 105.84,
+   "track_end": 108.52
+  },
+  {
+   "start": 109.18,
+   "end": 111.6,
+   "text": "That boundless love you gave",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.796,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 109.18,
+   "track_end": 111.6
+  },
+  {
+   "start": 111.6,
+   "end": 114.38,
+   "text": "The ultimate sacrifice",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 111.6,
+   "track_end": 114.38
+  },
+  {
+   "start": 115.04,
+   "end": 118.34,
+   "text": "My grateful heart proclaims",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 115.04,
+   "track_end": 118.34
+  },
+  {
+   "start": 118.34,
+   "end": 120.86,
+   "text": "A love beyond all pride",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 118.34,
+   "track_end": 120.86
+  },
+  {
+   "start": 121.76,
+   "end": 124.72,
+   "text": "Prestige, Prestige",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 121.76,
+   "track_end": 124.72
+  },
+  {
+   "start": 124.72,
+   "end": 127.98,
+   "text": "Prestige, all right, can I change this?",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 124.72,
+   "track_end": 127.98
+  },
+  {
+   "start": 128.92,
+   "end": 130.7,
+   "text": "Change, change, change",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 128.92,
+   "track_end": 130.7
+  },
+  {
+   "start": 131.52,
+   "end": 135.14,
+   "text": "Now I stand here redeemed",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 131.52,
+   "track_end": 135.14
+  },
+  {
+   "start": 135.14,
+   "end": 137.98,
+   "text": "Washed in crimson rain",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 135.14,
+   "track_end": 137.98
+  },
+  {
+   "start": 137.98,
+   "end": 138.96,
+   "text": "I don't know what to fly",
+   "avg_logprob": -0.626,
+   "no_speech_prob": 0.72,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 137.98,
+   "track_end": 138.96
+  },
+  {
+   "start": 138.96,
+   "end": 144.0,
+   "text": "Every sin it erases no more, guilt no more, stain",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.447,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 138.96,
+   "track_end": 144.0
+  },
+  {
+   "start": 144.0,
+   "end": 150.16,
+   "text": "That precious blood it bought me when I had nothing left to give",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.447,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 144.0,
+   "track_end": 150.16
+  },
+  {
+   "start": 150.16,
+   "end": 155.86,
+   "text": "1p to 1, 18, 19 tells me that's why I truly live",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.447,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 150.16,
+   "track_end": 155.86
+  },
+  {
+   "start": 155.86,
+   "end": 161.58,
+   "text": "From the ashes of my past, you crafted something new",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.447,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 155.86,
+   "track_end": 161.58
+  },
+  {
+   "start": 161.58,
+   "end": 168.0,
+   "text": "Second Corinthians, but 17 whispers go, old is gone, the new is you",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.447,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 161.58,
+   "track_end": 168.0
+  },
+  {
+   "start": 168.0,
+   "end": 170.56,
+   "text": "Every chain that bound me",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 168.0,
+   "track_end": 170.56
+  },
+  {
+   "start": 171.08,
+   "end": 173.72,
+   "text": "Shattered into dust",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 171.08,
+   "track_end": 173.72
+  },
+  {
+   "start": 173.72,
+   "end": 175.88,
+   "text": "Now I walk in liberation",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 173.72,
+   "track_end": 175.88
+  },
+  {
+   "start": 175.88,
+   "end": 179.42,
+   "text": "Cause in your finished work I've tried",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 175.88,
+   "track_end": 179.42
+  },
+  {
+   "start": 179.42,
+   "end": 182.0,
+   "text": "Yes, you've paid it all on",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 179.42,
+   "track_end": 182.0
+  },
+  {
+   "start": 182.0,
+   "end": 185.0,
+   "text": "For this soul you made complete",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 182.0,
+   "track_end": 185.0
+  },
+  {
+   "start": 185.98,
+   "end": 188.26,
+   "text": "Now my life's a thank you laid",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 185.98,
+   "track_end": 188.26
+  },
+  {
+   "start": 188.26,
+   "end": 189.92,
+   "text": "Right at your feet",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 188.26,
+   "track_end": 189.92
+  },
+  {
+   "start": 189.92,
+   "end": 193.78,
+   "text": "No words could truly capture",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 189.92,
+   "track_end": 193.78
+  },
+  {
+   "start": 194.68,
+   "end": 197.56,
+   "text": "The death of grace I've found",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.75,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 194.68,
+   "track_end": 197.56
+  },
+  {
+   "start": 197.56,
+   "end": 203.64,
+   "text": "Just a surrendered spirit on your holy solid ground",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.759,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 197.56,
+   "track_end": 203.64
+  },
+  {
+   "start": 204.56,
+   "end": 206.94,
+   "text": "Oh thank you Jesus, thank you Lord",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.759,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 204.56,
+   "track_end": 206.94
+  },
+  {
+   "start": 206.94,
+   "end": 211.78,
+   "text": "And blood born saved by grace through faith",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.759,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 206.94,
+   "track_end": 211.78
+  },
+  {
+   "start": 212.56,
+   "end": 215.08,
+   "text": "Yes you are lead the way",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.759,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 212.56,
+   "track_end": 215.08
+  },
+  {
+   "start": 215.08,
+   "end": 217.72,
+   "text": "I'll follow all my days",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.759,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 215.08,
+   "track_end": 217.72
+  },
+  {
+   "start": 218.56,
+   "end": 220.82,
+   "text": "That boundless love you gave",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.759,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 218.56,
+   "track_end": 220.82
+  },
+  {
+   "start": 220.82,
+   "end": 223.56,
+   "text": "The ultimate sacrifice",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.759,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 220.82,
+   "track_end": 223.56
+  },
+  {
+   "start": 223.56,
+   "end": 226.96,
+   "text": "My grateful heart proclaims",
+   "avg_logprob": -0.862,
+   "no_speech_prob": 0.84,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 223.56,
+   "track_end": 226.96
+  },
+  {
+   "start": 227.5,
+   "end": 230.18,
+   "text": "A love beyond all pride",
+   "avg_logprob": -0.862,
+   "no_speech_prob": 0.84,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 227.5,
+   "track_end": 230.18
+  },
+  {
+   "start": 231.94,
+   "end": 236.14,
+   "text": "His hate became",
+   "avg_logprob": -0.862,
+   "no_speech_prob": 0.84,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 231.94,
+   "track_end": 236.14
+  },
+  {
+   "start": 242.74,
+   "end": 247.36,
+   "text": "Bloodbath saved by grace through faith",
+   "avg_logprob": -0.862,
+   "no_speech_prob": 0.84,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 242.74,
+   "track_end": 247.36
+  },
+  {
+   "start": 247.36,
+   "end": 254.62,
+   "text": "Not by words, there is nothing I could do or say",
+   "avg_logprob": -0.593,
+   "no_speech_prob": 0.731,
+   "track_id": "xoKFimV_5gI#01",
+   "track_start": 247.36,
+   "track_end": 254.62
+  }
+ ]
+}

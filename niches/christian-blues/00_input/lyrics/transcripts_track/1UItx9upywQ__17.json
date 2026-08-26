@@ -1,0 +1,134 @@
+{
+ "track_id": "1UItx9upywQ#17",
+ "track_key": "1UItx9upywQ__17",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Hear My Cry\" - Psalm 61",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 147.0,
+ "voiced_sec": 113.1,
+ "voice_ratio": 0.769,
+ "n_words": 112,
+ "words_per_min": 45.7,
+ "is_instrumental": false,
+ "n_segments": 14,
+ "n_segments_voiced": 14,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.2,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 15.24,
+   "end": 25.12,
+   "text": "I'm lost in shadows deep in white But I know I know you're near",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.599,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 25.12,
+   "end": 39.26,
+   "text": "I feel your whisper in my fear Oh take me higher, take me higher",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.604,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 39.26,
+   "end": 46.2,
+   "text": "To the rock that stands through fire Under your wings",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.604,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 46.2,
+   "end": 62.72,
+   "text": "I'll find my rest Oh Lord, oh Lord, I know I'm blessed",
+   "avg_logprob": -0.517,
+   "no_speech_prob": 0.572,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 68.02,
+   "end": 76.12,
+   "text": "The storm it rages, the thunder moans",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.506,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 77.72,
+   "end": 84.12,
+   "text": "I'm shaking, breaking down to bones",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.506,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 84.12,
+   "end": 93.06,
+   "text": "But you're my shelter, my cornerstone",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.694,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 94.68,
+   "end": 101.4,
+   "text": "I can feel, I can feel you still",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.694,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 103.36,
+   "end": 110.14,
+   "text": "Holding me against the chill",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.694,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 110.14,
+   "end": 116.52,
+   "text": "Oh, take me higher, take me higher",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.563,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 116.52,
+   "end": 120.56,
+   "text": "To the rock that stands through fire",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.563,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 120.56,
+   "end": 126.56,
+   "text": "Under your wings, I'll find my way",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.563,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 127.64,
+   "end": 133.88,
+   "text": "Oh Lord, oh Lord",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.563,
+   "track_id": "1UItx9upywQ#17"
+  },
+  {
+   "start": 133.88,
+   "end": 139.88,
+   "text": "that I know I'm bled",
+   "avg_logprob": -0.74,
+   "no_speech_prob": 0.32,
+   "track_id": "1UItx9upywQ#17"
+  }
+ ]
+}

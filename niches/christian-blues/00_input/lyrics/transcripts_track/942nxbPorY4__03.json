@@ -1,0 +1,390 @@
+{
+ "track_id": "942nxbPorY4#03",
+ "track_key": "942nxbPorY4__03",
+ "video_id": "942nxbPorY4",
+ "title": "The Storm",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 238.0,
+ "voiced_sec": 187.8,
+ "voice_ratio": 0.789,
+ "n_words": 263,
+ "words_per_min": 66.3,
+ "is_instrumental": false,
+ "n_segments": 46,
+ "n_segments_voiced": 46,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.5,
+ "rtf": 0.065,
+ "segments": [
+  {
+   "start": 9.64,
+   "end": 17.88,
+   "text": "Even in the storm you were with me, you never left, no",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.8,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 22.66,
+   "end": 25.66,
+   "text": "Rain falling down",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.8,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 27.86,
+   "end": 30.88,
+   "text": "Can't see the light",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.827,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 32.44,
+   "end": 35.36,
+   "text": "Waves crashing hard",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.827,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 35.36,
+   "end": 40.56,
+   "text": "In the middle of the night",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.827,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 40.56,
+   "end": 45.04,
+   "text": "I tried to hold on",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.827,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 45.66,
+   "end": 49.82,
+   "text": "But my strength ran thin",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.827,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 51.34,
+   "end": 56.82,
+   "text": "Then I heard you whisper, let me in",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 57.36,
+   "end": 61.3,
+   "text": "Oh, you caught my soul again",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 61.82,
+   "end": 66.22,
+   "text": "Even when I couldn't see the show",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 67.36,
+   "end": 71.26,
+   "text": "You were the anchor through it all",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 71.26,
+   "end": 75.78,
+   "text": "When the wind howled out and the skies turned gray",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 75.78,
+   "end": 79.6,
+   "text": "You are the peace that's there",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.831,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 79.6,
+   "end": 83.14,
+   "text": "You're the stillness in the storm",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.831,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 83.78,
+   "end": 87.94,
+   "text": "The light when nights are long",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.831,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 88.78,
+   "end": 92.86,
+   "text": "When everything's crashing down",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.831,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 93.78,
+   "end": 97.66,
+   "text": "You hold me safe and strong",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.831,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 97.66,
+   "end": 102.54,
+   "text": "Through the fire, through the rain",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.831,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 102.54,
+   "end": 107.42,
+   "text": "Through the heartbreak, through the pain",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.641,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 107.42,
+   "end": 111.86,
+   "text": "I will praise You, Lord",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.641,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 111.86,
+   "end": 115.8,
+   "text": "Even in the storm",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.641,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 119.82,
+   "end": 124.18,
+   "text": "I've cried prayers I couldn't speak",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.641,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 124.18,
+   "end": 129.04,
+   "text": "But You knew the tears on my cheeks",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.641,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 129.04,
+   "end": 134.34,
+   "text": "Oh you never let me go",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 135.04,
+   "end": 139.22,
+   "text": "Even when I lost control",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 142.54,
+   "end": 145.64,
+   "text": "You held me close",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 145.64,
+   "end": 147.92,
+   "text": "You loved me more",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 147.92,
+   "end": 150.42,
+   "text": "You are my shelter",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 151.04,
+   "end": 153.08,
+   "text": "You are my guide",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 153.08,
+   "end": 155.38,
+   "text": "In every battle",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 156.04,
+   "end": 157.54,
+   "text": "Right by my side",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.763,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 157.54,
+   "end": 162.36,
+   "text": "You are the answer when I'm afraid",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.783,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 162.36,
+   "end": 167.36,
+   "text": "I'll trust you more with every word",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.783,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 170.48,
+   "end": 174.8,
+   "text": "Yes Lord, yes Lord",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.783,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 174.8,
+   "end": 179.06,
+   "text": "All you girls in the song",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.783,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 179.06,
+   "end": 180.72,
+   "text": "Shout it through my tears",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.783,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 180.72,
+   "end": 183.7,
+   "text": "Cause life when nights are long",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.783,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 183.7,
+   "end": 185.44,
+   "text": "Shout it through my tears",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.783,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 185.44,
+   "end": 188.98,
+   "text": "Oh when everything's crashing down",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.694,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 188.98,
+   "end": 193.66,
+   "text": "You hold me safe and strong",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.694,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 194.44,
+   "end": 198.32,
+   "text": "Through the fire, through the rain",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.694,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 198.32,
+   "end": 202.32,
+   "text": "Through the heartbreak, through the heartbreak",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.694,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 202.32,
+   "end": 207.68,
+   "text": "Through the pain, through the pain",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.694,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 207.68,
+   "end": 211.12,
+   "text": "Oh Lord, even in the storm",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.694,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 212.54,
+   "end": 220.98,
+   "text": "You are my peace You are my calm",
+   "avg_logprob": -0.669,
+   "no_speech_prob": 0.759,
+   "track_id": "942nxbPorY4#03"
+  },
+  {
+   "start": 223.68,
+   "end": 230.02,
+   "text": "Forever my Savior Even in the storm",
+   "avg_logprob": -0.669,
+   "no_speech_prob": 0.759,
+   "track_id": "942nxbPorY4#03"
+  }
+ ]
+}

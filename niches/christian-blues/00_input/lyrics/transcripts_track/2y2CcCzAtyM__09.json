@@ -1,0 +1,358 @@
+{
+ "track_id": "2y2CcCzAtyM#09",
+ "track_key": "2y2CcCzAtyM__09",
+ "video_id": "2y2CcCzAtyM",
+ "title": "9 — In the Secret Place",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 266.0,
+ "voiced_sec": 186.3,
+ "voice_ratio": 0.701,
+ "n_words": 233,
+ "words_per_min": 52.6,
+ "is_instrumental": false,
+ "n_segments": 42,
+ "n_segments_voiced": 42,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.2,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.9,
+   "text": "She'll abide under the shadow of the Almighty",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.09,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 5.52,
+   "end": 9.74,
+   "text": "Psalm 91 and 1",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.09,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 25.14,
+   "end": 31.18,
+   "text": "There is a place the world cannot discover",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.312,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 32.82,
+   "end": 45.86,
+   "text": "A holy ground where only faith can tread Beneath the shadow of the great Almighty",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.474,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 47.36,
+   "end": 57.18,
+   "text": "A place where every anxious thought is dead In the secret place",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.474,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 57.18,
+   "end": 76.92,
+   "text": "I meet with You in the secret place Thou art with me away from every striving, every fear, every sin",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.734,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 76.92,
+   "end": 83.92,
+   "text": "In the secret place Lord, I begin again",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.542,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 93.92,
+   "end": 99.94,
+   "text": "I close my eyes and step beyond the threshold",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.542,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 101.42,
+   "end": 107.42,
+   "text": "into the quiet of thy holy face",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.738,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 107.94,
+   "end": 115.18,
+   "text": "no words are needed in this sacred moment",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.738,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 115.94,
+   "end": 122.56,
+   "text": "just me and thee alone within this place",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.738,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 122.56,
+   "end": 127.28,
+   "text": "in the secret place",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.738,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 127.28,
+   "end": 134.36,
+   "text": "I meet with Thee in the secret place",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.547,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 134.36,
+   "end": 142.14,
+   "text": "Thou art with me away from every striving",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.547,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 142.14,
+   "end": 146.36,
+   "text": "Every fear, every sin",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.547,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 147.28,
+   "end": 153.48,
+   "text": "In the secret place, Lord, I begin again",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.547,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 155.32,
+   "end": 158.84,
+   "text": "Not every prayer needs to be loud",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 159.48,
+   "end": 163.06,
+   "text": "Not every worship needs to be seen",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 164.26,
+   "end": 170.38,
+   "text": "Some of the most sacred things happen in the quiet",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 172.4,
+   "end": 175.56,
+   "text": "Between a soul and its maker",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.428,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 177.24,
+   "end": 181.82,
+   "text": "In the secret place",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 186.0,
+   "end": 189.48,
+   "text": "With Thee alone",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 189.48,
+   "end": 191.12,
+   "text": "Holy ground",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 191.12,
+   "end": 193.28,
+   "text": "Here with You",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 193.28,
+   "end": 194.6,
+   "text": "Here with You",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 194.6,
+   "end": 195.26,
+   "text": "Lord",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 196.56,
+   "end": 198.82,
+   "text": "In the secret place",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 199.56,
+   "end": 203.56,
+   "text": "I meet with Thee",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.65,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 203.56,
+   "end": 206.08,
+   "text": "In the secret place",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 207.56,
+   "end": 210.04,
+   "text": "Lord with me",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 210.56,
+   "end": 213.6,
+   "text": "Away from every striving",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 213.6,
+   "end": 215.42,
+   "text": "Every fear",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 215.42,
+   "end": 217.38,
+   "text": "Every sin",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 219.56,
+   "end": 221.66,
+   "text": "In the secret place",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 221.66,
+   "end": 222.38,
+   "text": "Lord",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 224.56,
+   "end": 225.24,
+   "text": "I",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 227.62,
+   "end": 230.42,
+   "text": "Begin again",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.374,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 231.96,
+   "end": 236.4,
+   "text": "My secret place",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.826,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 240.42,
+   "end": 241.8,
+   "text": "Thou art here",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.826,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 242.42,
+   "end": 244.14,
+   "text": "Secret place",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.826,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 244.14,
+   "end": 247.32,
+   "text": "Secret place",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.826,
+   "track_id": "2y2CcCzAtyM#09"
+  },
+  {
+   "start": 261.6,
+   "end": 263.98,
+   "text": "The Lord bless thee and keep thee.",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.464,
+   "track_id": "2y2CcCzAtyM#09"
+  }
+ ]
+}

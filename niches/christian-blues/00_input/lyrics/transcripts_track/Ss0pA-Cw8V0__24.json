@@ -1,0 +1,470 @@
+{
+ "track_id": "Ss0pA-Cw8V0#24",
+ "track_key": "Ss0pA-Cw8V0__24",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Part 2 God Walks With Me Through The Storm Together",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 212.9,
+ "voiced_sec": 181.8,
+ "voice_ratio": 0.854,
+ "n_words": 440,
+ "words_per_min": 124.0,
+ "is_instrumental": false,
+ "n_segments": 56,
+ "n_segments_voiced": 56,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.7,
+ "rtf": 0.069,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.22,
+   "text": "Yeah, and pray to Him",
+   "avg_logprob": -0.715,
+   "no_speech_prob": 0.806,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 10.0,
+   "end": 10.12,
+   "text": "Yeah",
+   "avg_logprob": -0.715,
+   "no_speech_prob": 0.806,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 13.46,
+   "end": 22.0,
+   "text": "Through the storm, through the rain He's with me",
+   "avg_logprob": -0.715,
+   "no_speech_prob": 0.806,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 25.56,
+   "end": 29.5,
+   "text": "Never alone, never alone",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.798,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 30.32,
+   "end": 35.06,
+   "text": "God walk with me together",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.798,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 37.4,
+   "end": 39.92,
+   "text": "God walks with me through the storm",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.798,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 40.8,
+   "end": 42.96,
+   "text": "Holding my heart when the world says",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.798,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 43.6,
+   "end": 46.1,
+   "text": "When it might blow but His love won't sever",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.798,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 46.1,
+   "end": 48.58,
+   "text": "I'm standing strong cause He's God forever",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.798,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 48.58,
+   "end": 50.88,
+   "text": "God walks with me through the fire",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.798,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 51.68,
+   "end": 57.26,
+   "text": "Lifting me up, making all things better Even in the dark my soul says, yes sir",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.78,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 57.26,
+   "end": 62.56,
+   "text": "Covered in this grace, I'm storm-proof, brother Light and flash, but I still see hope",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.78,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 62.56,
+   "end": 67.96,
+   "text": "Rain coming down, but it's worth my coat Fear tried to rise, but it lost that vote",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.78,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 67.96,
+   "end": 73.34,
+   "text": "Holy Spirit in my chest, like a life saver boat Stormwinds hit, but I won't retreat",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.78,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 73.34,
+   "end": 78.98,
+   "text": "God on my side, that's a guaranteed feat Even in the valley where the cold gets deep",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.78,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 78.98,
+   "end": 81.6,
+   "text": "He whispers my child, my love, you keep",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 81.6,
+   "end": 84.2,
+   "text": "He carried my pain, took the weight I held",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 84.2,
+   "end": 86.88,
+   "text": "Turned broken nights into prayers as well",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 86.88,
+   "end": 90.04,
+   "text": "I was lost in the ways where the darkness dwells",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 90.04,
+   "end": 92.34,
+   "text": "But he parted the waters and the fear dispel",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 92.34,
+   "end": 95.26,
+   "text": "God walks with me through the storm together",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 95.26,
+   "end": 98.2,
+   "text": "Holding my heart when the world says never",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 98.2,
+   "end": 100.86,
+   "text": "Winds might blow, but his love won't sever",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 100.86,
+   "end": 103.26,
+   "text": "I'm standing strong cause he's God forever",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 103.26,
+   "end": 106.44,
+   "text": "God walks with me through the fire together",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.683,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 106.44,
+   "end": 109.1,
+   "text": "Lifting me up, making all things better",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 109.1,
+   "end": 111.96,
+   "text": "Even in the dark my soul says, yes I",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 111.96,
+   "end": 114.58,
+   "text": "Covered in his grace, I'm storm proof, brother",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 114.58,
+   "end": 117.2,
+   "text": "I felt thunder in my chest, out in my mind",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 117.2,
+   "end": 119.76,
+   "text": "Storm after storm, trying to steal my shine",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 119.76,
+   "end": 122.56,
+   "text": "But he showed up every single time",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 122.56,
+   "end": 125.18,
+   "text": "Turned my weakness into holy design",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 125.18,
+   "end": 127.48,
+   "text": "He said, hold on, I'm here, don't fear",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 127.48,
+   "end": 130.28,
+   "text": "Wiped every tear, drew mercy near",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 130.28,
+   "end": 133.0,
+   "text": "Walked in the storm, to the sky, grew clear",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 133.0,
+   "end": 135.76,
+   "text": "Now my praise so loud, it could break the sphere",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 135.76,
+   "end": 138.46,
+   "text": "I'm built on the rock that the winds can't shake",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.691,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 138.46,
+   "end": 141.1,
+   "text": "His hands on my life, there's no mistake",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.691,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 141.1,
+   "end": 143.94,
+   "text": "When the world tried drowning me in heartbreak",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.691,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 143.94,
+   "end": 146.82,
+   "text": "He opened heaven's door, yeah, he made my escape",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.691,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 146.82,
+   "end": 151.26,
+   "text": "Storms come, storms go",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.691,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 152.0,
+   "end": 156.44,
+   "text": "But his love stays unshakable",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.691,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 157.24,
+   "end": 162.82,
+   "text": "Even when the sky holds, he walks with me",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.691,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 163.48,
+   "end": 166.82,
+   "text": "Step by step, together",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 168.96,
+   "end": 172.06,
+   "text": "God walks with me through the storm, together",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 172.06,
+   "end": 174.82,
+   "text": "Holding my heart when the world says never",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 174.82,
+   "end": 177.5,
+   "text": "Wins my blow, but his love won't sever",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 177.5,
+   "end": 179.88,
+   "text": "I'm standing strong cause he's God forever",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 179.88,
+   "end": 183.06,
+   "text": "God walks with me through the fire, together",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 183.06,
+   "end": 185.72,
+   "text": "Lifting me up, making all things better",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 185.72,
+   "end": 188.62,
+   "text": "Even in the dark my soul says yes, sir",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 188.62,
+   "end": 191.16,
+   "text": "Covered in his face, I'm storm proof weather",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.809,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 191.16,
+   "end": 193.16,
+   "text": "I am...",
+   "avg_logprob": -0.926,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 197.18,
+   "end": 199.16,
+   "text": "I am...",
+   "avg_logprob": -0.926,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 199.98,
+   "end": 201.7,
+   "text": "I am...",
+   "avg_logprob": -0.926,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#24"
+  },
+  {
+   "start": 201.7,
+   "end": 206.12,
+   "text": "I am...",
+   "avg_logprob": -0.926,
+   "no_speech_prob": 0.679,
+   "track_id": "Ss0pA-Cw8V0#24"
+  }
+ ]
+}

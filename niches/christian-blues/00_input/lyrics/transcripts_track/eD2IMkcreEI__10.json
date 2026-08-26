@@ -1,0 +1,334 @@
+{
+ "track_id": "eD2IMkcreEI#10",
+ "track_key": "eD2IMkcreEI__10",
+ "video_id": "eD2IMkcreEI",
+ "title": "Breath On Me Again",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 225.0,
+ "voiced_sec": 187.6,
+ "voice_ratio": 0.834,
+ "n_words": 279,
+ "words_per_min": 74.4,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 38,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.9,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 18.04,
+   "end": 21.94,
+   "text": "I need you now.",
+   "avg_logprob": -0.973,
+   "no_speech_prob": 0.364,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 22.9,
+   "end": 25.8,
+   "text": "Breathe on me again.",
+   "avg_logprob": -0.973,
+   "no_speech_prob": 0.364,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 25.8,
+   "end": 30.46,
+   "text": "I've been running on empty, trying to stand tall",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.355,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 30.46,
+   "end": 35.2,
+   "text": "But even strong hearts stumble, even giants fall",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.355,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 35.8,
+   "end": 42.56,
+   "text": "I've tried to make it on my own, but I'm nothing without you",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.355,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 42.56,
+   "end": 46.82,
+   "text": "Breathing my bones, this world is loud",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.355,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 46.82,
+   "end": 53.9,
+   "text": "But I need your sound, the whisper of heaven to calm me down",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.355,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 53.9,
+   "end": 63.1,
+   "text": "So here I am, arms open wide, asking You, Lord, to revive.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.678,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 65.0,
+   "end": 72.9,
+   "text": "Breathe on me again, like the first time I felt Your wind.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.678,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 73.92,
+   "end": 81.74,
+   "text": "Fill me with Your fire, take this heart naked new again.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.678,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 81.74,
+   "end": 86.6,
+   "text": "Wash away the weight I'm in",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 86.6,
+   "end": 91.64,
+   "text": "Let your spirit pull me in",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 91.64,
+   "end": 95.52,
+   "text": "Oh Lord, breathe on me again",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 95.52,
+   "end": 102.66,
+   "text": "I need You Lord, every breath, every step",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 104.82,
+   "end": 109.36,
+   "text": "Life got heavy, faith grew thin",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 109.36,
+   "end": 113.92,
+   "text": "But you're the God who meets me within",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.82,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 113.92,
+   "end": 118.72,
+   "text": "You don't need a stage or a perfect prayer",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.82,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 119.36,
+   "end": 123.46,
+   "text": "You just need a heart that knows you're there",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.82,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 123.46,
+   "end": 128.34,
+   "text": "So come like a river, come like the rain",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.82,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 128.34,
+   "end": 132.72,
+   "text": "Heal every crack, soothe every pain",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.82,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 133.36,
+   "end": 137.46,
+   "text": "I'm ready for you, no mask, no pride",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.82,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 137.46,
+   "end": 142.04,
+   "text": "Just your holy breath and open sky",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 142.04,
+   "end": 144.82,
+   "text": "Breathe life in my soul",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 144.82,
+   "end": 146.82,
+   "text": "Again, again, again",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 146.82,
+   "end": 149.42,
+   "text": "Make the broken whole",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 149.42,
+   "end": 151.66,
+   "text": "Again, again, again",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 151.66,
+   "end": 153.8,
+   "text": "Stir the fire deep",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 153.8,
+   "end": 156.38,
+   "text": "Again, again, again",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 156.38,
+   "end": 160.7,
+   "text": "Till there's nothing left of me",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 161.46,
+   "end": 164.48,
+   "text": "But you, breathe on me",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.719,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 164.48,
+   "end": 169.66,
+   "text": "Let it burn, let your presence rush within",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 169.66,
+   "end": 174.66,
+   "text": "Oh, let it burn, fill me with your fire",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 174.66,
+   "end": 179.16,
+   "text": "Let your wind make me hold it from within",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 179.16,
+   "end": 183.94,
+   "text": "Yeah, oh, let your wind blow through my skin",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 183.94,
+   "end": 188.9,
+   "text": "Oh, I'm ready now, I'm giving in",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 188.9,
+   "end": 193.18,
+   "text": "Oh Lord, breathe on me again",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.68,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 193.18,
+   "end": 203.28,
+   "text": "Come, wind of heaven, breathe, breathe on me.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 206.14,
+   "end": 217.16,
+   "text": "Breathe, breath of God, breathe on me again.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.636,
+   "track_id": "eD2IMkcreEI#10"
+  },
+  {
+   "start": 223.54,
+   "end": 224.94,
+   "text": "you",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.899,
+   "track_id": "eD2IMkcreEI#10"
+  }
+ ]
+}

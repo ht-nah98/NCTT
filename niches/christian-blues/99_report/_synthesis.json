@@ -1,0 +1,338 @@
+{
+  "gaps": [
+    {
+      "gap": "Old-school / vintage black gospel",
+      "demand": [
+        {
+          "claim": "Tuổi tự khai trung vị 70 — thế hệ lớn lên cùng black gospel 1950-70",
+          "src": "05_audience/_metrics_raw.json → age.median",
+          "id": "n=82 người tự khai (chỉ 1,28% mẫu)"
+        },
+        {
+          "claim": "55 comment kiểu \"chưa từng nghe thứ gì như thế này\"",
+          "src": "05_audience/03_quote_bank.csv → cột never_heard",
+          "id": "lọc never_heard==True"
+        },
+        {
+          "claim": "I just found this channel, I’m 76 and walking with the Lord for over 50 years and never heard the Word presented in this manner. I love it, it is…",
+          "src": "03_quote_bank.csv",
+          "id": "UgwrBYMu9u0H5XiROJ54AaABAg · 2474♥"
+        },
+        {
+          "claim": "I am a lyricist, and I write mainly praise and worship songs. I have never heard anything this beautiful in my life. Thank you Jesus",
+          "src": "03_quote_bank.csv",
+          "id": "UgyuBuNZfhMoZVDX6J54AaABAg · 1372♥"
+        }
+      ],
+      "supply": "Chỉ 3,96% video khai thác (STEP_06)",
+      "perf": "lift 2,37× — cao nhất 16 chủ đề, NHƯNG phán quyết «YẾU»: trong từng kênh chỉ 1,05× (4/8 kênh tốt hơn)",
+      "src_perf": "06_keyword/02_theme_scores.csv → theme=old_school",
+      "feasible": "AI làm được; 20 kênh đã chứng minh",
+      "score": "CAO",
+      "conf": "Thấp"
+    },
+    {
+      "gap": "Nhạc CÓ LỜI cho bối cảnh cầu nguyện",
+      "demand": [
+        {
+          "claim": "13,5% comment nhắc cầu nguyện/tĩnh tâm — bối cảnh số 1 (868 comment)",
+          "src": "05_audience/_metrics_raw.json → context.prayer_devo",
+          "id": "đếm trên 6.413 comment đã lọc nhiễu"
+        },
+        {
+          "claim": "Bối cảnh số 2 bỏ xa: sáng sớm 4,2%, bệnh viện 1,6%",
+          "src": "05_audience/_metrics_raw.json → context",
+          "id": "morning / sick_hosp"
+        },
+        {
+          "claim": "I pray you dont stop here, what a way to spread the bible",
+          "src": "03_quote_bank.csv",
+          "id": "UgxWMPKLuu0CavfwiBV4AaABAg · 1483♥"
+        },
+        {
+          "claim": "Yes, prayed me right out of the Crack house. Remember, \"Train up a child in the way he should go and when he is old, he won't depart from it.\" Those…",
+          "src": "03_quote_bank.csv",
+          "id": "UgwMKdPpsTEuNICZFNB4AaABAg · 822♥"
+        }
+      ],
+      "supply": "1,03% video làm instrumental và thất bại (lift 0,17×)",
+      "src_perf": "06_keyword/03_voice_gap.csv",
+      "perf": "Ngược lại: có lời mới ăn",
+      "feasible": "AI làm vocal được; Gospel là nhóm chấp nhận AI cao nhất",
+      "score": "CAO",
+      "conf": "Vừa"
+    },
+    {
+      "gap": "Mix dài 1-3h chất lượng cao",
+      "demand": [
+        {
+          "claim": "Nghe lúc cầu nguyện (13,5%) và lúc bệnh tật (1,6%) → cần liền mạch, không ngắt quãng",
+          "src": "05_audience/_metrics_raw.json → context",
+          "id": "prayer_devo + sick_hosp"
+        },
+        {
+          "claim": "24 comment nghe lúc ngủ/đêm — cần độ dài phủ cả giấc",
+          "src": "05_audience/_metrics_raw.json → context.sleep_night",
+          "id": "sleep_night"
+        },
+        {
+          "claim": "I am a miracle and a masterpiece designed by God Himself!!! I was born with Spina bifida, have had 34 surgeries and the 33rd surgery paralyzed me…",
+          "src": "03_quote_bank.csv",
+          "id": "UgzML9dHbfNRXccLevN4AaABAg · 586♥"
+        },
+        {
+          "claim": "When my dear husband was failing in the hospital, I played this for him in the hospital and weak as he was he taped his foot to this music. It moved…",
+          "src": "03_quote_bank.csv",
+          "id": "Ugy_lYbGfuzwfHSZNKR4AaABAg · 418♥"
+        }
+      ],
+      "supply": "43% thị trường đã làm — ĐÔNG",
+      "perf": "~11,7 ad slot vs 1 của video ngắn (STEP_07)",
+      "src_perf": "07_monetization/_metrics_raw.json → ad_slots",
+      "feasible": "Rẻ, dễ nhân bản bằng AI",
+      "score": "VỪA",
+      "conf": "Cao"
+    },
+    {
+      "gap": "Nhánh Tây Ban Nha / Bồ Đào Nha",
+      "demand": [
+        {
+          "claim": "8 kênh LatAm đã tồn tại trong mẫu — có cầu, chưa bão hòa",
+          "src": "03_competitor/_metrics_raw.json",
+          "id": "lọc theo ngôn ngữ kênh"
+        },
+        {
+          "claim": "Nghiên cứu độc lập (team FMG, n=1.017 comment): tiếng Tây Ban Nha 6,0%, Bồ Đào Nha 1,2% — tổng 7,2% khán giả không dùng tiếng Anh",
+          "src": "nguồn ngoài: FMG _ Nghiên cứu thị trường Mỹ.xlsx → sheet «Chân dung»",
+          "id": "mẫu độc lập, 60 video / 38 kênh"
+        },
+        {
+          "claim": "Ta đo lại trên 6.413 comment bằng bộ lọc từ chức năng: TBN 1,73%, BĐN 0,20%. Thấp hơn FMG (khác phương pháp) nhưng cùng khẳng định có nhóm này",
+          "src": "05_audience/_comments_tagged.parquet",
+          "id": "đối chiếu chéo 17/08"
+        }
+      ],
+      "supply": "246 video es-419 + 20 pt trên 7,193 = 3,7%",
+      "perf": "Chưa đo được riêng — nhưng cầu 7,2% vs cung 3,7% là chênh gần 2×",
+      "src_perf": "đối chiếu FMG (cầu) vs 00_input (cung)",
+      "feasible": "AI dịch/hát đa ngôn ngữ được",
+      "score": "VỪA",
+      "conf": "Vừa"
+    },
+    {
+      "gap": "Định vị 'yêu nhạc blues, cần lời sạch'",
+      "demand": [
+        {
+          "claim": "16 comment nêu đúng mâu thuẫn «thích nhạc, không chịu nổi lời»",
+          "src": "05_audience/03_quote_bank.csv → cột cant_stand",
+          "id": "lọc cant_stand==True"
+        },
+        {
+          "claim": "Tín hiệu «finally» (58 comment) có like trung vị 26.5 — cao hơn hẳn mức nền",
+          "src": "05_audience/_metrics_raw.json → pain.finally",
+          "id": "med_likes vs nền 4"
+        },
+        {
+          "claim": "Finally something for those of us who love the music but can't stand the lyrics of the blues. Praise the Lord.",
+          "src": "03_quote_bank.csv",
+          "id": "UgxrMAcQ6bQUeGMF0LJ4AaABAg · 1444♥"
+        },
+        {
+          "claim": "Lord it's my birthday today. My husband is in the hospital fighting this severe flu lung infection, my 2 daughters are in bed with the flu. I'm…",
+          "src": "03_quote_bank.csv",
+          "id": "UgwMon1y3UON8XM0AEB4AaABAg · 16♥"
+        }
+      ],
+      "supply": "Chưa kênh nào dùng làm định vị chính",
+      "perf": "'finally' được like gấp 6,6×",
+      "src_perf": "05_audience/04_signal_tests.csv",
+      "feasible": "Chỉ là cách viết mô tả kênh",
+      "score": "CAO",
+      "conf": "Cao"
+    }
+  ],
+  "ideas": [
+    {
+      "n": 1,
+      "title": "Old School Gospel Blues for Morning Prayer",
+      "basis": "old-school + cầu nguyện buổi sáng",
+      "len": "2h"
+    },
+    {
+      "n": 2,
+      "title": "Thank You Lord for Bringing Me Through | Vintage Blues Worship",
+      "basis": "tạ ơn + old-school",
+      "len": "1h"
+    },
+    {
+      "n": 3,
+      "title": "1950s Black Gospel Blues | When You Can't Sleep",
+      "basis": "old-school + đêm khuya",
+      "len": "3h"
+    },
+    {
+      "n": 4,
+      "title": "Grateful Heart, Weary Body | Old Time Gospel Soul",
+      "basis": "tạ ơn + đau buồn",
+      "len": "2h"
+    },
+    {
+      "n": 5,
+      "title": "Vintage Delta Blues Worship | Songs My Grandmother Sang",
+      "basis": "old-school + hoài niệm",
+      "len": "2h"
+    },
+    {
+      "n": 6,
+      "title": "Old School Gospel for the Hospital Room",
+      "basis": "old-school + bệnh tật",
+      "len": "3h"
+    },
+    {
+      "n": 7,
+      "title": "Thank You for Another Morning | Classic Gospel Blues",
+      "basis": "tạ ơn + buổi sáng",
+      "len": "1h"
+    },
+    {
+      "n": 8,
+      "title": "Blues Worship Like Church Used to Sound",
+      "basis": "old-school + hoài niệm",
+      "len": "2h"
+    },
+    {
+      "n": 9,
+      "title": "When the Night Feels Long | Old Time Gospel Blues",
+      "basis": "old-school + đêm",
+      "len": "3h"
+    },
+    {
+      "n": 10,
+      "title": "Grateful in the Storm | Vintage Gospel Soul",
+      "basis": "tạ ơn + khó khăn",
+      "len": "1h"
+    },
+    {
+      "n": 11,
+      "title": "1960s Gospel Blues for Quiet Time",
+      "basis": "old-school + tĩnh tâm",
+      "len": "2h"
+    },
+    {
+      "n": 12,
+      "title": "Old School Gospel Blues for the Long Drive",
+      "basis": "old-school + lái xe",
+      "len": "3h"
+    },
+    {
+      "n": 13,
+      "title": "Thank You Lord, I'm Still Here | Classic Blues Worship",
+      "basis": "tạ ơn + sống sót",
+      "len": "1h"
+    },
+    {
+      "n": 14,
+      "title": "Vintage Black Gospel | Music for Grieving Hearts",
+      "basis": "old-school + tang chế",
+      "len": "2h"
+    },
+    {
+      "n": 15,
+      "title": "Old Time Religion, Slow Blues Style",
+      "basis": "old-school + phong cách",
+      "len": "2h"
+    },
+    {
+      "n": 16,
+      "title": "Counting My Blessings | Vintage Gospel Blues",
+      "basis": "tạ ơn",
+      "len": "1h"
+    },
+    {
+      "n": 17,
+      "title": "Gospel Blues from the Old Church Piano",
+      "basis": "old-school + nhạc cụ",
+      "len": "2h"
+    },
+    {
+      "n": 18,
+      "title": "Thankful for Grace | Slow Delta Blues Worship",
+      "basis": "tạ ơn + ân điển",
+      "len": "1h"
+    },
+    {
+      "n": 19,
+      "title": "Old School Gospel Blues While You Clean the House",
+      "basis": "old-school + việc nhà",
+      "len": "3h"
+    },
+    {
+      "n": 20,
+      "title": "The Blues That Praise | 1950s Gospel Revival",
+      "basis": "old-school",
+      "len": "2h"
+    },
+    {
+      "n": 21,
+      "title": "Thank You for Every Mercy | Vintage Soul Gospel",
+      "basis": "tạ ơn",
+      "len": "1h"
+    },
+    {
+      "n": 22,
+      "title": "Old Fashioned Gospel Blues for Sunday Morning",
+      "basis": "old-school + chủ nhật",
+      "len": "2h"
+    },
+    {
+      "n": 23,
+      "title": "Grateful After the Storm | Classic Blues Worship",
+      "basis": "tạ ơn + vượt khó",
+      "len": "1h"
+    },
+    {
+      "n": 24,
+      "title": "Deep Old School Gospel Blues | Hammond Organ & Guitar",
+      "basis": "old-school + nhạc cụ",
+      "len": "3h"
+    }
+  ],
+  "benchmarks": {
+    "p25_vpm": 41499.6221686747,
+    "p50_vpm": 106405.76313953489,
+    "p75_vpm": 241404.41999999998,
+    "p90_vpm": 463517.1979123154,
+    "young_median_vpm": 130531.37552941177,
+    "young_success_threshold": 100000,
+    "median_upload_per_month": 18.01683760683761,
+    "median_view_per_video": 1687.0,
+    "top_quartile_view_per_video": 6553.0
+  },
+  "hypotheses": [
+    {
+      "h": "H1 · Ngách trẻ, cửa cho người mới còn rộng",
+      "verdict": "ĐÚNG",
+      "evidence": "74% kênh <12 tháng; M3.2=61,5% kênh mới đạt ≥100k view/tháng (STEP_03)"
+    },
+    {
+      "h": "H2 · Cầu tăng nhanh hơn cung",
+      "verdict": "ĐÚNG (sau khi sửa lỗi)",
+      "evidence": "M2.4=1,305. Khảo sát sơ bộ báo 0,35 là SAI do so cửa sổ chưa chín (STEP_02)"
+    },
+    {
+      "h": "H3 · Mix dài 1-3h là định dạng tối ưu",
+      "verdict": "ĐÚNG",
+      "evidence": "Ban đầu nghi ngờ (VPD thấp), nhưng bối cảnh nghe + ~11,7 ad slot xác nhận (STEP_05, 07)"
+    },
+    {
+      "h": "H4 · Gospel chấp nhận AI cao → lợi thế",
+      "verdict": "ĐÚNG",
+      "evidence": "65% top20 là AI-first và đang thắng (STEP_03) + khảo sát Wavelength"
+    },
+    {
+      "h": "H5 · Khán giả lớn tuổi Mỹ → RPM cao",
+      "verdict": "CHƯA XÁC MINH",
+      "evidence": "Tuổi tự khai trung vị 70 nhưng chỉ 1,28% mẫu; RPM không đo được từ API"
+    }
+  ]
+}

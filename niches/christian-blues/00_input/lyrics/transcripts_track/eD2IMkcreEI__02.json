@@ -1,0 +1,598 @@
+{
+ "track_id": "eD2IMkcreEI#02",
+ "track_key": "eD2IMkcreEI__02",
+ "video_id": "eD2IMkcreEI",
+ "title": "You Carry Me Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 278.0,
+ "voiced_sec": 220.6,
+ "voice_ratio": 0.793,
+ "n_words": 416,
+ "words_per_min": 89.8,
+ "is_instrumental": false,
+ "n_segments": 72,
+ "n_segments_voiced": 71,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 35.9,
+ "rtf": 0.129,
+ "segments": [
+  {
+   "start": 33.14,
+   "end": 44.78,
+   "text": "I have made you and I will carry you I will sustain you and I will rescue you",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.652,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 45.78,
+   "end": 55.32,
+   "text": "Yes, Lord, when the road feels long and heavy And I can't take one more step alone",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.652,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 55.32,
+   "end": 59.26,
+   "text": "You lift me up with hands unseen",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 59.26,
+   "end": 62.94,
+   "text": "And whisper, child, you're not on your own",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 62.94,
+   "end": 66.6,
+   "text": "You're not alone, you're not alone, no",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 68.04,
+   "end": 71.16,
+   "text": "When I fall, you catch my tears",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 71.16,
+   "end": 74.52,
+   "text": "You come to storm, you steal my fears",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 74.52,
+   "end": 77.8,
+   "text": "You've been my strength through every fight",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 78.32,
+   "end": 80.32,
+   "text": "My guidance, dark through darkness",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 80.32,
+   "end": 82.82,
+   "text": "Call, you carry me, Lord",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.732,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 82.82,
+   "end": 85.24,
+   "text": "Through the fire and rain",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 85.24,
+   "end": 89.5,
+   "text": "Oh, You carry me, You carry me, Lord",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 89.5,
+   "end": 91.66,
+   "text": "Through the joy and pain",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 91.66,
+   "end": 94.08,
+   "text": "When I'm weak You bring me",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 94.82,
+   "end": 97.92,
+   "text": "Every step You walk in this sight",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 97.92,
+   "end": 100.7,
+   "text": "Your mercy lifts me deep inside",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 100.7,
+   "end": 102.82,
+   "text": "You carry me, Lord",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 103.98,
+   "end": 106.22,
+   "text": "You carry me, Lord",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 107.12,
+   "end": 110.08,
+   "text": "Oh, You do, yeah",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 110.08,
+   "end": 112.46,
+   "text": "Oh, you do, yeah",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 113.08,
+   "end": 117.14,
+   "text": "In the valley I still see your grace",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 117.14,
+   "end": 119.96,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 119.96,
+   "end": 124.02,
+   "text": "Even when tears roll down my face",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 124.02,
+   "end": 126.92,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 126.92,
+   "end": 129.9,
+   "text": "When the night feels endless and cold",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 129.9,
+   "end": 132.66,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 132.66,
+   "end": 137.08,
+   "text": "Your promise still holds my soul",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 139.46,
+   "end": 142.48,
+   "text": "You are the strength I lean upon",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 142.48,
+   "end": 146.0,
+   "text": "The hope that keeps me moving on",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 146.0,
+   "end": 149.04,
+   "text": "In every trial you never change",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 149.04,
+   "end": 153.68,
+   "text": "Your love forever stays the same",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 153.68,
+   "end": 156.14,
+   "text": "You carry me Lord",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 156.14,
+   "end": 158.18,
+   "text": "Through the storm it's high",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 158.18,
+   "end": 160.8,
+   "text": "Through the wind all your promise high",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 160.8,
+   "end": 163.0,
+   "text": "You carry me Lord",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 163.0,
+   "end": 164.88,
+   "text": "When my faith runs dry",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 164.88,
+   "end": 166.96,
+   "text": "When my eyes so high",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 166.96,
+   "end": 171.12,
+   "text": "When I'm weary and I can't stand tall",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 171.12,
+   "end": 174.32,
+   "text": "You remind me you're above it all",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 174.32,
+   "end": 176.08,
+   "text": "You carry me Lord",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 176.08,
+   "end": 179.28,
+   "text": "You carry me Lord",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 179.28,
+   "end": 181.22,
+   "text": "You carry me Jesus",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 181.22,
+   "end": 183.76,
+   "text": "Oh You carry me Lord",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 184.64,
+   "end": 186.48,
+   "text": "Oh You carry me Lord",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 188.08,
+   "end": 190.22,
+   "text": "Oh You carry me Lord",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 190.22,
+   "end": 191.46,
+   "text": "Carry me Lord",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 191.46,
+   "end": 193.24,
+   "text": "Carry me Lord",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 193.24,
+   "end": 200.34,
+   "text": "When I stumble, when I fall You still call my name",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.713,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 200.34,
+   "end": 201.84,
+   "text": "Carry me, Lord",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.713,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 201.84,
+   "end": 207.32,
+   "text": "Through the wilderness, through my pain",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.713,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 207.32,
+   "end": 210.7,
+   "text": "Carry me, You carry me",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.713,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 210.7,
+   "end": 213.68,
+   "text": "Yeah, yeah, yeah",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.713,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 213.68,
+   "end": 215.4,
+   "text": "Carry me, Lord",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.713,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 216.24,
+   "end": 220.32,
+   "text": "Your arms never let me go, no",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.713,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 220.32,
+   "end": 222.62,
+   "text": "You carry me Lord.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 223.18,
+   "end": 225.56,
+   "text": "Oh, yes you do, yes you do.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 225.72,
+   "end": 229.28,
+   "text": "You're loyal but you, you carry me Lord.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 229.56,
+   "end": 231.38,
+   "text": "Oh Lord, I'm not the same.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 231.54,
+   "end": 233.9,
+   "text": "Every breath, every tear you see.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 234.4,
+   "end": 237.68,
+   "text": "Every breath, every tear you see.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 238.34,
+   "end": 240.96,
+   "text": "Your love still carries me.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 241.12,
+   "end": 242.68,
+   "text": "You carry me Lord.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 242.8,
+   "end": 246.06,
+   "text": "You carry me, you carry me Lord.",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.689,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 246.06,
+   "end": 251.44,
+   "text": "Oh, you carry me, carry me when I can't move",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 251.44,
+   "end": 254.44,
+   "text": "You do, you do, you do",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 254.44,
+   "end": 256.9,
+   "text": "Oh, you carry me, Lord",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 256.9,
+   "end": 259.28,
+   "text": "Lead me, even when I'm weak",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 259.28,
+   "end": 261.88,
+   "text": "You carry me, hey Lord",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 263.52,
+   "end": 265.48,
+   "text": "Even when I'm weak",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 266.54,
+   "end": 269.4,
+   "text": "You carry me",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 270.62,
+   "end": 272.3,
+   "text": "Oh, Lord",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.607,
+   "track_id": "eD2IMkcreEI#02"
+  },
+  {
+   "start": 276.54,
+   "end": 277.94,
+   "text": "you",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.929,
+   "track_id": "eD2IMkcreEI#02"
+  }
+ ]
+}

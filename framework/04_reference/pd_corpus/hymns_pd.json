@@ -1,0 +1,361 @@
+{
+  "note": "Câu mở đầu (incipit) của hymn/spiritual tại Mỹ. Dùng để đo match_ratio kỹ thuật với lyrics_raw.parquet — không phải bản phát hành lại. status='pd': sáng tác/xuất bản trước 1930, chắc chắn public domain. status='check': năm sáng tác >=1930 (ranh giới luật PD Mỹ), KHÔNG được báo là PD chắc chắn — cần kiểm tra hồ sơ bản quyền cụ thể trước khi kết luận.",
+  "n_hymns": 39,
+  "n_confirmed_pd": 36,
+  "n_needs_check": 3,
+  "hymns": [
+    {
+      "title": "Amazing Grace",
+      "year": 1779,
+      "incipit": "amazing grace how sweet the sound that saved a wretch like me",
+      "status": "pd",
+      "author": "Lời: John Newton (1779); nhạc NEW BRITAIN (1835)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Amazing_Grace"
+    },
+    {
+      "title": "How Great Thou Art",
+      "year": 1885,
+      "incipit": "o lord my god when i in awesome wonder",
+      "status": "pd",
+      "author": "Thơ Thụy Điển: Carl Boberg (1885). LƯU Ý: bản dịch Anh ngữ Stuart K. Hine (1949) CÒN bản quyền",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/How_Great_Thou_Art"
+    },
+    {
+      "title": "It Is Well with My Soul",
+      "year": 1876,
+      "incipit": "when peace like a river attendeth my way",
+      "status": "pd",
+      "author": "Lời: Horatio Spafford (1876); nhạc: Philip Bliss (1876)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/It_Is_Well_with_My_Soul"
+    },
+    {
+      "title": "Blessed Assurance",
+      "year": 1873,
+      "incipit": "blessed assurance jesus is mine o what a foretaste of glory divine",
+      "status": "pd",
+      "author": "Lời: Fanny Crosby (1873); nhạc: Phoebe Knapp",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Blessed_Assurance"
+    },
+    {
+      "title": "The Old Rugged Cross",
+      "year": 1913,
+      "incipit": "on a hill far away stood an old rugged cross",
+      "status": "pd",
+      "author": "Lời/nhạc: George Bennard (1913)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/The_Old_Rugged_Cross"
+    },
+    {
+      "title": "Swing Low, Sweet Chariot",
+      "year": 1862,
+      "incipit": "swing low sweet chariot coming for to carry me home",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; gán Wallace Willis (~1862)",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Swing_Low,_Sweet_Chariot"
+    },
+    {
+      "title": "Wade in the Water",
+      "year": 1901,
+      "incipit": "wade in the water wade in the water children",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; in lần đầu 1901",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Wade_in_the_Water"
+    },
+    {
+      "title": "Nobody Knows the Trouble I've Seen",
+      "year": 1867,
+      "incipit": "nobody knows the trouble i've seen nobody knows my sorrow",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; in trong Slave Songs of the United States (1867)",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Nobody_Knows_the_Trouble_I've_Seen"
+    },
+    {
+      "title": "Go Down Moses",
+      "year": 1861,
+      "incipit": "when israel was in egypt's land let my people go",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; ghi chép 1861 (Fort Monroe)",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Go_Down_Moses"
+    },
+    {
+      "title": "Were You There",
+      "year": 1899,
+      "incipit": "were you there when they crucified my lord",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; in lần đầu 1899",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Were_You_There"
+    },
+    {
+      "title": "This Little Light of Mine",
+      "year": 1920,
+      "incipit": "this little light of mine i'm gonna let it shine",
+      "status": "pd",
+      "author": "Gốc khuyết danh; thường gán Harry Dixon Loes (~1920)",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/This_Little_Light_of_Mine"
+    },
+    {
+      "title": "Down by the Riverside",
+      "year": 1918,
+      "incipit": "gonna lay down my burden down by the riverside",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; bản in đầu 1918",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Down_by_the_Riverside"
+    },
+    {
+      "title": "When the Saints Go Marching In",
+      "year": 1896,
+      "incipit": "oh when the saints go marching in",
+      "status": "pd",
+      "author": "Spiritual/gospel khuyết danh; bản in ~1896",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/When_the_Saints_Go_Marching_In"
+    },
+    {
+      "title": "Precious Lord, Take My Hand",
+      "year": 1932,
+      "incipit": "precious lord take my hand lead me on let me stand",
+      "status": "check",
+      "author": "Lời: Thomas A. Dorsey (1932); nhạc dựa trên MAITLAND (G.N. Allen, 1844)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Take_My_Hand,_Precious_Lord"
+    },
+    {
+      "title": "I'll Fly Away",
+      "year": 1929,
+      "incipit": "some glad morning when this life is over i'll fly away",
+      "status": "pd",
+      "author": "Lời/nhạc: Albert E. Brumley (1929)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/I'll_Fly_Away"
+    },
+    {
+      "title": "Will the Circle Be Unbroken",
+      "year": 1907,
+      "incipit": "will the circle be unbroken by and by lord by and by",
+      "status": "pd",
+      "author": "Lời: Ada R. Habershon; nhạc: Charles H. Gabriel (1907)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Will_the_Circle_Be_Unbroken%3F"
+    },
+    {
+      "title": "Rock of Ages",
+      "year": 1763,
+      "incipit": "rock of ages cleft for me let me hide myself in thee",
+      "status": "pd",
+      "author": "Lời: Augustus Toplady (1763); nhạc: Thomas Hastings (1830)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Rock_of_Ages_(Christian_hymn)"
+    },
+    {
+      "title": "Holy, Holy, Holy",
+      "year": 1826,
+      "incipit": "holy holy holy lord god almighty",
+      "status": "pd",
+      "author": "Lời: Reginald Heber (1826); nhạc: John B. Dykes (1861)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Holy,_Holy,_Holy!_Lord_God_Almighty"
+    },
+    {
+      "title": "Come Thou Fount",
+      "year": 1758,
+      "incipit": "come thou fount of every blessing tune my heart to sing thy grace",
+      "status": "pd",
+      "author": "Lời: Robert Robinson (1758); nhạc: NETTLETON (1813)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Come_Thou_Fount_of_Every_Blessing"
+    },
+    {
+      "title": "What a Friend We Have in Jesus",
+      "year": 1855,
+      "incipit": "what a friend we have in jesus all our sins and griefs to bear",
+      "status": "pd",
+      "author": "Lời: Joseph M. Scriven (1855); nhạc: Charles C. Converse (1868)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/What_a_Friend_We_Have_in_Jesus"
+    },
+    {
+      "title": "Leaning on the Everlasting Arms",
+      "year": 1887,
+      "incipit": "what a fellowship what a joy divine leaning on the everlasting arms",
+      "status": "pd",
+      "author": "Lời: Elisha Hoffman; nhạc: Anthony J. Showalter (1887)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Leaning_on_the_Everlasting_Arms"
+    },
+    {
+      "title": "In the Sweet By and By",
+      "year": 1868,
+      "incipit": "there's a land that is fairer than day",
+      "status": "pd",
+      "author": "Lời: S. Fillmore Bennett; nhạc: Joseph P. Webster (1868)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/In_the_Sweet_By-and-By"
+    },
+    {
+      "title": "Nearer, My God, to Thee",
+      "year": 1841,
+      "incipit": "nearer my god to thee nearer to thee",
+      "status": "pd",
+      "author": "Lời: Sarah F. Adams (1841); nhạc: Lowell Mason (1856)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Nearer,_My_God,_to_Thee"
+    },
+    {
+      "title": "Abide with Me",
+      "year": 1847,
+      "incipit": "abide with me fast falls the eventide",
+      "status": "pd",
+      "author": "Lời: Henry F. Lyte (1847); nhạc: William H. Monk (1861)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Abide_with_Me"
+    },
+    {
+      "title": "O Come, All Ye Faithful",
+      "year": 1751,
+      "incipit": "o come all ye faithful joyful and triumphant",
+      "status": "pd",
+      "author": "Lời/nhạc: John F. Wade (~1751); dịch Anh ngữ: Frederick Oakeley (1841)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/O_Come,_All_Ye_Faithful"
+    },
+    {
+      "title": "Steal Away",
+      "year": 1862,
+      "incipit": "steal away steal away steal away to jesus",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; gán Wallace Willis (~1862)",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Steal_Away"
+    },
+    {
+      "title": "Sometimes I Feel Like a Motherless Child",
+      "year": 1867,
+      "incipit": "sometimes i feel like a motherless child a long way from home",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; thời kỳ nô lệ, in 1867",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Sometimes_I_Feel_Like_a_Motherless_Child"
+    },
+    {
+      "title": "Deep River",
+      "year": 1917,
+      "incipit": "deep river my home is over jordan",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; phối Harry T. Burleigh (1917)",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Deep_River_(song)"
+    },
+    {
+      "title": "Every Time I Feel the Spirit",
+      "year": 1867,
+      "incipit": "every time i feel the spirit moving in my heart",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; tuyển tập 1867",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Slave_Songs_of_the_United_States"
+    },
+    {
+      "title": "Peace in the Valley",
+      "year": 1937,
+      "incipit": "well i'm tired and so weary but i must go along",
+      "status": "check",
+      "author": "Lời/nhạc: Thomas A. Dorsey (1937)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Peace_in_the_Valley"
+    },
+    {
+      "title": "Farther Along",
+      "year": 1911,
+      "incipit": "farther along we'll know all about it farther along we'll understand why",
+      "status": "pd",
+      "author": "Gốc khuyết danh; bản in gán W.B. Stevens (~1911)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Farther_Along"
+    },
+    {
+      "title": "Softly and Tenderly",
+      "year": 1880,
+      "incipit": "softly and tenderly jesus is calling calling for you and for me",
+      "status": "pd",
+      "author": "Lời/nhạc: Will L. Thompson (1880)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Softly_and_Tenderly"
+    },
+    {
+      "title": "At the Cross",
+      "year": 1707,
+      "incipit": "alas and did my savior bleed and did my sovereign die",
+      "status": "pd",
+      "author": "Lời: Isaac Watts (1707); điệp khúc + nhạc: Ralph E. Hudson (1885)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Alas!_and_Did_My_Saviour_Bleed"
+    },
+    {
+      "title": "I Must Tell Jesus",
+      "year": 1893,
+      "incipit": "i must tell jesus all of my trials",
+      "status": "pd",
+      "author": "Lời/nhạc: Elisha A. Hoffman (1893)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Elisha_Hoffman"
+    },
+    {
+      "title": "Standing in the Need of Prayer",
+      "year": 1905,
+      "incipit": "not my brother nor my sister but it's me o lord",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; in đầu thế kỷ 20",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Slave_Songs_of_the_United_States"
+    },
+    {
+      "title": "Give Me Jesus",
+      "year": 1900,
+      "incipit": "in the morning when i rise give me jesus",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; thế kỷ 19, in ~1900",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Give_Me_Jesus"
+    },
+    {
+      "title": "Balm in Gilead",
+      "year": 1854,
+      "incipit": "there is a balm in gilead to make the wounded whole",
+      "status": "pd",
+      "author": "Spiritual khuyết danh; in lần đầu ~1854",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/There_Is_a_Balm_in_Gilead"
+    },
+    {
+      "title": "Just a Closer Walk with Thee",
+      "year": 1940,
+      "incipit": "i am weak but thou art strong jesus keep me from all wrong",
+      "status": "check",
+      "author": "Gốc khuyết danh (thế kỷ 19); bản in đầu ~1940",
+      "kind": "spiritual",
+      "source_url": "https://en.wikipedia.org/wiki/Just_a_Closer_Walk_with_Thee"
+    },
+    {
+      "title": "Great Is Thy Faithfulness",
+      "year": 1923,
+      "incipit": "great is thy faithfulness o god my father",
+      "status": "pd",
+      "author": "Lời: Thomas Chisholm; nhạc: William M. Runyan (1923)",
+      "kind": "hymn",
+      "source_url": "https://en.wikipedia.org/wiki/Great_Is_Thy_Faithfulness"
+    }
+  ],
+  "source_note": "Nguồn tham chiếu: Wikipedia EN (kiểm chứng HTTP 200 ngày 2026-08-26). Wikipedia dùng để tra tác giả/năm xuất bản, KHÔNG phải văn bản pháp lý. Quyết định thương mại cần đối chiếu thêm PD Info Project (pdinfo.com) hoặc tra cứu US Copyright Office.",
+  "source_checked": "2026-08-26"
+}

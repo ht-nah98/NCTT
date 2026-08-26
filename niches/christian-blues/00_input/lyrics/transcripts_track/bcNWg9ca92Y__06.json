@@ -1,0 +1,582 @@
+{
+ "track_id": "bcNWg9ca92Y#06",
+ "track_key": "bcNWg9ca92Y__06",
+ "video_id": "bcNWg9ca92Y",
+ "title": "Yeshua",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 257.0,
+ "voiced_sec": 153.8,
+ "voice_ratio": 0.599,
+ "n_words": 323,
+ "words_per_min": 75.4,
+ "is_instrumental": false,
+ "n_segments": 70,
+ "n_segments_voiced": 66,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.3,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.82,
+   "text": "Oh",
+   "avg_logprob": -0.679,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 6.9,
+   "end": 8.3,
+   "text": "Oh",
+   "avg_logprob": -0.679,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 23.0,
+   "end": 23.14,
+   "text": "Hey",
+   "avg_logprob": -0.679,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 25.0,
+   "end": 26.96,
+   "text": "When my heart is overwhelmed",
+   "avg_logprob": -0.679,
+   "no_speech_prob": 0.661,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 26.96,
+   "end": 30.78,
+   "text": "You are the peace that pulls me in",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 30.78,
+   "end": 34.5,
+   "text": "When I'm searching for the answers",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 34.5,
+   "end": 38.14,
+   "text": "You remind me who I am and you again",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 38.96,
+   "end": 40.9,
+   "text": "Lord, you whisper to my spirit",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 41.9,
+   "end": 44.58,
+   "text": "You are loved, you're not alone",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 44.58,
+   "end": 48.64,
+   "text": "In the quiet of your presence",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 48.64,
+   "end": 51.88,
+   "text": "I find rest before you throne",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 52.96,
+   "end": 55.44,
+   "text": "Every burden, every fear",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.85,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 55.44,
+   "end": 58.94,
+   "text": "Face whenever you are drawn near",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 58.94,
+   "end": 62.6,
+   "text": "Your name brings heaven close",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 63.44,
+   "end": 65.28,
+   "text": "I feel your love overflow",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 66.44,
+   "end": 68.42,
+   "text": "Yes you are",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 68.42,
+   "end": 70.62,
+   "text": "Name above all names",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 70.62,
+   "end": 73.14,
+   "text": "My Savior and my King",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 73.14,
+   "end": 75.5,
+   "text": "Yes you are",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 75.5,
+   "end": 77.58,
+   "text": "Hope for every storm",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 77.58,
+   "end": 80.38,
+   "text": "The song I soul must sing",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 80.38,
+   "end": 81.4,
+   "text": "You are",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 81.4,
+   "end": 82.48,
+   "text": "Holy",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 82.48,
+   "end": 83.32,
+   "text": "You are",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.477,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 83.32,
+   "end": 84.38,
+   "text": "Worthy",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 84.38,
+   "end": 87.38,
+   "text": "All my praise belongs to You",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 87.38,
+   "end": 89.88,
+   "text": "Yes You are",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 89.88,
+   "end": 92.7,
+   "text": "Forever I will worship You",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 92.7,
+   "end": 95.06,
+   "text": "Ooh, ooh, ooh, ooh",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 95.06,
+   "end": 98.1,
+   "text": "You're the healer of my heartbreak",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 98.6,
+   "end": 101.12,
+   "text": "The mender of the pieces torn",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 102.32,
+   "end": 104.9,
+   "text": "Even when I lose my footing",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 105.64,
+   "end": 108.44,
+   "text": "Your mercy carries me back home",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 109.32,
+   "end": 111.46,
+   "text": "Lord, You cover me with kindness",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.622,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 111.46,
+   "end": 118.56,
+   "text": "Grace that breaks every chain You lift me from the ruins",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.86,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 118.56,
+   "end": 125.72,
+   "text": "And write beauty over pain Every moment, every breath",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.86,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 125.72,
+   "end": 132.78,
+   "text": "Shows me love I never am Your name speaks life again",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.86,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 132.78,
+   "end": 137.94,
+   "text": "My Savior and my friend Oh, yes",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.86,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 137.94,
+   "end": 138.84,
+   "text": "Yes you are",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 139.94,
+   "end": 143.26,
+   "text": "Name above all names, my Savior and my King",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 143.94,
+   "end": 145.86,
+   "text": "Yes you are",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 146.94,
+   "end": 150.84,
+   "text": "Hope for every storm, this song my soul must sing",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 150.84,
+   "end": 154.6,
+   "text": "You are holy, you are worthy",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 154.6,
+   "end": 157.46,
+   "text": "All my praise belongs to you",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 157.46,
+   "end": 160.08,
+   "text": "Yes you are",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 160.94,
+   "end": 163.54,
+   "text": "Forever I will worship you",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 163.54,
+   "end": 165.1,
+   "text": "Yeah oh",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.739,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 165.1,
+   "end": 168.22,
+   "text": "You're the light in the valley",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 169.34,
+   "end": 172.46,
+   "text": "Strength when I'm weary, oh yes",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 173.1,
+   "end": 175.72,
+   "text": "You break every chain",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 175.72,
+   "end": 177.04,
+   "text": "Power in your name",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 177.04,
+   "end": 179.4,
+   "text": "My refuge, my Savior",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 179.4,
+   "end": 181.08,
+   "text": "Yes you are",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 181.08,
+   "end": 186.36,
+   "text": "Oh, yeah, yeah, yeah",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 186.36,
+   "end": 188.16,
+   "text": "Yes you are",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 188.16,
+   "end": 189.94,
+   "text": "Yes you are",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 189.94,
+   "end": 192.84,
+   "text": "Completely and forever",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.678,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 192.84,
+   "end": 195.16,
+   "text": "Yes you are",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 195.16,
+   "end": 197.2,
+   "text": "My heart belongs to you Lord",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 197.2,
+   "end": 199.66,
+   "text": "Lord completely and forever",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 199.66,
+   "end": 202.22,
+   "text": "Yes you are",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 202.22,
+   "end": 204.28,
+   "text": "Your love is my foundation",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 204.84,
+   "end": 206.84,
+   "text": "Nothing else could be better",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 207.42,
+   "end": 207.98,
+   "text": "Holy",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 208.84,
+   "end": 209.42,
+   "text": "Holy",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 209.42,
+   "end": 211.06,
+   "text": "Worthy",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 211.06,
+   "end": 211.98,
+   "text": "Worthy",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 211.98,
+   "end": 214.28,
+   "text": "Lord you make all things new",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 214.28,
+   "end": 215.96,
+   "text": "Yes you are",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  },
+  {
+   "start": 216.84,
+   "end": 219.5,
+   "text": "I surrender all to you",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.671,
+   "track_id": "bcNWg9ca92Y#06"
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "track_id": "JqDkxKCb4ec#11",
+ "track_key": "JqDkxKCb4ec__11",
+ "video_id": "JqDkxKCb4ec",
+ "title": "Rooted In Truth (Proverbs 12)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 201.0,
+ "voiced_sec": 95.3,
+ "voice_ratio": 0.474,
+ "n_words": 156,
+ "words_per_min": 46.6,
+ "is_instrumental": false,
+ "n_segments": 32,
+ "n_segments_voiced": 32,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.5,
+ "rtf": 0.042,
+ "segments": [
+  {
+   "start": 4.06,
+   "end": 5.46,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 5.46,
+   "end": 5.48,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 13.06,
+   "end": 14.46,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 15.0,
+   "end": 15.06,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 15.06,
+   "end": 15.08,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 15.08,
+   "end": 16.28,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 26.6,
+   "end": 30.98,
+   "text": "Who ever loves discipline loves knowledge",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 30.98,
+   "end": 35.1,
+   "text": "But fools hate correction sound",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 36.14,
+   "end": 39.64,
+   "text": "A good man finds favor from the Lord",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 40.28,
+   "end": 43.8,
+   "text": "But the wicked can't hold that ground",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 43.8,
+   "end": 48.62,
+   "text": "No one stands by wicked roots",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 48.62,
+   "end": 52.18,
+   "text": "They ride beneath a clay",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 52.8,
+   "end": 57.1,
+   "text": "But the righteous man is planted deep",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 57.1,
+   "end": 60.54,
+   "text": "And he'll never be swept away",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 60.54,
+   "end": 63.02,
+   "text": "Stay rooted in truth",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 63.02,
+   "end": 67.42,
+   "text": "Don't bend, don't break, don't fall",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 70.44,
+   "end": 74.42,
+   "text": "Lord keeps watch on the faithful ones",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 75.24,
+   "end": 77.82,
+   "text": "And lifts the righteous tall",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 81.22,
+   "end": 84.42,
+   "text": "And lifts the righteous tall",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 91.34,
+   "end": 95.78,
+   "text": "An excellent wife is her husband's crown",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 95.78,
+   "end": 98.94,
+   "text": "But shame brings him low",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 100.52,
+   "end": 104.08,
+   "text": "Thoughts over righteous are justice",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 104.08,
+   "end": 107.3,
+   "text": "The wicked just a life for sure",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 109.32,
+   "end": 112.2,
+   "text": "A gentle word brings healing",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 113.44,
+   "end": 116.92,
+   "text": "But deceit cuts like a knife",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 118.04,
+   "end": 121.38,
+   "text": "Truth stands firm forever",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 121.38,
+   "end": 124.76,
+   "text": "But lies can't hold their life",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 124.76,
+   "end": 126.8,
+   "text": "Stay rooted in truth",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 127.46,
+   "end": 131.1,
+   "text": "Don't bend, don't break, don't fall",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 133.1,
+   "end": 137.78,
+   "text": "The Lord keeps watch on the faithful ones",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 138.58,
+   "end": 141.5,
+   "text": "And lives the righteous tall",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11"
+  },
+  {
+   "start": 145.4,
+   "end": 147.56,
+   "text": "And lives the righteous tall",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11"
+  }
+ ]
+}

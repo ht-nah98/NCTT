@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Nghiên cứu thị trường — Christian Blues</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F2EFE9;--panel:#FBF9F5;--line:#D8D1C4;--line2:#BFB5A4;--fg:#171310;
+ --mute:#7D7367;--faint:#A79C8D;--acc:#A8571F;--accbg:#F6E8D8;
+ --mono:'JetBrains Mono',ui-monospace,monospace;--ui:'Inter',system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+ --bg:#141210;--panel:#1C1917;--line:#332E26;--line2:#4A4237;--fg:#EDE7DD;
+ --mute:#948A7C;--faint:#6E655A;--acc:#D08B45;--accbg:#2C2114}}
+:root[data-theme="dark"]{--bg:#141210;--panel:#1C1917;--line:#332E26;--line2:#4A4237;
+ --fg:#EDE7DD;--mute:#948A7C;--faint:#6E655A;--acc:#D08B45;--accbg:#2C2114}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--ui);
+ -webkit-font-smoothing:antialiased;min-height:100vh;display:flex;align-items:center;
+ justify-content:center;padding:32px}
+.w{max-width:760px;width:100%}
+.eb{font-family:var(--mono);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;
+ color:var(--acc);margin-bottom:14px}
+h1{font-size:clamp(26px,4vw,38px);margin:0 0 12px;letter-spacing:-.02em;line-height:1.15}
+.sub{color:var(--mute);font-size:16px;margin:0 0 34px;line-height:1.55}
+.cards{display:grid;gap:14px}
+a.card{display:block;border:1px solid var(--line);border-radius:4px;background:var(--panel);
+ padding:22px;text-decoration:none;color:inherit;transition:border-color .12s,transform .12s}
+a.card:hover{border-color:var(--acc);transform:translateY(-1px)}
+a.card:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.card .rw{display:flex;align-items:baseline;gap:11px;margin-bottom:8px}
+.card .ic{font-size:19px;color:var(--acc)}
+.card h2{font-size:19px;margin:0;font-weight:600}
+.card .tg{margin-left:auto;font-family:var(--mono);font-size:10px;letter-spacing:.09em;
+ text-transform:uppercase;color:var(--acc);background:var(--accbg);padding:3px 9px;border-radius:2px}
+.card p{margin:0;color:var(--mute);font-size:14.5px;line-height:1.55}
+.card .meta{margin-top:12px;font-family:var(--mono);font-size:11px;color:var(--faint);
+ display:flex;gap:16px;flex-wrap:wrap}
+.ft{margin-top:30px;padding-top:18px;border-top:1px solid var(--line);
+ font-family:var(--mono);font-size:11.5px;color:var(--faint);line-height:1.8}
+.ft b{color:var(--mute);font-weight:500}
+kbd{font-family:var(--mono);font-size:11px;background:var(--panel);border:1px solid var(--line2);
+ border-bottom-width:2px;border-radius:3px;padding:1px 6px;color:var(--fg)}
+</style>
+</head>
+<body>
+<div class="w">
+  <div class="eb">Dự án · christian-blues · 53 kênh</div>
+  <h1>Nghiên cứu thị trường</h1>
+  <p class="sub">Bản mô phỏng sản phẩm, chạy trên dữ liệu thật của dự án.</p>
+
+  <div class="cards">
+    <a class="card" href="data-tho.html">
+      <div class="rw"><span class="ic">▦</span><h2>Bước 1 — Dữ liệu thô</h2><span class="tg">Xong</span></div>
+      <p>Chọn dự án → xem danh sách kênh → dữ liệu đổ ra. Kiểu bảng giá chứng khoán, <b>142 cột</b> chia 6 bảng theo đơn vị đo. Tắt một kênh thì mọi bảng lọc theo. Có tooltip cho từng trường và thang nhiệt đánh dấu nhóm cao.</p>
+      <div class="meta"><span>6 bảng · 142 cột</span><span>383 ảnh thật</span><span>5,9 MB</span></div>
+    </a>
+    <a class="card" href="chuan-hoa.html">
+      <div class="rw"><span class="ic">⚖</span><h2>Bước 2 — Chuẩn hoá</h2><span class="tg">Mới</span></div>
+      <p>Hai trạm mở ra được. <b>Làm dày</b> — tính thêm 13 cột từ 7 cột thô: view/ngày, tỉ lệ vượt trội, thị phần, RPM và doanh thu ước tính. <b>Lọc chọn</b> — bốn rổ, mỗi rổ hỏi một câu khác nhau. Mỗi trạm có kính lúp soi thử một video cụ thể.</p>
+      <div class="meta"><span>8 cột thô → 21 cột</span><span>7.193 → 965 video</span><span>Bảng trải phẳng + CSV</span></div>
+    </a>
+    <a class="card" href="ba-tram.html">
+      <div class="rw"><span class="ic">⚗</span><h2>Ba trạm chưng cất</h2><span class="tg">Thuyết trình</span></div>
+      <p>Giải thích vì sao có Bước 2 — bỏ 86,6% video chỉ mất 19,4% lượt xem. Cuối trang có mục «Ba câu sếp sẽ hỏi» kèm câu trả lời.</p>
+      <div class="meta"><span>Cuộn một mạch</span><span>Có phần bấm thử</span><span>68 KB</span></div>
+    </a>
+    <a class="card" href="ban-du-lieu.html" style="opacity:.62">
+      <div class="rw"><span class="ic">▤</span><h2>Bàn dữ liệu</h2><span class="tg" style="background:none;border:1px solid var(--line2);color:var(--faint)">Bản cũ</span></div>
+      <p>Bản trước, có cả phần «đã xử lý». Giữ lại để đối chiếu.</p>
+    </a>
+  </div>
+
+  <div class="ft">
+    <b>Chạy lại server:</b> <kbd>bash _web/serve.sh</kbd><br>
+    <b>Dừng:</b> <kbd>Ctrl + C</kbd> trong cửa sổ đang chạy
+  </div>
+</div>
+</body>
+</html>

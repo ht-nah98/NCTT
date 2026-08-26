@@ -1,0 +1,262 @@
+{
+ "track_id": "1UItx9upywQ#12",
+ "track_key": "1UItx9upywQ__12",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Wash Me Clean\" - Psalm 51",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 191.0,
+ "voiced_sec": 144.0,
+ "voice_ratio": 0.754,
+ "n_words": 144,
+ "words_per_min": 45.2,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 30,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.3,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 10.76,
+   "end": 19.7,
+   "text": "I tried to hide in shadows deep",
+   "avg_logprob": -0.828,
+   "no_speech_prob": 0.528,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 21.7,
+   "end": 27.7,
+   "text": "The weight I carried made me weep.",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 29.38,
+   "end": 31.88,
+   "text": "My hands are stained.",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 34.42,
+   "end": 37.32,
+   "text": "My heart's not whole.",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 40.02,
+   "end": 45.66,
+   "text": "Oh, mercy, mercy, hear my cry.",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 45.66,
+   "end": 50.18,
+   "text": "Don't turn away, don't pass me by",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 50.18,
+   "end": 51.86,
+   "text": "Wash me clean",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 52.54,
+   "end": 54.36,
+   "text": "Oh Lord",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 54.36,
+   "end": 57.66,
+   "text": "Wash me clean",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 57.66,
+   "end": 59.8,
+   "text": "Oh Lord",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 59.8,
+   "end": 61.86,
+   "text": "Make me new",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 61.86,
+   "end": 64.32,
+   "text": "Erase where I've been",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 64.32,
+   "end": 67.96,
+   "text": "Take this heart of stone",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 67.96,
+   "end": 69.94,
+   "text": "Let your love be seen",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 69.94,
+   "end": 71.8,
+   "text": "Wash me clean",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 71.8,
+   "end": 74.54,
+   "text": "Oh Lord",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.46,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 74.54,
+   "end": 77.54,
+   "text": "Wash me clean",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.459,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 79.06,
+   "end": 83.94,
+   "text": "Wash me clean",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.459,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 89.9,
+   "end": 93.74,
+   "text": "I walk through fire",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.459,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 93.74,
+   "end": 99.36,
+   "text": "I chose the edge",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.459,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 100.96,
+   "end": 118.38,
+   "text": "I broke the mirror, shattered glass But still your grace, it caused my name",
+   "avg_logprob": -0.398,
+   "no_speech_prob": 0.512,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 118.38,
+   "end": 129.94,
+   "text": "Oh mercy, mercy heal my soul Restore the broken, make me whole",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.468,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 134.38,
+   "end": 143.48,
+   "text": "Wash me clean, make me new Erase where I've been",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.468,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 143.48,
+   "end": 149.14,
+   "text": "Take this heart of stone, let your love be seen",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.405,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 149.14,
+   "end": 151.16,
+   "text": "Wash me clean",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.405,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 151.16,
+   "end": 153.26,
+   "text": "Oh Lord",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.405,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 153.26,
+   "end": 156.62,
+   "text": "Wash me clean",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.405,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 156.62,
+   "end": 158.7,
+   "text": "Oh Lord",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.405,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 158.7,
+   "end": 165.28,
+   "text": "Wash me clean",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.405,
+   "track_id": "1UItx9upywQ#12"
+  },
+  {
+   "start": 175.04,
+   "end": 187.64,
+   "text": "Mercy, mercy, mercy, mercy",
+   "avg_logprob": -0.92,
+   "no_speech_prob": 0.592,
+   "track_id": "1UItx9upywQ#12"
+  }
+ ]
+}

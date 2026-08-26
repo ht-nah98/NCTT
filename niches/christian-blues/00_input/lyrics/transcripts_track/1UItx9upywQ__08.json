@@ -1,0 +1,166 @@
+{
+ "track_id": "1UItx9upywQ#08",
+ "track_key": "1UItx9upywQ__08",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Have Mercy on Me\" - Psalm 51",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 148.0,
+ "voiced_sec": 76.9,
+ "voice_ratio": 0.52,
+ "n_words": 118,
+ "words_per_min": 47.8,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 37.3,
+ "rtf": 0.252,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.96,
+   "text": "I've been crawling through the dust tonight",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.291,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 8.16,
+   "end": 13.2,
+   "text": "Shadows whisper my wrongs in the pale moonlight",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.291,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 14.58,
+   "end": 20.02,
+   "text": "Oh Lord, I've been a broken man",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.291,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 22.68,
+   "end": 28.9,
+   "text": "The river don't cleanse, the fire won't burn",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.562,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 30.02,
+   "end": 34.88,
+   "text": "This heart needs a holy turn",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.562,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 38.3,
+   "end": 45.24,
+   "text": "Lord have mercy on me, Lord have mercy on me",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.562,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 45.24,
+   "end": 48.8,
+   "text": "I'm down on my knees",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.25,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 51.34,
+   "end": 53.98,
+   "text": "Lord, emergency on me",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.25,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 63.24,
+   "end": 67.08,
+   "text": "My hands are stained with the dirt I made",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.25,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 69.7,
+   "end": 73.66,
+   "text": "My soul's a house where the light won't stay",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.527,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 75.84,
+   "end": 80.34,
+   "text": "Oh Lord, I've been a wandering son",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.527,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 83.86,
+   "end": 86.24,
+   "text": "The winds have my name",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.527,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 87.3,
+   "end": 89.64,
+   "text": "The earth shakes my shame",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.527,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 89.64,
+   "end": 96.78,
+   "text": "I'm begging for grace in the pouring rain",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 98.0,
+   "end": 101.32,
+   "text": "Lord have mercy on me",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 101.32,
+   "end": 104.98,
+   "text": "Lord have mercy on me",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 104.98,
+   "end": 107.24,
+   "text": "I'm down on my knees",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#08"
+  },
+  {
+   "start": 110.6,
+   "end": 113.48,
+   "text": "Lord have mercy on me",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#08"
+  }
+ ]
+}

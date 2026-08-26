@@ -1,0 +1,398 @@
+{
+ "track_id": "eD2IMkcreEI#07",
+ "track_key": "eD2IMkcreEI__07",
+ "video_id": "eD2IMkcreEI",
+ "title": "Amazing Grace",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 274.0,
+ "voiced_sec": 189.3,
+ "voice_ratio": 0.691,
+ "n_words": 237,
+ "words_per_min": 51.9,
+ "is_instrumental": false,
+ "n_segments": 47,
+ "n_segments_voiced": 46,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.0,
+ "rtf": 0.04,
+ "segments": [
+  {
+   "start": 30.54,
+   "end": 38.36,
+   "text": "But now I'm found Hallelujah",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.787,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 40.48,
+   "end": 46.2,
+   "text": "I walk through fire, I walk through rain",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.787,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 46.2,
+   "end": 51.42,
+   "text": "Carried my guilt, carried my shame",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.787,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 51.42,
+   "end": 56.32,
+   "text": "But you reach down through all my pain",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.787,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 56.32,
+   "end": 61.18,
+   "text": "And whisper love through my broken name",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.697,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 64.98,
+   "end": 68.62,
+   "text": "Lord, I feel You now",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.697,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 72.32,
+   "end": 76.04,
+   "text": "You never turn Your face from me",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.697,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 77.22,
+   "end": 80.62,
+   "text": "Even when I couldn't see",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.697,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 82.32,
+   "end": 84.02,
+   "text": "You held me close",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.697,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 84.02,
+   "end": 90.94,
+   "text": "You made me whole and poured your healing on my soul",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 90.94,
+   "end": 95.02,
+   "text": "Oh, yes you did",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 95.56,
+   "end": 100.6,
+   "text": "Amazing grace, so rich, so free",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 100.6,
+   "end": 105.02,
+   "text": "Don't you gave your life to rescue me",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 105.58,
+   "end": 110.02,
+   "text": "Oh, no greater love I've ever known",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.756,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 110.54,
+   "end": 113.1,
+   "text": "I'm now, I'm forever yours",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.539,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 113.1,
+   "end": 115.14,
+   "text": "I'm not alone",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.539,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 116.04,
+   "end": 121.12,
+   "text": "Oh, oh",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.539,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 121.12,
+   "end": 122.82,
+   "text": "Amazing",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.539,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 126.04,
+   "end": 130.96,
+   "text": "You saw the beauty beneath my scars",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.539,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 131.54,
+   "end": 135.48,
+   "text": "Lid up the night with holy stars",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.539,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 135.48,
+   "end": 146.1,
+   "text": "You turned my silence into a song Where I belong is where you are",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.793,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 146.1,
+   "end": 153.48,
+   "text": "Hey, I belong to you",
+   "avg_logprob": -0.397,
+   "no_speech_prob": 0.793,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 156.54,
+   "end": 165.92,
+   "text": "Praise that lifts me higher Love that sets me free",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.715,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 165.92,
+   "end": 175.08,
+   "text": "Mercy like a river Flowing over me",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.715,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 175.08,
+   "end": 181.94,
+   "text": "I'll never be the same No never again",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.715,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 181.94,
+   "end": 183.86,
+   "text": "Praise began",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 183.86,
+   "end": 192.68,
+   "text": "Oh, my heart had been nowhere",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 197.7,
+   "end": 199.52,
+   "text": "Turned up",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 199.52,
+   "end": 202.28,
+   "text": "Amazing grace",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 202.28,
+   "end": 205.18,
+   "text": "How sweet the sound",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 205.18,
+   "end": 207.38,
+   "text": "Come love came down",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 207.38,
+   "end": 209.98,
+   "text": "And turned me round",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.53,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 209.98,
+   "end": 212.32,
+   "text": "How I once was blind",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 212.32,
+   "end": 214.84,
+   "text": "But now I see",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 214.84,
+   "end": 217.26,
+   "text": "You bled and died",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 217.26,
+   "end": 220.46,
+   "text": "To set me free",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 220.46,
+   "end": 221.18,
+   "text": "Oh",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 225.84,
+   "end": 227.08,
+   "text": "Amazing",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 228.3,
+   "end": 229.82,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 230.46,
+   "end": 232.26,
+   "text": "Amazing praise",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 233.34,
+   "end": 235.04,
+   "text": "I lift my hands",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 235.04,
+   "end": 237.3,
+   "text": "I give you praise",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.639,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 237.3,
+   "end": 242.26,
+   "text": "I give you praise, amazing praise",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 242.8,
+   "end": 247.0,
+   "text": "Thank you, love, for amazing praise",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 247.8,
+   "end": 252.8,
+   "text": "You saved me, amazing me",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 254.4,
+   "end": 257.3,
+   "text": "Oh, yes, you did",
+   "avg_logprob": -0.505,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#07"
+  },
+  {
+   "start": 270.86,
+   "end": 272.26,
+   "text": "you",
+   "avg_logprob": -0.977,
+   "no_speech_prob": 0.862,
+   "track_id": "eD2IMkcreEI#07"
+  }
+ ]
+}

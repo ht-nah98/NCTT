@@ -1,0 +1,334 @@
+{
+ "track_id": "rBwZv_dQf8A#04",
+ "track_key": "rBwZv_dQf8A__04",
+ "video_id": "rBwZv_dQf8A",
+ "title": "The Virtuous Woman (Proverbs 31)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 222.0,
+ "voiced_sec": 109.7,
+ "voice_ratio": 0.494,
+ "n_words": 266,
+ "words_per_min": 71.9,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 27,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 25.2,
+ "rtf": 0.114,
+ "segments": [
+  {
+   "start": 13.84,
+   "end": 17.52,
+   "text": "Who can find a virtuous woman?",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.634,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 20.0,
+   "end": 22.94,
+   "text": "Her price is more than fine score.",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.634,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 24.76,
+   "end": 33.56,
+   "text": "Her husband's heart can rest secure Her love is stronger, hands are pure",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.661,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 36.38,
+   "end": 44.98,
+   "text": "She rises early, lights the flame Her house is blessed in Jesus' name",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.661,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 46.32,
+   "end": 50.24,
+   "text": "She gives her all her lamp, don't die",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.715,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 51.74,
+   "end": 55.48,
+   "text": "Her strength is clothed with dignities, cry",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.715,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 57.22,
+   "end": 60.72,
+   "text": "She's clothed in strength and dressed in gray",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.715,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 63.18,
+   "end": 65.98,
+   "text": "Wisdom shines upon her face",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.715,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 67.92,
+   "end": 71.66,
+   "text": "Her children rise and call her blessed",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.715,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 71.66,
+   "end": 76.5,
+   "text": "The virtuous woman she walks in red",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.834,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 78.7,
+   "end": 82.8,
+   "text": "She opens her hands to the poor in need",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.834,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 84.02,
+   "end": 87.88,
+   "text": "She soars in love and reaps good seed",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.834,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 89.54,
+   "end": 93.04,
+   "text": "No fear of winter, no dread of night",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.834,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 93.66,
+   "end": 99.0,
+   "text": "Her heart is steady, her eyes hold light",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.834,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 100.24,
+   "end": 104.56,
+   "text": "She speaks with kindness, her words bring peace",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.718,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 104.56,
+   "end": 109.58,
+   "text": "Her face, her crown that don't decrease",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.718,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 111.6,
+   "end": 114.7,
+   "text": "Charmed as sieves and beauty fades",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.718,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 116.22,
+   "end": 120.52,
+   "text": "But she fears the Lord and that's her praise",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.718,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 121.96,
+   "end": 125.58,
+   "text": "She's clothed in strength and dressed in gray",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.718,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 125.58,
+   "end": 128.56,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.865,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 128.58,
+   "end": 130.88,
+   "text": "Wisdom shines upon her face.",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.865,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 131.68,
+   "end": 133.32,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh.",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.865,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 133.32,
+   "end": 136.38,
+   "text": "Her children rise and call her blessing.",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.865,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 137.3,
+   "end": 141.2,
+   "text": "The virtuous woman, she walks in rest.",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.865,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 143.94,
+   "end": 146.88,
+   "text": "Many daughters do noble things.",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.865,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 149.52,
+   "end": 152.6,
+   "text": "But she surpasses them all she sings.",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.865,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 154.16,
+   "end": 158.0,
+   "text": "Her words declare what words can't say",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.897,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 159.8,
+   "end": 164.6,
+   "text": "Give her honor, let praise lead the way",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.897,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 164.6,
+   "end": 168.62,
+   "text": "She's clothed in strength and dressed in grace",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.897,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 170.98,
+   "end": 174.14,
+   "text": "Wisdom shines upon her face",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.897,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 175.7,
+   "end": 179.56,
+   "text": "Her children rise and call her blessed",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.897,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 179.56,
+   "end": 185.5,
+   "text": "The virtuous woman, her soul finds red",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.768,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 186.56,
+   "end": 191.48,
+   "text": "Her lamp burns bright, her love confessed",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.768,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 192.56,
+   "end": 199.06,
+   "text": "The virtuous woman, she is heaven's best",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.768,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 199.06,
+   "end": 200.34,
+   "text": "Thank you",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.659,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 200.34,
+   "end": 203.06,
+   "text": "Thank you",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.659,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 204.44,
+   "end": 204.9,
+   "text": "Thank you",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.659,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 204.9,
+   "end": 207.14,
+   "text": "Thank you",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.659,
+   "track_id": "rBwZv_dQf8A#04"
+  },
+  {
+   "start": 207.14,
+   "end": 209.06,
+   "text": "Thank you",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.659,
+   "track_id": "rBwZv_dQf8A#04"
+  }
+ ]
+}

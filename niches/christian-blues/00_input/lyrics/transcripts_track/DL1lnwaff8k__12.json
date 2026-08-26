@@ -1,0 +1,174 @@
+{
+ "track_id": "DL1lnwaff8k#12",
+ "track_key": "DL1lnwaff8k__12",
+ "video_id": "DL1lnwaff8k",
+ "title": "11. Ecclesiastes 11 – Cast Thy Bread",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 247.0,
+ "voiced_sec": 143.4,
+ "voice_ratio": 0.581,
+ "n_words": 200,
+ "words_per_min": 48.6,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.8,
+ "rtf": 0.052,
+ "segments": [
+  {
+   "start": 2.46,
+   "end": 3.54,
+   "text": "Music",
+   "avg_logprob": -0.515,
+   "no_speech_prob": 0.466,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 11.52,
+   "end": 16.5,
+   "text": "Cast out bread upon the waters wide",
+   "avg_logprob": -0.515,
+   "no_speech_prob": 0.466,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 16.5,
+   "end": 22.26,
+   "text": "For you shall find it by and by",
+   "avg_logprob": -0.515,
+   "no_speech_prob": 0.466,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 22.26,
+   "end": 33.38,
+   "text": "Give to seven, give to eight You don't know what's behind the gate",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.688,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 34.68,
+   "end": 45.42,
+   "text": "If the clouds before rain will fall The tree lies still where it did fall",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.688,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 45.42,
+   "end": 56.28,
+   "text": "He that watches when one's soul And he who waits too long won't grow",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.539,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 58.42,
+   "end": 68.54,
+   "text": "In the morning so they see In the evening don't withhold your deed",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.539,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 68.54,
+   "end": 74.12,
+   "text": "You know not which shall take the room",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.54,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 75.18,
+   "end": 79.28,
+   "text": "Or if both may rise and bear good fruit",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.54,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 103.16,
+   "end": 113.96,
+   "text": "Truly life is sweet to see And good for eyes to feel it free",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.517,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 115.98,
+   "end": 125.18,
+   "text": "But let the young remember this Dark days will come they won't miss",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.517,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 127.14,
+   "end": 137.04,
+   "text": "Rejoice, O youth, in your prime Let your heart be glad in time",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.457,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 138.86,
+   "end": 148.24,
+   "text": "But walk with care, for judgment stands And God will weigh both heart and hands",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.457,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 149.18,
+   "end": 159.52,
+   "text": "In the morning, so they see In the evening, don't withhold your deed",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.602,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 159.52,
+   "end": 170.32,
+   "text": "You know not which shall take the root Or if both may rise and bear good fruit",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.602,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 194.02,
+   "end": 199.38,
+   "text": "Child of breath, remember the end",
+   "avg_logprob": -0.835,
+   "no_speech_prob": 0.346,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 200.52,
+   "end": 204.42,
+   "text": "Before the days that won't mend",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.432,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 205.64,
+   "end": 210.74,
+   "text": "Cast thy bread and walk with grace",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.432,
+   "track_id": "DL1lnwaff8k#12"
+  },
+  {
+   "start": 211.38,
+   "end": 215.68,
+   "text": "Till dust returns and you see his face",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.432,
+   "track_id": "DL1lnwaff8k#12"
+  }
+ ]
+}

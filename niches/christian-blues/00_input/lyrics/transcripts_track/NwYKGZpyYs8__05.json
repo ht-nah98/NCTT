@@ -1,0 +1,302 @@
+{
+ "track_id": "NwYKGZpyYs8#05",
+ "track_key": "NwYKGZpyYs8__05",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Rise And Walk (John 5)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 215.0,
+ "voiced_sec": 143.8,
+ "voice_ratio": 0.669,
+ "n_words": 315,
+ "words_per_min": 87.9,
+ "is_instrumental": false,
+ "n_segments": 35,
+ "n_segments_voiced": 35,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.0,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 14.56,
+   "end": 22.7,
+   "text": "by the sheep get pulled they lay sick and waiting night and day blind and broken we",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.748,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 22.7,
+   "end": 26.4,
+   "text": "We can still hope in water moves their will",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 26.4,
+   "end": 32.36,
+   "text": "A man was there for 38 years of pain beside that gate",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 32.36,
+   "end": 35.48,
+   "text": "Jesus asked do you want to be healed?",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 35.68,
+   "end": 38.46,
+   "text": "Do you want the Son of Man revealed?",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 39.76,
+   "end": 42.78,
+   "text": "Rise and walk, pick up your bed",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 42.78,
+   "end": 45.78,
+   "text": "Do not fear what others say",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 45.78,
+   "end": 48.76,
+   "text": "Healing comes by Jesus' call",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 48.76,
+   "end": 51.68,
+   "text": "Life is spoken, rise and walk",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.598,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 51.68,
+   "end": 54.6,
+   "text": "Rise and walk, pick up your bed",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 54.6,
+   "end": 57.54,
+   "text": "Do not fear what others said",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 57.54,
+   "end": 60.48,
+   "text": "The sun speaks life, the chains all fall",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 60.48,
+   "end": 63.52,
+   "text": "Hear His voice and rise and walk",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 64.62,
+   "end": 67.94,
+   "text": "The man said, sir, I have no one",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 67.94,
+   "end": 70.94,
+   "text": "When waters move, I am undone",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 70.94,
+   "end": 73.54,
+   "text": "Someone else steps in before",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 73.54,
+   "end": 76.62,
+   "text": "And I am left beside the floor",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 76.62,
+   "end": 79.68,
+   "text": "Jesus said, rise, take your man",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.482,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 79.68,
+   "end": 85.52,
+   "text": "Walk away just like that at once His strength returned again",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 85.52,
+   "end": 89.08,
+   "text": "He stood healed before all men",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 101.68,
+   "end": 104.68,
+   "text": "That day was Sabbath day accused",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 104.68,
+   "end": 107.72,
+   "text": "You are healed but law is brewed",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.519,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 107.72,
+   "end": 113.4,
+   "text": "2 Who told you, carry what you bore, who gave you strength to walk once more.",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.443,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 113.94,
+   "end": 119.34,
+   "text": "3 Later Jesus found him near, said, send no more, your heart be clear.",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.443,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 119.6,
+   "end": 125.48,
+   "text": "4 They chased the sun with anger blind, for working on the Sabbath time.",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.443,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 126.62,
+   "end": 132.66,
+   "text": "5 Rise and walk, pick up your bed, do not fear what others said.",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.443,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 132.66,
+   "end": 138.42,
+   "text": "Healing comes by Jesus' call, life is spoken, rise and walk",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.493,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 138.42,
+   "end": 144.42,
+   "text": "Rise and walk, pick up your bed, do not fear what others said",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.493,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 144.42,
+   "end": 150.42,
+   "text": "The sun speaks life, chains all fall, hear His voice and rise and walk",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.493,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 174.48,
+   "end": 180.9,
+   "text": "My Father works and so do I The Son gives life the dead reply",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 181.54,
+   "end": 187.46,
+   "text": "The Father judges none at all The Son will hear when people call",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 187.46,
+   "end": 190.58,
+   "text": "All will rise both good and wrong",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.166,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 190.58,
+   "end": 193.88,
+   "text": "At His voice both weak and strong",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.166,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 193.88,
+   "end": 196.7,
+   "text": "Scripture speak and testify",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.166,
+   "track_id": "NwYKGZpyYs8#05"
+  },
+  {
+   "start": 198.46,
+   "end": 202.0,
+   "text": "That the Christ is standing by",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.166,
+   "track_id": "NwYKGZpyYs8#05"
+  }
+ ]
+}

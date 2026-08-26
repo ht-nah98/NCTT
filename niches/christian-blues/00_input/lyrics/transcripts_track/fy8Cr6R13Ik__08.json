@@ -1,0 +1,190 @@
+{
+ "track_id": "fy8Cr6R13Ik#08",
+ "track_key": "fy8Cr6R13Ik__08",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "8. Isaiah 40 — Wings for the Weary",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 241.0,
+ "voiced_sec": 146.8,
+ "voice_ratio": 0.609,
+ "n_words": 236,
+ "words_per_min": 58.8,
+ "is_instrumental": false,
+ "n_segments": 21,
+ "n_segments_voiced": 21,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 36.4,
+ "rtf": 0.151,
+ "segments": [
+  {
+   "start": 24.04,
+   "end": 29.98,
+   "text": "Behold my servant, whom I love,",
+   "avg_logprob": -0.848,
+   "no_speech_prob": 0.472,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 36.08,
+   "end": 43.0,
+   "text": "I have put my spirit upon him, he shall bring forth just as sure,",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.684,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 43.54,
+   "end": 48.98,
+   "text": "Not with shouts nor with bruising, but with quiet power pure.",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.684,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 50.74,
+   "end": 59.82,
+   "text": "A bruised reed he shall not break, nor quench the smoking flax,",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.684,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 59.82,
+   "end": 61.94,
+   "text": "Nor let the humble shake",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.557,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 62.52,
+   "end": 67.46,
+   "text": "He shall not fail, nor be discouraged in the fight",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.557,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 68.12,
+   "end": 73.92,
+   "text": "Till he brings forth judgment and sets the wrong things right",
+   "avg_logprob": -0.485,
+   "no_speech_prob": 0.557,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 87.26,
+   "end": 93.44,
+   "text": "I the Lord have called thee in righteousness and light",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 93.44,
+   "end": 99.04,
+   "text": "Will hold thy hand and keep thee through the darkest night",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.644,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 99.04,
+   "end": 112.52,
+   "text": "A covenant to the people, a light unto the world To open blinded eyes and free the souls unfurled",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.671,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 112.52,
+   "end": 124.04,
+   "text": "A bruised reed, he shall not break Nor quench the smoking flax nor let the humble shake",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.671,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 124.44,
+   "end": 136.44,
+   "text": "He shall not fail nor be discouraged in the fight, Till he brings forth judgment and sets the wrong things right.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.699,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 137.14,
+   "end": 148.44,
+   "text": "To bring out prisoners from the dark, And lose the chains of iron that left the deepest mark,",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.699,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 148.82,
+   "end": 154.72,
+   "text": "He walks in silence yet kings bow down",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 154.72,
+   "end": 160.58,
+   "text": "The gentle flame wears heaven's crown",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 160.58,
+   "end": 166.86,
+   "text": "A bruise reed he shall not break",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 168.04,
+   "end": 172.82,
+   "text": "Nor quench the smoking flax nor let the humble shake",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 173.32,
+   "end": 179.12,
+   "text": "He shall not fail nor be discouraged in the fight",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 179.12,
+   "end": 185.36,
+   "text": "Till he brings forth judgment and sets the wrong things right",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 186.32,
+   "end": 192.9,
+   "text": "So I follow in his footsteps where the world grows dim",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08"
+  },
+  {
+   "start": 192.9,
+   "end": 197.94,
+   "text": "For the light of justice walks with him",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.547,
+   "track_id": "fy8Cr6R13Ik#08"
+  }
+ ]
+}

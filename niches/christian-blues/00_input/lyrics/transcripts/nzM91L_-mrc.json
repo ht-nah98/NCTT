@@ -1,0 +1,57 @@
+{
+ "video_id": "nzM91L_-mrc",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 38.7,
+ "voiced_sec": 26.7,
+ "voice_ratio": 0.69,
+ "is_instrumental": false,
+ "n_segments": 5,
+ "n_segments_voiced": 3,
+ "runtime_sec": 1.9,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.5,
+   "text": "Oh, the blood still covers me, flowing down from Calvary",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.128,
+   "track_id": "nzM91L_-mrc#01"
+  },
+  {
+   "start": 8.5,
+   "end": 17.94,
+   "text": "Mercy stronger than my sin, grace that keeps me free within",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.128,
+   "track_id": "nzM91L_-mrc#01"
+  },
+  {
+   "start": 19.0,
+   "end": 27.74,
+   "text": "Through the trials, through the years, through the pain, and through the tears",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.128,
+   "track_id": "nzM91L_-mrc#01"
+  },
+  {
+   "start": 27.74,
+   "end": 32.5,
+   "text": "There's a truth that sets me free.",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.645,
+   "track_id": "nzM91L_-mrc#01"
+  },
+  {
+   "start": 34.06,
+   "end": 37.14,
+   "text": "The blood still covers me.",
+   "avg_logprob": -0.363,
+   "no_speech_prob": 0.645,
+   "track_id": "nzM91L_-mrc#01"
+  }
+ ],
+ "n_tracks": 1,
+ "n_seg_mapped": 5
+}

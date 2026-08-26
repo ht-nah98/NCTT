@@ -1,0 +1,382 @@
+{
+ "track_id": "2y2CcCzAtyM#10",
+ "track_key": "2y2CcCzAtyM__10",
+ "video_id": "2y2CcCzAtyM",
+ "title": "10 — Benediction (The Lord Bless Thee)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 341.0,
+ "voiced_sec": 255.4,
+ "voice_ratio": 0.749,
+ "n_words": 356,
+ "words_per_min": 62.6,
+ "is_instrumental": false,
+ "n_segments": 45,
+ "n_segments_voiced": 45,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 16.6,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 2.1,
+   "end": 11.78,
+   "text": "The Lord make His face shine upon thee And be gracious unto thee",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.198,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 15.68,
+   "end": 22.56,
+   "text": "The Lord lift up His countenance upon thee And give thee peace",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.198,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 24.06,
+   "end": 29.9,
+   "text": "Number 6, 24 through 26",
+   "avg_logprob": -0.647,
+   "no_speech_prob": 0.257,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 49.48,
+   "end": 56.22,
+   "text": "Now as this time of worship comes to close",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.51,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 57.84,
+   "end": 63.86,
+   "text": "We rise up changed and ready for the road",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.536,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 65.38,
+   "end": 71.24,
+   "text": "The Lord who met us here walks with us still",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.536,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 71.24,
+   "end": 79.08,
+   "text": "His blessing is our portion and our shield",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.536,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 79.08,
+   "end": 86.82,
+   "text": "The Lord bless thee and keep thee",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.639,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 88.08,
+   "end": 94.44,
+   "text": "The Lord make his face to shine on thee",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.639,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 95.08,
+   "end": 101.92,
+   "text": "The Lord be gracious, oh so gracious",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.639,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 101.92,
+   "end": 109.1,
+   "text": "And give thee his peace, his perfect peace",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.487,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 110.5,
+   "end": 118.38,
+   "text": "Go in the blessing of the Lord, go in the keeping of his hand",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.487,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 118.38,
+   "end": 127.6,
+   "text": "The Lord bless thee and keep thee wherever thou dost stand",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.487,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 130.6,
+   "end": 136.88,
+   "text": "Take with you every mercy that was poured",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.465,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 137.6,
+   "end": 144.84,
+   "text": "Take with you every promise of His Word",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.465,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 145.6,
+   "end": 152.58,
+   "text": "For you are not the same as when you came",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.465,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 152.58,
+   "end": 160.36,
+   "text": "Go out in victory and praise His name",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.589,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 160.36,
+   "end": 167.68,
+   "text": "The Lord bless thee and keep thee",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.589,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 168.58,
+   "end": 174.92,
+   "text": "The Lord make His face to shine on thee",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.589,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 174.92,
+   "end": 185.98,
+   "text": "The Lord be gracious, oh so gracious And give thee his peace",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.59,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 187.92,
+   "end": 195.02,
+   "text": "His perfect peace Go, go in the blessing of the Lord",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.59,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 195.02,
+   "end": 203.08,
+   "text": "Go in the keeping of his hand The Lord bless thee and keep thee",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.59,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 203.98,
+   "end": 206.78,
+   "text": "Wherever thou dost stand",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.226,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 211.66,
+   "end": 214.68,
+   "text": "You have spent this time in the presence of God",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.226,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 216.62,
+   "end": 219.64,
+   "text": "And you do not leave the same way you came",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.226,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 221.14,
+   "end": 222.98,
+   "text": "The Lord blesses you now",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.226,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 225.28,
+   "end": 227.14,
+   "text": "He keeps you now",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.226,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 228.62,
+   "end": 231.42,
+   "text": "His face is shining upon you",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.226,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 231.42,
+   "end": 238.52,
+   "text": "He lifts up his count and it's toward you And gives you peace",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 238.52,
+   "end": 241.08,
+   "text": "Go now, beloved",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 243.64,
+   "end": 245.3,
+   "text": "Go in peace",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 246.68,
+   "end": 251.12,
+   "text": "Go in the blessing of the Lord",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 251.12,
+   "end": 253.58,
+   "text": "He blesses me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 253.58,
+   "end": 255.26,
+   "text": "He blesses me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 255.26,
+   "end": 257.34,
+   "text": "He blesses me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 257.34,
+   "end": 258.88,
+   "text": "He keeps me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.292,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 258.88,
+   "end": 264.86,
+   "text": "He keeps thee, call in peace, call in peace",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.661,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 264.86,
+   "end": 270.88,
+   "text": "The Lord bless thee, the Lord bless thee",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.661,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 270.88,
+   "end": 274.16,
+   "text": "And keep thee, and keep thee",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.661,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 274.88,
+   "end": 279.98,
+   "text": "The Lord make his face to shine on thee",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.661,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 279.98,
+   "end": 284.46,
+   "text": "Oh, the Lord be gracious",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.661,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 284.46,
+   "end": 298.44,
+   "text": "Oh so gracious and give thee His peace His perfect peace",
+   "avg_logprob": -0.536,
+   "no_speech_prob": 0.245,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 301.32,
+   "end": 313.78,
+   "text": "The Lord bless thee, keep thee, give thee peace, give thee peace, oh man",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.583,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 332.02,
+   "end": 332.76,
+   "text": "Amen.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.026,
+   "track_id": "2y2CcCzAtyM#10"
+  },
+  {
+   "start": 338.26,
+   "end": 340.54,
+   "text": "That will keep him in perfect peace.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.026,
+   "track_id": "2y2CcCzAtyM#10"
+  }
+ ]
+}

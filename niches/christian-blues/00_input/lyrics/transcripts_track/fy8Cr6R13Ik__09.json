@@ -1,0 +1,254 @@
+{
+ "track_id": "fy8Cr6R13Ik#09",
+ "track_key": "fy8Cr6R13Ik__09",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "9. Isaiah 42 — The Gentle Flame",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 275.0,
+ "voiced_sec": 227.6,
+ "voice_ratio": 0.828,
+ "n_words": 283,
+ "words_per_min": 61.7,
+ "is_instrumental": false,
+ "n_segments": 29,
+ "n_segments_voiced": 29,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.0,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 8.22,
+   "end": 16.72,
+   "text": "Who has believed our report, and to whom is his arm revealed?",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.345,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 18.48,
+   "end": 26.72,
+   "text": "He grew up as a tender plant where no glory was conceived",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.474,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 29.7,
+   "end": 37.72,
+   "text": "No form, no comeliness we saw, no beauty to desire",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.474,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 37.72,
+   "end": 47.02,
+   "text": "Desire, despised, rejected of men, so crushed, heart on fire.",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.588,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 49.32,
+   "end": 58.04,
+   "text": "Surely he had borne our griefs and carried all our pain,",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.588,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 58.04,
+   "end": 67.1,
+   "text": "Yet we did a steam him stricken, smitten and slain",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 68.68,
+   "end": 77.44,
+   "text": "Wounded for our transgressions, bruised for every crime",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.468,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 77.44,
+   "end": 86.38,
+   "text": "The chastisement of our peace was upon Him all the time",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.554,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 89.44,
+   "end": 97.12,
+   "text": "Oh, we like sheep have gone astray Turned each to His own way",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.554,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 98.72,
+   "end": 107.12,
+   "text": "But the Lord laid on him the guilt we chose to stay",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.62,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 110.82,
+   "end": 118.12,
+   "text": "Oppressed and afflicted yet he opened not his mouth",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.62,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 118.72,
+   "end": 127.38,
+   "text": "led like a lamb to the slaughter, salvation bleeding out",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.587,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 129.1,
+   "end": 138.72,
+   "text": "Surely He had borne our griefs and carried all our pain",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.587,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 138.72,
+   "end": 147.68,
+   "text": "Yet we did esteem Him stricken, smitten and slain.",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.332,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 148.92,
+   "end": 157.7,
+   "text": "Wounded for our transgression, bruised for every crime.",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.332,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 157.7,
+   "end": 166.64,
+   "text": "The chastisement of our peace was upon him all the time",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 168.08,
+   "end": 176.88,
+   "text": "He made his grave with a wicked, yet in death he stood no blame",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 177.7,
+   "end": 185.58,
+   "text": "With the rich in his burial, though he never knew shame",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.504,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 185.58,
+   "end": 193.58,
+   "text": "It pleased the Lord to bruise him to make his soul an offering still",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 194.26,
+   "end": 199.0,
+   "text": "And by his stripes we are healed",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 199.0,
+   "end": 203.48,
+   "text": "By his pain we find his will",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 205.1,
+   "end": 209.7,
+   "text": "Surely he had born our grief",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 209.7,
+   "end": 214.16,
+   "text": "And carried all our pain",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.668,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 214.16,
+   "end": 223.5,
+   "text": "Yet we did esteem Him stricken, smitten and slain",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.467,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 224.94,
+   "end": 233.78,
+   "text": "Wounded for our transgressions, bruised for every crime",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.467,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 233.78,
+   "end": 242.5,
+   "text": "The chastisement of our peace was upon him all the time",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.47,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 244.34,
+   "end": 253.46,
+   "text": "He poured out his soul unto death, numbered with the worst",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.47,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 253.46,
+   "end": 262.84,
+   "text": "And bore the sin of many, now I sing the blues reversed.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.119,
+   "track_id": "fy8Cr6R13Ik#09"
+  },
+  {
+   "start": 268.34,
+   "end": 269.74,
+   "text": "Oh.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.119,
+   "track_id": "fy8Cr6R13Ik#09"
+  }
+ ]
+}

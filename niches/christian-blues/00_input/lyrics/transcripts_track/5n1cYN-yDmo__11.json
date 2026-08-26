@@ -1,0 +1,494 @@
+{
+ "track_id": "5n1cYN-yDmo#11",
+ "track_key": "5n1cYN-yDmo__11",
+ "video_id": "5n1cYN-yDmo",
+ "title": "Part 2: Blessed & Highly Favoured",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 319.0,
+ "voiced_sec": 260.2,
+ "voice_ratio": 0.816,
+ "n_words": 434,
+ "words_per_min": 81.6,
+ "is_instrumental": false,
+ "n_segments": 59,
+ "n_segments_voiced": 59,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 50.5,
+ "rtf": 0.158,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Hmm, yeah",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": "Hmm, oh yes",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 15.0,
+   "end": 16.0,
+   "text": "We thank You Lord",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 18.0,
+   "end": 19.46,
+   "text": "We're blessed",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 21.0,
+   "end": 22.86,
+   "text": "In highly favored",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 25.2,
+   "end": 29.2,
+   "text": "Your mercy brought us here",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 30.0,
+   "end": 38.96,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 38.96,
+   "end": 43.5,
+   "text": "I woke up this morning with breath in my chest",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 44.14,
+   "end": 47.74,
+   "text": "and I knew right away, Lord, I'm more than blessed",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 47.74,
+   "end": 51.96,
+   "text": "You carried me through storms I thought I'd never survive",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 51.96,
+   "end": 56.24,
+   "text": "with your hand held me steady kept my spirit alive",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 56.24,
+   "end": 60.88,
+   "text": "When the world tried to break me, lifting me higher",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 60.88,
+   "end": 65.22,
+   "text": "You filled me with purpose, set my soul on fire",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 65.22,
+   "end": 69.46,
+   "text": "And every battle I've hit, you already won",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 69.46,
+   "end": 73.38,
+   "text": "Your grace is the reason I overcome",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 74.24,
+   "end": 77.8,
+   "text": "Oh, I've seen your power",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 77.8,
+   "end": 82.14,
+   "text": "I've felt your love every hour",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 82.14,
+   "end": 86.26,
+   "text": "And I stand here today because you made",
+   "avg_logprob": -0.577,
+   "no_speech_prob": 0.792,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 94.78,
+   "end": 105.5,
+   "text": "Covered by the blood of my savior every mountain move every chain undone Jesus",
+   "avg_logprob": -0.577,
+   "no_speech_prob": 0.792,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 112.14,
+   "end": 117.24,
+   "text": "Hail together by love and never break us",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 117.24,
+   "end": 121.14,
+   "text": "From the valley low to the highest praise",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 121.66,
+   "end": 125.32,
+   "text": "To Lord I'm covered by Your grace",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 130.7,
+   "end": 134.76,
+   "text": "You opened doors that were locked in my face",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 134.76,
+   "end": 138.96,
+   "text": "And You healed every wound with Your gentle embrace",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 138.96,
+   "end": 143.24,
+   "text": "Even when I doubted you were faithful and true",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 143.24,
+   "end": 147.6,
+   "text": "You kept whispering my child, I'm not done with you",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 147.6,
+   "end": 151.94,
+   "text": "You turned my morning into songs of joy",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 151.94,
+   "end": 156.62,
+   "text": "Restored what was broken, gave me peace to enjoy",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 156.62,
+   "end": 160.96,
+   "text": "Every blessing I see is a sign from above",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 160.96,
+   "end": 165.14,
+   "text": "I'm walking in your goodness and showered in love",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 165.14,
+   "end": 173.08,
+   "text": "So I'll sing forever of how you brought me together",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 174.14,
+   "end": 176.12,
+   "text": "My heart belongs to you",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 176.12,
+   "end": 178.5,
+   "text": "You're the God who pulls me through",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 179.92,
+   "end": 182.92,
+   "text": "You're the God who pulls me through",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 182.92,
+   "end": 185.92,
+   "text": "I'm the Holy Spirit, I lead faith",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 185.92,
+   "end": 190.82,
+   "text": "Covered by the blood of my Savior",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 190.82,
+   "end": 195.7,
+   "text": "Every mountain move, every chain undone",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 195.7,
+   "end": 198.66,
+   "text": "Jesus, You're the Holy One",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 198.66,
+   "end": 203.9,
+   "text": "I'm blessed, highly favored",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 203.9,
+   "end": 207.82,
+   "text": "Held together by Your love and never wavered",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 208.6,
+   "end": 212.9,
+   "text": "From the valley low to the highest place",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 212.9,
+   "end": 217.14,
+   "text": "Lord, I'm covered by Your grace",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 217.14,
+   "end": 223.58,
+   "text": "I shouldn't be here, but you can be",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 223.58,
+   "end": 226.26,
+   "text": "Blessed and highly favored",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 226.26,
+   "end": 233.38,
+   "text": "I should have lost it all, but you saved me",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 233.38,
+   "end": 238.64,
+   "text": "Your mercy found me when I ran astray",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 238.64,
+   "end": 242.26,
+   "text": "Grace kept paving me away",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 242.26,
+   "end": 252.66,
+   "text": "Oh Jesus, oh Jesus, I thank you every day",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.745,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 258.16,
+   "end": 265.94,
+   "text": "I'm blessed, I'm blessed, I'm living proof that your love is greater",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.745,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 267.04,
+   "end": 271.64,
+   "text": "Every battle lost is a battle you won",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 271.64,
+   "end": 275.82,
+   "text": "You're my strength, my hope, my soul",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 275.82,
+   "end": 278.94,
+   "text": "I'm blessed, I'm blessed, yes, I lead faith",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 279.48,
+   "end": 283.74,
+   "text": "But held together by your love, never wait",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 283.74,
+   "end": 288.9,
+   "text": "I'm from sunrise to the setting day",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 288.9,
+   "end": 293.02,
+   "text": "Lord I'll forever give you praise",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 296.0,
+   "end": 302.42,
+   "text": "Hmm, I'm blessed",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 303.9,
+   "end": 306.06,
+   "text": "Blessed and highly favored",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 306.06,
+   "end": 307.76,
+   "text": "Thank you Jesus",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11"
+  },
+  {
+   "start": 307.76,
+   "end": 312.34,
+   "text": "Covered by your grace forever",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11"
+  }
+ ]
+}

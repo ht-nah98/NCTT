@@ -1,0 +1,37 @@
+{
+  "channels": {
+    "status": "OK",
+    "rows": 53,
+    "cols": 15
+  },
+  "videos": {
+    "status": "OK",
+    "rows": 7193,
+    "cols": 13
+  },
+  "video_stats": {
+    "status": "OK",
+    "rows": 7193,
+    "cols": 5
+  },
+  "comments": {
+    "status": "OK",
+    "rows": 145150,
+    "cols": 11
+  },
+  "thumbnails": {
+    "status": "OK",
+    "rows": 7193,
+    "cols": 22
+  },
+  "media_probe": {
+    "status": "OK",
+    "rows": 40,
+    "cols": 17
+  },
+  "video_master": {
+    "status": "OK",
+    "rows": 7193,
+    "cols": 22
+  }
+}

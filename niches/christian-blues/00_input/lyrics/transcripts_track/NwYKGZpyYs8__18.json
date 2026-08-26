@@ -1,0 +1,342 @@
+{
+ "track_id": "NwYKGZpyYs8#18",
+ "track_key": "NwYKGZpyYs8__18",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Not Of This World (John 18)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 211.0,
+ "voiced_sec": 138.8,
+ "voice_ratio": 0.658,
+ "n_words": 273,
+ "words_per_min": 77.6,
+ "is_instrumental": false,
+ "n_segments": 40,
+ "n_segments_voiced": 40,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 24.8,
+ "rtf": 0.117,
+ "segments": [
+  {
+   "start": 9.44,
+   "end": 17.24,
+   "text": "When Jesus had spoken these words, He went with His disciples away",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 19.08,
+   "end": 25.78,
+   "text": "Across the brook called Kidron, To a garden where they stayed",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 25.78,
+   "end": 31.64,
+   "text": "He knew the place well, he had gathered there before.",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.391,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 32.78,
+   "end": 38.36,
+   "text": "So he came with soldiers and officers with letters, weapons,",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.391,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 38.74,
+   "end": 42.46,
+   "text": "and Jesus said, who do you seek?",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.391,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 42.94,
+   "end": 45.44,
+   "text": "They said, Jesus and Lazarus.",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.391,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 46.06,
+   "end": 49.06,
+   "text": "Jesus said, I am He.",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.391,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 49.74,
+   "end": 52.06,
+   "text": "And they drew back and fell.",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.391,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 52.06,
+   "end": 55.8,
+   "text": "If you seek me, let these go",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.757,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 55.8,
+   "end": 59.34,
+   "text": "Let the word be fulfilled",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.757,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 60.12,
+   "end": 63.08,
+   "text": "Of all the ones you gave to me",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.757,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 63.08,
+   "end": 66.52,
+   "text": "Now one was lost or killed",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.757,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 66.52,
+   "end": 66.88,
+   "text": "Go.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 67.74,
+   "end": 68.3,
+   "text": "Oh.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 80.16,
+   "end": 84.02,
+   "text": "Salmon Peter drew His sword and struck the servant's ear.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 84.62,
+   "end": 87.36,
+   "text": "Mount just fell to the ground as blood and fear were near.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 87.78,
+   "end": 89.36,
+   "text": "Jesus said, put your sword away.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 89.42,
+   "end": 90.74,
+   "text": "Shall I not drink the cup?",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 91.12,
+   "end": 92.74,
+   "text": "The father has given me.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 92.92,
+   "end": 94.9,
+   "text": "I will not refuse this cup.",
+   "avg_logprob": -0.764,
+   "no_speech_prob": 0.596,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 94.9,
+   "end": 98.36,
+   "text": "Jesus said, who do you seek?",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 98.9,
+   "end": 101.42,
+   "text": "They said, Jesus of Nazareth.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 101.8,
+   "end": 105.1,
+   "text": "Jesus said, I am He.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 105.58,
+   "end": 108.02,
+   "text": "And they drew back and fell.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 109.14,
+   "end": 111.74,
+   "text": "If you seek me, let these go.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 112.62,
+   "end": 115.28,
+   "text": "Let the word be fulfilled.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 116.58,
+   "end": 118.94,
+   "text": "Of all the ones you gave to me.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 119.58,
+   "end": 122.32,
+   "text": "Not one was lost or killed.",
+   "avg_logprob": -0.409,
+   "no_speech_prob": 0.63,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 135.78,
+   "end": 142.42,
+   "text": "They found him and led him away to Anna's first in line",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.76,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 143.9,
+   "end": 149.6,
+   "text": "Father in law of Caiaphas, high priest at that time",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.76,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 149.6,
+   "end": 155.86,
+   "text": "Peter followed at a distance, another disciple too",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.655,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 156.6,
+   "end": 162.88,
+   "text": "They entered the courtyard while Peter waited through",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.655,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 167.56,
+   "end": 171.4,
+   "text": "Jesus said, who do you seek?",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.655,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 171.82,
+   "end": 174.44,
+   "text": "They said Jesus of Nazareth",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.655,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 174.44,
+   "end": 178.04,
+   "text": "Jesus said, I am He",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.755,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 178.04,
+   "end": 181.28,
+   "text": "And they drew back and fell",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.755,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 181.28,
+   "end": 184.76,
+   "text": "If you seek me, let these go",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.755,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 185.44,
+   "end": 188.26,
+   "text": "That the Word be fulfilled",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.755,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 188.26,
+   "end": 191.94,
+   "text": "Of all the ones you gave to me",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.755,
+   "track_id": "NwYKGZpyYs8#18"
+  },
+  {
+   "start": 191.94,
+   "end": 195.3,
+   "text": "No one was lost or killed",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.755,
+   "track_id": "NwYKGZpyYs8#18"
+  }
+ ]
+}

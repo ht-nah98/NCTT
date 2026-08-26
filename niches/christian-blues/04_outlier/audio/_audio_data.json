@@ -1,0 +1,467 @@
+{
+  "tempo": {
+    "bpm": {
+      "min": 51.7,
+      "median": 71.8,
+      "max": 80.8
+    },
+    "bpm_raw_before_fix": {
+      "min": 103.4,
+      "median": 143.6,
+      "max": 161.5
+    },
+    "n_corrected": 5,
+    "ghi_chú": "librosa bắt nhầm bội số 2× của tempo. Đã chia đôi sau khi đối chiếu nhịp hòa âm + mật độ onset. Xem normalize_audio.py",
+    "khuyến_nghị": "Đặt BPM trong khoảng dưới đây khi sinh nhạc"
+  },
+  "key": {
+    "mode_distribution": {
+      "major": 5
+    },
+    "tonic_list": [
+      "A#",
+      "D",
+      "G#"
+    ],
+    "key_confidence": {
+      "min": 0.74,
+      "median": 0.9,
+      "max": 0.96
+    },
+    "phát_hiện": "5/5 bản ở điệu TRƯỞNG — trái với trực giác «blues phải buồn nên dùng thứ»"
+  },
+  "harmony": {
+    "distinct_chords": {
+      "min": 9.0,
+      "median": 15.0,
+      "max": 25.0
+    },
+    "sec_per_chord": {
+      "min": 6.4,
+      "median": 7.6,
+      "max": 10.9
+    },
+    "chord_palette_pct": {
+      "min": {
+        "min": 7.6,
+        "median": 46.4,
+        "max": 72.9
+      },
+      "maj": {
+        "min": 25.1,
+        "median": 51.4,
+        "max": 91.9
+      },
+      "dim": {
+        "min": 0.5,
+        "median": 2.1,
+        "max": 2.2
+      }
+    },
+    "chord_confidence": {
+      "min": 0.67,
+      "median": 0.68,
+      "max": 0.76
+    },
+    "phát_hiện": "Bảng màu hợp âm RẤT KHÁC NHAU: thứ chiếm từ 7.6% đến 72.9%. 2/5 bản thiên về hợp âm thứ. Không có một bảng màu chuẩn — đây là chỗ để chọn phong cách."
+  },
+  "groove": {
+    "swing_pct": {
+      "min": 0.0,
+      "median": 0.0,
+      "max": 32.5
+    },
+    "n_swing": 2,
+    "n_straight": 3,
+    "syncopation": {
+      "min": 0.022,
+      "median": 0.059,
+      "max": 0.192
+    },
+    "onsets_per_sec": {
+      "min": 1.33,
+      "median": 1.6,
+      "max": 1.98
+    },
+    "pulse_feel": {
+      "straight": 3,
+      "slight swing": 2
+    },
+    "phát_hiện": "2/5 bản có swing rõ (>5%); 3/5 chơi thẳng. Cả hai đều thắng — không có công thức duy nhất."
+  },
+  "structure": {
+    "n_sections": {
+      "min": 7,
+      "median": 20.0,
+      "max": 20
+    },
+    "section_dur_sec": {
+      "min": 1.3,
+      "median": 28.0,
+      "max": 228.4
+    },
+    "energy_pct": {
+      "min": 9,
+      "median": 68.0,
+      "max": 100
+    },
+    "ghi_chú": "Đoạn được ĐÁNH SỐ, không đặt tên Verse/Chorus — tín hiệu DSP không mang thông tin đó. Đừng bịa nhãn."
+  },
+  "energy_curve": {
+    "per_track": {
+      "2y2CcCzAtyM": {
+        "shape": "tăng dần",
+        "energy_seq": [
+          45,
+          67,
+          56,
+          71,
+          98,
+          69,
+          47,
+          100,
+          62,
+          82,
+          50,
+          68,
+          88,
+          49,
+          96,
+          87,
+          62,
+          56,
+          75,
+          94
+        ],
+        "range": [
+          45,
+          100
+        ]
+      },
+      "5VdjXaFrhDg": {
+        "shape": "lên đỉnh giữa",
+        "energy_seq": [
+          42,
+          61,
+          90,
+          99,
+          100,
+          71,
+          99,
+          47,
+          55,
+          69
+        ],
+        "range": [
+          42,
+          100
+        ]
+      },
+      "6rz6D787n0U": {
+        "shape": "giảm dần",
+        "energy_seq": [
+          78,
+          95,
+          47,
+          100,
+          9,
+          23,
+          80,
+          98,
+          61,
+          92,
+          73,
+          92,
+          13,
+          71,
+          11,
+          75,
+          84,
+          29,
+          83,
+          59
+        ],
+        "range": [
+          9,
+          100
+        ]
+      },
+      "_ycC4y-4sYo": {
+        "shape": "giảm dần",
+        "energy_seq": [
+          39,
+          33,
+          53,
+          72,
+          44,
+          80,
+          54,
+          86,
+          83,
+          100,
+          30,
+          51,
+          52,
+          39,
+          35,
+          35,
+          48,
+          35,
+          20,
+          35
+        ],
+        "range": [
+          20,
+          100
+        ]
+      },
+      "eSAaF5VHsmg": {
+        "shape": "lên đỉnh giữa",
+        "energy_seq": [
+          32,
+          79,
+          74,
+          78,
+          100,
+          83,
+          31
+        ],
+        "range": [
+          31,
+          100
+        ]
+      }
+    },
+    "shape_distribution": {
+      "tăng dần": 1,
+      "lên đỉnh giữa": 2,
+      "giảm dần": 2
+    },
+    "phát_hiện": "3 kiểu đường cong khác nhau trên 5 bản — KHÔNG có dạng chuẩn. Đừng ép nhạc theo một khuôn dựng sẵn."
+  },
+  "by_model": [
+    {
+      "model": "dài (≥15p)",
+      "n": 3,
+      "bpm_median": 76.0,
+      "sec_per_chord_median": 8.4,
+      "distinct_chords_median": 24.0,
+      "n_sections_median": 20.0,
+      "view_median": 1343374
+    },
+    {
+      "model": "ngắn (<15p)",
+      "n": 2,
+      "bpm_median": 71.8,
+      "sec_per_chord_median": 7.6,
+      "distinct_chords_median": 11.0,
+      "n_sections_median": 8.5,
+      "view_median": 1196196
+    }
+  ],
+  "tracks": [
+    {
+      "video_id": "6rz6D787n0U",
+      "title": "This Psalm Sounds Like It Was Born in the Blues",
+      "view_count": 1697203,
+      "duration_sec": 2068.0,
+      "bpm": 76.0,
+      "bpm_raw": 152.0,
+      "key": "D major",
+      "key_conf": 0.738,
+      "swing_pct": 0.0,
+      "syncopation": 0.143,
+      "distinct_chords": 25,
+      "sec_per_chord": 10.9,
+      "pct_min": 65.4,
+      "pct_maj": 32.5,
+      "n_sections": 20,
+      "energy_shape": "giảm dần"
+    },
+    {
+      "video_id": "_ycC4y-4sYo",
+      "title": "Soul Saving \"BLUES\" Gospel Music: Modern Christian Praise and Worship Music PLAYLIST",
+      "view_count": 1343374,
+      "duration_sec": 2347.0,
+      "bpm": 80.8,
+      "bpm_raw": 161.5,
+      "key": "A# major",
+      "key_conf": 0.848,
+      "swing_pct": 26.5,
+      "syncopation": 0.022,
+      "distinct_chords": 24,
+      "sec_per_chord": 6.4,
+      "pct_min": 72.9,
+      "pct_maj": 25.1,
+      "n_sections": 20,
+      "energy_shape": "giảm dần"
+    },
+    {
+      "video_id": "2y2CcCzAtyM",
+      "title": "Be Still | 100 Minutes of Relaxing Black Gospel Music for Rest & Prayer",
+      "view_count": 1298849,
+      "duration_sec": 6098.0,
+      "bpm": 51.7,
+      "bpm_raw": 103.4,
+      "key": "A# major",
+      "key_conf": 0.937,
+      "swing_pct": 0.0,
+      "syncopation": 0.192,
+      "distinct_chords": 15,
+      "sec_per_chord": 8.4,
+      "pct_min": 26.5,
+      "pct_maj": 71.5,
+      "n_sections": 20,
+      "energy_shape": "tăng dần"
+    },
+    {
+      "video_id": "5VdjXaFrhDg",
+      "title": "Somebody Been Praying For Me | Deep Gospel Blues | Grace & Mercy | Heavenly Blues Gospel",
+      "view_count": 1211933,
+      "duration_sec": 443.0,
+      "bpm": 71.8,
+      "bpm_raw": 143.6,
+      "key": "G# major",
+      "key_conf": 0.959,
+      "swing_pct": 0.0,
+      "syncopation": 0.059,
+      "distinct_chords": 13,
+      "sec_per_chord": 7.6,
+      "pct_min": 46.4,
+      "pct_maj": 51.4,
+      "n_sections": 10,
+      "energy_shape": "lên đỉnh giữa"
+    },
+    {
+      "video_id": "eSAaF5VHsmg",
+      "title": "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”",
+      "view_count": 1180460,
+      "duration_sec": 345.0,
+      "bpm": 71.8,
+      "bpm_raw": 143.6,
+      "key": "G# major",
+      "key_conf": 0.895,
+      "swing_pct": 32.5,
+      "syncopation": 0.045,
+      "distinct_chords": 9,
+      "sec_per_chord": 7.6,
+      "pct_min": 7.6,
+      "pct_maj": 91.9,
+      "n_sections": 7,
+      "energy_shape": "lên đỉnh giữa"
+    }
+  ],
+  "recipe": {
+    "cách_dùng": "Nạp vào công cụ sinh nhạc, hoặc dịch thành prompt tiếng Anh",
+    "tempo_bpm": {
+      "range": [
+        51.7,
+        80.8
+      ],
+      "target": 71.8
+    },
+    "mode": "major",
+    "mode_ghi_chú": "5/5 bản ở điệu trưởng — giai điệu sáng, màu tối đến từ hợp âm thứ xen vào, không từ điệu thức",
+    "harmonic_rhythm_sec": {
+      "range": [
+        6.4,
+        10.9
+      ],
+      "target": 7.6
+    },
+    "chord_vocabulary": {
+      "range": [
+        9.0,
+        25.0
+      ],
+      "ghi_chú": "bản ngắn ~9-13 hợp âm, bản dài ~24-25"
+    },
+    "groove": {
+      "swing": "cả hai đều dùng được",
+      "swing_pct_when_used": [
+        26.5,
+        32.5
+      ],
+      "syncopation": [
+        0.022,
+        0.192
+      ],
+      "ghi_chú": "syncopation thấp (<0,2) — nhịp đơn giản, không giật"
+    },
+    "section_dur_sec": {
+      "target": 28.0,
+      "range": [
+        1.3,
+        228.4
+      ],
+      "ghi_chú": "đổi không khí mỗi ~28 giây"
+    },
+    "prompt_en": "slow gospel blues, 51-80 BPM, major key with frequent minor-chord colouring, chord changes every 6-11 seconds, low syncopation, warm analog production, soulful lead vocal, hammond organ and clean electric guitar, reverent and consoling mood",
+    "vocal": "CÓ LỜI — bắt buộc. Xem khối vocal_decision (bằng chứng 3 lớp).",
+    "prompt_ghi_chú": "«có lời» là kết luận CÓ BẰNG CHỨNG (vocal_decision). Nhưng LOẠI giọng và nhạc cụ cụ thể trong prompt là GỢI Ý theo thể loại, KHÔNG đo được từ dữ liệu hiện có — xem limits."
+  },
+  "vocal_decision": {
+    "kết_luận": "CÓ LỜI",
+    "độ_tin_cậy": "Cao",
+    "vì_sao_ở_đây": "5 file DSP không tách được giọng hát; bằng chứng đến từ STEP_06 (hiệu quả) và STEP_05 (bối cảnh nghe)",
+    "bằng_chứng_hiệu_quả": {
+      "chủ_đề": "instrumental / no lyrics / background",
+      "lift_toàn_thị_trường": 0.174,
+      "xếp_hạng": "thấp nhất trong 16 chủ đề",
+      "p": 2.7106481212100333e-15,
+      "trong_từng_kênh": 0.28,
+      "số_kênh_tốt_hơn": "0/2",
+      "phán_quyết": "TRÁNH",
+      "nguồn": "06_keyword/02_theme_scores.csv",
+      "đọc_là": "Video gắn nhãn không lời đạt VPD bằng 17% video còn lại — và vẫn kém khi so TRONG CÙNG một kênh, nên không phải hiệu ứng kênh yếu (đã qua kiểm 3 lớp, bẫy L2)"
+    },
+    "bằng_chứng_bối_cảnh": {
+      "nghe_chủ_động_pct": 20.43,
+      "nghe_nền_pct": 1.78,
+      "tỷ_lệ": 11.5,
+      "nguồn": "05_audience/_metrics_raw.json → context",
+      "đọc_là": "Bối cảnh nghe CHỦ ĐỘNG (cầu nguyện, sáng sớm, bệnh tật, tang chế) chiếm 20.4%; bối cảnh NHẠC NỀN (ngủ, lái xe, việc nhà, làm việc) chỉ 1.8%. Nhạc không lời phục vụ nhóm nhỏ hơn ~11 lần."
+    },
+    "bằng_chứng_định_tính": {
+      "comment_được_thích_nhất_ngách": 1444,
+      "nội_dung": "Finally something for those of us who love the music but can't stand the lyrics of the blues",
+      "đọc_là": "Nỗi đau lõi của ngách nằm ở LỜI HÁT — không phải ở phần nhạc. Bỏ lời là bỏ đúng thứ khiến khán giả tìm đến.",
+      "nguồn": "05_audience/03_quote_bank.csv"
+    },
+    "ngoại_lệ": "Nếu nhắm riêng nhóm nghe lúc ngủ/thiền (~1,4% comment) thì không lời hợp lý — nhưng đó là ngách con rất nhỏ, và đang cạnh tranh với toàn bộ thị trường 'sleep music' ngoài ngách này."
+  },
+  "limits": [
+    {
+      "thiếu": "Nhóm đối chứng",
+      "hệ_quả": "KHÔNG kết luận được đặc điểm nào GÂY RA thành công. Đây là MÔ TẢ nhóm thắng, không phải bằng chứng nhân quả.",
+      "khắc_phục": "Phân tích thêm ~30 bản nhóm thua (B4) rồi so sánh"
+    },
+    {
+      "thiếu": "Cỡ mẫu (n=5)",
+      "hệ_quả": "Mọi con số là KHOẢNG quan sát được, không phải chuẩn ngành.",
+      "khắc_phục": "Chạy DSP cho ≥30 bản top"
+    },
+    {
+      "thiếu": "Nhạc cụ / âm sắc / giọng hát",
+      "hệ_quả": "Không biết dùng guitar gì, giọng nam hay nữ, có organ không — những thứ quyết định 'nghe giống hay không'.",
+      "khắc_phục": "Cần tách stem (Demucs) + phân loại nhạc cụ"
+    },
+    {
+      "thiếu": "Lời bài hát",
+      "hệ_quả": "Không biết nội dung hát gì.",
+      "khắc_phục": "Whisper transcribe"
+    },
+    {
+      "thiếu": "Chất lượng thu / master (LUFS, dải động)",
+      "hệ_quả": "Không biết chuẩn âm lượng thị trường.",
+      "khắc_phục": "Đo LUFS bằng pyloudnorm trên file gốc"
+    }
+  ],
+  "generated_from": {
+    "n_tracks": 5,
+    "n_sections": 77,
+    "view_min": 1180460,
+    "view_max": 1697203,
+    "percentile": "top 0,07% lượt xem của ngách"
+  }
+}

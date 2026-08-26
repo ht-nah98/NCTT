@@ -1,0 +1,190 @@
+{
+ "track_id": "6rz6D787n0U#02",
+ "track_key": "6rz6D787n0U__02",
+ "video_id": "6rz6D787n0U",
+ "title": "2. Psalm 91 – Under His Wings",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 206.0,
+ "voiced_sec": 121.1,
+ "voice_ratio": 0.588,
+ "n_words": 150,
+ "words_per_min": 43.7,
+ "is_instrumental": false,
+ "n_segments": 21,
+ "n_segments_voiced": 21,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.6,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 21.7,
+   "end": 27.3,
+   "text": "He who dwells in the secret place",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.677,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 27.3,
+   "end": 33.18,
+   "text": "Of the most high-wrapped and gray",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.647,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 35.56,
+   "end": 41.28,
+   "text": "Rest in the shadows, safe and still",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.647,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 41.28,
+   "end": 45.8,
+   "text": "While the world outside keeps growing ill",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.647,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 45.8,
+   "end": 51.94,
+   "text": "Under his wings, I'm not afraid",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.647,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 51.94,
+   "end": 58.14,
+   "text": "Night may fall, but I won't fade",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.626,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 58.94,
+   "end": 64.8,
+   "text": "A thousand falling, ten thousand more",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.626,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 65.94,
+   "end": 70.72,
+   "text": "But I won't knock on my door",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.626,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 72.46,
+   "end": 78.42,
+   "text": "He is my refuge, my fortress strong",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.626,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 78.42,
+   "end": 82.48,
+   "text": "My God in whom I belong",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.589,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 84.78,
+   "end": 90.84,
+   "text": "He sent His angels to guard my way",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.589,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 91.42,
+   "end": 94.64,
+   "text": "So I can walk through fire and stay",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.589,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 97.1,
+   "end": 102.62,
+   "text": "No evil will touch, no plague draw near",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.589,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 102.62,
+   "end": 108.7,
+   "text": "He speaks my name, I have no fear",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.71,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 108.7,
+   "end": 114.36,
+   "text": "With long life, He'll satisfy",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.71,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 114.36,
+   "end": 121.38,
+   "text": "And show salvation before I die",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.71,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 123.16,
+   "end": 128.4,
+   "text": "Under His wings, I'm not afraid",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.71,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 128.4,
+   "end": 134.58,
+   "text": "Night may fall, but I won't fade",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.569,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 135.4,
+   "end": 141.22,
+   "text": "A thousand fall and ten thousand more",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.569,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 142.4,
+   "end": 147.08,
+   "text": "But harm won't knock on my door",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.569,
+   "track_id": "6rz6D787n0U#02"
+  },
+  {
+   "start": 172.4,
+   "end": 183.3,
+   "text": "Here's my shelter, my song, my stage And I'll keep singing, come what may",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.306,
+   "track_id": "6rz6D787n0U#02"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "track_id": "JqDkxKCb4ec#07",
+ "track_key": "JqDkxKCb4ec__07",
+ "video_id": "JqDkxKCb4ec",
+ "title": "Wisdom Cries Out (Proverbs 8)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 237.0,
+ "voiced_sec": 135.2,
+ "voice_ratio": 0.571,
+ "n_words": 216,
+ "words_per_min": 54.7,
+ "is_instrumental": false,
+ "n_segments": 38,
+ "n_segments_voiced": 38,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 42.2,
+ "rtf": 0.178,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.12,
+   "text": "Hmm",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 5.24,
+   "end": 6.1,
+   "text": "Hmm",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 15.0,
+   "end": 16.54,
+   "text": "Can you hear her calling",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 18.6,
+   "end": 21.6,
+   "text": "From the gate, from the street",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 24.0,
+   "end": 26.02,
+   "text": "She's crying out to the simple",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 26.02,
+   "end": 30.7,
+   "text": "Oh, come listen, come take a seat",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 32.78,
+   "end": 35.14,
+   "text": "She said my mouth speaks with right",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 37.3,
+   "end": 40.1,
+   "text": "No twisted word I bring",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 41.98,
+   "end": 45.24,
+   "text": "My truth is better than silver",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 46.62,
+   "end": 49.88,
+   "text": "More precious than any king",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 50.5,
+   "end": 55.5,
+   "text": "Wisdom cries out in the open air",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 55.5,
+   "end": 58.7,
+   "text": "Louder than the noise of sin",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 59.5,
+   "end": 64.74,
+   "text": "She was there before the mountains rose",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 65.5,
+   "end": 68.06,
+   "text": "Before the world began",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 69.5,
+   "end": 73.04,
+   "text": "I was with them in the beginning",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 74.5,
+   "end": 77.52,
+   "text": "Before the sea found it short",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 79.5,
+   "end": 82.74,
+   "text": "Before the clouds took their place",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 82.74,
+   "end": 86.72,
+   "text": "Before the river's roar",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 88.74,
+   "end": 91.94,
+   "text": "The Lord made me as His first work",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 92.74,
+   "end": 95.94,
+   "text": "I watched His hand unfold",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 97.74,
+   "end": 101.64,
+   "text": "I was beside Him like a craftsman",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 102.74,
+   "end": 106.0,
+   "text": "Rejoicing as ages roll",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 106.74,
+   "end": 111.5,
+   "text": "With them cries out in the open air",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 111.5,
+   "end": 115.1,
+   "text": "Louder than the noise of sin",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 115.1,
+   "end": 120.72,
+   "text": "She was there before the mountains rose",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 121.5,
+   "end": 124.88,
+   "text": "Before the world began",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 126.5,
+   "end": 129.32,
+   "text": "Blessed are those who listen",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 130.5,
+   "end": 134.0,
+   "text": "Who wait by my door each day",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 135.5,
+   "end": 138.84,
+   "text": "For whoever finds me finds life",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 138.84,
+   "end": 142.9,
+   "text": "And walks in the Lord's way",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 142.9,
+   "end": 147.82,
+   "text": "But those who hate me love death",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 147.82,
+   "end": 152.26,
+   "text": "Their hearts go cold inside",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 153.84,
+   "end": 157.24,
+   "text": "So listen while I'm speaking",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 157.84,
+   "end": 162.1,
+   "text": "Let truth be your guide",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 162.84,
+   "end": 166.84,
+   "text": "Wisdom cries out in the open air",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 167.32,
+   "end": 170.82,
+   "text": "She's calling out again",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.09,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 170.82,
+   "end": 177.0,
+   "text": "She was there before the dawn of time",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.09,
+   "track_id": "JqDkxKCb4ec#07"
+  },
+  {
+   "start": 177.0,
+   "end": 182.22,
+   "text": "And she'll stand until the end",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.09,
+   "track_id": "JqDkxKCb4ec#07"
+  }
+ ]
+}

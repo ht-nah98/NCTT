@@ -1,0 +1,350 @@
+{
+ "track_id": "rXmrgL6mUf8#03",
+ "track_key": "rXmrgL6mUf8__03",
+ "video_id": "rXmrgL6mUf8",
+ "title": "Take Up My Cross",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 192.0,
+ "voiced_sec": 135.7,
+ "voice_ratio": 0.707,
+ "n_words": 275,
+ "words_per_min": 85.9,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 33,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.4,
+ "rtf": 0.06,
+ "segments": [
+  {
+   "start": 9.52,
+   "end": 14.84,
+   "text": "Oh, I am, I am",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.836,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 16.0,
+   "end": 19.36,
+   "text": "The says, our Lord and Savior",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.836,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 20.0,
+   "end": 21.52,
+   "text": "Jesus the Christ",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.836,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 21.52,
+   "end": 23.64,
+   "text": "Do not love the world",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.836,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 23.64,
+   "end": 25.78,
+   "text": "All the things in the world",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.836,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 27.52,
+   "end": 29.98,
+   "text": "If anyone loves the world",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 31.64,
+   "end": 35.84,
+   "text": "The love of the Father is not in him",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 35.84,
+   "end": 39.22,
+   "text": "For all that is in the world",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 40.08,
+   "end": 42.6,
+   "text": "The craving of the flesh",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 42.6,
+   "end": 44.64,
+   "text": "The craving of the eyes",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 44.64,
+   "end": 47.66,
+   "text": "And the pride of life is not from the Father",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 47.66,
+   "end": 49.4,
+   "text": "But it's from the world",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 49.4,
+   "end": 52.96,
+   "text": "The world is passing away",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.854,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 52.96,
+   "end": 56.34,
+   "text": "And it's desires within",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.818,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 57.96,
+   "end": 64.72,
+   "text": "But whoever does the will of God remains forever",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.818,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 65.96,
+   "end": 70.26,
+   "text": "I will take up my cross",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.818,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 70.96,
+   "end": 73.76,
+   "text": "A living sacrifice",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.818,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 74.96,
+   "end": 78.3,
+   "text": "All the days of my life",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.818,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 78.3,
+   "end": 81.9,
+   "text": "I will follow you",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 83.3,
+   "end": 87.22,
+   "text": "I will deny my flesh day after day",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 87.22,
+   "end": 89.8,
+   "text": "Giving up all my selfish ambitions",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 89.8,
+   "end": 91.88,
+   "text": "Flashly desires and pride for ways",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 91.88,
+   "end": 93.8,
+   "text": "I will bear good fruit",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 93.8,
+   "end": 96.08,
+   "text": "All the fruits of the Holy Spirit",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 96.08,
+   "end": 100.2,
+   "text": "Love, joy, peace, long",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 100.2,
+   "end": 103.48,
+   "text": "Suffering, gentleness, goodness",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 103.48,
+   "end": 107.3,
+   "text": "Faith, meekness and temperance",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.75,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 107.3,
+   "end": 111.96,
+   "text": "This I vow to you, Jesus",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.841,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 111.96,
+   "end": 116.68,
+   "text": "I will take out my cross",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.841,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 117.3,
+   "end": 120.36,
+   "text": "A living sacrifice",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.841,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 121.3,
+   "end": 124.92,
+   "text": "All the days of my life",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.841,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 124.92,
+   "end": 128.5,
+   "text": "I will follow you",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.841,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 129.3,
+   "end": 133.44,
+   "text": "I can do things",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.841,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 133.44,
+   "end": 144.02,
+   "text": "He is all things I can do all things through Christ who strengthens me",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.836,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 145.44,
+   "end": 154.1,
+   "text": "So I will take out my cross I live in sacrifice",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.836,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 154.96,
+   "end": 162.28,
+   "text": "All the days of my life I will follow you",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.715,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 164.54,
+   "end": 169.94,
+   "text": "Then Jesus told his disciples, If anyone would come after me",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.715,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 169.94,
+   "end": 174.96,
+   "text": "Let him deny himself and take up his cross and follow me",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.715,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 174.96,
+   "end": 179.24,
+   "text": "For whoever would save his life will lose it",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.715,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 179.24,
+   "end": 182.56,
+   "text": "But whoever loses his life for my sake will find it",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.715,
+   "track_id": "rXmrgL6mUf8#03"
+  },
+  {
+   "start": 183.3,
+   "end": 188.02,
+   "text": "For what will it profit a man if he gains the whole world and forfeits his soul?",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.22,
+   "track_id": "rXmrgL6mUf8#03"
+  }
+ ]
+}

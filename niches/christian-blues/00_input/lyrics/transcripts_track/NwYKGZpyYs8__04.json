@@ -1,0 +1,406 @@
+{
+ "track_id": "NwYKGZpyYs8#04",
+ "track_key": "NwYKGZpyYs8__04",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Living Water (John 4)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 226.0,
+ "voiced_sec": 166.0,
+ "voice_ratio": 0.734,
+ "n_words": 313,
+ "words_per_min": 83.1,
+ "is_instrumental": false,
+ "n_segments": 48,
+ "n_segments_voiced": 48,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.2,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 17.86,
+   "end": 28.44,
+   "text": "Oh, Jesus left your day on his way, passed through some area that day.",
+   "avg_logprob": -0.612,
+   "no_speech_prob": 0.405,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 29.68,
+   "end": 32.92,
+   "text": "He said by Jacob's well and new",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.591,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 34.02,
+   "end": 37.22,
+   "text": "Tired but ready for the woman soon",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.591,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 37.22,
+   "end": 41.76,
+   "text": "She came to the well to draw her shed",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.591,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 41.76,
+   "end": 45.46,
+   "text": "Jesus said give me water there",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.591,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 45.46,
+   "end": 49.42,
+   "text": "She was astonished Jesus was near me",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.591,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 49.42,
+   "end": 52.56,
+   "text": "A Jew and Samaritan clearly",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.591,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 54.16,
+   "end": 57.7,
+   "text": "If you knew the gift God gives",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.591,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 57.7,
+   "end": 61.28,
+   "text": "You would ask and truly live",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 61.28,
+   "end": 65.24,
+   "text": "Living water I would pour",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 65.24,
+   "end": 68.74,
+   "text": "A spring of life forevermore",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 69.7,
+   "end": 72.54,
+   "text": "If you knew the gift God gives",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 72.54,
+   "end": 76.2,
+   "text": "You would ask and truly live",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 76.2,
+   "end": 79.74,
+   "text": "Drink once and thirst will be no more",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 79.74,
+   "end": 83.2,
+   "text": "Eternal life from heaven's door",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 83.2,
+   "end": 85.78,
+   "text": "She said you have no rope or pair",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.657,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 85.78,
+   "end": 89.78,
+   "text": "The world is deep, how could you draw?",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.791,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 90.72,
+   "end": 93.36,
+   "text": "Are you greater than Jacob here?",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.791,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 94.2,
+   "end": 97.26,
+   "text": "Who drank himself and held it deep?",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.791,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 98.24,
+   "end": 100.68,
+   "text": "Jesus said this water flows",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.791,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 101.78,
+   "end": 104.86,
+   "text": "But thirst returns as every soul knows",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.791,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 104.86,
+   "end": 108.04,
+   "text": "The water I will give to you",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.791,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 108.04,
+   "end": 111.56,
+   "text": "Will rise inside forever new",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.791,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 112.4,
+   "end": 115.3,
+   "text": "He said go call your husband now.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.686,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 115.38,
+   "end": 118.76,
+   "text": "She said I have none anyhow.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.686,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 119.08,
+   "end": 122.72,
+   "text": "You spoke the truth that you have had fire.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.686,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 123.16,
+   "end": 126.46,
+   "text": "The one you have is not your life.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.686,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 127.56,
+   "end": 130.08,
+   "text": "She said I see you speak divine.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.686,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 131.56,
+   "end": 133.54,
+   "text": "Tell me where God draws a line.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.686,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 134.7,
+   "end": 137.78,
+   "text": "Jesus said the hour is near.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.686,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 137.78,
+   "end": 140.9,
+   "text": "True worship comes in spirit clear",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.781,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 142.7,
+   "end": 146.18,
+   "text": "If you knew the gift God gives",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.781,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 146.18,
+   "end": 149.66,
+   "text": "You would ask and truly live",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.781,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 149.66,
+   "end": 153.6,
+   "text": "Living water I would pour",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.781,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 153.6,
+   "end": 157.06,
+   "text": "A spring of life forevermore",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.781,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 157.78,
+   "end": 160.92,
+   "text": "If you knew the gift God gives",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.781,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 161.78,
+   "end": 164.6,
+   "text": "You would ask and truly live",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.781,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 164.6,
+   "end": 168.36,
+   "text": "Drink once and thirst will be no more",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.362,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 168.36,
+   "end": 171.84,
+   "text": "Eternal life from heaven's door",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.362,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 185.12,
+   "end": 189.14,
+   "text": "In spirit and truth they worship right",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.362,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 189.14,
+   "end": 193.08,
+   "text": "The Father seeks such hearts and light",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.362,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 193.08,
+   "end": 197.16,
+   "text": "She said Messiah comes one day",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.378,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 197.16,
+   "end": 200.64,
+   "text": "He will teach us all the way",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.378,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 200.64,
+   "end": 203.92,
+   "text": "Jesus said I am He now",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.378,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 203.92,
+   "end": 207.24,
+   "text": "Speaking plainly here somehow",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.378,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 208.08,
+   "end": 211.48,
+   "text": "The town believed her faithful word",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.378,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 211.48,
+   "end": 214.94,
+   "text": "They heard His voice and were assured",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.378,
+   "track_id": "NwYKGZpyYs8#04"
+  },
+  {
+   "start": 224.58,
+   "end": 225.14,
+   "text": "you",
+   "avg_logprob": -0.725,
+   "no_speech_prob": 0.816,
+   "track_id": "NwYKGZpyYs8#04"
+  }
+ ]
+}

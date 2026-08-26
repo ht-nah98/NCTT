@@ -1,0 +1,310 @@
+{
+ "track_id": "rBwZv_dQf8A#08",
+ "track_key": "rBwZv_dQf8A__08",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Better To Be Poor And Honest (Proverbs 19)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 193.0,
+ "voiced_sec": 142.7,
+ "voice_ratio": 0.739,
+ "n_words": 270,
+ "words_per_min": 83.9,
+ "is_instrumental": false,
+ "n_segments": 36,
+ "n_segments_voiced": 36,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 36.0,
+ "rtf": 0.187,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 36.06,
+   "text": "The show is rage turns a page and walks away",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.252,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 38.36,
+   "end": 40.96,
+   "text": "When you give to the poor you lend to God",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.252,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 40.96,
+   "end": 43.62,
+   "text": "He pays it back with grace abroad",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.252,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 43.62,
+   "end": 47.26,
+   "text": "Man's plans may change like dust",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.252,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 48.12,
+   "end": 51.76,
+   "text": "But the Lord's purpose, that's what we trust",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.252,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 51.76,
+   "end": 55.54,
+   "text": "Better to be poor and honest inside",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.252,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 55.54,
+   "end": 63.7,
+   "text": "Then rich with a heart full of lies and pride I'd rather have peace.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.607,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 63.82,
+   "end": 72.54,
+   "text": "Tease than a fool's disguise Better to be poor and honest inside.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.607,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 74.06,
+   "end": 75.28,
+   "text": "And listen to advice.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.607,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 75.4,
+   "end": 79.98,
+   "text": "Take truth to heart It's wisdom that sets your soul apart",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.607,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 79.98,
+   "end": 82.94,
+   "text": "The fear of the Lord that's where it starts",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 82.94,
+   "end": 85.84,
+   "text": "It leads to life and guards your heart",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 85.84,
+   "end": 88.66,
+   "text": "Patience brings glory, pride brings pain",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 88.66,
+   "end": 91.16,
+   "text": "Integrity out of last faith",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 91.16,
+   "end": 94.16,
+   "text": "The world runs fast, but grace runs deep",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 94.16,
+   "end": 96.96,
+   "text": "The heart bright rest while the wicked can't sleep",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 98.96,
+   "end": 103.22,
+   "text": "Better to be poor and honest inside",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 103.22,
+   "end": 105.68,
+   "text": "Oh, then rich with the heart",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 105.68,
+   "end": 108.62,
+   "text": "Heart full of lies and pride",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.672,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 108.62,
+   "end": 110.62,
+   "text": "I'd rather have peace.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 111.26,
+   "end": 113.62,
+   "text": "Peace than a fool's disguise.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 114.46,
+   "end": 119.92,
+   "text": "Better to be poor and honest inside.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 122.22,
+   "end": 123.62,
+   "text": "Slow to anger.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 124.9,
+   "end": 126.72,
+   "text": "Quick to forgive.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 127.94,
+   "end": 132.44,
+   "text": "That's the kind of way the righteous live.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 133.04,
+   "end": 137.7,
+   "text": "Plans may fail, but the Lord's still true.",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 137.7,
+   "end": 142.46,
+   "text": "Walk with integrity in all you do",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.613,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 142.46,
+   "end": 147.54,
+   "text": "Oh, better to be poor and honest inside",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.613,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 147.54,
+   "end": 153.2,
+   "text": "Than rich with a heart full of lies and pride",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.613,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 153.7,
+   "end": 155.84,
+   "text": "I'd rather have peace",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.613,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 155.84,
+   "end": 158.6,
+   "text": "Deeds than a fool's disguise",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.613,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 158.6,
+   "end": 164.62,
+   "text": "Oh, better to be poor and honest inside",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.613,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 164.62,
+   "end": 169.92,
+   "text": "Better to be poor, poor and honest inside",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.567,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 169.92,
+   "end": 175.48,
+   "text": "And then rich with a heart, heart full of lies and pride",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.567,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 175.48,
+   "end": 181.06,
+   "text": "And I'd rather have peace, peace than a fool's disguise",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.567,
+   "track_id": "rBwZv_dQf8A#08"
+  },
+  {
+   "start": 181.06,
+   "end": 186.96,
+   "text": "Better to be poor and honest inside",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.567,
+   "track_id": "rBwZv_dQf8A#08"
+  }
+ ]
+}

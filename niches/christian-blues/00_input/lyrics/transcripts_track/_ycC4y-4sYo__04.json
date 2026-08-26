@@ -1,0 +1,278 @@
+{
+ "track_id": "_ycC4y-4sYo#04",
+ "track_key": "_ycC4y-4sYo__04",
+ "video_id": "_ycC4y-4sYo",
+ "title": "Ancient Path",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 264.0,
+ "voiced_sec": 159.9,
+ "voice_ratio": 0.606,
+ "n_words": 256,
+ "words_per_min": 58.2,
+ "is_instrumental": false,
+ "n_segments": 32,
+ "n_segments_voiced": 32,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 19.5,
+ "rtf": 0.074,
+ "segments": [
+  {
+   "start": 22.98,
+   "end": 28.3,
+   "text": "I stood at the crossroads, hard heavy with pain",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.604,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 28.3,
+   "end": 32.44,
+   "text": "Looking down the road through the pouring rain",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 32.44,
+   "end": 37.96,
+   "text": "Said, Lord, show me the old old way",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 37.96,
+   "end": 43.22,
+   "text": "Where the saints once walk, where my soul can stay",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 44.88,
+   "end": 49.12,
+   "text": "Jeremiah 6, 16 in the Good Book say",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.709,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 53.12,
+   "end": 60.86,
+   "text": "Stand at the crossroads and look, ask for the ancient past.",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.774,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 62.6,
+   "end": 71.44,
+   "text": "Ask where the good way is and walk in it, and you will find rest for your souls.",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.774,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 71.44,
+   "end": 80.86,
+   "text": "Oh, if we hope for what we do not see, we wait, we wait so patiently.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.537,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 82.02,
+   "end": 91.48,
+   "text": "If it's the Lord's will not mind but Him, we live, we breathe, we walk in Him.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.537,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 91.48,
+   "end": 99.26,
+   "text": "Yes, we walk, yes, long in it",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.432,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 110.34,
+   "end": 114.74,
+   "text": "I heard a whisper in the wind so still",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.432,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 114.74,
+   "end": 119.56,
+   "text": "Saying, this is the way, walk in my will",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.432,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 119.56,
+   "end": 124.78,
+   "text": "Don't follow the noise, don't follow the crowd",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 125.56,
+   "end": 129.44,
+   "text": "Come to the place where I am found",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 129.44,
+   "end": 136.06,
+   "text": "Yahuwah is beckoning",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 139.12,
+   "end": 143.1,
+   "text": "Stand at the crossroads and look",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 143.1,
+   "end": 147.16,
+   "text": "Ask for the ancient past",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.522,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 148.3,
+   "end": 154.14,
+   "text": "Ask where the good way is and walk in it",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 154.14,
+   "end": 157.94,
+   "text": "And you will find rest for your souls",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 157.94,
+   "end": 162.84,
+   "text": "Oh, if we hope for what we do not see",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 162.84,
+   "end": 167.16,
+   "text": "We wait, we wait so patiently",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 167.16,
+   "end": 172.16,
+   "text": "If it's the Lord's will not mind but Him",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.8,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 172.58,
+   "end": 177.96,
+   "text": "We live, we move, we trust in Him",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.527,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 177.96,
+   "end": 185.06,
+   "text": "Yes, we walk through fire with our Savior",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.527,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 232.58,
+   "end": 235.24,
+   "text": "They only let to let",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 235.78,
+   "end": 240.32,
+   "text": "Ask for that path carved by nail-scored hands",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 240.32,
+   "end": 245.48,
+   "text": "The one that leads to the promised land",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 245.48,
+   "end": 248.84,
+   "text": "Ask for the way in",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 249.58,
+   "end": 251.66,
+   "text": "And walk in",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 251.66,
+   "end": 253.62,
+   "text": "You will find breath",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 253.62,
+   "end": 255.16,
+   "text": "Yes, speak",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  },
+  {
+   "start": 257.58,
+   "end": 259.18,
+   "text": "With it",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.772,
+   "track_id": "_ycC4y-4sYo#04"
+  }
+ ]
+}

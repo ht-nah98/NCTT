@@ -1,0 +1,278 @@
+{
+ "track_id": "JqDkxKCb4ec#09",
+ "track_key": "JqDkxKCb4ec__09",
+ "video_id": "JqDkxKCb4ec",
+ "title": "Guard Your Heart (Proverbs 4)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 184.0,
+ "voiced_sec": 138.8,
+ "voice_ratio": 0.754,
+ "n_words": 152,
+ "words_per_min": 49.6,
+ "is_instrumental": false,
+ "n_segments": 32,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 33.6,
+ "rtf": 0.182,
+ "segments": [
+  {
+   "start": 5.4,
+   "end": 19.1,
+   "text": "Oh, Oh, Oh, Ooh-ooh-ooh, Ooh-ooh-ooh, Ooh-ooh-ooh, Ooh-ooh-ooh.",
+   "avg_logprob": -0.765,
+   "no_speech_prob": 0.591,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 19.1,
+   "end": 22.9,
+   "text": "Hear my children, hear my children.",
+   "avg_logprob": -0.765,
+   "no_speech_prob": 0.591,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 23.14,
+   "end": 27.18,
+   "text": "Your father's worse, father's worse.",
+   "avg_logprob": -0.765,
+   "no_speech_prob": 0.591,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 27.18,
+   "end": 34.28,
+   "text": "Be attentive to what I say.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 36.08,
+   "end": 38.42,
+   "text": "Get wisdom.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 38.66,
+   "end": 42.82,
+   "text": "Get understanding.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 44.86,
+   "end": 51.82,
+   "text": "And walk in the righteous way.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 51.82,
+   "end": 55.68,
+   "text": "Hold fast to instruction.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 57.74,
+   "end": 60.3,
+   "text": "Don't let go.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 60.58,
+   "end": 62.08,
+   "text": "Don't let go.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 62.76,
+   "end": 64.94,
+   "text": "It is a lie.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 67.58,
+   "end": 69.24,
+   "text": "To your soul.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 70.82,
+   "end": 73.12,
+   "text": "The path of the righteous.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 75.36,
+   "end": 79.56,
+   "text": "Shines like dawn.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 79.56,
+   "end": 86.38,
+   "text": "growing brighter as it goes.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 88.18,
+   "end": 95.16,
+   "text": "It goes your heart with all diligence for from it.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 95.68,
+   "end": 96.94,
+   "text": "Close your eyes.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 97.36,
+   "end": 101.7,
+   "text": "Keep your mouth from crooked tongue.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 102.02,
+   "end": 105.72,
+   "text": "Let your eyes look toward the light.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 105.72,
+   "end": 112.38,
+   "text": "Watch the path, watch the path of your feet",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.674,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 112.38,
+   "end": 117.06,
+   "text": "Touch our wheat, turn away",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.674,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 119.72,
+   "end": 127.3,
+   "text": "From every wrong, let your ways be firmly set",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.674,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 127.3,
+   "end": 131.74,
+   "text": "Let your steps be strong",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 139.98,
+   "end": 144.94,
+   "text": "God your heart with all diligence",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 144.94,
+   "end": 149.18,
+   "text": "For from in, close your life",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 149.18,
+   "end": 153.88,
+   "text": "Keep your mouth from crooked talk",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 153.88,
+   "end": 156.38,
+   "text": "Let your eyes",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 161.5,
+   "end": 163.94,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 165.78,
+   "end": 169.2,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 169.2,
+   "end": 174.24,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 174.24,
+   "end": 178.88,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09"
+  },
+  {
+   "start": 183.88,
+   "end": 183.9,
+   "text": "you",
+   "avg_logprob": -0.942,
+   "no_speech_prob": 0.903,
+   "track_id": "JqDkxKCb4ec#09"
+  }
+ ]
+}

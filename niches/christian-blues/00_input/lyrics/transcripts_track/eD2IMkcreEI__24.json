@@ -1,0 +1,534 @@
+{
+ "track_id": "eD2IMkcreEI#24",
+ "track_key": "eD2IMkcreEI__24",
+ "video_id": "eD2IMkcreEI",
+ "title": "Part 2: Jesus Heals The Souls",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 307.0,
+ "voiced_sec": 242.0,
+ "voice_ratio": 0.788,
+ "n_words": 382,
+ "words_per_min": 74.7,
+ "is_instrumental": false,
+ "n_segments": 64,
+ "n_segments_voiced": 64,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 58.9,
+ "rtf": 0.192,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.44,
+   "text": "Oh, here you live me up low, yeah",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.534,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 8.0,
+   "end": 13.16,
+   "text": "Your mercy runs deep, deep in my soul",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.534,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 14.0,
+   "end": 18.24,
+   "text": "Oh, Jesus, you heal my soul",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.534,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 20.0,
+   "end": 24.98,
+   "text": "Oh, Jesus, you heal my soul",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.534,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 56.6,
+   "end": 66.74,
+   "text": "Oh Christ, my Savior, You're my everything, my life, everything",
+   "avg_logprob": -0.748,
+   "no_speech_prob": 0.77,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 77.74,
+   "end": 82.88,
+   "text": "When the storm is raging, I will not fear",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 85.66,
+   "end": 91.52,
+   "text": "Your voice is calm, I can feel you near",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.757,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 91.52,
+   "end": 105.22,
+   "text": "You lift me up when I fall down Your mercy always turns me round",
+   "avg_logprob": -0.401,
+   "no_speech_prob": 0.768,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 105.22,
+   "end": 115.52,
+   "text": "Oh, you got me, yeah You lift me, you lift me",
+   "avg_logprob": -0.401,
+   "no_speech_prob": 0.768,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 116.02,
+   "end": 120.4,
+   "text": "I was lost but now I see",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 120.4,
+   "end": 123.86,
+   "text": "Your love keeps chasing after me",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 123.86,
+   "end": 129.74,
+   "text": "Even in the valley I know you're still king",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 129.74,
+   "end": 133.18,
+   "text": "You're my king, you're my king",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 133.18,
+   "end": 136.5,
+   "text": "Your praises I will sing",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 137.02,
+   "end": 139.72,
+   "text": "Christ my slave of you",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 141.02,
+   "end": 142.86,
+   "text": "Set me free",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 142.86,
+   "end": 146.52,
+   "text": "Free from my pain, free from my shame",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 146.52,
+   "end": 150.42,
+   "text": "You rescued me",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 150.42,
+   "end": 153.82,
+   "text": "You broke my chains, you gave me peace",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 153.82,
+   "end": 158.04,
+   "text": "Every moment, every breath I breathe",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 158.04,
+   "end": 160.12,
+   "text": "It's for you, it's for you",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 160.12,
+   "end": 161.68,
+   "text": "Christ my Savior",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 161.68,
+   "end": 165.0,
+   "text": "Oh, my victory",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 166.5,
+   "end": 169.2,
+   "text": "Oh, you're my victory",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.778,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 173.48,
+   "end": 176.74,
+   "text": "Oh, you're my victory",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 176.74,
+   "end": 180.92,
+   "text": "Your love runs deeper than the sea",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 180.92,
+   "end": 184.76,
+   "text": "Your grace is endless calling me",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 184.76,
+   "end": 188.92,
+   "text": "You took my sorrow, turned it to joy",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 188.92,
+   "end": 192.7,
+   "text": "You filled my heart, oh Lord, I'm yours",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 192.7,
+   "end": 195.96,
+   "text": "I'm yours, I'm yours",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 195.96,
+   "end": 196.56,
+   "text": "Whatever you're",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 196.56,
+   "end": 197.24,
+   "text": "My love",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 197.24,
+   "end": 199.36,
+   "text": "Oh Oh Oh Oh Oh Oh Oh Oh Oh",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 199.36,
+   "end": 201.78,
+   "text": "Now I stand on holy grounds",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 201.78,
+   "end": 204.9,
+   "text": "Oh I hear it rumbling from somewhere",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 204.9,
+   "end": 206.92,
+   "text": "When I lift my voice to prayer",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 206.92,
+   "end": 209.38,
+   "text": "Oh God I lift my voice to prayer",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 209.38,
+   "end": 211.82,
+   "text": "You wash my fears away",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 213.24,
+   "end": 214.94,
+   "text": "Oh Christ my Savior",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 214.94,
+   "end": 218.96,
+   "text": "You set me free",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 218.96,
+   "end": 222.6,
+   "text": "Oh Christ my Savior",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 223.24,
+   "end": 224.66,
+   "text": "You set me free",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.723,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 224.66,
+   "end": 226.62,
+   "text": "The end you need",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 226.62,
+   "end": 228.58,
+   "text": "Rescue my soul",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 228.58,
+   "end": 230.12,
+   "text": "Rescue my heart",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 230.12,
+   "end": 234.4,
+   "text": "Every tear you turn to purple",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 234.4,
+   "end": 236.26,
+   "text": "You turned my night to day",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 236.26,
+   "end": 237.82,
+   "text": "Oh, thanks my savior",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 238.66,
+   "end": 241.66,
+   "text": "You made away, away",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 241.66,
+   "end": 245.52,
+   "text": "You made away when I was lost, lost",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 246.66,
+   "end": 249.2,
+   "text": "You're the light in my darkness",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 249.2,
+   "end": 252.92,
+   "text": "The hope in my song",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.753,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 252.92,
+   "end": 257.6,
+   "text": "I was weak, but in You I'm strong",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.572,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 257.6,
+   "end": 263.88,
+   "text": "Strong in Your name, you took my cross",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.572,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 263.88,
+   "end": 270.68,
+   "text": "And gave me life, now forever I'm Yours",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.572,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 270.68,
+   "end": 275.96,
+   "text": "Jesus Christ, Christ my Savior",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.572,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 276.92,
+   "end": 281.02,
+   "text": "You set me free",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.572,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 281.02,
+   "end": 287.86,
+   "text": "Christ my Savior, You rescued me.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.154,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 288.26,
+   "end": 290.64,
+   "text": "Oh, You healed me, Lord.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.154,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 290.88,
+   "end": 295.08,
+   "text": "Every chain has broken down.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.154,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 295.98,
+   "end": 297.26,
+   "text": "Yeah, yeah, yeah.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.154,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 297.26,
+   "end": 300.16,
+   "text": "Christ my Savior, I'll sing it loud.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.154,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 300.16,
+   "end": 302.96,
+   "text": "I'll sing it loud.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.154,
+   "track_id": "eD2IMkcreEI#24"
+  },
+  {
+   "start": 303.18,
+   "end": 306.38,
+   "text": "You saved my soul, You made me whole.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.154,
+   "track_id": "eD2IMkcreEI#24"
+  }
+ ]
+}

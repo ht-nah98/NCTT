@@ -1,0 +1,150 @@
+{
+ "track_id": "1UItx9upywQ#06",
+ "track_key": "1UItx9upywQ__06",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Do Not Fret\" - Psalm 37",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 148.0,
+ "voiced_sec": 93.3,
+ "voice_ratio": 0.63,
+ "n_words": 131,
+ "words_per_min": 53.1,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.4,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 14.8,
+   "text": "The clouds roll heavy but they can't stay long",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.607,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 17.5,
+   "end": 21.44,
+   "text": "The night feels endless but it's not that strong",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.607,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 23.88,
+   "end": 30.36,
+   "text": "The earth keeps turning, trust where you belong",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.725,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 33.52,
+   "end": 36.66,
+   "text": "Do not fret, no, don't you cry",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.725,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 39.5,
+   "end": 43.42,
+   "text": "The storm will break, the sun will rise",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.725,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 46.0,
+   "end": 49.76,
+   "text": "Trust the Lord and dry your eyes",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.565,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 53.66,
+   "end": 58.06,
+   "text": "The wind may howl but it can't steal your peace",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.565,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 59.96,
+   "end": 64.46,
+   "text": "The rain may fall but it brings release",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.565,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 64.46,
+   "end": 73.16,
+   "text": "In the hands of grace, every fear we'll see",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.644,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 75.44,
+   "end": 87.1,
+   "text": "Patience whispers hold on tight Faith will carry through the fight",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.644,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 88.18,
+   "end": 91.4,
+   "text": "Do not fret, no, don't you cry",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.79,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 94.16,
+   "end": 97.1,
+   "text": "The storm will break, the sun will rise",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.79,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 100.48,
+   "end": 104.6,
+   "text": "Trust the Lord and dry your eyes",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.79,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 107.3,
+   "end": 111.86,
+   "text": "The river knows how to find its way",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.79,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 113.42,
+   "end": 119.0,
+   "text": "The mountain stands though it wears with age",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.544,
+   "track_id": "1UItx9upywQ#06"
+  },
+  {
+   "start": 120.78,
+   "end": 128.38,
+   "text": "Be still and know through every step",
+   "avg_logprob": -0.665,
+   "no_speech_prob": 0.695,
+   "track_id": "1UItx9upywQ#06"
+  }
+ ]
+}

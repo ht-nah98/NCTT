@@ -1,0 +1,150 @@
+{
+ "track_id": "RNBCdT6dOW4#01",
+ "track_key": "RNBCdT6dOW4__01",
+ "video_id": "RNBCdT6dOW4",
+ "title": NaN,
+ "model": "small",
+ "language": "en",
+ "duration_sec": 120.0,
+ "voiced_sec": 89.9,
+ "voice_ratio": 0.749,
+ "n_words": 120,
+ "words_per_min": 60.0,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 6.2,
+ "rtf": 0.051,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.08,
+   "text": "But you never let me go",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.626,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 10.1,
+   "end": 14.78,
+   "text": "No, there were nights I almost gave up",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.626,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 18.22,
+   "end": 21.32,
+   "text": "Thought I'd never see the day",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.626,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 25.28,
+   "end": 40.6,
+   "text": "But you held me in my weakness And you carried me all the way",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.483,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 40.6,
+   "end": 43.14,
+   "text": "Every time I felt unworthy",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.303,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 46.52,
+   "end": 50.12,
+   "text": "You reminded me of grace",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.303,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 54.6,
+   "end": 57.64,
+   "text": "And you read me in your mercy",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.303,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 61.6,
+   "end": 64.52,
+   "text": "Till I saw your smiling face",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.303,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 64.52,
+   "end": 72.52,
+   "text": "Even when I ran from Your presence Your love still found me there",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.487,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 73.1,
+   "end": 80.38,
+   "text": "Now I'll give You all of my worship For the mercy You always share",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.487,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 83.54,
+   "end": 87.52,
+   "text": "You never let me go",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.487,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 87.52,
+   "end": 94.58,
+   "text": "Never let me go You kept me through it all",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.722,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 94.58,
+   "end": 101.64,
+   "text": "Through it all When I couldn't stand alone",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.722,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 101.64,
+   "end": 108.6,
+   "text": "Stand alone You heard my every call",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.722,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 108.6,
+   "end": 112.2,
+   "text": "Every call",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.722,
+   "track_id": "RNBCdT6dOW4#01"
+  },
+  {
+   "start": 112.2,
+   "end": 118.84,
+   "text": "Oh, thank you Lord",
+   "avg_logprob": -0.857,
+   "no_speech_prob": 0.484,
+   "track_id": "RNBCdT6dOW4#01"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "track_id": "1UItx9upywQ#22",
+ "track_key": "1UItx9upywQ__22",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Blessed and Free\" - Psalm 32",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 136.0,
+ "voiced_sec": 72.4,
+ "voice_ratio": 0.532,
+ "n_words": 120,
+ "words_per_min": 52.9,
+ "is_instrumental": false,
+ "n_segments": 15,
+ "n_segments_voiced": 15,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 5.4,
+ "rtf": 0.04,
+ "segments": [
+  {
+   "start": 16.28,
+   "end": 26.92,
+   "text": "I was dragging my chains through the dust Every step away, every move mistrust",
+   "avg_logprob": -0.469,
+   "no_speech_prob": 0.35,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 26.92,
+   "end": 30.7,
+   "text": "Then I'd help me tired, wouldn't let me go",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.333,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 31.92,
+   "end": 35.92,
+   "text": "But I heard a voice, sweet and low",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.333,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 35.92,
+   "end": 40.32,
+   "text": "Said, come on home boy, let it show",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.333,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 40.32,
+   "end": 43.86,
+   "text": "Bless it and free, that's what I'll be",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.333,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 45.52,
+   "end": 49.24,
+   "text": "Forgiven wash like the white blue sea",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.333,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 49.24,
+   "end": 55.22,
+   "text": "Bless it and free, I found my key",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.333,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 58.28,
+   "end": 63.04,
+   "text": "The sun broke through my midnight rain",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.4,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 63.04,
+   "end": 67.56,
+   "text": "A laughter rose up from the cracks in my pain",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.4,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 67.56,
+   "end": 71.82,
+   "text": "A melody's calling from deep inside",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.4,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 71.82,
+   "end": 76.6,
+   "text": "I'm clapping my hands, I'm walking wide",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.4,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 76.6,
+   "end": 80.92,
+   "text": "No more shadows where I can't hide",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.4,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 80.92,
+   "end": 84.48,
+   "text": "Blessed and free, that's what I'll be",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.4,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 85.76,
+   "end": 91.38,
+   "text": "Forgiven wars like the white blues, see, blessed and free",
+   "avg_logprob": -0.584,
+   "no_speech_prob": 0.598,
+   "track_id": "1UItx9upywQ#22"
+  },
+  {
+   "start": 91.38,
+   "end": 95.9,
+   "text": "I found my key",
+   "avg_logprob": -0.584,
+   "no_speech_prob": 0.598,
+   "track_id": "1UItx9upywQ#22"
+  }
+ ]
+}

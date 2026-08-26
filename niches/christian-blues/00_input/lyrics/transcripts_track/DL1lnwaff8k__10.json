@@ -1,0 +1,198 @@
+{
+ "track_id": "DL1lnwaff8k#10",
+ "track_key": "DL1lnwaff8k__10",
+ "video_id": "DL1lnwaff8k",
+ "title": "9. Ecclesiastes 9 – Under the Sun",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 275.0,
+ "voiced_sec": 152.0,
+ "voice_ratio": 0.553,
+ "n_words": 202,
+ "words_per_min": 44.1,
+ "is_instrumental": false,
+ "n_segments": 22,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.1,
+ "rtf": 0.051,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 33.32,
+   "text": "The righteous and the wise",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.168,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 36.0,
+   "end": 38.08,
+   "text": "All in God's hand",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.168,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 39.6,
+   "end": 45.28,
+   "text": "But no man knows what lies in the land",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.168,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 50.0,
+   "end": 53.0,
+   "text": "All things come alive to all",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.168,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 54.58,
+   "end": 57.5,
+   "text": "Whether rise or whether fall",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.168,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 66.28,
+   "end": 77.88,
+   "text": "To the clean and to the unclean too To him that's sacrifice and him who's through",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.339,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 82.52,
+   "end": 96.24,
+   "text": "As is the good, so is the sinner Life plays no favorites with the winner",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.444,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 98.94,
+   "end": 108.26,
+   "text": "Under the sun it's all the same Time and chance to play the game",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.654,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 108.26,
+   "end": 118.24,
+   "text": "But go thy way with joy and bread And all upon thy weary head",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.654,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 122.18,
+   "end": 135.48,
+   "text": "The living know that they shall die But the dead know not nor do they cry",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.448,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 138.68,
+   "end": 143.64,
+   "text": "Their love, their hate, their envy's gone",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.653,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 145.18,
+   "end": 149.48,
+   "text": "No portion left beneath the sun",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.653,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 153.62,
+   "end": 159.24,
+   "text": "The race ain't always to the swift",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.653,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 162.16,
+   "end": 168.28,
+   "text": "Nor battle to the strong, nor every gift",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.46,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 171.14,
+   "end": 176.12,
+   "text": "To the wise or skilled or bold",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.46,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 176.12,
+   "end": 182.24,
+   "text": "The time and chance on all take hold",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.46,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 185.44,
+   "end": 190.08,
+   "text": "Under the sun it's all the same",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.453,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 190.08,
+   "end": 195.08,
+   "text": "Time and chance play the game",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.453,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 195.08,
+   "end": 199.76,
+   "text": "But go thy way with joy and bread",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.453,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 199.76,
+   "end": 205.32,
+   "text": "And all upon thy weary head",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.453,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 207.54,
+   "end": 222.02,
+   "text": "A poor wise man saved a town But no one wrote his name down",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.275,
+   "track_id": "DL1lnwaff8k#10"
+  },
+  {
+   "start": 225.42,
+   "end": 236.02,
+   "text": "Still wisdom's better than weapons' loud Though it cries alone and not so proud",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.437,
+   "track_id": "DL1lnwaff8k#10"
+  }
+ ]
+}

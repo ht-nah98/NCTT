@@ -1,0 +1,350 @@
+{
+ "track_id": "942nxbPorY4#04",
+ "track_key": "942nxbPorY4__04",
+ "video_id": "942nxbPorY4",
+ "title": "Breath On Me Again",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 242.0,
+ "voiced_sec": 159.5,
+ "voice_ratio": 0.659,
+ "n_words": 222,
+ "words_per_min": 55.0,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 28.9,
+ "rtf": 0.119,
+ "segments": [
+  {
+   "start": 32.3,
+   "end": 37.72,
+   "text": "I've been dryin' this desert, no rain, no flame",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 37.72,
+   "end": 43.56,
+   "text": "Lost the sound of heaven, callin' out my name",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 43.56,
+   "end": 47.76,
+   "text": "But here I am with open hands",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 48.74,
+   "end": 51.88,
+   "text": "Thirsty for your touch again",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 51.88,
+   "end": 55.84,
+   "text": "Breathe on me, Lord, just breathe again",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 55.84,
+   "end": 59.22,
+   "text": "Like the wind that filled the upper room",
+   "avg_logprob": -0.589,
+   "no_speech_prob": 0.253,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 61.68,
+   "end": 65.14,
+   "text": "Come now, sweet my soul brand new",
+   "avg_logprob": -0.589,
+   "no_speech_prob": 0.253,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 67.12,
+   "end": 70.08,
+   "text": "I need revival deep within",
+   "avg_logprob": -0.589,
+   "no_speech_prob": 0.253,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 71.44,
+   "end": 75.12,
+   "text": "Spirit come and move again",
+   "avg_logprob": -0.589,
+   "no_speech_prob": 0.253,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 75.68,
+   "end": 79.06,
+   "text": "Breathe on, breathe on again",
+   "avg_logprob": -0.589,
+   "no_speech_prob": 0.253,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 80.6,
+   "end": 84.32,
+   "text": "Let your glory rush in.",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.799,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 87.08,
+   "end": 93.5,
+   "text": "Fill this heart, this place, this space, with mercy,",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.799,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 94.74,
+   "end": 97.7,
+   "text": "fire and grace.",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.799,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 98.52,
+   "end": 103.04,
+   "text": "Or I'm open wide, my soul is still.",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.799,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 103.04,
+   "end": 111.42,
+   "text": "Come to what only you call the Spirit",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.799,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 112.86,
+   "end": 116.9,
+   "text": "Breathe on me again",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.799,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 121.04,
+   "end": 127.08,
+   "text": "Oh, I remember when your voice was loud",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.799,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 127.08,
+   "end": 133.66,
+   "text": "Now I'm waiting in the quiet without a sound",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 133.66,
+   "end": 137.44,
+   "text": "But I know you're near, I know you see",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 138.08,
+   "end": 142.0,
+   "text": "Every broken piece inside of me",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 142.0,
+   "end": 144.76,
+   "text": "So come restore",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 144.76,
+   "end": 147.0,
+   "text": "Breathe, breathe, breathe, Lord",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 147.0,
+   "end": 149.84,
+   "text": "Breathe, breathe, breathe, Lord",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 149.84,
+   "end": 153.16,
+   "text": "Like you did when you parted the sea",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 153.16,
+   "end": 156.08,
+   "text": "Breathe, breathe, breathe, Lord",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.788,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 156.08,
+   "end": 160.08,
+   "text": "You're the life inside of me",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 160.08,
+   "end": 165.72,
+   "text": "Oh, come now",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 165.72,
+   "end": 168.08,
+   "text": "Oh, breathe on me",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 168.62,
+   "end": 171.08,
+   "text": "Yes, Lord",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 171.08,
+   "end": 174.22,
+   "text": "Let Your glory rush in",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 174.22,
+   "end": 176.72,
+   "text": "Let it rush in",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 176.72,
+   "end": 179.16,
+   "text": "Oh, fill this heart",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 179.16,
+   "end": 181.3,
+   "text": "This place, this space",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 182.08,
+   "end": 183.52,
+   "text": "We're mercy",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.79,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 192.08,
+   "end": 201.64,
+   "text": "Come to what only You can hold me, spirit",
+   "avg_logprob": -0.678,
+   "no_speech_prob": 0.814,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 201.64,
+   "end": 206.94,
+   "text": "Breathe on me again",
+   "avg_logprob": -0.678,
+   "no_speech_prob": 0.814,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 208.64,
+   "end": 213.0,
+   "text": "Breathe on me",
+   "avg_logprob": -0.678,
+   "no_speech_prob": 0.814,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 213.0,
+   "end": 213.5,
+   "text": "Breathe on me",
+   "avg_logprob": -0.678,
+   "no_speech_prob": 0.814,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 215.02,
+   "end": 217.86,
+   "text": "Just one more time",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 221.08,
+   "end": 223.88,
+   "text": "Holy Spirit",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  },
+  {
+   "start": 225.34,
+   "end": 229.46,
+   "text": "Breathe on me again",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#04"
+  }
+ ]
+}

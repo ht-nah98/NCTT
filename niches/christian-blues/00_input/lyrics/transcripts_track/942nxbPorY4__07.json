@@ -1,0 +1,334 @@
+{
+ "track_id": "942nxbPorY4#07",
+ "track_key": "942nxbPorY4__07",
+ "video_id": "942nxbPorY4",
+ "title": "I Saw The Light",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 261.0,
+ "voiced_sec": 179.0,
+ "voice_ratio": 0.686,
+ "n_words": 235,
+ "words_per_min": 54.0,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 39,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 27.3,
+ "rtf": 0.105,
+ "segments": [
+  {
+   "start": 18.82,
+   "end": 29.3,
+   "text": "I was walking through the valley, shadows all around.",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.621,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 31.3,
+   "end": 34.66,
+   "text": "Heavy with my burdens",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.506,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 35.3,
+   "end": 39.12,
+   "text": "My knees on the ground",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.506,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 40.54,
+   "end": 43.74,
+   "text": "But then I heard you calling",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.506,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 45.66,
+   "end": 48.98,
+   "text": "Lord just said my name",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.506,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 48.98,
+   "end": 53.62,
+   "text": "And the darkness fled",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.506,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 54.78,
+   "end": 58.5,
+   "text": "When the Savior came",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 59.12,
+   "end": 64.74,
+   "text": "Oh, you called me out",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 65.8,
+   "end": 68.04,
+   "text": "Jesus, you found me",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 68.04,
+   "end": 72.32,
+   "text": "Oh, I saw the light",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 72.32,
+   "end": 74.78,
+   "text": "I saw the King",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 74.78,
+   "end": 77.34,
+   "text": "Breaking through my night",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 77.34,
+   "end": 79.6,
+   "text": "With healing in his wings",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 80.12,
+   "end": 81.92,
+   "text": "Now I'm alive",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.669,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 81.92,
+   "end": 87.18,
+   "text": "No more it chains you open my eyes",
+   "avg_logprob": -0.439,
+   "no_speech_prob": 0.588,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 89.44,
+   "end": 95.58,
+   "text": "Oh thank you Lord I'm free again",
+   "avg_logprob": -0.439,
+   "no_speech_prob": 0.588,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 98.9,
+   "end": 106.48,
+   "text": "Every step I take now I feel your peace inside",
+   "avg_logprob": -0.439,
+   "no_speech_prob": 0.588,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 108.16,
+   "end": 116.18,
+   "text": "You lit the flame in me that no one can hide",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.737,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 118.24,
+   "end": 125.6,
+   "text": "I was blind but grace gave me sight",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.737,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 127.36,
+   "end": 135.32,
+   "text": "Now I live to walk in your glorious light",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.72,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 137.74,
+   "end": 141.6,
+   "text": "You shine so bright",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.72,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 143.58,
+   "end": 150.66,
+   "text": "I don't fear the storm or the night no more",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.72,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 150.66,
+   "end": 155.14,
+   "text": "You are my shepherd, my open door",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.553,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 155.66,
+   "end": 160.14,
+   "text": "You pulled me out, you made me whole",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.553,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 160.66,
+   "end": 165.12,
+   "text": "Now your light lives deep in my soul",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.553,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 166.68,
+   "end": 169.82,
+   "text": "Hallelujah, I am yours forever",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.553,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 169.82,
+   "end": 176.12,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.553,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 176.12,
+   "end": 180.4,
+   "text": "I saw the light and I won't turn back",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.52,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 180.4,
+   "end": 185.2,
+   "text": "You carried me when the road went black",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.52,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 185.2,
+   "end": 190.3,
+   "text": "My redeemer, my saving flame",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.52,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 190.3,
+   "end": 194.84,
+   "text": "I'll praise your light forever proclaimed",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.52,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 196.12,
+   "end": 202.04,
+   "text": "Forever yours, you're the light in me",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.52,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 207.36,
+   "end": 216.48,
+   "text": "He who follows me shall not walk in darkness, but shall have the light of life.",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.723,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 216.48,
+   "end": 219.74,
+   "text": "Be who follows me",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.719,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 222.68,
+   "end": 225.96,
+   "text": "God, oh Lord",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.719,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 226.48,
+   "end": 229.6,
+   "text": "Be who follows me",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.719,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 233.48,
+   "end": 235.48,
+   "text": "Shadow Lord",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.719,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 236.2,
+   "end": 238.48,
+   "text": "Be who follows me",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.719,
+   "track_id": "942nxbPorY4#07"
+  },
+  {
+   "start": 239.08,
+   "end": 240.48,
+   "text": "Shadow Lord",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.719,
+   "track_id": "942nxbPorY4#07"
+  }
+ ]
+}

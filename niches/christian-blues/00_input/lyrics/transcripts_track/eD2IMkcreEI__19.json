@@ -1,0 +1,478 @@
+{
+ "track_id": "eD2IMkcreEI#19",
+ "track_key": "eD2IMkcreEI__19",
+ "video_id": "eD2IMkcreEI",
+ "title": "You Never Let Go",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 236.0,
+ "voiced_sec": 202.8,
+ "voice_ratio": 0.859,
+ "n_words": 306,
+ "words_per_min": 77.8,
+ "is_instrumental": false,
+ "n_segments": 57,
+ "n_segments_voiced": 57,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 16.0,
+ "rtf": 0.068,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.9,
+   "text": "Early in the morning my heart will rise",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 5.9,
+   "end": 11.4,
+   "text": "Hands lifted high to the endless skies",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 11.4,
+   "end": 17.28,
+   "text": "In Your presence, Lord, chains fall away",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 17.28,
+   "end": 23.96,
+   "text": "Joy comes alive and the darkness fades",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.621,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 23.96,
+   "end": 28.4,
+   "text": "Oh, I feel Your presence, Lord",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.782,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 28.4,
+   "end": 33.22,
+   "text": "Every step I take, I'm walking in Your grace",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.782,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 33.22,
+   "end": 38.86,
+   "text": "Every breath I breathe, I'm singing of Your name",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.782,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 38.86,
+   "end": 41.78,
+   "text": "In the house of the Lord",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.782,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 41.78,
+   "end": 44.74,
+   "text": "There's freedom, there's light",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.782,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 44.74,
+   "end": 47.86,
+   "text": "There's healing in the morning",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.782,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 47.86,
+   "end": 50.38,
+   "text": "There's peace in the night",
+   "avg_logprob": -0.15,
+   "no_speech_prob": 0.782,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 50.38,
+   "end": 53.44,
+   "text": "In the house of the Lord",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 54.08,
+   "end": 56.38,
+   "text": "The lost are found",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 56.38,
+   "end": 59.18,
+   "text": "Every need we'll bow",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 59.18,
+   "end": 62.22,
+   "text": "When the saints cry",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 65.0,
+   "end": 67.86,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 67.86,
+   "end": 71.24,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 71.24,
+   "end": 71.58,
+   "text": "Yeah",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 73.18,
+   "end": 75.38,
+   "text": "There's a table set",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 75.38,
+   "end": 78.24,
+   "text": "With mercy and grace",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.524,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 78.24,
+   "end": 83.22,
+   "text": "Every sinner saved by love's embrace",
+   "avg_logprob": -0.189,
+   "no_speech_prob": 0.754,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 83.22,
+   "end": 86.24,
+   "text": "Oh, we'll dance, we'll shout",
+   "avg_logprob": -0.189,
+   "no_speech_prob": 0.754,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 86.84,
+   "end": 92.24,
+   "text": "We'll lift our hands for the King of Kings",
+   "avg_logprob": -0.189,
+   "no_speech_prob": 0.754,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 92.76,
+   "end": 94.48,
+   "text": "The greater",
+   "avg_logprob": -0.189,
+   "no_speech_prob": 0.754,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 97.24,
+   "end": 100.0,
+   "text": "The other reason we sing",
+   "avg_logprob": -0.189,
+   "no_speech_prob": 0.754,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 100.0,
+   "end": 104.52,
+   "text": "For where two or three gather in my name",
+   "avg_logprob": -0.189,
+   "no_speech_prob": 0.754,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 104.52,
+   "end": 110.52,
+   "text": "They're in my with them",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.654,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 111.14,
+   "end": 115.92,
+   "text": "Shades are breaking, hearts are waking",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.654,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 116.52,
+   "end": 121.76,
+   "text": "Your love is overtaken",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.654,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 122.52,
+   "end": 128.58,
+   "text": "Every nation, every tongue, every tongue",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.654,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 128.58,
+   "end": 132.88,
+   "text": "Oh, sings of what you've done",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 133.58,
+   "end": 138.6,
+   "text": "Oh, you've been so good",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 138.6,
+   "end": 141.7,
+   "text": "Been so good",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 142.58,
+   "end": 144.8,
+   "text": "You've been so good",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 144.8,
+   "end": 147.22,
+   "text": "In the house of the Lord",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 147.22,
+   "end": 150.38,
+   "text": "There's joy untold",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 150.38,
+   "end": 153.1,
+   "text": "There's mercy like rivers",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 153.1,
+   "end": 155.96,
+   "text": "There's grace that holds",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 155.96,
+   "end": 158.78,
+   "text": "In the house of the Lord",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 159.66,
+   "end": 162.04,
+   "text": "The loss come home",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 162.04,
+   "end": 164.84,
+   "text": "Every voice will rise",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 164.84,
+   "end": 168.46,
+   "text": "And the saints will roar",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 171.96,
+   "end": 174.76,
+   "text": "In the house of the Lord",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 174.76,
+   "end": 177.86,
+   "text": "We find our peace",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 177.86,
+   "end": 180.5,
+   "text": "In the house of the Lord",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 180.5,
+   "end": 183.16,
+   "text": "Our change release",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.576,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 183.16,
+   "end": 189.94,
+   "text": "In the house of the Lord His glory reigns",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.386,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 189.94,
+   "end": 195.36,
+   "text": "Forever will praise His holy name",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.386,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 196.82,
+   "end": 200.88,
+   "text": "Surely goodness and mercy shall follow me all the days of my life",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.386,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 203.16,
+   "end": 205.42,
+   "text": "And I will dwell in the house of the Lord forever",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.386,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 209.48,
+   "end": 216.68,
+   "text": "Forever, forever, in the house floor",
+   "avg_logprob": -0.735,
+   "no_speech_prob": 0.739,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 216.72,
+   "end": 218.04,
+   "text": "I've had a storm",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.347,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 219.72,
+   "end": 221.36,
+   "text": "I've had a storm",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.347,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 222.72,
+   "end": 224.48,
+   "text": "I've had a storm",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.347,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 227.72,
+   "end": 229.88,
+   "text": "I've had a storm",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.347,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 230.72,
+   "end": 232.72,
+   "text": "I've had a storm",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.347,
+   "track_id": "eD2IMkcreEI#19"
+  },
+  {
+   "start": 233.62,
+   "end": 235.5,
+   "text": "I've had a storm",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.347,
+   "track_id": "eD2IMkcreEI#19"
+  }
+ ]
+}

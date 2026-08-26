@@ -1,0 +1,262 @@
+{
+ "track_id": "sGjecIPJalE#04",
+ "track_key": "sGjecIPJalE__04",
+ "video_id": "sGjecIPJalE",
+ "title": "My Father's House (Matthew 21)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 246.0,
+ "voiced_sec": 132.7,
+ "voice_ratio": 0.54,
+ "n_words": 226,
+ "words_per_min": 55.1,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 30,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 33.7,
+ "rtf": 0.137,
+ "segments": [
+  {
+   "start": 17.06,
+   "end": 25.48,
+   "text": "I walked into the temple, saw what they had done.",
+   "avg_logprob": -0.576,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 27.64,
+   "end": 34.48,
+   "text": "Tables full of silver, cones gleaming in the sun",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.397,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 36.44,
+   "end": 43.98,
+   "text": "Money changes shouting, selling lambs at the door",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.397,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 43.98,
+   "end": 48.8,
+   "text": "I felt the fire rise within",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.397,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 50.4,
+   "end": 53.76,
+   "text": "Couldn't take it anymore",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.422,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 59.8,
+   "end": 65.82,
+   "text": "My father's house is a house of prayer Not a den of thieves beware",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.422,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 66.48,
+   "end": 72.42,
+   "text": "You turn my temple into a store My father's house no more",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.422,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 72.42,
+   "end": 75.4,
+   "text": "The zeal for God consumes my soul",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 75.4,
+   "end": 78.34,
+   "text": "His glory is what I came here for",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 78.34,
+   "end": 81.24,
+   "text": "I drove a mile from roof to floor",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 81.24,
+   "end": 84.38,
+   "text": "My Father's house no more",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 85.18,
+   "end": 88.28,
+   "text": "I made a whip of chords in hand",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 88.28,
+   "end": 91.32,
+   "text": "Turned over every stand",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 91.32,
+   "end": 94.32,
+   "text": "Take these things and leave this place",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 94.32,
+   "end": 97.22,
+   "text": "Don't make my Father's house disgrace",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 97.22,
+   "end": 100.54,
+   "text": "The dog flew out, the coins rolled down",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 100.54,
+   "end": 103.66,
+   "text": "The merchants ran, hearts hit the ground",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 103.66,
+   "end": 106.68,
+   "text": "My voice rang out across the floor",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 106.68,
+   "end": 110.64,
+   "text": "My father's house, no more",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 111.82,
+   "end": 115.48,
+   "text": "My father's house is a house of prayer",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 115.48,
+   "end": 118.7,
+   "text": "Not a den of thieves beware",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 118.7,
+   "end": 121.38,
+   "text": "You turn my temple into a store",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 121.38,
+   "end": 124.8,
+   "text": "My father's house, no more",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 124.8,
+   "end": 127.54,
+   "text": "This year for God consumed my soul",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 127.74,
+   "end": 130.9,
+   "text": "His glory is what I came here for",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.696,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 130.9,
+   "end": 133.86,
+   "text": "I drove a mountain from roof to floor",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.696,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 133.86,
+   "end": 137.62,
+   "text": "My father's house no more",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.696,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 160.48,
+   "end": 170.96,
+   "text": "I said destroy this temple And in three days I'll raise it up",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.57,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 171.62,
+   "end": 179.0,
+   "text": "From death to grave It did not see what I came for",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.57,
+   "track_id": "sGjecIPJalE#04"
+  },
+  {
+   "start": 179.0,
+   "end": 187.92,
+   "text": "My father's house forevermore",
+   "avg_logprob": -0.512,
+   "no_speech_prob": 0.466,
+   "track_id": "sGjecIPJalE#04"
+  }
+ ]
+}

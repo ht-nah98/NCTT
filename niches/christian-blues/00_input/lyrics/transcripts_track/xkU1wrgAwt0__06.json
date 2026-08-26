@@ -1,0 +1,118 @@
+{
+ "track_id": "xkU1wrgAwt0#06",
+ "track_key": "xkU1wrgAwt0__06",
+ "video_id": "xkU1wrgAwt0",
+ "title": "6. Psalm 121 – Keeper of My Steps",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 205.0,
+ "voiced_sec": 124.7,
+ "voice_ratio": 0.608,
+ "n_words": 167,
+ "words_per_min": 48.9,
+ "is_instrumental": false,
+ "n_segments": 12,
+ "n_segments_voiced": 12,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.0,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 12.38,
+   "end": 24.12,
+   "text": "I live my eyes to the hills ahead Where does my help come when I'm filled with",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.618,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 25.5,
+   "end": 37.26,
+   "text": "My help comes from the Lord above Who made the heavens and walks in love",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 39.12,
+   "end": 49.46,
+   "text": "He won't let my foot be moved He watches me with eyes that prove",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 50.7,
+   "end": 62.12,
+   "text": "He don't slumber, he don't sleep He's the keeper of my steps so deep",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.538,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 67.14,
+   "end": 77.78,
+   "text": "The Lord's my shade, and my right hand The sun won't scorch, the moon won't land",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.538,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 77.78,
+   "end": 90.2,
+   "text": "No harm shall strike me by the day He guards my soul when I lose my way",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 91.78,
+   "end": 102.74,
+   "text": "He'll keep me now and forevermore When I leave my home, I'll shut the door",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 102.74,
+   "end": 114.86,
+   "text": "From this time for end ages gone He walks beside me through every song",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.655,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 116.74,
+   "end": 126.96,
+   "text": "He won't let my foot be moved He watches me with eyes that prove",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.655,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 126.96,
+   "end": 139.26,
+   "text": "He don't slumber, he don't sleep He's the keeper of my steps so deep",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.579,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 144.2,
+   "end": 151.94,
+   "text": "So I keep walking, no need to fret My arms from Zion",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.579,
+   "track_id": "xkU1wrgAwt0#06"
+  },
+  {
+   "start": 154.24,
+   "end": 157.3,
+   "text": "He ain't failed me yet",
+   "avg_logprob": -0.622,
+   "no_speech_prob": 0.517,
+   "track_id": "xkU1wrgAwt0#06"
+  }
+ ]
+}

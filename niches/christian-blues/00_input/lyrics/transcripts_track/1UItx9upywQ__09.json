@@ -1,0 +1,190 @@
+{
+ "track_id": "1UItx9upywQ#09",
+ "track_key": "1UItx9upywQ__09",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Turned My Mourning Into Dancing\" - Psalm 30",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 142.0,
+ "voiced_sec": 98.9,
+ "voice_ratio": 0.697,
+ "n_words": 129,
+ "words_per_min": 54.5,
+ "is_instrumental": false,
+ "n_segments": 21,
+ "n_segments_voiced": 21,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 27.6,
+ "rtf": 0.194,
+ "segments": [
+  {
+   "start": 2.96,
+   "end": 4.3,
+   "text": "Yeah",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.532,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 13.18,
+   "end": 20.42,
+   "text": "I was down so low I couldn't see the light",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.532,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 22.0,
+   "end": 27.46,
+   "text": "Heart was heavy like a storm in the night",
+   "avg_logprob": -0.44,
+   "no_speech_prob": 0.532,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 35.18,
+   "end": 40.34,
+   "text": "You turned my tears into a melody.",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.598,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 42.3,
+   "end": 48.74,
+   "text": "Oh Lord, you set my spirit free.",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.598,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 51.78,
+   "end": 55.82,
+   "text": "You turned my morning into dancing.",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.598,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 55.82,
+   "end": 57.82,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.727,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 58.66,
+   "end": 62.88,
+   "text": "Oh, my soul can't stop this praising",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.727,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 62.88,
+   "end": 65.92,
+   "text": "Oh, hallelujah",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.727,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 65.92,
+   "end": 69.38,
+   "text": "Hallelujah, joy everlasting",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.727,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 69.38,
+   "end": 72.94,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.727,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 72.94,
+   "end": 76.98,
+   "text": "You turned my morning into dancing",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.727,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 78.58,
+   "end": 83.76,
+   "text": "The shadows tried to hold me in a chain",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.727,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 85.82,
+   "end": 90.6,
+   "text": "But you broke them all with your holy name",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 92.36,
+   "end": 98.62,
+   "text": "Now I'm standing tall with a song to sing",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 99.82,
+   "end": 103.82,
+   "text": "You turned my pain into a victory",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 106.82,
+   "end": 112.36,
+   "text": "Oh Lord, your love is all I need",
+   "avg_logprob": -0.264,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 115.82,
+   "end": 119.2,
+   "text": "You turn my morning into dancing",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.264,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 119.82,
+   "end": 126.5,
+   "text": "Oh, my soul can't stop this brazen",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.264,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 126.5,
+   "end": 133.22,
+   "text": "Hallelujah, Hallelujah, joy everlasting",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.264,
+   "track_id": "1UItx9upywQ#09"
+  },
+  {
+   "start": 133.82,
+   "end": 140.22,
+   "text": "Oh, you turn my morning into dancing",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.264,
+   "track_id": "1UItx9upywQ#09"
+  }
+ ]
+}

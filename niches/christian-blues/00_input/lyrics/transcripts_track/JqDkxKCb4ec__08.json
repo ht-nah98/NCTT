@@ -1,0 +1,294 @@
+{
+ "track_id": "JqDkxKCb4ec#08",
+ "track_key": "JqDkxKCb4ec__08",
+ "video_id": "JqDkxKCb4ec",
+ "title": "Treasure Of The Soul (Proverbs 2)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 220.0,
+ "voiced_sec": 124.8,
+ "voice_ratio": 0.567,
+ "n_words": 223,
+ "words_per_min": 60.8,
+ "is_instrumental": false,
+ "n_segments": 34,
+ "n_segments_voiced": 34,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.1,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 11.18,
+   "end": 17.74,
+   "text": "My son, you take my words to heart",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.42,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 20.4,
+   "end": 22.96,
+   "text": "Treasure my commands inside",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.42,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 25.68,
+   "end": 34.9,
+   "text": "Turn your ear to wisdom's voice, let understanding be your guide",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.617,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 36.24,
+   "end": 46.14,
+   "text": "Cry out for insight, lift your voice Search like silver in the ground",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.617,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 49.12,
+   "end": 53.22,
+   "text": "Then you'll find the fear of the Lord",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 54.66,
+   "end": 57.7,
+   "text": "And knowledge will be found",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 59.38,
+   "end": 63.14,
+   "text": "The Lord gives wisdom from his mouth",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 64.1,
+   "end": 67.38,
+   "text": "Knowledge and truth unfolds",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 67.38,
+   "end": 70.26,
+   "text": "He's a shield to the upright man",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 70.26,
+   "end": 74.22,
+   "text": "And God's his righteous soul",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 88.26,
+   "end": 91.68,
+   "text": "He keeps a path of justice straight",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 91.68,
+   "end": 94.5,
+   "text": "Protects the faithful way",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 95.26,
+   "end": 98.54,
+   "text": "Then you'll know what's right and good",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 98.54,
+   "end": 101.44,
+   "text": "Every step you take each day",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 102.66,
+   "end": 105.34,
+   "text": "Wisdom enters the heart within",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 106.54,
+   "end": 108.48,
+   "text": "And knowledge brings delight",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 109.62,
+   "end": 112.38,
+   "text": "Discretion, God, you're every move",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 112.38,
+   "end": 114.98,
+   "text": "And keep your steps upright",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 115.54,
+   "end": 118.76,
+   "text": "The Lord gives wisdom from his mouth",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 119.54,
+   "end": 121.92,
+   "text": "Knowledge and truth unfold",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 122.54,
+   "end": 125.66,
+   "text": "He's a shield to the upright man",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 125.66,
+   "end": 129.22,
+   "text": "And God says, ride your soul",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 135.58,
+   "end": 138.66,
+   "text": "And God says, ride your soul",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 143.82,
+   "end": 146.62,
+   "text": "He'll save you from the wicked man",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 146.62,
+   "end": 149.48,
+   "text": "Whose words are dark and slight",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 150.74,
+   "end": 153.58,
+   "text": "From the one who leaves the straight path",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 153.58,
+   "end": 156.52,
+   "text": "And loves the ways that lie",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 157.58,
+   "end": 160.5,
+   "text": "He'll keep you from the stranger's house",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 160.5,
+   "end": 163.5,
+   "text": "Whose path leads down to death",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 163.5,
+   "end": 167.42,
+   "text": "But the righteous dwell in the land of peace",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 167.42,
+   "end": 170.18,
+   "text": "And walk in the spirit's breath",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 173.58,
+   "end": 177.18,
+   "text": "The Lord gives wisdom from his mouth",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 177.18,
+   "end": 180.12,
+   "text": "Knowledge and truth unfold",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08"
+  },
+  {
+   "start": 180.12,
+   "end": 187.36,
+   "text": "He's a shield to the upright man And God's his righteous soul",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.514,
+   "track_id": "JqDkxKCb4ec#08"
+  }
+ ]
+}

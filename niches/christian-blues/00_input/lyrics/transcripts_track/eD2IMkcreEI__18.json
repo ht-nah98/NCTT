@@ -1,0 +1,366 @@
+{
+ "track_id": "eD2IMkcreEI#18",
+ "track_key": "eD2IMkcreEI__18",
+ "video_id": "eD2IMkcreEI",
+ "title": "Way Maker",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 296.0,
+ "voiced_sec": 166.2,
+ "voice_ratio": 0.562,
+ "n_words": 241,
+ "words_per_min": 48.9,
+ "is_instrumental": false,
+ "n_segments": 43,
+ "n_segments_voiced": 43,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.6,
+ "rtf": 0.039,
+ "segments": [
+  {
+   "start": 1.48,
+   "end": 10.84,
+   "text": "Way maker, way maker, way maker",
+   "avg_logprob": -0.652,
+   "no_speech_prob": 0.602,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 51.66,
+   "end": 59.84,
+   "text": "Even when I wonder, you help me",
+   "avg_logprob": -0.73,
+   "no_speech_prob": 0.688,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 62.1,
+   "end": 64.64,
+   "text": "You help me close",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.804,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 71.16,
+   "end": 75.64,
+   "text": "I've walked through fire, I faced the flood",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.804,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 75.64,
+   "end": 80.18,
+   "text": "Felt the weight of guilt, like a rising flood",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.804,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 80.84,
+   "end": 84.78,
+   "text": "But even there, when I couldn't see",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.804,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 84.78,
+   "end": 89.32,
+   "text": "Your love reached down and carried me",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.789,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 89.32,
+   "end": 94.12,
+   "text": "Oh yes you did love, you never let go",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.789,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 94.78,
+   "end": 98.82,
+   "text": "No matter how far you pulled me close",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.789,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 99.78,
+   "end": 103.62,
+   "text": "You healed my heart through every trial",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.789,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 103.62,
+   "end": 108.02,
+   "text": "Every low you held me tight",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.789,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 108.02,
+   "end": 110.6,
+   "text": "You never let go",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.789,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 117.36,
+   "end": 120.56,
+   "text": "You never let me go",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.643,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 126.64,
+   "end": 131.32,
+   "text": "I ran from truth, I ran from grace",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.643,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 131.32,
+   "end": 136.06,
+   "text": "But still you stayed, you showed me faith",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.643,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 136.06,
+   "end": 140.52,
+   "text": "And in my silence I heard your song",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.761,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 141.06,
+   "end": 145.08,
+   "text": "Whisper in my child, you still belong",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.761,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 145.08,
+   "end": 147.74,
+   "text": "You called me yours",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.761,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 147.74,
+   "end": 152.22,
+   "text": "You never let go through the darkest night",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.761,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 152.22,
+   "end": 156.82,
+   "text": "You broke my chains, you gave me life",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.761,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 156.82,
+   "end": 161.3,
+   "text": "Even when I turned away",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.761,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 161.3,
+   "end": 166.46,
+   "text": "You were right there, you always stay",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.827,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 173.3,
+   "end": 176.4,
+   "text": "You never let me go",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.827,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 183.3,
+   "end": 185.06,
+   "text": "When I cried",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.827,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 185.06,
+   "end": 187.3,
+   "text": "You hurt me loud",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.827,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 187.3,
+   "end": 189.5,
+   "text": "When I fell",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.827,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 189.5,
+   "end": 192.28,
+   "text": "You lifted me out",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 192.28,
+   "end": 194.04,
+   "text": "When I died",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 194.04,
+   "end": 196.5,
+   "text": "You still believed",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 197.5,
+   "end": 201.36,
+   "text": "Whenever I leave",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 201.36,
+   "end": 204.08,
+   "text": "Oh, yes you did",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 204.08,
+   "end": 205.7,
+   "text": "You never let go",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 205.7,
+   "end": 208.02,
+   "text": "Your hands held mine",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 208.02,
+   "end": 210.42,
+   "text": "When I was broken",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 210.42,
+   "end": 212.64,
+   "text": "You gave me time",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 212.64,
+   "end": 215.1,
+   "text": "Through all the pain",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 215.1,
+   "end": 217.14,
+   "text": "Through every no",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.745,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 217.14,
+   "end": 222.64,
+   "text": "You stayed the same, you never let go",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.664,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 226.14,
+   "end": 231.8,
+   "text": "You never let me go",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.664,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 234.14,
+   "end": 241.14,
+   "text": "You are faithful, I know, I know",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.664,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 246.98,
+   "end": 251.88,
+   "text": "You never gave up on me",
+   "avg_logprob": -0.722,
+   "no_speech_prob": 0.677,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 282.44,
+   "end": 284.84,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.588,
+   "no_speech_prob": 0.535,
+   "track_id": "eD2IMkcreEI#18"
+  },
+  {
+   "start": 290.58,
+   "end": 295.7,
+   "text": "Early in the morning my heart will rise",
+   "avg_logprob": -0.588,
+   "no_speech_prob": 0.535,
+   "track_id": "eD2IMkcreEI#18"
+  }
+ ]
+}

@@ -1,0 +1,8098 @@
+{
+ "video_id": "5n1cYN-yDmo",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 3744.7,
+ "voiced_sec": 2721.8,
+ "voice_ratio": 0.727,
+ "is_instrumental": false,
+ "n_segments": 808,
+ "n_segments_voiced": 764,
+ "n_tracks": 13,
+ "n_seg_mapped": 808,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 9.32,
+   "end": 11.88,
+   "text": "Welcome to the Rhyla Worship Room Music.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.496,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 9.32,
+   "track_end": 11.88
+  },
+  {
+   "start": 14.76,
+   "end": 19.34,
+   "text": "But weary hearts find rest, broken spirits find healing.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.496,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 14.76,
+   "track_end": 19.34
+  },
+  {
+   "start": 20.76,
+   "end": 25.4,
+   "text": "And every soul searching for hope finds the love of Jesus waiting with open arms.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.496,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 20.76,
+   "track_end": 25.4
+  },
+  {
+   "start": 25.4,
+   "end": 29.52,
+   "text": "Right here, right now",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 25.4,
+   "track_end": 29.52
+  },
+  {
+   "start": 30.8,
+   "end": 34.1,
+   "text": "Let His presence wash over you",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 30.8,
+   "track_end": 34.1
+  },
+  {
+   "start": 36.5,
+   "end": 39.44,
+   "text": "Let His peace settle in your chest",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 36.5,
+   "track_end": 39.44
+  },
+  {
+   "start": 41.4,
+   "end": 45.42,
+   "text": "And let His amazing grace lift you higher",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 41.4,
+   "track_end": 45.42
+  },
+  {
+   "start": 45.42,
+   "end": 48.98,
+   "text": "Than every burden you walked in with",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 45.42,
+   "track_end": 48.98
+  },
+  {
+   "start": 48.98,
+   "end": 51.88,
+   "text": "Your home, your scene, your love",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.594,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 48.98,
+   "track_end": 51.88
+  },
+  {
+   "start": 51.88,
+   "end": 53.66,
+   "text": "Let's worship together",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 51.88,
+   "track_end": 53.66
+  },
+  {
+   "start": 55.12,
+   "end": 58.0,
+   "text": "I was walking through the shadows",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 55.12,
+   "track_end": 58.0
+  },
+  {
+   "start": 58.0,
+   "end": 61.0,
+   "text": "Didn't know which way to turn",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 58.0,
+   "track_end": 61.0
+  },
+  {
+   "start": 61.0,
+   "end": 63.78,
+   "text": "Had a heart full of sorrow",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 61.0,
+   "track_end": 63.78
+  },
+  {
+   "start": 63.78,
+   "end": 66.6,
+   "text": "And a soul that wouldn't learn",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 63.78,
+   "track_end": 66.6
+  },
+  {
+   "start": 66.6,
+   "end": 69.76,
+   "text": "But then you whispered in the darkness",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 66.6,
+   "track_end": 69.76
+  },
+  {
+   "start": 69.76,
+   "end": 72.66,
+   "text": "Said my child don't be afraid",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 69.76,
+   "track_end": 72.66
+  },
+  {
+   "start": 72.66,
+   "end": 75.82,
+   "text": "And in a moment chains were broken",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 72.66,
+   "track_end": 75.82
+  },
+  {
+   "start": 75.82,
+   "end": 77.62,
+   "text": "You covered me with grace",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 75.82,
+   "track_end": 77.62
+  },
+  {
+   "start": 78.96,
+   "end": 80.52,
+   "text": "Amazing grace",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 78.96,
+   "track_end": 80.52
+  },
+  {
+   "start": 80.52,
+   "end": 86.52,
+   "text": "How sweet the sound that lived in me",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 80.52,
+   "track_end": 86.52
+  },
+  {
+   "start": 87.16,
+   "end": 89.76,
+   "text": "When I fell down",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 87.16,
+   "track_end": 89.76
+  },
+  {
+   "start": 89.76,
+   "end": 93.06,
+   "text": "Your mercy found me wrapped around me",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 89.76,
+   "track_end": 93.06
+  },
+  {
+   "start": 93.06,
+   "end": 97.3,
+   "text": "Jesus, You turned my life around",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 93.06,
+   "track_end": 97.3
+  },
+  {
+   "start": 97.3,
+   "end": 101.78,
+   "text": "Oh, amazing grace",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 97.3,
+   "track_end": 101.78
+  },
+  {
+   "start": 104.82,
+   "end": 107.82,
+   "text": "Forever I'll sing",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.747,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 104.82,
+   "track_end": 107.82
+  },
+  {
+   "start": 107.82,
+   "end": 115.56,
+   "text": "You healed my heart You made me clean every breath I breathed",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.703,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 107.82,
+   "track_end": 115.56
+  },
+  {
+   "start": 115.56,
+   "end": 121.9,
+   "text": "My Lord and King I stand in Your amazing grace",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.703,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 115.56,
+   "track_end": 121.9
+  },
+  {
+   "start": 127.46,
+   "end": 135.84,
+   "text": "I carried guilt like heavy stones Felt the weight of yesterday",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 127.46,
+   "track_end": 135.84
+  },
+  {
+   "start": 138.26,
+   "end": 145.86,
+   "text": "But you took all my failures And you washed them all away",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 138.26,
+   "track_end": 145.86
+  },
+  {
+   "start": 145.86,
+   "end": 151.24,
+   "text": "Now I'm walking in your freedom, got a joy I can't explain",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 145.86,
+   "track_end": 151.24
+  },
+  {
+   "start": 151.86,
+   "end": 160.42,
+   "text": "Cause when the world tried to break me, you called me by my name",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 151.86,
+   "track_end": 160.42
+  },
+  {
+   "start": 163.12,
+   "end": 171.36,
+   "text": "Amazing grace, how sweet the sound that lived in me",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.527,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 163.12,
+   "track_end": 171.36
+  },
+  {
+   "start": 171.36,
+   "end": 177.74,
+   "text": "When I fell down, Your mercy found me wrapped around me",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 171.36,
+   "track_end": 177.74
+  },
+  {
+   "start": 177.74,
+   "end": 181.9,
+   "text": "Jesus, You turned my life around",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 177.74,
+   "track_end": 181.9
+  },
+  {
+   "start": 181.9,
+   "end": 189.5,
+   "text": "Oh, amazing grace, amazing grace",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 181.9,
+   "track_end": 189.5
+  },
+  {
+   "start": 189.5,
+   "end": 195.58,
+   "text": "Forever I'll sing You healed my heart",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 189.5,
+   "track_end": 195.58
+  },
+  {
+   "start": 195.58,
+   "end": 200.22,
+   "text": "You made me clean Every breath I breathed",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.666,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 195.58,
+   "track_end": 200.22
+  },
+  {
+   "start": 200.22,
+   "end": 206.32,
+   "text": "my Lord and King I stand in Your amazing way",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 200.22,
+   "track_end": 206.32
+  },
+  {
+   "start": 209.22,
+   "end": 212.2,
+   "text": "When I was lost Your grace found",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 209.22,
+   "track_end": 212.2
+  },
+  {
+   "start": 212.2,
+   "end": 215.34,
+   "text": "When I was broken Your love crowned me",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 212.2,
+   "track_end": 215.34
+  },
+  {
+   "start": 215.34,
+   "end": 218.52,
+   "text": "When I was sinking You reached down for me",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 215.34,
+   "track_end": 218.52
+  },
+  {
+   "start": 218.52,
+   "end": 221.5,
+   "text": "And now I'm standing in victory",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 218.52,
+   "track_end": 221.5
+  },
+  {
+   "start": 222.22,
+   "end": 227.36,
+   "text": "Grace, oh, amazing Love everlasting",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.458,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 222.22,
+   "track_end": 227.36
+  },
+  {
+   "start": 227.36,
+   "end": 234.66,
+   "text": "Jesus, you saved me Now my soul is dancing",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.805,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 227.36,
+   "track_end": 234.66
+  },
+  {
+   "start": 238.94,
+   "end": 247.28,
+   "text": "Amazing grace How sweet the sound",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.805,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 238.94,
+   "track_end": 247.28
+  },
+  {
+   "start": 247.28,
+   "end": 251.08,
+   "text": "How did this defeat me?",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 247.28,
+   "track_end": 251.08
+  },
+  {
+   "start": 251.54,
+   "end": 253.02,
+   "text": "Where I fell down",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 251.54,
+   "track_end": 253.02
+  },
+  {
+   "start": 253.02,
+   "end": 254.94,
+   "text": "Your mercy found me",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 253.02,
+   "track_end": 254.94
+  },
+  {
+   "start": 254.94,
+   "end": 256.52,
+   "text": "Wrapped around me",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 254.94,
+   "track_end": 256.52
+  },
+  {
+   "start": 256.52,
+   "end": 260.54,
+   "text": "Jesus you turned my life around",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 256.52,
+   "track_end": 260.54
+  },
+  {
+   "start": 261.78,
+   "end": 264.04,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 261.78,
+   "track_end": 264.04
+  },
+  {
+   "start": 264.04,
+   "end": 268.12,
+   "text": "Amazing grace, amazing grace",
+   "avg_logprob": -0.865,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 264.04,
+   "track_end": 268.12
+  },
+  {
+   "start": 268.12,
+   "end": 274.2,
+   "text": "Forever I'll sing You heal my heart",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 268.12,
+   "track_end": 274.2
+  },
+  {
+   "start": 274.2,
+   "end": 280.2,
+   "text": "You made me clean Every breath I breathe, my Lord and King",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 274.2,
+   "track_end": 280.2
+  },
+  {
+   "start": 280.2,
+   "end": 285.06,
+   "text": "I stand in Your amazing grace",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 280.2,
+   "track_end": 285.06
+  },
+  {
+   "start": 288.86,
+   "end": 294.5,
+   "text": "Your grace, Your grace, Your grace",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.529,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 288.86,
+   "track_end": 294.5
+  },
+  {
+   "start": 296.58,
+   "end": 307.72,
+   "text": "Keeps carrying, worrying me Amazing grace, forever I'll see",
+   "avg_logprob": -0.747,
+   "no_speech_prob": 0.448,
+   "track_id": "5n1cYN-yDmo#01",
+   "track_start": 296.58,
+   "track_end": 307.72
+  },
+  {
+   "start": 323.84,
+   "end": 334.82,
+   "text": "Oh Lord, if it wasn't for your love, if it wasn't for your grace,",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 9.84,
+   "track_end": 20.82
+  },
+  {
+   "start": 351.9,
+   "end": 359.64,
+   "text": "I remember all the nights I cried Heartbroken, barely holding on inside",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.698,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 37.9,
+   "track_end": 45.64
+  },
+  {
+   "start": 359.64,
+   "end": 363.56,
+   "text": "Storm clouds gathering nowhere to hide",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 45.64,
+   "track_end": 49.56
+  },
+  {
+   "start": 363.56,
+   "end": 367.78,
+   "text": "But you reach down and pull me to the other side",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 49.56,
+   "track_end": 53.78
+  },
+  {
+   "start": 367.78,
+   "end": 371.26,
+   "text": "You whisper, child, don't lose your fight",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 53.78,
+   "track_end": 57.26
+  },
+  {
+   "start": 372.24,
+   "end": 375.24,
+   "text": "And you wrap me in your holy light",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 58.24,
+   "track_end": 61.24
+  },
+  {
+   "start": 375.9,
+   "end": 378.5,
+   "text": "You gave me strength when I had none",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 61.9,
+   "track_end": 64.5
+  },
+  {
+   "start": 378.5,
+   "end": 382.32,
+   "text": "You were the healing in my heart, it Lord, you made me run",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 64.5,
+   "track_end": 68.32
+  },
+  {
+   "start": 383.1,
+   "end": 384.54,
+   "text": "Healing, yeah",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 69.1,
+   "track_end": 70.54
+  },
+  {
+   "start": 384.54,
+   "end": 387.02,
+   "text": "You lifted me, yeah",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 70.54,
+   "track_end": 73.02
+  },
+  {
+   "start": 387.02,
+   "end": 388.9,
+   "text": "Healing, yeah",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 73.02,
+   "track_end": 74.9
+  },
+  {
+   "start": 388.9,
+   "end": 390.7,
+   "text": "You carried me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 74.9,
+   "track_end": 76.7
+  },
+  {
+   "start": 390.7,
+   "end": 392.22,
+   "text": "He never",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 76.7,
+   "track_end": 78.22
+  },
+  {
+   "start": 392.9,
+   "end": 394.82,
+   "text": "No, never left",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 78.9,
+   "track_end": 80.82
+  },
+  {
+   "start": 394.82,
+   "end": 396.8,
+   "text": "He stayed with me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 80.82,
+   "track_end": 82.8
+  },
+  {
+   "start": 396.8,
+   "end": 397.92,
+   "text": "Stayed with you",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 82.8,
+   "track_end": 83.92
+  },
+  {
+   "start": 397.92,
+   "end": 400.14,
+   "text": "I never would have made it",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 83.92,
+   "track_end": 86.14
+  },
+  {
+   "start": 400.14,
+   "end": 401.98,
+   "text": "Without you Lord",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 86.14,
+   "track_end": 87.98
+  },
+  {
+   "start": 401.98,
+   "end": 403.76,
+   "text": "You are my shelter",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 87.98,
+   "track_end": 89.76
+  },
+  {
+   "start": 403.76,
+   "end": 406.16,
+   "text": "When the rain pours",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 89.76,
+   "track_end": 92.16
+  },
+  {
+   "start": 406.16,
+   "end": 407.98,
+   "text": "You held my hand through",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 92.16,
+   "track_end": 93.98
+  },
+  {
+   "start": 407.98,
+   "end": 410.06,
+   "text": "Every tear I cried",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 93.98,
+   "track_end": 96.06
+  },
+  {
+   "start": 410.06,
+   "end": 411.78,
+   "text": "You kept me standing",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 96.06,
+   "track_end": 97.78
+  },
+  {
+   "start": 411.78,
+   "end": 414.02,
+   "text": "When I should have died",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 97.78,
+   "track_end": 100.02
+  },
+  {
+   "start": 414.02,
+   "end": 416.0,
+   "text": "You are my healer",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 100.02,
+   "track_end": 102.0
+  },
+  {
+   "start": 416.0,
+   "end": 421.58,
+   "text": "I saved your friends My beginning and my end",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.517,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 102.0,
+   "track_end": 107.58
+  },
+  {
+   "start": 421.58,
+   "end": 429.04,
+   "text": "I never, never would have made it without you",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.517,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 107.58,
+   "track_end": 115.04
+  },
+  {
+   "start": 429.04,
+   "end": 439.9,
+   "text": "I lay broken feelings so ashamed Thought my failures had to find my name",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.517,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 115.04,
+   "track_end": 125.9
+  },
+  {
+   "start": 439.9,
+   "end": 442.9,
+   "text": "But you picked me up washed away my past",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 125.9,
+   "track_end": 128.9
+  },
+  {
+   "start": 444.02,
+   "end": 446.86,
+   "text": "Showed me mercy that forever last",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 130.02,
+   "track_end": 132.86
+  },
+  {
+   "start": 447.72,
+   "end": 451.44,
+   "text": "Where I was weak Lord you made me strong",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 133.72,
+   "track_end": 137.44
+  },
+  {
+   "start": 452.02,
+   "end": 455.6,
+   "text": "You gave me purpose you helped me be long",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 138.02,
+   "track_end": 141.6
+  },
+  {
+   "start": 455.6,
+   "end": 459.7,
+   "text": "You wrote a new story over my pain",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 141.6,
+   "track_end": 145.7
+  },
+  {
+   "start": 459.7,
+   "end": 463.04,
+   "text": "Turn my morning into praise again",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 145.7,
+   "track_end": 149.04
+  },
+  {
+   "start": 464.52,
+   "end": 467.0,
+   "text": "You restored me",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 150.52,
+   "track_end": 153.0
+  },
+  {
+   "start": 468.58,
+   "end": 475.0,
+   "text": "You renewed me You revived me",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 154.58,
+   "track_end": 161.0
+  },
+  {
+   "start": 477.0,
+   "end": 482.6,
+   "text": "You transformed me I never would have made it",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 163.0,
+   "track_end": 168.6
+  },
+  {
+   "start": 482.6,
+   "end": 487.6,
+   "text": "Oh I never would have made it You were my peace",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 168.6,
+   "track_end": 173.6
+  },
+  {
+   "start": 487.6,
+   "end": 493.58,
+   "text": "When the mind fell torn You calmed the storm inside of me",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 173.6,
+   "track_end": 179.58
+  },
+  {
+   "start": 493.58,
+   "end": 497.62,
+   "text": "You are my heart when it bled and broke",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 179.58,
+   "track_end": 183.62
+  },
+  {
+   "start": 497.62,
+   "end": 501.36,
+   "text": "We knew, like with every word you spoke",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 183.62,
+   "track_end": 187.36
+  },
+  {
+   "start": 501.36,
+   "end": 505.56,
+   "text": "Yeah, you are my fortress, strength and shield",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 187.36,
+   "track_end": 191.56
+  },
+  {
+   "start": 505.56,
+   "end": 509.5,
+   "text": "Yeah, Jesus, you're forever real",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 191.56,
+   "track_end": 195.5
+  },
+  {
+   "start": 509.5,
+   "end": 513.42,
+   "text": "Yeah, I never, never would have made it out",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 195.5,
+   "track_end": 199.42
+  },
+  {
+   "start": 513.42,
+   "end": 517.48,
+   "text": "When I was drowning, you lifted me up",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 199.42,
+   "track_end": 203.48
+  },
+  {
+   "start": 517.48,
+   "end": 521.44,
+   "text": "Yeah, when I was empty, you filled my cup",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 203.48,
+   "track_end": 207.44
+  },
+  {
+   "start": 521.44,
+   "end": 525.58,
+   "text": "Yeah, when I was lost, Lord You called my name",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 207.44,
+   "track_end": 211.58
+  },
+  {
+   "start": 525.58,
+   "end": 529.68,
+   "text": "Yeah, when I was guilty You took my shape",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 211.58,
+   "track_end": 215.68
+  },
+  {
+   "start": 533.94,
+   "end": 538.46,
+   "text": "You carried me through the darkest night",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 219.94,
+   "track_end": 224.46
+  },
+  {
+   "start": 538.46,
+   "end": 542.56,
+   "text": "Gave me hope, gave me sight",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 224.46,
+   "track_end": 228.56
+  },
+  {
+   "start": 542.56,
+   "end": 547.68,
+   "text": "Brought me into Your marvelous light",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 228.56,
+   "track_end": 233.68
+  },
+  {
+   "start": 547.68,
+   "end": 555.66,
+   "text": "Jesus, I never would have made it without you",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 233.68,
+   "track_end": 241.66
+  },
+  {
+   "start": 555.66,
+   "end": 561.74,
+   "text": "You stayed with me, made my spirit so",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 241.66,
+   "track_end": 247.74
+  },
+  {
+   "start": 562.68,
+   "end": 566.98,
+   "text": "You opened every lock for Jesus",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 248.68,
+   "track_end": 252.98
+  },
+  {
+   "start": 569.68,
+   "end": 576.16,
+   "text": "My Savior and my King, to you my whole heart sings",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 255.68,
+   "track_end": 262.16
+  },
+  {
+   "start": 576.16,
+   "end": 582.06,
+   "text": "I never, never would've made it",
+   "avg_logprob": -0.845,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 262.16,
+   "track_end": 268.06
+  },
+  {
+   "start": 582.06,
+   "end": 584.12,
+   "text": "Never could've made it",
+   "avg_logprob": -0.845,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 268.06,
+   "track_end": 270.12
+  },
+  {
+   "start": 590.0,
+   "end": 591.1,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.845,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 276.0,
+   "track_end": 277.1
+  },
+  {
+   "start": 592.74,
+   "end": 593.1,
+   "text": "So...",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.312,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 278.74,
+   "track_end": 279.1
+  },
+  {
+   "start": 602.58,
+   "end": 608.06,
+   "text": "I never would have made it",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.312,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 288.58,
+   "track_end": 294.06
+  },
+  {
+   "start": 610.38,
+   "end": 612.22,
+   "text": "Without you",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.312,
+   "track_id": "5n1cYN-yDmo#02",
+   "track_start": 296.38,
+   "track_end": 298.22
+  },
+  {
+   "start": 621.58,
+   "end": 622.78,
+   "text": "Mmmmmmmm",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 3.58,
+   "track_end": 4.78
+  },
+  {
+   "start": 624.54,
+   "end": 626.72,
+   "text": "Oh, Lord",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 6.54,
+   "track_end": 8.72
+  },
+  {
+   "start": 629.0,
+   "end": 630.94,
+   "text": "We welcome You in",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 11.0,
+   "track_end": 12.94
+  },
+  {
+   "start": 632.0,
+   "end": 634.48,
+   "text": "We welcome You in",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 14.0,
+   "track_end": 16.48
+  },
+  {
+   "start": 638.0,
+   "end": 640.36,
+   "text": "Jesus, we need You",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 20.0,
+   "track_end": 22.36
+  },
+  {
+   "start": 641.0,
+   "end": 644.18,
+   "text": "Right here right now",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 23.0,
+   "track_end": 26.18
+  },
+  {
+   "start": 648.72,
+   "end": 654.78,
+   "text": "Lord, I've been walking with a heavy heart trying to lift my eyes",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 30.72,
+   "track_end": 36.78
+  },
+  {
+   "start": 654.78,
+   "end": 658.24,
+   "text": "But I'm falling apart, life hit me hard",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 36.78,
+   "track_end": 40.24
+  },
+  {
+   "start": 659.0,
+   "end": 664.3,
+   "text": "And I'm down on my knees whispering Your name, Lord, come rescue me",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 41.0,
+   "track_end": 46.3
+  },
+  {
+   "start": 664.3,
+   "end": 668.22,
+   "text": "You know my pain, You know my fear",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 46.3,
+   "track_end": 50.22
+  },
+  {
+   "start": 668.22,
+   "end": 671.96,
+   "text": "You count every tear that I cry each year",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 50.22,
+   "track_end": 53.96
+  },
+  {
+   "start": 671.96,
+   "end": 675.42,
+   "text": "I'm tired of running, I surrender tonight",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 53.96,
+   "track_end": 57.42
+  },
+  {
+   "start": 675.42,
+   "end": 679.36,
+   "text": "Be my strength be my hope be my guiding light",
+   "avg_logprob": -0.75,
+   "no_speech_prob": 0.588,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 57.42,
+   "track_end": 61.36
+  },
+  {
+   "start": 690.14,
+   "end": 691.74,
+   "text": "Take control",
+   "avg_logprob": -0.75,
+   "no_speech_prob": 0.588,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 72.14,
+   "track_end": 73.74
+  },
+  {
+   "start": 691.74,
+   "end": 696.46,
+   "text": "Oh, Lord I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 73.74,
+   "track_end": 78.46
+  },
+  {
+   "start": 696.46,
+   "end": 698.12,
+   "text": "Oh, I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 78.46,
+   "track_end": 80.12
+  },
+  {
+   "start": 698.12,
+   "end": 701.56,
+   "text": "Now Your healing spins Your peace",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 80.12,
+   "track_end": 83.56
+  },
+  {
+   "start": 701.56,
+   "end": 704.96,
+   "text": "Pour Your glory down on me",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 83.56,
+   "track_end": 86.96
+  },
+  {
+   "start": 705.74,
+   "end": 707.42,
+   "text": "Lord I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 87.74,
+   "track_end": 89.42
+  },
+  {
+   "start": 707.42,
+   "end": 709.14,
+   "text": "Yes, I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 89.42,
+   "track_end": 91.14
+  },
+  {
+   "start": 709.14,
+   "end": 712.38,
+   "text": "Hold me close and show me how",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 91.14,
+   "track_end": 94.38
+  },
+  {
+   "start": 712.38,
+   "end": 716.5,
+   "text": "Children trust You in every season",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 94.38,
+   "track_end": 98.5
+  },
+  {
+   "start": 716.5,
+   "end": 718.94,
+   "text": "Jesus, I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 98.5,
+   "track_end": 100.94
+  },
+  {
+   "start": 718.94,
+   "end": 721.66,
+   "text": "Jesus, I need You now",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 100.94,
+   "track_end": 103.66
+  },
+  {
+   "start": 723.94,
+   "end": 728.08,
+   "text": "Storms keep rising, but You come my seat",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 105.94,
+   "track_end": 110.08
+  },
+  {
+   "start": 728.08,
+   "end": 731.66,
+   "text": "When the world goes quiet, You still speak to me",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 110.08,
+   "track_end": 113.66
+  },
+  {
+   "start": 731.66,
+   "end": 735.62,
+   "text": "Your love is stronger than my darkest night",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 113.66,
+   "track_end": 117.62
+  },
+  {
+   "start": 735.62,
+   "end": 739.22,
+   "text": "You shine through the shadows with holy light",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 117.62,
+   "track_end": 121.22
+  },
+  {
+   "start": 739.22,
+   "end": 743.14,
+   "text": "I walk through fire, but You pull me through",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 121.22,
+   "track_end": 125.14
+  },
+  {
+   "start": 743.14,
+   "end": 746.82,
+   "text": "Grace like a river keeps making me new",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 125.14,
+   "track_end": 128.82
+  },
+  {
+   "start": 746.82,
+   "end": 750.96,
+   "text": "Whenever I call, you never hide",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 128.82,
+   "track_end": 132.96
+  },
+  {
+   "start": 750.96,
+   "end": 754.28,
+   "text": "You're the anchor of hope I can't deny",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 132.96,
+   "track_end": 136.28
+  },
+  {
+   "start": 754.28,
+   "end": 757.36,
+   "text": "I ain't lost this road alone",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 136.28,
+   "track_end": 139.36
+  },
+  {
+   "start": 757.36,
+   "end": 761.2,
+   "text": "Lord, I'm reaching for your throne",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 139.36,
+   "track_end": 143.2
+  },
+  {
+   "start": 761.2,
+   "end": 765.12,
+   "text": "Take my fears, take my doubts",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 143.2,
+   "track_end": 147.12
+  },
+  {
+   "start": 765.12,
+   "end": 767.78,
+   "text": "Bring me home",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 147.12,
+   "track_end": 149.78
+  },
+  {
+   "start": 768.76,
+   "end": 771.5,
+   "text": "Lord, I need you now",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 150.76,
+   "track_end": 153.5
+  },
+  {
+   "start": 772.6,
+   "end": 776.06,
+   "text": "Send your healing, send your peace",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 154.6,
+   "track_end": 158.06
+  },
+  {
+   "start": 776.06,
+   "end": 780.24,
+   "text": "Save your poor, your glory down on me.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 158.06,
+   "track_end": 162.24
+  },
+  {
+   "start": 780.56,
+   "end": 782.34,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 162.56,
+   "track_end": 164.34
+  },
+  {
+   "start": 782.68,
+   "end": 784.3,
+   "text": "Yes, I need You now.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 164.68,
+   "track_end": 166.3
+  },
+  {
+   "start": 784.86,
+   "end": 787.36,
+   "text": "Hold me close and show me how.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 166.86,
+   "track_end": 169.36
+  },
+  {
+   "start": 787.38,
+   "end": 788.98,
+   "text": "To trust You.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 169.38,
+   "track_end": 170.98
+  },
+  {
+   "start": 789.02,
+   "end": 791.44,
+   "text": "Just give me this every season.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 171.02,
+   "track_end": 173.44
+  },
+  {
+   "start": 791.76,
+   "end": 794.14,
+   "text": "Jesus, I need You now.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 173.76,
+   "track_end": 176.14
+  },
+  {
+   "start": 795.74,
+   "end": 798.64,
+   "text": "When I'm weak, Lord, you're strong.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 177.74,
+   "track_end": 180.64
+  },
+  {
+   "start": 799.58,
+   "end": 802.44,
+   "text": "You've been with me all along.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 181.58,
+   "track_end": 184.44
+  },
+  {
+   "start": 802.44,
+   "end": 809.06,
+   "text": "When I can't see the way You remind me to pray",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.744,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 184.44,
+   "track_end": 191.06
+  },
+  {
+   "start": 809.06,
+   "end": 816.84,
+   "text": "Oh Jesus, Jesus, stay with me I need You desperately",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.744,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 191.06,
+   "track_end": 198.84
+  },
+  {
+   "start": 816.84,
+   "end": 818.28,
+   "text": "Yes, Brelee.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 198.84,
+   "track_end": 200.28
+  },
+  {
+   "start": 819.92,
+   "end": 820.0,
+   "text": "Oh!",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 201.92,
+   "track_end": 202.0
+  },
+  {
+   "start": 824.56,
+   "end": 827.72,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 206.56,
+   "track_end": 209.72
+  },
+  {
+   "start": 827.72,
+   "end": 828.0,
+   "text": "Oh!",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 209.72,
+   "track_end": 210.0
+  },
+  {
+   "start": 828.0,
+   "end": 829.44,
+   "text": "I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 210.0,
+   "track_end": 211.44
+  },
+  {
+   "start": 829.44,
+   "end": 832.34,
+   "text": "Left your arms around my soul,",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 211.44,
+   "track_end": 214.34
+  },
+  {
+   "start": 832.38,
+   "end": 836.3,
+   "text": "Make the broken places whole.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 214.38,
+   "track_end": 218.3
+  },
+  {
+   "start": 836.92,
+   "end": 837.28,
+   "text": "Oh!",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 218.92,
+   "track_end": 219.28
+  },
+  {
+   "start": 840.84,
+   "end": 842.76,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 222.84,
+   "track_end": 224.76
+  },
+  {
+   "start": 844.44,
+   "end": 846.4,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 226.44,
+   "track_end": 228.4
+  },
+  {
+   "start": 846.4,
+   "end": 851.06,
+   "text": "Oh, yes I need you, you're my healer, you're my friend",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 228.4,
+   "track_end": 233.06
+  },
+  {
+   "start": 851.06,
+   "end": 854.8,
+   "text": "Faithful God, until the end",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 233.06,
+   "track_end": 236.8
+  },
+  {
+   "start": 854.8,
+   "end": 857.74,
+   "text": "Jesus, I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 236.8,
+   "track_end": 239.74
+  },
+  {
+   "start": 858.84,
+   "end": 860.54,
+   "text": "I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 240.84,
+   "track_end": 242.54
+  },
+  {
+   "start": 860.54,
+   "end": 862.82,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 242.54,
+   "track_end": 244.82
+  },
+  {
+   "start": 862.82,
+   "end": 864.24,
+   "text": "I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 244.82,
+   "track_end": 246.24
+  },
+  {
+   "start": 864.24,
+   "end": 866.4,
+   "text": "Jesus, I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 246.24,
+   "track_end": 248.4
+  },
+  {
+   "start": 866.4,
+   "end": 868.08,
+   "text": "I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 248.4,
+   "track_end": 250.08
+  },
+  {
+   "start": 870.28,
+   "end": 871.08,
+   "text": "Jesus",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 252.28,
+   "track_end": 253.08
+  },
+  {
+   "start": 874.96,
+   "end": 887.76,
+   "text": "I need you now, right now Stay with me Lord, I need you now",
+   "avg_logprob": -0.542,
+   "no_speech_prob": 0.643,
+   "track_id": "5n1cYN-yDmo#03",
+   "track_start": 256.96,
+   "track_end": 269.76
+  },
+  {
+   "start": 904.3,
+   "end": 909.88,
+   "text": "We thank you Lord, we're blessed",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.491,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 11.3,
+   "track_end": 16.88
+  },
+  {
+   "start": 910.82,
+   "end": 913.28,
+   "text": "And highly favored",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.768,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 17.82,
+   "track_end": 20.28
+  },
+  {
+   "start": 919.18,
+   "end": 922.96,
+   "text": "Your mercy brought us here",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.768,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 26.18,
+   "track_end": 29.96
+  },
+  {
+   "start": 930.88,
+   "end": 934.86,
+   "text": "I woke up this morning with breath in my chest",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.768,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 37.88,
+   "track_end": 41.86
+  },
+  {
+   "start": 934.86,
+   "end": 938.94,
+   "text": "And I knew right away, Lord, I'm more than blessed",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.768,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 41.86,
+   "track_end": 45.94
+  },
+  {
+   "start": 938.94,
+   "end": 943.44,
+   "text": "You carried me through storms I thought I'd never survive",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.854,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 45.94,
+   "track_end": 50.44
+  },
+  {
+   "start": 943.44,
+   "end": 947.54,
+   "text": "But your hand held me steady, kept my spirit alive",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.854,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 50.44,
+   "track_end": 54.54
+  },
+  {
+   "start": 947.54,
+   "end": 952.02,
+   "text": "When the world tried to break me, you lifted me higher",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.854,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 54.54,
+   "track_end": 59.02
+  },
+  {
+   "start": 952.02,
+   "end": 955.88,
+   "text": "You filled me with purpose and my soul on fire",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.854,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 59.02,
+   "track_end": 62.88
+  },
+  {
+   "start": 955.88,
+   "end": 960.36,
+   "text": "In every battle I feared, you already won",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.854,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 62.88,
+   "track_end": 67.36
+  },
+  {
+   "start": 960.94,
+   "end": 964.16,
+   "text": "Your grace is the reason I overcome",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.854,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 67.94,
+   "track_end": 71.16
+  },
+  {
+   "start": 964.16,
+   "end": 967.12,
+   "text": "Oh, I've seen your power",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 71.16,
+   "track_end": 74.12
+  },
+  {
+   "start": 967.12,
+   "end": 968.96,
+   "text": "I've felt your love",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 74.12,
+   "track_end": 75.96
+  },
+  {
+   "start": 968.96,
+   "end": 971.22,
+   "text": "Every hour",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 75.96,
+   "track_end": 78.22
+  },
+  {
+   "start": 971.22,
+   "end": 973.8,
+   "text": "And I stand here today",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 78.22,
+   "track_end": 80.8
+  },
+  {
+   "start": 973.8,
+   "end": 976.12,
+   "text": "Because you made a way",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 80.8,
+   "track_end": 83.12
+  },
+  {
+   "start": 976.12,
+   "end": 980.72,
+   "text": "I'm blessed and highly favored",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 83.12,
+   "track_end": 87.72
+  },
+  {
+   "start": 980.72,
+   "end": 984.42,
+   "text": "Covered by the blood of my Savior",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 87.72,
+   "track_end": 91.42
+  },
+  {
+   "start": 984.42,
+   "end": 989.08,
+   "text": "Every mountain moved, every chain of sun",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 91.42,
+   "track_end": 96.08
+  },
+  {
+   "start": 989.08,
+   "end": 992.84,
+   "text": "Jesus, You're the Holy One",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.799,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 96.08,
+   "track_end": 99.84
+  },
+  {
+   "start": 992.84,
+   "end": 997.28,
+   "text": "I'm blessed, guess highly, baby",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 99.84,
+   "track_end": 104.28
+  },
+  {
+   "start": 997.28,
+   "end": 1001.46,
+   "text": "Hell together, by love that never wavers",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 104.28,
+   "track_end": 108.46
+  },
+  {
+   "start": 1001.46,
+   "end": 1005.84,
+   "text": "From the valley low to the highest praise",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 108.46,
+   "track_end": 112.84
+  },
+  {
+   "start": 1005.84,
+   "end": 1010.04,
+   "text": "Lord, I'm covered by Your grace",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 112.84,
+   "track_end": 117.04
+  },
+  {
+   "start": 1011.64,
+   "end": 1015.2,
+   "text": "You opened doors that were locked in my face",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 118.64,
+   "track_end": 122.2
+  },
+  {
+   "start": 1015.2,
+   "end": 1019.1,
+   "text": "And You healed every wound with Your gentle grace",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 122.2,
+   "track_end": 126.1
+  },
+  {
+   "start": 1019.1,
+   "end": 1023.7,
+   "text": "Even when I doubted you were faithful and true",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 126.1,
+   "track_end": 130.7
+  },
+  {
+   "start": 1023.7,
+   "end": 1027.84,
+   "text": "You kept whispering, my child, I'm not done with you",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 130.7,
+   "track_end": 134.84
+  },
+  {
+   "start": 1027.84,
+   "end": 1031.82,
+   "text": "You turned my morning into songs of joy",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 134.84,
+   "track_end": 138.82
+  },
+  {
+   "start": 1031.82,
+   "end": 1036.14,
+   "text": "Restored what was broken, gave me peace to enjoy",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 138.82,
+   "track_end": 143.14
+  },
+  {
+   "start": 1036.14,
+   "end": 1040.2,
+   "text": "Every blessing I see is a sign from above",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 143.14,
+   "track_end": 147.2
+  },
+  {
+   "start": 1040.2,
+   "end": 1044.54,
+   "text": "I'm walking in your goodness and shower in love",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 147.2,
+   "track_end": 151.54
+  },
+  {
+   "start": 1044.54,
+   "end": 1049.08,
+   "text": "So I'll sing forever of how you brought me",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 151.54,
+   "track_end": 156.08
+  },
+  {
+   "start": 1049.08,
+   "end": 1056.38,
+   "text": "together. My heart belongs to you. You're the guy who pulls me",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.718,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 156.08,
+   "track_end": 163.38
+  },
+  {
+   "start": 1056.38,
+   "end": 1056.64,
+   "text": "through.",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.718,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 163.38,
+   "track_end": 163.64
+  },
+  {
+   "start": 1060.38,
+   "end": 1067.34,
+   "text": "Come by the blood of my savior. Every mountain move, every",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.718,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 167.38,
+   "track_end": 174.34
+  },
+  {
+   "start": 1067.34,
+   "end": 1073.0,
+   "text": "chain of the sun. Jesus, you're the holy one.",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.718,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 174.34,
+   "track_end": 180.0
+  },
+  {
+   "start": 1073.0,
+   "end": 1077.22,
+   "text": "I'm blessed, yes highly favored",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.748,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 180.0,
+   "track_end": 184.22
+  },
+  {
+   "start": 1077.22,
+   "end": 1081.46,
+   "text": "You're together, my love, it never wavers",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.748,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 184.22,
+   "track_end": 188.46
+  },
+  {
+   "start": 1081.46,
+   "end": 1085.98,
+   "text": "From the valley low to the highest praise",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.748,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 188.46,
+   "track_end": 192.98
+  },
+  {
+   "start": 1085.98,
+   "end": 1090.24,
+   "text": "Lord, I'm covered by Your grace",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.748,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 192.98,
+   "track_end": 197.24
+  },
+  {
+   "start": 1090.24,
+   "end": 1095.92,
+   "text": "I shouldn't be here, but You kept me here",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.748,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 197.24,
+   "track_end": 202.92
+  },
+  {
+   "start": 1095.92,
+   "end": 1099.0,
+   "text": "I should have lost it all, but You saved me",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.748,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 202.92,
+   "track_end": 206.0
+  },
+  {
+   "start": 1099.0,
+   "end": 1102.82,
+   "text": "I'm blessed and highly favored",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.738,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 206.0,
+   "track_end": 209.82
+  },
+  {
+   "start": 1102.82,
+   "end": 1106.92,
+   "text": "Your mercy found me when I ran astray",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.738,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 209.82,
+   "track_end": 213.92
+  },
+  {
+   "start": 1107.48,
+   "end": 1111.82,
+   "text": "Grace kept paving me away",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.738,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 214.48,
+   "track_end": 218.82
+  },
+  {
+   "start": 1111.82,
+   "end": 1115.22,
+   "text": "Oh Jesus, oh Jesus",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.738,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 218.82,
+   "track_end": 222.22
+  },
+  {
+   "start": 1115.22,
+   "end": 1118.68,
+   "text": "I thank You every day",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.738,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 222.22,
+   "track_end": 225.68
+  },
+  {
+   "start": 1119.56,
+   "end": 1124.22,
+   "text": "I'm blessed and highly favored",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.738,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 226.56,
+   "track_end": 231.22
+  },
+  {
+   "start": 1124.22,
+   "end": 1127.08,
+   "text": "And my love is greater",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.738,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 231.22,
+   "track_end": 234.08
+  },
+  {
+   "start": 1127.08,
+   "end": 1132.04,
+   "text": "Every battle, oh lost, there's a battle you won",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.713,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 234.08,
+   "track_end": 239.04
+  },
+  {
+   "start": 1132.04,
+   "end": 1136.4,
+   "text": "You're my strength, my hope, my song",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.713,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 239.04,
+   "track_end": 243.4
+  },
+  {
+   "start": 1136.4,
+   "end": 1140.34,
+   "text": "I bless, yes, I do, thank you",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.713,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 243.4,
+   "track_end": 247.34
+  },
+  {
+   "start": 1140.34,
+   "end": 1144.34,
+   "text": "Hell together, never waver",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.713,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 247.34,
+   "track_end": 251.34
+  },
+  {
+   "start": 1144.34,
+   "end": 1148.92,
+   "text": "From sunrise to the setting day",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.713,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 251.34,
+   "track_end": 255.92
+  },
+  {
+   "start": 1148.92,
+   "end": 1153.0,
+   "text": "Lord, I'll forever give you praise",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.713,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 255.92,
+   "track_end": 260.0
+  },
+  {
+   "start": 1160.42,
+   "end": 1170.9,
+   "text": "I'm blessed, blessed in highly faith Thank you Jesus",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#04",
+   "track_start": 267.42,
+   "track_end": 277.9
+  },
+  {
+   "start": 1230.9,
+   "end": 1237.98,
+   "text": "I remember the nights I felt all alone",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.581,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 22.9,
+   "track_end": 29.98
+  },
+  {
+   "start": 1237.98,
+   "end": 1243.82,
+   "text": "Alone, no hand to hold, no place called home",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 29.98,
+   "track_end": 35.82
+  },
+  {
+   "start": 1243.82,
+   "end": 1248.52,
+   "text": "The weight of the world, depressed on my soul",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 35.82,
+   "track_end": 40.52
+  },
+  {
+   "start": 1248.52,
+   "end": 1253.42,
+   "text": "But you lifted me up, you made me whole",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 40.52,
+   "track_end": 45.42
+  },
+  {
+   "start": 1253.42,
+   "end": 1258.22,
+   "text": "When the storms came crashing down",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 45.42,
+   "track_end": 50.22
+  },
+  {
+   "start": 1258.22,
+   "end": 1263.2,
+   "text": "When my faith was barely found",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 50.22,
+   "track_end": 55.2
+  },
+  {
+   "start": 1263.2,
+   "end": 1266.24,
+   "text": "I felt your love surround me",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 55.2,
+   "track_end": 58.24
+  },
+  {
+   "start": 1266.24,
+   "end": 1269.38,
+   "text": "And set my spirit free",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 58.24,
+   "track_end": 61.38
+  },
+  {
+   "start": 1271.44,
+   "end": 1276.92,
+   "text": "I never would have made it without Your grace, Lord",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 63.44,
+   "track_end": 68.92
+  },
+  {
+   "start": 1276.92,
+   "end": 1281.68,
+   "text": "I never would have stood if You hadn't held me strong",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 68.92,
+   "track_end": 73.68
+  },
+  {
+   "start": 1281.68,
+   "end": 1286.78,
+   "text": "Through every trial, every heartache, every pain",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 73.68,
+   "track_end": 78.78
+  },
+  {
+   "start": 1286.78,
+   "end": 1288.68,
+   "text": "Your mercy carried me",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 78.78,
+   "track_end": 80.68
+  },
+  {
+   "start": 1288.68,
+   "end": 1291.44,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.5,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 80.68,
+   "track_end": 83.44
+  },
+  {
+   "start": 1291.44,
+   "end": 1297.5,
+   "text": "No, I never would have made it without your grace",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.69,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 83.44,
+   "track_end": 89.5
+  },
+  {
+   "start": 1298.08,
+   "end": 1301.36,
+   "text": "Lord, Lord",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.69,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 90.08,
+   "track_end": 93.36
+  },
+  {
+   "start": 1302.56,
+   "end": 1307.02,
+   "text": "Every tear I cried, you saw and you knew",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.69,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 94.56,
+   "track_end": 99.02
+  },
+  {
+   "start": 1307.02,
+   "end": 1311.86,
+   "text": "Every fear I faced, you carried me through",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.69,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 99.02,
+   "track_end": 103.86
+  },
+  {
+   "start": 1311.86,
+   "end": 1316.78,
+   "text": "Even when I stumbled, I lost my way",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.69,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 103.86,
+   "track_end": 108.78
+  },
+  {
+   "start": 1316.78,
+   "end": 1319.24,
+   "text": "You're like, kept shining",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 108.78,
+   "track_end": 111.24
+  },
+  {
+   "start": 1319.24,
+   "end": 1321.7,
+   "text": "You never went away",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 111.24,
+   "track_end": 113.7
+  },
+  {
+   "start": 1321.7,
+   "end": 1324.38,
+   "text": "When the night seemed",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 113.7,
+   "track_end": 116.38
+  },
+  {
+   "start": 1324.38,
+   "end": 1326.56,
+   "text": "Endless and cold",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 116.38,
+   "track_end": 118.56
+  },
+  {
+   "start": 1326.56,
+   "end": 1330.44,
+   "text": "When I felt my story",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 118.56,
+   "track_end": 122.44
+  },
+  {
+   "start": 1330.44,
+   "end": 1334.54,
+   "text": "Untold, I felt your hand upon me",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 122.44,
+   "track_end": 126.54
+  },
+  {
+   "start": 1334.54,
+   "end": 1338.16,
+   "text": "And you set my spirit free",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 126.54,
+   "track_end": 130.16
+  },
+  {
+   "start": 1339.92,
+   "end": 1342.7,
+   "text": "I got a hope, babe",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 131.92,
+   "track_end": 134.7
+  },
+  {
+   "start": 1342.7,
+   "end": 1345.26,
+   "text": "Without your grace, Lord",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.839,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 134.7,
+   "track_end": 137.26
+  },
+  {
+   "start": 1345.26,
+   "end": 1349.88,
+   "text": "I never would have stood if you hadn't held me strong",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.54,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 137.26,
+   "track_end": 141.88
+  },
+  {
+   "start": 1349.88,
+   "end": 1355.04,
+   "text": "Through every trial, every harvest, every pain",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.54,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 141.88,
+   "track_end": 147.04
+  },
+  {
+   "start": 1355.04,
+   "end": 1359.76,
+   "text": "Your mercy carried me, I'll never be the same",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.54,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 147.04,
+   "track_end": 151.76
+  },
+  {
+   "start": 1359.76,
+   "end": 1364.84,
+   "text": "No, I never would have waited without your grace",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.54,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 151.76,
+   "track_end": 156.84
+  },
+  {
+   "start": 1364.84,
+   "end": 1366.04,
+   "text": "Hallelujah",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.54,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 156.84,
+   "track_end": 158.04
+  },
+  {
+   "start": 1368.62,
+   "end": 1369.62,
+   "text": "Hallelujah",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.54,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 160.62,
+   "track_end": 161.62
+  },
+  {
+   "start": 1369.62,
+   "end": 1372.62,
+   "text": "You lifted me",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.54,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 161.62,
+   "track_end": 164.62
+  },
+  {
+   "start": 1372.62,
+   "end": 1379.12,
+   "text": "Hallelujah, Hallelujah",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.683,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 164.62,
+   "track_end": 171.12
+  },
+  {
+   "start": 1380.62,
+   "end": 1387.94,
+   "text": "Your love set me free, oh Lord Your grace is amazing",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.683,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 172.62,
+   "track_end": 179.94
+  },
+  {
+   "start": 1387.94,
+   "end": 1392.58,
+   "text": "It's my song, I'll praise Your name forever",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 179.94,
+   "track_end": 184.58
+  },
+  {
+   "start": 1392.58,
+   "end": 1396.8,
+   "text": "All my life, Lord, and Louie",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 184.58,
+   "track_end": 188.8
+  },
+  {
+   "start": 1396.8,
+   "end": 1403.34,
+   "text": "Louie, Louie, Louie",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 188.8,
+   "track_end": 195.34
+  },
+  {
+   "start": 1403.34,
+   "end": 1405.94,
+   "text": "I'll never let you go",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 195.34,
+   "track_end": 197.94
+  },
+  {
+   "start": 1406.58,
+   "end": 1408.24,
+   "text": "Never let out your grace",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 198.58,
+   "track_end": 200.24
+  },
+  {
+   "start": 1408.24,
+   "end": 1409.96,
+   "text": "I'll give up",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 200.24,
+   "track_end": 201.96
+  },
+  {
+   "start": 1409.96,
+   "end": 1412.94,
+   "text": "I'll be strong",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 201.96,
+   "track_end": 204.94
+  },
+  {
+   "start": 1412.94,
+   "end": 1415.56,
+   "text": "Through every trial",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.829,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 204.94,
+   "track_end": 207.56
+  },
+  {
+   "start": 1415.56,
+   "end": 1420.3,
+   "text": "I'll be heartache, every pain Your mercy carried me",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.71,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 207.56,
+   "track_end": 212.3
+  },
+  {
+   "start": 1420.3,
+   "end": 1425.86,
+   "text": "I'll never be the same, I never would have made it",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.71,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 212.3,
+   "track_end": 217.86
+  },
+  {
+   "start": 1425.86,
+   "end": 1431.7,
+   "text": "Never would have made it, never would have made it",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.71,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 217.86,
+   "track_end": 223.7
+  },
+  {
+   "start": 1431.7,
+   "end": 1434.92,
+   "text": "With all Your grace",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.71,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 223.7,
+   "track_end": 226.92
+  },
+  {
+   "start": 1436.22,
+   "end": 1442.88,
+   "text": "Lord, forever I'll sing of Your grace",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.71,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 228.22,
+   "track_end": 234.88
+  },
+  {
+   "start": 1468.08,
+   "end": 1470.88,
+   "text": "I'll sing of your grace",
+   "avg_logprob": -0.917,
+   "no_speech_prob": 0.87,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 260.08,
+   "track_end": 262.88
+  },
+  {
+   "start": 1476.58,
+   "end": 1477.98,
+   "text": "you",
+   "avg_logprob": -0.54,
+   "no_speech_prob": 0.918,
+   "track_id": "5n1cYN-yDmo#05",
+   "track_start": 268.58,
+   "track_end": 269.98
+  },
+  {
+   "start": 1484.22,
+   "end": 1486.46,
+   "text": "Yes, he is.",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.64,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 6.22,
+   "track_end": 8.46
+  },
+  {
+   "start": 1488.7,
+   "end": 1491.96,
+   "text": "Oh God, it's good all the time.",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.64,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 10.7,
+   "track_end": 13.96
+  },
+  {
+   "start": 1494.08,
+   "end": 1498.0,
+   "text": "Come on and lift your hands.",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.64,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 16.08,
+   "track_end": 20.0
+  },
+  {
+   "start": 1501.88,
+   "end": 1509.6,
+   "text": "Let his life wash over you, oh",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 23.88,
+   "track_end": 31.6
+  },
+  {
+   "start": 1512.56,
+   "end": 1516.9,
+   "text": "Woke up this morning with breath in my chest",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 34.56,
+   "track_end": 38.9
+  },
+  {
+   "start": 1516.9,
+   "end": 1521.18,
+   "text": "Didn't know how blessed I was till you whispered prayers",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 38.9,
+   "track_end": 43.18
+  },
+  {
+   "start": 1521.18,
+   "end": 1525.68,
+   "text": "You held me through the midnight dried every tear",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.739,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 43.18,
+   "track_end": 47.68
+  },
+  {
+   "start": 1525.68,
+   "end": 1529.9,
+   "text": "Pull me from the darkness and drew me near",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 47.68,
+   "track_end": 51.9
+  },
+  {
+   "start": 1529.9,
+   "end": 1534.36,
+   "text": "When the world tried to break me, you covered my soul",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 51.9,
+   "track_end": 56.36
+  },
+  {
+   "start": 1534.36,
+   "end": 1538.86,
+   "text": "Your mercy kept me standing when I've lost control",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 56.36,
+   "track_end": 60.86
+  },
+  {
+   "start": 1538.86,
+   "end": 1543.38,
+   "text": "Through every valley you stayed by my side",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 60.86,
+   "track_end": 65.38
+  },
+  {
+   "start": 1543.38,
+   "end": 1547.58,
+   "text": "Jesus, you're the reason I'm still alive",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 65.38,
+   "track_end": 69.58
+  },
+  {
+   "start": 1547.58,
+   "end": 1549.58,
+   "text": "God is good",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 69.58,
+   "track_end": 71.58
+  },
+  {
+   "start": 1549.58,
+   "end": 1551.94,
+   "text": "Oh yes, he's good",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 71.58,
+   "track_end": 73.94
+  },
+  {
+   "start": 1551.94,
+   "end": 1556.2,
+   "text": "Better than I ever dreamed he would",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 73.94,
+   "track_end": 78.2
+  },
+  {
+   "start": 1556.2,
+   "end": 1559.94,
+   "text": "He lifts me up, he carries me through",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 78.2,
+   "track_end": 81.94
+  },
+  {
+   "start": 1560.5,
+   "end": 1564.78,
+   "text": "There's nobody faithful like you",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 82.5,
+   "track_end": 86.78
+  },
+  {
+   "start": 1564.78,
+   "end": 1569.86,
+   "text": "God is good, my soul knows he's good",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 86.78,
+   "track_end": 91.86
+  },
+  {
+   "start": 1569.86,
+   "end": 1573.24,
+   "text": "In the fire, in the storm, in the flood",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 91.86,
+   "track_end": 95.24
+  },
+  {
+   "start": 1573.24,
+   "end": 1576.76,
+   "text": "Jesus, you've proven time and again",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 95.24,
+   "track_end": 98.76
+  },
+  {
+   "start": 1576.76,
+   "end": 1577.94,
+   "text": "My Savior",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 98.76,
+   "track_end": 99.94
+  },
+  {
+   "start": 1577.94,
+   "end": 1579.36,
+   "text": "My healer",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 99.94,
+   "track_end": 101.36
+  },
+  {
+   "start": 1579.36,
+   "end": 1580.38,
+   "text": "My friend",
+   "avg_logprob": -0.143,
+   "no_speech_prob": 0.65,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 101.36,
+   "track_end": 102.38
+  },
+  {
+   "start": 1580.38,
+   "end": 1584.66,
+   "text": "Oh, oh, oh, God is good",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 102.38,
+   "track_end": 106.66
+  },
+  {
+   "start": 1586.54,
+   "end": 1591.16,
+   "text": "I've walked through some battles that should've taken me out",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 108.54,
+   "track_end": 113.16
+  },
+  {
+   "start": 1591.16,
+   "end": 1595.34,
+   "text": "But your love fought for me and moved every doubt",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 113.16,
+   "track_end": 117.34
+  },
+  {
+   "start": 1595.34,
+   "end": 1599.74,
+   "text": "You healed my broken places with hands full of grace",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 117.34,
+   "track_end": 121.74
+  },
+  {
+   "start": 1599.74,
+   "end": 1604.1,
+   "text": "Turned my mourning into worship, gave joy in its place",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 121.74,
+   "track_end": 126.1
+  },
+  {
+   "start": 1604.1,
+   "end": 1608.52,
+   "text": "When I was lost and wonder too far",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.495,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 126.1,
+   "track_end": 130.52
+  },
+  {
+   "start": 1608.52,
+   "end": 1612.24,
+   "text": "You pulled me from the shadows with your nail scars",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 130.52,
+   "track_end": 134.24
+  },
+  {
+   "start": 1613.02,
+   "end": 1617.22,
+   "text": "You never gave up, never let go",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 135.02,
+   "track_end": 139.22
+  },
+  {
+   "start": 1618.52,
+   "end": 1622.88,
+   "text": "Your love is the truth every heart should know",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 140.52,
+   "track_end": 144.88
+  },
+  {
+   "start": 1624.06,
+   "end": 1626.14,
+   "text": "Oh yes, he's good",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 146.06,
+   "track_end": 148.14
+  },
+  {
+   "start": 1626.14,
+   "end": 1630.24,
+   "text": "Better than I ever dreamed he would",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 148.14,
+   "track_end": 152.24
+  },
+  {
+   "start": 1630.24,
+   "end": 1632.74,
+   "text": "Would he listen me up?",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 152.24,
+   "track_end": 154.74
+  },
+  {
+   "start": 1633.12,
+   "end": 1634.72,
+   "text": "He carries me through",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.446,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 155.12,
+   "track_end": 156.72
+  },
+  {
+   "start": 1634.72,
+   "end": 1638.66,
+   "text": "There's nobody faithful like you",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 156.72,
+   "track_end": 160.66
+  },
+  {
+   "start": 1638.66,
+   "end": 1641.2,
+   "text": "God is good",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 160.66,
+   "track_end": 163.2
+  },
+  {
+   "start": 1641.72,
+   "end": 1644.18,
+   "text": "My soul knows he's good",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 163.72,
+   "track_end": 166.18
+  },
+  {
+   "start": 1644.18,
+   "end": 1647.36,
+   "text": "In the fire, in the storm, in the flood",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 166.18,
+   "track_end": 169.36
+  },
+  {
+   "start": 1647.36,
+   "end": 1650.78,
+   "text": "Jesus, you've proven time and again",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 169.36,
+   "track_end": 172.78
+  },
+  {
+   "start": 1650.78,
+   "end": 1655.16,
+   "text": "My Savior, my healer, my friend",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 172.78,
+   "track_end": 177.16
+  },
+  {
+   "start": 1655.16,
+   "end": 1658.64,
+   "text": "Oh, God is good",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 177.16,
+   "track_end": 180.64
+  },
+  {
+   "start": 1658.64,
+   "end": 1661.1,
+   "text": "When I think about his goodness",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 180.64,
+   "track_end": 183.1
+  },
+  {
+   "start": 1661.1,
+   "end": 1663.34,
+   "text": "Goodness, goodness",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.436,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 183.1,
+   "track_end": 185.34
+  },
+  {
+   "start": 1663.34,
+   "end": 1665.68,
+   "text": "All the miracles he's done",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 185.34,
+   "track_end": 187.68
+  },
+  {
+   "start": 1665.68,
+   "end": 1666.74,
+   "text": "He's done it",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 187.68,
+   "track_end": 188.74
+  },
+  {
+   "start": 1666.74,
+   "end": 1669.9,
+   "text": "My heart can't stay silent",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 188.74,
+   "track_end": 191.9
+  },
+  {
+   "start": 1669.9,
+   "end": 1672.2,
+   "text": "No, no, no",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 191.9,
+   "track_end": 194.2
+  },
+  {
+   "start": 1672.2,
+   "end": 1674.38,
+   "text": "I gotta praise the Holy One",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 194.2,
+   "track_end": 196.38
+  },
+  {
+   "start": 1674.38,
+   "end": 1676.56,
+   "text": "Holy One, Holy One",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 196.38,
+   "track_end": 198.56
+  },
+  {
+   "start": 1676.56,
+   "end": 1677.6,
+   "text": "He picked me up",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 198.56,
+   "track_end": 199.6
+  },
+  {
+   "start": 1677.6,
+   "end": 1678.82,
+   "text": "Turned me around",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 199.6,
+   "track_end": 200.82
+  },
+  {
+   "start": 1678.82,
+   "end": 1679.78,
+   "text": "He set my feet",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 200.82,
+   "track_end": 201.78
+  },
+  {
+   "start": 1679.78,
+   "end": 1681.08,
+   "text": "On solid ground",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 201.78,
+   "track_end": 203.08
+  },
+  {
+   "start": 1681.08,
+   "end": 1681.96,
+   "text": "Every day",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 203.08,
+   "track_end": 203.96
+  },
+  {
+   "start": 1681.96,
+   "end": 1683.14,
+   "text": "In every way",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 203.96,
+   "track_end": 205.14
+  },
+  {
+   "start": 1683.14,
+   "end": 1685.32,
+   "text": "Together's good",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 205.14,
+   "track_end": 207.32
+  },
+  {
+   "start": 1687.86,
+   "end": 1690.56,
+   "text": "God is good",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.684,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 209.86,
+   "track_end": 212.56
+  },
+  {
+   "start": 1691.78,
+   "end": 1699.68,
+   "text": "God is good, better than I ever dreamed He",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 213.78,
+   "track_end": 221.68
+  },
+  {
+   "start": 1699.68,
+   "end": 1704.6,
+   "text": "Oh, He lifts me up, He carries me through",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 221.68,
+   "track_end": 226.6
+  },
+  {
+   "start": 1704.6,
+   "end": 1708.62,
+   "text": "There's nobody faithful like you",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 226.6,
+   "track_end": 230.62
+  },
+  {
+   "start": 1708.62,
+   "end": 1714.02,
+   "text": "God is good, yes, Lord is good",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 230.62,
+   "track_end": 236.02
+  },
+  {
+   "start": 1714.02,
+   "end": 1717.18,
+   "text": "Forever and always understood",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.712,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 236.02,
+   "track_end": 239.18
+  },
+  {
+   "start": 1717.18,
+   "end": 1720.96,
+   "text": "Your love is the reason I stand",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 239.18,
+   "track_end": 242.96
+  },
+  {
+   "start": 1720.96,
+   "end": 1725.8,
+   "text": "Holding tight to your nails, God hands",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 242.96,
+   "track_end": 247.8
+  },
+  {
+   "start": 1725.8,
+   "end": 1728.58,
+   "text": "Oh God is good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 247.8,
+   "track_end": 250.58
+  },
+  {
+   "start": 1729.18,
+   "end": 1731.38,
+   "text": "Yes, he is",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 251.18,
+   "track_end": 253.38
+  },
+  {
+   "start": 1731.38,
+   "end": 1732.38,
+   "text": "So good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 253.38,
+   "track_end": 254.38
+  },
+  {
+   "start": 1733.18,
+   "end": 1734.42,
+   "text": "So good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 255.18,
+   "track_end": 256.42
+  },
+  {
+   "start": 1735.18,
+   "end": 1737.36,
+   "text": "God is good",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 257.18,
+   "track_end": 259.36
+  },
+  {
+   "start": 1738.18,
+   "end": 1739.7,
+   "text": "All the time",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 260.18,
+   "track_end": 261.7
+  },
+  {
+   "start": 1739.7,
+   "end": 1742.18,
+   "text": "All the time",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.43,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 261.7,
+   "track_end": 264.18
+  },
+  {
+   "start": 1742.18,
+   "end": 1745.7,
+   "text": "God is love",
+   "avg_logprob": -1.095,
+   "no_speech_prob": 0.153,
+   "track_id": "5n1cYN-yDmo#06",
+   "track_start": 264.18,
+   "track_end": 267.7
+  },
+  {
+   "start": 1756.0,
+   "end": 1756.42,
+   "text": "I",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 0.0,
+   "track_end": 0.42
+  },
+  {
+   "start": 1765.54,
+   "end": 1769.5,
+   "text": "You were here before the sunrise",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 9.54,
+   "track_end": 13.5
+  },
+  {
+   "start": 1771.56,
+   "end": 1775.16,
+   "text": "And you'll be here when the stars all fade",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 15.56,
+   "track_end": 19.16
+  },
+  {
+   "start": 1776.82,
+   "end": 1782.28,
+   "text": "How fun I'm making we worship you",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.591,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 20.82,
+   "track_end": 26.28
+  },
+  {
+   "start": 1784.6,
+   "end": 1788.26,
+   "text": "From the first breath I ever breathed",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 28.6,
+   "track_end": 32.26
+  },
+  {
+   "start": 1788.26,
+   "end": 1790.9,
+   "text": "Lord, You were watching over me",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 32.26,
+   "track_end": 34.9
+  },
+  {
+   "start": 1790.9,
+   "end": 1793.64,
+   "text": "In every joy, in every tear",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 34.9,
+   "track_end": 37.64
+  },
+  {
+   "start": 1794.28,
+   "end": 1797.22,
+   "text": "Your holy presence felt so near",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 38.28,
+   "track_end": 41.22
+  },
+  {
+   "start": 1797.22,
+   "end": 1800.8,
+   "text": "You shaped my heart with Your own hands",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 41.22,
+   "track_end": 44.8
+  },
+  {
+   "start": 1800.8,
+   "end": 1803.86,
+   "text": "You wrote my life before time began",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 44.8,
+   "track_end": 47.86
+  },
+  {
+   "start": 1803.86,
+   "end": 1806.92,
+   "text": "No matter where this road may go",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 47.86,
+   "track_end": 50.92
+  },
+  {
+   "start": 1806.92,
+   "end": 1809.6,
+   "text": "Jesus, You're the one I lean on",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.833,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 50.92,
+   "track_end": 53.6
+  },
+  {
+   "start": 1820.42,
+   "end": 1823.62,
+   "text": "You're the Alpha and the Omega",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 64.42,
+   "track_end": 67.62
+  },
+  {
+   "start": 1823.62,
+   "end": 1827.16,
+   "text": "Beginning and the end",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 67.62,
+   "track_end": 71.16
+  },
+  {
+   "start": 1827.16,
+   "end": 1830.28,
+   "text": "My Savior and Redeemer",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 71.16,
+   "track_end": 74.28
+  },
+  {
+   "start": 1830.28,
+   "end": 1833.52,
+   "text": "My Father and my friend",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 74.28,
+   "track_end": 77.52
+  },
+  {
+   "start": 1833.52,
+   "end": 1836.68,
+   "text": "You're the one who never changes",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 77.52,
+   "track_end": 80.68
+  },
+  {
+   "start": 1836.68,
+   "end": 1839.44,
+   "text": "You're faithful through it all",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 80.68,
+   "track_end": 83.44
+  },
+  {
+   "start": 1839.44,
+   "end": 1839.58,
+   "text": "You're the Alpha and the Omega",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.732,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 83.44,
+   "track_end": 83.58
+  },
+  {
+   "start": 1840.52,
+   "end": 1842.58,
+   "text": "I'll fall in omega",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 84.52,
+   "track_end": 86.58
+  },
+  {
+   "start": 1843.58,
+   "end": 1846.3,
+   "text": "I'll forever call your name",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 87.58,
+   "track_end": 90.3
+  },
+  {
+   "start": 1848.48,
+   "end": 1851.96,
+   "text": "When the night feels heavy on my soul",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 92.48,
+   "track_end": 95.96
+  },
+  {
+   "start": 1851.96,
+   "end": 1854.94,
+   "text": "You're the light that makes the shadows go",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 95.96,
+   "track_end": 98.94
+  },
+  {
+   "start": 1854.94,
+   "end": 1858.22,
+   "text": "Pull me close when I'm falling down",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 98.94,
+   "track_end": 102.22
+  },
+  {
+   "start": 1858.22,
+   "end": 1861.42,
+   "text": "Your mercy lifts me off the ground",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 102.22,
+   "track_end": 105.42
+  },
+  {
+   "start": 1861.42,
+   "end": 1864.44,
+   "text": "You speak peace over every storm",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 105.42,
+   "track_end": 108.44
+  },
+  {
+   "start": 1864.44,
+   "end": 1867.34,
+   "text": "Your love keeps my spirit warm",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.827,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 108.44,
+   "track_end": 111.34
+  },
+  {
+   "start": 1867.34,
+   "end": 1870.14,
+   "text": "And in the valley I hear your voice",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 111.34,
+   "track_end": 114.14
+  },
+  {
+   "start": 1870.14,
+   "end": 1873.12,
+   "text": "Child, I've been with you all along",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 114.14,
+   "track_end": 117.12
+  },
+  {
+   "start": 1873.12,
+   "end": 1876.74,
+   "text": "Rejoice, you're my shelter in the rain",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 117.12,
+   "track_end": 120.74
+  },
+  {
+   "start": 1877.34,
+   "end": 1879.86,
+   "text": "My healer in the pain",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 121.34,
+   "track_end": 123.86
+  },
+  {
+   "start": 1879.86,
+   "end": 1884.36,
+   "text": "So I lift my hands again",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 123.86,
+   "track_end": 128.36
+  },
+  {
+   "start": 1885.34,
+   "end": 1887.62,
+   "text": "Your night, oh, baby",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 129.34,
+   "track_end": 131.62
+  },
+  {
+   "start": 1888.34,
+   "end": 1891.0,
+   "text": "Beginning at the end",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 132.34,
+   "track_end": 135.0
+  },
+  {
+   "start": 1891.0,
+   "end": 1894.2,
+   "text": "My savior and redeemer",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.767,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 135.0,
+   "track_end": 138.2
+  },
+  {
+   "start": 1894.2,
+   "end": 1897.36,
+   "text": "My Father and my friend",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 138.2,
+   "track_end": 141.36
+  },
+  {
+   "start": 1897.36,
+   "end": 1900.64,
+   "text": "You're the one who never changes",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 141.36,
+   "track_end": 144.64
+  },
+  {
+   "start": 1900.64,
+   "end": 1903.7,
+   "text": "You're faithful through it all",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 144.64,
+   "track_end": 147.7
+  },
+  {
+   "start": 1904.2,
+   "end": 1906.96,
+   "text": "Alpha and Omega",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 148.2,
+   "track_end": 150.96
+  },
+  {
+   "start": 1906.96,
+   "end": 1912.28,
+   "text": "I'll forever call your name, yeah",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 150.96,
+   "track_end": 156.28
+  },
+  {
+   "start": 1912.28,
+   "end": 1915.14,
+   "text": "From glory to glory",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 156.28,
+   "track_end": 159.14
+  },
+  {
+   "start": 1915.14,
+   "end": 1918.36,
+   "text": "You're writing my story",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 159.14,
+   "track_end": 162.36
+  },
+  {
+   "start": 1919.2,
+   "end": 1922.6,
+   "text": "Jesus, you're holy forever",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 163.2,
+   "track_end": 166.6
+  },
+  {
+   "start": 1924.2,
+   "end": 1931.4,
+   "text": "No power can break you, no darkness can shake you",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.834,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 168.2,
+   "track_end": 175.4
+  },
+  {
+   "start": 1931.4,
+   "end": 1937.96,
+   "text": "My heart will proclaim Jesus, King forever",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.834,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 175.4,
+   "track_end": 181.96
+  },
+  {
+   "start": 1947.2,
+   "end": 1951.74,
+   "text": "My father and my friend.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 191.2,
+   "track_end": 195.74
+  },
+  {
+   "start": 1954.12,
+   "end": 1957.96,
+   "text": "Your love will never fall.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 198.12,
+   "track_end": 201.96
+  },
+  {
+   "start": 1959.62,
+   "end": 1961.2,
+   "text": "Alpha and Omega.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 203.62,
+   "track_end": 205.2
+  },
+  {
+   "start": 1961.96,
+   "end": 1965.8,
+   "text": "Jesus, your Lord of all.",
+   "avg_logprob": -0.691,
+   "no_speech_prob": 0.709,
+   "track_id": "5n1cYN-yDmo#07",
+   "track_start": 205.96,
+   "track_end": 209.8
+  },
+  {
+   "start": 2032.18,
+   "end": 2037.98,
+   "text": "I walk through the rain with tears in my eyes",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.815,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 24.18,
+   "track_end": 29.98
+  },
+  {
+   "start": 2039.1,
+   "end": 2043.56,
+   "text": "Didn't know if I'd make it, didn't know if I'd survive",
+   "avg_logprob": -0.134,
+   "no_speech_prob": 0.904,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 31.1,
+   "track_end": 35.56
+  },
+  {
+   "start": 2043.56,
+   "end": 2048.46,
+   "text": "Thunder in my spirit, lightning in my soul",
+   "avg_logprob": -0.134,
+   "no_speech_prob": 0.904,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 35.56,
+   "track_end": 40.46
+  },
+  {
+   "start": 2048.98,
+   "end": 2053.22,
+   "text": "But you whispered in the chaos, child I'm still in control",
+   "avg_logprob": -0.134,
+   "no_speech_prob": 0.904,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 40.98,
+   "track_end": 45.22
+  },
+  {
+   "start": 2053.98,
+   "end": 2058.4,
+   "text": "I felt the winds raging, waves crashing strong",
+   "avg_logprob": -0.134,
+   "no_speech_prob": 0.904,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 45.98,
+   "track_end": 50.4
+  },
+  {
+   "start": 2058.98,
+   "end": 2063.38,
+   "text": "But you covered me in mercy and carried me along",
+   "avg_logprob": -0.134,
+   "no_speech_prob": 0.904,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 50.98,
+   "track_end": 55.38
+  },
+  {
+   "start": 2063.38,
+   "end": 2068.28,
+   "text": "Now the clouds are breaking, light shining through",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.759,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 55.38,
+   "track_end": 60.28
+  },
+  {
+   "start": 2068.28,
+   "end": 2075.24,
+   "text": "Every miracle I need, oh Lord, I thought I'd lose my mind",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.759,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 60.28,
+   "track_end": 67.24
+  },
+  {
+   "start": 2075.24,
+   "end": 2080.1,
+   "text": "But you stepped in right on time",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.759,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 67.24,
+   "track_end": 72.1
+  },
+  {
+   "start": 2080.1,
+   "end": 2083.0,
+   "text": "Jesus, you lifted me",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.759,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 72.1,
+   "track_end": 75.0
+  },
+  {
+   "start": 2083.0,
+   "end": 2088.08,
+   "text": "You gave me victory, the storm is over now",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.759,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 75.0,
+   "track_end": 80.08
+  },
+  {
+   "start": 2088.08,
+   "end": 2092.04,
+   "text": "Hallelujah, I made it somehow",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.759,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 80.08,
+   "track_end": 84.04
+  },
+  {
+   "start": 2092.04,
+   "end": 2096.42,
+   "text": "You dried my tears, calmed my fears, Lord",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.766,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 84.04,
+   "track_end": 88.42
+  },
+  {
+   "start": 2096.42,
+   "end": 2100.36,
+   "text": "You brought me out, the storm is over now",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.766,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 88.42,
+   "track_end": 92.36
+  },
+  {
+   "start": 2100.36,
+   "end": 2104.94,
+   "text": "Use both peace to the wind and the waves",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.766,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 92.36,
+   "track_end": 96.94
+  },
+  {
+   "start": 2104.94,
+   "end": 2110.06,
+   "text": "You broke every chain, forever I'm safe",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.766,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 96.94,
+   "track_end": 102.06
+  },
+  {
+   "start": 2110.06,
+   "end": 2116.52,
+   "text": "I'm standing here today, cause You show me how",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.766,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 102.06,
+   "track_end": 108.52
+  },
+  {
+   "start": 2116.52,
+   "end": 2122.06,
+   "text": "Oh, Jesus, the storm is over now",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.491,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 108.52,
+   "track_end": 114.06
+  },
+  {
+   "start": 2127.52,
+   "end": 2132.76,
+   "text": "I remember the nights when I couldn't sleep",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.491,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 119.52,
+   "track_end": 124.76
+  },
+  {
+   "start": 2132.76,
+   "end": 2137.6,
+   "text": "Heart full of pain, so wounded, so deep",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.491,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 124.76,
+   "track_end": 129.6
+  },
+  {
+   "start": 2137.6,
+   "end": 2142.66,
+   "text": "I cried out your name in the dead of the night",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.491,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 129.6,
+   "track_end": 134.66
+  },
+  {
+   "start": 2142.66,
+   "end": 2147.66,
+   "text": "You wrap me in your presence till the morning light",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.694,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 134.66,
+   "track_end": 139.66
+  },
+  {
+   "start": 2147.66,
+   "end": 2152.34,
+   "text": "You restored my joy, you healed every scar",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.694,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 139.66,
+   "track_end": 144.34
+  },
+  {
+   "start": 2152.34,
+   "end": 2158.0,
+   "text": "You reminded my spirit who you truly are",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.694,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 144.34,
+   "track_end": 150.0
+  },
+  {
+   "start": 2158.0,
+   "end": 2162.72,
+   "text": "Alpha, Omega, beginning and end",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.694,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 150.0,
+   "track_end": 154.72
+  },
+  {
+   "start": 2162.72,
+   "end": 2167.84,
+   "text": "A savior, a father, my everlasting friend",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.694,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 154.72,
+   "track_end": 159.84
+  },
+  {
+   "start": 2167.84,
+   "end": 2170.3,
+   "text": "I almost let go",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.694,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 159.84,
+   "track_end": 162.3
+  },
+  {
+   "start": 2170.3,
+   "end": 2176.64,
+   "text": "But your love wouldn't let me fall You held me close",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 162.3,
+   "track_end": 168.64
+  },
+  {
+   "start": 2176.64,
+   "end": 2180.92,
+   "text": "Through it all, through it all, through it all",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 168.64,
+   "track_end": 172.92
+  },
+  {
+   "start": 2180.92,
+   "end": 2184.5,
+   "text": "The storm is over now Hallelujah",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 172.92,
+   "track_end": 176.5
+  },
+  {
+   "start": 2185.3,
+   "end": 2190.02,
+   "text": "I made it somehow You tried my tears",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 177.3,
+   "track_end": 182.02
+  },
+  {
+   "start": 2190.02,
+   "end": 2193.74,
+   "text": "Come my fears Lord, you brought me out",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 182.02,
+   "track_end": 185.74
+  },
+  {
+   "start": 2193.74,
+   "end": 2199.28,
+   "text": "The storm is over now You spoke peace to the wind",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.704,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 185.74,
+   "track_end": 191.28
+  },
+  {
+   "start": 2199.28,
+   "end": 2203.12,
+   "text": "And the waves, you broke every chain",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 191.28,
+   "track_end": 195.12
+  },
+  {
+   "start": 2203.8,
+   "end": 2205.66,
+   "text": "Forever I'm safe",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 195.8,
+   "track_end": 197.66
+  },
+  {
+   "start": 2206.28,
+   "end": 2208.52,
+   "text": "I'm standing here today",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 198.28,
+   "track_end": 200.52
+  },
+  {
+   "start": 2209.44,
+   "end": 2211.98,
+   "text": "Cause you show me how",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 201.44,
+   "track_end": 203.98
+  },
+  {
+   "start": 2211.98,
+   "end": 2213.36,
+   "text": "Oh Jesus",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 203.98,
+   "track_end": 205.36
+  },
+  {
+   "start": 2215.12,
+   "end": 2217.32,
+   "text": "The storm is over now",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 207.12,
+   "track_end": 209.32
+  },
+  {
+   "start": 2217.32,
+   "end": 2220.08,
+   "text": "You held my hand",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 209.32,
+   "track_end": 212.08
+  },
+  {
+   "start": 2220.08,
+   "end": 2222.58,
+   "text": "He held your hand",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 212.08,
+   "track_end": 214.58
+  },
+  {
+   "start": 2222.58,
+   "end": 2225.1,
+   "text": "You fought my battle",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 214.58,
+   "track_end": 217.1
+  },
+  {
+   "start": 2225.1,
+   "end": 2227.72,
+   "text": "He fought your battle",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.708,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 217.1,
+   "track_end": 219.72
+  },
+  {
+   "start": 2227.72,
+   "end": 2228.98,
+   "text": "You made a way",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 219.72,
+   "track_end": 220.98
+  },
+  {
+   "start": 2230.12,
+   "end": 2232.48,
+   "text": "When the enemy tried to take me out",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 222.12,
+   "track_end": 224.48
+  },
+  {
+   "start": 2232.48,
+   "end": 2233.96,
+   "text": "You said no",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 224.48,
+   "track_end": 225.96
+  },
+  {
+   "start": 2237.12,
+   "end": 2239.12,
+   "text": "This one belongs to me",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 229.12,
+   "track_end": 231.12
+  },
+  {
+   "start": 2239.12,
+   "end": 2240.36,
+   "text": "No more rain",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 231.12,
+   "track_end": 232.36
+  },
+  {
+   "start": 2240.36,
+   "end": 2241.6,
+   "text": "No more pain",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 232.36,
+   "track_end": 233.6
+  },
+  {
+   "start": 2241.6,
+   "end": 2242.72,
+   "text": "No more fear",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 233.6,
+   "track_end": 234.72
+  },
+  {
+   "start": 2242.72,
+   "end": 2244.06,
+   "text": "In Jesus' name",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 234.72,
+   "track_end": 236.06
+  },
+  {
+   "start": 2244.06,
+   "end": 2245.3,
+   "text": "No more storms",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 236.06,
+   "track_end": 237.3
+  },
+  {
+   "start": 2245.3,
+   "end": 2246.62,
+   "text": "Standing strong",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 237.3,
+   "track_end": 238.62
+  },
+  {
+   "start": 2247.72,
+   "end": 2251.6,
+   "text": "Cause you've been with me all along",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 239.72,
+   "track_end": 243.6
+  },
+  {
+   "start": 2251.6,
+   "end": 2254.12,
+   "text": "Scorch is over now",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 243.6,
+   "track_end": 246.12
+  },
+  {
+   "start": 2254.12,
+   "end": 2255.94,
+   "text": "I survived",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.382,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 246.12,
+   "track_end": 247.94
+  },
+  {
+   "start": 2255.94,
+   "end": 2256.62,
+   "text": "I survived",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 247.94,
+   "track_end": 248.62
+  },
+  {
+   "start": 2257.22,
+   "end": 2258.08,
+   "text": "Made it somehow",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 249.22,
+   "track_end": 250.08
+  },
+  {
+   "start": 2258.62,
+   "end": 2260.46,
+   "text": "You dried my tears",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 250.62,
+   "track_end": 252.46
+  },
+  {
+   "start": 2260.46,
+   "end": 2262.1,
+   "text": "Caught my fears",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 252.46,
+   "track_end": 254.1
+  },
+  {
+   "start": 2262.1,
+   "end": 2263.96,
+   "text": "Lord, you brought me out",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 254.1,
+   "track_end": 255.96
+  },
+  {
+   "start": 2263.96,
+   "end": 2266.76,
+   "text": "Storm is over now",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 255.96,
+   "track_end": 258.76
+  },
+  {
+   "start": 2267.3,
+   "end": 2269.48,
+   "text": "You spoke peace to the wind",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 259.3,
+   "track_end": 261.48
+  },
+  {
+   "start": 2269.48,
+   "end": 2271.14,
+   "text": "And the waves",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 261.48,
+   "track_end": 263.14
+  },
+  {
+   "start": 2271.7,
+   "end": 2273.92,
+   "text": "You broke every chain",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 263.7,
+   "track_end": 265.92
+  },
+  {
+   "start": 2273.92,
+   "end": 2275.92,
+   "text": "Forever around shade",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 265.92,
+   "track_end": 267.92
+  },
+  {
+   "start": 2275.92,
+   "end": 2277.44,
+   "text": "Now I test the spot",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 267.92,
+   "track_end": 269.44
+  },
+  {
+   "start": 2277.44,
+   "end": 2281.7,
+   "text": "With lifted hands and a bow down heart",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 269.44,
+   "track_end": 273.7
+  },
+  {
+   "start": 2282.64,
+   "end": 2283.88,
+   "text": "Oh Jesus",
+   "avg_logprob": -0.656,
+   "no_speech_prob": 0.668,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 274.64,
+   "track_end": 275.88
+  },
+  {
+   "start": 2283.88,
+   "end": 2298.88,
+   "text": "The storm is over now Peace be still",
+   "avg_logprob": -0.806,
+   "no_speech_prob": 0.693,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 275.88,
+   "track_end": 290.88
+  },
+  {
+   "start": 2301.68,
+   "end": 2309.62,
+   "text": "God has carried you through the storm",
+   "avg_logprob": -0.439,
+   "no_speech_prob": 0.55,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 293.68,
+   "track_end": 301.62
+  },
+  {
+   "start": 2309.62,
+   "end": 2313.34,
+   "text": "The storm is over now",
+   "avg_logprob": -0.439,
+   "no_speech_prob": 0.55,
+   "track_id": "5n1cYN-yDmo#08",
+   "track_start": 301.62,
+   "track_end": 305.34
+  },
+  {
+   "start": 2321.0,
+   "end": 2334.08,
+   "text": "Mmm, Lord.",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 0.0,
+   "track_end": 13.08
+  },
+  {
+   "start": 2340.28,
+   "end": 2340.68,
+   "text": "Yeah.",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 19.28,
+   "track_end": 19.68
+  },
+  {
+   "start": 2343.68,
+   "end": 2344.86,
+   "text": "You prepare me, Jesus.",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 22.68,
+   "track_end": 23.86
+  },
+  {
+   "start": 2347.0,
+   "end": 2347.86,
+   "text": "Mmm,",
+   "avg_logprob": -1.204,
+   "no_speech_prob": 0.151,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 26.0,
+   "track_end": 26.86
+  },
+  {
+   "start": 2349.7,
+   "end": 2355.78,
+   "text": "I've been walking through shadows, face and valleys low",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 28.7,
+   "track_end": 34.78
+  },
+  {
+   "start": 2355.78,
+   "end": 2362.12,
+   "text": "Trying hard to keep my faith when storms begin to blow",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 34.78,
+   "track_end": 41.12
+  },
+  {
+   "start": 2362.86,
+   "end": 2369.48,
+   "text": "But every time I feel the pressure, you remind me who you are",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 41.86,
+   "track_end": 48.48
+  },
+  {
+   "start": 2369.48,
+   "end": 2374.52,
+   "text": "A healer in my heartbreak, a light in the dark",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.864,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 48.48,
+   "track_end": 53.52
+  },
+  {
+   "start": 2375.96,
+   "end": 2382.32,
+   "text": "You carry every burden You calm every fear",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.895,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 54.96,
+   "track_end": 61.32
+  },
+  {
+   "start": 2383.52,
+   "end": 2389.74,
+   "text": "You whisper to my spirit My child, I'm right here",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.895,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 62.52,
+   "track_end": 68.74
+  },
+  {
+   "start": 2389.74,
+   "end": 2395.46,
+   "text": "So even when I stumble I'm covered by your grace",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.895,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 68.74,
+   "track_end": 74.46
+  },
+  {
+   "start": 2396.24,
+   "end": 2402.0,
+   "text": "You lift me up again and put me back in place",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 75.24,
+   "track_end": 81.0
+  },
+  {
+   "start": 2403.8,
+   "end": 2407.44,
+   "text": "So I won't run, I won't hide",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 82.8,
+   "track_end": 86.44
+  },
+  {
+   "start": 2407.44,
+   "end": 2410.84,
+   "text": "I'll stand firm with you by my side",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 86.44,
+   "track_end": 89.84
+  },
+  {
+   "start": 2410.84,
+   "end": 2413.76,
+   "text": "You're the strength deep inside of me",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 89.84,
+   "track_end": 92.76
+  },
+  {
+   "start": 2414.46,
+   "end": 2416.78,
+   "text": "Lord, prepare me for my destiny",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 93.46,
+   "track_end": 95.78
+  },
+  {
+   "start": 2417.46,
+   "end": 2421.22,
+   "text": "I'm gonna be ready, ready Lord, ready Lord",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 96.46,
+   "track_end": 100.22
+  },
+  {
+   "start": 2421.22,
+   "end": 2423.76,
+   "text": "When you call my name I'll rise to stand",
+   "avg_logprob": -0.17,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 100.22,
+   "track_end": 102.76
+  },
+  {
+   "start": 2423.76,
+   "end": 2424.56,
+   "text": "Yes, I will",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 102.76,
+   "track_end": 103.56
+  },
+  {
+   "start": 2424.56,
+   "end": 2427.9,
+   "text": "You've been shaping me, breaking me, holding me with love",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 103.56,
+   "track_end": 106.9
+  },
+  {
+   "start": 2427.9,
+   "end": 2430.68,
+   "text": "Covered by the power of heaven above",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 106.9,
+   "track_end": 109.68
+  },
+  {
+   "start": 2430.68,
+   "end": 2432.66,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 109.68,
+   "track_end": 111.66
+  },
+  {
+   "start": 2432.66,
+   "end": 2434.34,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 111.66,
+   "track_end": 113.34
+  },
+  {
+   "start": 2434.34,
+   "end": 2437.18,
+   "text": "No whatever comes, I won't be afraid",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 113.34,
+   "track_end": 116.18
+  },
+  {
+   "start": 2437.76,
+   "end": 2440.52,
+   "text": "With your hand in mine",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 116.76,
+   "track_end": 119.52
+  },
+  {
+   "start": 2440.52,
+   "end": 2442.66,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 119.52,
+   "track_end": 121.66
+  },
+  {
+   "start": 2443.76,
+   "end": 2445.98,
+   "text": "I walk through disappointment",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 122.76,
+   "track_end": 124.98
+  },
+  {
+   "start": 2446.76,
+   "end": 2449.3,
+   "text": "I've cried through long nights",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.743,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 125.76,
+   "track_end": 128.3
+  },
+  {
+   "start": 2449.3,
+   "end": 2455.52,
+   "text": "But you turned all my mourning into joy and new life.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 128.3,
+   "track_end": 134.52
+  },
+  {
+   "start": 2455.62,
+   "end": 2458.96,
+   "text": "You taught me patience in the wait and hope and pain.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 134.62,
+   "track_end": 137.96
+  },
+  {
+   "start": 2459.46,
+   "end": 2462.34,
+   "text": "And now I stand stronger in Jesus' name.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 138.46,
+   "track_end": 141.34
+  },
+  {
+   "start": 2462.84,
+   "end": 2465.3,
+   "text": "You opened every door that was locked in my face.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 141.84,
+   "track_end": 144.3
+  },
+  {
+   "start": 2466.14,
+   "end": 2469.04,
+   "text": "You rewrite every chapter with mercy and grace.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 145.14,
+   "track_end": 148.04
+  },
+  {
+   "start": 2469.24,
+   "end": 2472.54,
+   "text": "So I trust in your timing, trust in your plan.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 148.24,
+   "track_end": 151.54
+  },
+  {
+   "start": 2473.0,
+   "end": 2475.68,
+   "text": "You're shaping my future with your mighty head.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.746,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 152.0,
+   "track_end": 154.68
+  },
+  {
+   "start": 2492.1,
+   "end": 2494.64,
+   "text": "I'm ready Jesus ready for you.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 171.1,
+   "track_end": 173.64
+  },
+  {
+   "start": 2494.64,
+   "end": 2497.1,
+   "text": "When you call my name, I'll restate it.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 173.64,
+   "track_end": 176.1
+  },
+  {
+   "start": 2497.1,
+   "end": 2497.8,
+   "text": "Yes I will.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 176.1,
+   "track_end": 176.8
+  },
+  {
+   "start": 2497.9,
+   "end": 2501.1,
+   "text": "You've been shaping me, breaking me, molding me with love.",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 176.9,
+   "track_end": 180.1
+  },
+  {
+   "start": 2501.1,
+   "end": 2504.18,
+   "text": "Liftin' me higher with power from above",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 180.1,
+   "track_end": 183.18
+  },
+  {
+   "start": 2504.18,
+   "end": 2506.78,
+   "text": "I'm gonna be ready for it",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 183.18,
+   "track_end": 185.78
+  },
+  {
+   "start": 2506.78,
+   "end": 2507.38,
+   "text": "Oh, I'm ready",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 185.78,
+   "track_end": 186.38
+  },
+  {
+   "start": 2507.38,
+   "end": 2510.12,
+   "text": "Know whatever comes, I won't be afraid",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 186.38,
+   "track_end": 189.12
+  },
+  {
+   "start": 2510.12,
+   "end": 2511.38,
+   "text": "With your hand in mine",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 189.12,
+   "track_end": 190.38
+  },
+  {
+   "start": 2511.38,
+   "end": 2513.52,
+   "text": "With your hand in mine",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 190.38,
+   "track_end": 192.52
+  },
+  {
+   "start": 2513.52,
+   "end": 2515.72,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 192.52,
+   "track_end": 194.72
+  },
+  {
+   "start": 2518.14,
+   "end": 2520.28,
+   "text": "When the rain falls down",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 197.14,
+   "track_end": 199.28
+  },
+  {
+   "start": 2520.28,
+   "end": 2521.38,
+   "text": "You lift me",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 199.28,
+   "track_end": 200.38
+  },
+  {
+   "start": 2521.38,
+   "end": 2522.96,
+   "text": "When the fire burns hot",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 200.38,
+   "track_end": 201.96
+  },
+  {
+   "start": 2522.96,
+   "end": 2524.56,
+   "text": "You keep me",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 201.96,
+   "track_end": 203.56
+  },
+  {
+   "start": 2524.56,
+   "end": 2525.6,
+   "text": "Through the trial",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 203.56,
+   "track_end": 204.6
+  },
+  {
+   "start": 2526.38,
+   "end": 2527.9,
+   "text": "You hold me",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 205.38,
+   "track_end": 206.9
+  },
+  {
+   "start": 2527.9,
+   "end": 2530.24,
+   "text": "Jesus, You're my refuge",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.199,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 206.9,
+   "track_end": 209.24
+  },
+  {
+   "start": 2534.22,
+   "end": 2535.4,
+   "text": "I'm ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 213.22,
+   "track_end": 214.4
+  },
+  {
+   "start": 2536.86,
+   "end": 2540.34,
+   "text": "You prepared my heart, you restored my soul",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 215.86,
+   "track_end": 219.34
+  },
+  {
+   "start": 2540.34,
+   "end": 2542.38,
+   "text": "Now I'm walking in purpose, Lord",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 219.34,
+   "track_end": 221.38
+  },
+  {
+   "start": 2542.38,
+   "end": 2543.66,
+   "text": "Take control",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 221.38,
+   "track_end": 222.66
+  },
+  {
+   "start": 2543.66,
+   "end": 2545.14,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 222.66,
+   "track_end": 224.14
+  },
+  {
+   "start": 2548.36,
+   "end": 2552.14,
+   "text": "Oh, yeah, I'm stepping out in faith",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 227.36,
+   "track_end": 231.14
+  },
+  {
+   "start": 2553.1,
+   "end": 2556.66,
+   "text": "I'm covered by the kingdom of heaven above",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 232.1,
+   "track_end": 235.66
+  },
+  {
+   "start": 2556.66,
+   "end": 2558.52,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 235.66,
+   "track_end": 237.52
+  },
+  {
+   "start": 2558.52,
+   "end": 2559.4,
+   "text": "I'm ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 237.52,
+   "track_end": 238.4
+  },
+  {
+   "start": 2559.4,
+   "end": 2560.22,
+   "text": "I'm ready",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 238.4,
+   "track_end": 239.22
+  },
+  {
+   "start": 2560.22,
+   "end": 2567.06,
+   "text": "I am, Lord you made me to be through your mercy, grace and victory",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 239.22,
+   "track_end": 246.06
+  },
+  {
+   "start": 2567.92,
+   "end": 2570.38,
+   "text": "I'm gonna be ready",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 246.92,
+   "track_end": 249.38
+  },
+  {
+   "start": 2582.98,
+   "end": 2584.76,
+   "text": "I'm ready Lord",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 261.98,
+   "track_end": 263.76
+  },
+  {
+   "start": 2586.4,
+   "end": 2588.34,
+   "text": "You prepared me",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.61,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 265.4,
+   "track_end": 267.34
+  },
+  {
+   "start": 2590.22,
+   "end": 2596.9,
+   "text": "You keep me, all of me ready",
+   "avg_logprob": -0.551,
+   "no_speech_prob": 0.204,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 269.22,
+   "track_end": 275.9
+  },
+  {
+   "start": 2599.22,
+   "end": 2602.96,
+   "text": "Ready when you call my name",
+   "avg_logprob": -0.551,
+   "no_speech_prob": 0.204,
+   "track_id": "5n1cYN-yDmo#09",
+   "track_start": 278.22,
+   "track_end": 281.96
+  },
+  {
+   "start": 2620.54,
+   "end": 2631.44,
+   "text": "If it wasn't for your love, If it wasn't for your grace, I never would've made",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.69,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 11.54,
+   "track_end": 22.44
+  },
+  {
+   "start": 2633.8,
+   "end": 2638.54,
+   "text": "I remember all the nights I cried",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.845,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 24.8,
+   "track_end": 29.54
+  },
+  {
+   "start": 2640.6,
+   "end": 2644.36,
+   "text": "Heartbroken barely holding on inside",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.845,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 31.6,
+   "track_end": 35.36
+  },
+  {
+   "start": 2646.04,
+   "end": 2650.8,
+   "text": "Storm clouds gathering, nowhere to hide",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.845,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 37.04,
+   "track_end": 41.8
+  },
+  {
+   "start": 2652.36,
+   "end": 2656.68,
+   "text": "But you reached down and pulled me to the other side",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.845,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 43.36,
+   "track_end": 47.68
+  },
+  {
+   "start": 2658.2,
+   "end": 2668.4,
+   "text": "You whisper, child, don't lose your fight And you wrap me in your holy light",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 49.2,
+   "track_end": 59.4
+  },
+  {
+   "start": 2670.24,
+   "end": 2679.74,
+   "text": "You gave me strength when I had none You were the healing in my hurting Lord",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.757,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 61.24,
+   "track_end": 70.74
+  },
+  {
+   "start": 2679.74,
+   "end": 2680.92,
+   "text": "You made me run",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 70.74,
+   "track_end": 71.92
+  },
+  {
+   "start": 2682.02,
+   "end": 2684.54,
+   "text": "He lifted me",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 73.02,
+   "track_end": 75.54
+  },
+  {
+   "start": 2685.74,
+   "end": 2687.34,
+   "text": "You lifted me",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 76.74,
+   "track_end": 78.34
+  },
+  {
+   "start": 2687.34,
+   "end": 2688.5,
+   "text": "He carried me",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 78.34,
+   "track_end": 79.5
+  },
+  {
+   "start": 2688.5,
+   "end": 2690.62,
+   "text": "You carried me",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 79.5,
+   "track_end": 81.62
+  },
+  {
+   "start": 2690.62,
+   "end": 2691.68,
+   "text": "He never left",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 81.62,
+   "track_end": 82.68
+  },
+  {
+   "start": 2691.68,
+   "end": 2694.58,
+   "text": "He stayed with me",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 82.68,
+   "track_end": 85.58
+  },
+  {
+   "start": 2695.74,
+   "end": 2699.28,
+   "text": "I never would have made it",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 86.74,
+   "track_end": 90.28
+  },
+  {
+   "start": 2699.28,
+   "end": 2700.78,
+   "text": "Without You Lord",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 90.28,
+   "track_end": 91.78
+  },
+  {
+   "start": 2702.18,
+   "end": 2704.76,
+   "text": "You were my shelter",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 93.18,
+   "track_end": 95.76
+  },
+  {
+   "start": 2704.76,
+   "end": 2706.74,
+   "text": "In the rain pour",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.647,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 95.76,
+   "track_end": 97.74
+  },
+  {
+   "start": 2706.74,
+   "end": 2711.36,
+   "text": "Ooh, you held my hand through every tear I cried",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.776,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 97.74,
+   "track_end": 102.36
+  },
+  {
+   "start": 2711.36,
+   "end": 2714.44,
+   "text": "You kept me standing when I should have died",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.776,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 102.36,
+   "track_end": 105.44
+  },
+  {
+   "start": 2714.44,
+   "end": 2716.94,
+   "text": "You are my healer, slave, and friend",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.776,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 105.44,
+   "track_end": 107.94
+  },
+  {
+   "start": 2717.74,
+   "end": 2720.08,
+   "text": "My beginning and my end",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.776,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 108.74,
+   "track_end": 111.08
+  },
+  {
+   "start": 2720.74,
+   "end": 2723.06,
+   "text": "Oh, Jesus, oh, Jesus",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.776,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 111.74,
+   "track_end": 114.06
+  },
+  {
+   "start": 2723.06,
+   "end": 2728.78,
+   "text": "I never, never would have made it without you",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.776,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 114.06,
+   "track_end": 119.78
+  },
+  {
+   "start": 2729.58,
+   "end": 2732.58,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.776,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 120.58,
+   "track_end": 123.58
+  },
+  {
+   "start": 2732.58,
+   "end": 2736.38,
+   "text": "I lay broken, feeling so ashamed",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.507,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 123.58,
+   "track_end": 127.38
+  },
+  {
+   "start": 2737.96,
+   "end": 2742.48,
+   "text": "Thought my failures had to find my name",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.507,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 128.96,
+   "track_end": 133.48
+  },
+  {
+   "start": 2744.58,
+   "end": 2747.48,
+   "text": "But you picked me up, washed away my past",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.507,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 135.58,
+   "track_end": 138.48
+  },
+  {
+   "start": 2747.48,
+   "end": 2750.5,
+   "text": "Showed me mercy that forever lasts",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.507,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 138.48,
+   "track_end": 141.5
+  },
+  {
+   "start": 2750.5,
+   "end": 2753.48,
+   "text": "Where I was weak, Lord, you made me strong",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.507,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 141.5,
+   "track_end": 144.48
+  },
+  {
+   "start": 2753.48,
+   "end": 2756.48,
+   "text": "You gave me purpose, you helped me belong",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.507,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 144.48,
+   "track_end": 147.48
+  },
+  {
+   "start": 2756.48,
+   "end": 2760.02,
+   "text": "You wrote a new story over my pain",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.507,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 147.48,
+   "track_end": 151.02
+  },
+  {
+   "start": 2760.02,
+   "end": 2762.62,
+   "text": "Turn my morning into praise again",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 151.02,
+   "track_end": 153.62
+  },
+  {
+   "start": 2763.36,
+   "end": 2766.26,
+   "text": "You restored me, you renewed me",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 154.36,
+   "track_end": 157.26
+  },
+  {
+   "start": 2766.26,
+   "end": 2769.3,
+   "text": "You revived me, you revived me",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 157.26,
+   "track_end": 160.3
+  },
+  {
+   "start": 2769.3,
+   "end": 2771.48,
+   "text": "You transformed me",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 160.3,
+   "track_end": 162.48
+  },
+  {
+   "start": 2771.48,
+   "end": 2774.52,
+   "text": "Ooh, love",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 162.48,
+   "track_end": 165.52
+  },
+  {
+   "start": 2775.86,
+   "end": 2780.04,
+   "text": "I never would've made it without You, Lord",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 166.86,
+   "track_end": 171.04
+  },
+  {
+   "start": 2780.04,
+   "end": 2782.1,
+   "text": "Oh, I never would've made it",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 171.04,
+   "track_end": 173.1
+  },
+  {
+   "start": 2782.1,
+   "end": 2786.14,
+   "text": "You were my peace when my mind felt torn",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 173.1,
+   "track_end": 177.14
+  },
+  {
+   "start": 2786.14,
+   "end": 2788.02,
+   "text": "You calmed the storm inside",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.524,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 177.14,
+   "track_end": 179.02
+  },
+  {
+   "start": 2788.02,
+   "end": 2790.6,
+   "text": "You held my heart when it bled and broke",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 179.02,
+   "track_end": 181.6
+  },
+  {
+   "start": 2790.6,
+   "end": 2793.62,
+   "text": "Breathe new life with every word you spoke for",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 181.6,
+   "track_end": 184.62
+  },
+  {
+   "start": 2793.62,
+   "end": 2796.1,
+   "text": "You are my fortress strength and she",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 184.62,
+   "track_end": 187.1
+  },
+  {
+   "start": 2796.1,
+   "end": 2798.78,
+   "text": "You're everything I need",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 187.1,
+   "track_end": 189.78
+  },
+  {
+   "start": 2798.78,
+   "end": 2801.32,
+   "text": "Jesus, You're forever real",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 189.78,
+   "track_end": 192.32
+  },
+  {
+   "start": 2801.32,
+   "end": 2805.74,
+   "text": "I never, never would have made it without You",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 192.32,
+   "track_end": 196.74
+  },
+  {
+   "start": 2805.74,
+   "end": 2809.62,
+   "text": "When I was drowning, You lifted me up",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 196.74,
+   "track_end": 200.62
+  },
+  {
+   "start": 2811.38,
+   "end": 2815.24,
+   "text": "When I was empty, You filled my cup",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.316,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 202.38,
+   "track_end": 206.24
+  },
+  {
+   "start": 2817.4,
+   "end": 2821.64,
+   "text": "When I was lost Lord, you called my name",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.63,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 208.4,
+   "track_end": 212.64
+  },
+  {
+   "start": 2823.5,
+   "end": 2827.24,
+   "text": "When I was guilty, you took my shame",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.63,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 214.5,
+   "track_end": 218.24
+  },
+  {
+   "start": 2830.1,
+   "end": 2833.4,
+   "text": "You carried me through the darkest night",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.63,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 221.1,
+   "track_end": 224.4
+  },
+  {
+   "start": 2833.4,
+   "end": 2836.46,
+   "text": "Gave me hope, gave me sight",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.63,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 224.4,
+   "track_end": 227.46
+  },
+  {
+   "start": 2836.46,
+   "end": 2839.58,
+   "text": "Brought me into your marvelous light",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.63,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 227.46,
+   "track_end": 230.58
+  },
+  {
+   "start": 2839.58,
+   "end": 2842.24,
+   "text": "Jesus, my love",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.63,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 230.58,
+   "track_end": 233.24
+  },
+  {
+   "start": 2842.24,
+   "end": 2846.88,
+   "text": "I never would have made this love that smooth",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.674,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 233.24,
+   "track_end": 237.88
+  },
+  {
+   "start": 2849.24,
+   "end": 2853.32,
+   "text": "You stayed with me through every war",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.674,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 240.24,
+   "track_end": 244.32
+  },
+  {
+   "start": 2855.24,
+   "end": 2858.34,
+   "text": "You broke my chains, made my spirit soar",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.674,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 246.24,
+   "track_end": 249.34
+  },
+  {
+   "start": 2858.34,
+   "end": 2860.82,
+   "text": "You opened every locked door",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.674,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 249.34,
+   "track_end": 251.82
+  },
+  {
+   "start": 2860.82,
+   "end": 2863.88,
+   "text": "Oh Jesus, my Savior and my King",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.674,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 251.82,
+   "track_end": 254.88
+  },
+  {
+   "start": 2863.88,
+   "end": 2866.92,
+   "text": "To you my whole heart sings",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.674,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 254.88,
+   "track_end": 257.92
+  },
+  {
+   "start": 2866.92,
+   "end": 2870.24,
+   "text": "I never, never would have made it",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.674,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 257.92,
+   "track_end": 261.24
+  },
+  {
+   "start": 2870.24,
+   "end": 2874.2,
+   "text": "I could have made it without you",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.457,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 261.24,
+   "track_end": 265.2
+  },
+  {
+   "start": 2880.46,
+   "end": 2883.96,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.457,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 271.46,
+   "track_end": 274.96
+  },
+  {
+   "start": 2888.54,
+   "end": 2892.24,
+   "text": "I never would have made it",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.457,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 279.54,
+   "track_end": 283.24
+  },
+  {
+   "start": 2897.24,
+   "end": 2898.44,
+   "text": "Without you",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.457,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 288.24,
+   "track_end": 289.44
+  },
+  {
+   "start": 2900.24,
+   "end": 2900.98,
+   "text": "you",
+   "avg_logprob": -0.637,
+   "no_speech_prob": 0.96,
+   "track_id": "5n1cYN-yDmo#10",
+   "track_start": 291.24,
+   "track_end": 291.98
+  },
+  {
+   "start": 2901.0,
+   "end": 2906.0,
+   "text": "Hmm, yeah",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 0.0,
+   "track_end": 5.0
+  },
+  {
+   "start": 2911.0,
+   "end": 2913.0,
+   "text": "Hmm, oh yes",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 10.0,
+   "track_end": 12.0
+  },
+  {
+   "start": 2916.0,
+   "end": 2917.0,
+   "text": "We thank You Lord",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 15.0,
+   "track_end": 16.0
+  },
+  {
+   "start": 2919.0,
+   "end": 2920.46,
+   "text": "We're blessed",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 18.0,
+   "track_end": 19.46
+  },
+  {
+   "start": 2922.0,
+   "end": 2923.86,
+   "text": "In highly favored",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 21.0,
+   "track_end": 22.86
+  },
+  {
+   "start": 2926.2,
+   "end": 2930.2,
+   "text": "Your mercy brought us here",
+   "avg_logprob": -0.463,
+   "no_speech_prob": 0.681,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 25.2,
+   "track_end": 29.2
+  },
+  {
+   "start": 2931.0,
+   "end": 2939.96,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 30.0,
+   "track_end": 38.96
+  },
+  {
+   "start": 2939.96,
+   "end": 2944.5,
+   "text": "I woke up this morning with breath in my chest",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 38.96,
+   "track_end": 43.5
+  },
+  {
+   "start": 2945.14,
+   "end": 2948.74,
+   "text": "and I knew right away, Lord, I'm more than blessed",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 44.14,
+   "track_end": 47.74
+  },
+  {
+   "start": 2948.74,
+   "end": 2952.96,
+   "text": "You carried me through storms I thought I'd never survive",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 47.74,
+   "track_end": 51.96
+  },
+  {
+   "start": 2952.96,
+   "end": 2957.24,
+   "text": "with your hand held me steady kept my spirit alive",
+   "avg_logprob": -0.393,
+   "no_speech_prob": 0.636,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 51.96,
+   "track_end": 56.24
+  },
+  {
+   "start": 2957.24,
+   "end": 2961.88,
+   "text": "When the world tried to break me, lifting me higher",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 56.24,
+   "track_end": 60.88
+  },
+  {
+   "start": 2961.88,
+   "end": 2966.22,
+   "text": "You filled me with purpose, set my soul on fire",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 60.88,
+   "track_end": 65.22
+  },
+  {
+   "start": 2966.22,
+   "end": 2970.46,
+   "text": "And every battle I've hit, you already won",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 65.22,
+   "track_end": 69.46
+  },
+  {
+   "start": 2970.46,
+   "end": 2974.38,
+   "text": "Your grace is the reason I overcome",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 69.46,
+   "track_end": 73.38
+  },
+  {
+   "start": 2975.24,
+   "end": 2978.8,
+   "text": "Oh, I've seen your power",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 74.24,
+   "track_end": 77.8
+  },
+  {
+   "start": 2978.8,
+   "end": 2983.14,
+   "text": "I've felt your love every hour",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.823,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 77.8,
+   "track_end": 82.14
+  },
+  {
+   "start": 2983.14,
+   "end": 2987.26,
+   "text": "And I stand here today because you made",
+   "avg_logprob": -0.577,
+   "no_speech_prob": 0.792,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 82.14,
+   "track_end": 86.26
+  },
+  {
+   "start": 2995.78,
+   "end": 3006.5,
+   "text": "Covered by the blood of my savior every mountain move every chain undone Jesus",
+   "avg_logprob": -0.577,
+   "no_speech_prob": 0.792,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 94.78,
+   "track_end": 105.5
+  },
+  {
+   "start": 3013.14,
+   "end": 3018.24,
+   "text": "Hail together by love and never break us",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 112.14,
+   "track_end": 117.24
+  },
+  {
+   "start": 3018.24,
+   "end": 3022.14,
+   "text": "From the valley low to the highest praise",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 117.24,
+   "track_end": 121.14
+  },
+  {
+   "start": 3022.66,
+   "end": 3026.32,
+   "text": "To Lord I'm covered by Your grace",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 121.66,
+   "track_end": 125.32
+  },
+  {
+   "start": 3031.7,
+   "end": 3035.76,
+   "text": "You opened doors that were locked in my face",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 130.7,
+   "track_end": 134.76
+  },
+  {
+   "start": 3035.76,
+   "end": 3039.96,
+   "text": "And You healed every wound with Your gentle embrace",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.692,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 134.76,
+   "track_end": 138.96
+  },
+  {
+   "start": 3039.96,
+   "end": 3044.24,
+   "text": "Even when I doubted you were faithful and true",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 138.96,
+   "track_end": 143.24
+  },
+  {
+   "start": 3044.24,
+   "end": 3048.6,
+   "text": "You kept whispering my child, I'm not done with you",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 143.24,
+   "track_end": 147.6
+  },
+  {
+   "start": 3048.6,
+   "end": 3052.94,
+   "text": "You turned my morning into songs of joy",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 147.6,
+   "track_end": 151.94
+  },
+  {
+   "start": 3052.94,
+   "end": 3057.62,
+   "text": "Restored what was broken, gave me peace to enjoy",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 151.94,
+   "track_end": 156.62
+  },
+  {
+   "start": 3057.62,
+   "end": 3061.96,
+   "text": "Every blessing I see is a sign from above",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 156.62,
+   "track_end": 160.96
+  },
+  {
+   "start": 3061.96,
+   "end": 3066.14,
+   "text": "I'm walking in your goodness and showered in love",
+   "avg_logprob": -0.118,
+   "no_speech_prob": 0.794,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 160.96,
+   "track_end": 165.14
+  },
+  {
+   "start": 3066.14,
+   "end": 3074.08,
+   "text": "So I'll sing forever of how you brought me together",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 165.14,
+   "track_end": 173.08
+  },
+  {
+   "start": 3075.14,
+   "end": 3077.12,
+   "text": "My heart belongs to you",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 174.14,
+   "track_end": 176.12
+  },
+  {
+   "start": 3077.12,
+   "end": 3079.5,
+   "text": "You're the God who pulls me through",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 176.12,
+   "track_end": 178.5
+  },
+  {
+   "start": 3080.92,
+   "end": 3083.92,
+   "text": "You're the God who pulls me through",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 179.92,
+   "track_end": 182.92
+  },
+  {
+   "start": 3083.92,
+   "end": 3086.92,
+   "text": "I'm the Holy Spirit, I lead faith",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 182.92,
+   "track_end": 185.92
+  },
+  {
+   "start": 3086.92,
+   "end": 3091.82,
+   "text": "Covered by the blood of my Savior",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.553,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 185.92,
+   "track_end": 190.82
+  },
+  {
+   "start": 3091.82,
+   "end": 3096.7,
+   "text": "Every mountain move, every chain undone",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 190.82,
+   "track_end": 195.7
+  },
+  {
+   "start": 3096.7,
+   "end": 3099.66,
+   "text": "Jesus, You're the Holy One",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 195.7,
+   "track_end": 198.66
+  },
+  {
+   "start": 3099.66,
+   "end": 3104.9,
+   "text": "I'm blessed, highly favored",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 198.66,
+   "track_end": 203.9
+  },
+  {
+   "start": 3104.9,
+   "end": 3108.82,
+   "text": "Held together by Your love and never wavered",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 203.9,
+   "track_end": 207.82
+  },
+  {
+   "start": 3109.6,
+   "end": 3113.9,
+   "text": "From the valley low to the highest place",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 208.6,
+   "track_end": 212.9
+  },
+  {
+   "start": 3113.9,
+   "end": 3118.14,
+   "text": "Lord, I'm covered by Your grace",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.756,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 212.9,
+   "track_end": 217.14
+  },
+  {
+   "start": 3118.14,
+   "end": 3124.58,
+   "text": "I shouldn't be here, but you can be",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 217.14,
+   "track_end": 223.58
+  },
+  {
+   "start": 3124.58,
+   "end": 3127.26,
+   "text": "Blessed and highly favored",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 223.58,
+   "track_end": 226.26
+  },
+  {
+   "start": 3127.26,
+   "end": 3134.38,
+   "text": "I should have lost it all, but you saved me",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 226.26,
+   "track_end": 233.38
+  },
+  {
+   "start": 3134.38,
+   "end": 3139.64,
+   "text": "Your mercy found me when I ran astray",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 233.38,
+   "track_end": 238.64
+  },
+  {
+   "start": 3139.64,
+   "end": 3143.26,
+   "text": "Grace kept paving me away",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.769,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 238.64,
+   "track_end": 242.26
+  },
+  {
+   "start": 3143.26,
+   "end": 3153.66,
+   "text": "Oh Jesus, oh Jesus, I thank you every day",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.745,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 242.26,
+   "track_end": 252.66
+  },
+  {
+   "start": 3159.16,
+   "end": 3166.94,
+   "text": "I'm blessed, I'm blessed, I'm living proof that your love is greater",
+   "avg_logprob": -0.487,
+   "no_speech_prob": 0.745,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 258.16,
+   "track_end": 265.94
+  },
+  {
+   "start": 3168.04,
+   "end": 3172.64,
+   "text": "Every battle lost is a battle you won",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 267.04,
+   "track_end": 271.64
+  },
+  {
+   "start": 3172.64,
+   "end": 3176.82,
+   "text": "You're my strength, my hope, my soul",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 271.64,
+   "track_end": 275.82
+  },
+  {
+   "start": 3176.82,
+   "end": 3179.94,
+   "text": "I'm blessed, I'm blessed, yes, I lead faith",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 275.82,
+   "track_end": 278.94
+  },
+  {
+   "start": 3180.48,
+   "end": 3184.74,
+   "text": "But held together by your love, never wait",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 279.48,
+   "track_end": 283.74
+  },
+  {
+   "start": 3184.74,
+   "end": 3189.9,
+   "text": "I'm from sunrise to the setting day",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.639,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 283.74,
+   "track_end": 288.9
+  },
+  {
+   "start": 3189.9,
+   "end": 3194.02,
+   "text": "Lord I'll forever give you praise",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 288.9,
+   "track_end": 293.02
+  },
+  {
+   "start": 3197.0,
+   "end": 3203.42,
+   "text": "Hmm, I'm blessed",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 296.0,
+   "track_end": 302.42
+  },
+  {
+   "start": 3204.9,
+   "end": 3207.06,
+   "text": "Blessed and highly favored",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 303.9,
+   "track_end": 306.06
+  },
+  {
+   "start": 3207.06,
+   "end": 3208.76,
+   "text": "Thank you Jesus",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 306.06,
+   "track_end": 307.76
+  },
+  {
+   "start": 3208.76,
+   "end": 3213.34,
+   "text": "Covered by your grace forever",
+   "avg_logprob": -0.475,
+   "no_speech_prob": 0.053,
+   "track_id": "5n1cYN-yDmo#11",
+   "track_start": 307.76,
+   "track_end": 312.34
+  },
+  {
+   "start": 3220.0,
+   "end": 3220.98,
+   "text": "Uh",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 0.0,
+   "track_end": 0.98
+  },
+  {
+   "start": 3226.44,
+   "end": 3229.24,
+   "text": "Hold on",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 6.44,
+   "track_end": 9.24
+  },
+  {
+   "start": 3238.04,
+   "end": 3243.26,
+   "text": "God's hand is on you the storm",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 18.04,
+   "track_end": 23.26
+  },
+  {
+   "start": 3245.48,
+   "end": 3246.64,
+   "text": "Is over",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 25.48,
+   "track_end": 26.64
+  },
+  {
+   "start": 3250.0,
+   "end": 3253.5,
+   "text": "I walk through the rain with tears in my eyes",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 30.0,
+   "track_end": 33.5
+  },
+  {
+   "start": 3253.5,
+   "end": 3256.48,
+   "text": "Didn't know if I make it, didn't know if I'd survive",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 33.5,
+   "track_end": 36.48
+  },
+  {
+   "start": 3256.48,
+   "end": 3259.96,
+   "text": "Thunder in my spirit, lightning in my soul",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 36.48,
+   "track_end": 39.96
+  },
+  {
+   "start": 3259.96,
+   "end": 3263.28,
+   "text": "But you whispered in the chaos, child I'm still in control",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 39.96,
+   "track_end": 43.28
+  },
+  {
+   "start": 3263.28,
+   "end": 3266.68,
+   "text": "I felt the winds raging, waves crashing strong",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 43.28,
+   "track_end": 46.68
+  },
+  {
+   "start": 3266.68,
+   "end": 3270.08,
+   "text": "But you covered me in mercy and carried me along",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 46.68,
+   "track_end": 50.08
+  },
+  {
+   "start": 3270.08,
+   "end": 3273.36,
+   "text": "Now the clouds are breaking, light shining through",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 50.08,
+   "track_end": 53.36
+  },
+  {
+   "start": 3273.36,
+   "end": 3276.64,
+   "text": "Every miracle I needed, Lord I found in You",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.603,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 53.36,
+   "track_end": 56.64
+  },
+  {
+   "start": 3276.64,
+   "end": 3279.42,
+   "text": "I thought I'd lose my mind",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 56.64,
+   "track_end": 59.42
+  },
+  {
+   "start": 3279.42,
+   "end": 3280.54,
+   "text": "Oh, yes I did",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 59.42,
+   "track_end": 60.54
+  },
+  {
+   "start": 3280.54,
+   "end": 3282.88,
+   "text": "I was left in right on time",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 60.54,
+   "track_end": 62.88
+  },
+  {
+   "start": 3283.44,
+   "end": 3285.48,
+   "text": "Jesus, you lifted me",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 63.44,
+   "track_end": 65.48
+  },
+  {
+   "start": 3285.48,
+   "end": 3288.76,
+   "text": "You gave me victory",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 65.48,
+   "track_end": 68.76
+  },
+  {
+   "start": 3289.64,
+   "end": 3292.66,
+   "text": "Storm is over now",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 69.64,
+   "track_end": 72.66
+  },
+  {
+   "start": 3292.66,
+   "end": 3293.36,
+   "text": "Hallelujah",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 72.66,
+   "track_end": 73.36
+  },
+  {
+   "start": 3294.24,
+   "end": 3295.84,
+   "text": "Made it somehow",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 74.24,
+   "track_end": 75.84
+  },
+  {
+   "start": 3295.84,
+   "end": 3297.82,
+   "text": "You dried my tears",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 75.84,
+   "track_end": 77.82
+  },
+  {
+   "start": 3297.82,
+   "end": 3299.38,
+   "text": "Call my fears",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 77.82,
+   "track_end": 79.38
+  },
+  {
+   "start": 3299.38,
+   "end": 3302.2,
+   "text": "Lord, you brought me out",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 79.38,
+   "track_end": 82.2
+  },
+  {
+   "start": 3302.2,
+   "end": 3303.6,
+   "text": "The storm is over now",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 82.2,
+   "track_end": 83.6
+  },
+  {
+   "start": 3303.6,
+   "end": 3304.46,
+   "text": "Use both peace",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 83.6,
+   "track_end": 84.46
+  },
+  {
+   "start": 3304.46,
+   "end": 3306.06,
+   "text": "To the wind and waves",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.537,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 84.46,
+   "track_end": 86.06
+  },
+  {
+   "start": 3306.06,
+   "end": 3312.92,
+   "text": "You broke every chain forever I'm saved I'm standing here today cause you showed me how",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.723,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 86.06,
+   "track_end": 92.92
+  },
+  {
+   "start": 3322.82,
+   "end": 3327.02,
+   "text": "I remember the nights when I couldn't sleep",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.723,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 102.82,
+   "track_end": 107.02
+  },
+  {
+   "start": 3327.54,
+   "end": 3333.78,
+   "text": "Partful of pain so wounded so deep I cried out your name in the dead of the night",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.723,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 107.54,
+   "track_end": 113.78
+  },
+  {
+   "start": 3333.78,
+   "end": 3337.1,
+   "text": "You wrap me in your presence till the morning light",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 113.78,
+   "track_end": 117.1
+  },
+  {
+   "start": 3337.1,
+   "end": 3340.46,
+   "text": "You restore my joy, you heal every scar",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 117.1,
+   "track_end": 120.46
+  },
+  {
+   "start": 3340.46,
+   "end": 3343.98,
+   "text": "You remind me my spirit, who you truly are",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 120.46,
+   "track_end": 123.98
+  },
+  {
+   "start": 3343.98,
+   "end": 3347.38,
+   "text": "I'll fall, make a beginning and end",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 123.98,
+   "track_end": 127.38
+  },
+  {
+   "start": 3347.38,
+   "end": 3350.8,
+   "text": "I'll save you, a father, my everlasting friend",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 127.38,
+   "track_end": 130.8
+  },
+  {
+   "start": 3350.8,
+   "end": 3353.66,
+   "text": "I almost let go",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 130.8,
+   "track_end": 133.66
+  },
+  {
+   "start": 3354.18,
+   "end": 3357.12,
+   "text": "But your love wouldn't let me fall",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 134.18,
+   "track_end": 137.12
+  },
+  {
+   "start": 3357.12,
+   "end": 3360.26,
+   "text": "You held me close",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.658,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 137.12,
+   "track_end": 140.26
+  },
+  {
+   "start": 3360.26,
+   "end": 3362.76,
+   "text": "Through it all, through it all",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 140.26,
+   "track_end": 142.76
+  },
+  {
+   "start": 3363.66,
+   "end": 3366.3,
+   "text": "All the storm is over now",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 143.66,
+   "track_end": 146.3
+  },
+  {
+   "start": 3366.3,
+   "end": 3369.56,
+   "text": "Hallelujah, made it somehow",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 146.3,
+   "track_end": 149.56
+  },
+  {
+   "start": 3369.56,
+   "end": 3373.18,
+   "text": "You dried my tears, calmed my fears",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 149.56,
+   "track_end": 153.18
+  },
+  {
+   "start": 3373.18,
+   "end": 3375.82,
+   "text": "Lord, You brought me out",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 153.18,
+   "track_end": 155.82
+  },
+  {
+   "start": 3375.82,
+   "end": 3377.24,
+   "text": "The storm is over now",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 155.82,
+   "track_end": 157.24
+  },
+  {
+   "start": 3377.24,
+   "end": 3379.82,
+   "text": "You spoke peace to the wind and the waves",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 157.24,
+   "track_end": 159.82
+  },
+  {
+   "start": 3379.82,
+   "end": 3383.04,
+   "text": "You broke every chain, forever I'm safe",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 159.82,
+   "track_end": 163.04
+  },
+  {
+   "start": 3383.04,
+   "end": 3386.46,
+   "text": "I'm standing here today, cause You show me how",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 163.04,
+   "track_end": 166.46
+  },
+  {
+   "start": 3386.46,
+   "end": 3390.24,
+   "text": "Oh Jesus, the storm is over now",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.633,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 166.46,
+   "track_end": 170.24
+  },
+  {
+   "start": 3390.24,
+   "end": 3392.34,
+   "text": "You held my hand",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 170.24,
+   "track_end": 172.34
+  },
+  {
+   "start": 3392.34,
+   "end": 3393.88,
+   "text": "He held your hand",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 172.34,
+   "track_end": 173.88
+  },
+  {
+   "start": 3393.88,
+   "end": 3395.62,
+   "text": "You fought my battles",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 173.88,
+   "track_end": 175.62
+  },
+  {
+   "start": 3395.62,
+   "end": 3397.22,
+   "text": "He fought your battles",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 175.62,
+   "track_end": 177.22
+  },
+  {
+   "start": 3397.22,
+   "end": 3398.92,
+   "text": "You made a way",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 177.22,
+   "track_end": 178.92
+  },
+  {
+   "start": 3398.92,
+   "end": 3401.0,
+   "text": "He made a way",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 178.92,
+   "track_end": 181.0
+  },
+  {
+   "start": 3401.0,
+   "end": 3403.62,
+   "text": "When the enemy tried to take me out",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 181.0,
+   "track_end": 183.62
+  },
+  {
+   "start": 3404.24,
+   "end": 3405.7,
+   "text": "You said no",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 184.24,
+   "track_end": 185.7
+  },
+  {
+   "start": 3407.14,
+   "end": 3409.66,
+   "text": "This one belongs to me",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 187.14,
+   "track_end": 189.66
+  },
+  {
+   "start": 3409.66,
+   "end": 3411.18,
+   "text": "No more rain",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 189.66,
+   "track_end": 191.18
+  },
+  {
+   "start": 3411.18,
+   "end": 3412.6,
+   "text": "No more pain",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 191.18,
+   "track_end": 192.6
+  },
+  {
+   "start": 3412.6,
+   "end": 3414.42,
+   "text": "No more fear",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 192.6,
+   "track_end": 194.42
+  },
+  {
+   "start": 3414.42,
+   "end": 3416.24,
+   "text": "In Jesus' name",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 194.42,
+   "track_end": 196.24
+  },
+  {
+   "start": 3416.84,
+   "end": 3419.3,
+   "text": "No more storm",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.566,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 196.84,
+   "track_end": 199.3
+  },
+  {
+   "start": 3420.86,
+   "end": 3423.28,
+   "text": "I'm standing strong",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 200.86,
+   "track_end": 203.28
+  },
+  {
+   "start": 3425.34,
+   "end": 3429.24,
+   "text": "Cause you've been with me all along",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 205.34,
+   "track_end": 209.24
+  },
+  {
+   "start": 3432.04,
+   "end": 3438.96,
+   "text": "I survived it, I survived it oh yeah",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 212.04,
+   "track_end": 218.96
+  },
+  {
+   "start": 3442.28,
+   "end": 3446.36,
+   "text": "You spoke peace to the wind and the waves",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.844,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 222.28,
+   "track_end": 226.36
+  },
+  {
+   "start": 3446.36,
+   "end": 3449.44,
+   "text": "If you broke every chain, forever I'm saved",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 226.36,
+   "track_end": 229.44
+  },
+  {
+   "start": 3449.44,
+   "end": 3453.74,
+   "text": "Now I testify with lifted hands and a bowed down heart",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 229.44,
+   "track_end": 233.74
+  },
+  {
+   "start": 3453.74,
+   "end": 3460.52,
+   "text": "Oh Jesus, thank you Jesus",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 233.74,
+   "track_end": 240.52
+  },
+  {
+   "start": 3463.1,
+   "end": 3476.34,
+   "text": "Oh Jesus, thank you Jesus",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.489,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 243.1,
+   "track_end": 256.34
+  },
+  {
+   "start": 3476.34,
+   "end": 3483.34,
+   "text": "God has carried you through the storm",
+   "avg_logprob": -0.554,
+   "no_speech_prob": 0.543,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 256.34,
+   "track_end": 263.34
+  },
+  {
+   "start": 3489.1,
+   "end": 3492.34,
+   "text": "He's over now",
+   "avg_logprob": -0.554,
+   "no_speech_prob": 0.543,
+   "track_id": "5n1cYN-yDmo#12",
+   "track_start": 269.1,
+   "track_end": 272.34
+  },
+  {
+   "start": 3504.0,
+   "end": 3510.34,
+   "text": "I remember the nights I felt all alone",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 0.0,
+   "track_end": 6.34
+  },
+  {
+   "start": 3511.0,
+   "end": 3516.74,
+   "text": "No hate to hold No place called home",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 7.0,
+   "track_end": 12.74
+  },
+  {
+   "start": 3516.74,
+   "end": 3522.94,
+   "text": "The weight of the world Get pressed on my soul",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 12.74,
+   "track_end": 18.94
+  },
+  {
+   "start": 3522.94,
+   "end": 3528.82,
+   "text": "But you lifted me up You made me whole",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 18.94,
+   "track_end": 24.82
+  },
+  {
+   "start": 3528.82,
+   "end": 3531.98,
+   "text": "When the storms came crashing down",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 24.82,
+   "track_end": 27.98
+  },
+  {
+   "start": 3531.98,
+   "end": 3535.28,
+   "text": "When my faith was barely found",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 27.98,
+   "track_end": 31.28
+  },
+  {
+   "start": 3535.28,
+   "end": 3537.82,
+   "text": "I felt your love surround me",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 31.28,
+   "track_end": 33.82
+  },
+  {
+   "start": 3538.52,
+   "end": 3541.0,
+   "text": "And set my spirit free",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 34.52,
+   "track_end": 37.0
+  },
+  {
+   "start": 3541.0,
+   "end": 3544.62,
+   "text": "I never would have made it",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 37.0,
+   "track_end": 40.62
+  },
+  {
+   "start": 3544.62,
+   "end": 3547.62,
+   "text": "Without your grace, boy",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 40.62,
+   "track_end": 43.62
+  },
+  {
+   "start": 3547.62,
+   "end": 3550.06,
+   "text": "I never would have stood",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 43.62,
+   "track_end": 46.06
+  },
+  {
+   "start": 3550.82,
+   "end": 3553.26,
+   "text": "If you hadn't held me strong",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 46.82,
+   "track_end": 49.26
+  },
+  {
+   "start": 3553.82,
+   "end": 3556.62,
+   "text": "Through every trial, every heartache",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 49.82,
+   "track_end": 52.62
+  },
+  {
+   "start": 3556.62,
+   "end": 3560.08,
+   "text": "Every pain, and Your mercy carried me",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 52.62,
+   "track_end": 56.08
+  },
+  {
+   "start": 3560.08,
+   "end": 3562.62,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 56.08,
+   "track_end": 58.62
+  },
+  {
+   "start": 3563.22,
+   "end": 3566.0,
+   "text": "No, I never would've made it",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 59.22,
+   "track_end": 62.0
+  },
+  {
+   "start": 3566.0,
+   "end": 3571.38,
+   "text": "Without Your grace, Lord",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 62.0,
+   "track_end": 67.38
+  },
+  {
+   "start": 3572.44,
+   "end": 3574.96,
+   "text": "Every tear I cried",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 68.44,
+   "track_end": 70.96
+  },
+  {
+   "start": 3575.92,
+   "end": 3577.62,
+   "text": "You saw that You knew",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 71.92,
+   "track_end": 73.62
+  },
+  {
+   "start": 3579.02,
+   "end": 3581.48,
+   "text": "Every fear I faced",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 75.02,
+   "track_end": 77.48
+  },
+  {
+   "start": 3581.48,
+   "end": 3583.7,
+   "text": "You carried me through",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 77.48,
+   "track_end": 79.7
+  },
+  {
+   "start": 3583.7,
+   "end": 3590.24,
+   "text": "Even when I stumbled, I lost my way",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 79.7,
+   "track_end": 86.24
+  },
+  {
+   "start": 3590.24,
+   "end": 3595.9,
+   "text": "Your light kept shining, you never went away",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 86.24,
+   "track_end": 91.9
+  },
+  {
+   "start": 3596.7,
+   "end": 3599.62,
+   "text": "When the night seemed endless and cold",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 92.7,
+   "track_end": 95.62
+  },
+  {
+   "start": 3599.62,
+   "end": 3603.0,
+   "text": "When I felt my story untold",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 95.62,
+   "track_end": 99.0
+  },
+  {
+   "start": 3603.0,
+   "end": 3605.76,
+   "text": "I felt your hand upon me",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 99.0,
+   "track_end": 101.76
+  },
+  {
+   "start": 3605.76,
+   "end": 3609.7,
+   "text": "And you said my spirit breathed",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 101.76,
+   "track_end": 105.7
+  },
+  {
+   "start": 3609.7,
+   "end": 3614.14,
+   "text": "I would have made, made my love please",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 105.7,
+   "track_end": 110.14
+  },
+  {
+   "start": 3614.14,
+   "end": 3618.0,
+   "text": "I would have stood again",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 110.14,
+   "track_end": 114.0
+  },
+  {
+   "start": 3618.0,
+   "end": 3620.28,
+   "text": "You hadn't held me strong",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 114.0,
+   "track_end": 116.28
+  },
+  {
+   "start": 3620.28,
+   "end": 3623.76,
+   "text": "Through every trial, every heartache",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 116.28,
+   "track_end": 119.76
+  },
+  {
+   "start": 3623.76,
+   "end": 3627.12,
+   "text": "Every pain, Your mercy carried me",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 119.76,
+   "track_end": 123.12
+  },
+  {
+   "start": 3627.12,
+   "end": 3629.62,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 123.12,
+   "track_end": 125.62
+  },
+  {
+   "start": 3630.7,
+   "end": 3632.82,
+   "text": "No one ever would have made it",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 126.7,
+   "track_end": 128.82
+  },
+  {
+   "start": 3633.7,
+   "end": 3635.64,
+   "text": "Without Your grace",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 129.7,
+   "track_end": 131.64
+  },
+  {
+   "start": 3640.1,
+   "end": 3644.68,
+   "text": "Hallelujah, hallelujah, hallelujah, hallelujah",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 136.1,
+   "track_end": 140.68
+  },
+  {
+   "start": 3644.68,
+   "end": 3650.4,
+   "text": "You, you lifted me, yeah, hallelujah, hallelujah",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 140.68,
+   "track_end": 146.4
+  },
+  {
+   "start": 3650.4,
+   "end": 3655.64,
+   "text": "Your love set me free, hallelujah, hallelujah, hallelujah",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 146.4,
+   "track_end": 151.64
+  },
+  {
+   "start": 3659.56,
+   "end": 3664.9,
+   "text": "Oh love, your grace is amazing, it's my soul",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 155.56,
+   "track_end": 160.9
+  },
+  {
+   "start": 3664.9,
+   "end": 3670.3,
+   "text": "Hallelujah, oh, I praise your name forever on my life long",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 160.9,
+   "track_end": 166.3
+  },
+  {
+   "start": 3670.3,
+   "end": 3674.0,
+   "text": "Hallelujah, oh, Hallelujah",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 166.3,
+   "track_end": 170.0
+  },
+  {
+   "start": 3674.0,
+   "end": 3677.38,
+   "text": "Never would have made it, Hallelujah",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 170.0,
+   "track_end": 173.38
+  },
+  {
+   "start": 3677.38,
+   "end": 3679.44,
+   "text": "Never would have raised it",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 173.38,
+   "track_end": 175.44
+  },
+  {
+   "start": 3679.44,
+   "end": 3683.88,
+   "text": "Hallelujah, yeah, yeah, yeah",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 175.44,
+   "track_end": 179.88
+  },
+  {
+   "start": 3683.88,
+   "end": 3685.98,
+   "text": "You are the graceful",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 179.88,
+   "track_end": 181.98
+  },
+  {
+   "start": 3685.98,
+   "end": 3691.92,
+   "text": "No, I never would have stood if you hadn't held me strong",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 181.98,
+   "track_end": 187.92
+  },
+  {
+   "start": 3691.92,
+   "end": 3701.88,
+   "text": "Through every trial, every heartache, every pain, your security, I'll never be the same",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 187.92,
+   "track_end": 197.88
+  },
+  {
+   "start": 3713.96,
+   "end": 3717.46,
+   "text": "I never would have made it",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 209.96,
+   "track_end": 213.46
+  },
+  {
+   "start": 3717.46,
+   "end": 3720.78,
+   "text": "I never would have made it",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 213.46,
+   "track_end": 216.78
+  },
+  {
+   "start": 3720.78,
+   "end": 3721.04,
+   "text": "Never would have made it",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 216.78,
+   "track_end": 217.04
+  },
+  {
+   "start": 3721.04,
+   "end": 3724.52,
+   "text": "Without your grace, Lord",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 217.04,
+   "track_end": 220.52
+  },
+  {
+   "start": 3726.02,
+   "end": 3731.6,
+   "text": "Forever a sing of Your grace",
+   "avg_logprob": -0.859,
+   "no_speech_prob": 0.549,
+   "track_id": "5n1cYN-yDmo#13",
+   "track_start": 222.02,
+   "track_end": 227.6
+  }
+ ]
+}

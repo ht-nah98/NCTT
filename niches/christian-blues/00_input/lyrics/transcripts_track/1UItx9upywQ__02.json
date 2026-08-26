@@ -1,0 +1,246 @@
+{
+ "track_id": "1UItx9upywQ#02",
+ "track_key": "1UItx9upywQ__02",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Taste and See\" - Psalm 34",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 208.0,
+ "voiced_sec": 128.5,
+ "voice_ratio": 0.618,
+ "n_words": 200,
+ "words_per_min": 57.7,
+ "is_instrumental": false,
+ "n_segments": 28,
+ "n_segments_voiced": 28,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 36.3,
+ "rtf": 0.174,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.5,
+   "text": "Out in the fields where the wild grass sweeps",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.464,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 5.5,
+   "end": 11.76,
+   "text": "The sun sinks low, paints the heavens a blaze",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.464,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 11.76,
+   "end": 16.96,
+   "text": "I feel his hand in the rustling trees",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.464,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 18.0,
+   "end": 22.68,
+   "text": "The whisper of mercy, rides a breeze",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.464,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 22.68,
+   "end": 28.12,
+   "text": "Taste and see, oh taste and see",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.464,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 28.12,
+   "end": 33.62,
+   "text": "The Lord is good, His love runs free",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.242,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 34.12,
+   "end": 39.1,
+   "text": "Every breath, every beat of the drum",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.242,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 40.12,
+   "end": 45.3,
+   "text": "Taste and see where grace comes from",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.242,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 58.36,
+   "end": 61.88,
+   "text": "The river rolls where the willows bend",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.305,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 63.86,
+   "end": 67.94,
+   "text": "It speaks of a love that will never end",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.305,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 70.18,
+   "end": 73.86,
+   "text": "Through the storms, through the darkest night",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.305,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 76.12,
+   "end": 79.68,
+   "text": "His light shines steady, his yoke is light",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.305,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 79.68,
+   "end": 85.76,
+   "text": "Oh, come and know, don't turn away",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.305,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 85.76,
+   "end": 91.88,
+   "text": "His arms are wide, hear Him say,",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.661,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 93.24,
+   "end": 97.76,
+   "text": "Taste and see, oh, taste and see",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.661,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 97.76,
+   "end": 103.86,
+   "text": "The Lord is good, His love runs free",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.661,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 103.86,
+   "end": 109.42,
+   "text": "Every breath, every beat of the drum",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.661,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 109.42,
+   "end": 115.62,
+   "text": "Taste and see where grace comes from",
+   "avg_logprob": -0.524,
+   "no_speech_prob": 0.683,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 139.86,
+   "end": 144.16,
+   "text": "The harmonica was like a soul set free",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 144.16,
+   "end": 146.06,
+   "text": "set free",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 146.06,
+   "end": 149.92,
+   "text": "Sly guitar sings his love's melody",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 150.42,
+   "end": 151.26,
+   "text": "melody",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 152.42,
+   "end": 157.5,
+   "text": "And when the voices arise they tell the tale of a God who says",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 159.08,
+   "end": 161.62,
+   "text": "whose love won't fail",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.323,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 171.6,
+   "end": 176.74,
+   "text": "Taste and see, all taste and see",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.362,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 178.42,
+   "end": 182.9,
+   "text": "The Lord is good, His love runs free",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.362,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 184.42,
+   "end": 188.4,
+   "text": "Every breath, every beat of the drum",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.362,
+   "track_id": "1UItx9upywQ#02"
+  },
+  {
+   "start": 190.42,
+   "end": 194.6,
+   "text": "Taste and see where grace comes from",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.362,
+   "track_id": "1UItx9upywQ#02"
+  }
+ ]
+}

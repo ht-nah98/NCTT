@@ -1,0 +1,262 @@
+{
+ "track_id": "Ss0pA-Cw8V0#17",
+ "track_key": "Ss0pA-Cw8V0__17",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Hallelujah to The King of Kings",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 136.0,
+ "voiced_sec": 95.6,
+ "voice_ratio": 0.703,
+ "n_words": 208,
+ "words_per_min": 91.8,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 30,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 34.2,
+ "rtf": 0.252,
+ "segments": [
+  {
+   "start": 30.44,
+   "end": 33.4,
+   "text": "Trap beads with the choir, let the praise and reign",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 34.26,
+   "end": 36.36,
+   "text": "Hallelujah to the king of kings",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 36.36,
+   "end": 39.5,
+   "text": "Every blessing, every miracle he brings",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 39.5,
+   "end": 41.2,
+   "text": "Hallelujah, hallelujah",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 41.2,
+   "end": 42.72,
+   "text": "Live your name high",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 42.72,
+   "end": 45.64,
+   "text": "King of kings, Lord, you reign in the sky",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 45.64,
+   "end": 48.66,
+   "text": "Through the fire, through the storm you never lie",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 48.66,
+   "end": 51.38,
+   "text": "Hallelujah to the king of kings, we testify",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 52.48,
+   "end": 55.38,
+   "text": "It always knocking but my heart's in the prayer",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 55.38,
+   "end": 58.4,
+   "text": "Every lyric, every flow, God, I read",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.791,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 58.4,
+   "end": 61.36,
+   "text": "I'm an enemy lurk but I'm walking in grace",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 61.36,
+   "end": 64.76,
+   "text": "With the King of Kings, ain't no fear, I'll pay for it",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 64.76,
+   "end": 67.22,
+   "text": "Tovah keeps blendin' with the high harrow",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 67.22,
+   "end": 70.18,
+   "text": "Spirit on me, yeah, he restored my soul",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 70.18,
+   "end": 73.42,
+   "text": "From the trap to the church, his love is whole",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 73.42,
+   "end": 76.26,
+   "text": "Hallelujah, hallelujah, he in control",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 76.26,
+   "end": 78.68,
+   "text": "Hallelujah, live your name high",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 78.68,
+   "end": 80.18,
+   "text": "King of Kings, King of Kings",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 80.18,
+   "end": 81.6,
+   "text": "Love your brain and the sky",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 81.6,
+   "end": 84.64,
+   "text": "Glutify, Glutify, through the storm you never lie",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 84.64,
+   "end": 87.34,
+   "text": "Hallelujah to the King of Kings, we testify",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.543,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 87.34,
+   "end": 94.58,
+   "text": "Oh, yeah, we praise You, Lord",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.432,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 94.58,
+   "end": 98.66,
+   "text": "Oh, yeah, we praise You, Lord",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.432,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 99.34,
+   "end": 103.86,
+   "text": "Hallelujah, hallelujah, yeah, forevermore",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.432,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 105.04,
+   "end": 109.34,
+   "text": "Your mercy, oh Lord, yeah, we adore",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.432,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 109.34,
+   "end": 112.06,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.741,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 112.06,
+   "end": 116.3,
+   "text": "So long fire, feet on the ground",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.741,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 117.98,
+   "end": 122.26,
+   "text": "Heaven's quiet, yet at heaven lease out",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.741,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 123.32,
+   "end": 128.3,
+   "text": "Hallelujah to the king of kings, crown",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.741,
+   "track_id": "Ss0pA-Cw8V0#17"
+  },
+  {
+   "start": 129.92,
+   "end": 134.22,
+   "text": "Every blessing, every victory, you surround",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.741,
+   "track_id": "Ss0pA-Cw8V0#17"
+  }
+ ]
+}

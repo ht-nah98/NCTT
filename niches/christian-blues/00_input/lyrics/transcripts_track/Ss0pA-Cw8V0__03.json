@@ -1,0 +1,510 @@
+{
+ "track_id": "Ss0pA-Cw8V0#03",
+ "track_key": "Ss0pA-Cw8V0__03",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "In His Light",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 211.0,
+ "voiced_sec": 145.8,
+ "voice_ratio": 0.691,
+ "n_words": 427,
+ "words_per_min": 121.4,
+ "is_instrumental": false,
+ "n_segments": 61,
+ "n_segments_voiced": 61,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 37.4,
+ "rtf": 0.177,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.72,
+   "text": "It covers me",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.337,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 10.0,
+   "end": 12.04,
+   "text": "The light shines in the darkness",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.337,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 14.04,
+   "end": 16.96,
+   "text": "And the darkness cannot overcome it",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.337,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 17.94,
+   "end": 18.8,
+   "text": "Yeah",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.337,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 18.8,
+   "end": 24.9,
+   "text": "I walk in this light",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.337,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 25.9,
+   "end": 26.76,
+   "text": "Always",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.337,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 26.76,
+   "end": 28.42,
+   "text": "I was running through the night",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.337,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 28.42,
+   "end": 29.96,
+   "text": "with a heart full of fists",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 29.96,
+   "end": 31.82,
+   "text": "Got no one to run",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 32.6,
+   "end": 35.24,
+   "text": "Carrying my mistakes like a weight every year",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 36.72,
+   "end": 38.98,
+   "text": "But he step into my shadows",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 39.56,
+   "end": 41.26,
+   "text": "brought heaven in my sight",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 42.46,
+   "end": 44.18,
+   "text": "Pulled me out the darkness",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 44.74,
+   "end": 46.36,
+   "text": "Now I'm walking in his light",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 47.5,
+   "end": 50.28,
+   "text": "My vision getting clearer, my spirit feeling new",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 50.28,
+   "end": 53.0,
+   "text": "No more chains on my soul, every lie lost is true",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 53.0,
+   "end": 55.66,
+   "text": "He covered all my failures, washed away my shame",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.46,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 55.66,
+   "end": 58.24,
+   "text": "Now I'm shining like a beacon in the power of His name",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 58.24,
+   "end": 60.9,
+   "text": "When the storm started heavy He became my peace",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 60.9,
+   "end": 63.48,
+   "text": "When the valley grew deeper His comfort didn't cease",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 63.48,
+   "end": 66.18,
+   "text": "Now I rise with a purpose and I move with grace",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 66.18,
+   "end": 69.16,
+   "text": "Got His fire in my steps and His love on my face",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 69.16,
+   "end": 71.28,
+   "text": "In His light, light",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 71.28,
+   "end": 73.58,
+   "text": "I'm walking stronger every day for life",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 74.22,
+   "end": 76.56,
+   "text": "He holds my heart, heart",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 76.56,
+   "end": 78.94,
+   "text": "He lifts me up and makes the darkness part",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 80.12,
+   "end": 81.16,
+   "text": "Jesus shines",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 81.82,
+   "end": 84.4,
+   "text": "Brighter than the sun across my life",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.37,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 84.4,
+   "end": 86.22,
+   "text": "Oh Lord, I'm free",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 88.3,
+   "end": 90.88,
+   "text": "Cause now I walk in your light",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 90.88,
+   "end": 93.32,
+   "text": "Holy spirit in my lungs when I breathe this air",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 93.32,
+   "end": 95.98,
+   "text": "I ain't worried bout the enemy, my God right there",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 95.98,
+   "end": 98.62,
+   "text": "Every setback was a setup for a better design",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 98.62,
+   "end": 101.12,
+   "text": "Every tear hit the ground, but he turned it divine",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 101.12,
+   "end": 103.88,
+   "text": "I ain't perfect, but I'm chosen, yeah, I'm living redeemed",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 103.88,
+   "end": 106.62,
+   "text": "Got a robe dipped in mercy and a soul washed clean",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 106.62,
+   "end": 109.24,
+   "text": "He leaves me through the valleys, he got me in the fight",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 109.24,
+   "end": 111.9,
+   "text": "What was broken came together once he flooded me with light",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 111.9,
+   "end": 114.68,
+   "text": "Got joy in my rhythm, got praise in my chest",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 114.68,
+   "end": 117.3,
+   "text": "No, I fear in my steps, with my saviors, my rest",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 117.3,
+   "end": 119.94,
+   "text": "Now I testify loud to the lost in the night",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 119.94,
+   "end": 122.58,
+   "text": "If you call on His name, He will flood you with light",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 122.58,
+   "end": 124.42,
+   "text": "Light, light, light",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 124.42,
+   "end": 127.2,
+   "text": "I'm walking stronger every day in my life",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 127.2,
+   "end": 129.58,
+   "text": "Hold my heart, heart",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 129.58,
+   "end": 131.98,
+   "text": "He lifts me up and makes the darkness fall",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 133.44,
+   "end": 134.4,
+   "text": "Jesus, shine",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 134.4,
+   "end": 137.2,
+   "text": "Righted in the sun, I'll cross your light",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 137.2,
+   "end": 139.18,
+   "text": "Hold on, I'm free",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.633,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 141.38,
+   "end": 144.12,
+   "text": "Now I walk in your light",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.677,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 146.34,
+   "end": 149.56,
+   "text": "Shine on me, oh Lord, shine on me",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.677,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 151.62,
+   "end": 154.18,
+   "text": "Light of the world, you open my eyes",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.677,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 157.16,
+   "end": 159.8,
+   "text": "You showed me love, I couldn't find",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.677,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 163.56,
+   "end": 166.76,
+   "text": "What it is like, fine",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.677,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 167.9,
+   "end": 169.7,
+   "text": "Every shadow falls away tonight",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.518,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 169.7,
+   "end": 171.66,
+   "text": "You hold my heart",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.518,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 172.9,
+   "end": 175.24,
+   "text": "You turn my weakness into strength and spark",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.518,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 175.24,
+   "end": 176.8,
+   "text": "Jesus shine",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.518,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 178.32,
+   "end": 180.76,
+   "text": "Brighter than the sunrise in my life",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.518,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 185.04,
+   "end": 186.84,
+   "text": "Forever I'll be",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.518,
+   "track_id": "Ss0pA-Cw8V0#03"
+  },
+  {
+   "start": 186.84,
+   "end": 189.18,
+   "text": "Walking safe in your light",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.518,
+   "track_id": "Ss0pA-Cw8V0#03"
+  }
+ ]
+}

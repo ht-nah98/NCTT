@@ -1,0 +1,358 @@
+{
+ "track_id": "zfRJe2HhUjs#04",
+ "track_key": "zfRJe2HhUjs__04",
+ "video_id": "zfRJe2HhUjs",
+ "title": "Hills and Valleys (Psalm 121)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 329.0,
+ "voiced_sec": 272.5,
+ "voice_ratio": 0.828,
+ "n_words": 352,
+ "words_per_min": 64.2,
+ "is_instrumental": false,
+ "n_segments": 42,
+ "n_segments_voiced": 42,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.9,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 15.24,
+   "end": 22.0,
+   "text": "I live my eyes up to the mountain high",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.447,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 22.0,
+   "end": 28.82,
+   "text": "Lord, I live my eyes to that mountain high",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.518,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 30.24,
+   "end": 34.22,
+   "text": "Where does my help come from? I cry",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.518,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 35.92,
+   "end": 40.98,
+   "text": "My help comes from the Lord who made the sky",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.518,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 42.64,
+   "end": 47.7,
+   "text": "Oh, He made the earth and the sky",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.518,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 49.04,
+   "end": 54.48,
+   "text": "He won't let my foot slip on this road",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.589,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 55.46,
+   "end": 62.26,
+   "text": "No, he won't let my weary foot slip on this road",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.589,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 63.44,
+   "end": 67.9,
+   "text": "The one who keeps me never sleeps, I'm told",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.589,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 70.0,
+   "end": 73.7,
+   "text": "He's watching over my heavy load",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.589,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 76.16,
+   "end": 88.34,
+   "text": "Day and night he carries my load My keeper, my keeper, he never sleeps",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.588,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 88.96,
+   "end": 101.28,
+   "text": "My keeper, my keeper, his watch he keeps The Lord is my shade on my right hand",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.588,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 101.28,
+   "end": 112.7,
+   "text": "He's protecting me where I stand Oh, the Lord, He's my keeper",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.328,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 113.28,
+   "end": 119.18,
+   "text": "Yes, the Lord, He's my keeper",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.328,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 123.68,
+   "end": 128.56,
+   "text": "The sun won't strike me in the day",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 128.56,
+   "end": 136.36,
+   "text": "No, that burning sun won't strike me in the day",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 136.36,
+   "end": 141.86,
+   "text": "The moon won't harm me when night holds sway",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 141.86,
+   "end": 147.38,
+   "text": "Cause the Lord keeps evil away",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.716,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 147.38,
+   "end": 153.86,
+   "text": "Oh yes He keeps all evil away",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.716,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 153.86,
+   "end": 158.14,
+   "text": "When I go out He's there",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.716,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 158.14,
+   "end": 161.34,
+   "text": "When I come in He cares",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.716,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 161.34,
+   "end": 164.14,
+   "text": "From this time forth I declare",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.716,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 164.14,
+   "end": 168.0,
+   "text": "Forever more He's always there",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.716,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 168.0,
+   "end": 172.78,
+   "text": "The Lord preserve my soul",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.426,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 172.78,
+   "end": 179.08,
+   "text": "Oh, He preserve my soul",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.426,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 179.08,
+   "end": 183.54,
+   "text": "My keeper, my keeper",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.426,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 183.54,
+   "end": 186.12,
+   "text": "He never sleeps",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.426,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 187.0,
+   "end": 189.74,
+   "text": "My keeper, my keeper",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.426,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 189.74,
+   "end": 192.76,
+   "text": "His watch He keeps",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.426,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 192.76,
+   "end": 198.62,
+   "text": "The Lord is my shade on my right hand",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.387,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 198.62,
+   "end": 203.68,
+   "text": "He's protecting me where I stand",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.387,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 204.76,
+   "end": 209.66,
+   "text": "Oh, the Lord, He's my keeper",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.387,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 210.76,
+   "end": 215.76,
+   "text": "Yes, the Lord, He's my keeper",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.387,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 220.3,
+   "end": 232.42,
+   "text": "Every step I take, he's got in me home Every single step, he won't leave me alone",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.646,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 232.42,
+   "end": 243.44,
+   "text": "From now until forever ends His protection never bends",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.602,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 244.42,
+   "end": 255.92,
+   "text": "The Lord preserves my going out And my coming in without a doubt",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.602,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 255.92,
+   "end": 269.74,
+   "text": "My keeper, my keeper, he never sleeps My keeper, my keeper, his watch he keeps",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.526,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 269.74,
+   "end": 280.74,
+   "text": "The Lord is my shade on my right hand He's protecting me where I stand",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.526,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 281.74,
+   "end": 292.88,
+   "text": "Oh the Lord, He's my keeper, yes the Lord, He's my keeper",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.604,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 296.58,
+   "end": 301.66,
+   "text": "I lift my eyes up to the hills",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.604,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 302.7,
+   "end": 308.2,
+   "text": "I lift my eyes up to the hills",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.604,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 308.2,
+   "end": 313.9,
+   "text": "My help comes from the Lord",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.298,
+   "track_id": "zfRJe2HhUjs#04"
+  },
+  {
+   "start": 313.9,
+   "end": 320.56,
+   "text": "My help comes from the Lord",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.298,
+   "track_id": "zfRJe2HhUjs#04"
+  }
+ ]
+}

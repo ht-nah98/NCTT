@@ -1,0 +1,309 @@
+track_id,video_id,n_segments,title,pd_class,matched_hymn,match_score,title_says_scripture,content_theme_signal,handle,n_words,video_views
+04j-ZQskFJM#01,04j-ZQskFJM,20,1. Psalm 63 – My Soul Thirsts for You,SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,173,285079.0
+04j-ZQskFJM#02,04j-ZQskFJM,22,2. Psalm 1 – Like a Tree by the River,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,172,285079.0
+04j-ZQskFJM#03,04j-ZQskFJM,22,3. Psalm 37 – The Steps of the Righteous,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,166,285079.0
+04j-ZQskFJM#04,04j-ZQskFJM,22,4. Psalm 23 – Shepherd of My Blues,SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,164,285079.0
+04j-ZQskFJM#05,04j-ZQskFJM,18,5. Psalm 34 – Taste and See,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,163,285079.0
+04j-ZQskFJM#06,04j-ZQskFJM,14,6. Psalm 121 – Keeper of My Steps,SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,168,285079.0
+04j-ZQskFJM#07,04j-ZQskFJM,21,"7. Psalm 13 – How Long, O Lord",SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,164,285079.0
+04j-ZQskFJM#08,04j-ZQskFJM,16,8. Psalm 139 – Known and Carried,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,152,285079.0
+04j-ZQskFJM#09,04j-ZQskFJM,16,"9. Psalm 28 – Hear My Cry, O Lord",SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,178,285079.0
+04j-ZQskFJM#10,04j-ZQskFJM,22,10. Psalm 42 – My Soul Thirsts Deep,SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,189,285079.0
+1UItx9upywQ#01,1UItx9upywQ,19,"""Light and Salvation"" - Psalm 27",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,127,1024147.0
+1UItx9upywQ#02,1UItx9upywQ,28,"""Taste and See"" - Psalm 34",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,200,1024147.0
+1UItx9upywQ#03,1UItx9upywQ,22,"""What Is Man"" - Psalm 8",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,131,1024147.0
+1UItx9upywQ#04,1UItx9upywQ,18,"""Teach Me Your Ways"" - Psalm 86",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,162,1024147.0
+1UItx9upywQ#05,1UItx9upywQ,17,"""How Long, Lord"" - Psalm 13",SCRIPTURE_PARAPHRASE,,0.0,True,True,rivers-and-revival,118,1024147.0
+1UItx9upywQ#06,1UItx9upywQ,16,"""Do Not Fret"" - Psalm 37",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,131,1024147.0
+1UItx9upywQ#07,1UItx9upywQ,16,"""Why Have You Forsaken Me"" - Psalm 22",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,115,1024147.0
+1UItx9upywQ#08,1UItx9upywQ,18,"""Have Mercy on Me"" - Psalm 51",SCRIPTURE_PARAPHRASE,,0.0,True,True,rivers-and-revival,118,1024147.0
+1UItx9upywQ#09,1UItx9upywQ,21,"""Turned My Mourning Into Dancing"" - Psalm 30",SCRIPTURE_PARAPHRASE,,0.0,True,True,rivers-and-revival,129,1024147.0
+1UItx9upywQ#10,1UItx9upywQ,29,"""My Rock, My Rescue"" - Psalm 18",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,159,1024147.0
+1UItx9upywQ#11,1UItx9upywQ,20,"""Better Is One Day"" - Psalm 84",SCRIPTURE_PARAPHRASE,,0.0,True,True,rivers-and-revival,146,1024147.0
+1UItx9upywQ#12,1UItx9upywQ,30,"""Wash Me Clean"" - Psalm 51",SCRIPTURE_PARAPHRASE,,0.0,True,True,rivers-and-revival,144,1024147.0
+1UItx9upywQ#13,1UItx9upywQ,11,"""Lift My Eyes"" - Psalm 121",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,106,1024147.0
+1UItx9upywQ#14,1UItx9upywQ,16,"""Safe in His Shadow"" - Psalm 91",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,112,1024147.0
+1UItx9upywQ#15,1UItx9upywQ,14,"""Judge of the Earth"" - Psalm 94",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,101,1024147.0
+1UItx9upywQ#16,1UItx9upywQ,18,"""The Lord Reigns"" - Psalm 97",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,130,1024147.0
+1UItx9upywQ#17,1UItx9upywQ,14,"""Hear My Cry"" - Psalm 61",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,112,1024147.0
+1UItx9upywQ#18,1UItx9upywQ,29,"""You Know Me"" - Psalm 139",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,169,1024147.0
+1UItx9upywQ#19,1UItx9upywQ,10,"""You Hear the Helpless Cry"" - Psalm 10",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,82,1024147.0
+1UItx9upywQ#20,1UItx9upywQ,16,"""The Fool Says in His Heart"" - Psalm 14",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,137,1024147.0
+1UItx9upywQ#21,1UItx9upywQ,25,"""Hear My Cry for Mercy"" - Psalm 28",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,149,1024147.0
+1UItx9upywQ#22,1UItx9upywQ,15,"""Blessed and Free"" - Psalm 32",SCRIPTURE_PARAPHRASE,,0.0,True,False,rivers-and-revival,120,1024147.0
+2y2CcCzAtyM#01,2y2CcCzAtyM,60,1 — Lay It All Down,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,343,1298849.0
+2y2CcCzAtyM#02,2y2CcCzAtyM,45,"2 — Bless the Lord, O My Soul",NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,318,1298849.0
+2y2CcCzAtyM#03,2y2CcCzAtyM,47,3 — My Soul Waiteth,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,290,1298849.0
+2y2CcCzAtyM#04,2y2CcCzAtyM,47,4 — Great Is Thy Faithfulness,NEW_COMPOSITION,Great Is Thy Faithfulness,0.2,False,False,stillworshipmusic,265,1298849.0
+2y2CcCzAtyM#05,2y2CcCzAtyM,45,5 — Still My Soul,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,281,1298849.0
+2y2CcCzAtyM#06,2y2CcCzAtyM,62,6 — Underneath His Wings,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,469,1298849.0
+2y2CcCzAtyM#07,2y2CcCzAtyM,36,7 — Thou Art Worthy,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,244,1298849.0
+2y2CcCzAtyM#08,2y2CcCzAtyM,42,"8 — Come Away With Me, Lord",NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,258,1298849.0
+2y2CcCzAtyM#09,2y2CcCzAtyM,42,9 — In the Secret Place,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,231,1298849.0
+2y2CcCzAtyM#10,2y2CcCzAtyM,45,10 — Benediction (The Lord Bless Thee),NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,353,1298849.0
+2y2CcCzAtyM#11,2y2CcCzAtyM,40,11 — Perfect Peace,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,253,1298849.0
+2y2CcCzAtyM#12,2y2CcCzAtyM,50,12 — Valley Song,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,318,1298849.0
+2y2CcCzAtyM#13,2y2CcCzAtyM,36,13 — He Restoreth My Soul,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,251,1298849.0
+2y2CcCzAtyM#14,2y2CcCzAtyM,49,"14 — Hold Me, Lord",NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,313,1298849.0
+2y2CcCzAtyM#15,2y2CcCzAtyM,59,"15 — I Will Bless Thee, O Lord",NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,447,1298849.0
+2y2CcCzAtyM#16,2y2CcCzAtyM,45,16 — Give Thanks Unto the Lord,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,271,1298849.0
+2y2CcCzAtyM#17,2y2CcCzAtyM,57,17 — I Will Lay Me Down in Peace,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,292,1298849.0
+2y2CcCzAtyM#18,2y2CcCzAtyM,41,18 — He's Been Good to Me,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,299,1298849.0
+2y2CcCzAtyM#19,2y2CcCzAtyM,36,19 — I Yield,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,283,1298849.0
+5n1cYN-yDmo#01,5n1cYN-yDmo,57,Amazing Grace,HYMN_PARTIAL_PD,Amazing Grace,0.444,False,True,revivalworshiproommusic,401,614050.0
+5n1cYN-yDmo#02,5n1cYN-yDmo,61,Never Would Have Made It,NEW_COMPOSITION,,0.0,False,False,revivalworshiproommusic,411,614050.0
+5n1cYN-yDmo#03,5n1cYN-yDmo,69,I Need You Now,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,406,614050.0
+5n1cYN-yDmo#04,5n1cYN-yDmo,57,Blessed & Highly Favoured,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,405,614050.0
+5n1cYN-yDmo#05,5n1cYN-yDmo,51,"Never Would Have Made It Without Your Grace, Lord",NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,311,614050.0
+5n1cYN-yDmo#06,5n1cYN-yDmo,74,God is Good,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,418,614050.0
+5n1cYN-yDmo#07,5n1cYN-yDmo,49,Alpha & Omega,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,281,614050.0
+5n1cYN-yDmo#08,5n1cYN-yDmo,72,The Storm Is Over Now,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,438,614050.0
+5n1cYN-yDmo#09,5n1cYN-yDmo,69,I'm Gonna Be Ready,NEW_COMPOSITION,Every Time I Feel the Spirit,0.286,False,True,revivalworshiproommusic,426,614050.0
+5n1cYN-yDmo#10,5n1cYN-yDmo,67,Part 2: Never Would Have Made It,NEW_COMPOSITION,,0.0,False,False,revivalworshiproommusic,433,614050.0
+5n1cYN-yDmo#11,5n1cYN-yDmo,59,Part 2: Blessed & Highly Favoured,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,434,614050.0
+5n1cYN-yDmo#12,5n1cYN-yDmo,71,Part 2: The Storm Is Over Now,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,430,614050.0
+5n1cYN-yDmo#13,5n1cYN-yDmo,52,"Part 2: Never Would Have Made It Without Your Grace, Lord",NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,322,614050.0
+6rz6D787n0U#01,6rz6D787n0U,23,1. Psalm 1 – Like a Tree by the River,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,173,1697203.0
+6rz6D787n0U#02,6rz6D787n0U,21,2. Psalm 91 – Under His Wings,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,151,1697203.0
+6rz6D787n0U#03,6rz6D787n0U,23,3. Psalm 19 – Heaven’s Blues,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,172,1697203.0
+6rz6D787n0U#04,6rz6D787n0U,18,4. Psalm 121 – Keeper of My Steps,SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,169,1697203.0
+6rz6D787n0U#05,6rz6D787n0U,17,5. Psalm 32 – Covered by Mercy,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,138,1697203.0
+6rz6D787n0U#06,6rz6D787n0U,19,6. Psalm 46 – River in the Ruins,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,156,1697203.0
+6rz6D787n0U#07,6rz6D787n0U,22,7. Psalm 63 – My Soul Thirsts for You,SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,174,1697203.0
+6rz6D787n0U#08,6rz6D787n0U,14,8. Psalm 40 – Out of the Pit,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,169,1697203.0
+6rz6D787n0U#09,6rz6D787n0U,18,9. Psalm 24 – Open Up the Gates,SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,165,1697203.0
+6rz6D787n0U#10,6rz6D787n0U,22,10. Psalm 139 – Known and Carried,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,159,1697203.0
+942nxbPorY4#01,942nxbPorY4,44,Jesus is King,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,243,412491.0
+942nxbPorY4#02,942nxbPorY4,56,Amazing Grace,NEW_COMPOSITION,Amazing Grace,0.333,False,True,revivalworshiproommusic,250,412491.0
+942nxbPorY4#03,942nxbPorY4,46,The Storm,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,263,412491.0
+942nxbPorY4#04,942nxbPorY4,41,Breath On Me Again,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,222,412491.0
+942nxbPorY4#05,942nxbPorY4,47,Never Forsake Me Lord,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,248,412491.0
+942nxbPorY4#06,942nxbPorY4,40,I Follow You Jesus,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,258,412491.0
+942nxbPorY4#07,942nxbPorY4,39,I Saw The Light,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,235,412491.0
+942nxbPorY4#08,942nxbPorY4,44,Be Thou My Vision,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,275,412491.0
+942nxbPorY4#09,942nxbPorY4,55,Jireh,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,219,412491.0
+942nxbPorY4#10,942nxbPorY4,41,Jesus is King Pt.2,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,218,412491.0
+942nxbPorY4#11,942nxbPorY4,54,Amazing Grace Pt.2,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,278,412491.0
+942nxbPorY4#12,942nxbPorY4,38,I Can Do All Things Through Jesus Christ,NEW_COMPOSITION,,0.0,False,False,revivalworshiproommusic,175,412491.0
+DL1lnwaff8k#02,DL1lnwaff8k,22,1. Ecclesiastes 1 – Vanity Blues,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,168,511274.0
+DL1lnwaff8k#03,DL1lnwaff8k,23,2. Ecclesiastes 2 – Chasing the Wind,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,196,511274.0
+DL1lnwaff8k#04,DL1lnwaff8k,17,3. Ecclesiastes 3 – A Time for Every Blues,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,185,511274.0
+DL1lnwaff8k#05,DL1lnwaff8k,31,4. Ecclesiastes 4 – Better Not Born,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,213,511274.0
+DL1lnwaff8k#06,DL1lnwaff8k,16,5. Ecclesiastes 5 – Guard Thy Steps,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,195,511274.0
+DL1lnwaff8k#07,DL1lnwaff8k,19,6. Ecclesiastes 6 – A Soul Not Satisfied,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,198,511274.0
+DL1lnwaff8k#08,DL1lnwaff8k,19,7. Ecclesiastes 7 – The House of Mourning,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,191,511274.0
+DL1lnwaff8k#09,DL1lnwaff8k,19,8. Ecclesiastes 8 – It Shall Be Well,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,208,511274.0
+DL1lnwaff8k#10,DL1lnwaff8k,22,9. Ecclesiastes 9 – Under the Sun,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,202,511274.0
+DL1lnwaff8k#11,DL1lnwaff8k,26,10. Ecclesiastes 10 – Dead Flies and Folly,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,208,511274.0
+DL1lnwaff8k#12,DL1lnwaff8k,19,11. Ecclesiastes 11 – Cast Thy Bread,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,200,511274.0
+DL1lnwaff8k#13,DL1lnwaff8k,19,12. Ecclesiastes 12 – Dust Shall Return,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,198,511274.0
+JqDkxKCb4ec#01,JqDkxKCb4ec,28,Trust In The Lord (Proverbs 3),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,238,140787.0
+JqDkxKCb4ec#02,JqDkxKCb4ec,22,The Shadowed Street (Proverbs 7),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,155,140787.0
+JqDkxKCb4ec#03,JqDkxKCb4ec,17,A Soft Answer (Proverbs 15),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,168,140787.0
+JqDkxKCb4ec#04,JqDkxKCb4ec,30,The Beginning Of Wisdom (Proverbs 1),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,224,140787.0
+JqDkxKCb4ec#05,JqDkxKCb4ec,68,Walk With The Wise (Proverbs 13),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,364,140787.0
+JqDkxKCb4ec#06,JqDkxKCb4ec,26,The Honey Turns To Fire (Proverbs 5),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,157,140787.0
+JqDkxKCb4ec#07,JqDkxKCb4ec,38,Wisdom Cries Out (Proverbs 8),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,216,140787.0
+JqDkxKCb4ec#08,JqDkxKCb4ec,34,Treasure Of The Soul (Proverbs 2),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,223,140787.0
+JqDkxKCb4ec#09,JqDkxKCb4ec,32,Guard Your Heart (Proverbs 4),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,160,140787.0
+JqDkxKCb4ec#10,JqDkxKCb4ec,27,The Scales Of Truth (Proverbs 11),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,149,140787.0
+JqDkxKCb4ec#11,JqDkxKCb4ec,32,Rooted In Truth (Proverbs 12),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,156,140787.0
+JqDkxKCb4ec#12,JqDkxKCb4ec,19,The House Wisdom Built (Proverbs 14),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,143,140787.0
+JqDkxKCb4ec#13,JqDkxKCb4ec,26,The Feast Of Fools (Proverbs 9),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,177,140787.0
+JqDkxKCb4ec#14,JqDkxKCb4ec,36,Don't Sleep On Wisdom (Proverbs 6),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,211,140787.0
+L7rzNkHLG6o#01,L7rzNkHLG6o,28,,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,212,385943.0
+NwYKGZpyYs8#01,NwYKGZpyYs8,39,In The Beginning (John 1),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,305,112790.0
+NwYKGZpyYs8#02,NwYKGZpyYs8,45,Water To Wine (John 2),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,303,112790.0
+NwYKGZpyYs8#03,NwYKGZpyYs8,50,Born Again (John 3),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,385,112790.0
+NwYKGZpyYs8#04,NwYKGZpyYs8,48,Living Water (John 4),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,313,112790.0
+NwYKGZpyYs8#05,NwYKGZpyYs8,35,Rise And Walk (John 5),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,310,112790.0
+NwYKGZpyYs8#06,NwYKGZpyYs8,58,Bread Of Life (John 6),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,406,112790.0
+NwYKGZpyYs8#07,NwYKGZpyYs8,44,Come And Drink (John 7),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,336,112790.0
+NwYKGZpyYs8#08,NwYKGZpyYs8,45,Light Of The World (John 8),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,322,112790.0
+NwYKGZpyYs8#09,NwYKGZpyYs8,60,I Was Blind (John 9),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,474,112790.0
+NwYKGZpyYs8#10,NwYKGZpyYs8,40,The Good Shepherd (John 10),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,362,112790.0
+NwYKGZpyYs8#11,NwYKGZpyYs8,66,I Am The Resurrection (John 11),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,417,112790.0
+NwYKGZpyYs8#12,NwYKGZpyYs8,41,Lifted Up (John 12),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,351,112790.0
+NwYKGZpyYs8#13,NwYKGZpyYs8,54,Love One Another (John 13),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,376,112790.0
+NwYKGZpyYs8#14,NwYKGZpyYs8,51,The Way The Truth The Life (John 14),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,386,112790.0
+NwYKGZpyYs8#15,NwYKGZpyYs8,39,Abide In Me (John 15),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,415,112790.0
+NwYKGZpyYs8#16,NwYKGZpyYs8,58,Peace I Leave (John 16),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,417,112790.0
+NwYKGZpyYs8#17,NwYKGZpyYs8,127,Glorify Your Son (John 17),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,704,112790.0
+NwYKGZpyYs8#18,NwYKGZpyYs8,40,Not Of This World (John 18),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,273,112790.0
+NwYKGZpyYs8#19,NwYKGZpyYs8,71,It Is Finished (John 19),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,470,112790.0
+NwYKGZpyYs8#20,NwYKGZpyYs8,85,He Is Risen (John 20),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,557,112790.0
+NwYKGZpyYs8#21,NwYKGZpyYs8,68,Follow Me (John 21),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,483,112790.0
+ODr3aDcsuNA#01,ODr3aDcsuNA,24,1. Psalm 1 – Like a Tree by the River,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,172,70651.0
+ODr3aDcsuNA#02,ODr3aDcsuNA,19,2. Psalm 91 – Under His Wings,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,152,70651.0
+ODr3aDcsuNA#03,ODr3aDcsuNA,21,3. Psalm 19 – Heaven’s Blues,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,171,70651.0
+ODr3aDcsuNA#04,ODr3aDcsuNA,16,4. Psalm 121 – Keeper of My Steps,SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,169,70651.0
+ODr3aDcsuNA#05,ODr3aDcsuNA,16,5. Psalm 32 – Covered by Mercy,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,138,70651.0
+ODr3aDcsuNA#06,ODr3aDcsuNA,19,6. Psalm 46 – River in the Ruins,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,157,70651.0
+ODr3aDcsuNA#07,ODr3aDcsuNA,19,7. Psalm 63 – My Soul Thirsts for You,SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,172,70651.0
+ODr3aDcsuNA#08,ODr3aDcsuNA,16,8. Psalm 40 – Out of the Pit,SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,169,70651.0
+ODr3aDcsuNA#09,ODr3aDcsuNA,18,9. Psalm 24 – Open Up the Gates,SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,163,70651.0
+QJl7vyz8YTQ#10,QJl7vyz8YTQ,39,Psalm.Be Still,NEW_COMPOSITION,,0.0,False,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,286,28659.0
+QJl7vyz8YTQ#11,QJl7vyz8YTQ,35,Psalm.Clean Heart,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,210,28659.0
+QMpT5KmaQys#01,QMpT5KmaQys,62,,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,416,684208.0
+RNBCdT6dOW4#01,RNBCdT6dOW4,16,,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,120,878627.0
+Ss0pA-Cw8V0#01,Ss0pA-Cw8V0,49,Prayed Up,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,376,344647.0
+Ss0pA-Cw8V0#02,Ss0pA-Cw8V0,48,His Blood,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,359,344647.0
+Ss0pA-Cw8V0#03,Ss0pA-Cw8V0,61,In His Light,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,427,344647.0
+Ss0pA-Cw8V0#04,Ss0pA-Cw8V0,44,Christ My Saviour,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,325,344647.0
+Ss0pA-Cw8V0#05,Ss0pA-Cw8V0,53,Won't He Do It,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,444,344647.0
+Ss0pA-Cw8V0#06,Ss0pA-Cw8V0,61,God Walks With Me Through The Storm Together,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,473,344647.0
+Ss0pA-Cw8V0#07,Ss0pA-Cw8V0,56,I Need An Angel,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,387,344647.0
+Ss0pA-Cw8V0#08,Ss0pA-Cw8V0,40,Jireh,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,287,344647.0
+Ss0pA-Cw8V0#09,Ss0pA-Cw8V0,77,He Dried My Tears,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,512,344647.0
+Ss0pA-Cw8V0#10,Ss0pA-Cw8V0,61,Lion Of Judah,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,443,344647.0
+Ss0pA-Cw8V0#11,Ss0pA-Cw8V0,78,Amazing Grace,NEW_COMPOSITION,Amazing Grace,0.333,False,True,revivalworshiproommusic,549,344647.0
+Ss0pA-Cw8V0#12,Ss0pA-Cw8V0,55,God's Mercy,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,410,344647.0
+Ss0pA-Cw8V0#13,Ss0pA-Cw8V0,58,God Will Make Away,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,383,344647.0
+Ss0pA-Cw8V0#14,Ss0pA-Cw8V0,69,Jesus Reigns Forever,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,432,344647.0
+Ss0pA-Cw8V0#15,Ss0pA-Cw8V0,47,God Did It,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,454,344647.0
+Ss0pA-Cw8V0#16,Ss0pA-Cw8V0,65,Goodness of God,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,562,344647.0
+Ss0pA-Cw8V0#17,Ss0pA-Cw8V0,30,Hallelujah to The King of Kings,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,208,344647.0
+Ss0pA-Cw8V0#18,Ss0pA-Cw8V0,66,Jesus is King,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,401,344647.0
+Ss0pA-Cw8V0#19,Ss0pA-Cw8V0,28,King's Glory,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,223,344647.0
+Ss0pA-Cw8V0#20,Ss0pA-Cw8V0,47,Holy Drip,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,330,344647.0
+Ss0pA-Cw8V0#21,Ss0pA-Cw8V0,68,Part 2 Won't He Do It,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,462,344647.0
+Ss0pA-Cw8V0#22,Ss0pA-Cw8V0,54,Part 2 His Blood,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,369,344647.0
+Ss0pA-Cw8V0#23,Ss0pA-Cw8V0,44,Part 2 Prayed Up,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,375,344647.0
+Ss0pA-Cw8V0#24,Ss0pA-Cw8V0,56,Part 2 God Walks With Me Through The Storm Together,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,441,344647.0
+UUc37KP8OgM#01,UUc37KP8OgM,25,,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,178,3652301.0
+_ycC4y-4sYo#02,_ycC4y-4sYo,45,You Are My GOD,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,310,1343374.0
+_ycC4y-4sYo#03,_ycC4y-4sYo,19,Shepherd Psalm,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,143,1343374.0
+_ycC4y-4sYo#04,_ycC4y-4sYo,32,Ancient Path,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,255,1343374.0
+_ycC4y-4sYo#05,_ycC4y-4sYo,31,Search Me,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,257,1343374.0
+_ycC4y-4sYo#06,_ycC4y-4sYo,31,GOD of My Salvation,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,287,1343374.0
+_ycC4y-4sYo#07,_ycC4y-4sYo,16,Blessed Assurance,NEW_COMPOSITION,Blessed Assurance,0.333,False,False,saltandlight-k2z,110,1343374.0
+_ycC4y-4sYo#08,_ycC4y-4sYo,25,"The WAY, TRUTH, LIFE",NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,199,1343374.0
+_ycC4y-4sYo#09,_ycC4y-4sYo,33,Victory,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,280,1343374.0
+_ycC4y-4sYo#10,_ycC4y-4sYo,41,Repent,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,326,1343374.0
+bDRSM1rX-l8#01,bDRSM1rX-l8,68,,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,334,773174.0
+bcNWg9ca92Y#01,bcNWg9ca92Y,60,Your Grace Lord,NEW_COMPOSITION,,0.0,False,False,revivalworshiproommusic,385,379396.0
+bcNWg9ca92Y#02,bcNWg9ca92Y,52,"The Way, The Truth, The Light",NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,346,379396.0
+bcNWg9ca92Y#03,bcNWg9ca92Y,41,Open My Heart,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,166,379396.0
+bcNWg9ca92Y#04,bcNWg9ca92Y,42,At The Cross,NEW_COMPOSITION,Every Time I Feel the Spirit,0.143,False,True,revivalworshiproommusic,319,379396.0
+bcNWg9ca92Y#05,bcNWg9ca92Y,62,Closer To The Heart Of God,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,426,379396.0
+bcNWg9ca92Y#06,bcNWg9ca92Y,70,Yeshua,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,323,379396.0
+bcNWg9ca92Y#07,bcNWg9ca92Y,60,A Little More Jesus,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,336,379396.0
+bcNWg9ca92Y#08,bcNWg9ca92Y,62,Faith Will Carry Me,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,374,379396.0
+bcNWg9ca92Y#09,bcNWg9ca92Y,90,Part 2 Your Grace Lord,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,574,379396.0
+bcNWg9ca92Y#10,bcNWg9ca92Y,58,"Part 2 The Way, The Truth, The Light",NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,341,379396.0
+bcNWg9ca92Y#11,bcNWg9ca92Y,52,Part 2 Yeshua,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,320,379396.0
+btdznddpirc#01,btdznddpirc,20,1. The Potter's Hands,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,158,
+btdznddpirc#02,btdznddpirc,27,2. Hallelujah on the Hillside,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,205,
+btdznddpirc#03,btdznddpirc,23,3. He Sat Beside My Silence,NEW_COMPOSITION,,0.0,False,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,177,
+btdznddpirc#04,btdznddpirc,18,4. Lay It Down,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,135,
+btdznddpirc#05,btdznddpirc,19,5. Old Rugged Path,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,179,
+btdznddpirc#06,btdznddpirc,23,6. When My Knees Hit the Ground,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,178,
+btdznddpirc#07,btdznddpirc,4,7. Grace Poured Down Like Rain,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,25,
+btdznddpirc#08,btdznddpirc,31,8. He Walks With Me,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,220,
+btdznddpirc#09,btdznddpirc,10,9. Lamp on the Hill,NEW_COMPOSITION,,0.0,False,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,100,
+eD2IMkcreEI#01,eD2IMkcreEI,56,Christ My Saviour,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,287,591990.0
+eD2IMkcreEI#02,eD2IMkcreEI,72,You Carry Me Lord,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,416,591990.0
+eD2IMkcreEI#03,eD2IMkcreEI,56,I Speak Jesus,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,294,591990.0
+eD2IMkcreEI#04,eD2IMkcreEI,36,Closer To You,NEW_COMPOSITION,,0.0,False,False,revivalworshiproommusic,260,591990.0
+eD2IMkcreEI#05,eD2IMkcreEI,32,You Are My God,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,190,591990.0
+eD2IMkcreEI#06,eD2IMkcreEI,36,Jesus Is King,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,230,591990.0
+eD2IMkcreEI#07,eD2IMkcreEI,47,Amazing Grace,NEW_COMPOSITION,Amazing Grace,0.333,False,True,revivalworshiproommusic,237,591990.0
+eD2IMkcreEI#08,eD2IMkcreEI,47,God Did,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,302,591990.0
+eD2IMkcreEI#09,eD2IMkcreEI,63,Jesus Reigns Forever,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,251,591990.0
+eD2IMkcreEI#10,eD2IMkcreEI,39,Breath On Me Again,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,279,591990.0
+eD2IMkcreEI#11,eD2IMkcreEI,28,His Eye Is On The Sparrow,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,239,591990.0
+eD2IMkcreEI#12,eD2IMkcreEI,35,Be Praised,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,254,591990.0
+eD2IMkcreEI#13,eD2IMkcreEI,57,When Mercy Found Me,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,336,591990.0
+eD2IMkcreEI#14,eD2IMkcreEI,21,Near Me,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,193,591990.0
+eD2IMkcreEI#15,eD2IMkcreEI,117,Thank You Jesus,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,728,591990.0
+eD2IMkcreEI#16,eD2IMkcreEI,35,Your Grace,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,259,591990.0
+eD2IMkcreEI#17,eD2IMkcreEI,35,Jeremiah 29,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,253,591990.0
+eD2IMkcreEI#18,eD2IMkcreEI,43,Way Maker,NEW_COMPOSITION,,0.0,False,False,revivalworshiproommusic,241,591990.0
+eD2IMkcreEI#19,eD2IMkcreEI,57,You Never Let Go,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,306,591990.0
+eD2IMkcreEI#20,eD2IMkcreEI,61,House of The Lord,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,300,591990.0
+eD2IMkcreEI#21,eD2IMkcreEI,46,Part 2: Jesus Reigns Forever,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,296,591990.0
+eD2IMkcreEI#22,eD2IMkcreEI,43,Part 2: God Did,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,250,591990.0
+eD2IMkcreEI#23,eD2IMkcreEI,48,Because He Lives,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,302,591990.0
+eD2IMkcreEI#24,eD2IMkcreEI,64,Part 2: Jesus Heals The Souls,NEW_COMPOSITION,,0.0,False,True,revivalworshiproommusic,382,591990.0
+fy8Cr6R13Ik#01,fy8Cr6R13Ik,31,1. Isaiah 6.1–3 — When the Temple Caught Fire,NEW_COMPOSITION,,0.0,False,True,holygrooveofficial,276,401108.0
+fy8Cr6R13Ik#02,fy8Cr6R13Ik,27,2. Isaiah 9.2–6 — The Light That Broke the Night,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,289,401108.0
+fy8Cr6R13Ik#03,fy8Cr6R13Ik,26,3. Isaiah 11.1–5 — The Branch and the Breath,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,278,401108.0
+fy8Cr6R13Ik#04,fy8Cr6R13Ik,40,4. Isaiah 12 — Wells of Salvation,NEW_COMPOSITION,,0.0,False,True,holygrooveofficial,272,401108.0
+fy8Cr6R13Ik#05,fy8Cr6R13Ik,44,5. Isaiah 25.8–9 — Tears No More,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,308,401108.0
+fy8Cr6R13Ik#06,fy8Cr6R13Ik,28,6. Isaiah 26 — Perfect Peace in Midnight Blues,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,288,401108.0
+fy8Cr6R13Ik#07,fy8Cr6R13Ik,30,7. Isaiah 35 — The Highway of the Redeemed,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,283,401108.0
+fy8Cr6R13Ik#08,fy8Cr6R13Ik,21,8. Isaiah 40 — Wings for the Weary,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,236,401108.0
+fy8Cr6R13Ik#09,fy8Cr6R13Ik,29,9. Isaiah 42 — The Gentle Flame,NEW_COMPOSITION,,0.0,False,False,holygrooveofficial,283,401108.0
+lKk3O0goUrA#01,lKk3O0goUrA,51,You Never Let Me Go,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,349,972321.0
+lKk3O0goUrA#02,lKk3O0goUrA,54,You Lifted Me,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,345,972321.0
+lKk3O0goUrA#03,lKk3O0goUrA,66,Praise Him,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,321,972321.0
+lKk3O0goUrA#04,lKk3O0goUrA,38,Yes Lord,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,289,972321.0
+lKk3O0goUrA#05,lKk3O0goUrA,38,You Never Let Me Fall,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,287,972321.0
+lKk3O0goUrA#06,lKk3O0goUrA,56,Praise Through It All,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,291,972321.0
+lKk3O0goUrA#07,lKk3O0goUrA,34,Still Standing,NEW_COMPOSITION,,0.0,False,False,stillworshipmusic,277,972321.0
+lKk3O0goUrA#08,lKk3O0goUrA,39,You Carry Me,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,251,972321.0
+lKk3O0goUrA#09,lKk3O0goUrA,32,Youre Still God,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,213,972321.0
+lKk3O0goUrA#10,lKk3O0goUrA,64,Thank You Lord,NEW_COMPOSITION,,0.0,False,True,stillworshipmusic,293,972321.0
+nzM91L_-mrc#01,nzM91L_-mrc,5,,NEW_COMPOSITION,,0.0,False,False,holyspiritsoundblues,46,439219.0
+rBwZv_dQf8A#01,rBwZv_dQf8A,45,The Lord Directs The Steps (Proverbs 16),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,293,59687.0
+rBwZv_dQf8A#02,rBwZv_dQf8A,43,Don't Fret The Evildoers (Proverbs 21),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,261,59687.0
+rBwZv_dQf8A#03,rBwZv_dQf8A,42,Better A Dry Crust With Peace (Proverbs 17),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,286,59687.0
+rBwZv_dQf8A#04,rBwZv_dQf8A,39,The Virtuous Woman (Proverbs 31),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,266,59687.0
+rBwZv_dQf8A#05,rBwZv_dQf8A,42,The Way That Seems Right (Proverbs 21),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,272,59687.0
+rBwZv_dQf8A#06,rBwZv_dQf8A,51,Don't Envy The Wicked (Proverbs 23),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,301,59687.0
+rBwZv_dQf8A#07,rBwZv_dQf8A,36,The Power Of Words (Proverbs 18),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,248,59687.0
+rBwZv_dQf8A#08,rBwZv_dQf8A,36,Better To Be Poor And Honest (Proverbs 19),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,270,59687.0
+rBwZv_dQf8A#09,rBwZv_dQf8A,44,Iron Sharpens Iron (Proverbs 27),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,300,59687.0
+rBwZv_dQf8A#10,rBwZv_dQf8A,33,Where There Is No Vision (Proverbs 29),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,260,59687.0
+rBwZv_dQf8A#11,rBwZv_dQf8A,37,Train Up A Child (Proverbs 22),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,340,59687.0
+rBwZv_dQf8A#12,rBwZv_dQf8A,53,Integrity Over Everything (Proverbs 20),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,271,59687.0
+rBwZv_dQf8A#13,rBwZv_dQf8A,30,Apples Of Gold (Proverbs 25),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,190,59687.0
+rBwZv_dQf8A#14,rBwZv_dQf8A,43,Every Word Of God Is Pure (Proverbs 30),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,302,59687.0
+rBwZv_dQf8A#15,rBwZv_dQf8A,40,The Blues Of A Fool (Proverbs 26),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,317,59687.0
+rBwZv_dQf8A#16,rBwZv_dQf8A,39,Bold As A Lion (Proverbs 28),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,255,59687.0
+rXmrgL6mUf8#02,rXmrgL6mUf8,28,God's Protection,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,289,914865.0
+rXmrgL6mUf8#03,rXmrgL6mUf8,41,Take Up My Cross,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,275,914865.0
+rXmrgL6mUf8#04,rXmrgL6mUf8,44,Favor,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,359,914865.0
+rXmrgL6mUf8#05,rXmrgL6mUf8,14,God of Hope,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,108,914865.0
+rXmrgL6mUf8#06,rXmrgL6mUf8,57,Blood Bought,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,368,914865.0
+rXmrgL6mUf8#07,rXmrgL6mUf8,32,I Praise YOUR Name,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,303,914865.0
+rXmrgL6mUf8#08,rXmrgL6mUf8,43,Here I Am,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,437,914865.0
+rXmrgL6mUf8#09,rXmrgL6mUf8,64,Never Let Go,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,478,914865.0
+rXmrgL6mUf8#10,rXmrgL6mUf8,71,Make Haste,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,441,914865.0
+rXmrgL6mUf8#11,rXmrgL6mUf8,48,Covered,NEW_COMPOSITION,,0.0,False,True,saltandlight-k2z,394,914865.0
+sGjecIPJalE#01,sGjecIPJalE,35,That They May Be One (John 17),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,293,96096.0
+sGjecIPJalE#02,sGjecIPJalE,21,You Must Be Born Again (John 3),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,250,96096.0
+sGjecIPJalE#03,sGjecIPJalE,37,Forgive Them Father (Luke 23),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,268,96096.0
+sGjecIPJalE#04,sGjecIPJalE,30,My Father's House (Matthew 21),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,226,96096.0
+sGjecIPJalE#05,sGjecIPJalE,34,Go And Sin No More (John 8),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,206,96096.0
+sGjecIPJalE#06,sGjecIPJalE,31,Pray Like This (Matthew 6),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,222,96096.0
+sGjecIPJalE#07,sGjecIPJalE,36,I Am The Light Of The World (John 8),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,253,96096.0
+sGjecIPJalE#08,sGjecIPJalE,26,"Jerusalem, Jerusalem (Matthew 23)",NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,218,96096.0
+sGjecIPJalE#09,sGjecIPJalE,30,I Am The Resurrection (John 11),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,201,96096.0
+sGjecIPJalE#10,sGjecIPJalE,23,It Is Finished (John 19),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,213,96096.0
+sGjecIPJalE#11,sGjecIPJalE,30,Come To Me (Matthew 11),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,264,96096.0
+sGjecIPJalE#12,sGjecIPJalE,41,Let Not Your Heart Be Troubled (John 14),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,286,96096.0
+sGjecIPJalE#13,sGjecIPJalE,30,I Am The Good Shepherd (John 10),NEW_COMPOSITION,,0.0,False,True,rivers-and-revival,242,96096.0
+sGjecIPJalE#14,sGjecIPJalE,39,Your Faith Has Made You Well (Matthew 9),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,278,96096.0
+sGjecIPJalE#15,sGjecIPJalE,32,The John 17 Prayer (John 17),NEW_COMPOSITION,,0.0,False,False,rivers-and-revival,241,96096.0
+xkU1wrgAwt0#01,xkU1wrgAwt0,19,1. Psalm 63 – My Soul Thirsts for You,SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,172,748783.0
+xkU1wrgAwt0#02,xkU1wrgAwt0,22,2. Psalm 1 – Like a Tree by the River,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,171,748783.0
+xkU1wrgAwt0#03,xkU1wrgAwt0,18,3. Psalm 37 – The Steps of the Righteous,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,170,748783.0
+xkU1wrgAwt0#04,xkU1wrgAwt0,21,4. Psalm 23 – Shepherd of My Blues,SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,164,748783.0
+xkU1wrgAwt0#05,xkU1wrgAwt0,18,5. Psalm 34 – Taste and See,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,164,748783.0
+xkU1wrgAwt0#06,xkU1wrgAwt0,12,6. Psalm 121 – Keeper of My Steps,SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,167,748783.0
+xkU1wrgAwt0#07,xkU1wrgAwt0,16,"7. Psalm 13 – How Long, O Lord",SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,154,748783.0
+xkU1wrgAwt0#08,xkU1wrgAwt0,18,8. Psalm 139 – Known and Carried,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,154,748783.0
+xkU1wrgAwt0#09,xkU1wrgAwt0,25,"9. Psalm 28 – Hear My Cry, O Lord",SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,180,748783.0
+xkU1wrgAwt0#10,xkU1wrgAwt0,22,10. Psalm 42 – My Soul Thirsts Deep,SCRIPTURE_PARAPHRASE,,0.0,True,True,holygrooveofficial,190,748783.0
+xkU1wrgAwt0#11,xkU1wrgAwt0,23,11. Psalm 19 – Heaven’s Blues,SCRIPTURE_PARAPHRASE,,0.0,True,False,holygrooveofficial,176,748783.0
+xoKFimV_5gI#01,xoKFimV_5gI,60,,NEW_COMPOSITION,,0.0,False,False,saltandlight-k2z,367,230684.0
+zfRJe2HhUjs#01,zfRJe2HhUjs,46,<Untitled Chapter 1>,NEW_COMPOSITION,,0.0,False,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,346,
+zfRJe2HhUjs#02,zfRJe2HhUjs,44,Green Pastures Blues (Psalm 23),SCRIPTURE_PARAPHRASE,I'll Fly Away,0.125,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,296,
+zfRJe2HhUjs#03,zfRJe2HhUjs,44,Be Still (Psalm 46),SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,322,
+zfRJe2HhUjs#04,zfRJe2HhUjs,42,Hills and Valleys (Psalm 121),SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,352,
+zfRJe2HhUjs#05,zfRJe2HhUjs,63,Light in My Darkness (Psalm 27),SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,357,
+zfRJe2HhUjs#06,zfRJe2HhUjs,47,Where Can I Run? (Psalm 139),SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,347,
+zfRJe2HhUjs#07,zfRJe2HhUjs,38,Under His Wings (Psalm 91),SCRIPTURE_PARAPHRASE,,0.0,True,False,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,280,
+zfRJe2HhUjs#08,zfRJe2HhUjs,59,Light in My Darkness (Psalm 27),SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,361,
+zfRJe2HhUjs#09,zfRJe2HhUjs,48,Mercy Cry (Psalm 51),SCRIPTURE_PARAPHRASE,,0.0,True,True,channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q,323,

@@ -1,0 +1,418 @@
+{
+  "niche": "christian-blues",
+  "criteria": "top 50 theo view_count, không chặn trần kênh",
+  "n_videos": 50,
+  "n_channels": 22,
+  "total_hours": 39.7,
+  "n_with_audio_dna": 18,
+  "view_range": [
+    355729,
+    3652301
+  ],
+  "videos": [
+    {
+      "video_id": "UUc37KP8OgM",
+      "handle": "stillworshipmusic",
+      "title": "When Fear Takes Over, Play This Gospel Blues #TrustInGod",
+      "view_count": 3652301,
+      "duration_sec": 161,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "6rz6D787n0U",
+      "handle": "holygrooveofficial",
+      "title": "This Psalm Sounds Like It Was Born in the Blues",
+      "view_count": 1697203,
+      "duration_sec": 2068,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "_ycC4y-4sYo",
+      "handle": "saltandlight-k2z",
+      "title": "Soul Saving \"BLUES\" Gospel Music: Modern Christian Praise and Worship Music PLAYLIST",
+      "view_count": 1343374,
+      "duration_sec": 2347,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "2y2CcCzAtyM",
+      "handle": "stillworshipmusic",
+      "title": "Be Still | 100 Minutes of Relaxing Black Gospel Music for Rest & Prayer",
+      "view_count": 1298849,
+      "duration_sec": 6098,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "5VdjXaFrhDg",
+      "handle": "heavenlybluesgospel",
+      "title": "Somebody Been Praying For Me | Deep Gospel Blues | Grace & Mercy | Heavenly Blues Gospel",
+      "view_count": 1211933,
+      "duration_sec": 443,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "eSAaF5VHsmg",
+      "handle": "holygroove-1",
+      "title": "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”",
+      "view_count": 1180460,
+      "duration_sec": 345,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "G4HzYUFmOVc",
+      "handle": "bluesguy-h",
+      "title": "Soulful Gospel blues #bluesgospel #music",
+      "view_count": 1128571,
+      "duration_sec": 48,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "HQhllDe_aHc",
+      "handle": "oldiesgospelradio",
+      "title": "Southern Soul Gospel | Through The Storm: A Southern Soul Testimony",
+      "view_count": 1103012,
+      "duration_sec": 5020,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "1UItx9upywQ",
+      "handle": "rivers-and-revival",
+      "title": "The Psalms In Blues Hit So Deep It’s Unreal",
+      "view_count": 1024147,
+      "duration_sec": 3688,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "Xh8ZaO1dxTU",
+      "handle": "thebrokenhallelujah",
+      "title": "I Had A Talk With God 🙏  Powerful Gospel Blues Testimony  The Broken Hallelujah",
+      "view_count": 1020833,
+      "duration_sec": 443,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "OBpHWpdFbPo",
+      "handle": "holygroove-1",
+      "title": "Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship”",
+      "view_count": 996738,
+      "duration_sec": 337,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "a6YOpEKvBpE",
+      "handle": "thebrokenhallelujah",
+      "title": "Touch Me Lord Jesus 🙏 | Powerful Gospel Blues Song | The Broken Hallelujah | Healing & Worship",
+      "view_count": 992208,
+      "duration_sec": 424,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "a9tzDeDdWBQ",
+      "handle": "gospelbluesescape",
+      "title": "✨Gospel Blues - Everlasting Grace – a heartfelt blend of Christian Blues and soulful",
+      "view_count": 978948,
+      "duration_sec": 7815,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "lKk3O0goUrA",
+      "handle": "stillworshipmusic",
+      "title": "Christian Blues Gospel R&B 🎶Soulful Modern Praise & Worship Playlist",
+      "view_count": 972321,
+      "duration_sec": 3203,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "diCK2QfUT8Y",
+      "handle": "oldiesgospelradio",
+      "title": "Vintage 1960s Gospel Blues | Classic Soulful Spirit | Timeless Harmony",
+      "view_count": 957497,
+      "duration_sec": 6057,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "rXmrgL6mUf8",
+      "handle": "saltandlight-k2z",
+      "title": "Uplifting R&B Gospel Music: Modern Christian Praise & Worship Music",
+      "view_count": 914865,
+      "duration_sec": 2307,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "RNBCdT6dOW4",
+      "handle": "stillworshipmusic",
+      "title": "Your Grip on Me is Strong | Christian RnB for Devotion #GospelRnB #StillWorship",
+      "view_count": 878627,
+      "duration_sec": 120,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "BTo5mf3wb0o",
+      "handle": "goldensoulworship",
+      "title": "Jesus, I Can’t Carry This Alone 🙏 2 Hours of Deep Gospel Worship",
+      "view_count": 877840,
+      "duration_sec": 7151,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "3qkImqieGrQ",
+      "handle": "christiansoulblues",
+      "title": "Everlasting Grace | Christian Blues | Soulful Worship",
+      "view_count": 810407,
+      "duration_sec": 1260,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "xsps-HQF-8Y",
+      "handle": "songsworshipblues",
+      "title": "Psalms 23 in Blues - 1950’s Gospel Soul Version",
+      "view_count": 805190,
+      "duration_sec": 303,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "bDRSM1rX-l8",
+      "handle": "stillworshipmusic",
+      "title": "GOD, YOU’RE HOLDING ME TOGETHER – Christian Blues | Black Gospel Music",
+      "view_count": 773174,
+      "duration_sec": 488,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "4QG5FOARzHk",
+      "handle": "vintage_gospel_vgx",
+      "title": "Psalm and Blues Vintage Gospel Playlist | Vintage Blues Prayers Gospel Songs",
+      "view_count": 768680,
+      "duration_sec": 4390,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "xkU1wrgAwt0",
+      "handle": "holygrooveofficial",
+      "title": "Psalms sung in Blues by David would sound like this...",
+      "view_count": 748783,
+      "duration_sec": 2450,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "jnf7oWsFpQw",
+      "handle": "oldiesgospelradio",
+      "title": "Classic Blues Gospel | Soulful 1960s Vintage Sound | Timeless Spirit",
+      "view_count": 731910,
+      "duration_sec": 6043,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "3Pn0nztfF-U",
+      "handle": "holyspiritsoundblues",
+      "title": "The Blood Still Covers Me~Ephesians 1:7 |Soulful Gospel Blues for Worship |Spirit Sound Gospel Blues",
+      "view_count": 729828,
+      "duration_sec": 254,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "t8VhS17fy8k",
+      "handle": "holyspiritsoundblues",
+      "title": "Powerful Psalm 91 Blues | Anointed Christian R&B & Gospel Blues | Uplifting Christian Blues Song",
+      "view_count": 726564,
+      "duration_sec": 215,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "Ml82LWaqRJo",
+      "handle": "vintage_gospel_vgx",
+      "title": "Psalm 91 ✝️ – The Protection Prayer That'll Give You Peace 🙏| Gospel Blues Soul",
+      "view_count": 689580,
+      "duration_sec": 390,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "QMpT5KmaQys",
+      "handle": "saltandlight-k2z",
+      "title": "ASKING, SEEKING, KNOCKING | NEW Powerful R&B Gospel Song (Official Music) | Uplifting Worship Music",
+      "view_count": 684208,
+      "duration_sec": 401,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "oGE0HRGlMTw",
+      "handle": "bluesguy-h",
+      "title": "Blues of hope #soulmusic #bluesgospel #bluesmusic #music",
+      "view_count": 675045,
+      "duration_sec": 51,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "2Rc6hBX1apo",
+      "handle": "gospelblueshouses",
+      "title": "Cuando el Alma Duele | Blues Gospel Profundo para Sanidad Interior",
+      "view_count": 666092,
+      "duration_sec": 6018,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "3JeeyHdU4KM",
+      "handle": "oldiesgospelradio",
+      "title": "Classic Soul Gospel: Uplifting Vintage Soul Gospel Music for the Soul",
+      "view_count": 664025,
+      "duration_sec": 5717,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "5n1cYN-yDmo",
+      "handle": "revivalworshiproommusic",
+      "title": "Bible R&B Worship To Heal the Soul Vol.3 | Prayer, Meditation & Reflection Gospel Songs 🎵✨",
+      "view_count": 614050,
+      "duration_sec": 3745,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "mF0QZnATmaQ",
+      "handle": "holygroove-1",
+      "title": "Psalm 121 (Lyrics) | I Lift My Eyes to the Hills | Worship Blues”",
+      "view_count": 601838,
+      "duration_sec": 316,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "eD2IMkcreEI",
+      "handle": "revivalworshiproommusic",
+      "title": "God Heals the Soul | Soulful Blues Gospel & R&B Christian Worship Mix",
+      "view_count": 591990,
+      "duration_sec": 6834,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "YCBv44crM8w",
+      "handle": "gospelbluesroom",
+      "title": "Powerful Christian Blues Worship | Faith That Lifts You Up",
+      "view_count": 540564,
+      "duration_sec": 2850,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "DL1lnwaff8k",
+      "handle": "holygrooveofficial",
+      "title": "The book of Ecclesiastes was born to be Sung in Blues",
+      "view_count": 511274,
+      "duration_sec": 3105,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "ULRtxzbxidE",
+      "handle": "christianblueshaven-oasis",
+      "title": "Bless Me Jesus 🙏🏾 Deep Gospel Blues Prayer | Emotional Testimony Song | Christian Blues Haven",
+      "view_count": 488578,
+      "duration_sec": 6793,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "VwWemwsvzz4",
+      "handle": "oldiesgospelradio",
+      "title": "Southern Soul Gospel Blessings | Songs for the Soul",
+      "view_count": 470332,
+      "duration_sec": 5716,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "nzM91L_-mrc",
+      "handle": "holyspiritsoundblues",
+      "title": "The Blood Still Covers Me #bluescommunity #gospelmusic #christianmusic #bluesmusic #soulfulmusic",
+      "view_count": 439219,
+      "duration_sec": 39,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "6mrHpzBBSZU",
+      "handle": "marcusmoore-i8y",
+      "title": "Heal My Soul | Soulful Worship Nonstop • Gospel Blues Prayer & Peace",
+      "view_count": 417232,
+      "duration_sec": 3498,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "942nxbPorY4",
+      "handle": "revivalworshiproommusic",
+      "title": "Soaked in God’s Presence – Soulful Christian R&B & Blues Playlist | Praise & Worship for Reflection",
+      "view_count": 412491,
+      "duration_sec": 3126,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "OJ9d7AzkrLg",
+      "handle": "holygroove-1",
+      "title": "Psalm 91 (Lyrics) | God My Refuge & Fortress | Christian Blues Song”",
+      "view_count": 402338,
+      "duration_sec": 408,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "fy8Cr6R13Ik",
+      "handle": "holygrooveofficial",
+      "title": "The Book of Isaiah sung in Blues will shock you!",
+      "view_count": 401108,
+      "duration_sec": 2531,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "BkPERHGFquw",
+      "handle": "soulful-gospel-blues",
+      "title": "Found My Rest ❤️❤️✝️ #christianmusic #gospelmusic #bluesmusic #churchblues #gospelblues #churchmusic",
+      "view_count": 397220,
+      "duration_sec": 170,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "8D5yUpIZc7E",
+      "handle": "holygrooveofficial",
+      "title": "What If David Played Guitar Instead of Harp? | Psalm in Blues",
+      "view_count": 395235,
+      "duration_sec": 2255,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "L7rzNkHLG6o",
+      "handle": "saltandlight-k2z",
+      "title": "\"SOLID ROCK\" ( New R&B Gospel Song ) Christian R&B Music | Christian Worship | Praise|  Gospel Music",
+      "view_count": 385943,
+      "duration_sec": 252,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "he9RPaTjtlY",
+      "handle": "latinmusicgospel",
+      "title": "Señor sana mi corazón roto💔| Ya no aguanto mas | Blues Gospel | 1 hora de Adoración Profunda",
+      "view_count": 385701,
+      "duration_sec": 3461,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "6MhdeIZ5E28",
+      "handle": "oldiesgospelradio",
+      "title": "Retro Soul & Motown Gospel Worship Classics | Oldies Gospel",
+      "view_count": 384558,
+      "duration_sec": 6111,
+      "has_audio_dna": false
+    },
+    {
+      "video_id": "bcNWg9ca92Y",
+      "handle": "revivalworshiproommusic",
+      "title": "Bible R&B Worship To Heal the Soul Vol.5 | Prayer, Meditation & Reflection Gospel Songs",
+      "view_count": 379396,
+      "duration_sec": 8307,
+      "has_audio_dna": true
+    },
+    {
+      "video_id": "Yj4cYTbCTqQ",
+      "handle": "goldensoulworship",
+      "title": "I Trust You Lord 🙏 2 Hours of Soulful Gospel R&B Worship for Faith in the Storm",
+      "view_count": 355729,
+      "duration_sec": 7238,
+      "has_audio_dna": false
+    }
+  ],
+  "_limits": [
+    "top view thuần tuý → lệch về video CŨ đã tích luỹ view, không phản ánh thị hiếu hiện tại",
+    "chỉ 18/50 video ghép được với audio_dna"
+  ]
+}

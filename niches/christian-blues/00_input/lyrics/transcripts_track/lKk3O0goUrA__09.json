@@ -1,0 +1,278 @@
+{
+ "track_id": "lKk3O0goUrA#09",
+ "track_key": "lKk3O0goUrA__09",
+ "video_id": "lKk3O0goUrA",
+ "title": "Youre Still God",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 271.0,
+ "voiced_sec": 179.2,
+ "voice_ratio": 0.661,
+ "n_words": 213,
+ "words_per_min": 47.2,
+ "is_instrumental": false,
+ "n_segments": 32,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 38.1,
+ "rtf": 0.141,
+ "segments": [
+  {
+   "start": 6.92,
+   "end": 11.82,
+   "text": "Yeah, yeah, yeah",
+   "avg_logprob": -0.719,
+   "no_speech_prob": 0.613,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 15.0,
+   "end": 17.54,
+   "text": "You're still God",
+   "avg_logprob": -0.719,
+   "no_speech_prob": 0.613,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 25.9,
+   "end": 37.52,
+   "text": "When my world was falling down You picked me up from the ground",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.572,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 37.52,
+   "end": 49.36,
+   "text": "When I didn't know where to run You held me close and said I'm not done",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.645,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 50.52,
+   "end": 61.54,
+   "text": "Every tear I cried you saw Every time I broke you restored it",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.645,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 61.54,
+   "end": 66.78,
+   "text": "You've been my shelter, my solid rock",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.355,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 67.54,
+   "end": 73.66,
+   "text": "Even when I doubt it, you never stopped",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.355,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 73.66,
+   "end": 78.54,
+   "text": "You've been faithful, you've been true",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.355,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 78.54,
+   "end": 84.56,
+   "text": "Always faith every day you make me new",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.355,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 84.56,
+   "end": 86.3,
+   "text": "Hallelujah",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.236,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 86.3,
+   "end": 90.54,
+   "text": "No matter what I've been through",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.236,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 92.56,
+   "end": 95.92,
+   "text": "I know I can depend on you",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.236,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 97.56,
+   "end": 99.4,
+   "text": "You're still God",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.236,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 103.56,
+   "end": 106.26,
+   "text": "You're still God",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.236,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 109.56,
+   "end": 111.82,
+   "text": "Through the fire",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.236,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 111.82,
+   "end": 123.42,
+   "text": "Through the blood, every season, Lord, you're good and you're still God",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.779,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 126.82,
+   "end": 137.96,
+   "text": "When my strength was almost gone, you gave me courage to carry on",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.779,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 137.96,
+   "end": 149.68,
+   "text": "Even in the valley to low Your mercy follows where I go",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.712,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 150.96,
+   "end": 161.22,
+   "text": "You are faithful, you always will be Your grace is still enough for me",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.712,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 161.22,
+   "end": 173.3,
+   "text": "Now I'll sing for all my days That you deserve the highest praise",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.592,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 174.22,
+   "end": 183.04,
+   "text": "You're still gone You're still gone",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.592,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 213.04,
+   "end": 214.34,
+   "text": "You're still good.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.689,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 215.62,
+   "end": 218.76,
+   "text": "You've never left me alone.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.689,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 219.28,
+   "end": 221.78,
+   "text": "Lord, you sit upon the throne.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.689,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 221.98,
+   "end": 224.04,
+   "text": "You're still God.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.689,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 227.06,
+   "end": 230.26,
+   "text": "You're still God.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.689,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 232.78,
+   "end": 238.02,
+   "text": "Through the fire, through the flood.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.689,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 238.02,
+   "end": 247.38,
+   "text": "Every season, Lord, You're good and You're still God",
+   "avg_logprob": -0.427,
+   "no_speech_prob": 0.717,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 250.38,
+   "end": 251.78,
+   "text": "Yeah",
+   "avg_logprob": -0.427,
+   "no_speech_prob": 0.717,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 256.06,
+   "end": 259.4,
+   "text": "You're still God",
+   "avg_logprob": -0.427,
+   "no_speech_prob": 0.717,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 260.02,
+   "end": 261.7,
+   "text": "You're still God",
+   "avg_logprob": -0.427,
+   "no_speech_prob": 0.717,
+   "track_id": "lKk3O0goUrA#09"
+  },
+  {
+   "start": 269.58,
+   "end": 270.08,
+   "text": "you",
+   "avg_logprob": -0.659,
+   "no_speech_prob": 0.89,
+   "track_id": "lKk3O0goUrA#09"
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "track_id": "JqDkxKCb4ec#03",
+ "track_key": "JqDkxKCb4ec__03",
+ "video_id": "JqDkxKCb4ec",
+ "title": "A Soft Answer (Proverbs 15)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 170.0,
+ "voiced_sec": 126.0,
+ "voice_ratio": 0.741,
+ "n_words": 168,
+ "words_per_min": 59.3,
+ "is_instrumental": false,
+ "n_segments": 17,
+ "n_segments_voiced": 17,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.7,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 19.66,
+   "text": "A soft dancer turns away ramp But harsh words stir up fire",
+   "avg_logprob": -0.671,
+   "no_speech_prob": 0.499,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 21.46,
+   "end": 30.5,
+   "text": "The tongue of the wise brings healing The fool just fends desire",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.619,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 33.66,
+   "end": 42.66,
+   "text": "The eyes of the Lord are everywhere Watching both good and bad",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.619,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 44.2,
+   "end": 53.82,
+   "text": "A cheerful heart makes a joyful sound But a crushed spirit turns sad",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.511,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 56.38,
+   "end": 61.34,
+   "text": "Keep your heart gentle, keep your words true",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.511,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 61.34,
+   "end": 66.9,
+   "text": "Let peace be the song that carries you through",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.511,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 66.9,
+   "end": 75.86,
+   "text": "Life and death are in the tongue Speak with love till the battle's won",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.492,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 78.02,
+   "end": 87.18,
+   "text": "Better little with fear of the law Than treasure with trouble inside",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.492,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 89.06,
+   "end": 98.3,
+   "text": "A warm meal with love and peace Beachfeeds where anger hides",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.775,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 101.1,
+   "end": 109.02,
+   "text": "The way of the lazy is full of thorns The upright walks straight ahead",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.775,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 111.3,
+   "end": 120.08,
+   "text": "Plans fail without wise counsel But many voices live to death",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.829,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 124.02,
+   "end": 128.36,
+   "text": "Keep your heart gentle Keep your words true",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.829,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 128.36,
+   "end": 133.7,
+   "text": "Let peace be the song that carries you through",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 134.36,
+   "end": 137.24,
+   "text": "Life and death are in the tongue",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 139.02,
+   "end": 142.42,
+   "text": "Speak with love till the battle won",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 144.04,
+   "end": 148.42,
+   "text": "Yeah, soft answer",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03"
+  },
+  {
+   "start": 155.82,
+   "end": 159.62,
+   "text": "Can't break a storm in two",
+   "avg_logprob": -0.607,
+   "no_speech_prob": 0.541,
+   "track_id": "JqDkxKCb4ec#03"
+  }
+ ]
+}

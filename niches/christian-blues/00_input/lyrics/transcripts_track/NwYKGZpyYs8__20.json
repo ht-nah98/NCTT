@@ -1,0 +1,702 @@
+{
+ "track_id": "NwYKGZpyYs8#20",
+ "track_key": "NwYKGZpyYs8__20",
+ "video_id": "NwYKGZpyYs8",
+ "title": "He Is Risen (John 20)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 405.0,
+ "voiced_sec": 350.2,
+ "voice_ratio": 0.865,
+ "n_words": 556,
+ "words_per_min": 82.4,
+ "is_instrumental": false,
+ "n_segments": 85,
+ "n_segments_voiced": 85,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 44.3,
+ "rtf": 0.109,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.0,
+   "text": "Uh, well...",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 10.7,
+   "end": 12.22,
+   "text": "Whoa, whoa, whoa",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 15.0,
+   "end": 17.7,
+   "text": "On the first day of the week",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 17.7,
+   "end": 21.18,
+   "text": "while the morning was dark",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 22.0,
+   "end": 25.48,
+   "text": "Mary Magdalene came to the tomb",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 26.0,
+   "end": 28.14,
+   "text": "and saw the stone apart",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.565,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 28.14,
+   "end": 35.14,
+   "text": "She ran to Peter and the one Jesus daily love",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 35.94,
+   "end": 43.36,
+   "text": "They have taken the Lord away We do not know where he was",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 43.36,
+   "end": 47.28,
+   "text": "He is not here The stone rolled wide",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 47.28,
+   "end": 50.78,
+   "text": "Death is broken The grave denied",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.641,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 50.78,
+   "end": 54.56,
+   "text": "What was lost is found again",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 54.56,
+   "end": 59.0,
+   "text": "Jesus lives, he has risen",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 62.78,
+   "end": 65.72,
+   "text": "Peter ran toward the tomb",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 65.72,
+   "end": 68.96,
+   "text": "The other disciple too",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 68.96,
+   "end": 72.78,
+   "text": "He arrived before Peter",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 73.32,
+   "end": 76.32,
+   "text": "But waited through",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 76.32,
+   "end": 79.76,
+   "text": "Peter went inside and saw",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 79.76,
+   "end": 83.72,
+   "text": "The linen cloth laid bare",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 83.72,
+   "end": 88.02,
+   "text": "The face cloth folded by itself",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 88.02,
+   "end": 91.26,
+   "text": "They did not yet know or care",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 91.26,
+   "end": 93.08,
+   "text": "He is not here",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 93.08,
+   "end": 95.14,
+   "text": "The stone-row white",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 95.14,
+   "end": 96.9,
+   "text": "Death is broken",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 96.9,
+   "end": 98.82,
+   "text": "The graves at night",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 98.82,
+   "end": 101.76,
+   "text": "What was lost is found again",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 102.38,
+   "end": 106.44,
+   "text": "Jesus lives, he has risen",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.586,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 110.04,
+   "end": 116.88,
+   "text": "Mary stood outside and wept with sorrow in her eyes",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 116.88,
+   "end": 123.82,
+   "text": "She looked inside the empty tomb and heard the angels ask her why",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 123.82,
+   "end": 127.94,
+   "text": "They said, woman, why do you weep?",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 128.68,
+   "end": 131.3,
+   "text": "She said they took my Lord",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 131.3,
+   "end": 138.6,
+   "text": "She turned and saw a man stand there but did not know his form",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.321,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 138.6,
+   "end": 140.66,
+   "text": "He is not here.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 140.88,
+   "end": 142.6,
+   "text": "The stone roll white.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 143.06,
+   "end": 144.42,
+   "text": "Death is broken.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 144.78,
+   "end": 146.06,
+   "text": "The grave denied.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 146.9,
+   "end": 149.88,
+   "text": "What was lost is found again.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 150.46,
+   "end": 151.54,
+   "text": "Jesus lives.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 152.5,
+   "end": 153.98,
+   "text": "He has risen.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 157.62,
+   "end": 158.6,
+   "text": "Jesus said,",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 158.7,
+   "end": 160.94,
+   "text": "woman, why do you weep?",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 161.8,
+   "end": 164.0,
+   "text": "Whom do you seek today?",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.458,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 164.0,
+   "end": 171.54,
+   "text": "She thought he was a gardener and begged him where he lay",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.552,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 171.54,
+   "end": 179.44,
+   "text": "Jesus spoke her name out loud, Mary turned and cried",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.552,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 180.0,
+   "end": 186.0,
+   "text": "Rabboni, my teacher, alive before her eyes",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.552,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 186.52,
+   "end": 190.22,
+   "text": "He is not here, the stone row white",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.552,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 190.22,
+   "end": 193.58,
+   "text": "Death is broken, the grave denied",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 194.22,
+   "end": 197.46,
+   "text": "What we lost is found again",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 198.22,
+   "end": 202.0,
+   "text": "Jesus lives, He has risen",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 205.22,
+   "end": 208.04,
+   "text": "Jesus said, do not cling to me",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 209.22,
+   "end": 211.92,
+   "text": "I have not yet gone above",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 213.22,
+   "end": 216.22,
+   "text": "Go and tell my brothers now",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 216.22,
+   "end": 219.56,
+   "text": "I'm going to my father in love",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.494,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 219.56,
+   "end": 226.72,
+   "text": "My Father and Your Father, my God and Your God",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.568,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 226.72,
+   "end": 234.02,
+   "text": "Mary went and told the disciples I have seen the Lord",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.568,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 234.02,
+   "end": 237.98,
+   "text": "He is not here, the storm roll wide",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.568,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 237.98,
+   "end": 241.26,
+   "text": "Death is broken, the grave denied",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.568,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 241.26,
+   "end": 245.16,
+   "text": "What was lost is found again",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.568,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 245.16,
+   "end": 249.34,
+   "text": "Jesus lives, He has risen",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.457,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 253.16,
+   "end": 256.3,
+   "text": "That even doors were locked",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.457,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 256.3,
+   "end": 259.82,
+   "text": "For fear of those outside",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.457,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 259.82,
+   "end": 263.9,
+   "text": "Jesus stood among them",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.457,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 263.9,
+   "end": 266.94,
+   "text": "Peace be with you, He cried",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.457,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 266.94,
+   "end": 270.52,
+   "text": "He showed His hands and wounded side",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.457,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 270.52,
+   "end": 278.32,
+   "text": "The disciples filled with joy as the Father has sent me",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 278.32,
+   "end": 283.62,
+   "text": "So I'm sending you He is not here",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 283.62,
+   "end": 287.4,
+   "text": "The stone rolled wide Death is broken",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 287.4,
+   "end": 292.96,
+   "text": "The grave denied What was lost is found again",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 292.96,
+   "end": 297.2,
+   "text": "Jesus lives, He has risen",
+   "avg_logprob": -0.398,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 301.4,
+   "end": 307.18,
+   "text": "He breathed on them and said, receive the spirit true",
+   "avg_logprob": -0.398,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 308.32,
+   "end": 314.56,
+   "text": "If you forgive the sins of any, they are forgiven through",
+   "avg_logprob": -0.398,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 314.56,
+   "end": 318.48,
+   "text": "Thomas was now with them",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 318.48,
+   "end": 322.18,
+   "text": "When Jesus came that night",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 322.18,
+   "end": 326.64,
+   "text": "Unless I see the wounds myself",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 326.64,
+   "end": 331.62,
+   "text": "I will not believe this sight",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 331.62,
+   "end": 335.32,
+   "text": "He is not here, the stone rolled white",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 335.32,
+   "end": 338.74,
+   "text": "Death is broken, the grave denied",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 338.74,
+   "end": 342.58,
+   "text": "What was lost is found again",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 342.58,
+   "end": 346.82,
+   "text": "Jesus lives, He has risen",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.527,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 351.02,
+   "end": 356.76,
+   "text": "He breathed on them and said, Receive the Spirit true",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.527,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 358.02,
+   "end": 364.28,
+   "text": "If you forgive the sins of any, They are forgiven through",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.527,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 364.28,
+   "end": 371.94,
+   "text": "Thomas was not with them when Jesus came that night",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 371.94,
+   "end": 382.06,
+   "text": "Unless I see the wounds myself I will not believe this sight",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 383.28,
+   "end": 388.94,
+   "text": "He is not here, the stone roll wide, death is broken",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.678,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 388.94,
+   "end": 394.42,
+   "text": "The grave denied, what was lost is found again.",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.455,
+   "track_id": "NwYKGZpyYs8#20"
+  },
+  {
+   "start": 394.96,
+   "end": 398.72,
+   "text": "Jesus lives, he has risen.",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.455,
+   "track_id": "NwYKGZpyYs8#20"
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "track_id": "Ss0pA-Cw8V0#05",
+ "track_key": "Ss0pA-Cw8V0__05",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Won't He Do It",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 187.0,
+ "voiced_sec": 149.2,
+ "voice_ratio": 0.798,
+ "n_words": 444,
+ "words_per_min": 142.5,
+ "is_instrumental": false,
+ "n_segments": 53,
+ "n_segments_voiced": 53,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 43.4,
+ "rtf": 0.232,
+ "segments": [
+  {
+   "start": 31.12,
+   "end": 33.74,
+   "text": "Made a way when I walk right through it",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 33.74,
+   "end": 36.48,
+   "text": "Grace on me and I can't refuse it",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 36.48,
+   "end": 39.2,
+   "text": "Devil talk loud but my God outdo him",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 40.54,
+   "end": 41.98,
+   "text": "Won't he do it?",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 42.0,
+   "end": 44.64,
+   "text": "Lift me up when the world fell through it",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 44.64,
+   "end": 47.36,
+   "text": "Heart been scarred but his love renewed it",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 47.36,
+   "end": 50.12,
+   "text": "I'm standing tall cause my God got to it",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 50.12,
+   "end": 51.34,
+   "text": "Won't he do it?",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 51.46,
+   "end": 53.76,
+   "text": "I was down bare, heart cold like a winter",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 53.76,
+   "end": 56.52,
+   "text": "Lost in the dark, couldn't see, no splinter",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 56.52,
+   "end": 59.16,
+   "text": "But he shined that light, holy ghost, my sinner",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.545,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 59.16,
+   "end": 61.36,
+   "text": "I walk by fate like a kingdom",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 61.36,
+   "end": 64.66,
+   "text": "When a change got broke, yeah, he snapped them off",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 64.66,
+   "end": 67.4,
+   "text": "Had pain in my chest, but he wiped it all off",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 67.4,
+   "end": 69.92,
+   "text": "Every tear that I drop became glory and evolved",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 69.92,
+   "end": 72.8,
+   "text": "Devil tried to blame me, but grace and not your fault",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 72.8,
+   "end": 75.78,
+   "text": "I'm covered, his mercy got deep like ocean",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 75.78,
+   "end": 78.46,
+   "text": "Stuff called ain't every move in motion",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 78.46,
+   "end": 81.6,
+   "text": "Even when I sniffed, he kept me chosen now",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 81.6,
+   "end": 84.46,
+   "text": "My praise to God, my cup overflowing",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 84.46,
+   "end": 87.44,
+   "text": "Yeah, won't he do it?",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.324,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 87.44,
+   "end": 90.62,
+   "text": "Made a way when I walk right through it",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 90.62,
+   "end": 93.3,
+   "text": "Grace on me and I can't refuse it",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 93.3,
+   "end": 96.12,
+   "text": "Devil talk loud but my God out through it",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 96.12,
+   "end": 97.42,
+   "text": "Won't He do it?",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 97.48,
+   "end": 98.84,
+   "text": "Won't He do it?",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 98.9,
+   "end": 101.24,
+   "text": "Give me up when the world felt ruin",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 101.24,
+   "end": 104.08,
+   "text": "Heart been scarred but it love renewed it",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 104.08,
+   "end": 106.8,
+   "text": "I'm standing tall cause my God got to it",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 106.8,
+   "end": 108.16,
+   "text": "Won't He do it?",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 108.2,
+   "end": 110.7,
+   "text": "He took my shame made a story out of it",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 110.7,
+   "end": 113.38,
+   "text": "A piece in my soul that the world can't match",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.568,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 113.38,
+   "end": 118.92,
+   "text": "Faker on me, heavy like kingdom taxes And I walk with angels, I ain't talkin' captions",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.272,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 118.92,
+   "end": 124.16,
+   "text": "Killed my mind when it ran too wild Said come home, that's my lost child",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.272,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 124.16,
+   "end": 129.6,
+   "text": "Now I'm walkin' in joy with a brand new smile Holy Spirit on fire like a pinnacle style",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.272,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 129.6,
+   "end": 135.04,
+   "text": "Trials came hard, but he broke those walls Lifted me high when I thought I'd fall",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.272,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 135.04,
+   "end": 137.84,
+   "text": "Now I praise from the rooftops, begin to talk",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.272,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 137.84,
+   "end": 141.0,
+   "text": "Cause the God who saved me can save us all",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.167,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 143.84,
+   "end": 148.18,
+   "text": "When I thought it was over, He opened another door",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.167,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 148.84,
+   "end": 153.62,
+   "text": "When I cried in silence, He said, I'm with you forevermore",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.167,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 154.38,
+   "end": 158.98,
+   "text": "Every mountain, every valley, Yeah He brought me through it",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.167,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 158.98,
+   "end": 164.18,
+   "text": "My God is faithful, Won't He do it?",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.167,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 164.4,
+   "end": 165.68,
+   "text": "Won't He do it?",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.167,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 165.68,
+   "end": 166.76,
+   "text": "Won't be through",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 166.76,
+   "end": 169.16,
+   "text": "Made a way when I walk right through it",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 169.16,
+   "end": 171.86,
+   "text": "Great so strong I can't undo it",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 171.86,
+   "end": 174.58,
+   "text": "Devil talk loud but my God out through it",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 174.58,
+   "end": 176.74,
+   "text": "Won't be, won't be through it",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 176.74,
+   "end": 177.82,
+   "text": "Won't be, won't be",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 177.82,
+   "end": 179.84,
+   "text": "Live me up when the world fell ruin",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 179.84,
+   "end": 182.48,
+   "text": "Heart restored and his love proved it",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 182.48,
+   "end": 185.38,
+   "text": "I'm standing tall cause my God got through it",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  },
+  {
+   "start": 185.38,
+   "end": 186.4,
+   "text": "Won't be through",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.516,
+   "track_id": "Ss0pA-Cw8V0#05"
+  }
+ ]
+}

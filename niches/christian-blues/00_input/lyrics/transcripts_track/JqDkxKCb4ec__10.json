@@ -1,0 +1,238 @@
+{
+ "track_id": "JqDkxKCb4ec#10",
+ "track_key": "JqDkxKCb4ec__10",
+ "video_id": "JqDkxKCb4ec",
+ "title": "The Scales Of Truth (Proverbs 11)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 205.0,
+ "voiced_sec": 119.5,
+ "voice_ratio": 0.583,
+ "n_words": 149,
+ "words_per_min": 43.6,
+ "is_instrumental": false,
+ "n_segments": 27,
+ "n_segments_voiced": 26,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.2,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.94,
+   "text": "ś",
+   "avg_logprob": -0.781,
+   "no_speech_prob": 0.69,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 28.58,
+   "end": 29.98,
+   "text": "ś",
+   "avg_logprob": -0.781,
+   "no_speech_prob": 0.69,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 29.98,
+   "end": 43.34,
+   "text": "is an abomination, but the Lord loves ways that are true.",
+   "avg_logprob": -0.509,
+   "no_speech_prob": 0.561,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 45.94,
+   "end": 52.6,
+   "text": "When pride walks in, disgrace follows close",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.611,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 55.04,
+   "end": 61.54,
+   "text": "But wisdom lifts the humble through",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.611,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 64.88,
+   "end": 68.54,
+   "text": "Integrity keeps them blameless",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.611,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 68.54,
+   "end": 73.12,
+   "text": "But the crooked get caught in their lies",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 73.12,
+   "end": 77.74,
+   "text": "Riches can't save you from judgment",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 77.74,
+   "end": 83.1,
+   "text": "But righteousness never dies",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 83.1,
+   "end": 87.78,
+   "text": "The scales of truth don't ever lie",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 87.78,
+   "end": 91.22,
+   "text": "The Lord weighs every soul",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 91.22,
+   "end": 96.94,
+   "text": "The wicked fall by their own deceit",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 96.94,
+   "end": 100.3,
+   "text": "But the righteous are made whole",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.094,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 112.96,
+   "end": 117.26,
+   "text": "When the righteous prosper",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.094,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 118.94,
+   "end": 121.08,
+   "text": "The city rejoices",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.094,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 123.38,
+   "end": 129.92,
+   "text": "When the wicked fall, their song",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 132.8,
+   "end": 137.28,
+   "text": "Whoever brings blessing is blessed himself",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 137.28,
+   "end": 141.32,
+   "text": "And the generous stay strong",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 141.32,
+   "end": 146.92,
+   "text": "He who trusts and riches will fall",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 146.92,
+   "end": 150.42,
+   "text": "But the righteous stand like trees",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 151.92,
+   "end": 156.0,
+   "text": "The fruit of the faithful is life itself",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 156.0,
+   "end": 160.26,
+   "text": "And wisdom's what they breathe",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 160.92,
+   "end": 165.14,
+   "text": "The scales of truth don't ever lie",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 165.14,
+   "end": 168.28,
+   "text": "The Lord ways ever whistle",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 169.92,
+   "end": 174.42,
+   "text": "The wicked fall by their own deceit",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 174.42,
+   "end": 177.88,
+   "text": "But the righteous are made whole",
+   "avg_logprob": -0.567,
+   "no_speech_prob": 0.022,
+   "track_id": "JqDkxKCb4ec#10"
+  },
+  {
+   "start": 204.42,
+   "end": 204.98,
+   "text": "you",
+   "avg_logprob": -0.744,
+   "no_speech_prob": 0.926,
+   "track_id": "JqDkxKCb4ec#10"
+  }
+ ]
+}

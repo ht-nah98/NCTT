@@ -1,0 +1,270 @@
+{
+ "track_id": "sGjecIPJalE#06",
+ "track_key": "sGjecIPJalE__06",
+ "video_id": "sGjecIPJalE",
+ "title": "Pray Like This (Matthew 6)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 153.0,
+ "voiced_sec": 108.6,
+ "voice_ratio": 0.71,
+ "n_words": 222,
+ "words_per_min": 87.1,
+ "is_instrumental": false,
+ "n_segments": 31,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 35.3,
+ "rtf": 0.231,
+ "segments": [
+  {
+   "start": 15.14,
+   "end": 21.32,
+   "text": "I said when you pray don't pray for show as a hypocrite's often do",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.642,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 22.4,
+   "end": 27.38,
+   "text": "But go to your father who sees in secret and he'll reward what's true",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.642,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 27.38,
+   "end": 30.72,
+   "text": "Don't heap up words like the Gentiles say",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 30.72,
+   "end": 33.1,
+   "text": "Thinkin' they'll make me hear",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 33.62,
+   "end": 36.38,
+   "text": "Your Father knows before your ask",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 36.38,
+   "end": 38.66,
+   "text": "So pray these words sincere",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 38.66,
+   "end": 41.56,
+   "text": "Our Father who art in heaven",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 41.56,
+   "end": 44.62,
+   "text": "I'll be thy name",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 44.62,
+   "end": 46.04,
+   "text": "Thy kingdom comes",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 46.04,
+   "end": 49.96,
+   "text": "I will be done on earth as heaven's flame",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 49.96,
+   "end": 53.0,
+   "text": "Give us this day our daily bread",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 53.0,
+   "end": 56.04,
+   "text": "And forgive us all our wrongs",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 56.04,
+   "end": 59.0,
+   "text": "As we forgive those who sin against us",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 59.0,
+   "end": 61.3,
+   "text": "And lead us to be strong",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 61.3,
+   "end": 64.26,
+   "text": "Lead us not into temptation snare",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 64.26,
+   "end": 67.02,
+   "text": "But deliver us from sin",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 67.54,
+   "end": 69.56,
+   "text": "The Thine is the kingdom, the power",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 69.56,
+   "end": 72.6,
+   "text": "The glory forever without end",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 72.6,
+   "end": 75.72,
+   "text": "Pray like this with a humble heart",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 75.72,
+   "end": 78.44,
+   "text": "In heaven hears your cry",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 79.04,
+   "end": 81.24,
+   "text": "Your Father loves to give good gifts",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 81.24,
+   "end": 84.0,
+   "text": "When faith lifts hands on high",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 84.0,
+   "end": 89.82,
+   "text": "Our Father who art in heaven, hallowed be thy name.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 90.06,
+   "end": 95.1,
+   "text": "Thy kingdom come, thy will be done on earth as heavens play.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 95.48,
+   "end": 101.34,
+   "text": "Give us this day our daily bread and forgive us all our wrongs",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 101.34,
+   "end": 106.66,
+   "text": "as we forgive those who sin against us and lead us to be strong.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 106.66,
+   "end": 113.4,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 113.4,
+   "end": 118.32,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 119.46,
+   "end": 124.68,
+   "text": "for Thine is the kingdom The power and the glory",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 125.96,
+   "end": 128.3,
+   "text": "Forever and ever, men",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06"
+  },
+  {
+   "start": 128.98,
+   "end": 130.16,
+   "text": "That's the prayer's story",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06"
+  }
+ ]
+}

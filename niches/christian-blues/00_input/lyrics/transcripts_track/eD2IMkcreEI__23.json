@@ -1,0 +1,406 @@
+{
+ "track_id": "eD2IMkcreEI#23",
+ "track_key": "eD2IMkcreEI__23",
+ "video_id": "eD2IMkcreEI",
+ "title": "Because He Lives",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 255.0,
+ "voiced_sec": 160.5,
+ "voice_ratio": 0.629,
+ "n_words": 302,
+ "words_per_min": 71.1,
+ "is_instrumental": false,
+ "n_segments": 48,
+ "n_segments_voiced": 38,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 23.5,
+ "rtf": 0.092,
+ "segments": [
+  {
+   "start": 21.0,
+   "end": 27.46,
+   "text": "Yeah, there's a calm in the midnight hour",
+   "avg_logprob": -0.77,
+   "no_speech_prob": 0.775,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 27.46,
+   "end": 34.3,
+   "text": "When the pain tries to steal my peace",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.879,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 34.3,
+   "end": 39.94,
+   "text": "You whisper softly through the silence",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.879,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 42.08,
+   "end": 47.32,
+   "text": "And my broken heart finds release",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.879,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 47.32,
+   "end": 54.16,
+   "text": "Every tear I cry, you saw it fall",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.879,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 54.16,
+   "end": 59.74,
+   "text": "You turned my pain into your call",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.819,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 61.3,
+   "end": 66.48,
+   "text": "Now I feel your love restore me whole",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.819,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 66.48,
+   "end": 74.74,
+   "text": "Oh Jesus, you heal my soul",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.819,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 74.74,
+   "end": 78.18,
+   "text": "Jesus heal the soul",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.819,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 79.52,
+   "end": 85.1,
+   "text": "Oh, yeah, you lift me up so hands, the hearts once cold",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.762,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 85.1,
+   "end": 94.58,
+   "text": "Oh, it will make me alive inside Every scar, every wound, every lonely road",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.762,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 94.58,
+   "end": 95.88,
+   "text": "Yeah, yeah",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 95.88,
+   "end": 98.84,
+   "text": "Jesus, you heal",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 100.14,
+   "end": 101.9,
+   "text": "The soul",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 103.66,
+   "end": 106.24,
+   "text": "He heals the soul",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 106.24,
+   "end": 109.84,
+   "text": "Hell, He heals the soul",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 109.84,
+   "end": 111.18,
+   "text": "Ooh",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 114.26,
+   "end": 118.68,
+   "text": "When the world turns its back on me",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 120.56,
+   "end": 130.52,
+   "text": "You're still standing close and true When I lost all faith in my reflection",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.841,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 134.44,
+   "end": 143.4,
+   "text": "You said, child, I still see you Your mercy runs deeper than my shame",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.841,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 143.4,
+   "end": 146.36,
+   "text": "The grace forever calls my name",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 146.36,
+   "end": 150.86,
+   "text": "And in Your light I may brand new",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 150.86,
+   "end": 153.32,
+   "text": "Brand new, You my Lord",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 153.32,
+   "end": 156.7,
+   "text": "There's no love like You",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 156.7,
+   "end": 159.16,
+   "text": "Oh, Jesus heals the soul",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 159.16,
+   "end": 162.08,
+   "text": "Oh, You do, You do, You do",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 162.08,
+   "end": 163.68,
+   "text": "It lifts me up so",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 163.68,
+   "end": 166.12,
+   "text": "Even as the heart wants cold",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 166.12,
+   "end": 168.96,
+   "text": "You warm them with Your love",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 168.96,
+   "end": 170.76,
+   "text": "Love and love inside",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.703,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 170.76,
+   "end": 175.68,
+   "text": "Every scar, every wound, every lonely road",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.858,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 175.68,
+   "end": 181.28,
+   "text": "Oh Lord Jesus, You hear, yes You do, yes You do",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.858,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 181.28,
+   "end": 186.72,
+   "text": "You're the soul of Him, live me higher",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.858,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 188.76,
+   "end": 191.62,
+   "text": "Your love's a holy fire",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.858,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 191.62,
+   "end": 194.86,
+   "text": "You touch the unseen pain",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.858,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 194.86,
+   "end": 197.72,
+   "text": "And wash away the rain",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.858,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 197.72,
+   "end": 200.48,
+   "text": "Every broken piece you hold",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 200.48,
+   "end": 204.08,
+   "text": "Every lost heart you consume",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 204.72,
+   "end": 209.54,
+   "text": "Oh Jesus, you heal my soul",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 210.62,
+   "end": 213.24,
+   "text": "Jesus heals the soul",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 213.24,
+   "end": 217.46,
+   "text": "He heals, He heals",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 217.46,
+   "end": 219.94,
+   "text": "He makes a shattered hope",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 219.94,
+   "end": 223.36,
+   "text": "My heart, my mind, my soul",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 223.36,
+   "end": 227.56,
+   "text": "Every tear, every scar",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 227.56,
+   "end": 231.32,
+   "text": "You've made me whole, you restore me long",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.169,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 231.32,
+   "end": 236.92,
+   "text": "Jesus, you heal the soul",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.169,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 239.88,
+   "end": 253.18,
+   "text": "He heals, oh, He heals, oh, He heals",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.169,
+   "track_id": "eD2IMkcreEI#23"
+  },
+  {
+   "start": 253.18,
+   "end": 254.64,
+   "text": "You leave me alone",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.169,
+   "track_id": "eD2IMkcreEI#23"
+  }
+ ]
+}

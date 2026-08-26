@@ -1,0 +1,390 @@
+{
+ "track_id": "eD2IMkcreEI#21",
+ "track_key": "eD2IMkcreEI__21",
+ "video_id": "eD2IMkcreEI",
+ "title": "Part 2: Jesus Reigns Forever",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 289.0,
+ "voiced_sec": 179.4,
+ "voice_ratio": 0.621,
+ "n_words": 296,
+ "words_per_min": 61.5,
+ "is_instrumental": false,
+ "n_segments": 46,
+ "n_segments_voiced": 46,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 68.3,
+ "rtf": 0.236,
+ "segments": [
+  {
+   "start": 42.82,
+   "end": 44.14,
+   "text": "Yeah",
+   "avg_logprob": -0.96,
+   "no_speech_prob": 0.807,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 55.7,
+   "end": 59.98,
+   "text": "I was broken, lost, lost",
+   "avg_logprob": -0.96,
+   "no_speech_prob": 0.807,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 59.98,
+   "end": 63.62,
+   "text": "Searching couldn't see the light of day",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.695,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 64.24,
+   "end": 70.68,
+   "text": "But his mercy reached right through the darkness and he wiped my tears away",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.695,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 71.26,
+   "end": 77.58,
+   "text": "Every mountain every valley he was faithful never failed",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.695,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 77.58,
+   "end": 84.3,
+   "text": "Now I'm standing in his promise with a story I can tell",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.695,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 89.98,
+   "end": 95.08,
+   "text": "It was nobody else God did, yes He did",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 95.08,
+   "end": 98.2,
+   "text": "He made a way when there was none",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 98.2,
+   "end": 101.86,
+   "text": "God did, yes He did",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 101.86,
+   "end": 104.56,
+   "text": "Victory is already won",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 104.56,
+   "end": 107.8,
+   "text": "Lift your hands and testify",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 107.8,
+   "end": 111.64,
+   "text": "Every prayer is heard my cry",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 111.64,
+   "end": 114.24,
+   "text": "God did it",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 114.24,
+   "end": 116.98,
+   "text": "Oh God did it",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.592,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 117.34,
+   "end": 120.18,
+   "text": "All the glory to his name",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.62,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 127.46,
+   "end": 131.34,
+   "text": "But his love came breaking through",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.62,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 131.9,
+   "end": 139.28,
+   "text": "Grace surrounded mercy found me and he made my life brand new",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.62,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 139.28,
+   "end": 145.52,
+   "text": "Every healing every blessing all the joy I'm living in",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.62,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 145.52,
+   "end": 153.08,
+   "text": "Is the power of the Savior washing over all my sin",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 153.08,
+   "end": 161.5,
+   "text": "Oh, I know, I know it was Jesus all alone",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 161.5,
+   "end": 166.64,
+   "text": "He made a way when there was none",
+   "avg_logprob": -0.382,
+   "no_speech_prob": 0.776,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 166.64,
+   "end": 170.1,
+   "text": "Yeah, he did it",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.511,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 170.1,
+   "end": 172.58,
+   "text": "Victory is already won",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.511,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 173.26,
+   "end": 175.84,
+   "text": "Lift your hands and testify",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.511,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 176.84,
+   "end": 179.6,
+   "text": "Every prayer is hurting my cry",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.511,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 180.26,
+   "end": 182.18,
+   "text": "God did it",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.511,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 182.18,
+   "end": 185.68,
+   "text": "Oh, God did it",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.511,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 185.68,
+   "end": 188.02,
+   "text": "All the glory to His name",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.511,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 192.46,
+   "end": 198.9,
+   "text": "I'll never stop singing, never stop praising God today",
+   "avg_logprob": -0.736,
+   "no_speech_prob": 0.547,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 200.12,
+   "end": 208.12,
+   "text": "He turned my morning into dancing He's the God of love getting ready",
+   "avg_logprob": -0.736,
+   "no_speech_prob": 0.547,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 208.12,
+   "end": 215.34,
+   "text": "He healed my body and He saved my soul and He broke the chains and He made me home",
+   "avg_logprob": -0.736,
+   "no_speech_prob": 0.547,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 219.72,
+   "end": 222.72,
+   "text": "Oh, God did it",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.696,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 222.72,
+   "end": 227.44,
+   "text": "He made a way when there was none",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.696,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 227.44,
+   "end": 227.9,
+   "text": "None",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.696,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 227.9,
+   "end": 230.92,
+   "text": "Did it, mighty Redeemer",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.696,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 230.92,
+   "end": 233.76,
+   "text": "Victory is already won",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.696,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 233.76,
+   "end": 236.92,
+   "text": "Now lift your hands and testify",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.696,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 236.92,
+   "end": 240.7,
+   "text": "Every prayer is hurting my cry",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.696,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 240.7,
+   "end": 243.5,
+   "text": "Oh God did it",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 243.5,
+   "end": 246.52,
+   "text": "Oh God did it",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 246.52,
+   "end": 249.02,
+   "text": "All the glory to His name",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 250.82,
+   "end": 253.68,
+   "text": "Yes, He did it",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 254.66,
+   "end": 257.06,
+   "text": "Yes, He did it",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 257.06,
+   "end": 258.48,
+   "text": "Oh God did it",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 258.48,
+   "end": 262.6,
+   "text": "All the glory to His name",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  },
+  {
+   "start": 263.74,
+   "end": 265.18,
+   "text": "God did it",
+   "avg_logprob": -0.856,
+   "no_speech_prob": 0.769,
+   "track_id": "eD2IMkcreEI#21"
+  }
+ ]
+}

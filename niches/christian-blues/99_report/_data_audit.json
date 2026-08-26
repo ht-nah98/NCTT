@@ -1,0 +1,30 @@
+{
+  "crawl_audit": {
+    "jobs_total": 5490,
+    "all_done": true,
+    "errors": 0,
+    "retries": 0,
+    "comment_jobs": 5384,
+    "videos_with_comments": 5330,
+    "jobs_zero_comments": 54,
+    "videos_never_crawled": 1809,
+    "uncrawled_median_view": 244.0,
+    "uncrawled_max_view": 241320.0,
+    "uncrawled_share_of_views": 1.7264132010301994
+  },
+  "lyrics_col": {
+    "total": 59,
+    "co_loi": 53,
+    "khong_loi": 0,
+    "missing": 6
+  },
+  "cross_period": {
+    "matched": 50,
+    "median_growth": 1.6236998025587899,
+    "n_up": 33,
+    "n_down": 17,
+    "sheet_date": "2026-03-19",
+    "crawl_date": "2026-08-13",
+    "sheet_total_views": 10573212
+  }
+}

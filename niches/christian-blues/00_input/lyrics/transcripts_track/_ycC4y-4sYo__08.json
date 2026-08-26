@@ -1,0 +1,222 @@
+{
+ "track_id": "_ycC4y-4sYo#08",
+ "track_key": "_ycC4y-4sYo__08",
+ "video_id": "_ycC4y-4sYo",
+ "title": "The WAY, TRUTH, LIFE",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 257.0,
+ "voiced_sec": 144.3,
+ "voice_ratio": 0.561,
+ "n_words": 199,
+ "words_per_min": 46.5,
+ "is_instrumental": false,
+ "n_segments": 25,
+ "n_segments_voiced": 25,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 16.5,
+ "rtf": 0.064,
+ "segments": [
+  {
+   "start": 25.42,
+   "end": 27.22,
+   "text": "In the beginning",
+   "avg_logprob": -1.114,
+   "no_speech_prob": 0.389,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 27.22,
+   "end": 36.22,
+   "text": "The name was the word and the word was with God.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 39.22,
+   "end": 43.18,
+   "text": "And the word was God's name.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 45.16,
+   "end": 51.16,
+   "text": "Jesus answered, I am the way and the truth and the life.",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.37,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 51.16,
+   "end": 58.86,
+   "text": "No one comes to the Father except through me",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.214,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 62.16,
+   "end": 69.36,
+   "text": "In the beginning the starting point for all that exists",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.214,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 71.16,
+   "end": 72.54,
+   "text": "Jesus was present",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.214,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 77.96,
+   "end": 86.88,
+   "text": "Oh, in the beginning The Word was with God",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.294,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 88.32,
+   "end": 90.74,
+   "text": "The Word being Jesus",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.294,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 98.4,
+   "end": 105.44,
+   "text": "Jesus answered, I am the way and the truth and the life",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 105.44,
+   "end": 113.44,
+   "text": "No one comes to the Father except through me",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.57,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 116.72,
+   "end": 126.88,
+   "text": "The Word was God declares the divinity of Jesus",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.245,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 129.44,
+   "end": 141.6,
+   "text": "The Word is not just a messenger or a tool of God",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.245,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 141.6,
+   "end": 149.24,
+   "text": "But is God Himself?",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 154.6,
+   "end": 159.96,
+   "text": "Jesus answered, I am the way and the truth and the life",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 160.6,
+   "end": 167.62,
+   "text": "No one comes to the Father except through me",
+   "avg_logprob": -0.325,
+   "no_speech_prob": 0.547,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 205.84,
+   "end": 217.0,
+   "text": "In the beginning was the word and the word was with God.",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.518,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 219.0,
+   "end": 221.88,
+   "text": "And the word was God.",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.518,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 224.12,
+   "end": 227.06,
+   "text": "He was with God in the beginning.",
+   "avg_logprob": -0.45,
+   "no_speech_prob": 0.518,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 228.38,
+   "end": 231.44,
+   "text": "Through Him all things were made",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 232.62,
+   "end": 237.42,
+   "text": "Without Him nothing was made that has been made",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 237.42,
+   "end": 239.68,
+   "text": "In Him was life",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 241.14,
+   "end": 244.96,
+   "text": "And that life was the light of all mankind",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 245.88,
+   "end": 249.0,
+   "text": "The light shines in the darkness",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08"
+  },
+  {
+   "start": 249.0,
+   "end": 253.48,
+   "text": "And the darkness has not overcome it",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#08"
+  }
+ ]
+}

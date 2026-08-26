@@ -1,0 +1,398 @@
+{
+ "track_id": "942nxbPorY4#05",
+ "track_key": "942nxbPorY4__05",
+ "video_id": "942nxbPorY4",
+ "title": "Never Forsake Me Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 236.0,
+ "voiced_sec": 170.4,
+ "voice_ratio": 0.722,
+ "n_words": 248,
+ "words_per_min": 63.1,
+ "is_instrumental": false,
+ "n_segments": 47,
+ "n_segments_voiced": 47,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.3,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 22.24,
+   "end": 29.14,
+   "text": "I've been down in the valley so cold and alone",
+   "avg_logprob": -0.711,
+   "no_speech_prob": 0.706,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 33.58,
+   "end": 40.16,
+   "text": "Storms all around me with no place to go",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.836,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 42.84,
+   "end": 50.54,
+   "text": "But you were the whisper deep in my soul",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.836,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 53.06,
+   "end": 56.54,
+   "text": "You say in child I'm with you",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.828,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 57.84,
+   "end": 64.8,
+   "text": "I'll never let go, never let go",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.828,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 65.54,
+   "end": 70.22,
+   "text": "Even when I fall, you lift me up",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.828,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 70.22,
+   "end": 75.34,
+   "text": "Even when I doubt, you fill my cup",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.828,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 75.34,
+   "end": 78.68,
+   "text": "When I can't see the road ahead",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.828,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 78.68,
+   "end": 81.86,
+   "text": "You're the light, the voice that said",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.748,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 81.86,
+   "end": 86.48,
+   "text": "I'll never leave, you're not never safe, my Lord",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.748,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 87.9,
+   "end": 92.16,
+   "text": "You hold me through the night",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.748,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 92.16,
+   "end": 96.82,
+   "text": "You're my shelter in the storm",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.748,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 98.22,
+   "end": 102.32,
+   "text": "My Savior, my guided light",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.748,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 102.32,
+   "end": 106.64,
+   "text": "Even when I run away",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.748,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 106.64,
+   "end": 111.9,
+   "text": "Your mercy finds my heart again",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.66,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 111.9,
+   "end": 117.68,
+   "text": "Oh Lord, You never forsake me",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.66,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 117.68,
+   "end": 122.66,
+   "text": "Never forsake me Lord",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.66,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 126.92,
+   "end": 132.02,
+   "text": "There were days I questioned Your plan",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.66,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 132.02,
+   "end": 137.1,
+   "text": "Still you held my trembling hand",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 137.1,
+   "end": 142.6,
+   "text": "Through my weakness you remained strong",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 142.6,
+   "end": 146.36,
+   "text": "You were there all along",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 146.36,
+   "end": 147.3,
+   "text": "Hallelujah",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 148.02,
+   "end": 151.3,
+   "text": "You said you never leave me",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 151.3,
+   "end": 153.32,
+   "text": "And you won't",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 153.32,
+   "end": 156.34,
+   "text": "You said you never failed me",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 156.34,
+   "end": 157.92,
+   "text": "And you don't",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 157.92,
+   "end": 161.1,
+   "text": "In the darkest hour you're still God",
+   "avg_logprob": -0.163,
+   "no_speech_prob": 0.721,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 161.1,
+   "end": 164.6,
+   "text": "Faithful through it all",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 166.1,
+   "end": 168.78,
+   "text": "Never first made me love",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 168.78,
+   "end": 170.4,
+   "text": "Never know",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 171.1,
+   "end": 173.96,
+   "text": "Your love restores my soul",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 173.96,
+   "end": 175.46,
+   "text": "My heart so",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 176.1,
+   "end": 178.88,
+   "text": "No fraud, your wind and war",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 178.88,
+   "end": 180.62,
+   "text": "That's been war",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 180.62,
+   "end": 183.9,
+   "text": "You're still the one in control",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 186.1,
+   "end": 189.02,
+   "text": "Even when I walked away",
+   "avg_logprob": -0.404,
+   "no_speech_prob": 0.81,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 189.02,
+   "end": 190.94,
+   "text": "I don't know",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 190.94,
+   "end": 194.14,
+   "text": "Your grace called out my name again",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 194.14,
+   "end": 196.24,
+   "text": "I don't know",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 196.24,
+   "end": 199.02,
+   "text": "You never will save me",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 199.56,
+   "end": 201.22,
+   "text": "I said no",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 202.02,
+   "end": 203.1,
+   "text": "Yeah",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 207.02,
+   "end": 209.88,
+   "text": "You never will save me",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 212.02,
+   "end": 213.92,
+   "text": "You're always near",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.652,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 216.34,
+   "end": 219.14,
+   "text": "Forever faithful",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.693,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 221.02,
+   "end": 224.52,
+   "text": "Oh, you're here",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.693,
+   "track_id": "942nxbPorY4#05"
+  },
+  {
+   "start": 225.92,
+   "end": 230.3,
+   "text": "Never, never forsake me Lord",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.693,
+   "track_id": "942nxbPorY4#05"
+  }
+ ]
+}

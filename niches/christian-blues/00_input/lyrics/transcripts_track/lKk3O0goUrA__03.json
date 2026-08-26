@@ -1,0 +1,550 @@
+{
+ "track_id": "lKk3O0goUrA#03",
+ "track_key": "lKk3O0goUrA__03",
+ "video_id": "lKk3O0goUrA",
+ "title": "Praise Him",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 340.0,
+ "voiced_sec": 222.1,
+ "voice_ratio": 0.653,
+ "n_words": 321,
+ "words_per_min": 56.6,
+ "is_instrumental": false,
+ "n_segments": 66,
+ "n_segments_voiced": 66,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 50.3,
+ "rtf": 0.148,
+ "segments": [
+  {
+   "start": 4.46,
+   "end": 6.34,
+   "text": "Come on and give Him glory.",
+   "avg_logprob": -0.655,
+   "no_speech_prob": 0.536,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 11.28,
+   "end": 13.72,
+   "text": "We came to praise the day.",
+   "avg_logprob": -0.655,
+   "no_speech_prob": 0.536,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 17.44,
+   "end": 19.8,
+   "text": "Oh, yes, we did.",
+   "avg_logprob": -0.655,
+   "no_speech_prob": 0.536,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 21.94,
+   "end": 24.8,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.62,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 26.92,
+   "end": 32.26,
+   "text": "Woke up this morning with a brand new song",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.62,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 32.8,
+   "end": 38.12,
+   "text": "The joy of the Lord, it keeps me strong",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.62,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 38.8,
+   "end": 44.4,
+   "text": "Trials may come, but I won't lose my way",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.62,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 44.4,
+   "end": 49.66,
+   "text": "I know my redeemer has the final say",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.478,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 50.4,
+   "end": 56.14,
+   "text": "Even in the valley I'll still lift my voice",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.478,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 56.14,
+   "end": 61.94,
+   "text": "Because praising my God is my only choice",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.478,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 61.94,
+   "end": 67.4,
+   "text": "Every step I take I'll trust and believe",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.478,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 68.4,
+   "end": 73.42,
+   "text": "His mercy and grace keep covering me",
+   "avg_logprob": -0.16,
+   "no_speech_prob": 0.478,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 73.42,
+   "end": 76.38,
+   "text": "When I think about your goodness",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.511,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 76.38,
+   "end": 79.32,
+   "text": "All the battles you have won",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.511,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 79.32,
+   "end": 82.54,
+   "text": "I can't help but raise my hands, Lord",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.511,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 82.54,
+   "end": 86.66,
+   "text": "And give glory to your Son",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.511,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 87.66,
+   "end": 90.24,
+   "text": "Keep on praising",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.511,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 93.62,
+   "end": 96.24,
+   "text": "Don't stop singing",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.511,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 96.24,
+   "end": 96.46,
+   "text": "Yeah!",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.707,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 100.24,
+   "end": 103.64,
+   "text": "Lift His name up, Jesus",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.707,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 105.24,
+   "end": 107.16,
+   "text": "He's our everything",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.707,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 109.12,
+   "end": 110.52,
+   "text": "He's our everything",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.707,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 110.52,
+   "end": 111.88,
+   "text": "Oh",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.707,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 117.24,
+   "end": 119.46,
+   "text": "Thank You, Lord",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.707,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 122.26,
+   "end": 125.22,
+   "text": "We'll keep on praising",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.76,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 135.56,
+   "end": 141.24,
+   "text": "Every tear I've cried, you wipe them away",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.76,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 141.24,
+   "end": 147.32,
+   "text": "And turn my darkest night into a brighter day",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.76,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 147.32,
+   "end": 153.5,
+   "text": "You opened every door I thought was closed",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.453,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 153.5,
+   "end": 159.32,
+   "text": "Gave me peace and joy And filled my soul",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.453,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 159.32,
+   "end": 164.94,
+   "text": "Now I'll tell the world What you've done for me",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.453,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 164.94,
+   "end": 170.72,
+   "text": "How you broke my chains And set me free",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.453,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 170.72,
+   "end": 176.82,
+   "text": "I'll keep on singing till my last breath",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.693,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 177.72,
+   "end": 182.48,
+   "text": "Praising Your name over life and death",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.693,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 182.48,
+   "end": 185.46,
+   "text": "You've been my strength, my strong defender",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.693,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 185.46,
+   "end": 188.46,
+   "text": "My fortress and my friend",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.693,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 188.46,
+   "end": 191.46,
+   "text": "So I'll keep on lifting praises",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.693,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 191.46,
+   "end": 195.5,
+   "text": "From now until the end",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.693,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 195.5,
+   "end": 199.46,
+   "text": "Keep on praising",
+   "avg_logprob": -0.459,
+   "no_speech_prob": 0.771,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 202.36,
+   "end": 205.46,
+   "text": "Don't stop singing",
+   "avg_logprob": -0.459,
+   "no_speech_prob": 0.771,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 208.16,
+   "end": 211.66,
+   "text": "Lift His name up",
+   "avg_logprob": -0.459,
+   "no_speech_prob": 0.771,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 213.32,
+   "end": 216.3,
+   "text": "He's our everything",
+   "avg_logprob": -0.459,
+   "no_speech_prob": 0.771,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 225.76,
+   "end": 229.42,
+   "text": "Thank you Lord.",
+   "avg_logprob": -0.576,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 231.52,
+   "end": 234.28,
+   "text": "We'll keep on praising.",
+   "avg_logprob": -0.576,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 237.52,
+   "end": 240.58,
+   "text": "Can't stop praising.",
+   "avg_logprob": -0.576,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 241.2,
+   "end": 242.74,
+   "text": "His holy name.",
+   "avg_logprob": -0.576,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 243.02,
+   "end": 246.22,
+   "text": "Won't stop praising.",
+   "avg_logprob": -0.576,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 246.28,
+   "end": 248.8,
+   "text": "He's always the same",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 248.8,
+   "end": 252.14,
+   "text": "I'll praise Him in the morning",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 252.14,
+   "end": 254.7,
+   "text": "Praise Him in the night",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 255.58,
+   "end": 257.84,
+   "text": "Every season, Lord",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 258.58,
+   "end": 261.44,
+   "text": "You've been my light",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 262.08,
+   "end": 264.22,
+   "text": "Keep on praising",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 264.22,
+   "end": 265.94,
+   "text": "Praising",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 266.58,
+   "end": 270.34,
+   "text": "I won't stop singing",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 270.34,
+   "end": 271.78,
+   "text": "Singing",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.666,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 271.78,
+   "end": 281.32,
+   "text": "Lift His name up Jesus He's our everything",
+   "avg_logprob": -0.867,
+   "no_speech_prob": 0.531,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 290.48,
+   "end": 293.78,
+   "text": "Thank you Lord.",
+   "avg_logprob": -0.566,
+   "no_speech_prob": 0.598,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 294.38,
+   "end": 296.38,
+   "text": "Thank you Lord.",
+   "avg_logprob": -0.566,
+   "no_speech_prob": 0.598,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 297.1,
+   "end": 299.34,
+   "text": "We'll keep on praising.",
+   "avg_logprob": -0.566,
+   "no_speech_prob": 0.598,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 305.32,
+   "end": 307.46,
+   "text": "Keep on",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.624,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 307.46,
+   "end": 308.28,
+   "text": "Keep on",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.624,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 310.78,
+   "end": 312.18,
+   "text": "Praising",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.624,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 315.34,
+   "end": 316.36,
+   "text": "I won't stop",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.624,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 318.34,
+   "end": 320.8,
+   "text": "No, I won't stop",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.624,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 325.76,
+   "end": 327.16,
+   "text": "Hmm...",
+   "avg_logprob": -2.282,
+   "no_speech_prob": 0.543,
+   "track_id": "lKk3O0goUrA#03"
+  },
+  {
+   "start": 336.6,
+   "end": 338.0,
+   "text": "Hmm...",
+   "avg_logprob": -2.282,
+   "no_speech_prob": 0.543,
+   "track_id": "lKk3O0goUrA#03"
+  }
+ ]
+}

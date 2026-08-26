@@ -1,0 +1,262 @@
+{
+ "track_id": "rBwZv_dQf8A#13",
+ "track_key": "rBwZv_dQf8A__13",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Apples Of Gold (Proverbs 25)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 236.0,
+ "voiced_sec": 132.3,
+ "voice_ratio": 0.561,
+ "n_words": 188,
+ "words_per_min": 47.8,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 30,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 122.0,
+ "rtf": 0.517,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.46,
+   "text": "Oh, but everything",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.514,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 10.0,
+   "end": 13.34,
+   "text": "Mm-hmm, yeah",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.514,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 14.0,
+   "end": 16.1,
+   "text": "Mm-hmm, oh",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.514,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 17.0,
+   "end": 17.82,
+   "text": "Oh",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.514,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 21.0,
+   "end": 25.76,
+   "text": "A word fiddly spoken is like apples of gold",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.514,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 25.76,
+   "end": 31.24,
+   "text": "In settings of silver, the wise man's hold",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.818,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 31.76,
+   "end": 36.68,
+   "text": "Like a gold ring or an ornament find",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.818,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 37.76,
+   "end": 42.42,
+   "text": "Is a word that's gentle and spoken in time",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.818,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 43.76,
+   "end": 47.96,
+   "text": "Like clouds in wind with no rain to show",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.818,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 48.76,
+   "end": 53.74,
+   "text": "Is the one who boasts but don't let go",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.818,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 53.74,
+   "end": 59.8,
+   "text": "Oh, oh, by patience a ruler's heart is swayed",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 61.02,
+   "end": 64.14,
+   "text": "A soft tongue breaks the bones away",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 64.78,
+   "end": 70.7,
+   "text": "Oh, oh, apples of gold in silver light",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 70.7,
+   "end": 76.36,
+   "text": "Words of wisdom shining bright",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 76.36,
+   "end": 81.8,
+   "text": "Let truth be kind and grace be bold",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.721,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 111.8,
+   "end": 116.36,
+   "text": "Oh, he who has no rule over his soul",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.45,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 116.36,
+   "end": 122.0,
+   "text": "Is a city broken down, no walls to hold",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.45,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 122.8,
+   "end": 124.74,
+   "text": "So God, your heart",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.45,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 125.8,
+   "end": 127.66,
+   "text": "And bridle your tone",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.45,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 128.8,
+   "end": 130.08,
+   "text": "Let love be known",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.45,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 130.8,
+   "end": 132.88,
+   "text": "Let mercy be shown",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.45,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 133.8,
+   "end": 138.86,
+   "text": "Apples of gold and silver light",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.45,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 138.86,
+   "end": 144.32,
+   "text": "Words of wisdom shine in pride",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 144.86,
+   "end": 149.58,
+   "text": "Let truth be kind and grace be bold",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 150.86,
+   "end": 155.8,
+   "text": "Speak like apples of gold",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 159.86,
+   "end": 164.34,
+   "text": "A word fully spoken from heart to soul",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.667,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 194.6,
+   "end": 200.88,
+   "text": "Let truth be kind and grace be bold",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.782,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 200.88,
+   "end": 206.16,
+   "text": "Speak life, apples of gold",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.782,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 207.34,
+   "end": 212.44,
+   "text": "When you speak with mercy, Heaven's told",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.782,
+   "track_id": "rBwZv_dQf8A#13"
+  },
+  {
+   "start": 213.34,
+   "end": 219.04,
+   "text": "That love still shines",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.782,
+   "track_id": "rBwZv_dQf8A#13"
+  }
+ ]
+}

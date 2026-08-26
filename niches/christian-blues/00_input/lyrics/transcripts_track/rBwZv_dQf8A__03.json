@@ -1,0 +1,358 @@
+{
+ "track_id": "rBwZv_dQf8A#03",
+ "track_key": "rBwZv_dQf8A__03",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Better A Dry Crust With Peace (Proverbs 17)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 175.0,
+ "voiced_sec": 138.1,
+ "voice_ratio": 0.789,
+ "n_words": 286,
+ "words_per_min": 98.1,
+ "is_instrumental": false,
+ "n_segments": 42,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.2,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.86,
+   "text": "Oh",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.773,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 2.62,
+   "end": 9.8,
+   "text": "Better dry crust in a quiet home than a feast full of fighting where a wild words wrong",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.773,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 9.8,
+   "end": 16.28,
+   "text": "Love covers wrongs. Let's trouble see ain't nothing like a home filled with peace",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.773,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 16.28,
+   "end": 19.08,
+   "text": "The fool runs quick to open stride",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.773,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 19.6,
+   "end": 22.5,
+   "text": "But wisdom stays calm and guards his life",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.773,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 22.5,
+   "end": 28.2,
+   "text": "The one who listens slow to speak is stronger than the loud and weak",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.773,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 28.2,
+   "end": 33.44,
+   "text": "Better try cross with peace and love than riches below",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.455,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 33.44,
+   "end": 37.74,
+   "text": "And no heaven above I'd rather have nothing but grace",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.455,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 37.74,
+   "end": 42.68,
+   "text": "Increase than golden anger I won't be",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.455,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 47.1,
+   "end": 54.5,
+   "text": "A joyful heart's good medicine friend But a crushed spirit will break with him",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.455,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 54.5,
+   "end": 57.6,
+   "text": "The wise man saves his breath to wait",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 57.6,
+   "end": 60.98,
+   "text": "While the loud man talks himself to fade",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 61.5,
+   "end": 64.02,
+   "text": "He who forgives brings friends to stay",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 64.02,
+   "end": 67.08,
+   "text": "But gossip tears the bond away",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 67.08,
+   "end": 70.28,
+   "text": "So keep your heart soft, your words fuel",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 70.28,
+   "end": 73.08,
+   "text": "Let the Lord make peace through you",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 73.08,
+   "end": 76.26,
+   "text": "Better try a crust with peace",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 76.26,
+   "end": 78.14,
+   "text": "And love than riches below",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 78.14,
+   "end": 79.84,
+   "text": "And no heaven above",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 80.5,
+   "end": 82.6,
+   "text": "I'd rather have nothing but grace",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 82.6,
+   "end": 88.34,
+   "text": "Increase then golden anger, I want peace",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.484,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 89.78,
+   "end": 93.14,
+   "text": "Joy in the heart that's alive to the bone",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.484,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 93.14,
+   "end": 96.52,
+   "text": "Let peace be the crown on your home",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.484,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 96.52,
+   "end": 99.46,
+   "text": "Better to have little with calm and grace",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.484,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 99.46,
+   "end": 103.4,
+   "text": "And a banquet full of pride and ways",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.484,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 105.6,
+   "end": 108.86,
+   "text": "Better to try and cross with peace and love",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.484,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 108.86,
+   "end": 111.86,
+   "text": "Than riches below and no heaven above",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.484,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 111.86,
+   "end": 116.94,
+   "text": "I'd rather have nothing but grace increase than golden anger",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.378,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 117.86,
+   "end": 121.08,
+   "text": "I want peace",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.378,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 121.86,
+   "end": 122.5,
+   "text": "Yeah",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.378,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 130.86,
+   "end": 133.28,
+   "text": "Let love flow easy",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.378,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 133.86,
+   "end": 136.16,
+   "text": "Let pride decrease",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.378,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 137.86,
+   "end": 139.82,
+   "text": "I'll take a dry crush",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.378,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 139.82,
+   "end": 146.58,
+   "text": "Make it dry with His heavenly peace",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 146.58,
+   "end": 150.52,
+   "text": "Better try, cause with peace and love",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 150.52,
+   "end": 153.42,
+   "text": "Than riches below and no heaven above",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 153.42,
+   "end": 156.74,
+   "text": "I'd rather have nothing but grace increase",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 156.74,
+   "end": 158.56,
+   "text": "Than golden anger",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 161.12,
+   "end": 162.04,
+   "text": "I...",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 164.2,
+   "end": 165.12,
+   "text": "I...",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 165.82,
+   "end": 167.4,
+   "text": "Won't peace",
+   "avg_logprob": -0.522,
+   "no_speech_prob": 0.585,
+   "track_id": "rBwZv_dQf8A#03"
+  },
+  {
+   "start": 173.54,
+   "end": 174.94,
+   "text": "you",
+   "avg_logprob": -0.967,
+   "no_speech_prob": 0.87,
+   "track_id": "rBwZv_dQf8A#03"
+  }
+ ]
+}

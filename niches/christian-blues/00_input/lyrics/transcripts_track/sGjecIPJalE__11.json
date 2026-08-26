@@ -1,0 +1,262 @@
+{
+ "track_id": "sGjecIPJalE#11",
+ "track_key": "sGjecIPJalE__11",
+ "video_id": "sGjecIPJalE",
+ "title": "Come To Me (Matthew 11)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 227.0,
+ "voiced_sec": 158.5,
+ "voice_ratio": 0.698,
+ "n_words": 264,
+ "words_per_min": 69.8,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 29,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 26.8,
+ "rtf": 0.118,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.76,
+   "text": "Hmm, hmm, hmm, hmm, hmm",
+   "avg_logprob": -0.868,
+   "no_speech_prob": 0.849,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 30.34,
+   "end": 37.1,
+   "text": "Come to me, oh, who will labor and carry a heavy load?",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 37.38,
+   "end": 43.94,
+   "text": "I'll give you rest for your weary soul, and walk with you on this road.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 44.74,
+   "end": 50.66,
+   "text": "Take my yoke upon your heart, and learn from me inside,",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 51.16,
+   "end": 57.54,
+   "text": "for I am gentle and lonely there, in me your soul will abide.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 63.54,
+   "end": 69.34,
+   "text": "Come to me, come to me, all who are tired and warm",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.392,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 69.34,
+   "end": 76.02,
+   "text": "My yoke is easy, my burden lied I'll carry you through the storm",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.392,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 76.62,
+   "end": 82.74,
+   "text": "You'll find rest for your troubled heart Peace the world can't see",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.392,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 82.74,
+   "end": 86.48,
+   "text": "For I am gentle and humble in heart",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 86.48,
+   "end": 91.52,
+   "text": "Come, come to me",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 96.82,
+   "end": 100.6,
+   "text": "You tried the world and found no peace",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 100.6,
+   "end": 103.02,
+   "text": "The wages won't let go",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 103.74,
+   "end": 107.3,
+   "text": "But my grace is strong, my love runs deep",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 107.3,
+   "end": 109.8,
+   "text": "Much deeper than you know",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 109.8,
+   "end": 116.54,
+   "text": "If you drink the water I will give your thirst no more again",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 116.54,
+   "end": 123.98,
+   "text": "For living water flows from me and life will never end",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 125.84,
+   "end": 131.8,
+   "text": "Come to me, come to me, all who are tired and worn",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 131.8,
+   "end": 135.04,
+   "text": "My yoke is easy, my burden lies",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 135.04,
+   "end": 142.06,
+   "text": "I'll carry you through the storm You'll find rest for your troubled heart",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.668,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 142.06,
+   "end": 148.98,
+   "text": "Peace the world can't see For I am gentle and humble in heart",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.668,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 148.98,
+   "end": 153.56,
+   "text": "Come, come to me",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.668,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 165.04,
+   "end": 165.92,
+   "text": "And I'll be free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 165.92,
+   "end": 167.16,
+   "text": "And I'll be free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 167.16,
+   "end": 179.3,
+   "text": "And I'll be free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 179.3,
+   "end": 185.56,
+   "text": "No one comes to the Father",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 185.56,
+   "end": 188.74,
+   "text": "Except He comes through me",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 188.74,
+   "end": 192.14,
+   "text": "If the Son sets you free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 192.14,
+   "end": 205.9,
+   "text": "You'll be free indeed. Come to me, all who labor. I'll heal and make you new, for I am gentle and lonely in heart.",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.573,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 206.98,
+   "end": 209.74,
+   "text": "My peace belongs to you.",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.573,
+   "track_id": "sGjecIPJalE#11"
+  },
+  {
+   "start": 225.54,
+   "end": 226.94,
+   "text": "you",
+   "avg_logprob": -0.787,
+   "no_speech_prob": 0.859,
+   "track_id": "sGjecIPJalE#11"
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "track_id": "rBwZv_dQf8A#11",
+ "track_key": "rBwZv_dQf8A__11",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Train Up A Child (Proverbs 22)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 205.0,
+ "voiced_sec": 170.2,
+ "voice_ratio": 0.83,
+ "n_words": 278,
+ "words_per_min": 81.4,
+ "is_instrumental": false,
+ "n_segments": 37,
+ "n_segments_voiced": 37,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 82.5,
+ "rtf": 0.403,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.16,
+   "text": "Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey.",
+   "avg_logprob": -0.697,
+   "no_speech_prob": 0.657,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 5.78,
+   "end": 15.26,
+   "text": "A good name is worth more than silver or gold.",
+   "avg_logprob": -0.697,
+   "no_speech_prob": 0.657,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 18.22,
+   "end": 22.26,
+   "text": "Better than riches or titles you hold.",
+   "avg_logprob": -0.697,
+   "no_speech_prob": 0.657,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 22.26,
+   "end": 36.66,
+   "text": "Oh, favorite love from the Lord above are treasures that never grow old",
+   "avg_logprob": -0.589,
+   "no_speech_prob": 0.815,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 39.54,
+   "end": 43.0,
+   "text": "Wo-oh-oh-oh-oh-oh-oh",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.515,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 43.0,
+   "end": 49.28,
+   "text": "Wo-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.515,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 49.28,
+   "end": 53.0,
+   "text": "Wo-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.515,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 53.0,
+   "end": 56.06,
+   "text": "Train up a child in a way that's true",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.515,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 56.66,
+   "end": 59.52,
+   "text": "When they're grown, they won't leave that view",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.515,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 59.52,
+   "end": 62.94,
+   "text": "Lay the word down deep in their soul",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.515,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 62.94,
+   "end": 66.78,
+   "text": "And the Lord himself will make them whole",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.355,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 67.92,
+   "end": 71.58,
+   "text": "Train up a child, let wisdom lead",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.355,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 71.58,
+   "end": 75.1,
+   "text": "Plant that seed and meet their need",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.355,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 75.74,
+   "end": 79.2,
+   "text": "The fear of God's well life begins",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.355,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 79.2,
+   "end": 82.64,
+   "text": "Train up a child till the harvest's when",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.355,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 82.64,
+   "end": 89.74,
+   "text": "Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.355,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 90.08,
+   "end": 92.84,
+   "text": "Generous heart will never lack",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 92.84,
+   "end": 96.4,
+   "text": "The Lord gives double what you give back",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 96.4,
+   "end": 99.7,
+   "text": "Keep clean lips and a heart that's kind",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 99.7,
+   "end": 103.38,
+   "text": "And grace will never leave your mind",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 104.0,
+   "end": 106.6,
+   "text": "See a man skilled in what he does",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 106.6,
+   "end": 109.94,
+   "text": "He'll stand before kings that's how it was",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 110.48,
+   "end": 113.7,
+   "text": "The humble rise while the proud fall down",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 113.7,
+   "end": 117.36,
+   "text": "The Lord's hand builds the faithful crown",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.16,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 117.36,
+   "end": 124.36,
+   "text": "Train up a child that wisdom lead Plant that seed and meet their need",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.679,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 124.9,
+   "end": 132.36,
+   "text": "The fear of God's where life begins Train up a child till the harvest wins",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.679,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 138.44,
+   "end": 146.02,
+   "text": "Start them young in the ways of grace They'll grow strong and find their place",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.679,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 146.02,
+   "end": 149.58,
+   "text": "Teach them love, teach them truth",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.254,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 149.58,
+   "end": 152.16,
+   "text": "God walks forever with you",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.254,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 153.02,
+   "end": 157.32,
+   "text": "Oh, train up a child at wisdom leave",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.254,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 158.02,
+   "end": 160.88,
+   "text": "Plant that seed and meet their need",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.254,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 160.88,
+   "end": 164.98,
+   "text": "The fear of God's where life begins",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.254,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 164.98,
+   "end": 168.44,
+   "text": "Train up a child till the harvest wins",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.254,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 169.02,
+   "end": 172.7,
+   "text": "Oh, train up a child",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.254,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 172.7,
+   "end": 176.24,
+   "text": "Oh, till the harvest's fine",
+   "avg_logprob": -0.712,
+   "no_speech_prob": 0.473,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 180.68,
+   "end": 186.68,
+   "text": "Oh, a good name shines through the years gone by",
+   "avg_logprob": -0.712,
+   "no_speech_prob": 0.473,
+   "track_id": "rBwZv_dQf8A#11"
+  },
+  {
+   "start": 190.64,
+   "end": 197.72,
+   "text": "Bless the Lord and train up a child.",
+   "avg_logprob": -0.611,
+   "no_speech_prob": 0.296,
+   "track_id": "rBwZv_dQf8A#11"
+  }
+ ]
+}

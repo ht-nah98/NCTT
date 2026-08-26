@@ -1,0 +1,318 @@
+{
+ "track_id": "sGjecIPJalE#03",
+ "track_key": "sGjecIPJalE__03",
+ "video_id": "sGjecIPJalE",
+ "title": "Forgive Them Father (Luke 23)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 221.0,
+ "voiced_sec": 169.7,
+ "voice_ratio": 0.768,
+ "n_words": 268,
+ "words_per_min": 72.8,
+ "is_instrumental": false,
+ "n_segments": 37,
+ "n_segments_voiced": 37,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 33.7,
+ "rtf": 0.152,
+ "segments": [
+  {
+   "start": 10.34,
+   "end": 14.2,
+   "text": "When they came to the place called the skull",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.399,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 16.0,
+   "end": 18.52,
+   "text": "There they crucified Him",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.399,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 19.94,
+   "end": 23.5,
+   "text": "One on His right and one on His left",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.399,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 23.5,
+   "end": 28.26,
+   "text": "And Jesus in between them",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 29.66,
+   "end": 32.84,
+   "text": "He lifted His voice and said",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 33.5,
+   "end": 36.52,
+   "text": "Father forgive them now",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 36.52,
+   "end": 39.94,
+   "text": "They know not what they're doing",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 41.2,
+   "end": 45.26,
+   "text": "Mercy poured out somehow",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 48.34,
+   "end": 51.34,
+   "text": "Forgive them father",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 51.34,
+   "end": 58.08,
+   "text": "They know not what they do Forgive them father",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 58.08,
+   "end": 65.54,
+   "text": "They know not what they do He bore the cross with love",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 65.54,
+   "end": 75.92,
+   "text": "Unending grace for me and grace for you Forgive them father",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 75.92,
+   "end": 80.38,
+   "text": "They know not what they do",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 82.26,
+   "end": 84.62,
+   "text": "The people stood watching",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 85.86,
+   "end": 88.64,
+   "text": "The ruler scoffed and said",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 88.64,
+   "end": 92.5,
+   "text": "He saved others, let him save himself",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 92.5,
+   "end": 96.24,
+   "text": "If he truly is the Christ of God",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 96.24,
+   "end": 99.46,
+   "text": "The soldiers mocked and offered wine",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 99.46,
+   "end": 103.18,
+   "text": "Saying, save yourself, oh King",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 103.18,
+   "end": 109.56,
+   "text": "But over him, alright and red, this is the King of the Jews.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 109.72,
+   "end": 111.8,
+   "text": "Forgive them, Father.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 112.68,
+   "end": 115.76,
+   "text": "They know not what they do.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 116.64,
+   "end": 118.96,
+   "text": "Forgive them, Father.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 120.2,
+   "end": 122.9,
+   "text": "They know not what they do.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 123.78,
+   "end": 127.52,
+   "text": "He bore the cross with love unending.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 128.36,
+   "end": 131.64,
+   "text": "And grace for me, and grace for you.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 134.02,
+   "end": 141.04,
+   "text": "Forgive them father, they know not what they do",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.268,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 142.72,
+   "end": 148.78,
+   "text": "One thief said, remember me when you come into your kingdom",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.268,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 150.18,
+   "end": 155.94,
+   "text": "And Jesus said, today you'll be with me in paradise forevermore",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.268,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 155.94,
+   "end": 156.7,
+   "text": "Oh yeah",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 156.7,
+   "end": 162.9,
+   "text": "Darkness fell over all the land The veil of the temple tore in two",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 162.9,
+   "end": 171.76,
+   "text": "He cried with a loud voice, Father Into your hands I commit my spirit",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 173.08,
+   "end": 180.0,
+   "text": "Forgive them father They know not what they do",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 180.0,
+   "end": 186.92,
+   "text": "Forgive them father, they know not what they do",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 186.92,
+   "end": 191.0,
+   "text": "Love's spoken louder than they hate",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 191.54,
+   "end": 194.68,
+   "text": "Mercy made all things new",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03"
+  },
+  {
+   "start": 194.68,
+   "end": 204.94,
+   "text": "Forgive them father, they know not what they do",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03"
+  }
+ ]
+}

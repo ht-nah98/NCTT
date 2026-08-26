@@ -1,0 +1,758 @@
+{
+ "video_id": "QJl7vyz8YTQ",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 533.0,
+ "voiced_sec": 372.6,
+ "voice_ratio": 0.699,
+ "is_instrumental": false,
+ "n_segments": 74,
+ "n_segments_voiced": 74,
+ "n_tracks": 2,
+ "n_seg_mapped": 74,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 2.48,
+   "end": 7.02,
+   "text": "The sun's been on my back",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.499,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 2.48,
+   "track_end": 7.02
+  },
+  {
+   "start": 7.02,
+   "end": 13.9,
+   "text": "Like a hand that wouldn't let me rest",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.499,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 7.02,
+   "track_end": 13.9
+  },
+  {
+   "start": 17.18,
+   "end": 22.9,
+   "text": "And every mile looks the same",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.499,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 17.18,
+   "track_end": 22.9
+  },
+  {
+   "start": 22.9,
+   "end": 29.26,
+   "text": "Like the road for God What's next?",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.779,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 22.9,
+   "track_end": 29.26
+  },
+  {
+   "start": 31.62,
+   "end": 44.08,
+   "text": "I asked the night how long But the night don't answer back",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.779,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 31.62,
+   "track_end": 44.08
+  },
+  {
+   "start": 44.08,
+   "end": 57.58,
+   "text": "Then the morning cracked the sky And the hills came through the black",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.707,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 44.08,
+   "track_end": 57.58
+  },
+  {
+   "start": 59.76,
+   "end": 70.04,
+   "text": "But I looked up and I saw the high hills Not the end of the road",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.707,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 59.76,
+   "track_end": 70.04
+  },
+  {
+   "start": 70.8,
+   "end": 77.12,
+   "text": "But a reason to walk is style My help is coming",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 70.8,
+   "track_end": 77.12
+  },
+  {
+   "start": 77.12,
+   "end": 80.96,
+   "text": "It's coming, Lord From the one who made it all",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 77.12,
+   "track_end": 80.96
+  },
+  {
+   "start": 82.02,
+   "end": 88.44,
+   "text": "So I'll keep walking Even when I cray all",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 82.02,
+   "track_end": 88.44
+  },
+  {
+   "start": 89.04,
+   "end": 95.24,
+   "text": "I don't need to see the fight in its truth I don't need to know how fair",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 89.04,
+   "track_end": 95.24
+  },
+  {
+   "start": 95.24,
+   "end": 102.24,
+   "text": "I just need to see the next year And remember who you are",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 95.24,
+   "track_end": 102.24
+  },
+  {
+   "start": 103.78,
+   "end": 110.18,
+   "text": "You made the mountains You made the morn",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 103.78,
+   "track_end": 110.18
+  },
+  {
+   "start": 111.24,
+   "end": 117.24,
+   "text": "You made this road before my feet were born",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 111.24,
+   "track_end": 117.24
+  },
+  {
+   "start": 117.84,
+   "end": 121.16,
+   "text": "So if you built the hills I'm seeing",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 117.84,
+   "track_end": 121.16
+  },
+  {
+   "start": 121.16,
+   "end": 124.72,
+   "text": "Then you built the road I'm on",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 121.16,
+   "track_end": 124.72
+  },
+  {
+   "start": 124.72,
+   "end": 128.54,
+   "text": "And if you built the road I'm on, Lord",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 124.72,
+   "track_end": 128.54
+  },
+  {
+   "start": 129.16,
+   "end": 133.2,
+   "text": "Then I'll never walk it wrong",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 129.16,
+   "track_end": 133.2
+  },
+  {
+   "start": 134.32,
+   "end": 136.38,
+   "text": "Look up, look up",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 134.32,
+   "track_end": 136.38
+  },
+  {
+   "start": 136.38,
+   "end": 140.06,
+   "text": "See the hills, see the hills",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 136.38,
+   "track_end": 140.06
+  },
+  {
+   "start": 140.06,
+   "end": 142.56,
+   "text": "He made them, He made them",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 140.06,
+   "track_end": 142.56
+  },
+  {
+   "start": 143.16,
+   "end": 144.92,
+   "text": "He'll carry you over",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 143.16,
+   "track_end": 144.92
+  },
+  {
+   "start": 144.92,
+   "end": 155.26,
+   "text": "Over every hill The road is long",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 144.92,
+   "track_end": 155.26
+  },
+  {
+   "start": 157.92,
+   "end": 165.16,
+   "text": "But it's His road And these eyes",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 157.92,
+   "track_end": 165.16
+  },
+  {
+   "start": 167.38,
+   "end": 170.52,
+   "text": "They were never in the way, Lord",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.772,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 167.38,
+   "track_end": 170.52
+  },
+  {
+   "start": 172.68,
+   "end": 178.94,
+   "text": "They were showing me the way",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.772,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 172.68,
+   "track_end": 178.94
+  },
+  {
+   "start": 189.54,
+   "end": 193.2,
+   "text": "Let everything that has breath",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.772,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 189.54,
+   "track_end": 193.2
+  },
+  {
+   "start": 194.98,
+   "end": 200.08,
+   "text": "Praise the Lord.",
+   "avg_logprob": -0.767,
+   "no_speech_prob": 0.483,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 194.98,
+   "track_end": 200.08
+  },
+  {
+   "start": 202.74,
+   "end": 208.64,
+   "text": "Praise ye the Lord.",
+   "avg_logprob": -0.767,
+   "no_speech_prob": 0.483,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 202.74,
+   "track_end": 208.64
+  },
+  {
+   "start": 239.22,
+   "end": 243.16,
+   "text": "I've cried in the valley",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 239.22,
+   "track_end": 243.16
+  },
+  {
+   "start": 246.46,
+   "end": 251.12,
+   "text": "I've come from the deep",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 246.46,
+   "track_end": 251.12
+  },
+  {
+   "start": 253.68,
+   "end": 257.74,
+   "text": "I've laid on the floor",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 253.68,
+   "track_end": 257.74
+  },
+  {
+   "start": 260.34,
+   "end": 264.88,
+   "text": "When I was too tired to sleep",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 260.34,
+   "track_end": 264.88
+  },
+  {
+   "start": 268.64,
+   "end": 272.08,
+   "text": "I've asked you how long",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 268.64,
+   "track_end": 272.08
+  },
+  {
+   "start": 275.64,
+   "end": 278.54,
+   "text": "I bet you to stay",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 275.64,
+   "track_end": 278.54
+  },
+  {
+   "start": 281.64,
+   "end": 284.92,
+   "text": "But tonight I'm not asking",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 281.64,
+   "track_end": 284.92
+  },
+  {
+   "start": 285.64,
+   "end": 289.28,
+   "text": "Tonight I just want to praise",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 285.64,
+   "track_end": 289.28
+  },
+  {
+   "start": 290.64,
+   "end": 293.22,
+   "text": "Everything that it has praised",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 290.64,
+   "track_end": 293.22
+  },
+  {
+   "start": 294.64,
+   "end": 296.84,
+   "text": "Praise the Lord tonight",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10",
+   "track_start": 294.64,
+   "track_end": 296.84
+  },
+  {
+   "start": 312.88,
+   "end": 318.7,
+   "text": "Let it praise Him all night long",
+   "avg_logprob": -0.943,
+   "no_speech_prob": 0.675,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 12.88,
+   "track_end": 18.7
+  },
+  {
+   "start": 333.34,
+   "end": 343.88,
+   "text": "These lips that beg for mercy Now they're singing out his name",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.585,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 33.34,
+   "track_end": 43.88
+  },
+  {
+   "start": 346.48,
+   "end": 357.32,
+   "text": "These knees that hit the floor Now they're dancing with no shame",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.688,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 46.48,
+   "track_end": 57.32
+  },
+  {
+   "start": 360.14,
+   "end": 371.58,
+   "text": "This heart that almost quiet Is the loudest in the room",
+   "avg_logprob": -0.327,
+   "no_speech_prob": 0.688,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 60.14,
+   "track_end": 71.58
+  },
+  {
+   "start": 371.58,
+   "end": 381.7,
+   "text": "Because He brought me through And I owe Him every time",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.78,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 71.58,
+   "track_end": 81.7
+  },
+  {
+   "start": 381.7,
+   "end": 387.82,
+   "text": "Everything that has prayed Praised the Lord tonight",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.78,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 81.7,
+   "track_end": 87.82
+  },
+  {
+   "start": 388.58,
+   "end": 395.84,
+   "text": "Every broken heart Every tear stained night",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.78,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 88.58,
+   "track_end": 95.84
+  },
+  {
+   "start": 395.84,
+   "end": 399.24,
+   "text": "I praise Him with the pie",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 95.84,
+   "track_end": 99.24
+  },
+  {
+   "start": 399.24,
+   "end": 400.28,
+   "text": "Praise Him Lord",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 99.24,
+   "track_end": 100.28
+  },
+  {
+   "start": 400.28,
+   "end": 402.52,
+   "text": "Praise Him with this song",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 100.28,
+   "track_end": 102.52
+  },
+  {
+   "start": 403.74,
+   "end": 406.46,
+   "text": "Everything that has breathed",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 103.74,
+   "track_end": 106.46
+  },
+  {
+   "start": 406.46,
+   "end": 410.52,
+   "text": "Let it praise Him all night longs",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 106.46,
+   "track_end": 110.52
+  },
+  {
+   "start": 410.52,
+   "end": 413.7,
+   "text": "I almost didn't make eye",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 110.52,
+   "track_end": 113.7
+  },
+  {
+   "start": 413.7,
+   "end": 417.1,
+   "text": "I almost didn't sigh",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 113.7,
+   "track_end": 117.1
+  },
+  {
+   "start": 418.52,
+   "end": 421.26,
+   "text": "I almost let the silence",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 118.52,
+   "track_end": 121.26
+  },
+  {
+   "start": 421.82,
+   "end": 424.04,
+   "text": "Be my final offering",
+   "avg_logprob": -0.532,
+   "no_speech_prob": 0.802,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 121.82,
+   "track_end": 124.04
+  },
+  {
+   "start": 424.04,
+   "end": 431.76,
+   "text": "But You kept my breath, Lord",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 124.04,
+   "track_end": 131.76
+  },
+  {
+   "start": 431.76,
+   "end": 434.22,
+   "text": "You kept it for this moment",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 131.76,
+   "track_end": 134.22
+  },
+  {
+   "start": 436.32,
+   "end": 440.12,
+   "text": "So every breath I have left is Yours",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 136.32,
+   "track_end": 140.12
+  },
+  {
+   "start": 440.12,
+   "end": 445.48,
+   "text": "Lord, Yours, from the first praise to the last one",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 140.12,
+   "track_end": 145.48
+  },
+  {
+   "start": 445.48,
+   "end": 449.06,
+   "text": "From the crying to the chorus",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 145.48,
+   "track_end": 149.06
+  },
+  {
+   "start": 449.06,
+   "end": 452.88,
+   "text": "I will praise You, I will praise You",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.708,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 149.06,
+   "track_end": 152.88
+  },
+  {
+   "start": 452.88,
+   "end": 456.5,
+   "text": "Till there's no breath left in me",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 152.88,
+   "track_end": 156.5
+  },
+  {
+   "start": 456.5,
+   "end": 459.1,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 156.5,
+   "track_end": 159.1
+  },
+  {
+   "start": 459.88,
+   "end": 463.88,
+   "text": "Everything that is breathed",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 159.88,
+   "track_end": 163.88
+  },
+  {
+   "start": 465.0,
+   "end": 469.84,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 165.0,
+   "track_end": 169.84
+  },
+  {
+   "start": 469.84,
+   "end": 471.3,
+   "text": "One more time",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 169.84,
+   "track_end": 171.3
+  },
+  {
+   "start": 471.88,
+   "end": 474.78,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 171.88,
+   "track_end": 174.78
+  },
+  {
+   "start": 474.78,
+   "end": 477.18,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.558,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 174.78,
+   "track_end": 177.18
+  },
+  {
+   "start": 477.18,
+   "end": 481.08,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 177.18,
+   "track_end": 181.08
+  },
+  {
+   "start": 485.94,
+   "end": 492.14,
+   "text": "Every breath, every single one",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 185.94,
+   "track_end": 192.14
+  },
+  {
+   "start": 493.18,
+   "end": 497.98,
+   "text": "Was always meant for this",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 193.18,
+   "track_end": 197.98
+  },
+  {
+   "start": 499.38,
+   "end": 502.96,
+   "text": "Praise the Lord",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.613,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 199.38,
+   "track_end": 202.96
+  },
+  {
+   "start": 510.06,
+   "end": 518.22,
+   "text": "Oh, with everything I have left, praise Him",
+   "avg_logprob": -0.676,
+   "no_speech_prob": 0.58,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 210.06,
+   "track_end": 218.22
+  },
+  {
+   "start": 519.96,
+   "end": 526.68,
+   "text": "Yeah, hmm, hmm, praise Him",
+   "avg_logprob": -0.676,
+   "no_speech_prob": 0.58,
+   "track_id": "QJl7vyz8YTQ#11",
+   "track_start": 219.96,
+   "track_end": 226.68
+  }
+ ]
+}

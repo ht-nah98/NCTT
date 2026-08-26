@@ -1,0 +1,422 @@
+{
+ "track_id": "NwYKGZpyYs8#03",
+ "track_key": "NwYKGZpyYs8__03",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Born Again (John 3)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 247.0,
+ "voiced_sec": 166.9,
+ "voice_ratio": 0.676,
+ "n_words": 357,
+ "words_per_min": 86.7,
+ "is_instrumental": false,
+ "n_segments": 50,
+ "n_segments_voiced": 50,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 39.6,
+ "rtf": 0.16,
+ "segments": [
+  {
+   "start": 9.32,
+   "end": 18.88,
+   "text": "There was a man named Nicodemus, a ruler who came in the dark to Jesus.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.323,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 20.08,
+   "end": 26.38,
+   "text": "Right by we know you come from God, no one can do these signs you wrote.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.323,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 26.38,
+   "end": 30.0,
+   "text": "Jesus said, listen, hear me play.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.477,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 30.32,
+   "end": 33.32,
+   "text": "You must be born, you must be born again.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.477,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 33.98,
+   "end": 36.9,
+   "text": "Not flesh and blood, not what you see,",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.477,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 37.38,
+   "end": 41.34,
+   "text": "but born of God to enter the kingdom free.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.477,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 44.16,
+   "end": 50.44,
+   "text": "You must be born from above, born of the spirit, born of love.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.477,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 50.8,
+   "end": 53.44,
+   "text": "The wind blows where it wants to go.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.477,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 53.44,
+   "end": 58.18,
+   "text": "You hear the sound but you do not know you must be born",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 58.18,
+   "end": 61.12,
+   "text": "Born of the spirit",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 62.24,
+   "end": 68.88,
+   "text": "What is from flesh is flesh alone what is from God is fully grown",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 70.98,
+   "end": 73.08,
+   "text": "You must be born",
+   "avg_logprob": -0.481,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 83.82,
+   "end": 87.36,
+   "text": "Oh, Nicodemus said, how can this be?",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 87.68,
+   "end": 90.22,
+   "text": "How can a man be born and see?",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 90.34,
+   "end": 93.1,
+   "text": "Can he return where life began?",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 93.62,
+   "end": 96.16,
+   "text": "Jesus said, you should understand.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 96.58,
+   "end": 99.26,
+   "text": "Water and spirit bring new birth.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 99.62,
+   "end": 102.36,
+   "text": "Ever breaking into earth.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 102.7,
+   "end": 103.78,
+   "text": "Do not marvel.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 104.22,
+   "end": 105.08,
+   "text": "Do not fear.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 105.38,
+   "end": 108.48,
+   "text": "The Son of Man has come down here.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 110.0,
+   "end": 112.62,
+   "text": "As Moses raised the serpent high,",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.308,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 112.62,
+   "end": 115.74,
+   "text": "So must the Son of man be lifted nigh",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 115.74,
+   "end": 118.46,
+   "text": "So all who look and truly believe",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 118.46,
+   "end": 121.56,
+   "text": "Eternal life they will receive",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 121.56,
+   "end": 124.64,
+   "text": "For God's own love the world He gave",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 124.64,
+   "end": 127.66,
+   "text": "His only Son, the lost to save",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 127.66,
+   "end": 130.68,
+   "text": "Whoever trusts will not be lost",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 130.68,
+   "end": 133.82,
+   "text": "But live forever through the cross",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 134.62,
+   "end": 137.44,
+   "text": "You must be born from up above",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 137.44,
+   "end": 140.52,
+   "text": "Born of the Spirit, born of love",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.671,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 140.52,
+   "end": 143.52,
+   "text": "The wind blows where it wants to go",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.383,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 143.52,
+   "end": 146.44,
+   "text": "You hear the sound but you do not know",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.383,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 146.44,
+   "end": 148.88,
+   "text": "You must be born from above",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.383,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 149.52,
+   "end": 152.52,
+   "text": "Part of the spirit, part of love",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.383,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 152.52,
+   "end": 155.46,
+   "text": "What is from flesh is flesh alone",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.383,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 155.46,
+   "end": 158.7,
+   "text": "What is from God is fully grown",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.383,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 161.52,
+   "end": 163.06,
+   "text": "You must be born",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.383,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 170.52,
+   "end": 181.36,
+   "text": "Oh, oh, oh-oh-oh, oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh, oh-oh-oh-oh-oh-oh-oh-oh.",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.496,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 181.56,
+   "end": 185.7,
+   "text": "Yeah, yeah, yeah, yeah, yeah.",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.496,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 187.32,
+   "end": 189.58,
+   "text": "Oh, oh, oh, oh-oh-oh, oh-oh-oh.",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.496,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 189.58,
+   "end": 195.06,
+   "text": "Light has come into the land, but darkness loved the wrong command.",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.496,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 195.06,
+   "end": 198.18,
+   "text": "Those who do evil hide their face,",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.469,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 198.36,
+   "end": 201.2,
+   "text": "Afraid their works will face the light.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.469,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 201.36,
+   "end": 204.18,
+   "text": "But those who walk in truth stand clear.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.469,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 204.4,
+   "end": 207.24,
+   "text": "Their teacher, God, is working here.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.469,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 207.72,
+   "end": 209.24,
+   "text": "John said he must increase.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.469,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 209.58,
+   "end": 212.16,
+   "text": "I fall the one from heaven.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.469,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 215.78,
+   "end": 217.94,
+   "text": "Rules it all.",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.469,
+   "track_id": "NwYKGZpyYs8#03"
+  },
+  {
+   "start": 225.06,
+   "end": 226.06,
+   "text": "Oh yeah",
+   "avg_logprob": -0.878,
+   "no_speech_prob": 0.543,
+   "track_id": "NwYKGZpyYs8#03"
+  }
+ ]
+}

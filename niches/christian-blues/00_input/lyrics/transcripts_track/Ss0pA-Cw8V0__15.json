@@ -1,0 +1,398 @@
+{
+ "track_id": "Ss0pA-Cw8V0#15",
+ "track_key": "Ss0pA-Cw8V0__15",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "God Did It",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 211.0,
+ "voiced_sec": 165.3,
+ "voice_ratio": 0.783,
+ "n_words": 455,
+ "words_per_min": 129.4,
+ "is_instrumental": false,
+ "n_segments": 47,
+ "n_segments_voiced": 47,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.1,
+ "rtf": 0.067,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.68,
+   "text": "Walking through",
+   "avg_logprob": -0.714,
+   "no_speech_prob": 0.136,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 1.68,
+   "end": 2.78,
+   "text": "Forever Lord",
+   "avg_logprob": -0.714,
+   "no_speech_prob": 0.136,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 2.78,
+   "end": 5.34,
+   "text": "Walking through",
+   "avg_logprob": -0.714,
+   "no_speech_prob": 0.136,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 6.4,
+   "end": 8.18,
+   "text": "Walking through",
+   "avg_logprob": -0.714,
+   "no_speech_prob": 0.136,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 8.9,
+   "end": 10.4,
+   "text": "Jesus reigns for us",
+   "avg_logprob": -0.714,
+   "no_speech_prob": 0.136,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 15.6,
+   "end": 17.44,
+   "text": "I'm glad you're here",
+   "avg_logprob": -0.83,
+   "no_speech_prob": 0.563,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 21.56,
+   "end": 23.6,
+   "text": "He did, yeah",
+   "avg_logprob": -0.83,
+   "no_speech_prob": 0.563,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 25.04,
+   "end": 29.06,
+   "text": "I did it, yeah",
+   "avg_logprob": -0.83,
+   "no_speech_prob": 0.563,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 33.88,
+   "end": 37.36,
+   "text": "God did it, God did it",
+   "avg_logprob": -0.83,
+   "no_speech_prob": 0.563,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 37.36,
+   "end": 38.9,
+   "text": "I was broken, now I'm winning",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 39.5,
+   "end": 42.1,
+   "text": "He took the pain and flipped it to a vision",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 42.86,
+   "end": 45.44,
+   "text": "Devil thought he had me, but he didn't",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 45.44,
+   "end": 48.02,
+   "text": "Jesus in my life, now I'm different, yeah I'm different",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 48.7,
+   "end": 51.2,
+   "text": "God did it all, glory to the King",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 52.22,
+   "end": 55.02,
+   "text": "Every time I fall, he redeems everything",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 55.02,
+   "end": 57.38,
+   "text": "Stepping in his favor like a ring",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 57.38,
+   "end": 60.38,
+   "text": "Every breath I breathe, Jesus reigns, he's a king",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 60.38,
+   "end": 63.58,
+   "text": "Came from the dark, now I'm walking in life",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.32,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 63.58,
+   "end": 69.74,
+   "text": "I was lost but he gave me no sight I was heavy whistin' on my back like a wave",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 69.74,
+   "end": 75.36,
+   "text": "Jesus pulled up said I'll carry that way This ain't love, this purpose",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 76.04,
+   "end": 81.56,
+   "text": "Holy spirit with me, yeah it's worth it Enemy whistlin' tryna make me nervous",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 82.38,
+   "end": 88.5,
+   "text": "But I got angels movin' kingdom service Haters ask why I don't play with the night",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 88.5,
+   "end": 91.62,
+   "text": "cause I seen what the dark really cost for the price",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 91.62,
+   "end": 94.66,
+   "text": "I'm riding with the world like a sword in the fight",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 94.66,
+   "end": 98.3,
+   "text": "John 316 changed my whole life",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 98.3,
+   "end": 100.84,
+   "text": "God did it, I was broken, I'm winning",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 101.4,
+   "end": 104.02,
+   "text": "He took the pain and flew it to a vision",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 104.76,
+   "end": 107.26,
+   "text": "Devil thought he had me, but he didn't",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 107.26,
+   "end": 109.98,
+   "text": "Jesus in my life, now I'm different, yeah I'm different",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 110.56,
+   "end": 113.22,
+   "text": "God did it, all glory to the King",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 114.12,
+   "end": 117.04,
+   "text": "Every time I fall, he redeems everything",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.504,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 117.04,
+   "end": 121.7,
+   "text": "Stepping in his favor like a ring Every breath I bring, Jesus says",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 121.7,
+   "end": 127.9,
+   "text": "Trust in the Lord, not the jail, not the bag He's the only one that feels what his world never had",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 127.9,
+   "end": 134.06,
+   "text": "Faith over feelings, I ain't runnin' from a task When your pressure gets real, grace picks up the slack",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 134.06,
+   "end": 140.68,
+   "text": "Wipers in my hand when I walk through the city I ain't prayin' for this grace, stay with me",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 140.68,
+   "end": 146.64,
+   "text": "Made in his image, so I walk like I'm chosen Spirit too strong, devil chains get broken",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 146.64,
+   "end": 153.26,
+   "text": "Got a joy, got a peace, got a hope Got a king on the throne, not a pope",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 153.26,
+   "end": 158.94,
+   "text": "Got a savior who dies, and he rose Got a love from the cross, that's God",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 159.64,
+   "end": 170.68,
+   "text": "He lit it up when I wanted to quit He covered my soul when the storm didn't hit",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 172.56,
+   "end": 175.18,
+   "text": "God did it, I was broken, I went in",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 175.72,
+   "end": 178.3,
+   "text": "He took the pain and fed it to a vision",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 179.08,
+   "end": 181.7,
+   "text": "That would've thought he had me, but he didn't",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 181.7,
+   "end": 184.46,
+   "text": "Jesus in my life, now I'm different, yeah I'm different",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 184.96,
+   "end": 187.44,
+   "text": "God did it, all glory to the King",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 188.48,
+   "end": 190.9,
+   "text": "Every time I fall, he redeems and bang",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 191.6,
+   "end": 193.7,
+   "text": "Stepping in his favor like a ring",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  },
+  {
+   "start": 194.28,
+   "end": 196.68,
+   "text": "Every breath I breathe, Jesus reigns, he's a King",
+   "avg_logprob": -0.465,
+   "no_speech_prob": 0.801,
+   "track_id": "Ss0pA-Cw8V0#15"
+  }
+ ]
+}

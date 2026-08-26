@@ -1,0 +1,548 @@
+{
+  "n_B1": 435,
+  "n_B4": 161,
+  "tag_coverage": 76.82469067148617,
+  "tag_total": 109467,
+  "tag_unique": 10629,
+  "tag_top": {
+    "gospel blues": 3712,
+    "christian blues": 2207,
+    "worship music": 1500,
+    "soulful gospel": 1477,
+    "gospel blues music": 1323,
+    "christian music": 1156,
+    "deep gospel blues": 992,
+    "prayer music": 975,
+    "blues gospel": 967,
+    "soulful worship": 961,
+    "spiritual blues": 881,
+    "blues worship": 811,
+    "soulful gospel blues": 793,
+    "gospel soul": 786,
+    "worship blues": 782,
+    "gospel worship": 744,
+    "christian blues music": 676,
+    "gospel blues worship": 652,
+    "gospel music": 639,
+    "faith music": 629,
+    "worship songs": 618,
+    "christian worship": 537,
+    "black gospel music": 532,
+    "southern gospel blues": 530,
+    "soul blues": 510
+  },
+  "tags_only_in_winners": [
+    {
+      "tag": "slow blues",
+      "freq": 478
+    },
+    {
+      "tag": "delta blues",
+      "freq": 456
+    },
+    {
+      "tag": "healing music",
+      "freq": 394
+    },
+    {
+      "tag": "christian jazz",
+      "freq": 386
+    },
+    {
+      "tag": "gospel blues prayer",
+      "freq": 344
+    },
+    {
+      "tag": "blues guitar",
+      "freq": 300
+    },
+    {
+      "tag": "psalms in blues",
+      "freq": 283
+    },
+    {
+      "tag": "christian music 2026",
+      "freq": 247
+    },
+    {
+      "tag": "smooth blues",
+      "freq": 246
+    },
+    {
+      "tag": "psalm 91",
+      "freq": 235
+    },
+    {
+      "tag": "church background music",
+      "freq": 235
+    },
+    {
+      "tag": "christian soul",
+      "freq": 234
+    },
+    {
+      "tag": "background music",
+      "freq": 231
+    },
+    {
+      "tag": "bible blues",
+      "freq": 228
+    },
+    {
+      "tag": "christian instrumental",
+      "freq": 222
+    },
+    {
+      "tag": "study music",
+      "freq": 216
+    },
+    {
+      "tag": "gospelblues",
+      "freq": 210
+    },
+    {
+      "tag": "work music",
+      "freq": 204
+    },
+    {
+      "tag": "faith in the blues",
+      "freq": 203
+    },
+    {
+      "tag": "worshipmusic",
+      "freq": 200
+    }
+  ],
+  "hashtag_top": {
+    "gospelblues": 3944,
+    "christianblues": 3218,
+    "worshipmusic": 2140,
+    "christianmusic": 1991,
+    "prayermusic": 1830,
+    "healingmusic": 1603,
+    "gospelmusic": 1334,
+    "bluesgospel": 1144,
+    "bluesmusic": 1017,
+    "faithmusic": 950,
+    "soulfulworship": 923,
+    "praiseandworship": 876,
+    "bluesguitar": 804,
+    "gospelsoul": 763,
+    "soulworship": 735,
+    "worshipguitar": 733,
+    "faithandblues": 715,
+    "christianmeditation": 682,
+    "peacefulmusic": 645,
+    "soulfulblues": 621
+  },
+  "hashtag_total": 67267,
+  "themes": [
+    {
+      "theme": "old_school",
+      "n": 222,
+      "share_pct": 3.9579247637725086,
+      "vpd_theme": 21.98251922207146,
+      "vpd_other": 9.285714285714286,
+      "lift": 2.367348223915388,
+      "p": 4.622068995157065e-06,
+      "n_ch_tested": 8,
+      "n_ch_better": 4,
+      "within_median_lift": 1.046395947755198,
+      "verdict": "Y\u1ebeU"
+    },
+    {
+      "theme": "thanks",
+      "n": 55,
+      "share_pct": 0.9805669459796755,
+      "vpd_theme": 15.324786324786325,
+      "vpd_other": 9.43109987357775,
+      "lift": 1.6249203730436974,
+      "p": 0.01338066419769403,
+      "n_ch_tested": 3,
+      "n_ch_better": 2,
+      "within_median_lift": 2.284928310027306,
+      "verdict": "X\u00c1C NH\u1eacN"
+    },
+    {
+      "theme": "testimony",
+      "n": 452,
+      "share_pct": 8.058477446960243,
+      "vpd_theme": 13.89247311827957,
+      "vpd_other": 9.205263157894738,
+      "lift": 1.5091880460109308,
+      "p": 0.00628270002625584,
+      "n_ch_tested": 22,
+      "n_ch_better": 8,
+      "within_median_lift": 0.8454885265648966,
+      "verdict": "B\u00c1C B\u1ece (Simpson)"
+    },
+    {
+      "theme": "presence",
+      "n": 144,
+      "share_pct": 2.5673025494740593,
+      "vpd_theme": 10.218708290917316,
+      "vpd_other": 9.486486486486486,
+      "lift": 1.0771857742562414,
+      "p": 0.16709005103450303,
+      "n_ch_tested": 10,
+      "n_ch_better": 6,
+      "within_median_lift": 1.0608244759461642,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "peace_rest",
+      "n": 825,
+      "share_pct": 14.708504189695132,
+      "vpd_theme": 9.797101449275363,
+      "vpd_other": 9.443480470451576,
+      "lift": 1.0374460433237787,
+      "p": 0.07545903424740777,
+      "n_ch_tested": 34,
+      "n_ch_better": 19,
+      "within_median_lift": 1.0383906965631657,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "deliverance",
+      "n": 72,
+      "share_pct": 1.2836512747370297,
+      "vpd_theme": 9.640131578947368,
+      "vpd_other": 9.492307692307692,
+      "lift": 1.0155730188518297,
+      "p": 0.09094776512913837,
+      "n_ch_tested": 5,
+      "n_ch_better": 3,
+      "within_median_lift": 1.3097037207165825,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "grace_mercy",
+      "n": 306,
+      "share_pct": 5.455517917632377,
+      "vpd_theme": 9.597581585081585,
+      "vpd_other": 9.490196078431373,
+      "lift": 1.0113154149569439,
+      "p": 0.9256441295400963,
+      "n_ch_tested": 22,
+      "n_ch_better": 14,
+      "within_median_lift": 1.4304352948895975,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "sorrow_pain",
+      "n": 453,
+      "share_pct": 8.076305936887145,
+      "vpd_theme": 9.490196078431373,
+      "vpd_other": 9.502564102564103,
+      "lift": 0.9986984540173328,
+      "p": 0.9386213773801259,
+      "n_ch_tested": 23,
+      "n_ch_better": 12,
+      "within_median_lift": 1.044925640479015,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "prayer",
+      "n": 1101,
+      "share_pct": 19.629167409520416,
+      "vpd_theme": 9.39,
+      "vpd_other": 9.556677681863142,
+      "lift": 0.9825590349060881,
+      "p": 0.3729063132611061,
+      "n_ch_tested": 32,
+      "n_ch_better": 12,
+      "within_median_lift": 0.887465562187268,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "hope_faith",
+      "n": 764,
+      "share_pct": 13.62096630415404,
+      "vpd_theme": 8.615305563167992,
+      "vpd_other": 9.664570230607966,
+      "lift": 0.8914318337594647,
+      "p": 0.5833755202879304,
+      "n_ch_tested": 29,
+      "n_ch_better": 10,
+      "within_median_lift": 0.8985953099513524,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "morning",
+      "n": 66,
+      "share_pct": 1.1766803351756105,
+      "vpd_theme": 8.493515066790929,
+      "vpd_other": 9.548961424332344,
+      "lift": 0.8894700365160171,
+      "p": 0.27333940357445063,
+      "n_ch_tested": 5,
+      "n_ch_better": 2,
+      "within_median_lift": 0.8267894812267906,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "theme": "healing",
+      "n": 733,
+      "share_pct": 13.06828311642004,
+      "vpd_theme": 7.367231638418079,
+      "vpd_other": 9.92921834612379,
+      "lift": 0.7419749855026735,
+      "p": 0.0014128619171733725,
+      "n_ch_tested": 30,
+      "n_ch_better": 13,
+      "within_median_lift": 0.8827912248586038,
+      "verdict": "B\u00c1C B\u1ece (Simpson)"
+    },
+    {
+      "theme": "strength",
+      "n": 249,
+      "share_pct": 4.439293991798895,
+      "vpd_theme": 6.440506329113924,
+      "vpd_other": 9.64078144078144,
+      "lift": 0.6680481627630264,
+      "p": 0.0042292399964396505,
+      "n_ch_tested": 14,
+      "n_ch_better": 4,
+      "within_median_lift": 0.868414026709165,
+      "verdict": "B\u00c1C B\u1ece (Simpson)"
+    },
+    {
+      "theme": "scripture",
+      "n": 652,
+      "share_pct": 11.62417543234088,
+      "vpd_theme": 6.172417048826544,
+      "vpd_other": 10.069565217391304,
+      "lift": 0.6129775134845014,
+      "p": 0.00028078296289154236,
+      "n_ch_tested": 18,
+      "n_ch_better": 13,
+      "within_median_lift": 1.2794505576295063,
+      "verdict": "TR\u00c1NH"
+    },
+    {
+      "theme": "night_sleep",
+      "n": 283,
+      "share_pct": 5.045462649313603,
+      "vpd_theme": 2.3950617283950617,
+      "vpd_other": 10.131392782969886,
+      "lift": 0.2364000468347236,
+      "p": 4.8539024769815966e-32,
+      "n_ch_tested": 15,
+      "n_ch_better": 2,
+      "within_median_lift": 0.6656304698870663,
+      "verdict": "B\u00c1C B\u1ece (Simpson)"
+    },
+    {
+      "theme": "instrumental",
+      "n": 58,
+      "share_pct": 1.034052415760385,
+      "vpd_theme": 1.686411465892598,
+      "vpd_other": 9.719298245614034,
+      "lift": 0.17351164901783048,
+      "p": 2.7106481212100333e-15,
+      "n_ch_tested": 2,
+      "n_ch_better": 0,
+      "within_median_lift": 0.2798193185453463,
+      "verdict": "TR\u00c1NH"
+    }
+  ],
+  "base_vpd": 9.492307692307692,
+  "voice_gap": [
+    {
+      "word": "amen",
+      "in_comments": 2233,
+      "in_titles": 5,
+      "ratio": 446.6
+    },
+    {
+      "word": "thank",
+      "in_comments": 3062,
+      "in_titles": 24,
+      "ratio": 127.58333333333333
+    },
+    {
+      "word": "beautiful",
+      "in_comments": 970,
+      "in_titles": 11,
+      "ratio": 88.18181818181819
+    },
+    {
+      "word": "much",
+      "in_comments": 615,
+      "in_titles": 12,
+      "ratio": 51.25
+    },
+    {
+      "word": "always",
+      "in_comments": 556,
+      "in_titles": 11,
+      "ratio": 50.54545454545455
+    },
+    {
+      "word": "these",
+      "in_comments": 645,
+      "in_titles": 16,
+      "ratio": 40.3125
+    },
+    {
+      "word": "father",
+      "in_comments": 712,
+      "in_titles": 20,
+      "ratio": 35.6
+    },
+    {
+      "word": "bless",
+      "in_comments": 960,
+      "in_titles": 28,
+      "ratio": 34.285714285714285
+    },
+    {
+      "word": "christ",
+      "in_comments": 778,
+      "in_titles": 30,
+      "ratio": 25.933333333333334
+    },
+    {
+      "word": "name",
+      "in_comments": 789,
+      "in_titles": 32,
+      "ratio": 24.65625
+    },
+    {
+      "word": "good",
+      "in_comments": 530,
+      "in_titles": 26,
+      "ratio": 20.384615384615383
+    },
+    {
+      "word": "glory",
+      "in_comments": 713,
+      "in_titles": 36,
+      "ratio": 19.805555555555557
+    },
+    {
+      "word": "know",
+      "in_comments": 760,
+      "in_titles": 42,
+      "ratio": 18.095238095238095
+    },
+    {
+      "word": "love",
+      "in_comments": 1946,
+      "in_titles": 143,
+      "ratio": 13.608391608391608
+    },
+    {
+      "word": "life",
+      "in_comments": 774,
+      "in_titles": 74,
+      "ratio": 10.45945945945946
+    }
+  ],
+  "title_struct": {
+    "B1": {
+      "med_seg": 2.0,
+      "med_len": 74.0,
+      "pct_dur": 6.206896551724138,
+      "pct_emoji": 28.27586206896552
+    },
+    "B4": {
+      "med_seg": 2.0,
+      "med_len": 73.0,
+      "pct_dur": 4.968944099378882,
+      "pct_emoji": 27.95031055900621
+    }
+  },
+  "top_titles": [
+    {
+      "title": "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song\u201d",
+      "view_count": 1180460,
+      "outlier_ratio": 1214.4650205761318,
+      "duration_band": "1-6m"
+    },
+    {
+      "title": "Powerful Christian Blues Worship | Faith That Lifts You Up",
+      "view_count": 540564,
+      "outlier_ratio": 1106.5793244626407,
+      "duration_band": "30-60m"
+    },
+    {
+      "title": "Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship\u201d",
+      "view_count": 996738,
+      "outlier_ratio": 1025.4506172839506,
+      "duration_band": "1-6m"
+    },
+    {
+      "title": "No Weapon Formed Against Me Shall Prosper | Gospel Blues | Prayer for Protection in Battle",
+      "view_count": 240762,
+      "outlier_ratio": 917.1885714285714,
+      "duration_band": "1-3h"
+    },
+    {
+      "title": "Psalms 23 in Blues - 1950\u2019s Gospel Soul Version",
+      "view_count": 805190,
+      "outlier_ratio": 849.3565400843881,
+      "duration_band": "1-6m"
+    },
+    {
+      "title": "Psalm 23 Gospel Blues \ud83d\ude4f Deep Christian Blues Gospel Worship & Psalm Meditation",
+      "view_count": 82712,
+      "outlier_ratio": 755.3607305936073,
+      "duration_band": NaN
+    },
+    {
+      "title": "Se\u00f1or sana mi coraz\u00f3n roto\ud83d\udc94| Ya no aguanto mas | Blues Gospel | 1 hora de Adoraci\u00f3n Profunda",
+      "view_count": 385701,
+      "outlier_ratio": 715.5862708719851,
+      "duration_band": "30-60m"
+    },
+    {
+      "title": "Jesus, Hold Me Together | Gospel Blues | Prayer, Reflection & Strength",
+      "view_count": 174453,
+      "outlier_ratio": 664.5828571428572,
+      "duration_band": "30-60m"
+    },
+    {
+      "title": "Psalm 121 (Lyrics) | I Lift My Eyes to the Hills | Worship Blues\u201d",
+      "view_count": 601838,
+      "outlier_ratio": 619.1748971193416,
+      "duration_band": "1-6m"
+    },
+    {
+      "title": "God, I\u2019m Not Okay Right Now | Gospel Blues | Prayer When You Feel Too Broken",
+      "view_count": 159046,
+      "outlier_ratio": 605.8895238095238,
+      "duration_band": "1-3h"
+    },
+    {
+      "title": "Cuando el Alma Duele | Blues Gospel Profundo para Sanidad Interior",
+      "view_count": 666092,
+      "outlier_ratio": 603.8912058023573,
+      "duration_band": "1-3h"
+    },
+    {
+      "title": "Found My Rest \u2764\ufe0f\u2764\ufe0f\u271d\ufe0f #christianmusic #gospelmusic #bluesmusic #churchblues #gospelblues #churchmusic",
+      "view_count": 397220,
+      "outlier_ratio": 561.0451977401129,
+      "duration_band": "1-6m"
+    },
+    {
+      "title": "Start Your Day With God | Blues Worship Songs | Prayer & Holy Spirit Peace",
+      "view_count": 135502,
+      "outlier_ratio": 516.1980952380952,
+      "duration_band": "1-3h"
+    },
+    {
+      "title": "The Blood Still Covers Me~Ephesians 1:7 |Soulful Gospel Blues for Worship |Spirit Sound Gospel Blues",
+      "view_count": 729828,
+      "outlier_ratio": 484.1313432835821,
+      "duration_band": "1-6m"
+    },
+    {
+      "title": "Powerful Psalm 91 Blues | Anointed Christian R&B & Gospel Blues | Uplifting Christian Blues Song",
+      "view_count": 726564,
+      "outlier_ratio": 481.96616915422885,
+      "duration_band": "1-6m"
+    }
+  ]
+}

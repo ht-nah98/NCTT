@@ -1,0 +1,278 @@
+{
+ "track_id": "rXmrgL6mUf8#07",
+ "track_key": "rXmrgL6mUf8__07",
+ "video_id": "rXmrgL6mUf8",
+ "title": "I Praise YOUR Name",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 291.0,
+ "voiced_sec": 24.6,
+ "voice_ratio": 0.084,
+ "n_words": 302,
+ "words_per_min": 62.3,
+ "is_instrumental": false,
+ "n_segments": 32,
+ "n_segments_voiced": 3,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 21.1,
+ "rtf": 0.072,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 12.06,
+   "text": "You are my God forever the same Mighty and holy I bless your name",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.737,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 13.0,
+   "end": 22.72,
+   "text": "Alpha Omega beginning and end You are my God my Savior my everything",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.737,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 24.36,
+   "end": 29.92,
+   "text": "El Shaddai, Almighty King",
+   "avg_logprob": -0.707,
+   "no_speech_prob": 0.885,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 29.92,
+   "end": 35.52,
+   "text": "To you alone, I live my offering",
+   "avg_logprob": -0.707,
+   "no_speech_prob": 0.885,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 36.14,
+   "end": 41.3,
+   "text": "Jehovah, child, you provide",
+   "avg_logprob": -0.707,
+   "no_speech_prob": 0.885,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 42.08,
+   "end": 46.9,
+   "text": "In every storm you're by my side",
+   "avg_logprob": -0.707,
+   "no_speech_prob": 0.885,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 46.9,
+   "end": 58.1,
+   "text": "Heal, Elia, the most high one, bright morning star, the risen sun.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.866,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 58.74,
+   "end": 69.74,
+   "text": "I don't like suffering, Lord above, clothing, justice, mercy and love.",
+   "avg_logprob": -0.452,
+   "no_speech_prob": 0.866,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 71.32,
+   "end": 83.3,
+   "text": "You are my God forever the same Mighty and holy, I bless your name",
+   "avg_logprob": -0.479,
+   "no_speech_prob": 0.937,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 84.26,
+   "end": 93.84,
+   "text": "Alpha Omega beginning and end You are my God, my Savior, my everything",
+   "avg_logprob": -0.479,
+   "no_speech_prob": 0.937,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 95.8,
+   "end": 106.6,
+   "text": "Jehovah Rapha, Lord who heals Your power and truth forever revealed",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.909,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 106.6,
+   "end": 117.88,
+   "text": "Jehovah Nisi, my better race To you alone belongs all praise",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.909,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 117.88,
+   "end": 123.32,
+   "text": "The great I am, unchanging one",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.896,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 124.88,
+   "end": 131.76,
+   "text": "Who was and is, and is to come, Emmanuel",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.896,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 132.88,
+   "end": 142.06,
+   "text": "God with us still, ruler of all who's word fulfills",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.896,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 142.06,
+   "end": 154.28,
+   "text": "You are my God, forever the same Mighty and holy, I bless Your name",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.883,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 155.26,
+   "end": 164.98,
+   "text": "Alpha Omega, beginning in it You are my God, my Savior, my everything",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.883,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 167.38,
+   "end": 177.92,
+   "text": "Jehovah's Shalom, my perfect peace Your loving grace will never cease",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.905,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 179.54,
+   "end": 189.2,
+   "text": "The rock of ages, my hiding place Redeemer, King, full of grace",
+   "avg_logprob": -0.445,
+   "no_speech_prob": 0.905,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 189.2,
+   "end": 194.74,
+   "text": "Lamb of God who bore my shame",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.916,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 194.74,
+   "end": 200.54,
+   "text": "Yes, you are the matchless name",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.916,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 200.54,
+   "end": 206.38,
+   "text": "Lying of Judah, strong and bold",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.916,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 206.38,
+   "end": 212.06,
+   "text": "In chin of days whose truth is told",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.916,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 213.54,
+   "end": 225.56,
+   "text": "You are my God, forever the same Mighty and holy, I bless Your name",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.93,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 226.46,
+   "end": 236.06,
+   "text": "Alpha Omega, beginning ready You are my God, my Savior, my everything",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.93,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 236.06,
+   "end": 242.02,
+   "text": "I'm a father, I lift you high",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.934,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 242.02,
+   "end": 248.38,
+   "text": "Holy Spirit be ever-nerved",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.934,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 248.38,
+   "end": 253.58,
+   "text": "Counselor, Comforter, guiding light",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.934,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 255.06,
+   "end": 259.84,
+   "text": "Your presence turns death to life",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.934,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 259.84,
+   "end": 273.0,
+   "text": "You are my God, forever the same Mighty and holy, I've sought Your name",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.928,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 273.0,
+   "end": 286.22,
+   "text": "Alpha Omega, beginning in it God the Father, God the Son, God the Holy Spirit",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.928,
+   "track_id": "rXmrgL6mUf8#07"
+  },
+  {
+   "start": 286.22,
+   "end": 289.02,
+   "text": "You're my everything",
+   "avg_logprob": -0.548,
+   "no_speech_prob": 0.525,
+   "track_id": "rXmrgL6mUf8#07"
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "track_id": "2y2CcCzAtyM#13",
+ "track_key": "2y2CcCzAtyM__13",
+ "video_id": "2y2CcCzAtyM",
+ "title": "13 — He Restoreth My Soul",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 289.0,
+ "voiced_sec": 213.1,
+ "voice_ratio": 0.737,
+ "n_words": 252,
+ "words_per_min": 52.3,
+ "is_instrumental": false,
+ "n_segments": 36,
+ "n_segments_voiced": 36,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.6,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 2.08,
+   "end": 9.78,
+   "text": "He leadeth me beside the still waters He restoreeth my soul",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.243,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 13.0,
+   "end": 26.44,
+   "text": "Psalm 23 In green pastures He has laid me down to rest",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.243,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 28.34,
+   "end": 33.22,
+   "text": "Beside the still and quiet waters of His grace",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.267,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 35.8,
+   "end": 41.28,
+   "text": "No one has ever followed those He calls His own",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.267,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 42.6,
+   "end": 48.38,
+   "text": "For He is shepherd and He knoweth every face",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.267,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 48.38,
+   "end": 60.46,
+   "text": "He restored my soul He restored my soul",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.41,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 63.38,
+   "end": 71.04,
+   "text": "In piles of righteousness He led me by His name",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.41,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 71.04,
+   "end": 86.56,
+   "text": "He restored, He restored, He restored my soul",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.574,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 93.06,
+   "end": 98.62,
+   "text": "Though I have wandered far from pastures green and fair",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.33,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 99.96,
+   "end": 106.54,
+   "text": "You found me in the valley cold and scared and lost",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.33,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 107.96,
+   "end": 113.94,
+   "text": "He lifted me upon his shoulders, held me there",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.33,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 113.94,
+   "end": 121.44,
+   "text": "And led me back to life, no matter what the cost",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.42,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 121.44,
+   "end": 126.58,
+   "text": "He restored my soul",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.42,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 128.52,
+   "end": 134.92,
+   "text": "He restored my soul",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.42,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 134.92,
+   "end": 143.88,
+   "text": "In paths of righteousness He leads me by His name",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.275,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 144.92,
+   "end": 158.98,
+   "text": "He restored, He restored, He restored my soul",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.275,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 162.78,
+   "end": 165.28,
+   "text": "You may come to this moment worn and weary",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.251,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 167.02,
+   "end": 170.04,
+   "text": "You may feel like the life has been drained from you",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.251,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 171.34,
+   "end": 173.16,
+   "text": "But the Lord is not finished",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.251,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 174.48,
+   "end": 175.72,
+   "text": "He is the shepherd",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.251,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 176.86,
+   "end": 178.34,
+   "text": "And you are His sheep",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.251,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 179.64,
+   "end": 182.98,
+   "text": "And He has not forgotten where you are",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.251,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 182.98,
+   "end": 191.12,
+   "text": "He restores your soul",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.682,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 192.98,
+   "end": 199.66,
+   "text": "He restores, He restores my weary soul",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.682,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 199.66,
+   "end": 209.92,
+   "text": "My weary soul, my weary soul leads me on",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.682,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 209.92,
+   "end": 212.5,
+   "text": "This side still waters",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.124,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 219.92,
+   "end": 231.0,
+   "text": "He restored my soul",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.124,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 231.92,
+   "end": 234.08,
+   "text": "In paths of righteousness",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.124,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 234.92,
+   "end": 237.06,
+   "text": "He leads me by His name",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.124,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 239.04,
+   "end": 249.76,
+   "text": "He restored my soul",
+   "avg_logprob": -0.591,
+   "no_speech_prob": 0.623,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 261.4,
+   "end": 267.04,
+   "text": "He restored my soul",
+   "avg_logprob": -0.591,
+   "no_speech_prob": 0.623,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 267.04,
+   "end": 268.74,
+   "text": "My soul",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.053,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 276.62,
+   "end": 278.76,
+   "text": "The Lord is my shepherd",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.053,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 280.36,
+   "end": 281.94,
+   "text": "I shall not want",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.053,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 283.46,
+   "end": 284.72,
+   "text": "Fear thou not",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.053,
+   "track_id": "2y2CcCzAtyM#13"
+  },
+  {
+   "start": 286.64,
+   "end": 287.58,
+   "text": "For I am with thee",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.053,
+   "track_id": "2y2CcCzAtyM#13"
+  }
+ ]
+}

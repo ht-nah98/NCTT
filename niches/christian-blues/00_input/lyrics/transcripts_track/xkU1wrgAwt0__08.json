@@ -1,0 +1,166 @@
+{
+ "track_id": "xkU1wrgAwt0#08",
+ "track_key": "xkU1wrgAwt0__08",
+ "video_id": "xkU1wrgAwt0",
+ "title": "8. Psalm 139 – Known and Carried",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 200.0,
+ "voiced_sec": 139.4,
+ "voice_ratio": 0.697,
+ "n_words": 154,
+ "words_per_min": 46.2,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.9,
+ "rtf": 0.06,
+ "segments": [
+  {
+   "start": 10.82,
+   "end": 17.56,
+   "text": "You search me Lord and you know me well",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.262,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 20.92,
+   "end": 27.56,
+   "text": "Every word I speak you can't foretell",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.373,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 30.56,
+   "end": 35.54,
+   "text": "You hem me in behind before",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.373,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 39.4,
+   "end": 45.24,
+   "text": "Your hand still leads me to the shore",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.686,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 48.32,
+   "end": 55.24,
+   "text": "Where can I go where you're not near?",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.686,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 56.42,
+   "end": 60.54,
+   "text": "From highest heights to valleys clear",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.686,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 60.54,
+   "end": 66.74,
+   "text": "Even in darkness you see bright",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.465,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 67.54,
+   "end": 74.42,
+   "text": "You carry me through day and night",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.465,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 79.4,
+   "end": 86.4,
+   "text": "You formed my frame in secret ways",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.465,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 90.54,
+   "end": 96.7,
+   "text": "Wrote all my days before my days",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.05,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 99.54,
+   "end": 106.2,
+   "text": "I praise You, Lord, for I'm fearfully made",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.05,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 109.54,
+   "end": 115.68,
+   "text": "By hands of love that never fade",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.05,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 117.4,
+   "end": 130.34,
+   "text": "Your thoughts about me, they overflow More than the sand, more than I know",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 130.34,
+   "end": 145.68,
+   "text": "If I should rise on morning's way You'd still be there, my everything",
+   "avg_logprob": -0.497,
+   "no_speech_prob": 0.562,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 149.44,
+   "end": 161.86,
+   "text": "Where can I go where you're not near From highest heights to valleys clear",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.61,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 161.86,
+   "end": 174.86,
+   "text": "Even in darkness you see bright You carry me through day and night",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.453,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 177.84,
+   "end": 184.2,
+   "text": "Search me God and know my heart",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.366,
+   "track_id": "xkU1wrgAwt0#08"
+  },
+  {
+   "start": 184.86,
+   "end": 189.94,
+   "text": "Guide me in ways that won't depart",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.366,
+   "track_id": "xkU1wrgAwt0#08"
+  }
+ ]
+}

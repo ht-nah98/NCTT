@@ -1,0 +1,150 @@
+{
+ "track_id": "_ycC4y-4sYo#07",
+ "track_key": "_ycC4y-4sYo__07",
+ "video_id": "_ycC4y-4sYo",
+ "title": "Blessed Assurance",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 226.0,
+ "voiced_sec": 134.4,
+ "voice_ratio": 0.595,
+ "n_words": 110,
+ "words_per_min": 29.2,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 17.4,
+ "rtf": 0.077,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.22,
+   "text": "me in a plain path because of my enemies.",
+   "avg_logprob": -0.666,
+   "no_speech_prob": 0.536,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 10.92,
+   "end": 12.32,
+   "text": "Praise.",
+   "avg_logprob": -1.648,
+   "no_speech_prob": 0.586,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 16.0,
+   "end": 18.8,
+   "text": "Blessed assurance.",
+   "avg_logprob": -1.648,
+   "no_speech_prob": 0.586,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 22.7,
+   "end": 25.86,
+   "text": "Jesus' mind.",
+   "avg_logprob": -1.648,
+   "no_speech_prob": 0.586,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 29.12,
+   "end": 38.22,
+   "text": "Oh what a foretaste of glory divine.",
+   "avg_logprob": -0.537,
+   "no_speech_prob": 0.656,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 41.44,
+   "end": 62.2,
+   "text": "Hair of salvation, purchase of God, born of His Spirit, washed in His blood.",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.64,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 65.54,
+   "end": 69.84,
+   "text": "This is my story.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 71.18,
+   "end": 74.22,
+   "text": "This is my song.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 76.84,
+   "end": 83.4,
+   "text": "Praising my Savior all the day long.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 87.48,
+   "end": 89.38,
+   "text": "This is my story.",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.757,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 89.38,
+   "end": 105.38,
+   "text": "This is my song, praising my Savior all the day long.",
+   "avg_logprob": -0.586,
+   "no_speech_prob": 0.482,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 105.78,
+   "end": 121.58,
+   "text": "long. Perfect submission, perfect delight.",
+   "avg_logprob": -0.729,
+   "no_speech_prob": 0.749,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 123.64,
+   "end": 146.04,
+   "text": "visions of rapture now burst on my sight angels descending bring from above echoes of mercy",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.734,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 146.04,
+   "end": 151.86,
+   "text": "see whispers of love.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.754,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 155.04,
+   "end": 171.8,
+   "text": "Nor hide nor death nor any other creature shall be able to separate us from the love of God.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.754,
+   "track_id": "_ycC4y-4sYo#07"
+  },
+  {
+   "start": 204.06,
+   "end": 205.46,
+   "text": "You",
+   "avg_logprob": -0.965,
+   "no_speech_prob": 0.477,
+   "track_id": "_ycC4y-4sYo#07"
+  }
+ ]
+}

@@ -1,0 +1,296 @@
+{
+  "n_total": 6794,
+  "n_noise": 381,
+  "n_analyzed": 6413,
+  "age": {
+    "n": 82,
+    "median": 70.0,
+    "mean": 64.85365853658537,
+    "min": 14,
+    "max": 94,
+    "dist": {
+      "13-29": 8,
+      "30-44": 4,
+      "45-59": 6,
+      "60-74": 42,
+      "75+": 22
+    }
+  },
+  "attributes": {
+    "retired": {
+      "n": 1,
+      "pct": 0.01559332605644784
+    },
+    "musician": {
+      "n": 4,
+      "pct": 0.06237330422579136
+    },
+    "trucker": {
+      "n": 2,
+      "pct": 0.03118665211289568
+    },
+    "veteran": {
+      "n": 1,
+      "pct": 0.01559332605644784
+    },
+    "disabled": {
+      "n": 1,
+      "pct": 0.01559332605644784
+    },
+    "nurse_care": {
+      "n": 2,
+      "pct": 0.03118665211289568
+    },
+    "widow": {
+      "n": 5,
+      "pct": 0.0779666302822392
+    },
+    "recovery": {
+      "n": 31,
+      "pct": 0.4833931077498831
+    },
+    "new_convert": {
+      "n": 17,
+      "pct": 0.2650865429596133
+    },
+    "longtime_faith": {
+      "n": 2,
+      "pct": 0.03118665211289568
+    }
+  },
+  "pain": {
+    "finally": {
+      "n": 58,
+      "pct": 0.9044129112739748,
+      "med_likes": 26.5
+    },
+    "cant_stand": {
+      "n": 16,
+      "pct": 0.24949321690316545,
+      "med_likes": 5.5
+    },
+    "never_heard": {
+      "n": 55,
+      "pct": 0.8576329331046313,
+      "med_likes": 25.0
+    },
+    "struggling": {
+      "n": 110,
+      "pct": 1.7152658662092626,
+      "med_likes": 5.0
+    },
+    "better_than": {
+      "n": 33,
+      "pct": 0.5145797598627788,
+      "med_likes": 5.0
+    },
+    "healing": {
+      "n": 757,
+      "pct": 11.804147824731015,
+      "med_likes": 3.0
+    }
+  },
+  "context": {
+    "driving": {
+      "n": 35,
+      "pct": 0.5457664119756744
+    },
+    "housework": {
+      "n": 30,
+      "pct": 0.4677997816934352
+    },
+    "work": {
+      "n": 25,
+      "pct": 0.389833151411196
+    },
+    "sleep_night": {
+      "n": 24,
+      "pct": 0.37423982535474815
+    },
+    "prayer_devo": {
+      "n": 868,
+      "pct": 13.535007016996726
+    },
+    "morning": {
+      "n": 267,
+      "pct": 4.163418057071573
+    },
+    "sick_hosp": {
+      "n": 105,
+      "pct": 1.637299235927023
+    },
+    "grief": {
+      "n": 70,
+      "pct": 1.0915328239513489
+    }
+  },
+  "discovery": {
+    "algorithm": {
+      "n": 83,
+      "pct": 1.2942460626851706
+    },
+    "searched": {
+      "n": 12,
+      "pct": 0.18711991267737407
+    },
+    "shared": {
+      "n": 17,
+      "pct": 0.2650865429596133
+    },
+    "subscribed": {
+      "n": 20,
+      "pct": 0.3118665211289568
+    },
+    "repeat": {
+      "n": 114,
+      "pct": 1.7776391704350538
+    }
+  },
+  "vocab_top": {
+    "god": 4438,
+    "thank": 3062,
+    "lord": 2351,
+    "jesus": 2298,
+    "amen": 2233,
+    "love": 1946,
+    "music": 1821,
+    "our": 1126,
+    "heart": 1038,
+    "beautiful": 970,
+    "bless": 960,
+    "song": 911,
+    "soul": 875,
+    "him": 853,
+    "name": 789,
+    "every": 785,
+    "praise": 781,
+    "christ": 778,
+    "life": 774,
+    "worship": 765,
+    "know": 760,
+    "peace": 752,
+    "like": 733,
+    "through": 726,
+    "blues": 715,
+    "glory": 713,
+    "father": 712,
+    "songs": 696,
+    "spirit": 656,
+    "these": 645,
+    "much": 615,
+    "hallelujah": 589,
+    "keep": 556,
+    "always": 556,
+    "day": 553,
+    "still": 535,
+    "holy": 533,
+    "good": 530,
+    "i'm": 528,
+    "gospel": 528
+  },
+  "personas": {
+    "p_elder": {
+      "n": 70,
+      "pct": 1.0915328239513489,
+      "med_likes": 23.5
+    },
+    "p_music": {
+      "n": 4,
+      "pct": 0.06237330422579136,
+      "med_likes": 106.5
+    },
+    "p_healing": {
+      "n": 967,
+      "pct": 15.078746296585061,
+      "med_likes": 4.0
+    },
+    "p_convert": {
+      "n": 33,
+      "pct": 0.5145797598627788,
+      "med_likes": 8.0
+    }
+  },
+  "baseline_likes": 4.0,
+  "signal_tests": [
+    {
+      "signal": "p_music",
+      "n": 4,
+      "like_median": 106.5,
+      "vs_baseline": 26.625,
+      "p": 0.023671187328613726,
+      "verdict": "Y\u1ebeU"
+    },
+    {
+      "signal": "finally",
+      "n": 58,
+      "like_median": 26.5,
+      "vs_baseline": 6.625,
+      "p": 7.211084181776916e-11,
+      "verdict": "X\u00c1C NH\u1eacN"
+    },
+    {
+      "signal": "never_heard",
+      "n": 55,
+      "like_median": 25.0,
+      "vs_baseline": 6.25,
+      "p": 2.360899156303784e-09,
+      "verdict": "X\u00c1C NH\u1eacN"
+    },
+    {
+      "signal": "p_elder",
+      "n": 70,
+      "like_median": 23.5,
+      "vs_baseline": 5.875,
+      "p": 9.947562341832085e-08,
+      "verdict": "X\u00c1C NH\u1eacN"
+    },
+    {
+      "signal": "p_convert",
+      "n": 33,
+      "like_median": 8.0,
+      "vs_baseline": 2.0,
+      "p": 0.009710256111227054,
+      "verdict": "Y\u1ebeU"
+    },
+    {
+      "signal": "cant_stand",
+      "n": 16,
+      "like_median": 5.5,
+      "vs_baseline": 1.375,
+      "p": 0.21549514193146307,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "signal": "better_than",
+      "n": 33,
+      "like_median": 5.0,
+      "vs_baseline": 1.25,
+      "p": 0.0758120612284453,
+      "verdict": "B\u00c1C B\u1ece"
+    },
+    {
+      "signal": "struggling",
+      "n": 110,
+      "like_median": 5.0,
+      "vs_baseline": 1.25,
+      "p": 0.02726423100932595,
+      "verdict": "Y\u1ebeU"
+    },
+    {
+      "signal": "p_healing",
+      "n": 967,
+      "like_median": 4.0,
+      "vs_baseline": 1.0,
+      "p": 0.04261330791853399,
+      "verdict": "Y\u1ebeU"
+    },
+    {
+      "signal": "healing",
+      "n": 757,
+      "like_median": 3.0,
+      "vs_baseline": 0.75,
+      "p": 0.5257430333662012,
+      "verdict": "B\u00c1C B\u1ece"
+    }
+  ]
+}

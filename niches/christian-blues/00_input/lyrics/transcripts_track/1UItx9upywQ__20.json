@@ -1,0 +1,150 @@
+{
+ "track_id": "1UItx9upywQ#20",
+ "track_key": "1UItx9upywQ__20",
+ "video_id": "1UItx9upywQ",
+ "title": "\"The Fool Says in His Heart\" - Psalm 14",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 220.0,
+ "voiced_sec": 126.5,
+ "voice_ratio": 0.575,
+ "n_words": 137,
+ "words_per_min": 37.4,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 15,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.5,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 30.94,
+   "end": 37.34,
+   "text": "Fool says in his heart, there's no God at all",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.574,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 39.2,
+   "end": 46.18,
+   "text": "Walking blind through the Alice, heading for a fall",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.574,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 46.18,
+   "end": 53.68,
+   "text": "His pocket's full of nothing, his shadow stands tall",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.574,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 53.68,
+   "end": 67.94,
+   "text": "All the fool says, the fool says, the fool says in his heart",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.547,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 70.16,
+   "end": 94.22,
+   "text": "No God, no God, just tear himself apart Counting coins in the dark, but the well runs dry",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.693,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 95.4,
+   "end": 101.62,
+   "text": "Promise says to the moon Never touch the sky",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.54,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 102.96,
+   "end": 109.7,
+   "text": "He laughs at the heavens But the jokes is lie",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.54,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 111.28,
+   "end": 118.72,
+   "text": "Wisdom whispers, streets cry loud Eyes look up, lost in the crowd",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.54,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 118.72,
+   "end": 132.16,
+   "text": "The fool says, the fool says, the fool says in his heart",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.327,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 133.76,
+   "end": 147.34,
+   "text": "No God, no God, just hand himself apart",
+   "avg_logprob": -0.703,
+   "no_speech_prob": 0.565,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 164.6,
+   "end": 166.0,
+   "text": "Music",
+   "avg_logprob": -0.877,
+   "no_speech_prob": 0.404,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 182.16,
+   "end": 184.6,
+   "text": "Slide guitar moans",
+   "avg_logprob": -0.877,
+   "no_speech_prob": 0.404,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 186.16,
+   "end": 187.98,
+   "text": "on none of my whales",
+   "avg_logprob": -0.877,
+   "no_speech_prob": 0.404,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 187.98,
+   "end": 196.74,
+   "text": "Truth walks the tracks No room for fairy tales",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.488,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 197.98,
+   "end": 203.42,
+   "text": "Dust on his boots Heavy as jailhouse nails",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.488,
+   "track_id": "1UItx9upywQ#20"
+  },
+  {
+   "start": 217.98,
+   "end": 218.56,
+   "text": "you",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.867,
+   "track_id": "1UItx9upywQ#20"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "track_id": "xkU1wrgAwt0#07",
+ "track_key": "xkU1wrgAwt0__07",
+ "video_id": "xkU1wrgAwt0",
+ "title": "7. Psalm 13 – How Long, O Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 199.0,
+ "voiced_sec": 141.5,
+ "voice_ratio": 0.711,
+ "n_words": 154,
+ "words_per_min": 46.4,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.6,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 20.26,
+   "end": 27.72,
+   "text": "I've been searching night and day for grace",
+   "avg_logprob": -0.79,
+   "no_speech_prob": 0.528,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 27.72,
+   "end": 41.14,
+   "text": "Sorrow in my heart, tears in my bed Enemies laughing, thinking I'm dead",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.622,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 42.72,
+   "end": 55.82,
+   "text": "But I will trust in your unfailing love Though I'm down low, you lift me above",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.622,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 55.82,
+   "end": 71.5,
+   "text": "My heart will sing, yes I still rejoice Even in silence I hear your voice",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.638,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 78.1,
+   "end": 84.88,
+   "text": "How long must I wrestle with this pain?",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.625,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 86.06,
+   "end": 92.58,
+   "text": "Feeling forgotten in the pouring rain?",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.625,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 92.58,
+   "end": 99.28,
+   "text": "Eyes grow weary, soul feels torn",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.578,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 100.58,
+   "end": 106.5,
+   "text": "Still I remember why I was born",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.578,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 107.58,
+   "end": 114.74,
+   "text": "Look on me, Lord, give light to my eyes",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.578,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 114.74,
+   "end": 128.34,
+   "text": "Don't let death be my last disguise Let them not say he's lost the fight",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.528,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 129.74,
+   "end": 143.46,
+   "text": "I'll rise again in mercy's light But I will trust in your unfailing love",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.528,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 143.46,
+   "end": 149.52,
+   "text": "Though I'm down low, you lift me above",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 150.46,
+   "end": 157.48,
+   "text": "My heart will sing, yes I still rejoice",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 158.46,
+   "end": 164.36,
+   "text": "Even in silence I hear your voice",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 165.46,
+   "end": 171.68,
+   "text": "I will praise you for all you've done",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07"
+  },
+  {
+   "start": 171.68,
+   "end": 177.92,
+   "text": "Even in blues the battles won",
+   "avg_logprob": -0.518,
+   "no_speech_prob": 0.662,
+   "track_id": "xkU1wrgAwt0#07"
+  }
+ ]
+}

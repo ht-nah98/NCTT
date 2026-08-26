@@ -1,0 +1,438 @@
+{
+ "track_id": "5n1cYN-yDmo#13",
+ "track_key": "5n1cYN-yDmo__13",
+ "video_id": "5n1cYN-yDmo",
+ "title": "Part 2: Never Would Have Made It Without Your Grace, Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 240.7,
+ "voiced_sec": 186.2,
+ "voice_ratio": 0.774,
+ "n_words": 322,
+ "words_per_min": 80.3,
+ "is_instrumental": false,
+ "n_segments": 52,
+ "n_segments_voiced": 51,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 27.0,
+ "rtf": 0.112,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.34,
+   "text": "I remember the nights I felt all alone",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 7.0,
+   "end": 12.74,
+   "text": "No hate to hold No place called home",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 12.74,
+   "end": 18.94,
+   "text": "The weight of the world Get pressed on my soul",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 18.94,
+   "end": 24.82,
+   "text": "But you lifted me up You made me whole",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.821,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 24.82,
+   "end": 27.98,
+   "text": "When the storms came crashing down",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 27.98,
+   "end": 31.28,
+   "text": "When my faith was barely found",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 31.28,
+   "end": 33.82,
+   "text": "I felt your love surround me",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 34.52,
+   "end": 37.0,
+   "text": "And set my spirit free",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 37.0,
+   "end": 40.62,
+   "text": "I never would have made it",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 40.62,
+   "end": 43.62,
+   "text": "Without your grace, boy",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 43.62,
+   "end": 46.06,
+   "text": "I never would have stood",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 46.82,
+   "end": 49.26,
+   "text": "If you hadn't held me strong",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 49.82,
+   "end": 52.62,
+   "text": "Through every trial, every heartache",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.644,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 52.62,
+   "end": 56.08,
+   "text": "Every pain, and Your mercy carried me",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 56.08,
+   "end": 58.62,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 59.22,
+   "end": 62.0,
+   "text": "No, I never would've made it",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 62.0,
+   "end": 67.38,
+   "text": "Without Your grace, Lord",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 68.44,
+   "end": 70.96,
+   "text": "Every tear I cried",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 71.92,
+   "end": 73.62,
+   "text": "You saw that You knew",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 75.02,
+   "end": 77.48,
+   "text": "Every fear I faced",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 77.48,
+   "end": 79.7,
+   "text": "You carried me through",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.47,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 79.7,
+   "end": 86.24,
+   "text": "Even when I stumbled, I lost my way",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 86.24,
+   "end": 91.9,
+   "text": "Your light kept shining, you never went away",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 92.7,
+   "end": 95.62,
+   "text": "When the night seemed endless and cold",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 95.62,
+   "end": 99.0,
+   "text": "When I felt my story untold",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 99.0,
+   "end": 101.76,
+   "text": "I felt your hand upon me",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 101.76,
+   "end": 105.7,
+   "text": "And you said my spirit breathed",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.795,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 105.7,
+   "end": 110.14,
+   "text": "I would have made, made my love please",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 110.14,
+   "end": 114.0,
+   "text": "I would have stood again",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 114.0,
+   "end": 116.28,
+   "text": "You hadn't held me strong",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 116.28,
+   "end": 119.76,
+   "text": "Through every trial, every heartache",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 119.76,
+   "end": 123.12,
+   "text": "Every pain, Your mercy carried me",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 123.12,
+   "end": 125.62,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 126.7,
+   "end": 128.82,
+   "text": "No one ever would have made it",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 129.7,
+   "end": 131.64,
+   "text": "Without Your grace",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 136.1,
+   "end": 140.68,
+   "text": "Hallelujah, hallelujah, hallelujah, hallelujah",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 140.68,
+   "end": 146.4,
+   "text": "You, you lifted me, yeah, hallelujah, hallelujah",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 146.4,
+   "end": 151.64,
+   "text": "Your love set me free, hallelujah, hallelujah, hallelujah",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 155.56,
+   "end": 160.9,
+   "text": "Oh love, your grace is amazing, it's my soul",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 160.9,
+   "end": 166.3,
+   "text": "Hallelujah, oh, I praise your name forever on my life long",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 166.3,
+   "end": 170.0,
+   "text": "Hallelujah, oh, Hallelujah",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 170.0,
+   "end": 173.38,
+   "text": "Never would have made it, Hallelujah",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 173.38,
+   "end": 175.44,
+   "text": "Never would have raised it",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 175.44,
+   "end": 179.88,
+   "text": "Hallelujah, yeah, yeah, yeah",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 179.88,
+   "end": 181.98,
+   "text": "You are the graceful",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 181.98,
+   "end": 187.92,
+   "text": "No, I never would have stood if you hadn't held me strong",
+   "avg_logprob": -0.5,
+   "no_speech_prob": 0.837,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 187.92,
+   "end": 197.88,
+   "text": "Through every trial, every heartache, every pain, your security, I'll never be the same",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.867,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 209.96,
+   "end": 213.46,
+   "text": "I never would have made it",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 213.46,
+   "end": 216.78,
+   "text": "I never would have made it",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 216.78,
+   "end": 217.04,
+   "text": "Never would have made it",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 217.04,
+   "end": 220.52,
+   "text": "Without your grace, Lord",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.812,
+   "track_id": "5n1cYN-yDmo#13"
+  },
+  {
+   "start": 222.02,
+   "end": 227.6,
+   "text": "Forever a sing of Your grace",
+   "avg_logprob": -0.859,
+   "no_speech_prob": 0.549,
+   "track_id": "5n1cYN-yDmo#13"
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "track_id": "btdznddpirc#01",
+ "track_key": "btdznddpirc__01",
+ "video_id": "btdznddpirc",
+ "title": "1. The Potter's Hands",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 169.0,
+ "voiced_sec": 84.7,
+ "voice_ratio": 0.501,
+ "n_words": 159,
+ "words_per_min": 56.5,
+ "is_instrumental": false,
+ "n_segments": 20,
+ "n_segments_voiced": 20,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 7.6,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.5,
+   "text": "🎵",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.395,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 16.66,
+   "end": 19.88,
+   "text": "Storm clouds rolling on the midnight sea",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.395,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 21.6,
+   "end": 25.5,
+   "text": "Waves hitting hard trying to swallow me",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.395,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 27.86,
+   "end": 37.06,
+   "text": "And I saw shadow walking calm and free Said take courage, my child it's me",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.6,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 38.62,
+   "end": 47.88,
+   "text": "I got that walking on the water blues Faith keeps me steady in my worn out shoes",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.6,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 49.18,
+   "end": 55.3,
+   "text": "Storm still raging, but my eyes are on you",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.488,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 55.3,
+   "end": 59.62,
+   "text": "Yeah, I'm walking on the water with the blue",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.488,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 72.44,
+   "end": 75.54,
+   "text": "Peter stepped out, heart pounding loud",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.488,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 77.58,
+   "end": 81.4,
+   "text": "Feet on the deep, fall from the crowd",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.656,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 83.8,
+   "end": 87.38,
+   "text": "When God fears he began to sing",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.656,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 88.72,
+   "end": 92.54,
+   "text": "Jesus grabbed his hand, said, boy just think",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.656,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 94.56,
+   "end": 98.76,
+   "text": "Watch it out, Lord I was blind",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.656,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 98.76,
+   "end": 101.46,
+   "text": "Just keep your eyes on me",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.656,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 101.46,
+   "end": 104.18,
+   "text": "And I leave that fear behind",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.65,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 105.04,
+   "end": 109.08,
+   "text": "I got that walking on the water blue",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.65,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 110.6,
+   "end": 114.74,
+   "text": "Faith keeps me steady in my worn out shoe",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.65,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 116.54,
+   "end": 118.62,
+   "text": "Storms still raging",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.65,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 119.46,
+   "end": 122.22,
+   "text": "But my eyes are on you",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.65,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 122.22,
+   "end": 126.34,
+   "text": "Yeah, I'm walking on the water with the blue",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.65,
+   "track_id": "btdznddpirc#01"
+  },
+  {
+   "start": 161.86,
+   "end": 168.96,
+   "text": "When may I, ways may rise, but I'm walking with you",
+   "avg_logprob": -0.721,
+   "no_speech_prob": 0.725,
+   "track_id": "btdznddpirc#01"
+  }
+ ]
+}

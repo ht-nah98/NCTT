@@ -1,0 +1,166 @@
+{
+ "track_id": "1UItx9upywQ#16",
+ "track_key": "1UItx9upywQ__16",
+ "video_id": "1UItx9upywQ",
+ "title": "\"The Lord Reigns\" - Psalm 97",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 132.0,
+ "voiced_sec": 99.5,
+ "voice_ratio": 0.754,
+ "n_words": 119,
+ "words_per_min": 54.1,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 47.7,
+ "rtf": 0.361,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 10.84,
+   "text": "Oh oh, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm.",
+   "avg_logprob": -0.78,
+   "no_speech_prob": 0.22,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 12.14,
+   "end": 15.3,
+   "text": "The earth shakes on the heavy sky.",
+   "avg_logprob": -0.78,
+   "no_speech_prob": 0.22,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 18.96,
+   "end": 21.64,
+   "text": "Mountains bow where its glory lies.",
+   "avg_logprob": -0.78,
+   "no_speech_prob": 0.22,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 21.64,
+   "end": 27.82,
+   "text": "Ooh, rivers roar but it can't deny",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.384,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 30.64,
+   "end": 33.62,
+   "text": "Lord reigns, let the nations tremble",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.384,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 33.62,
+   "end": 36.6,
+   "text": "Lord reigns, power's unending",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.384,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 36.6,
+   "end": 40.26,
+   "text": "Lord reigns, hear the heavens rumble",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.384,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 40.26,
+   "end": 49.44,
+   "text": "Ooh, kings rise up with their brittle pride",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.384,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 49.44,
+   "end": 56.1,
+   "text": "Ooh, cast their crowns, but they can't hide",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.677,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 56.1,
+   "end": 61.96,
+   "text": "Ooh, every knee bends when he decides",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.677,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 61.96,
+   "end": 71.64,
+   "text": "Ooh, ooh, thunder rolls, his voice breaks through",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.677,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 71.64,
+   "end": 74.74,
+   "text": "Just as flows like morning dew",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.677,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 76.74,
+   "end": 80.36,
+   "text": "Lord reigns, let the nations tremble",
+   "avg_logprob": -0.559,
+   "no_speech_prob": 0.541,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 80.36,
+   "end": 85.2,
+   "text": "His powers unending, Lord reigns",
+   "avg_logprob": -0.559,
+   "no_speech_prob": 0.541,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 85.2,
+   "end": 87.26,
+   "text": "Hear the Heaven rumble",
+   "avg_logprob": -0.559,
+   "no_speech_prob": 0.541,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 104.74,
+   "end": 114.3,
+   "text": "O-O-O, O-O-O, O-O-O, O-o-O, O-o-o-o",
+   "avg_logprob": -0.894,
+   "no_speech_prob": 0.213,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 115.44,
+   "end": 121.74,
+   "text": "Holy fire burning bright shadows scattered from his light",
+   "avg_logprob": -0.894,
+   "no_speech_prob": 0.213,
+   "track_id": "1UItx9upywQ#16"
+  },
+  {
+   "start": 121.74,
+   "end": 127.92,
+   "text": "Lion's roar, tears of night",
+   "avg_logprob": -0.894,
+   "no_speech_prob": 0.213,
+   "track_id": "1UItx9upywQ#16"
+  }
+ ]
+}

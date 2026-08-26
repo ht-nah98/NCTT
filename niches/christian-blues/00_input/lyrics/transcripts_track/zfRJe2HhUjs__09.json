@@ -1,0 +1,406 @@
+{
+ "track_id": "zfRJe2HhUjs#09",
+ "track_key": "zfRJe2HhUjs__09",
+ "video_id": "zfRJe2HhUjs",
+ "title": "Mercy Cry (Psalm 51)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 382.6,
+ "voiced_sec": 298.9,
+ "voice_ratio": 0.781,
+ "n_words": 323,
+ "words_per_min": 50.7,
+ "is_instrumental": false,
+ "n_segments": 48,
+ "n_segments_voiced": 48,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 19.0,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 14.42,
+   "end": 21.32,
+   "text": "Have mercy on me, Lord I'm crying out",
+   "avg_logprob": -0.615,
+   "no_speech_prob": 0.534,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 21.32,
+   "end": 28.78,
+   "text": "Oh, have mercy on me I'm crying out",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.36,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 28.78,
+   "end": 36.44,
+   "text": "My sin is heavy Weighing down my soul",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.36,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 37.32,
+   "end": 43.14,
+   "text": "Wash me clean And make me whole",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.36,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 44.56,
+   "end": 51.22,
+   "text": "Lord, wash me clean and make me whole",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 51.22,
+   "end": 58.52,
+   "text": "Against you only, Lord have I done wrong",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 60.04,
+   "end": 66.8,
+   "text": "Against you only, have I done so wrong",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 66.8,
+   "end": 81.46,
+   "text": "You're justified when you speak your truth I've been a sinner since my youth",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.671,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 81.46,
+   "end": 89.8,
+   "text": "Been running from you since my youth",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.671,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 89.8,
+   "end": 104.34,
+   "text": "created me a clean heart oh God created me a clean heart I'm flawed",
+   "avg_logprob": -0.547,
+   "no_speech_prob": 0.437,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 104.34,
+   "end": 120.16,
+   "text": "Don't cast me out from where you are Restore the joy that's been so far",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.726,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 120.16,
+   "end": 127.74,
+   "text": "Oh bring me back to where you are",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.726,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 139.72,
+   "end": 153.46,
+   "text": "My broken spirit is all I bring This broken spirit is everything",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.558,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 153.46,
+   "end": 161.98,
+   "text": "A country at heart, you won't turn away",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.742,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 161.98,
+   "end": 168.88,
+   "text": "That's all I got, Lord, here today",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.742,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 170.28,
+   "end": 176.72,
+   "text": "My brokenness is all I lay",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.742,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 178.52,
+   "end": 180.84,
+   "text": "Lord, I've been running",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 180.84,
+   "end": 182.76,
+   "text": "Bring me home",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 182.76,
+   "end": 184.78,
+   "text": "My heart's been hiding",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 184.78,
+   "end": 186.62,
+   "text": "Make me home",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 186.62,
+   "end": 188.66,
+   "text": "These tears I'm crying",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 188.66,
+   "end": 190.36,
+   "text": "Already know",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 190.36,
+   "end": 192.62,
+   "text": "The soul needs reviving",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 192.62,
+   "end": 194.18,
+   "text": "Mercy flow",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 194.72,
+   "end": 196.48,
+   "text": "Restore to me the joy",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 196.48,
+   "end": 200.32,
+   "text": "The joy of Your salvation",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.662,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 200.32,
+   "end": 204.86,
+   "text": "Make me new",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.771,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 210.32,
+   "end": 215.3,
+   "text": "Created me a clean heart, oh God",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.771,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 215.3,
+   "end": 217.62,
+   "text": "A new heart",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.771,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 217.62,
+   "end": 223.32,
+   "text": "Created me a clean heart, I'm flowed",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.771,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 223.84,
+   "end": 225.32,
+   "text": "So flowed",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.771,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 225.32,
+   "end": 230.98,
+   "text": "Don't cast me out from where you are",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.488,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 232.32,
+   "end": 238.5,
+   "text": "Restore the joy that's been so far",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.488,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 238.5,
+   "end": 240.04,
+   "text": "Bring it back",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.488,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 240.04,
+   "end": 245.86,
+   "text": "Oh bring me back to where you are",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.488,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 247.48,
+   "end": 253.62,
+   "text": "Open up my lips and I will praise",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.442,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 255.86,
+   "end": 261.22,
+   "text": "Open up my lips for all my days",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.442,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 262.86,
+   "end": 268.96,
+   "text": "You don't want sacrifice, you want this heart",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.442,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 268.96,
+   "end": 276.68,
+   "text": "So here's my broken, contrite part.",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.577,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 277.74,
+   "end": 283.92,
+   "text": "Take every piece, every part.",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.577,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 289.5,
+   "end": 305.14,
+   "text": "Oh God, created me a clean heart, oh God, created me a clean heart, I'm flowed, oh",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.681,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 305.14,
+   "end": 310.62,
+   "text": "Don't pass me out from where you are",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.475,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 312.14,
+   "end": 318.16,
+   "text": "Store the joy that's been so far",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.475,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 318.16,
+   "end": 329.78,
+   "text": "Bring me back to where you are",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.475,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 329.78,
+   "end": 333.04,
+   "text": "Have mercy on me",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.638,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 333.04,
+   "end": 340.26,
+   "text": "Have mercy on me",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.638,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 346.3,
+   "end": 353.06,
+   "text": "Broken heart, you won't despise",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.638,
+   "track_id": "zfRJe2HhUjs#09"
+  },
+  {
+   "start": 353.06,
+   "end": 359.92,
+   "text": "You has broken all my sacrifice",
+   "avg_logprob": -0.694,
+   "no_speech_prob": 0.095,
+   "track_id": "zfRJe2HhUjs#09"
+  }
+ ]
+}

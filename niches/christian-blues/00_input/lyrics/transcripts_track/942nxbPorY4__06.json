@@ -1,0 +1,342 @@
+{
+ "track_id": "942nxbPorY4#06",
+ "track_key": "942nxbPorY4__06",
+ "video_id": "942nxbPorY4",
+ "title": "I Follow You Jesus",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 272.0,
+ "voiced_sec": 209.7,
+ "voice_ratio": 0.771,
+ "n_words": 258,
+ "words_per_min": 56.9,
+ "is_instrumental": false,
+ "n_segments": 40,
+ "n_segments_voiced": 40,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.6,
+ "rtf": 0.043,
+ "segments": [
+  {
+   "start": 17.86,
+   "end": 25.46,
+   "text": "When the road is dark and the night is long,",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.45,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 25.46,
+   "end": 28.94,
+   "text": "I hear your voice, Lord.",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.734,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 30.46,
+   "end": 32.32,
+   "text": "It keeps me strong.",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.734,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 33.9,
+   "end": 39.14,
+   "text": "Through the fire, through the pain, you held my hand.",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.734,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 40.02,
+   "end": 41.72,
+   "text": "Through every strain.",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.734,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 45.82,
+   "end": 48.48,
+   "text": "I follow you, Jesus.",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.734,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 49.1,
+   "end": 55.32,
+   "text": "Wherever you lead, your love is my companion.",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.734,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 55.32,
+   "end": 58.52,
+   "text": "Yes, you're all that I need",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.577,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 61.32,
+   "end": 64.2,
+   "text": "Through the storm, through the rain",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.577,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 64.2,
+   "end": 70.3,
+   "text": "I'll carry my cross in your holy name",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.577,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 75.04,
+   "end": 80.8,
+   "text": "You walk that hill or a crown of thorns",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.577,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 80.8,
+   "end": 91.46,
+   "text": "So I could rise, be reborn Now every tear, every scar",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.558,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 91.46,
+   "end": 106.58,
+   "text": "Reminds me just how faithful you are I once so wondered in shadows",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.558,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 108.14,
+   "end": 121.1,
+   "text": "Chasing voices not my own But grace found me in the silence",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.715,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 121.1,
+   "end": 132.46,
+   "text": "Where the light of heaven shone Now each step I take",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.715,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 132.46,
+   "end": 135.2,
+   "text": "Is a prayer in motion",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 136.46,
+   "end": 141.76,
+   "text": "Each breath, the song, each heartbeat, a devotion",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 147.1,
+   "end": 149.56,
+   "text": "I'll never look back",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 150.46,
+   "end": 153.36,
+   "text": "I've made my choice",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 154.46,
+   "end": 157.0,
+   "text": "To follow your truth",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 157.0,
+   "end": 160.52,
+   "text": "To hear your voice",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 160.52,
+   "end": 167.18,
+   "text": "In the valley or on the mountain high",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.486,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 167.18,
+   "end": 171.4,
+   "text": "You're the reason I live",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.486,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 171.4,
+   "end": 174.8,
+   "text": "You're the reason why",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.486,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 177.56,
+   "end": 180.36,
+   "text": "Oh Jesus",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.486,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 180.36,
+   "end": 183.34,
+   "text": "Forever I'm yours",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.486,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 183.34,
+   "end": 193.88,
+   "text": "Yes, Lord, I follow You, Jesus, with all of my soul.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.658,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 195.1,
+   "end": 200.82,
+   "text": "Your mercy and grace, they've made me whole.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.658,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 202.34,
+   "end": 207.28,
+   "text": "Enjoy Your insirro in peace or in pain.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.658,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 207.28,
+   "end": 214.48,
+   "text": "I'll follow you Jesus again and again",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.691,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 214.48,
+   "end": 221.32,
+   "text": "I'll follow you Jesus with all of my soul",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.691,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 221.32,
+   "end": 228.14,
+   "text": "Your mercy and grace, they made me whole",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.691,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 228.14,
+   "end": 234.68,
+   "text": "Enjoy your insorrow in peace or in pain",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.691,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 234.68,
+   "end": 241.64,
+   "text": "I'll follow you Jesus again and again",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.718,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 242.68,
+   "end": 245.08,
+   "text": "Take my life",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.718,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 245.08,
+   "end": 248.38,
+   "text": "Oh again and again",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.718,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 249.68,
+   "end": 251.96,
+   "text": "Take my life",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.718,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 251.96,
+   "end": 255.66,
+   "text": "Oh again and again",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.718,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 256.68,
+   "end": 258.82,
+   "text": "Take my life",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.718,
+   "track_id": "942nxbPorY4#06"
+  },
+  {
+   "start": 258.82,
+   "end": 262.8,
+   "text": "Oh, again and again",
+   "avg_logprob": -0.633,
+   "no_speech_prob": 0.172,
+   "track_id": "942nxbPorY4#06"
+  }
+ ]
+}

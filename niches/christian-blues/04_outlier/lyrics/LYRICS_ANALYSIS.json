@@ -1,0 +1,2743 @@
+{
+ "nguồn": {
+  "n_track": 308,
+  "n_video": 30,
+  "n_kênh": 7,
+  "n_kênh_đủ_lớn": 6,
+  "min_bài_mỗi_kênh": 15,
+  "n_ghép_được_với_nhạc": 307,
+  "tổng_chữ": 83083,
+  "từ": "00_input/processed/lyrics_features.parquet + audio_dna_full.parquet"
+ },
+ "1_viết_lời": {
+  "cách_dùng": "Khoảng p25–p75 là vùng an toàn. CHẶT thì theo sát; rộng thì tự do — ép theo là bịa ràng buộc.",
+  "thông_số": {
+   "words_per_min": {
+    "min": 9.4,
+    "p25": 56.1,
+    "trung_vị": 65.7,
+    "p75": 88.3,
+    "max": 171.6,
+    "độ_tập_trung": "rộng",
+    "iqr_chuẩn_hoá": 0.49,
+    "n": 308
+   },
+   "words_per_line": {
+    "min": 4.0,
+    "p25": 6.3,
+    "trung_vị": 7.2,
+    "p75": 8.1,
+    "max": 13.9,
+    "độ_tập_trung": "vừa",
+    "iqr_chuẩn_hoá": 0.25,
+    "n": 308
+   },
+   "line_len_sd": {
+    "min": 0.8,
+    "p25": 2.5,
+    "trung_vị": 2.9,
+    "p75": 3.4,
+    "max": 5.3,
+    "độ_tập_trung": "vừa",
+    "iqr_chuẩn_hoá": 0.31,
+    "n": 308
+   },
+   "n_lines": {
+    "min": 4.0,
+    "p25": 22.75,
+    "trung_vị": 38.0,
+    "p75": 51.0,
+    "max": 127.0,
+    "độ_tập_trung": "rộng",
+    "iqr_chuẩn_hoá": 0.743,
+    "n": 308
+   },
+   "repeat_ratio": {
+    "min": 0.0,
+    "p25": 0.04,
+    "trung_vị": 0.1,
+    "p75": 0.17,
+    "max": 0.44,
+    "độ_tập_trung": "rộng",
+    "iqr_chuẩn_hoá": 1.342,
+    "n": 308
+   },
+   "unique_line_ratio": {
+    "min": 0.56,
+    "p25": 0.83,
+    "trung_vị": 0.9,
+    "p75": 0.96,
+    "max": 1.0,
+    "độ_tập_trung": "CHẶT",
+    "iqr_chuẩn_hoá": 0.146,
+    "n": 308
+   },
+   "ttr": {
+    "min": 0.2,
+    "p25": 0.4,
+    "trung_vị": 0.46,
+    "p75": 0.54,
+    "max": 0.96,
+    "độ_tập_trung": "vừa",
+    "iqr_chuẩn_hoá": 0.307,
+    "n": 308
+   },
+   "vocab_size": {
+    "min": 24.0,
+    "p25": 95.0,
+    "trung_vị": 113.0,
+    "p75": 137.0,
+    "max": 233.0,
+    "độ_tập_trung": "vừa",
+    "iqr_chuẩn_hoá": 0.372,
+    "n": 308
+   }
+  }
+ },
+ "2_lời_với_nhạc": {
+  "phương_pháp": "Spearman + kiểm Simpson theo kênh (≥15 track)",
+  "cảnh_báo": "p nhỏ KHÔNG đủ. Chỉ dùng mối XÁC NHẬN.",
+  "số_mối_xét": 35,
+  "số_xác_nhận": 2,
+  "số_bác_bỏ": 24,
+  "xác_nhận": [
+   {
+    "lời": "words_per_min",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.407,
+    "p_gộp": 1.173921476353232e-13,
+    "rho_trung_vị_theo_kênh": -0.172,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 0,
+    "phán_quyết": "XÁC NHẬN",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.071,
+      "p": 0.6685956903676059,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.092,
+      "p": 0.5641177608986134,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.252,
+      "p": 0.02055739894125504,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.055,
+      "p": 0.6097722088928172,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.391,
+      "p": 0.0720877605551654,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.374,
+      "p": 0.03491500020573482,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.41 nhưng trong từng kênh chỉ còn -0.17. Dùng được."
+   },
+   {
+    "lời": "words_per_min",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": 0.391,
+    "p_gộp": 1.2293010795980957e-12,
+    "rho_trung_vị_theo_kênh": 0.232,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 0,
+    "phán_quyết": "XÁC NHẬN",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.166,
+      "p": 0.31213497143058033,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.268,
+      "p": 0.08619239409345723,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.458,
+      "p": 1.1652831518234055e-05,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.196,
+      "p": 0.06751603465636956,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.049,
+      "p": 0.828085361051309,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.269,
+      "p": 0.13682875978339515,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.39 nhưng trong từng kênh chỉ còn +0.23. Dùng được."
+   }
+  ],
+  "bác_bỏ": [
+   {
+    "lời": "words_per_line",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": -0.327,
+    "p_gộp": 4.62215076391627e-09,
+    "rho_trung_vị_theo_kênh": -0.019,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.307,
+      "p": 0.05711996798035053,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.042,
+      "p": 0.7917025192003033,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.243,
+      "p": 0.026150712323281183,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.275,
+      "p": 0.009430638661325904,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.011,
+      "p": 0.9621212034244426,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.003,
+      "p": 0.9864669921227385,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.33 nhưng trong từng kênh chỉ còn -0.02, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_line",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": -0.301,
+    "p_gộp": 7.731047450116354e-08,
+    "rho_trung_vị_theo_kênh": -0.013,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.385,
+      "p": 0.01558041316252333,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.008,
+      "p": 0.9579081625561616,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.033,
+      "p": 0.7664696524583976,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.123,
+      "p": 0.25482121791169043,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.523,
+      "p": 0.01240976516008861,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.05,
+      "p": 0.7867290321438569,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.30 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_min",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": 0.292,
+    "p_gộp": 1.8648221471882651e-07,
+    "rho_trung_vị_theo_kênh": -0.007,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.217,
+      "p": 0.18482810160319282,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.041,
+      "p": 0.7987883687283399,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.028,
+      "p": 0.8013159711123119,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.067,
+      "p": 0.5326081435011486,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.577,
+      "p": 0.004910268714055073,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.256,
+      "p": 0.15670869428793666,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.29 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_first_sing",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.289,
+    "p_gộp": 2.5700138715616327e-07,
+    "rho_trung_vị_theo_kênh": -0.007,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.017,
+      "p": 0.9176776573153983,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.217,
+      "p": 0.16798669758278043,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.057,
+      "p": 0.6082898845328357,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.004,
+      "p": 0.9729525414087606,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.36,
+      "p": 0.10014490036970848,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.085,
+      "p": 0.6449266392893187,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.29 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_second",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.288,
+    "p_gộp": 2.877761920387832e-07,
+    "rho_trung_vị_theo_kênh": 0.109,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 4,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.166,
+      "p": 0.31203626906164583,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.135,
+      "p": 0.39228169957909437,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.082,
+      "p": 0.4573636963081874,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.02,
+      "p": 0.8568529881979952,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.049,
+      "p": 0.8279415920812299,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.203,
+      "p": 0.26575045099772954,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.29 nhưng trong từng kênh chỉ còn +0.11, 4 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "ttr",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": -0.281,
+    "p_gộp": 5.414954604140632e-07,
+    "rho_trung_vị_theo_kênh": -0.209,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 2,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.347,
+      "p": 0.03050595151793505,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.166,
+      "p": 0.2946230228593137,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.251,
+      "p": 0.02131292233682491,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.114,
+      "p": 0.28820122533768877,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.111,
+      "p": 0.6221364874266241,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.308,
+      "p": 0.08660671798492331,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.28 nhưng trong từng kênh chỉ còn -0.21, 2 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   }
+  ],
+  "tất_cả": [
+   {
+    "lời": "words_per_line",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": 0.496,
+    "p_gộp": 1.8099795646809024e-20,
+    "rho_trung_vị_theo_kênh": 0.13,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.573,
+      "p": 0.00013725980324975082,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.03,
+      "p": 0.8520037091476245,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.13,
+      "p": 0.23943121862983216,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.266,
+      "p": 0.012305896356255985,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.083,
+      "p": 0.7128230164799483,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.176,
+      "p": 0.3353018156047792,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.50 nhưng trong từng kênh chỉ còn +0.13, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "ttr",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": 0.436,
+    "p_gộp": 1.0940913634429605e-15,
+    "rho_trung_vị_theo_kênh": 0.149,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.295,
+      "p": 0.06793004434099743,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.167,
+      "p": 0.2915180150973215,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.145,
+      "p": 0.18925728751869034,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.153,
+      "p": 0.15464650921686923,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.092,
+      "p": 0.6837393497090004,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.046,
+      "p": 0.803308899375248,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.44 nhưng trong từng kênh chỉ còn +0.15, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "vocab_size",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.434,
+    "p_gộp": 1.4961453600590219e-15,
+    "rho_trung_vị_theo_kênh": -0.18,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.571,
+      "p": 0.0001461915680271193,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.363,
+      "p": 0.018124555976966807,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.091,
+      "p": 0.41109955488259636,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.128,
+      "p": 0.23513842252606995,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.233,
+      "p": 0.2962759077686691,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.132,
+      "p": 0.47010467968243447,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.43 nhưng trong từng kênh chỉ còn -0.18, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_min",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.407,
+    "p_gộp": 1.173921476353232e-13,
+    "rho_trung_vị_theo_kênh": -0.172,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 0,
+    "phán_quyết": "XÁC NHẬN",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.071,
+      "p": 0.6685956903676059,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.092,
+      "p": 0.5641177608986134,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.252,
+      "p": 0.02055739894125504,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.055,
+      "p": 0.6097722088928172,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.391,
+      "p": 0.0720877605551654,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.374,
+      "p": 0.03491500020573482,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.41 nhưng trong từng kênh chỉ còn -0.17. Dùng được."
+   },
+   {
+    "lời": "words_per_min",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": 0.391,
+    "p_gộp": 1.2293010795980957e-12,
+    "rho_trung_vị_theo_kênh": 0.232,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 0,
+    "phán_quyết": "XÁC NHẬN",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.166,
+      "p": 0.31213497143058033,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.268,
+      "p": 0.08619239409345723,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.458,
+      "p": 1.1652831518234055e-05,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.196,
+      "p": 0.06751603465636956,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.049,
+      "p": 0.828085361051309,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.269,
+      "p": 0.13682875978339515,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.39 nhưng trong từng kênh chỉ còn +0.23. Dùng được."
+   },
+   {
+    "lời": "vocab_size",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": 0.378,
+    "p_gộp": 7.011962701996596e-12,
+    "rho_trung_vị_theo_kênh": 0.319,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.321,
+      "p": 0.04665128019515575,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.316,
+      "p": 0.04159026957707377,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.386,
+      "p": 0.00028253636550852135,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.207,
+      "p": 0.05251537765408154,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.339,
+      "p": 0.12232787806891604,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.029,
+      "p": 0.875553359258487,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.38 nhưng trong từng kênh chỉ còn +0.32, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "vocab_size",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": 0.363,
+    "p_gộp": 5.391113330508178e-11,
+    "rho_trung_vị_theo_kênh": 0.197,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.32,
+      "p": 0.04712208814212731,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.222,
+      "p": 0.15802331514146417,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.09,
+      "p": 0.4174370521789396,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.035,
+      "p": 0.7484863194545803,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.464,
+      "p": 0.029778209241076485,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.171,
+      "p": 0.3501095088986168,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.36 nhưng trong từng kênh chỉ còn +0.20, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_line",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": -0.327,
+    "p_gộp": 4.62215076391627e-09,
+    "rho_trung_vị_theo_kênh": -0.019,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.307,
+      "p": 0.05711996798035053,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.042,
+      "p": 0.7917025192003033,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.243,
+      "p": 0.026150712323281183,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.275,
+      "p": 0.009430638661325904,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.011,
+      "p": 0.9621212034244426,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.003,
+      "p": 0.9864669921227385,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.33 nhưng trong từng kênh chỉ còn -0.02, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_line",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": -0.301,
+    "p_gộp": 7.731047450116354e-08,
+    "rho_trung_vị_theo_kênh": -0.013,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.385,
+      "p": 0.01558041316252333,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.008,
+      "p": 0.9579081625561616,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.033,
+      "p": 0.7664696524583976,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.123,
+      "p": 0.25482121791169043,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.523,
+      "p": 0.01240976516008861,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.05,
+      "p": 0.7867290321438569,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.30 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_min",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": 0.292,
+    "p_gộp": 1.8648221471882651e-07,
+    "rho_trung_vị_theo_kênh": -0.007,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.217,
+      "p": 0.18482810160319282,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.041,
+      "p": 0.7987883687283399,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.028,
+      "p": 0.8013159711123119,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.067,
+      "p": 0.5326081435011486,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.577,
+      "p": 0.004910268714055073,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.256,
+      "p": 0.15670869428793666,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.29 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_first_sing",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.289,
+    "p_gộp": 2.5700138715616327e-07,
+    "rho_trung_vị_theo_kênh": -0.007,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.017,
+      "p": 0.9176776573153983,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.217,
+      "p": 0.16798669758278043,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.057,
+      "p": 0.6082898845328357,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.004,
+      "p": 0.9729525414087606,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.36,
+      "p": 0.10014490036970848,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.085,
+      "p": 0.6449266392893187,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.29 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_second",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.288,
+    "p_gộp": 2.877761920387832e-07,
+    "rho_trung_vị_theo_kênh": 0.109,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 4,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.166,
+      "p": 0.31203626906164583,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.135,
+      "p": 0.39228169957909437,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.082,
+      "p": 0.4573636963081874,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.02,
+      "p": 0.8568529881979952,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.049,
+      "p": 0.8279415920812299,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.203,
+      "p": 0.26575045099772954,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.29 nhưng trong từng kênh chỉ còn +0.11, 4 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "ttr",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": -0.281,
+    "p_gộp": 5.414954604140632e-07,
+    "rho_trung_vị_theo_kênh": -0.209,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 2,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.347,
+      "p": 0.03050595151793505,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.166,
+      "p": 0.2946230228593137,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.251,
+      "p": 0.02131292233682491,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.114,
+      "p": 0.28820122533768877,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.111,
+      "p": 0.6221364874266241,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.308,
+      "p": 0.08660671798492331,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.28 nhưng trong từng kênh chỉ còn -0.21, 2 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_second",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": 0.226,
+    "p_gộp": 6.432867494299075e-05,
+    "rho_trung_vị_theo_kênh": -0.04,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 4,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.132,
+      "p": 0.42209966466966053,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.171,
+      "p": 0.27909229526055307,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.059,
+      "p": 0.5970881108945375,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.022,
+      "p": 0.8385597350524489,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.117,
+      "p": 0.6040393400189776,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.639,
+      "p": 8.224654291771168e-05,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.23 nhưng trong từng kênh chỉ còn -0.04, 4 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_first_sing",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": 0.199,
+    "p_gộp": 0.000458352510482792,
+    "rho_trung_vị_theo_kênh": 0.066,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.063,
+      "p": 0.701870346882164,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.179,
+      "p": 0.25539667551010115,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.068,
+      "p": 0.5398218498546065,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.037,
+      "p": 0.7296313024288411,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.241,
+      "p": 0.2797303069403844,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.394,
+      "p": 0.0256392385666336,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.20 nhưng trong từng kênh chỉ còn +0.07, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "ttr",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": -0.178,
+    "p_gộp": 0.0017080813376130922,
+    "rho_trung_vị_theo_kênh": -0.025,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 2,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.066,
+      "p": 0.6891689432032664,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.039,
+      "p": 0.8060414252633282,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.163,
+      "p": 0.1394482664824337,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.011,
+      "p": 0.9173742016844454,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.053,
+      "p": 0.8164691262307053,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.207,
+      "p": 0.25619927789449753,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.18 nhưng trong từng kênh chỉ còn -0.03, 2 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_first_sing",
+    "nhạc": "vocals",
+    "cột_nhạc": "stems.separation.stem_energy.vocals",
+    "n": 307,
+    "rho_gộp": -0.147,
+    "p_gộp": 0.00968945805275096,
+    "rho_trung_vị_theo_kênh": -0.013,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.017,
+      "p": 0.919130070141835,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.204,
+      "p": 0.19484435873342743,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.042,
+      "p": 0.7061526082092138,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.116,
+      "p": 0.2798777006309058,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.247,
+      "p": 0.26827433942114864,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.019,
+      "p": 0.9175282438865933,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.15 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "repeat_ratio",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": 0.145,
+    "p_gộp": 0.010714970973111531,
+    "rho_trung_vị_theo_kênh": 0.185,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.265,
+      "p": 0.1029450933984758,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.097,
+      "p": 0.5394645746717844,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.24,
+      "p": 0.027857832655511904,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.131,
+      "p": 0.2236169331364054,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.402,
+      "p": 0.06381390793345694,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.25,
+      "p": 0.1671116753081898,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.15 nhưng trong từng kênh chỉ còn +0.19, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "repeat_ratio",
+    "nhạc": "guitar",
+    "cột_nhạc": "stems.separation.stem_energy.guitar",
+    "n": 307,
+    "rho_gộp": -0.131,
+    "p_gộp": 0.021346787913608986,
+    "rho_trung_vị_theo_kênh": -0.012,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.114,
+      "p": 0.4909331265989586,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.128,
+      "p": 0.4209732985385161,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.006,
+      "p": 0.956474237662112,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.2,
+      "p": 0.0617088982285619,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.016,
+      "p": 0.9434105402104223,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.03,
+      "p": 0.871785837755308,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.13 nhưng trong từng kênh chỉ còn -0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "vocab_size",
+    "nhạc": "vocals",
+    "cột_nhạc": "stems.separation.stem_energy.vocals",
+    "n": 307,
+    "rho_gộp": -0.128,
+    "p_gộp": 0.025399014636453107,
+    "rho_trung_vị_theo_kênh": -0.101,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 2,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.142,
+      "p": 0.38718319735640544,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.316,
+      "p": 0.04170084981975145,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.101,
+      "p": 0.3586323410018638,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.177,
+      "p": 0.09947240568672408,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.334,
+      "p": 0.12907336510697268,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.061,
+      "p": 0.7395778821122544,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.13 nhưng trong từng kênh chỉ còn -0.10, 2 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_second",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": 0.081,
+    "p_gộp": 0.1582594217164142,
+    "rho_trung_vị_theo_kênh": -0.126,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 5,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.131,
+      "p": 0.42629292717106343,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.186,
+      "p": 0.23909045034148246,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.109,
+      "p": 0.3218105188867877,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.222,
+      "p": 0.03775455577619974,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.206,
+      "p": 0.3569166527691836,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.12,
+      "p": 0.5121238992452624,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.08 nhưng trong từng kênh chỉ còn -0.13, 5 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "repeat_ratio",
+    "nhạc": "vocals",
+    "cột_nhạc": "stems.separation.stem_energy.vocals",
+    "n": 307,
+    "rho_gộp": 0.076,
+    "p_gộp": 0.18329942896850557,
+    "rho_trung_vị_theo_kênh": 0.013,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.226,
+      "p": 0.1668024434603079,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.005,
+      "p": 0.9729622450047339,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.065,
+      "p": 0.5593711532133024,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.031,
+      "p": 0.776872239122801,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.21,
+      "p": 0.34807249211458297,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.188,
+      "p": 0.3029908719168802,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.08 nhưng trong từng kênh chỉ còn +0.01, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_min",
+    "nhạc": "BPM",
+    "cột_nhạc": "timeline.rhythm.bpm",
+    "n": 307,
+    "rho_gộp": 0.071,
+    "p_gộp": 0.21794227814383582,
+    "rho_trung_vị_theo_kênh": 0.03,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 2,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.156,
+      "p": 0.3417698626897527,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.049,
+      "p": 0.7572128074275976,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.1,
+      "p": 0.36356732616891524,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.017,
+      "p": 0.87744682041514,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.282,
+      "p": 0.2042349177523957,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.012,
+      "p": 0.9491061778221135,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.07 nhưng trong từng kênh chỉ còn +0.03, 2 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_line",
+    "nhạc": "vocals",
+    "cột_nhạc": "stems.separation.stem_energy.vocals",
+    "n": 307,
+    "rho_gộp": 0.07,
+    "p_gộp": 0.2223410970854256,
+    "rho_trung_vị_theo_kênh": -0.019,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 4,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.241,
+      "p": 0.13880693077478,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.058,
+      "p": 0.7145828181449039,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.033,
+      "p": 0.768324420960244,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.005,
+      "p": 0.9595384520660641,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.376,
+      "p": 0.08479885300124267,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.142,
+      "p": 0.43702022948461605,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.07 nhưng trong từng kênh chỉ còn -0.02, 4 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_first_sing",
+    "nhạc": "drums",
+    "cột_nhạc": "stems.separation.stem_energy.drums",
+    "n": 307,
+    "rho_gộp": 0.06,
+    "p_gộp": 0.29623014435153466,
+    "rho_trung_vị_theo_kênh": -0.144,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 4,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.038,
+      "p": 0.8204507952547533,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.151,
+      "p": 0.3413436416303784,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.34,
+      "p": 0.0015286120078806594,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.137,
+      "p": 0.20352784754132616,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.302,
+      "p": 0.17181616844364878,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.255,
+      "p": 0.15875505945331872,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.06 nhưng trong từng kênh chỉ còn -0.14, 4 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "ttr",
+    "nhạc": "BPM",
+    "cột_nhạc": "timeline.rhythm.bpm",
+    "n": 307,
+    "rho_gộp": -0.058,
+    "p_gộp": 0.3108096380048221,
+    "rho_trung_vị_theo_kênh": -0.003,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.072,
+      "p": 0.664927666442758,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.088,
+      "p": 0.581253022035901,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.167,
+      "p": 0.12966989468494122,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.051,
+      "p": 0.6352185855852919,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.045,
+      "p": 0.8416086787124708,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.058,
+      "p": 0.7544340928226876,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.06 nhưng trong từng kênh chỉ còn -0.00, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "repeat_ratio",
+    "nhạc": "BPM",
+    "cột_nhạc": "timeline.rhythm.bpm",
+    "n": 307,
+    "rho_gộp": 0.054,
+    "p_gộp": 0.34845788196263283,
+    "rho_trung_vị_theo_kênh": 0.002,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.02,
+      "p": 0.9034656803168899,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.16,
+      "p": 0.3118740122304521,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.016,
+      "p": 0.8838640635846117,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.017,
+      "p": 0.8758485297180413,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.118,
+      "p": 0.6007191639247064,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.127,
+      "p": 0.48996779526671613,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.05 nhưng trong từng kênh chỉ còn +0.00, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_second",
+    "nhạc": "BPM",
+    "cột_nhạc": "timeline.rhythm.bpm",
+    "n": 307,
+    "rho_gộp": -0.054,
+    "p_gộp": 0.3457621801450274,
+    "rho_trung_vị_theo_kênh": -0.001,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 3,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.155,
+      "p": 0.34646226387946505,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.064,
+      "p": 0.6892665185290574,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.135,
+      "p": 0.22230196181641929,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.015,
+      "p": 0.8911375883226372,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.013,
+      "p": 0.9541542364629936,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.013,
+      "p": 0.9415850220341914,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.05 nhưng trong từng kênh chỉ còn -0.00, 3 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_line",
+    "nhạc": "BPM",
+    "cột_nhạc": "timeline.rhythm.bpm",
+    "n": 307,
+    "rho_gộp": -0.048,
+    "p_gộp": 0.4046547946722235,
+    "rho_trung_vị_theo_kênh": -0.07,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 2,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.033,
+      "p": 0.8431435436151575,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.127,
+      "p": 0.4241177159462211,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.228,
+      "p": 0.03722220803949797,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.107,
+      "p": 0.32260545082568176,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.285,
+      "p": 0.19860611612879972,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.394,
+      "p": 0.025565151183650187,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.05 nhưng trong từng kênh chỉ còn -0.07, 2 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_first_sing",
+    "nhạc": "BPM",
+    "cột_nhạc": "timeline.rhythm.bpm",
+    "n": 307,
+    "rho_gộp": -0.047,
+    "p_gộp": 0.4107712875856991,
+    "rho_trung_vị_theo_kênh": -0.096,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.091,
+      "p": 0.5827760492644213,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.011,
+      "p": 0.946472776622015,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.1,
+      "p": 0.3632510387657951,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.044,
+      "p": 0.6860835783651965,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.141,
+      "p": 0.532104481764928,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.161,
+      "p": 0.37831531662063117,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.05 nhưng trong từng kênh chỉ còn -0.10, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "repeat_ratio",
+    "nhạc": "bass",
+    "cột_nhạc": "stems.separation.stem_energy.bass",
+    "n": 307,
+    "rho_gộp": 0.026,
+    "p_gộp": 0.6471865808657317,
+    "rho_trung_vị_theo_kênh": -0.025,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 4,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.033,
+      "p": 0.8441185537877679,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.028,
+      "p": 0.8612213428820881,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.016,
+      "p": 0.886983655696475,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.072,
+      "p": 0.5035737570088227,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.045,
+      "p": 0.8431798346133079,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.058,
+      "p": 0.7527783852513845,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=+0.03 nhưng trong từng kênh chỉ còn -0.02, 4 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "vocab_size",
+    "nhạc": "BPM",
+    "cột_nhạc": "timeline.rhythm.bpm",
+    "n": 307,
+    "rho_gộp": -0.016,
+    "p_gộp": 0.773547833040529,
+    "rho_trung_vị_theo_kênh": -0.063,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 1,
+    "phán_quyết": "YẾU",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": -0.196,
+      "p": 0.23122746815233874,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.01,
+      "p": 0.9487314022087399,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.079,
+      "p": 0.47441215915535573,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.097,
+      "p": 0.3705415154558856,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.029,
+      "p": 0.8966811632007263,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": -0.106,
+      "p": 0.5627081545144934,
+      "đảo_dấu": false
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.02 nhưng trong từng kênh chỉ còn -0.06, 1 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "pct_second",
+    "nhạc": "vocals",
+    "cột_nhạc": "stems.separation.stem_energy.vocals",
+    "n": 307,
+    "rho_gộp": -0.011,
+    "p_gộp": 0.8542695069265742,
+    "rho_trung_vị_theo_kênh": 0.074,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 5,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.148,
+      "p": 0.3674726679106435,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": 0.137,
+      "p": 0.3870097079004477,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.028,
+      "p": 0.7983873087093959,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.084,
+      "p": 0.43777411936038246,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": 0.063,
+      "p": 0.7814692796628308,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.044,
+      "p": 0.8110493120936576,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.01 nhưng trong từng kênh chỉ còn +0.07, 5 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "words_per_min",
+    "nhạc": "vocals",
+    "cột_nhạc": "stems.separation.stem_energy.vocals",
+    "n": 307,
+    "rho_gộp": -0.008,
+    "p_gộp": 0.8888756520097947,
+    "rho_trung_vị_theo_kênh": 0.141,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 4,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.122,
+      "p": 0.46108942509776796,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.134,
+      "p": 0.3988662263528849,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": 0.236,
+      "p": 0.030995025986618106,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": 0.201,
+      "p": 0.06017737478521431,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.261,
+      "p": 0.24081643151307694,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.159,
+      "p": 0.38479504247132584,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.01 nhưng trong từng kênh chỉ còn +0.14, 4 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   },
+   {
+    "lời": "ttr",
+    "nhạc": "vocals",
+    "cột_nhạc": "stems.separation.stem_energy.vocals",
+    "n": 307,
+    "rho_gộp": -0.008,
+    "p_gộp": 0.8836269334030059,
+    "rho_trung_vị_theo_kênh": -0.022,
+    "số_kênh_xét": 6,
+    "số_kênh_đảo_dấu": 2,
+    "phán_quyết": "BÁC BỎ",
+    "theo_kênh": [
+     {
+      "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+      "n": 39,
+      "rho": 0.003,
+      "p": 0.9873132707004277,
+      "đảo_dấu": true
+     },
+     {
+      "kênh": "holygrooveofficial",
+      "n": 42,
+      "rho": -0.015,
+      "p": 0.9257194542469989,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "revivalworshiproommusic",
+      "n": 84,
+      "rho": -0.212,
+      "p": 0.052673475761957675,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "rivers-and-revival",
+      "n": 88,
+      "rho": -0.266,
+      "p": 0.0122649576511671,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "saltandlight-k2z",
+      "n": 22,
+      "rho": -0.03,
+      "p": 0.8948231841333145,
+      "đảo_dấu": false
+     },
+     {
+      "kênh": "stillworshipmusic",
+      "n": 32,
+      "rho": 0.323,
+      "p": 0.07104718506035616,
+      "đảo_dấu": true
+     }
+    ],
+    "đọc_là": "Gộp lại rho=-0.01 nhưng trong từng kênh chỉ còn -0.02, 2 kênh đảo dấu. Phần lớn đến từ khác biệt giữa kênh — đừng đưa vào công thức sáng tác."
+   }
+  ]
+ },
+ "3_người_nghe": {
+  "ngôi_kể": {
+   "tôi_pct": 9.47,
+   "chúng_ta_pct": 0.0,
+   "bạn_pct": 3.55,
+   "đọc_là": "Ngôi «tôi» (9.47%) áp đảo «chúng ta» (0.0%) — lời viết cho người nghe MỘT MÌNH, không phải hội chúng hát tập thể. Khớp với bối cảnh nghe chủ động (cầu nguyện, sáng sớm) ở STEP_05."
+  },
+  "họ_đang_ở_đâu": {
+   "sợ_hãi": {
+    "pct_bài": 51.9,
+    "số_bài": 160,
+    "lần_trung_vị": 1
+   },
+   "tội_lỗi": {
+    "pct_bài": 48.4,
+    "số_bài": 149,
+    "lần_trung_vị": 0
+   },
+   "cô_đơn": {
+    "pct_bài": 36.0,
+    "số_bài": 111,
+    "lần_trung_vị": 0
+   },
+   "kiệt_sức": {
+    "pct_bài": 35.7,
+    "số_bài": 110,
+    "lần_trung_vị": 0
+   },
+   "bệnh_tật": {
+    "pct_bài": 34.7,
+    "số_bài": 107,
+    "lần_trung_vị": 0
+   },
+   "tang_chế": {
+    "pct_bài": 29.5,
+    "số_bài": 91,
+    "lần_trung_vị": 0
+   },
+   "nghi_ngờ": {
+    "pct_bài": 22.4,
+    "số_bài": 69,
+    "lần_trung_vị": 0
+   }
+  },
+  "họ_nhận_được_gì": {
+   "được_dẫn": {
+    "pct_bài": 76.9,
+    "số_bài": 237,
+    "lần_trung_vị": 2
+   },
+   "được_giữ": {
+    "pct_bài": 70.8,
+    "số_bài": 218,
+    "lần_trung_vị": 1
+   },
+   "được_yên": {
+    "pct_bài": 69.5,
+    "số_bài": 214,
+    "lần_trung_vị": 1
+   },
+   "được_mạnh": {
+    "pct_bài": 67.9,
+    "số_bài": 209,
+    "lần_trung_vị": 1
+   },
+   "được_tha": {
+    "pct_bài": 65.3,
+    "số_bài": 201,
+    "lần_trung_vị": 1
+   },
+   "được_nghe": {
+    "pct_bài": 50.0,
+    "số_bài": 154,
+    "lần_trung_vị": 0
+   },
+   "có_bạn_đồng_hành": {
+    "pct_bài": 27.3,
+    "số_bài": 84,
+    "lần_trung_vị": 0
+   }
+  },
+  "xưng_hô_với_Chúa": {
+   "lord": {
+    "pct_bài": 78.6,
+    "số_bài": 242,
+    "lần_trung_vị": 2
+   },
+   "god": {
+    "pct_bài": 51.9,
+    "số_bài": 160,
+    "lần_trung_vị": 1
+   },
+   "jesus": {
+    "pct_bài": 33.1,
+    "số_bài": 102,
+    "lần_trung_vị": 0
+   },
+   "father": {
+    "pct_bài": 17.5,
+    "số_bài": 54,
+    "lần_trung_vị": 0
+   },
+   "king": {
+    "pct_bài": 15.9,
+    "số_bài": 49,
+    "lần_trung_vị": 0
+   },
+   "savior": {
+    "pct_bài": 13.6,
+    "số_bài": 42,
+    "lần_trung_vị": 0
+   },
+   "shepherd": {
+    "pct_bài": 3.6,
+    "số_bài": 11,
+    "lần_trung_vị": 0
+   },
+   "saviour": {
+    "pct_bài": 0.3,
+    "số_bài": 1,
+    "lần_trung_vị": 0
+   }
+  },
+  "cung_cảm_xúc": {
+   "n_bài": 306,
+   "điểm_đầu_bài": -0.066,
+   "điểm_giữa_bài": 0.054,
+   "điểm_cuối_bài": 0.218,
+   "pct_sáng_dần": 51.0,
+   "thang": "−1 = toàn từ tối · +1 = toàn từ sáng",
+   "đọc_là": "Điểm sáng/tối đi từ -0.07 (đầu bài) qua +0.05 lên +0.22 (cuối bài) — bài mở ra trong bóng tối rồi kết trong ánh sáng. 51.0% số bài sáng dần về cuối. Đây là CUNG CẢM XÚC chuẩn của ngách: đừng kết bài ở chỗ tối."
+  },
+  "chủ_đề": {
+   "hành_trình": {
+    "số_bài": 270,
+    "pct": 87.7
+   },
+   "tin_cậy": {
+    "số_bài": 257,
+    "pct": 83.4
+   },
+   "ánh_sáng_tối": {
+    "số_bài": 252,
+    "pct": 81.8
+   },
+   "cứu_rỗi": {
+    "số_bài": 207,
+    "pct": 67.2
+   },
+   "ngợi_khen": {
+    "số_bài": 206,
+    "pct": 66.9
+   },
+   "nước": {
+    "số_bài": 182,
+    "pct": 59.1
+   },
+   "than_khóc": {
+    "số_bài": 180,
+    "pct": 58.4
+   }
+  },
+  "ghi_chú": "Đếm theo từ khoá — bài chạm nhiều nhóm được đếm ở nhiều dòng. Không trích lời (T65)."
+ },
+ "giới_hạn": [
+  {
+   "thiếu": "Nhóm đối chứng",
+   "hệ_quả": "Tất cả 308 bài đều từ kênh đang hoạt động. KHÔNG kết luận được đặc điểm lời nào GÂY RA thành công — chỉ mô tả nhóm này đang viết thế nào."
+  },
+  {
+   "thiếu": "View ở cấp track",
+   "hệ_quả": "View là của VIDEO (tuyển tập nhiều bài), không tách được về từng bài. Nên không xếp hạng lời theo hiệu quả."
+  },
+  {
+   "thiếu": "Phủ sóng toàn ngách",
+   "hệ_quả": "30 video / 6 kênh chính, so với 50 video trong COHORT. Đây là mẫu tiện có, không phải mẫu đại diện."
+  },
+  {
+   "thiếu": "Kiểm tai người",
+   "hệ_quả": "Lời do Whisper phiên âm, tin cậy trung vị −0,35. Chưa ai nghe đối chiếu. Sai từ lẻ có thể đẩy lệch vocab/TTR."
+  }
+ ]
+}

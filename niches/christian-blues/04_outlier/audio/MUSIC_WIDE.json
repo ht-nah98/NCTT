@@ -1,0 +1,109 @@
+{
+ "nguồn": {
+  "n_track": 307,
+  "n_kênh": 6,
+  "từ": "00_input/processed/audio_dna_full.parquet",
+  "so_với": "AUDIO_BRIEF/RECIPE dựng từ 5 bản top 0,07% view"
+ },
+ "nhịp_độ": {
+  "n": 307,
+  "min": 50.9,
+  "p25": 65.9,
+  "trung_vị": 75.0,
+  "p75": 82.2,
+  "max": 109.1,
+  "đã_sửa_bẫy_nhân_đôi": true,
+  "số_track_phải_sửa": 117,
+  "pct_phải_sửa": 38.1,
+  "ngưỡng_chia_đôi": 110,
+  "đối_chiếu_n5": "bản 5 track sửa tay: TV 71,8 · khoảng 52–81",
+  "ghi_chú": "KHÔNG dùng cột bpm thô — 38% track bị bắt nhầm bội số 2×."
+ },
+ "điệu_thức": {
+  "bộ_dò_hoà_âm": {
+   "n": 307,
+   "trưởng": 201,
+   "thứ": 106,
+   "pct_trưởng": 65.5
+  },
+  "bộ_dò_CNN": {
+   "n": 307,
+   "trưởng": 167,
+   "thứ": 140,
+   "pct_trưởng": 54.4
+  },
+  "phát_hiện": "65,5% số track ở điệu TRƯỞNG — không phải 100% như mẫu 5 bản gợi ý. Khoảng một phần ba ngách dùng điệu THỨ và vẫn đang chạy. Trưởng là mặc định, thứ là lựa chọn hợp lệ."
+ },
+ "độ_to": {
+  "n": 307,
+  "min": -19.1,
+  "p25": -14.6,
+  "trung_vị": -13.8,
+  "p75": -12.9,
+  "max": -10.0,
+  "đơn_vị": "LUFS",
+  "ghi_chú": "chuẩn phát trực tuyến ≈ −14 LUFS"
+ },
+ "dải_động": {
+  "n": 307,
+  "min": 2.7,
+  "p25": 5.4,
+  "trung_vị": 6.6,
+  "p75": 8.0,
+  "max": 13.4
+ },
+ "lời_buồn_và_điệu_thức": {
+  "câu_hỏi": "Bài có lời buồn hơn thì có dùng điệu THỨ nhiều hơn không?",
+  "n": 307,
+  "từ_tối_TV_điệu_thứ": 2.0,
+  "từ_tối_TV_điệu_trưởng": 2.0,
+  "p": 0.5671196703993004,
+  "số_kênh_xét": 6,
+  "số_kênh_ngược_chiều": 4,
+  "theo_kênh": [
+   {
+    "kênh": "channel:UCZq1Q0yt7GMsQ8i9wpYFO4Q",
+    "thứ_TV": 2.0,
+    "trưởng_TV": 2.0,
+    "đúng_chiều": false
+   },
+   {
+    "kênh": "holygrooveofficial",
+    "thứ_TV": 3.0,
+    "trưởng_TV": 2.0,
+    "đúng_chiều": true
+   },
+   {
+    "kênh": "revivalworshiproommusic",
+    "thứ_TV": 5.0,
+    "trưởng_TV": 4.0,
+    "đúng_chiều": true
+   },
+   {
+    "kênh": "rivers-and-revival",
+    "thứ_TV": 2.0,
+    "trưởng_TV": 2.0,
+    "đúng_chiều": false
+   },
+   {
+    "kênh": "saltandlight-k2z",
+    "thứ_TV": 1.0,
+    "trưởng_TV": 1.5,
+    "đúng_chiều": false
+   },
+   {
+    "kênh": "stillworshipmusic",
+    "thứ_TV": 0.5,
+    "trưởng_TV": 2.0,
+    "đúng_chiều": false
+   }
+  ],
+  "phán_quyết": "KHÔNG CÓ LIÊN HỆ",
+  "đọc_là": "Lời buồn KHÔNG đi với điệu thứ (p=0,57, 4/6 kênh ngược chiều). Đây là giả định trực giác rất dễ mắc khi viết nhạc — dữ liệu 307 bài bác bỏ nó. Chọn điệu thức theo màu sắc mong muốn, đừng chọn theo nội dung lời."
+ },
+ "vẫn_dùng_n5_cho": [
+  "hợp âm và tiến trình hoà âm — cần ranh giới đoạn đáng tin (D-010)",
+  "cấu trúc đoạn và đường cong năng lượng",
+  "groove/swing — đo trên bản đã kiểm tay"
+ ]
+}

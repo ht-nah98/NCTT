@@ -1,0 +1,270 @@
+{
+ "track_id": "fy8Cr6R13Ik#01",
+ "track_key": "fy8Cr6R13Ik__01",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "1. Isaiah 6.1–3 — When the Temple Caught Fire",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 320.0,
+ "voiced_sec": 221.3,
+ "voice_ratio": 0.692,
+ "n_words": 276,
+ "words_per_min": 51.7,
+ "is_instrumental": false,
+ "n_segments": 31,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.3,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 11.88,
+   "end": 25.14,
+   "text": "In the year that King Uzziah died, I saw the Lord on high.",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.522,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 27.18,
+   "end": 37.72,
+   "text": "His train filled the temple Yonder throne up in the sky",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.694,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 40.88,
+   "end": 51.56,
+   "text": "Sarah Phim's crying, holy, holy Oh how high and lifted he",
+   "avg_logprob": -0.655,
+   "no_speech_prob": 0.513,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 54.82,
+   "end": 60.18,
+   "text": "dirty lips cleansed by cold from heaven",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 60.18,
+   "end": 65.4,
+   "text": "now my sight is free",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 68.54,
+   "end": 76.38,
+   "text": "Holy, Holy, Holy is the Lord Almighty's name",
+   "avg_logprob": -0.348,
+   "no_speech_prob": 0.721,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 78.42,
+   "end": 84.74,
+   "text": "Echo through the midnight skies, His glory still the same",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.541,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 86.38,
+   "end": 96.02,
+   "text": "Heaven and earth declare the matchless Burning flame in that holy, holy name",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.541,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 96.02,
+   "end": 100.24,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.541,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 103.42,
+   "end": 115.22,
+   "text": "I heard the voice of one proclaiming Who can stand when God lays claim",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.499,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 117.08,
+   "end": 121.9,
+   "text": "Now that I have nails burned off my guilt",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 124.48,
+   "end": 128.76,
+   "text": "Remove the scarlet stain",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 131.28,
+   "end": 135.64,
+   "text": "Here I am, send me",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 137.32,
+   "end": 141.58,
+   "text": "Take my heart and soul away",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.492,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 145.14,
+   "end": 155.74,
+   "text": "Let me bring your message in this blues Let me speak what you say",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.676,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 158.52,
+   "end": 166.26,
+   "text": "Holy, holy, holy is the Lord Almighty's name",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.676,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 168.32,
+   "end": 174.66,
+   "text": "Echo through the midnight skies His glory still the same",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.505,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 176.26,
+   "end": 185.86,
+   "text": "Heaven and earth declare the matchless Burning flame in that holy, holy name",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.505,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 185.86,
+   "end": 190.14,
+   "text": "I'll never be the same",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.505,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 195.22,
+   "end": 203.28,
+   "text": "Hear the echo of the seraphim Swear their wings and lift the hymn",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.601,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 203.28,
+   "end": 209.9,
+   "text": "Cry to one another Loud mercy remove our sin",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.601,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 209.9,
+   "end": 216.82,
+   "text": "My voice joins their mighty sound Healing balm my soul is found",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.601,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 216.82,
+   "end": 220.52,
+   "text": "Now I'm sent in humble stride",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 220.52,
+   "end": 224.46,
+   "text": "With Isaiah's vow while abide",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 227.82,
+   "end": 235.12,
+   "text": "Holy, holy, holy is the Lord Almighty's name",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 237.82,
+   "end": 243.76,
+   "text": "Echo through the midnight skies His glory's still the same",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.617,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 243.76,
+   "end": 250.66,
+   "text": "Heaven and earth declare the matchless burning flame",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.661,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 250.66,
+   "end": 258.86,
+   "text": "In that holy, holy name I'll never be the same",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.661,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 261.68,
+   "end": 266.46,
+   "text": "Soft guitar, whispers alone",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.661,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 268.38,
+   "end": 279.34,
+   "text": "The temple's fire in my soul, sent by Heaven's cold",
+   "avg_logprob": -0.617,
+   "no_speech_prob": 0.685,
+   "track_id": "fy8Cr6R13Ik#01"
+  },
+  {
+   "start": 279.34,
+   "end": 286.18,
+   "text": "I rise in blues I tell the tale he stole",
+   "avg_logprob": -0.483,
+   "no_speech_prob": 0.639,
+   "track_id": "fy8Cr6R13Ik#01"
+  }
+ ]
+}

@@ -1,0 +1,885 @@
+{
+  "niche": "christian-blues",
+  "source_cohort": {
+    "definition": "top 5% lượt xem, video >60s, đã đủ 60 ngày",
+    "n_videos": 259,
+    "n_channels": 41,
+    "view_threshold": 53374,
+    "view_median": 122711
+  },
+  "title": {
+    "len_median": 72,
+    "len_p25": 58,
+    "len_p75": 88,
+    "shapes": {
+      "câu_cảm_xúc": 0.598,
+      "kinh_thánh": 0.174,
+      "playlist": 0.1,
+      "có_thời_lượng": 0.073,
+      "mệnh_đề_điều_kiện": 0.039,
+      "có_trích_dẫn": 0.015
+    },
+    "pct_with_hashtag": 0.093,
+    "pct_with_number": 0.293,
+    "pct_all_caps_word": 0.077,
+    "top_words": [
+      {
+        "w": "gospel",
+        "n": 209
+      },
+      {
+        "w": "blues",
+        "n": 207
+      },
+      {
+        "w": "worship",
+        "n": 113
+      },
+      {
+        "w": "soul",
+        "n": 66
+      },
+      {
+        "w": "music",
+        "n": 62
+      },
+      {
+        "w": "christian",
+        "n": 61
+      },
+      {
+        "w": "soulful",
+        "n": 51
+      },
+      {
+        "w": "prayer",
+        "n": 46
+      },
+      {
+        "w": "deep",
+        "n": 31
+      },
+      {
+        "w": "god",
+        "n": 31
+      },
+      {
+        "w": "songs",
+        "n": 31
+      },
+      {
+        "w": "faith",
+        "n": 29
+      },
+      {
+        "w": "psalm",
+        "n": 29
+      },
+      {
+        "w": "healing",
+        "n": 26
+      },
+      {
+        "w": "praise",
+        "n": 26
+      },
+      {
+        "w": "powerful",
+        "n": 21
+      },
+      {
+        "w": "peace",
+        "n": 20
+      },
+      {
+        "w": "playlist",
+        "n": 20
+      },
+      {
+        "w": "song",
+        "n": 20
+      },
+      {
+        "w": "lord",
+        "n": 19
+      },
+      {
+        "w": "still",
+        "n": 16
+      },
+      {
+        "w": "jesus",
+        "n": 14
+      },
+      {
+        "w": "classic",
+        "n": 14
+      },
+      {
+        "w": "vintage",
+        "n": 14
+      },
+      {
+        "w": "hours",
+        "n": 13
+      }
+    ],
+    "top_hashtags": [
+      {
+        "tag": "#gospelmusic",
+        "n": 13
+      },
+      {
+        "tag": "#worship",
+        "n": 8
+      },
+      {
+        "tag": "#faith",
+        "n": 6
+      },
+      {
+        "tag": "#bluesgospel",
+        "n": 5
+      },
+      {
+        "tag": "#soulmusic",
+        "n": 5
+      },
+      {
+        "tag": "#bluesofgrace",
+        "n": 4
+      },
+      {
+        "tag": "#shorts",
+        "n": 4
+      },
+      {
+        "tag": "#christianmusic",
+        "n": 4
+      },
+      {
+        "tag": "#worshipmusic",
+        "n": 3
+      },
+      {
+        "tag": "#testoffaith",
+        "n": 2
+      },
+      {
+        "tag": "#gospel",
+        "n": 2
+      },
+      {
+        "tag": "#bluesmusic",
+        "n": 2
+      },
+      {
+        "tag": "#churchmusic",
+        "n": 2
+      },
+      {
+        "tag": "#blues",
+        "n": 1
+      },
+      {
+        "tag": "#gospel2026",
+        "n": 1
+      }
+    ],
+    "examples": [
+      {
+        "title": "When Fear Takes Over, Play This Gospel Blues #TrustInGod",
+        "views": 3652301,
+        "channel": "stillworshipmusic"
+      },
+      {
+        "title": "This Psalm Sounds Like It Was Born in the Blues",
+        "views": 1697203,
+        "channel": "holygrooveofficial"
+      },
+      {
+        "title": "Soul Saving \"BLUES\" Gospel Music: Modern Christian Praise and Worship Music PLAYLIST",
+        "views": 1343374,
+        "channel": "saltandlight-k2z"
+      },
+      {
+        "title": "Be Still | 100 Minutes of Relaxing Black Gospel Music for Rest & Prayer",
+        "views": 1298849,
+        "channel": "stillworshipmusic"
+      },
+      {
+        "title": "Somebody Been Praying For Me | Deep Gospel Blues | Grace & Mercy | Heavenly Blues Gospel",
+        "views": 1211933,
+        "channel": "heavenlybluesgospel"
+      },
+      {
+        "title": "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”",
+        "views": 1180460,
+        "channel": "holygroove-1"
+      },
+      {
+        "title": "Southern Soul Gospel | Through The Storm: A Southern Soul Testimony",
+        "views": 1103012,
+        "channel": "oldiesgospelradio"
+      },
+      {
+        "title": "The Psalms In Blues Hit So Deep It’s Unreal",
+        "views": 1024147,
+        "channel": "rivers-and-revival"
+      },
+      {
+        "title": "I Had A Talk With God 🙏  Powerful Gospel Blues Testimony  The Broken Hallelujah",
+        "views": 1020833,
+        "channel": "thebrokenhallelujah"
+      },
+      {
+        "title": "Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship”",
+        "views": 996738,
+        "channel": "holygroove-1"
+      },
+      {
+        "title": "Touch Me Lord Jesus 🙏 | Powerful Gospel Blues Song | The Broken Hallelujah | Healing & Worship",
+        "views": 992208,
+        "channel": "thebrokenhallelujah"
+      },
+      {
+        "title": "✨Gospel Blues - Everlasting Grace – a heartfelt blend of Christian Blues and soulful",
+        "views": 978948,
+        "channel": "gospelbluesescape"
+      }
+    ]
+  },
+  "description": {
+    "pct_present": 0.996,
+    "len_median": 1337,
+    "len_p25": 789,
+    "len_p75": 1783,
+    "n_lines_median": 22,
+    "pct_with_emoji": 0.891,
+    "pct_with_link": 0.275,
+    "pct_with_membership": 0.14,
+    "pct_with_timestamps": 0.221,
+    "pct_with_copyright": 0.132,
+    "top_words": [
+      {
+        "w": "gospel",
+        "n": 1816
+      },
+      {
+        "w": "worship",
+        "n": 1498
+      },
+      {
+        "w": "music",
+        "n": 1492
+      },
+      {
+        "w": "blues",
+        "n": 1406
+      },
+      {
+        "w": "christian",
+        "n": 737
+      },
+      {
+        "w": "soul",
+        "n": 533
+      },
+      {
+        "w": "prayer",
+        "n": 454
+      },
+      {
+        "w": "songs",
+        "n": 452
+      },
+      {
+        "w": "faith",
+        "n": 405
+      },
+      {
+        "w": "soulful",
+        "n": 398
+      },
+      {
+        "w": "song",
+        "n": 308
+      },
+      {
+        "w": "healing",
+        "n": 298
+      },
+      {
+        "w": "https",
+        "n": 290
+      },
+      {
+        "w": "deep",
+        "n": 262
+      },
+      {
+        "w": "still",
+        "n": 240
+      },
+      {
+        "w": "playlist",
+        "n": 236
+      },
+      {
+        "w": "peace",
+        "n": 229
+      },
+      {
+        "w": "heart",
+        "n": 217
+      },
+      {
+        "w": "jesus",
+        "n": 211
+      },
+      {
+        "w": "spirit",
+        "n": 204
+      },
+      {
+        "w": "subscribe",
+        "n": 197
+      },
+      {
+        "w": "spiritual",
+        "n": 187
+      },
+      {
+        "w": "psalm",
+        "n": 184
+      },
+      {
+        "w": "every",
+        "n": 176
+      },
+      {
+        "w": "praise",
+        "n": 169
+      },
+      {
+        "w": "through",
+        "n": 160
+      },
+      {
+        "w": "time",
+        "n": 159
+      },
+      {
+        "w": "more",
+        "n": 155
+      },
+      {
+        "w": "peaceful",
+        "n": 149
+      },
+      {
+        "w": "black",
+        "n": 144
+      }
+    ],
+    "opening_lines": [
+      "Gospel Blues Music – Relaxing Soulful Blues Collection Vol. 1 🎸✨",
+      "This 27-minute healing gospel blues prayer was created especially for you. If you needed a sign, a moment of peace, or a reminder that God is near, this healing gospel blues prayer is your invitation to rest in His presence.",
+      "A Prayer For You — 27 Minutes of Healing Gospel Blues (Prayer Music)",
+      "“No More Chains Over Me | Deep Black Gospel Blues for Freedom, Faith & Victory”",
+      "Lay It All Down Tonight 🙏 2 Hours of Gospel Blues Music for Peaceful Surrender",
+      "No More Chains Over Me | Deep Black Gospel Blues for Freedom, Faith &",
+      "He Won’t Fail You Now 🙏 2 Hours of Powerful Black Gospel Worship",
+      "I Trust You Lord 🙏 2 Hours of Soulful Gospel R&B Worship for Faith in the Storm",
+      "Jesus, I Can’t Carry This Alone 🙏 2 Hours of Deep Gospel Worship",
+      "God, Take This Pain Away 🙏 2 Hours of Black Gospel Worship & Soulful Prayer"
+    ]
+  },
+  "tags": {
+    "pct_present": 0.768,
+    "count_median": 20,
+    "count_p75": 24,
+    "top": [
+      {
+        "tag": "gospel blues",
+        "n": 132
+      },
+      {
+        "tag": "christian blues",
+        "n": 66
+      },
+      {
+        "tag": "soulful gospel",
+        "n": 58
+      },
+      {
+        "tag": "worship music",
+        "n": 57
+      },
+      {
+        "tag": "christian music",
+        "n": 53
+      },
+      {
+        "tag": "gospel blues music",
+        "n": 47
+      },
+      {
+        "tag": "blues gospel",
+        "n": 42
+      },
+      {
+        "tag": "soulful gospel blues",
+        "n": 41
+      },
+      {
+        "tag": "blues worship",
+        "n": 40
+      },
+      {
+        "tag": "gospel blues worship",
+        "n": 40
+      },
+      {
+        "tag": "christian songs",
+        "n": 34
+      },
+      {
+        "tag": "soulful worship",
+        "n": 33
+      },
+      {
+        "tag": "gospel music",
+        "n": 32
+      },
+      {
+        "tag": "prayer music",
+        "n": 32
+      },
+      {
+        "tag": "christian blues worship",
+        "n": 31
+      },
+      {
+        "tag": "soulful worship music",
+        "n": 30
+      },
+      {
+        "tag": "worship songs",
+        "n": 29
+      },
+      {
+        "tag": "soulful gospel worship",
+        "n": 28
+      },
+      {
+        "tag": "gospel soul",
+        "n": 27
+      },
+      {
+        "tag": "black gospel blues",
+        "n": 27
+      },
+      {
+        "tag": "christian worship blues",
+        "n": 27
+      },
+      {
+        "tag": "spiritual blues",
+        "n": 26
+      },
+      {
+        "tag": "faith music",
+        "n": 26
+      },
+      {
+        "tag": "gospel r&b",
+        "n": 26
+      },
+      {
+        "tag": "christian r&b",
+        "n": 26
+      },
+      {
+        "tag": "worship music for peace",
+        "n": 26
+      },
+      {
+        "tag": "still worship music",
+        "n": 26
+      },
+      {
+        "tag": "black gospel worship",
+        "n": 26
+      },
+      {
+        "tag": "calming worship music",
+        "n": 25
+      },
+      {
+        "tag": "quiet worship music",
+        "n": 25
+      },
+      {
+        "tag": "christian praise",
+        "n": 24
+      },
+      {
+        "tag": "worship music for anxiety",
+        "n": 24
+      },
+      {
+        "tag": "inspirational gospel",
+        "n": 22
+      },
+      {
+        "tag": "acoustic gospel",
+        "n": 22
+      },
+      {
+        "tag": "deep worship music",
+        "n": 22
+      },
+      {
+        "tag": "deep gospel blues",
+        "n": 22
+      },
+      {
+        "tag": "worship music for rest",
+        "n": 22
+      },
+      {
+        "tag": "praise and worship",
+        "n": 21
+      },
+      {
+        "tag": "spirit-filled music",
+        "n": 21
+      },
+      {
+        "tag": "jesus music",
+        "n": 18
+      }
+    ]
+  },
+  "format": {
+    "duration_median_min": 47.3,
+    "bands": [
+      {
+        "band": "ngắn <10p",
+        "share": 0.286,
+        "view_median": 149186
+      },
+      {
+        "band": "vừa 10-40p",
+        "share": 0.154,
+        "view_median": 107861
+      },
+      {
+        "band": "dài 40-80p",
+        "share": 0.22,
+        "view_median": 132840
+      },
+      {
+        "band": "rất dài >80p",
+        "share": 0.34,
+        "view_median": 105449
+      }
+    ],
+    "ad_slots_est": 5.9
+  },
+  "cadence": {
+    "videos_per_week_median": 4.6,
+    "videos_per_week_p75": 6.8,
+    "n_channels": 41,
+    "note": "Tính trên các kênh có video lọt top 5%; span = ngày giữa video đầu và cuối"
+  },
+  "models": [
+    {
+      "handle": "stillworshipmusic",
+      "total_view": 16701424,
+      "videos": 437,
+      "best_video_view": 3652301,
+      "median_view": 7704,
+      "subscribers": 143000,
+      "age_months": 15.8,
+      "videos_per_month": 27.7,
+      "duration_median_min": 2.9,
+      "model": "nhiều_và_ngắn",
+      "hit_rate": 0.08,
+      "top_titles": [
+        "When Fear Takes Over, Play This Gospel Blues #TrustInGod",
+        "Be Still | 100 Minutes of Relaxing Black Gospel Music for Rest & Prayer",
+        "Christian Blues Gospel R&B 🎶Soulful Modern Praise & Worship Playlist"
+      ]
+    },
+    {
+      "handle": "oldiesgospelradio",
+      "total_view": 8626661,
+      "videos": 184,
+      "best_video_view": 1103012,
+      "median_view": 12223,
+      "subscribers": 65600,
+      "age_months": 196.1,
+      "videos_per_month": 0.9,
+      "duration_median_min": 107.5,
+      "model": "ít_và_dài",
+      "hit_rate": 0.158,
+      "top_titles": [
+        "Southern Soul Gospel | Through The Storm: A Southern Soul Testimony",
+        "Vintage 1960s Gospel Blues | Classic Soulful Spirit | Timeless Harmony",
+        "Classic Blues Gospel | Soulful 1960s Vintage Sound | Timeless Spirit"
+      ]
+    },
+    {
+      "handle": "revivalworshiproommusic",
+      "total_view": 7204943,
+      "videos": 252,
+      "best_video_view": 614050,
+      "median_view": 4224,
+      "subscribers": 74200,
+      "age_months": 15.4,
+      "videos_per_month": 16.4,
+      "duration_median_min": 62.0,
+      "model": "ít_và_dài",
+      "hit_rate": 0.107,
+      "top_titles": [
+        "Bible R&B Worship To Heal the Soul Vol.3 | Prayer, Meditation & Reflection Gospel Songs 🎵✨",
+        "God Heals the Soul | Soulful Blues Gospel & R&B Christian Worship Mix",
+        "Soaked in God’s Presence – Soulful Christian R&B & Blues Playlist | Praise & Worship for Reflection"
+      ]
+    },
+    {
+      "handle": "holygrooveofficial",
+      "total_view": 6893291,
+      "videos": 173,
+      "best_video_view": 1697203,
+      "median_view": 5829,
+      "subscribers": 199000,
+      "age_months": 217.7,
+      "videos_per_month": 0.8,
+      "duration_median_min": 31.6,
+      "model": "ít_và_dài",
+      "hit_rate": 0.11,
+      "top_titles": [
+        "This Psalm Sounds Like It Was Born in the Blues",
+        "Psalms sung in Blues by David would sound like this...",
+        "The book of Ecclesiastes was born to be Sung in Blues"
+      ]
+    },
+    {
+      "handle": "holygroove-1",
+      "total_view": 4493789,
+      "videos": 325,
+      "best_video_view": 1180460,
+      "median_view": 980,
+      "subscribers": 17700,
+      "age_months": 11.7,
+      "videos_per_month": 27.9,
+      "duration_median_min": 5.7,
+      "model": "nhiều_và_ngắn",
+      "hit_rate": 0.028,
+      "top_titles": [
+        "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”",
+        "Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship”",
+        "Psalm 121 (Lyrics) | I Lift My Eyes to the Hills | Worship Blues”"
+      ]
+    }
+  ],
+  "strategy": {
+    "note": "Hai mô hình ĐỐI LẬP cùng thành công trong ngách. Phải chọn MỘT trước khi sản xuất — chúng đòi hỏi khối lượng công việc và loại nội dung khác hẳn nhau.",
+    "profiles": [
+      {
+        "id": "nhiều_và_ngắn",
+        "mô_tả": "Video ngắn, đăng dày. Ăn bằng khối lượng và tần suất đề xuất.",
+        "n_kênh_trong_top12": 7,
+        "thời_lượng_trung_vị_phút": 5.7,
+        "video_mỗi_tháng": 8.6,
+        "tổng_view_trung_vị": 3248226,
+        "view_mỗi_video": 42645,
+        "tỷ_lệ_hit": 0.088,
+        "ví_dụ": [
+          "stillworshipmusic",
+          "holygroove-1",
+          "saltandlight-k2z"
+        ]
+      },
+      {
+        "id": "ít_và_dài",
+        "mô_tả": "Mix dài, đăng thưa. Ăn bằng thời lượng xem và số ad slot.",
+        "n_kênh_trong_top12": 5,
+        "thời_lượng_trung_vị_phút": 62.0,
+        "video_mỗi_tháng": 7.1,
+        "tổng_view_trung_vị": 6893291,
+        "view_mỗi_video": 39845,
+        "tỷ_lệ_hit": 0.11,
+        "ví_dụ": [
+          "oldiesgospelradio",
+          "revivalworshiproommusic",
+          "holygrooveofficial"
+        ]
+      }
+    ]
+  },
+  "thumbnail": {
+    "person_area_pct": 27.6,
+    "person_range_pct": [
+      21.7,
+      34.8
+    ],
+    "text_area_pct": 17.4,
+    "text_lines": 3,
+    "dark_pct": 61.0,
+    "amber_pct": 15.8,
+    "blue_pct": 0.8,
+    "mono_pct": 16.6,
+    "layout_split": 75.3,
+    "brief_doc": "04_outlier/THUMBNAIL_BRIEF.md"
+  },
+  "audience": {
+    "age": {
+      "n": 82,
+      "median": 70.0,
+      "mean": 64.85365853658537,
+      "min": 14,
+      "max": 94,
+      "dist": {
+        "13-29": 8,
+        "30-44": 4,
+        "45-59": 6,
+        "60-74": 42,
+        "75+": 22
+      }
+    },
+    "attributes": {
+      "retired": {
+        "n": 1,
+        "pct": 0.01559332605644784
+      },
+      "musician": {
+        "n": 4,
+        "pct": 0.06237330422579136
+      },
+      "trucker": {
+        "n": 2,
+        "pct": 0.03118665211289568
+      },
+      "veteran": {
+        "n": 1,
+        "pct": 0.01559332605644784
+      },
+      "disabled": {
+        "n": 1,
+        "pct": 0.01559332605644784
+      },
+      "nurse_care": {
+        "n": 2,
+        "pct": 0.03118665211289568
+      },
+      "widow": {
+        "n": 5,
+        "pct": 0.0779666302822392
+      },
+      "recovery": {
+        "n": 31,
+        "pct": 0.4833931077498831
+      },
+      "new_convert": {
+        "n": 17,
+        "pct": 0.2650865429596133
+      },
+      "longtime_faith": {
+        "n": 2,
+        "pct": 0.03118665211289568
+      }
+    },
+    "pain": {
+      "finally": {
+        "n": 58,
+        "pct": 0.9044129112739748,
+        "med_likes": 26.5
+      },
+      "cant_stand": {
+        "n": 16,
+        "pct": 0.24949321690316545,
+        "med_likes": 5.5
+      },
+      "never_heard": {
+        "n": 55,
+        "pct": 0.8576329331046313,
+        "med_likes": 25.0
+      },
+      "struggling": {
+        "n": 110,
+        "pct": 1.7152658662092626,
+        "med_likes": 5.0
+      },
+      "better_than": {
+        "n": 33,
+        "pct": 0.5145797598627788,
+        "med_likes": 5.0
+      },
+      "healing": {
+        "n": 757,
+        "pct": 11.804147824731015,
+        "med_likes": 3.0
+      }
+    },
+    "context": {
+      "driving": {
+        "n": 35,
+        "pct": 0.5457664119756744
+      },
+      "housework": {
+        "n": 30,
+        "pct": 0.4677997816934352
+      },
+      "work": {
+        "n": 25,
+        "pct": 0.389833151411196
+      },
+      "sleep_night": {
+        "n": 24,
+        "pct": 0.37423982535474815
+      },
+      "prayer_devo": {
+        "n": 868,
+        "pct": 13.535007016996726
+      },
+      "morning": {
+        "n": 267,
+        "pct": 4.163418057071573
+      },
+      "sick_hosp": {
+        "n": 105,
+        "pct": 1.637299235927023
+      },
+      "grief": {
+        "n": 70,
+        "pct": 1.0915328239513489
+      }
+    },
+    "discovery": {
+      "algorithm": {
+        "n": 83,
+        "pct": 1.2942460626851706
+      },
+      "searched": {
+        "n": 12,
+        "pct": 0.18711991267737407
+      },
+      "shared": {
+        "n": 17,
+        "pct": 0.2650865429596133
+      },
+      "subscribed": {
+        "n": 20,
+        "pct": 0.3118665211289568
+      },
+      "repeat": {
+        "n": 114,
+        "pct": 1.7776391704350538
+      }
+    }
+  }
+}

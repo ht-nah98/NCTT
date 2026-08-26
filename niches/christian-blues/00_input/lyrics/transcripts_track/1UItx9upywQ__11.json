@@ -1,0 +1,182 @@
+{
+ "track_id": "1UItx9upywQ#11",
+ "track_key": "1UItx9upywQ__11",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Better Is One Day\" - Psalm 84",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 176.0,
+ "voiced_sec": 120.2,
+ "voice_ratio": 0.683,
+ "n_words": 146,
+ "words_per_min": 49.8,
+ "is_instrumental": false,
+ "n_segments": 20,
+ "n_segments_voiced": 20,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 62.8,
+ "rtf": 0.357,
+ "segments": [
+  {
+   "start": 12.7,
+   "end": 28.58,
+   "text": "I woke up early with a sound on my face A song in my heart, oh, the grace to dwell in",
+   "avg_logprob": -0.523,
+   "no_speech_prob": 0.534,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 28.58,
+   "end": 32.98,
+   "text": "in your house Lord rest in your space",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.501,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 34.72,
+   "end": 37.68,
+   "text": "every step, every mile",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.501,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 38.38,
+   "end": 40.64,
+   "text": "I'm closer to your smile",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.501,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 40.64,
+   "end": 45.64,
+   "text": "Better is one day in your house",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.501,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 45.64,
+   "end": 52.72,
+   "text": "Better is one day in your care",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.501,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 52.72,
+   "end": 59.3,
+   "text": "Oh, my soul shouts, oh, my soul shouts, hey",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.302,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 59.3,
+   "end": 65.3,
+   "text": "I find my heaven there",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.302,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 65.3,
+   "end": 71.56,
+   "text": "The sparrows are singing, they know where to stay",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.302,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 71.56,
+   "end": 77.62,
+   "text": "The swallows find shelter, they're never astray",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.302,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 77.62,
+   "end": 84.78,
+   "text": "Lord, I am like that when I'm walking your way",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.629,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 86.06,
+   "end": 91.94,
+   "text": "Every door, every heart, I feel your love through it",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.629,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 91.94,
+   "end": 97.16,
+   "text": "Oh, better is one day in your house",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.629,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 97.16,
+   "end": 103.74,
+   "text": "Oh, better is one day in your care",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.629,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 103.74,
+   "end": 111.12,
+   "text": "Oh my social, my social shop",
+   "avg_logprob": -0.858,
+   "no_speech_prob": 0.657,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 111.12,
+   "end": 117.14,
+   "text": "I find my heaven there",
+   "avg_logprob": -0.858,
+   "no_speech_prob": 0.657,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 122.18,
+   "end": 127.2,
+   "text": "Oh, there is you",
+   "avg_logprob": -0.858,
+   "no_speech_prob": 0.657,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 157.46,
+   "end": 161.92,
+   "text": "Oh, oh, oh, oh, Oh",
+   "avg_logprob": -1.428,
+   "no_speech_prob": 0.535,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 164.24,
+   "end": 168.8,
+   "text": "Oh, oh, oh, oh, oh",
+   "avg_logprob": -1.428,
+   "no_speech_prob": 0.535,
+   "track_id": "1UItx9upywQ#11"
+  },
+  {
+   "start": 170.58,
+   "end": 175.98,
+   "text": "Hm, better wish",
+   "avg_logprob": -1.428,
+   "no_speech_prob": 0.535,
+   "track_id": "1UItx9upywQ#11"
+  }
+ ]
+}

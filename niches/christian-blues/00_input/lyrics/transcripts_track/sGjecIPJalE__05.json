@@ -1,0 +1,294 @@
+{
+ "track_id": "sGjecIPJalE#05",
+ "track_key": "sGjecIPJalE__05",
+ "video_id": "sGjecIPJalE",
+ "title": "Go And Sin No More (John 8)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 246.0,
+ "voiced_sec": 132.9,
+ "voice_ratio": 0.54,
+ "n_words": 206,
+ "words_per_min": 50.2,
+ "is_instrumental": false,
+ "n_segments": 34,
+ "n_segments_voiced": 34,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 64.3,
+ "rtf": 0.261,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 33.36,
+   "text": "brought a trembling within my reach.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 33.8,
+   "end": 40.02,
+   "text": "Caught in sin, the accuser said, Moses said,",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 40.32,
+   "end": 42.18,
+   "text": "she should be dead.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 42.8,
+   "end": 46.78,
+   "text": "But I've been down, wrote in the sand.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 47.6,
+   "end": 51.22,
+   "text": "Truth was heavy on every man.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 51.92,
+   "end": 55.7,
+   "text": "Their stones grew still, their hearts grew sore.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 55.7,
+   "end": 60.04,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 60.04,
+   "end": 62.4,
+   "text": "He that's without sin",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 62.4,
+   "end": 64.4,
+   "text": "Let them cast their stone",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 64.4,
+   "end": 66.88,
+   "text": "One by one",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 66.88,
+   "end": 69.36,
+   "text": "They all went home",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 69.36,
+   "end": 71.22,
+   "text": "Mercy spoke",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 71.22,
+   "end": 73.44,
+   "text": "And shame was torn",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 74.46,
+   "end": 78.28,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 78.28,
+   "end": 80.36,
+   "text": "No one left",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 80.36,
+   "end": 82.48,
+   "text": "To curse or accuse",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 82.48,
+   "end": 84.88,
+   "text": "Forgiven they clean",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 84.88,
+   "end": 91.76,
+   "text": "said free to choose my grace has opened freedom's door",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 92.6,
+   "end": 96.8,
+   "text": "go and sin no more",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 100.52,
+   "end": 105.5,
+   "text": "woman I said where are they now",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 106.04,
+   "end": 109.8,
+   "text": "does no one stand to judge you now",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 109.8,
+   "end": 114.1,
+   "text": "She whispered soft, no one Lord",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 114.1,
+   "end": 118.48,
+   "text": "And I spoke truth she'd not heard before",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 118.48,
+   "end": 123.36,
+   "text": "Neither do I condemn your soul",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 123.36,
+   "end": 128.18,
+   "text": "My mercy's here to make you whole",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 128.18,
+   "end": 132.34,
+   "text": "Walk in life, your chains are no more",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 132.34,
+   "end": 136.76,
+   "text": "Going sin no more",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 136.76,
+   "end": 138.82,
+   "text": "He lasts without sin",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 138.82,
+   "end": 143.46,
+   "text": "Let them cast their stone for one by one",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 143.46,
+   "end": 150.18,
+   "text": "They all went home but she spoke and shame was torn",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 150.72,
+   "end": 154.84,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 154.84,
+   "end": 161.22,
+   "text": "No one left to curse or accuse, forgive or make clean",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 161.32,
+   "end": 168.18,
+   "text": "Set free to choose my grace as open freedom's door",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.428,
+   "track_id": "sGjecIPJalE#05"
+  },
+  {
+   "start": 169.04,
+   "end": 173.4,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.428,
+   "track_id": "sGjecIPJalE#05"
+  }
+ ]
+}

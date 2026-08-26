@@ -1,0 +1,486 @@
+{
+ "track_id": "NwYKGZpyYs8#16",
+ "track_key": "NwYKGZpyYs8__16",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Peace I Leave (John 16)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 277.0,
+ "voiced_sec": 230.0,
+ "voice_ratio": 0.83,
+ "n_words": 416,
+ "words_per_min": 90.1,
+ "is_instrumental": false,
+ "n_segments": 58,
+ "n_segments_voiced": 58,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 32.1,
+ "rtf": 0.116,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.72,
+   "text": "Mm-hmm",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 5.52,
+   "end": 9.7,
+   "text": "I have said these things to keep you short",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 10.74,
+   "end": 15.52,
+   "text": "So you will stand and still endure",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 17.1,
+   "end": 20.82,
+   "text": "They will put you out and claim God right",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 22.66,
+   "end": 26.62,
+   "text": "Some will kill and think they fight",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.249,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 28.24,
+   "end": 37.0,
+   "text": "They do not know the Father true They do not know the one who sent you",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.67,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 39.28,
+   "end": 47.94,
+   "text": "I'll tell you now before it starts So you remember in your heart",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.67,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 49.94,
+   "end": 55.08,
+   "text": "I have said these things, oh peace remains in me",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.826,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 55.08,
+   "end": 58.36,
+   "text": "You stand, oh trouble reigns",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.826,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 58.36,
+   "end": 62.94,
+   "text": "In this world you will face distress, take heart",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.826,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 62.94,
+   "end": 65.92,
+   "text": "I have overcome this mess",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.826,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 65.92,
+   "end": 70.56,
+   "text": "I have said these things, oh peace remains in me",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.826,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 70.56,
+   "end": 74.06,
+   "text": "You stand, oh trouble reigns",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.826,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 74.06,
+   "end": 78.24,
+   "text": "In this world you will face this best day of",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.282,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 79.06,
+   "end": 81.54,
+   "text": "I have overcome this mess",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.282,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 82.56,
+   "end": 86.0,
+   "text": "I did not tell you this before",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.282,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 86.56,
+   "end": 90.34,
+   "text": "Because I walked with you much more",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.282,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 90.34,
+   "end": 93.72,
+   "text": "But now I go to Him who sent",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.282,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 93.72,
+   "end": 97.74,
+   "text": "And sorrow fills what joy once meant",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.282,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 98.56,
+   "end": 101.58,
+   "text": "None of you ask me where I go",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.282,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 101.58,
+   "end": 105.4,
+   "text": "yet truth must come and you must know",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.347,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 105.4,
+   "end": 109.16,
+   "text": "it is for good that I depart",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.347,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 109.16,
+   "end": 113.76,
+   "text": "the helper comes to guard your heart",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.347,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 115.72,
+   "end": 119.02,
+   "text": "when he comes he will convict",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.347,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 119.58,
+   "end": 123.0,
+   "text": "the world of sin they still resist",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.347,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 123.58,
+   "end": 126.22,
+   "text": "of sin because they trust me",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.347,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 126.22,
+   "end": 130.64,
+   "text": "not of righteousness by my assent",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.347,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 130.64,
+   "end": 134.54,
+   "text": "I go to Father unseen by you",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.539,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 134.54,
+   "end": 138.24,
+   "text": "Of judgment now made firm and true",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.539,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 138.24,
+   "end": 142.18,
+   "text": "The ruler of this world stands judged",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.539,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 142.18,
+   "end": 146.9,
+   "text": "His power broken, crushed and smushed",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.539,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 146.9,
+   "end": 151.8,
+   "text": "I have said these things, oh peace remains in me",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.539,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 151.8,
+   "end": 155.06,
+   "text": "You stand, though trouble reigns",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.539,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 155.06,
+   "end": 158.38,
+   "text": "In this world you will face distress",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.539,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 159.84,
+   "end": 162.64,
+   "text": "I have overcome this mess.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 162.8,
+   "end": 167.24,
+   "text": "I have said these things so peace remains in me.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 167.9,
+   "end": 170.46,
+   "text": "You stand, oh trouble reigns.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 170.84,
+   "end": 174.02,
+   "text": "In this world you will face this stress.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 174.2,
+   "end": 174.96,
+   "text": "Take heart.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 175.76,
+   "end": 178.08,
+   "text": "I have overcome this mess.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 178.32,
+   "end": 180.54,
+   "text": "I have much more I want to say.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 181.64,
+   "end": 184.6,
+   "text": "But you cannot bear it today.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 185.22,
+   "end": 188.36,
+   "text": "When spirit comes the truth may clear.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.793,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 188.36,
+   "end": 192.6,
+   "text": "He will guide you year by year",
+   "avg_logprob": -0.131,
+   "no_speech_prob": 0.683,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 192.6,
+   "end": 196.5,
+   "text": "He will not speak from self or pride",
+   "avg_logprob": -0.131,
+   "no_speech_prob": 0.683,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 196.5,
+   "end": 200.02,
+   "text": "But speak what heaven does provide",
+   "avg_logprob": -0.131,
+   "no_speech_prob": 0.683,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 200.02,
+   "end": 204.06,
+   "text": "He will declare what is to be",
+   "avg_logprob": -0.131,
+   "no_speech_prob": 0.683,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 204.06,
+   "end": 208.24,
+   "text": "And glorify the truth of me",
+   "avg_logprob": -0.131,
+   "no_speech_prob": 0.683,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 210.36,
+   "end": 213.68,
+   "text": "A little while you will not see",
+   "avg_logprob": -0.131,
+   "no_speech_prob": 0.683,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 214.36,
+   "end": 217.46,
+   "text": "A little while and then see me",
+   "avg_logprob": -0.131,
+   "no_speech_prob": 0.683,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 217.46,
+   "end": 225.26,
+   "text": "You will be scattered each alone, yet I am not left on my own",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 225.26,
+   "end": 232.88,
+   "text": "The Father stands here by my side, I speak these words so peace abides",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 233.46,
+   "end": 238.92,
+   "text": "In me you stand, though trials unfurl, take heart",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.575,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 238.92,
+   "end": 243.58,
+   "text": "I have overcome the world",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.604,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 249.26,
+   "end": 251.44,
+   "text": "Take off",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.604,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 253.82,
+   "end": 259.02,
+   "text": "I have overcome the world",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.604,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 264.14,
+   "end": 266.94,
+   "text": "Take off",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.604,
+   "track_id": "NwYKGZpyYs8#16"
+  },
+  {
+   "start": 269.08,
+   "end": 273.74,
+   "text": "Take on, I have overcome the world",
+   "avg_logprob": -0.62,
+   "no_speech_prob": 0.593,
+   "track_id": "NwYKGZpyYs8#16"
+  }
+ ]
+}

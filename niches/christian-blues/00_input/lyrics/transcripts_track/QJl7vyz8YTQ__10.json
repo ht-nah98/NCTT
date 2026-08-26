@@ -1,0 +1,334 @@
+{
+ "track_id": "QJl7vyz8YTQ#10",
+ "track_key": "QJl7vyz8YTQ__10",
+ "video_id": "QJl7vyz8YTQ",
+ "title": "Psalm.Be Still",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 300.0,
+ "voiced_sec": 203.5,
+ "voice_ratio": 0.678,
+ "n_words": 286,
+ "words_per_min": 57.2,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 39,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.3,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 2.48,
+   "end": 7.02,
+   "text": "The sun's been on my back",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.499,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 7.02,
+   "end": 13.9,
+   "text": "Like a hand that wouldn't let me rest",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.499,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 17.18,
+   "end": 22.9,
+   "text": "And every mile looks the same",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.499,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 22.9,
+   "end": 29.26,
+   "text": "Like the road for God What's next?",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.779,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 31.62,
+   "end": 44.08,
+   "text": "I asked the night how long But the night don't answer back",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.779,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 44.08,
+   "end": 57.58,
+   "text": "Then the morning cracked the sky And the hills came through the black",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.707,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 59.76,
+   "end": 70.04,
+   "text": "But I looked up and I saw the high hills Not the end of the road",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.707,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 70.8,
+   "end": 77.12,
+   "text": "But a reason to walk is style My help is coming",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 77.12,
+   "end": 80.96,
+   "text": "It's coming, Lord From the one who made it all",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 82.02,
+   "end": 88.44,
+   "text": "So I'll keep walking Even when I cray all",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 89.04,
+   "end": 95.24,
+   "text": "I don't need to see the fight in its truth I don't need to know how fair",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.632,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 95.24,
+   "end": 102.24,
+   "text": "I just need to see the next year And remember who you are",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 103.78,
+   "end": 110.18,
+   "text": "You made the mountains You made the morn",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 111.24,
+   "end": 117.24,
+   "text": "You made this road before my feet were born",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 117.84,
+   "end": 121.16,
+   "text": "So if you built the hills I'm seeing",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 121.16,
+   "end": 124.72,
+   "text": "Then you built the road I'm on",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 124.72,
+   "end": 128.54,
+   "text": "And if you built the road I'm on, Lord",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 129.16,
+   "end": 133.2,
+   "text": "Then I'll never walk it wrong",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 134.32,
+   "end": 136.38,
+   "text": "Look up, look up",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 136.38,
+   "end": 140.06,
+   "text": "See the hills, see the hills",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 140.06,
+   "end": 142.56,
+   "text": "He made them, He made them",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 143.16,
+   "end": 144.92,
+   "text": "He'll carry you over",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.618,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 144.92,
+   "end": 155.26,
+   "text": "Over every hill The road is long",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 157.92,
+   "end": 165.16,
+   "text": "But it's His road And these eyes",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.799,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 167.38,
+   "end": 170.52,
+   "text": "They were never in the way, Lord",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.772,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 172.68,
+   "end": 178.94,
+   "text": "They were showing me the way",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.772,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 189.54,
+   "end": 193.2,
+   "text": "Let everything that has breath",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.772,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 194.98,
+   "end": 200.08,
+   "text": "Praise the Lord.",
+   "avg_logprob": -0.767,
+   "no_speech_prob": 0.483,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 202.74,
+   "end": 208.64,
+   "text": "Praise ye the Lord.",
+   "avg_logprob": -0.767,
+   "no_speech_prob": 0.483,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 239.22,
+   "end": 243.16,
+   "text": "I've cried in the valley",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 246.46,
+   "end": 251.12,
+   "text": "I've come from the deep",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 253.68,
+   "end": 257.74,
+   "text": "I've laid on the floor",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 260.34,
+   "end": 264.88,
+   "text": "When I was too tired to sleep",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.476,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 268.64,
+   "end": 272.08,
+   "text": "I've asked you how long",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 275.64,
+   "end": 278.54,
+   "text": "I bet you to stay",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 281.64,
+   "end": 284.92,
+   "text": "But tonight I'm not asking",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 285.64,
+   "end": 289.28,
+   "text": "Tonight I just want to praise",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 290.64,
+   "end": 293.22,
+   "text": "Everything that it has praised",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10"
+  },
+  {
+   "start": 294.64,
+   "end": 296.84,
+   "text": "Praise the Lord tonight",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.213,
+   "track_id": "QJl7vyz8YTQ#10"
+  }
+ ]
+}

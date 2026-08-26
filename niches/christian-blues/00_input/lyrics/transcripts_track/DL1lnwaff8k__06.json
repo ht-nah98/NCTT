@@ -1,0 +1,150 @@
+{
+ "track_id": "DL1lnwaff8k#06",
+ "track_key": "DL1lnwaff8k__06",
+ "video_id": "DL1lnwaff8k",
+ "title": "5. Ecclesiastes 5 – Guard Thy Steps",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 201.0,
+ "voiced_sec": 145.1,
+ "voice_ratio": 0.722,
+ "n_words": 195,
+ "words_per_min": 58.2,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.8,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 10.86,
+   "end": 20.76,
+   "text": "Keep thy foot when thou goes near To the house of God walking fear",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.568,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 20.76,
+   "end": 31.48,
+   "text": "Be more ready to hear than to speak Fools rush with vows they cannot keep",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.427,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 32.96,
+   "end": 42.38,
+   "text": "Let thy words be few and clean For God is in heaven and we are seen",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.427,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 42.38,
+   "end": 53.52,
+   "text": "When you vow fulfill it fast Don't delay your words won't last",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.277,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 53.52,
+   "end": 64.2,
+   "text": "God thy steps, God thy tongue Let not your mouth undo what's done",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.277,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 64.2,
+   "end": 74.7,
+   "text": "Fear the Lord, not empty sound, for dreams are many where pride is found.",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.214,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 86.82,
+   "end": 96.74,
+   "text": "If thou seest the poor oppressed And just is lost and true suppressed",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.337,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 96.74,
+   "end": 106.94,
+   "text": "Know there's a higher overall And heaven sees the rise and fall",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.415,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 107.74,
+   "end": 118.26,
+   "text": "He that loves silver shall not be filled Nor he that gains with gold be thrilled",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.415,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 118.26,
+   "end": 128.56,
+   "text": "Riches increase so do the mouths And sleep is sweet and poorer house",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.216,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 129.26,
+   "end": 139.02,
+   "text": "Guard thy steps, guard thy tongue Let not your mouth undo what's done",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.216,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 139.02,
+   "end": 149.74,
+   "text": "Fear the Lord, not empty sound, for dreams are many where pride is found.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.442,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 161.86,
+   "end": 165.88,
+   "text": "All his days he ate it thin dark",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.285,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 165.88,
+   "end": 171.88,
+   "text": "Much sorrow at the restless heart",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.285,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 171.88,
+   "end": 176.5,
+   "text": "But joy is given when God allows",
+   "avg_logprob": -0.629,
+   "no_speech_prob": 0.285,
+   "track_id": "DL1lnwaff8k#06"
+  },
+  {
+   "start": 177.54,
+   "end": 184.26,
+   "text": "To eat, to drink, to rest from plows, serenely",
+   "avg_logprob": -0.642,
+   "no_speech_prob": 0.622,
+   "track_id": "DL1lnwaff8k#06"
+  }
+ ]
+}

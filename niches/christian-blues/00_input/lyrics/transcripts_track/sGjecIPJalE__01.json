@@ -1,0 +1,302 @@
+{
+ "track_id": "sGjecIPJalE#01",
+ "track_key": "sGjecIPJalE__01",
+ "video_id": "sGjecIPJalE",
+ "title": "That They May Be One (John 17)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 194.0,
+ "voiced_sec": 158.1,
+ "voice_ratio": 0.815,
+ "n_words": 304,
+ "words_per_min": 94.0,
+ "is_instrumental": false,
+ "n_segments": 35,
+ "n_segments_voiced": 35,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.7,
+ "rtf": 0.065,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.34,
+   "text": "🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 10.96,
+   "end": 15.76,
+   "text": "🎵 Father the hour has come 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 15.76,
+   "end": 19.7,
+   "text": "🎵 and glorify your Son 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 19.7,
+   "end": 22.94,
+   "text": "🎵 that the Son may glorify you 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 22.94,
+   "end": 25.64,
+   "text": "🎵 and your will be done 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 25.64,
+   "end": 28.8,
+   "text": "🎵 You gave me power over all 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 28.8,
+   "end": 31.26,
+   "text": "To give eternal life",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 31.8,
+   "end": 34.66,
+   "text": "To all whom you have given me",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 34.66,
+   "end": 37.2,
+   "text": "The ones for whom I'll fight",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 38.12,
+   "end": 40.44,
+   "text": "That they may be one",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 40.44,
+   "end": 43.82,
+   "text": "As you father are in me",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 44.8,
+   "end": 46.88,
+   "text": "That they may be one",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 46.88,
+   "end": 49.9,
+   "text": "In perfect unity",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 50.8,
+   "end": 53.18,
+   "text": "The world will know you since your son",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 53.18,
+   "end": 56.24,
+   "text": "By the love they live and show",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 57.16,
+   "end": 62.28,
+   "text": "That they may be one And all the world will know",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 63.54,
+   "end": 69.16,
+   "text": "I've given them your holy word And the world has hated them",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 70.02,
+   "end": 74.78,
+   "text": "They're not of this world, oh Lord, as I am not of them",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 76.26,
+   "end": 81.5,
+   "text": "Sank to find them in your truth Your word forever stands",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 81.5,
+   "end": 87.94,
+   "text": "As you have sent me to the world, I've sent them by your hands",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 88.5,
+   "end": 94.34,
+   "text": "That they may be one, as you father are in me",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 94.34,
+   "end": 100.24,
+   "text": "That they may be one, in perfect unity",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 100.24,
+   "end": 106.84,
+   "text": "The world will know you sent your son, by the love they live and show",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 106.84,
+   "end": 112.98,
+   "text": "That they may be one And all the world will know",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 115.42,
+   "end": 120.7,
+   "text": "Father, I desire now That those You've given me",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 120.7,
+   "end": 127.08,
+   "text": "Maybe with me where I am My glory they shall see",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 127.08,
+   "end": 133.46,
+   "text": "The love You had before the world You've given now to them",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 133.46,
+   "end": 140.6,
+   "text": "I am them and you and me forever without end",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 141.46,
+   "end": 146.48,
+   "text": "That they may be one as you father are in me",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 146.48,
+   "end": 152.28,
+   "text": "That they may be one in perfect unity",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 152.28,
+   "end": 155.38,
+   "text": "The glory you gave I've given them",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 155.38,
+   "end": 158.56,
+   "text": "Your love will never fade",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 159.66,
+   "end": 165.06,
+   "text": "That they may be one Just as we were made",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.505,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 166.8,
+   "end": 175.74,
+   "text": "Oh, I have made your name known And we'll make it known again",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.505,
+   "track_id": "sGjecIPJalE#01"
+  },
+  {
+   "start": 176.56,
+   "end": 184.12,
+   "text": "That the love with which you've loved me May live in them all men",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.505,
+   "track_id": "sGjecIPJalE#01"
+  }
+ ]
+}

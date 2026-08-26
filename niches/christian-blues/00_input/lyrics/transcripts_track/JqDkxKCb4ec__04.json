@@ -1,0 +1,262 @@
+{
+ "track_id": "JqDkxKCb4ec#04",
+ "track_key": "JqDkxKCb4ec__04",
+ "video_id": "JqDkxKCb4ec",
+ "title": "The Beginning Of Wisdom (Proverbs 1)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 218.0,
+ "voiced_sec": 149.6,
+ "voice_ratio": 0.686,
+ "n_words": 224,
+ "words_per_min": 61.6,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 29,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.3,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 9.46,
+   "end": 21.68,
+   "text": "My son, hear your father's instruction Don't throw your momma's words away",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.416,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 23.76,
+   "end": 27.84,
+   "text": "They're a garlin' round your head, child",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 29.38,
+   "end": 32.72,
+   "text": "They'll guide you on your way",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 35.74,
+   "end": 40.68,
+   "text": "When sinners come saying, Walk with us",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 40.68,
+   "end": 45.34,
+   "text": "Don't set your foot on their path",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 45.34,
+   "end": 49.76,
+   "text": "Their feet rush to evil",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 49.76,
+   "end": 56.76,
+   "text": "Their heart runs toward wrath The fear of the Lord",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.567,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 57.42,
+   "end": 64.76,
+   "text": "Is the start of all wisdom That's the song I'm gonna sing",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.567,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 64.76,
+   "end": 69.54,
+   "text": "Fools may mock But I'll keep listening",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.567,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 69.54,
+   "end": 75.16,
+   "text": "Cause wisdom's crown is a holy thing",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.461,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 85.36,
+   "end": 89.2,
+   "text": "Wisdom cries out in the streets",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.461,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 90.38,
+   "end": 93.54,
+   "text": "Raises her voice in the square",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.461,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 94.8,
+   "end": 98.92,
+   "text": "How long you simple one she's saying?",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 100.0,
+   "end": 103.44,
+   "text": "Will you love what isn't there?",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 104.72,
+   "end": 108.34,
+   "text": "She called but they wouldn't answer",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 108.34,
+   "end": 113.16,
+   "text": "They laughed when she warned of the fall",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 113.16,
+   "end": 118.24,
+   "text": "Now when trouble rolls like thunder",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 118.24,
+   "end": 123.32,
+   "text": "They won't find her voice at all",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 123.32,
+   "end": 129.22,
+   "text": "The fear of the Lord is the start of all wisdom",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 130.24,
+   "end": 133.18,
+   "text": "That's the song I'm gonna sing",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 133.18,
+   "end": 137.92,
+   "text": "Fool's Bay Moth, but I'll keep listening",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 137.92,
+   "end": 143.3,
+   "text": "Cause wisdom's crown is the holy thing",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 153.5,
+   "end": 158.38,
+   "text": "Turn out or reproof, she'll pour her spirit out",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 158.38,
+   "end": 162.58,
+   "text": "Make her words known to your soul",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 162.58,
+   "end": 172.98,
+   "text": "Whoever listens will live secure at peace when the storm starts to roll",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 173.58,
+   "end": 180.34,
+   "text": "The fear of the Lord is the start of all wisdom",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 180.34,
+   "end": 186.36,
+   "text": "That's the song I'm gonna sing, fools may mock",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 186.36,
+   "end": 189.1,
+   "text": "But I'll keep listening",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.205,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 190.36,
+   "end": 194.48,
+   "text": "Cause wisdom's crown is a holy thing",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.205,
+   "track_id": "JqDkxKCb4ec#04"
+  },
+  {
+   "start": 216.58,
+   "end": 217.98,
+   "text": "you",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.911,
+   "track_id": "JqDkxKCb4ec#04"
+  }
+ ]
+}

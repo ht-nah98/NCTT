@@ -1,0 +1,310 @@
+{
+ "track_id": "2y2CcCzAtyM#19",
+ "track_key": "2y2CcCzAtyM__19",
+ "video_id": "2y2CcCzAtyM",
+ "title": "19 — I Yield",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 297.7,
+ "voiced_sec": 234.5,
+ "voice_ratio": 0.788,
+ "n_words": 285,
+ "words_per_min": 57.4,
+ "is_instrumental": false,
+ "n_segments": 36,
+ "n_segments_voiced": 36,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 42.1,
+ "rtf": 0.141,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.44,
+   "text": "By the mercies of God that ye present your bodies",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.062,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 6.5,
+   "end": 11.26,
+   "text": "A living sacrifice, wholly acceptable unto God",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.062,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 14.0,
+   "end": 16.48,
+   "text": "Which is your reasonable service",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.062,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 18.16,
+   "end": 20.9,
+   "text": "Romans 12 and 1",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.062,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 31.46,
+   "end": 44.72,
+   "text": "I've wrestled long enough with what I want I've held so tight to things that never",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.267,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 44.72,
+   "end": 57.54,
+   "text": "last Now here I am with open empty hands",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.267,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 57.54,
+   "end": 67.88,
+   "text": "Lord, all I have is yours to hold at last",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.539,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 67.88,
+   "end": 79.98,
+   "text": "I yield, I yield Everything I am, I lay before Thee",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.539,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 79.98,
+   "end": 90.26,
+   "text": "I yield, I yield, take this life and make it all thine own",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.15,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 90.26,
+   "end": 100.26,
+   "text": "Not my will but thine be done, not my strength but thine alone",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.15,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 100.26,
+   "end": 108.62,
+   "text": "I yield, I yield, I yield",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.403,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 111.74,
+   "end": 119.04,
+   "text": "My pride has cost me more than I can say",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.403,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 121.26,
+   "end": 127.8,
+   "text": "My plans have crumbled like the morning dew",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.403,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 130.26,
+   "end": 137.36,
+   "text": "But in surrendering, I finally found",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.429,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 138.26,
+   "end": 145.32,
+   "text": "That losing all myself is finding you",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.429,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 146.26,
+   "end": 151.0,
+   "text": "I yield, I yield",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.429,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 152.26,
+   "end": 157.12,
+   "text": "Everything I am, I lay before Thee",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.429,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 157.12,
+   "end": 161.5,
+   "text": "I yield, I yield",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.234,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 161.5,
+   "end": 167.34,
+   "text": "Take this life and make it all thine own",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.234,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 168.92,
+   "end": 172.78,
+   "text": "Not my will, but thine be done",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.234,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 174.22,
+   "end": 178.3,
+   "text": "Not my strength, but thine alone",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.234,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 178.82,
+   "end": 183.38,
+   "text": "I yield, I yield",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.234,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 185.74,
+   "end": 191.08,
+   "text": "I, yeah, yeah, yeah, yeah, yeah Take my hands, Lord",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.195,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 191.08,
+   "end": 193.62,
+   "text": "Take my feet Take my will",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.195,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 193.62,
+   "end": 196.46,
+   "text": "And make it mean Take my heart",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.195,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 196.46,
+   "end": 200.7,
+   "text": "Take my mind Leave the old man far behind",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.195,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 203.48,
+   "end": 210.46,
+   "text": "Some of us have been fighting so long We forgot we had the option to simply stop",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.195,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 212.0,
+   "end": 217.18,
+   "text": "to lay it all down and let the Lord have His way",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.184,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 218.28,
+   "end": 226.6,
+   "text": "that is not weakness, beloved, that is the greatest act of faith.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.184,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 227.3,
+   "end": 236.38,
+   "text": "I yield, I surrender, all to Thee,",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.184,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 236.38,
+   "end": 237.6,
+   "text": "I yield",
+   "avg_logprob": -0.762,
+   "no_speech_prob": 0.529,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 237.6,
+   "end": 251.08,
+   "text": "I yield",
+   "avg_logprob": -0.762,
+   "no_speech_prob": 0.529,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 255.38,
+   "end": 259.92,
+   "text": "Everything I am I live before the",
+   "avg_logprob": -0.762,
+   "no_speech_prob": 0.529,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 259.92,
+   "end": 262.08,
+   "text": "I yield",
+   "avg_logprob": -0.762,
+   "no_speech_prob": 0.529,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 262.08,
+   "end": 273.88,
+   "text": "I yield, take this life and make it all fine, oh",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#19"
+  },
+  {
+   "start": 277.36,
+   "end": 282.24,
+   "text": "I yield, have your way",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.395,
+   "track_id": "2y2CcCzAtyM#19"
+  }
+ ]
+}

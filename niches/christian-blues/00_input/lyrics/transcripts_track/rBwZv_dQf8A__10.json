@@ -1,0 +1,286 @@
+{
+ "track_id": "rBwZv_dQf8A#10",
+ "track_key": "rBwZv_dQf8A__10",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Where There Is No Vision (Proverbs 29)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 226.0,
+ "voiced_sec": 174.9,
+ "voice_ratio": 0.774,
+ "n_words": 260,
+ "words_per_min": 69.0,
+ "is_instrumental": false,
+ "n_segments": 33,
+ "n_segments_voiced": 33,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 29.1,
+ "rtf": 0.129,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.32,
+   "text": "I'm shopping, I'm...",
+   "avg_logprob": -0.976,
+   "no_speech_prob": 0.387,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 25.16,
+   "end": 30.54,
+   "text": "When a man won't listen, keeps hardin' in his neck",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.494,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 30.54,
+   "end": 41.96,
+   "text": "Sooner or later that train's a wreck The fool gives full vent to his rage",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.725,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 43.54,
+   "end": 53.24,
+   "text": "But the wise man's peace turns the page A child left alone brings shame and tears",
+   "avg_logprob": -0.366,
+   "no_speech_prob": 0.725,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 53.24,
+   "end": 59.08,
+   "text": "But correction builds strength through the years",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.837,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 59.08,
+   "end": 64.18,
+   "text": "When the righteous rule, the people rejoice",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.837,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 65.24,
+   "end": 71.02,
+   "text": "When the wicked leave, you lose your voice",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.837,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 71.02,
+   "end": 76.12,
+   "text": "Where there is no vision, people lose their way",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.837,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 76.12,
+   "end": 81.22,
+   "text": "But the word of the Lord still hides the day",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.837,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 81.22,
+   "end": 86.96,
+   "text": "Hold that truth, don't drift astray",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.684,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 88.22,
+   "end": 92.04,
+   "text": "Where there is no vision, hearts decay",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.684,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 93.22,
+   "end": 98.06,
+   "text": "Pride brings love, but the humble rise",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.684,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 98.06,
+   "end": 103.62,
+   "text": "The fear of men brings foolish ties",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.684,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 104.22,
+   "end": 109.26,
+   "text": "Trust in the Lord and you'll be free",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.684,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 109.26,
+   "end": 114.18,
+   "text": "Oh, safe and steady for eternity",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.797,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 114.18,
+   "end": 120.06,
+   "text": "Oh, the righteous see the blind don't care",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.797,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 120.06,
+   "end": 125.16,
+   "text": "Oh, the wisdom cries out everywhere",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.797,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 126.26,
+   "end": 131.12,
+   "text": "Oh, justice exalts and mercy sings",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.797,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 132.26,
+   "end": 138.24,
+   "text": "Oh, when vision rings the spirit breathes",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.797,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 138.24,
+   "end": 142.72,
+   "text": "Where there is no vision, people lose their way",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.316,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 143.24,
+   "end": 148.14,
+   "text": "But the word of the Lord still lights the day",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.316,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 149.16,
+   "end": 153.68,
+   "text": "Oh, that truth don't drift us straight",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.316,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 154.24,
+   "end": 159.24,
+   "text": "Where there is no vision, hearts decayed",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.316,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 160.88,
+   "end": 164.02,
+   "text": "Right the vision, make it plain",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.316,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 164.02,
+   "end": 167.08,
+   "text": "Light the darkness, break the chain",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.316,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 167.08,
+   "end": 169.7,
+   "text": "Lift your eyes, the Word still speaks",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.3,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 169.7,
+   "end": 173.66,
+   "text": "Vision lives where the humble seek, yeah",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.3,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 173.66,
+   "end": 179.06,
+   "text": "Where there is no vision, people lose their way",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.3,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 179.06,
+   "end": 184.1,
+   "text": "But the Word of the Lord still lights the day",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.3,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 185.08,
+   "end": 189.44,
+   "text": "Oh, that truth, don't drift astray",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.3,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 189.44,
+   "end": 195.4,
+   "text": "Where there is no vision, hearts he can't",
+   "avg_logprob": -0.512,
+   "no_speech_prob": 0.833,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 201.28,
+   "end": 206.44,
+   "text": "Lift your eyes and walk his way",
+   "avg_logprob": -0.512,
+   "no_speech_prob": 0.833,
+   "track_id": "rBwZv_dQf8A#10"
+  },
+  {
+   "start": 211.76,
+   "end": 219.62,
+   "text": "Where there is no vision, Lord, we pray",
+   "avg_logprob": -0.631,
+   "no_speech_prob": 0.623,
+   "track_id": "rBwZv_dQf8A#10"
+  }
+ ]
+}

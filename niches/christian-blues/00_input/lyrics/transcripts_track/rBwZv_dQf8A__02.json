@@ -1,0 +1,366 @@
+{
+ "track_id": "rBwZv_dQf8A#02",
+ "track_key": "rBwZv_dQf8A__02",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Don't Fret The Evildoers (Proverbs 21)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 172.0,
+ "voiced_sec": 139.3,
+ "voice_ratio": 0.81,
+ "n_words": 258,
+ "words_per_min": 90.0,
+ "is_instrumental": false,
+ "n_segments": 43,
+ "n_segments_voiced": 43,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.6,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.72,
+   "text": "Ooh",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.651,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 5.64,
+   "end": 12.5,
+   "text": "Long, don't fret the evil doers when they rise",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.651,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 12.5,
+   "end": 18.58,
+   "text": "Their glory fades before your eyes",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.651,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 18.58,
+   "end": 24.54,
+   "text": "Don't envy sinners when they shine",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.651,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 25.72,
+   "end": 30.82,
+   "text": "There candle burns out in God's own time",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.652,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 31.76,
+   "end": 35.44,
+   "text": "If you faint when trouble calls your name",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.652,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 35.44,
+   "end": 38.36,
+   "text": "Your strength is small, your faith's in vain",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.652,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 38.36,
+   "end": 40.54,
+   "text": "So hold your ground, don't compromise",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.652,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 41.36,
+   "end": 44.88,
+   "text": "The Lord lifts up the humble wise",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.652,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 46.66,
+   "end": 49.46,
+   "text": "Don't fret the evil doers",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.652,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 49.46,
+   "end": 51.6,
+   "text": "Don't lose your soul to righteous",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.652,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 51.6,
+   "end": 53.8,
+   "text": "Just fall seven times, but rise whole",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 53.8,
+   "end": 55.52,
+   "text": "Keep your eyes on the promise",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 55.52,
+   "end": 58.66,
+   "text": "Steady and bold, don't fret the evildoers",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 58.66,
+   "end": 60.76,
+   "text": "God's in control",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 62.56,
+   "end": 66.72,
+   "text": "Don't say I'll pay that man back wrong",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 67.32,
+   "end": 68.48,
+   "text": "Ooh-oh",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 69.2,
+   "end": 72.66,
+   "text": "The Lord's the judge, he writes the wrong",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 73.36,
+   "end": 74.38,
+   "text": "Ooh-oh",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 74.38,
+   "end": 76.06,
+   "text": "When the wicked fall",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 77.36,
+   "end": 79.1,
+   "text": "Don't laugh or sing",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 79.1,
+   "end": 80.7,
+   "text": "Ooh-oh",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.408,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 80.7,
+   "end": 84.68,
+   "text": "The Lord still sees in everything",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 87.12,
+   "end": 90.06,
+   "text": "Fear the Lord and walk upright",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 90.06,
+   "end": 93.12,
+   "text": "His justice rose through darkest night",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 93.12,
+   "end": 95.96,
+   "text": "The fire may test, but grace refine",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 95.96,
+   "end": 99.18,
+   "text": "So stay the course, the crown's divine",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 101.04,
+   "end": 103.76,
+   "text": "Don't fret the evil doers",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 103.76,
+   "end": 107.12,
+   "text": "Don't lose your soul, the righteous fall seven times",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 107.12,
+   "end": 109.7,
+   "text": "But rise old, keep your eyes on the promise",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.396,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 109.7,
+   "end": 114.98,
+   "text": "Steady and bold, don't fret the evildoers, God's in control",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.471,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 115.9,
+   "end": 120.62,
+   "text": "When the wicked fall, don't clap your hands",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.471,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 120.62,
+   "end": 122.44,
+   "text": "God's still working through his plans",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.471,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 122.44,
+   "end": 127.14,
+   "text": "When the world seems wrong and cold",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.471,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 127.98,
+   "end": 133.14,
+   "text": "Remember his word, he's in control",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.471,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 136.96,
+   "end": 140.96,
+   "text": "Don't fret the evildoers, don't lose your soul",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.69,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 140.96,
+   "end": 144.04,
+   "text": "The righteous fall seven times, but rise whole",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.69,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 144.04,
+   "end": 146.9,
+   "text": "Keep your faith when the storm wind rolls",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.69,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 146.9,
+   "end": 148.86,
+   "text": "Don't fret the evildoers",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.69,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 148.86,
+   "end": 150.88,
+   "text": "God's in control",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.69,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 150.88,
+   "end": 155.8,
+   "text": "Oh, truth still stands though time grows old",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.69,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 155.8,
+   "end": 158.9,
+   "text": "Don't fret the evildoers",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.69,
+   "track_id": "rBwZv_dQf8A#02"
+  },
+  {
+   "start": 161.9,
+   "end": 165.92,
+   "text": "God's in control",
+   "avg_logprob": -0.734,
+   "no_speech_prob": 0.337,
+   "track_id": "rBwZv_dQf8A#02"
+  }
+ ]
+}

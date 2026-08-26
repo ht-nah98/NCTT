@@ -1,0 +1,414 @@
+{
+ "track_id": "Ss0pA-Cw8V0#01",
+ "track_key": "Ss0pA-Cw8V0__01",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Prayed Up",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 205.0,
+ "voiced_sec": 169.2,
+ "voice_ratio": 0.826,
+ "n_words": 376,
+ "words_per_min": 110.1,
+ "is_instrumental": false,
+ "n_segments": 49,
+ "n_segments_voiced": 49,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 38.8,
+ "rtf": 0.189,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 15.18,
+   "text": "Oh, yeah, when the world gets heavy and the night feels lonely",
+   "avg_logprob": -0.665,
+   "no_speech_prob": 0.201,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 16.8,
+   "end": 26.04,
+   "text": "I stay afraid of cause his grace don't mean any love don't fail",
+   "avg_logprob": -0.665,
+   "no_speech_prob": 0.201,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 27.08,
+   "end": 28.68,
+   "text": "Mmm, yeah",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 31.42,
+   "end": 32.14,
+   "text": "Yeah",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 33.66,
+   "end": 36.42,
+   "text": "Woke up with a battle on my mind",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 36.42,
+   "end": 39.68,
+   "text": "But I'm covered, devil tryna creep",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 39.68,
+   "end": 41.7,
+   "text": "But I'm guarded by my father",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 41.7,
+   "end": 45.28,
+   "text": "Angels on the front line, movin' like my brothers",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 45.28,
+   "end": 48.62,
+   "text": "Holy Spirit talkin' everywhere, makin' me stronger",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 48.62,
+   "end": 52.44,
+   "text": "Storms came hard, but the Lord still kept me",
+   "avg_logprob": -0.412,
+   "no_speech_prob": 0.756,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 52.44,
+   "end": 55.68,
+   "text": "Her try to break me but mercy can't be blessed",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 55.68,
+   "end": 59.5,
+   "text": "Darkness in the corner but the light won't let me",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 59.5,
+   "end": 63.92,
+   "text": "Fall back down, now God still directs me up",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 64.66,
+   "end": 67.44,
+   "text": "I feel his fire in my soul",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 68.26,
+   "end": 71.08,
+   "text": "He lifts me up and makes me whole",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 71.96,
+   "end": 74.22,
+   "text": "Every tear that fairly wiped it clean",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 74.76,
+   "end": 77.72,
+   "text": "Jesus stay closer than I've ever seen",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 77.72,
+   "end": 80.78,
+   "text": "I'm prayed up, prayed up, prayed up",
+   "avg_logprob": -0.345,
+   "no_speech_prob": 0.445,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 80.78,
+   "end": 83.98,
+   "text": "Covered by love, yeah, I'm lifted by the Savior",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 84.7,
+   "end": 87.86,
+   "text": "I'm prayed up, prayed up, prayed up",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 87.86,
+   "end": 91.1,
+   "text": "Devil came, touched me, I'm protected by the Maker",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 91.82,
+   "end": 94.9,
+   "text": "I'm prayed up, prayed up, prayed up",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 94.9,
+   "end": 98.16,
+   "text": "Standing on this Word, I ain't shaken by the danger",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 98.78,
+   "end": 102.44,
+   "text": "I'm prayed up, prayed up, prayed up",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 102.44,
+   "end": 106.18,
+   "text": "When the storm comes strong, Jesus, still my anchor",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 106.18,
+   "end": 108.14,
+   "text": "Hand raised high when I walked through the fire",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 108.14,
+   "end": 109.88,
+   "text": "Hard on the wheel, not the things I desire",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.794,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 109.88,
+   "end": 111.66,
+   "text": "Chain breaking power, my God is higher",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 111.66,
+   "end": 113.36,
+   "text": "He the true, the way, the holy Messiah",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 113.36,
+   "end": 115.16,
+   "text": "Late nights crying, but He turned them into healing",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 115.16,
+   "end": 116.98,
+   "text": "Pain in my chest, but the peace is different",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 116.98,
+   "end": 118.68,
+   "text": "Grace, whole demon is more than a feeling",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 118.68,
+   "end": 120.66,
+   "text": "Had to trust down on my soul to live it",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 122.56,
+   "end": 126.58,
+   "text": "When I call His name, He never fails",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 126.58,
+   "end": 130.14,
+   "text": "He never fades, my Savior reigns",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 130.14,
+   "end": 131.94,
+   "text": "He breaks every chain",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 135.18,
+   "end": 136.38,
+   "text": "God ain't you watching?",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 136.92,
+   "end": 138.16,
+   "text": "My God ain't stopping?",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.539,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 138.16,
+   "end": 143.6,
+   "text": "My faith ain't dropping, feel lucky rockin' up",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.744,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 146.36,
+   "end": 151.36,
+   "text": "I'm prayed up, I'm prayed up, I'm prayed up",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.744,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 151.36,
+   "end": 154.54,
+   "text": "Covered by his love, yeah I'm lifted by the Savior",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.744,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 155.16,
+   "end": 158.84,
+   "text": "I'm prayed up, prayed up, I'm prayed up",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.744,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 158.84,
+   "end": 161.7,
+   "text": "Devil can't touch me, I'm protected by the makeup",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.744,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 161.7,
+   "end": 167.92,
+   "text": "I'm prayed up, prayed up, I'm prayed up",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.744,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 169.08,
+   "end": 172.66,
+   "text": "I'm prayed up, prayed up, prayed up",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.612,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 172.66,
+   "end": 176.76,
+   "text": "When the storm comes strong, Jesus, still my anchor",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.612,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 178.66,
+   "end": 184.22,
+   "text": "Yeah, yeah, prayed up, prayed up",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.612,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 185.34,
+   "end": 189.22,
+   "text": "Jesus hold me close, I'm never letting go",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.612,
+   "track_id": "Ss0pA-Cw8V0#01"
+  },
+  {
+   "start": 189.22,
+   "end": 194.44,
+   "text": "Oh, I'm greater",
+   "avg_logprob": -1.414,
+   "no_speech_prob": 0.596,
+   "track_id": "Ss0pA-Cw8V0#01"
+  }
+ ]
+}

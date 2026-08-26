@@ -1,0 +1,262 @@
+{
+ "track_id": "sGjecIPJalE#13",
+ "track_key": "sGjecIPJalE__13",
+ "video_id": "sGjecIPJalE",
+ "title": "I Am The Good Shepherd (John 10)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 221.0,
+ "voiced_sec": 143.9,
+ "voice_ratio": 0.651,
+ "n_words": 242,
+ "words_per_min": 65.7,
+ "is_instrumental": false,
+ "n_segments": 30,
+ "n_segments_voiced": 30,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.1,
+ "rtf": 0.055,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.86,
+   "text": "Oh, believe",
+   "avg_logprob": -0.689,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 25.62,
+   "end": 28.58,
+   "text": "Truly, truly I say to you",
+   "avg_logprob": -0.689,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 28.58,
+   "end": 32.12,
+   "text": "The thief won't come by the gate",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 33.68,
+   "end": 36.56,
+   "text": "He climbs another way inside",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 37.58,
+   "end": 40.6,
+   "text": "To steal, destroy and take",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 42.18,
+   "end": 44.98,
+   "text": "But I'm the shepherd of the sheep",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 46.32,
+   "end": 48.58,
+   "text": "I call them by the name",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 50.52,
+   "end": 53.58,
+   "text": "They know my voice, they follow me",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 54.12,
+   "end": 57.34,
+   "text": "They'll never be the same",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 57.34,
+   "end": 61.86,
+   "text": "I am the good shepherd, I lay my life down",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 62.74,
+   "end": 70.24,
+   "text": "No one can take what's mine, I know my own, they know my sound",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 71.16,
+   "end": 78.46,
+   "text": "I'm faithful all the time, the wolf may come, but I'll stand short",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 79.64,
+   "end": 82.78,
+   "text": "I'll guard them at the door",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 82.78,
+   "end": 89.24,
+   "text": "I am the good shepherd forever and evermore",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.523,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 92.74,
+   "end": 99.3,
+   "text": "The hired hand will turn and run when dangers draw near",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.523,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 101.78,
+   "end": 108.16,
+   "text": "But I lay down my life for them because my love is clear",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.523,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 109.84,
+   "end": 116.46,
+   "text": "Oh the sheep I have to find, Not of this fold they'd be",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.726,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 118.0,
+   "end": 126.44,
+   "text": "They'll hear my voice and join my flock One fold, one lord, one peace and",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.726,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 126.44,
+   "end": 134.38,
+   "text": "I lay my life down No one can take what's mine",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.726,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 134.38,
+   "end": 138.56,
+   "text": "I know my own, they know my sound",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 139.38,
+   "end": 142.82,
+   "text": "I'm faithful all the time",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 143.38,
+   "end": 146.88,
+   "text": "The wolf may come, but I'll stand sure",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 147.92,
+   "end": 151.24,
+   "text": "I'll guard them at the door",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 151.24,
+   "end": 153.48,
+   "text": "I am the good shepherd",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 154.38,
+   "end": 157.34,
+   "text": "Forever and evermore",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 178.08,
+   "end": 185.34,
+   "text": "I'll lay my life down freely And I'll take it up again",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.631,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 186.34,
+   "end": 193.62,
+   "text": "My father's love is in me His will will never end",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.771,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 193.62,
+   "end": 200.3,
+   "text": "I am the good shepherd My sheep are safe and sure",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.771,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 201.54,
+   "end": 210.18,
+   "text": "I give them life eternal Forever and evermore",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.771,
+   "track_id": "sGjecIPJalE#13"
+  },
+  {
+   "start": 215.34,
+   "end": 216.32,
+   "text": "Oh",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.84,
+   "track_id": "sGjecIPJalE#13"
+  }
+ ]
+}

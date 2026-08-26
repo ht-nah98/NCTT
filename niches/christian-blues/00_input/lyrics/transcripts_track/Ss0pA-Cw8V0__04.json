@@ -1,0 +1,374 @@
+{
+ "track_id": "Ss0pA-Cw8V0#04",
+ "track_key": "Ss0pA-Cw8V0__04",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Christ My Saviour",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 222.0,
+ "voiced_sec": 156.1,
+ "voice_ratio": 0.703,
+ "n_words": 324,
+ "words_per_min": 87.6,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 44,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.7,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.9,
+   "text": "Oh",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.212,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 5.46,
+   "end": 10.42,
+   "text": "Your life still finds me",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.212,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 13.32,
+   "end": 15.6,
+   "text": "Grace carried me for",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.212,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 15.6,
+   "end": 20.92,
+   "text": "And my strength ever",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.212,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 23.52,
+   "end": 24.06,
+   "text": "Yeah",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.212,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 32.24,
+   "end": 33.2,
+   "text": "This one's from the heart",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.422,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 61.04,
+   "end": 63.42,
+   "text": "I'm here, every chain started breaking",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 63.42,
+   "end": 64.98,
+   "text": "Everyone began healing",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 64.98,
+   "end": 67.72,
+   "text": "Your blood on my heart turned numb in a feeling",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 67.72,
+   "end": 71.0,
+   "text": "Now I walk with a purpose with mercy as my flame",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 71.0,
+   "end": 73.96,
+   "text": "I'm redeemed, I'm restored all because of your name",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 73.96,
+   "end": 76.04,
+   "text": "Christ my Savior",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 76.04,
+   "end": 78.64,
+   "text": "The one who lifted me higher",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 79.58,
+   "end": 81.92,
+   "text": "When the world grew cold",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 81.92,
+   "end": 84.6,
+   "text": "You lit my soul on fire",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 85.7,
+   "end": 88.0,
+   "text": "You are my refuge",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 91.12,
+   "end": 94.06,
+   "text": "Oh Jesus, my Jesus",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 94.06,
+   "end": 96.44,
+   "text": "Forever you empower",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 97.38,
+   "end": 100.62,
+   "text": "I found peace in the whispers of your holy voice",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 100.62,
+   "end": 103.6,
+   "text": "When life gave me chaos you became a choice",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 103.6,
+   "end": 106.44,
+   "text": "You steady my heart be quieted",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 106.44,
+   "end": 108.42,
+   "text": "My mind rowed freedom on my future",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 108.42,
+   "end": 109.82,
+   "text": "And left my paths behind",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 109.82,
+   "end": 111.18,
+   "text": "All the battles I fought",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 111.18,
+   "end": 112.68,
+   "text": "You were fighting with me",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 112.68,
+   "end": 114.54,
+   "text": "Every mountain in front of me",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 114.54,
+   "end": 115.68,
+   "text": "You split like the sea",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 115.68,
+   "end": 117.2,
+   "text": "I ain't walking alone",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.825,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 117.2,
+   "end": 120.42,
+   "text": "I'm not never the same I got heaven in my steps",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.723,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 120.42,
+   "end": 123.44,
+   "text": "And you fire in my veins Grace on my tongue",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.723,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 123.44,
+   "end": 126.42,
+   "text": "Now the mercy in my breath You conquer my addiction",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.723,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 126.42,
+   "end": 129.52,
+   "text": "You rescued me from death Now I testify loud",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.723,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 129.52,
+   "end": 132.36,
+   "text": "I ain't hiding my life You gave my spirit wings",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.723,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 132.36,
+   "end": 135.98,
+   "text": "And taught my soul to fire Christ my Savior",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.723,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 136.82,
+   "end": 142.3,
+   "text": "The one who lived in me higher When the world grew colder",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.723,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 142.3,
+   "end": 145.86,
+   "text": "You lit my soul on fire On fire",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 145.86,
+   "end": 150.62,
+   "text": "You are my refuge My strength in every hour",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 150.62,
+   "end": 156.52,
+   "text": "Oh Jesus, my Jesus Forever you empower",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 159.74,
+   "end": 169.0,
+   "text": "Love so deep it breaks chain Grace so strong it shakes grave",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.695,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 169.0,
+   "end": 181.88,
+   "text": "Your mercy re-roll me, Your presence restore me, Your blood redeem me, Now Your glory is my story, yeah",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.349,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 181.88,
+   "end": 193.58,
+   "text": "Christ my Savior, my healer, my redeemer forever, Lord You carried me through the fire and made me stronger in the stormy weather",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.349,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 193.58,
+   "end": 198.64,
+   "text": "You are my refuge, my strength and every hour",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.567,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 198.64,
+   "end": 207.8,
+   "text": "Oh Jesus, my Jesus, my Savior, my Savior and my power",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.567,
+   "track_id": "Ss0pA-Cw8V0#04"
+  },
+  {
+   "start": 210.36,
+   "end": 213.94,
+   "text": "My Savior, yeah",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.567,
+   "track_id": "Ss0pA-Cw8V0#04"
+  }
+ ]
+}

@@ -1,0 +1,470 @@
+{
+ "track_id": "lKk3O0goUrA#06",
+ "track_key": "lKk3O0goUrA__06",
+ "video_id": "lKk3O0goUrA",
+ "title": "Praise Through It All",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 289.0,
+ "voiced_sec": 203.1,
+ "voice_ratio": 0.703,
+ "n_words": 291,
+ "words_per_min": 60.4,
+ "is_instrumental": false,
+ "n_segments": 56,
+ "n_segments_voiced": 56,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.8,
+ "rtf": 0.041,
+ "segments": [
+  {
+   "start": 5.78,
+   "end": 6.86,
+   "text": "Come on, Saint.",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.272,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 9.8,
+   "end": 11.62,
+   "text": "We came to praise through it all.",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.272,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 16.64,
+   "end": 17.38,
+   "text": "Let's go.",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.272,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 21.32,
+   "end": 23.86,
+   "text": "I've been through the fire",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.272,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 26.14,
+   "end": 34.42,
+   "text": "But I didn't smell like smoke I've been through the valley",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.497,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 37.34,
+   "end": 45.72,
+   "text": "But my faith had never broken When the enemy tried to take me",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.497,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 47.52,
+   "end": 51.8,
+   "text": "Lord, you stood by my side",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 53.2,
+   "end": 56.84,
+   "text": "Now I'm dancing in the victory",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 57.72,
+   "end": 60.76,
+   "text": "With my hands lifted high",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 63.72,
+   "end": 66.3,
+   "text": "No matter what I'm facing",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 68.46,
+   "end": 72.16,
+   "text": "I'll lift my voice and sing",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.615,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 77.34,
+   "end": 81.52,
+   "text": "Jesus, you're my everything.",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.415,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 84.96,
+   "end": 87.34,
+   "text": "Praise through it all.",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.415,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 89.44,
+   "end": 93.26,
+   "text": "I'll praise through it all.",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.415,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 94.58,
+   "end": 97.8,
+   "text": "In the good or bad.",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.415,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 99.58,
+   "end": 102.14,
+   "text": "Lord, I'll give you my life.",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.415,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 102.14,
+   "end": 105.56,
+   "text": "Give you my all",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.55,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 106.14,
+   "end": 108.58,
+   "text": "When the doctor gave the verdict",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.55,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 110.64,
+   "end": 114.1,
+   "text": "You said that I would live",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.55,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 115.74,
+   "end": 119.26,
+   "text": "When my pockets felt so empty",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.55,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 120.76,
+   "end": 125.0,
+   "text": "You had blessings left to give",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.55,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 126.32,
+   "end": 130.82,
+   "text": "Every mountain that was in my way",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.55,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 131.96,
+   "end": 140.44,
+   "text": "You helped me climb at all That's why I keep on shouting",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.597,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 142.66,
+   "end": 151.0,
+   "text": "I'll praise you through it all I'll lift my hands in the trial",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.597,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 151.0,
+   "end": 156.36,
+   "text": "And dancing every storm",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.604,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 157.96,
+   "end": 162.02,
+   "text": "Cause you are my salvation",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.604,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 162.02,
+   "end": 167.22,
+   "text": "My shelter and my song",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.604,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 169.34,
+   "end": 172.26,
+   "text": "Praise through it all",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.604,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 173.92,
+   "end": 178.02,
+   "text": "I'll praise through it all",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.604,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 178.02,
+   "end": 182.64,
+   "text": "You and all in the good or bad",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.465,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 185.02,
+   "end": 190.28,
+   "text": "Lord, I'll give you my all",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.465,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 190.28,
+   "end": 195.52,
+   "text": "I won't stop praising His name",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.465,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 195.52,
+   "end": 200.88,
+   "text": "I won't stop shouting His days the same",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.465,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 200.88,
+   "end": 206.14,
+   "text": "Morning, noon, and midnight I'll praise Your name",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.465,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 206.14,
+   "end": 209.14,
+   "text": "No matter the season",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 209.14,
+   "end": 211.26,
+   "text": "You're always the same",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 211.26,
+   "end": 211.98,
+   "text": "Yeah",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 213.92,
+   "end": 216.38,
+   "text": "Keep on praising",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 217.14,
+   "end": 219.06,
+   "text": "Through it all",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 220.14,
+   "end": 222.1,
+   "text": "Through it all",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 222.1,
+   "end": 225.34,
+   "text": "I'll praise through it all",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 225.34,
+   "end": 227.14,
+   "text": "Through it all",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 227.68,
+   "end": 230.2,
+   "text": "In the good or bad",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 230.2,
+   "end": 232.58,
+   "text": "Good or bad",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 232.58,
+   "end": 235.42,
+   "text": "Lord, I'll give you my all",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 235.42,
+   "end": 238.0,
+   "text": "Give you my hope",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 240.18,
+   "end": 241.32,
+   "text": "I'll pray",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 241.32,
+   "end": 243.24,
+   "text": "Through it all",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 243.24,
+   "end": 245.14,
+   "text": "I'll pray",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 246.26,
+   "end": 248.98,
+   "text": "Through it all",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 248.98,
+   "end": 252.0,
+   "text": "Through it all",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 252.0,
+   "end": 253.74,
+   "text": "Good or bad",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 253.74,
+   "end": 256.96,
+   "text": "Lord, I'll give you my hope",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 256.96,
+   "end": 259.44,
+   "text": "Give you my hope",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 259.44,
+   "end": 260.76,
+   "text": "I'll pray",
+   "avg_logprob": -0.585,
+   "no_speech_prob": 0.699,
+   "track_id": "lKk3O0goUrA#06"
+  },
+  {
+   "start": 263.9,
+   "end": 277.98,
+   "text": "I'll praise you through it all, hallelujah",
+   "avg_logprob": -0.795,
+   "no_speech_prob": 0.656,
+   "track_id": "lKk3O0goUrA#06"
+  }
+ ]
+}

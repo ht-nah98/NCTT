@@ -1,0 +1,12 @@
+{
+  "A1_n_tracks": 5,
+  "A2_bpm_median": 71.8,
+  "A3_major_ratio": 1.0,
+  "A4_swing_ratio": 0.4,
+  "A5_sec_per_chord_median": 7.6,
+  "_meta": {
+    "tầng": "MÔ TẢ (không kiểm định)",
+    "nguồn": "00_input/raw/audio/*.yaml (librosa DSP)",
+    "cảnh_báo": "n=5, không có nhóm đối chứng"
+  }
+}

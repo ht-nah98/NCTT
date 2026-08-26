@@ -1,0 +1,174 @@
+{
+ "track_id": "_ycC4y-4sYo#03",
+ "track_key": "_ycC4y-4sYo__03",
+ "video_id": "_ycC4y-4sYo",
+ "title": "Shepherd Psalm",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 222.0,
+ "voiced_sec": 85.8,
+ "voice_ratio": 0.386,
+ "n_words": 143,
+ "words_per_min": 38.7,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.3,
+ "rtf": 0.037,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.24,
+   "text": "I'll hold your name",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 3.6,
+   "end": 6.1,
+   "text": "Alpha Omega",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 8.0,
+   "end": 10.68,
+   "text": "Beginning and end",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 12.7,
+   "end": 14.44,
+   "text": "God the Father",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 15.0,
+   "end": 16.64,
+   "text": "God the Son",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 17.2,
+   "end": 19.5,
+   "text": "God the Holy Spirit",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 21.6,
+   "end": 23.16,
+   "text": "My everything",
+   "avg_logprob": -0.594,
+   "no_speech_prob": 0.466,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 31.14,
+   "end": 33.64,
+   "text": "The Lord is my shepherd.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.437,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 41.0,
+   "end": 42.44,
+   "text": "I shall not want.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.437,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 50.72,
+   "end": 54.26,
+   "text": "He maketh me to lie down in green pasture.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.437,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 58.36,
+   "end": 63.32,
+   "text": "He lead me beside the still waters.",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.608,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 68.42,
+   "end": 70.42,
+   "text": "He restoreeth my soul.",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.608,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 70.42,
+   "end": 79.5,
+   "text": "Oh, he leadeth me in the past of righteousness, for his name's saved.",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.615,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 85.44,
+   "end": 96.78,
+   "text": "Yeah, though I walk through the valley of the shadow of death, I will fear no evil.",
+   "avg_logprob": -0.444,
+   "no_speech_prob": 0.615,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 99.4,
+   "end": 106.52,
+   "text": "For thou water with me, thy rod and thy staff, they comfort me.",
+   "avg_logprob": -0.496,
+   "no_speech_prob": 0.716,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 113.22,
+   "end": 120.46,
+   "text": "Now I'll prepare us to table before me in the presence of mine enemies.",
+   "avg_logprob": -0.496,
+   "no_speech_prob": 0.716,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 121.82,
+   "end": 129.26,
+   "text": "Thou are known as my head with oil, my cup runneth over.",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 133.22,
+   "end": 143.5,
+   "text": "Surely goodness and mercy shall follow me all the days of my life, and I will dwell",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.649,
+   "track_id": "_ycC4y-4sYo#03"
+  },
+  {
+   "start": 143.5,
+   "end": 147.68,
+   "text": "in the house of the Lord forever",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.536,
+   "track_id": "_ycC4y-4sYo#03"
+  }
+ ]
+}

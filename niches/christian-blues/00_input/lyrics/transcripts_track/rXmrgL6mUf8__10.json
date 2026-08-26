@@ -1,0 +1,590 @@
+{
+ "track_id": "rXmrgL6mUf8#10",
+ "track_key": "rXmrgL6mUf8__10",
+ "video_id": "rXmrgL6mUf8",
+ "title": "Make Haste",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 296.0,
+ "voiced_sec": 263.9,
+ "voice_ratio": 0.892,
+ "n_words": 441,
+ "words_per_min": 89.4,
+ "is_instrumental": false,
+ "n_segments": 71,
+ "n_segments_voiced": 71,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 17.6,
+ "rtf": 0.059,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.72,
+   "text": "Even when I don't know",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.575,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 18.62,
+   "end": 21.06,
+   "text": "Trials and tribulations linger",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.575,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 21.06,
+   "end": 23.16,
+   "text": "In Jesus, I need you",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.575,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 23.16,
+   "end": 25.02,
+   "text": "Heavy burdens press",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.575,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 25.02,
+   "end": 27.32,
+   "text": "Beneath this somber hill",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.575,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 27.32,
+   "end": 31.76,
+   "text": "Been battling doubt, trying hard to stand",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 32.32,
+   "end": 36.42,
+   "text": "Feeling isolated, no helping hand in this land",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 36.42,
+   "end": 40.62,
+   "text": "But your promise echoes a comforting sound",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 40.62,
+   "end": 45.64,
+   "text": "Yeah, no test too great, no struggle unbound it's found",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 45.64,
+   "end": 49.7,
+   "text": "Though I feel fractured, I still fight the good fight",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 50.32,
+   "end": 54.22,
+   "text": "You are my safety, my unwavering light",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 54.22,
+   "end": 58.96,
+   "text": "So I lift my voice through this strife",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.729,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 58.96,
+   "end": 63.3,
+   "text": "Clinging to hope for renewed life",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.729,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 64.22,
+   "end": 70.46,
+   "text": "And I cry out, Jovan, DC",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.729,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 71.22,
+   "end": 75.5,
+   "text": "Make haste, oh Lord, please don't delay",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.729,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 75.5,
+   "end": 80.12,
+   "text": "I need you now, show your way",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.729,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 80.12,
+   "end": 86.84,
+   "text": "You said you'd keep me sheltered and secure in the highest place",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 86.84,
+   "end": 88.88,
+   "text": "Forever to endure",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 88.88,
+   "end": 94.66,
+   "text": "Oh, I know you're shaping straight within my soul",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 94.66,
+   "end": 96.86,
+   "text": "But this trial feels immense",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 97.36,
+   "end": 101.5,
+   "text": "Take back control, set your shield of safety",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 101.5,
+   "end": 103.68,
+   "text": "Fur me round my core",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 103.68,
+   "end": 105.58,
+   "text": "Cause I trust you still",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 106.48,
+   "end": 108.26,
+   "text": "Even when I'm sore",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.685,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 108.26,
+   "end": 112.62,
+   "text": "Oh, they can't perceive the sorrow I conceal",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.674,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 113.26,
+   "end": 117.26,
+   "text": "Smiling I would leave while my spirit doesn't heal",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.674,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 117.26,
+   "end": 120.54,
+   "text": "You declared, though dangers may surround",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.674,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 120.54,
+   "end": 125.5,
+   "text": "Your grace will keep me safe and sound",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.674,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 126.26,
+   "end": 130.32,
+   "text": "I'm holding fast to every word of your might",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.674,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 131.26,
+   "end": 135.02,
+   "text": "My strong tower, my refuge in the fight",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.674,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 135.02,
+   "end": 139.54,
+   "text": "You'll save me from the traps and every hidden threat",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.679,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 139.54,
+   "end": 144.12,
+   "text": "So I'm calling you with faith I won't forget",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.679,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 144.82,
+   "end": 148.64,
+   "text": "You pledge to answer my plea",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.679,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 149.32,
+   "end": 153.18,
+   "text": "To be my God eternally",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.679,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 153.82,
+   "end": 160.76,
+   "text": "So I'm crying, crying out Jehovah, DC",
+   "avg_logprob": -0.361,
+   "no_speech_prob": 0.679,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 160.76,
+   "end": 163.34,
+   "text": "Make haste, oh Lord",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 163.34,
+   "end": 165.44,
+   "text": "Please don't delay",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 165.44,
+   "end": 167.76,
+   "text": "I need you now",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 167.76,
+   "end": 170.06,
+   "text": "Show your way",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 170.06,
+   "end": 173.84,
+   "text": "You said you'd keep me sheltered",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 173.84,
+   "end": 176.86,
+   "text": "And secure in the highest place",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 176.86,
+   "end": 178.9,
+   "text": "Forever to endure",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 178.9,
+   "end": 182.32,
+   "text": "Oh, I know you're shaping strength",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 182.32,
+   "end": 184.66,
+   "text": "Within my soul",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 184.66,
+   "end": 186.88,
+   "text": "But this trial feels immense",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 186.88,
+   "end": 189.12,
+   "text": "Take back control",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.652,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 189.12,
+   "end": 193.68,
+   "text": "set your shield of safety from around my car",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.605,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 193.68,
+   "end": 195.48,
+   "text": "cause I trust you still",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.605,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 196.68,
+   "end": 202.44,
+   "text": "Even when I'm sore, you've out your presence in every distress",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.605,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 202.44,
+   "end": 207.2,
+   "text": "Lord, you promise rescue a complete redress",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.605,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 207.2,
+   "end": 211.84,
+   "text": "You said when I call, you will attend here",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.605,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 211.84,
+   "end": 216.12,
+   "text": "So why does your comfort feel unclear?",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.605,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 216.12,
+   "end": 220.82,
+   "text": "But even when shadows obscure my sight",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.613,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 220.82,
+   "end": 225.26,
+   "text": "I believe you're actively in my fight",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.613,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 225.26,
+   "end": 229.82,
+   "text": "You steadfast through every trial's burn",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.613,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 229.82,
+   "end": 234.14,
+   "text": "So your holy name I eternally thirst",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.613,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 234.14,
+   "end": 237.44,
+   "text": "Oh Lord, please don't delay",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.613,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 237.44,
+   "end": 239.78,
+   "text": "I need you now",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.613,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 239.78,
+   "end": 242.06,
+   "text": "Show your way",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.613,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 242.06,
+   "end": 248.9,
+   "text": "You said you'd keep me sheltered and secure in the highest place",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.619,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 248.9,
+   "end": 252.14,
+   "text": "Forever to end all I know",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.619,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 252.14,
+   "end": 256.66,
+   "text": "You're shaping strength within my soul",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.619,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 256.66,
+   "end": 258.92,
+   "text": "But this trial feels immense",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.619,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 258.92,
+   "end": 262.38,
+   "text": "Take back controls at your shield",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.619,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 262.38,
+   "end": 265.68,
+   "text": "Of safety all around my name",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.619,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 265.68,
+   "end": 267.32,
+   "text": "I still trust you",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.619,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 267.32,
+   "end": 270.54,
+   "text": "Just I still proclaim",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.585,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 272.3,
+   "end": 276.54,
+   "text": "Oh make haste",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.585,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 277.32,
+   "end": 279.12,
+   "text": "Don't delay",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.585,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 280.32,
+   "end": 286.68,
+   "text": "I'm calling you my only true state",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.585,
+   "track_id": "rXmrgL6mUf8#10"
+  },
+  {
+   "start": 290.18,
+   "end": 294.88,
+   "text": "Make haste, oh Lord, please don't delay",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.585,
+   "track_id": "rXmrgL6mUf8#10"
+  }
+ ]
+}

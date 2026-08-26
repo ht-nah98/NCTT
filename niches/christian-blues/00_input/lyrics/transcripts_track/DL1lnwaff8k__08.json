@@ -1,0 +1,174 @@
+{
+ "track_id": "DL1lnwaff8k#08",
+ "track_key": "DL1lnwaff8k__08",
+ "video_id": "DL1lnwaff8k",
+ "title": "7. Ecclesiastes 7 – The House of Mourning",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 304.0,
+ "voiced_sec": 214.7,
+ "voice_ratio": 0.706,
+ "n_words": 191,
+ "words_per_min": 37.7,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.9,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 30.84,
+   "end": 46.52,
+   "text": "A good name's better than riches stored And death's the day that ends the toil",
+   "avg_logprob": -0.408,
+   "no_speech_prob": 0.29,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 46.52,
+   "end": 63.72,
+   "text": "It's better to go where mourners cry than feast with fools and laugh the light.",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.564,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 63.72,
+   "end": 71.42,
+   "text": "The heart of wise is found in pain",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.268,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 73.82,
+   "end": 80.72,
+   "text": "But fools just dance in shallower rain",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.268,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 80.72,
+   "end": 97.4,
+   "text": "Better is sorrow than a song For by the grief the soul grows strong",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.183,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 97.4,
+   "end": 114.0,
+   "text": "The house of mourning teaches true What laughter hides the grave brings through",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.279,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 114.0,
+   "end": 129.96,
+   "text": "The end of things is better friend than proud beginning is that pretend",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.222,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 148.52,
+   "end": 155.28,
+   "text": "Be not quick in spirit to be mad.",
+   "avg_logprob": -0.498,
+   "no_speech_prob": 0.379,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 159.44,
+   "end": 163.6,
+   "text": "Anger lives where fools are clad.",
+   "avg_logprob": -0.498,
+   "no_speech_prob": 0.379,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 165.38,
+   "end": 180.7,
+   "text": "Wisdom's like light in the darkest place It gives of strength and walks with grace",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.606,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 180.7,
+   "end": 188.64,
+   "text": "Consider the Word God forms and bends",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.348,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 190.7,
+   "end": 196.96,
+   "text": "Who can straighten what He intends",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.348,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 198.7,
+   "end": 204.78,
+   "text": "In days of joy, rejoicing",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.348,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 204.78,
+   "end": 212.86,
+   "text": "But in the dark, consider Him",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.377,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 214.38,
+   "end": 221.5,
+   "text": "The house of mourning teaches truth",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.377,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 222.78,
+   "end": 230.42,
+   "text": "What laughter hides the grave brings through",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.377,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 230.42,
+   "end": 246.28,
+   "text": "The end of things is better friend than proud beginnings that pretend",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.32,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 248.0,
+   "end": 263.52,
+   "text": "I've seen it all in my vain days The righteous fall, the wicked praise",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.344,
+   "track_id": "DL1lnwaff8k#08"
+  },
+  {
+   "start": 263.52,
+   "end": 280.74,
+   "text": "But wisdom holds the soul of right In shadows deep it gives a sight",
+   "avg_logprob": -0.52,
+   "no_speech_prob": 0.461,
+   "track_id": "DL1lnwaff8k#08"
+  }
+ ]
+}

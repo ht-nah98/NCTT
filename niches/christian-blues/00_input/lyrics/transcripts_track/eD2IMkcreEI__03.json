@@ -1,0 +1,470 @@
+{
+ "track_id": "eD2IMkcreEI#03",
+ "track_key": "eD2IMkcreEI__03",
+ "video_id": "eD2IMkcreEI",
+ "title": "I Speak Jesus",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 292.0,
+ "voiced_sec": 205.0,
+ "voice_ratio": 0.702,
+ "n_words": 294,
+ "words_per_min": 60.4,
+ "is_instrumental": false,
+ "n_segments": 56,
+ "n_segments_voiced": 55,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.8,
+ "rtf": 0.051,
+ "segments": [
+  {
+   "start": 18.66,
+   "end": 20.06,
+   "text": "Oh",
+   "avg_logprob": -0.808,
+   "no_speech_prob": 0.866,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 34.12,
+   "end": 41.86,
+   "text": "Yeah, the sweetest name I know, there's power in His name.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.79,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 43.1,
+   "end": 44.7,
+   "text": "Oh Jesus.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.79,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 48.0,
+   "end": 55.44,
+   "text": "When the darkness tries to pull me down and fear begins to speak too loud,",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.79,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 57.04,
+   "end": 62.8,
+   "text": "I whisper, I whisper grace",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.816,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 63.44,
+   "end": 68.08,
+   "text": "I speak the name above every name",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.816,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 68.08,
+   "end": 69.44,
+   "text": "Oh Jesus",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.816,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 70.5,
+   "end": 74.86,
+   "text": "When the pain feels too deep inside",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.816,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 74.86,
+   "end": 77.86,
+   "text": "And tears are all I have to hide",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.816,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 77.86,
+   "end": 80.92,
+   "text": "I call Your name and I am free",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.816,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 80.92,
+   "end": 84.66,
+   "text": "Cause Jesus, you still carry me, Lord",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 84.66,
+   "end": 86.92,
+   "text": "I speak Jesus",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 86.92,
+   "end": 89.84,
+   "text": "Over my life",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 89.84,
+   "end": 93.22,
+   "text": "I speak Jesus",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 94.4,
+   "end": 95.9,
+   "text": "In the fight",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 95.9,
+   "end": 98.98,
+   "text": "Over my family, over my soul",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 98.98,
+   "end": 101.46,
+   "text": "You make the broken whole",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 102.2,
+   "end": 104.78,
+   "text": "Cause I speak Jesus",
+   "avg_logprob": -0.477,
+   "no_speech_prob": 0.595,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 104.78,
+   "end": 111.02,
+   "text": "My heart is yours to hold",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.786,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 115.32,
+   "end": 120.22,
+   "text": "When I'm weary Lord, you lift my head",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.786,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 120.22,
+   "end": 125.36,
+   "text": "You come the storm, I sow you fair",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.786,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 128.6,
+   "end": 131.88,
+   "text": "Every wound you heal with love",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.786,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 131.88,
+   "end": 136.1,
+   "text": "Your mercy flows from heaven above",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 137.56,
+   "end": 140.6,
+   "text": "Your mercy flows",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 140.6,
+   "end": 142.98,
+   "text": "In my weakness",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 143.88,
+   "end": 146.04,
+   "text": "You are strong",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 146.88,
+   "end": 149.18,
+   "text": "You turn my sorrow",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 149.88,
+   "end": 152.12,
+   "text": "Into song",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 152.88,
+   "end": 155.86,
+   "text": "And when I can't find words to pray",
+   "avg_logprob": -0.178,
+   "no_speech_prob": 0.728,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 155.86,
+   "end": 159.1,
+   "text": "Your spirit speaks through me today",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.793,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 164.52,
+   "end": 169.24,
+   "text": "I speak Jesus over my tears",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.793,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 172.14,
+   "end": 178.58,
+   "text": "You are my peace over my future",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.793,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 178.58,
+   "end": 182.92,
+   "text": "Over my fears You wipe away my tears",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.81,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 182.92,
+   "end": 191.06,
+   "text": "I speak Jesus Forever You are near",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.81,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 193.44,
+   "end": 197.54,
+   "text": "Forever near Your name is healing",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.81,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 197.54,
+   "end": 203.76,
+   "text": "Your name is freedom Your name is power",
+   "avg_logprob": -0.519,
+   "no_speech_prob": 0.81,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 203.76,
+   "end": 212.04,
+   "text": "Break in strongholds, breaking walls out",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.791,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 212.04,
+   "end": 219.34,
+   "text": "Your name brings comfort, your name brings peace",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.791,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 219.34,
+   "end": 222.58,
+   "text": "Your neighbor brings joy",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 222.58,
+   "end": 223.86,
+   "text": "Holy day",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 223.86,
+   "end": 226.9,
+   "text": "Never leaves",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 229.26,
+   "end": 230.22,
+   "text": "Oh",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 231.34,
+   "end": 233.72,
+   "text": "Never leaves me, never leaves me",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 233.72,
+   "end": 234.1,
+   "text": "Oh",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 234.84,
+   "end": 237.86,
+   "text": "I speak Jesus over my life",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 237.86,
+   "end": 239.3,
+   "text": "Over my life",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 239.3,
+   "end": 240.92,
+   "text": "Over my life",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 240.92,
+   "end": 243.96,
+   "text": "I speak Jesus in the night",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 243.96,
+   "end": 245.48,
+   "text": "I light my life",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 245.48,
+   "end": 247.14,
+   "text": "Every chain must break",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.707,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 247.14,
+   "end": 251.48,
+   "text": "Oh, your name I stand to hold",
+   "avg_logprob": -0.541,
+   "no_speech_prob": 0.746,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 252.14,
+   "end": 259.88,
+   "text": "I speak Jesus, Lord of all",
+   "avg_logprob": -0.541,
+   "no_speech_prob": 0.746,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 259.88,
+   "end": 261.52,
+   "text": "I speak Jesus",
+   "avg_logprob": -0.541,
+   "no_speech_prob": 0.746,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 261.52,
+   "end": 267.5,
+   "text": "I speak Jesus",
+   "avg_logprob": -0.541,
+   "no_speech_prob": 0.746,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 270.0,
+   "end": 273.8,
+   "text": "Over my home, over my heart",
+   "avg_logprob": -0.63,
+   "no_speech_prob": 0.45,
+   "track_id": "eD2IMkcreEI#03"
+  },
+  {
+   "start": 273.8,
+   "end": 279.14,
+   "text": "Every seas and every part I speak Jesus",
+   "avg_logprob": -0.63,
+   "no_speech_prob": 0.45,
+   "track_id": "eD2IMkcreEI#03"
+  }
+ ]
+}

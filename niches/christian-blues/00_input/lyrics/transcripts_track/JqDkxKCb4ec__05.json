@@ -1,0 +1,566 @@
+{
+ "track_id": "JqDkxKCb4ec#05",
+ "track_key": "JqDkxKCb4ec__05",
+ "video_id": "JqDkxKCb4ec",
+ "title": "Walk With The Wise (Proverbs 13)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 341.0,
+ "voiced_sec": 197.9,
+ "voice_ratio": 0.58,
+ "n_words": 364,
+ "words_per_min": 64.0,
+ "is_instrumental": false,
+ "n_segments": 68,
+ "n_segments_voiced": 68,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 151.1,
+ "rtf": 0.443,
+ "segments": [
+  {
+   "start": 2.32,
+   "end": 3.08,
+   "text": "MUSIC",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 3.98,
+   "end": 4.74,
+   "text": "Oh",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 4.74,
+   "end": 13.4,
+   "text": "Oh, my son hears his father's word",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 13.4,
+   "end": 15.24,
+   "text": "But fools don't listen long",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 16.0,
+   "end": 18.8,
+   "text": "A man eats good from what he speaks",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 18.8,
+   "end": 20.76,
+   "text": "But lies will choke his song",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 20.76,
+   "end": 23.96,
+   "text": "Lazy hands make a poor man's life",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 23.96,
+   "end": 25.8,
+   "text": "Diligence fills his plate",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 27.0,
+   "end": 29.32,
+   "text": "Hope that's dragged too long will hurt",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 29.32,
+   "end": 31.22,
+   "text": "But y'all don't show up late",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 31.22,
+   "end": 32.78,
+   "text": "Walk with the wise",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 32.78,
+   "end": 35.46,
+   "text": "You'll rise, hang with fools",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 35.46,
+   "end": 39.4,
+   "text": "You'll fall, keep your hands to the plow",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 39.4,
+   "end": 41.8,
+   "text": "Let wisdom guide it all",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 42.32,
+   "end": 44.74,
+   "text": "Let wisdom guide it all",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 44.74,
+   "end": 45.72,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 45.72,
+   "end": 46.1,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 46.1,
+   "end": 47.1,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 47.1,
+   "end": 47.62,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 57.26,
+   "end": 62.76,
+   "text": "A good man leaves an inheritance to children not yet grown",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 63.74,
+   "end": 68.4,
+   "text": "But well stored up for the sinner goes to the righteous home",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 68.4,
+   "end": 73.22,
+   "text": "The teaching of the wise is life turns you from desk door",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 73.22,
+   "end": 76.48,
+   "text": "Every step that walks with truth",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 76.48,
+   "end": 78.6,
+   "text": "Brings blessing more and more",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 78.6,
+   "end": 80.12,
+   "text": "Walk with the wise",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 80.12,
+   "end": 82.76,
+   "text": "Your eyes hang with fools",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 82.76,
+   "end": 83.74,
+   "text": "You'll fall",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 83.74,
+   "end": 86.7,
+   "text": "Keep your hands to the plow",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 86.7,
+   "end": 89.3,
+   "text": "Let wisdom guide it all",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 89.3,
+   "end": 92.42,
+   "text": "Yeah, walk with the wise",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 93.68,
+   "end": 96.36,
+   "text": "Don't lose it all",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 96.36,
+   "end": 99.52,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 99.52,
+   "end": 101.44,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 101.44,
+   "end": 102.12,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 102.12,
+   "end": 102.28,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 102.28,
+   "end": 102.72,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 163.74,
+   "end": 166.3,
+   "text": "Ooh Ooh Ooh Ooh",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 170.92,
+   "end": 174.94,
+   "text": "Oh, why, our son makes his father proud",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 176.92,
+   "end": 180.76,
+   "text": "A foolish one brings pain",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 183.02,
+   "end": 185.46,
+   "text": "Treasures gain by wicked hands",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 185.46,
+   "end": 187.8,
+   "text": "They don't last if they fade away",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 187.8,
+   "end": 191.26,
+   "text": "But righteousness delivers life",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 191.26,
+   "end": 193.72,
+   "text": "and truth will light your way",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 194.26,
+   "end": 197.42,
+   "text": "The hand of the diligent rules",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 197.42,
+   "end": 199.64,
+   "text": "while the lazy face to dust",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 200.26,
+   "end": 203.02,
+   "text": "blessings fall on the righteous man",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 203.02,
+   "end": 207.0,
+   "text": "and the Lord remembers the judge",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 207.0,
+   "end": 217.28,
+   "text": "ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 217.56,
+   "end": 222.74,
+   "text": "Hatred stirs up trouble, but love covers every wrong.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 224.02,
+   "end": 228.78,
+   "text": "Wisemen store up knowledge deep while fools just talk too long.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 229.64,
+   "end": 234.78,
+   "text": "The name of the righteous stands, but the wicked won't last long.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 234.78,
+   "end": 240.64,
+   "text": "The hand of the diligent rules while the lazy face to dust",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.327,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 240.64,
+   "end": 245.22,
+   "text": "Blessings fall on the righteous man and the Lord",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.327,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 245.78,
+   "end": 247.54,
+   "text": "Lord remembers the judge",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.327,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 270.9,
+   "end": 282.02,
+   "text": "Yes, in America...",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 282.02,
+   "end": 283.02,
+   "text": "the mouth of the righteous",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 283.02,
+   "end": 283.96,
+   "text": "is a bouncing,",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 284.76,
+   "end": 286.76,
+   "text": "but the wicked hide deceit,",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 286.76,
+   "end": 287.88,
+   "text": "oh boy.",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 287.88,
+   "end": 289.66,
+   "text": "He who walks an integrity",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 289.66,
+   "end": 291.6,
+   "text": "slide is nothing left to be",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 291.6,
+   "end": 294.38,
+   "text": "The whole",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 294.38,
+   "end": 298.14,
+   "text": "Oh, Mother Righteous brings joy",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 299.08,
+   "end": 302.9,
+   "text": "But the wicked can't compete",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 304.5,
+   "end": 308.0,
+   "text": "The hand of the diligent rules",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 308.0,
+   "end": 310.12,
+   "text": "While the lazy face to dust",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 311.06,
+   "end": 312.9,
+   "text": "Blessings fall on the righteous",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05"
+  },
+  {
+   "start": 312.9,
+   "end": 317.16,
+   "text": "A man and the Lord remembers a judge",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05"
+  }
+ ]
+}

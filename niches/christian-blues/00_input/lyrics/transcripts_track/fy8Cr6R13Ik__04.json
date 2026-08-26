@@ -1,0 +1,342 @@
+{
+ "track_id": "fy8Cr6R13Ik#04",
+ "track_key": "fy8Cr6R13Ik__04",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "4. Isaiah 12 — Wells of Salvation",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 261.0,
+ "voiced_sec": 187.6,
+ "voice_ratio": 0.719,
+ "n_words": 272,
+ "words_per_min": 62.5,
+ "is_instrumental": false,
+ "n_segments": 40,
+ "n_segments_voiced": 40,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.4,
+ "rtf": 0.04,
+ "segments": [
+  {
+   "start": 17.8,
+   "end": 22.88,
+   "text": "Oh Lord I will praise thee",
+   "avg_logprob": -0.989,
+   "no_speech_prob": 0.412,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 22.88,
+   "end": 26.66,
+   "text": "Though once you were rough with me",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 26.66,
+   "end": 31.1,
+   "text": "Your anger turned away",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 31.1,
+   "end": 35.42,
+   "text": "And now you comfort faithfully",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 36.9,
+   "end": 39.88,
+   "text": "Behold, God is my salvation",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 40.46,
+   "end": 44.72,
+   "text": "I will trust and not be afraid",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 44.72,
+   "end": 50.32,
+   "text": "For the Lord Jehovah is my strength",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.337,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 50.32,
+   "end": 53.7,
+   "text": "And in Him my soul is stayed",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 55.9,
+   "end": 61.12,
+   "text": "Therefore with joy shall we draw water",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 61.12,
+   "end": 65.2,
+   "text": "From the wells that never dry",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 66.32,
+   "end": 70.02,
+   "text": "Sing unto the Lord forever",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 70.02,
+   "end": 74.04,
+   "text": "Let His praises fill the sky",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 74.04,
+   "end": 79.42,
+   "text": "In that day shout and declare His name",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.459,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 79.42,
+   "end": 87.52,
+   "text": "For the Holy One is mighty and Zion ever the same",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.396,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 95.42,
+   "end": 103.2,
+   "text": "Call upon His holy name, make His deeds known in the earth",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.396,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 103.2,
+   "end": 111.92,
+   "text": "Let the nations hear the anthem of His mercy and His word",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.383,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 111.92,
+   "end": 120.64,
+   "text": "He hath done excellent things, let this be known abroad",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.383,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 121.2,
+   "end": 129.38,
+   "text": "Cry out and shout, ye people, He alone is God",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.383,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 131.36,
+   "end": 136.52,
+   "text": "Therefore with joy shall we draw water",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 136.52,
+   "end": 140.48,
+   "text": "From the wells that never dry",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 140.48,
+   "end": 145.26,
+   "text": "Sing unto the Lord forever",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 145.26,
+   "end": 149.32,
+   "text": "Let His praises fill the sky",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 149.32,
+   "end": 154.76,
+   "text": "In that day he shone and declared his name",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.443,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 154.76,
+   "end": 158.44,
+   "text": "For the Holy One is mighty and Zion",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 160.6,
+   "end": 162.86,
+   "text": "Ever the same",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 164.92,
+   "end": 169.34,
+   "text": "Sing oh soul that once was low",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 169.34,
+   "end": 173.5,
+   "text": "Drink from grace that overflows",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 173.5,
+   "end": 178.08,
+   "text": "In that day we'll say again",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 178.08,
+   "end": 182.38,
+   "text": "The Lord has turned our night to rain",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.362,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 184.76,
+   "end": 189.64,
+   "text": "Therefore with joy shall we draw water",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 189.64,
+   "end": 193.82,
+   "text": "From the wells that never dry",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 194.76,
+   "end": 198.54,
+   "text": "Sing unto the Lord forever",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 198.54,
+   "end": 202.84,
+   "text": "Let His praises fill the sky",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 202.84,
+   "end": 208.04,
+   "text": "In that day shall and declare His name",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 208.04,
+   "end": 211.64,
+   "text": "For the Holy One is mighty in Zion",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.335,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 213.92,
+   "end": 216.18,
+   "text": "ever the same",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 218.48,
+   "end": 222.6,
+   "text": "From the deepest well of grace",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 222.6,
+   "end": 226.92,
+   "text": "I pulled a song of restoration",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 227.64,
+   "end": 231.58,
+   "text": "And in this blues I lift my voice",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04"
+  },
+  {
+   "start": 231.58,
+   "end": 234.04,
+   "text": "The sound of salvation",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.658,
+   "track_id": "fy8Cr6R13Ik#04"
+  }
+ ]
+}

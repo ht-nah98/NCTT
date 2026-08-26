@@ -1,0 +1,350 @@
+{
+ "track_id": "_ycC4y-4sYo#10",
+ "track_key": "_ycC4y-4sYo__10",
+ "video_id": "_ycC4y-4sYo",
+ "title": "Repent",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 306.7,
+ "voiced_sec": 223.7,
+ "voice_ratio": 0.729,
+ "n_words": 326,
+ "words_per_min": 63.8,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.0,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.02,
+   "text": "This will crush Satan under your feet shortly.",
+   "avg_logprob": -0.649,
+   "no_speech_prob": 0.142,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 18.0,
+   "end": 24.8,
+   "text": "Oh, oh, yeah.",
+   "avg_logprob": -0.649,
+   "no_speech_prob": 0.142,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 27.28,
+   "end": 36.14,
+   "text": "Repent, turn from your sinful ways.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.724,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 38.94,
+   "end": 42.62,
+   "text": "Repent that day and hour.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.724,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 43.42,
+   "end": 46.4,
+   "text": "No with no man.",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.724,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 46.4,
+   "end": 57.26,
+   "text": "and repent, be reconciled to God.",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.657,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 58.44,
+   "end": 61.22,
+   "text": "Oh, oh, oh.",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.657,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 64.4,
+   "end": 70.04,
+   "text": "Therefore we make it our aim, whether present or absent,",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.657,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 70.04,
+   "end": 75.16,
+   "text": "to be well pleasing to him.",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.689,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 78.1,
+   "end": 85.04,
+   "text": "For we must all appear before the judgment seat of Christ,",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.689,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 88.5,
+   "end": 96.04,
+   "text": "that each one may receive the things done in the body,",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.689,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 97.92,
+   "end": 106.54,
+   "text": "According to what he has done, whether good or bad.",
+   "avg_logprob": -0.531,
+   "no_speech_prob": 0.788,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 109.42,
+   "end": 116.06,
+   "text": "Knowing therefore the terror of the Lord, we persuade men,",
+   "avg_logprob": -0.531,
+   "no_speech_prob": 0.788,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 116.55,
+   "end": 122.19,
+   "text": "But we are well known to God.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.712,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 123.65,
+   "end": 132.51,
+   "text": "Repent, turn from your sinful ways.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.712,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 134.99,
+   "end": 138.85,
+   "text": "Repent that day and now.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.712,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 140.35,
+   "end": 153.13,
+   "text": "knoweth no man repents, be reconciled to God.",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 153.75,
+   "end": 165.39,
+   "text": "So we are always confident, knowing that while we are at home in the body, we are",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.65,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 168.13,
+   "end": 171.85,
+   "text": "from the Lord.",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 173.27,
+   "end": 178.87,
+   "text": "For we walk by faith, not by sight.",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 179.33,
+   "end": 181.55,
+   "text": "We are confident.",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 183.65,
+   "end": 189.23,
+   "text": "Yes, to be absent from the body",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.813,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 189.23,
+   "end": 196.25,
+   "text": "is to be present with the Lord.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 198.51,
+   "end": 199.31,
+   "text": "Repeat.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 200.99,
+   "end": 205.15,
+   "text": "Align yourself with the word of God, not the world or expectations of man.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 205.87,
+   "end": 207.55,
+   "text": "True repentance begins.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 208.33,
+   "end": 213.05,
+   "text": "When I recognize the sinfulness of my heart and acknowledge I am powerless to change.",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.523,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 213.05,
+   "end": 218.97,
+   "text": "Because of the weakness of my flesh and helplessness I cry out to God for a new heart.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 220.01,
+   "end": 223.33,
+   "text": "He graciously provides what I cannot do for myself.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 223.77,
+   "end": 229.09,
+   "text": "He gives me a new nature that loves righteousness and longs to obey Him.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 229.93,
+   "end": 234.03,
+   "text": "He gives me His Holy Spirit to empower me to walk in His ways.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 234.89,
+   "end": 238.47,
+   "text": "Just as a tree bears fruit according to its nature.",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.529,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 238.47,
+   "end": 242.09,
+   "text": "So I haven't truly repented begin to bear fruit",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 242.09,
+   "end": 244.19,
+   "text": "and keeping with this new nature.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 244.77,
+   "end": 248.03,
+   "text": "Fruit that pleases God and is evident to others,",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 248.55,
+   "end": 252.41,
+   "text": "thus says the Lord, every tree which does not bear good fruit",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 252.41,
+   "end": 256.63,
+   "text": "is cut down and thrown into the fire.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.305,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 265.93,
+   "end": 273.33,
+   "text": "Repent, turn from your sinful ways.",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.614,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 275.83,
+   "end": 283.59,
+   "text": "Repent that day in our knoweth no man.",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 286.53,
+   "end": 294.13,
+   "text": "Repent, be reconciled to God.",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#10"
+  },
+  {
+   "start": 294.85,
+   "end": 295.71,
+   "text": "Oh.",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.535,
+   "track_id": "_ycC4y-4sYo#10"
+  }
+ ]
+}

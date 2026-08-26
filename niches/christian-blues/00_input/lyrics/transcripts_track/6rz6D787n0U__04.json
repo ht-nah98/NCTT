@@ -1,0 +1,166 @@
+{
+ "track_id": "6rz6D787n0U#04",
+ "track_key": "6rz6D787n0U__04",
+ "video_id": "6rz6D787n0U",
+ "title": "4. Psalm 121 – Keeper of My Steps",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 215.0,
+ "voiced_sec": 126.0,
+ "voice_ratio": 0.586,
+ "n_words": 169,
+ "words_per_min": 47.2,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.9,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 21.04,
+   "end": 27.8,
+   "text": "I live my eyes to the hills ahead",
+   "avg_logprob": -0.559,
+   "no_speech_prob": 0.623,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 27.8,
+   "end": 34.3,
+   "text": "Where does my help come when I'm filled with dread?",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.689,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 35.84,
+   "end": 40.18,
+   "text": "My help comes from the Lord above",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.689,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 40.8,
+   "end": 46.7,
+   "text": "Who made the heavens and walks in love?",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.689,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 48.38,
+   "end": 52.92,
+   "text": "He won't let my foot be moved",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.689,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 52.92,
+   "end": 65.7,
+   "text": "He watches me with eyes that prove He don't slumber, He don't sleep",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.574,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 65.7,
+   "end": 71.66,
+   "text": "He's the keeper of my steps so deep",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.574,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 75.72,
+   "end": 81.32,
+   "text": "The Lord's my shade, head my right hand",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.558,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 82.66,
+   "end": 87.46,
+   "text": "The sun won't scorch, the moon won't land",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.558,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 88.56,
+   "end": 93.44,
+   "text": "No harm shall strike me by the day",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.558,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 94.66,
+   "end": 99.72,
+   "text": "He guides my soul when I lose my way",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.558,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 99.72,
+   "end": 105.9,
+   "text": "You keep me now and forevermore",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.698,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 105.9,
+   "end": 111.72,
+   "text": "When I leave my home, I'll shut the door",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.698,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 113.02,
+   "end": 117.72,
+   "text": "From this time for, and age is gone",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.698,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 118.32,
+   "end": 124.38,
+   "text": "He walks beside me through every song",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.698,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 124.38,
+   "end": 136.48,
+   "text": "He won't let my foot be moved He watches me with eyes that prove",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.68,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 138.62,
+   "end": 148.8,
+   "text": "He don't slumber, he don't sleep He's the keeper of my steps so deep",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.68,
+   "track_id": "6rz6D787n0U#04"
+  },
+  {
+   "start": 152.9,
+   "end": 166.78,
+   "text": "So I keep walking, no need to fret My arms from Zion, he ain't failed me yet",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.502,
+   "track_id": "6rz6D787n0U#04"
+  }
+ ]
+}

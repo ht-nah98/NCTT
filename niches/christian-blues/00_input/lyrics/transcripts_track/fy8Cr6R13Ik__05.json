@@ -1,0 +1,374 @@
+{
+ "track_id": "fy8Cr6R13Ik#05",
+ "track_key": "fy8Cr6R13Ik__05",
+ "video_id": "fy8Cr6R13Ik",
+ "title": "5. Isaiah 25.8–9 — Tears No More",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 370.0,
+ "voiced_sec": 233.7,
+ "voice_ratio": 0.632,
+ "n_words": 308,
+ "words_per_min": 49.9,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 44,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 42.4,
+ "rtf": 0.115,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.76,
+   "text": "bjbjb",
+   "avg_logprob": -1.552,
+   "no_speech_prob": 0.589,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 5.68,
+   "end": 7.08,
+   "text": "bjbjb",
+   "avg_logprob": -1.552,
+   "no_speech_prob": 0.589,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 27.44,
+   "end": 31.66,
+   "text": "He will swallow up death and victory",
+   "avg_logprob": -0.492,
+   "no_speech_prob": 0.134,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 33.82,
+   "end": 46.94,
+   "text": "Wipe the tears from every face Take away his people's reproach",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 46.94,
+   "end": 59.46,
+   "text": "With mercy and with grace The Lord has spoken in",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.502,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 59.46,
+   "end": 64.1,
+   "text": "And His word shall never fall",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.287,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 69.46,
+   "end": 74.52,
+   "text": "In the shadow of the mountain we hear",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.287,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 75.46,
+   "end": 77.46,
+   "text": "Here is solemn call",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.287,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 81.22,
+   "end": 84.96,
+   "text": "Lord, this is our God",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 86.52,
+   "end": 91.38,
+   "text": "We have waited for Him long",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 95.46,
+   "end": 98.7,
+   "text": "He will save us",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 98.7,
+   "end": 102.06,
+   "text": "He will raise us",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.21,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 102.06,
+   "end": 108.36,
+   "text": "He will turn our sides to song",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 109.06,
+   "end": 112.3,
+   "text": "This is the Lord",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 113.06,
+   "end": 118.24,
+   "text": "We have waited our joy and our reward",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 121.66,
+   "end": 125.86,
+   "text": "We will be glad and rejoice",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.29,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 125.86,
+   "end": 130.92,
+   "text": "In the salvation of the Lord",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 135.58,
+   "end": 142.4,
+   "text": "In this mountain shall the veil be destroyed from every soul",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 142.4,
+   "end": 146.38,
+   "text": "No more hiding, no more sorrow",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 146.38,
+   "end": 149.2,
+   "text": "Only love that makes us whole",
+   "avg_logprob": -0.191,
+   "no_speech_prob": 0.419,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 149.2,
+   "end": 156.34,
+   "text": "The hand of God shall rest here upon his faithful land",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.306,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 156.34,
+   "end": 166.26,
+   "text": "He will lift the dusted faces and raise the weary hands",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.306,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 168.08,
+   "end": 172.3,
+   "text": "Lord, this is our God",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 173.26,
+   "end": 178.02,
+   "text": "We have waited for Him long",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 182.02,
+   "end": 185.1,
+   "text": "He will save us",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 186.26,
+   "end": 188.14,
+   "text": "He will raise us",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 188.14,
+   "end": 192.14,
+   "text": "He will turn our sides",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.672,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 192.14,
+   "end": 196.96,
+   "text": "to song this is the",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 199.14,
+   "end": 203.78,
+   "text": "we have waited joy and reward",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 207.84,
+   "end": 212.06,
+   "text": "we will be glad and rejoice",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 212.06,
+   "end": 217.34,
+   "text": "in the salvation of the Lord",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.577,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 221.92,
+   "end": 226.42,
+   "text": "Oh death where is thy sting now?",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 226.7,
+   "end": 228.68,
+   "text": "Grave where is thy boast?",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 229.38,
+   "end": 235.5,
+   "text": "He has swallowed up the silence and drawn near to the lost",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 235.5,
+   "end": 242.22,
+   "text": "And in that holy silence we'll hear the trumpet's tone",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.368,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 242.22,
+   "end": 249.04,
+   "text": "Calling home the broken hearts that once wept all alone",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.34,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 250.84,
+   "end": 260.6,
+   "text": "Lo, this is our God, we have waited for Him long",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.34,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 264.88,
+   "end": 271.24,
+   "text": "He will save us, He will raise us",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.489,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 271.24,
+   "end": 277.82,
+   "text": "He will turn our sides to song",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.489,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 278.6,
+   "end": 283.84,
+   "text": "This is the Lord, we have waited",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.489,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 283.84,
+   "end": 287.2,
+   "text": "our joy and our reward.",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.568,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 291.84,
+   "end": 300.22,
+   "text": "We will be glad and rejoice in the salvation of the Lord.",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.568,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 304.44,
+   "end": 311.86,
+   "text": "No more tears on my guitar, no more cries inside the cord.",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.568,
+   "track_id": "fy8Cr6R13Ik#05"
+  },
+  {
+   "start": 311.86,
+   "end": 319.86,
+   "text": "Just a soul that waits rejoicing for the salvation of the Lord",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.312,
+   "track_id": "fy8Cr6R13Ik#05"
+  }
+ ]
+}

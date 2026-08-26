@@ -1,0 +1,198 @@
+{
+ "track_id": "xkU1wrgAwt0#10",
+ "track_key": "xkU1wrgAwt0__10",
+ "video_id": "xkU1wrgAwt0",
+ "title": "10. Psalm 42 – My Soul Thirsts Deep",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 245.0,
+ "voiced_sec": 151.5,
+ "voice_ratio": 0.618,
+ "n_words": 190,
+ "words_per_min": 46.5,
+ "is_instrumental": false,
+ "n_segments": 22,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.1,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 10.72,
+   "end": 25.68,
+   "text": "I can do that pants for water Lord I'm dry My soul is crying I can't tell you why",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.51,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 28.24,
+   "end": 34.14,
+   "text": "Tears have been my food both day and night",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.732,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 35.9,
+   "end": 42.38,
+   "text": "While they say, where's your God in all his fight",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.732,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 44.26,
+   "end": 51.02,
+   "text": "Oh my soul, why are you down so low",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.732,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 52.98,
+   "end": 59.18,
+   "text": "Hoping God, He won't let go",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 60.66,
+   "end": 67.52,
+   "text": "I shall yet praise the one who saves",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 68.02,
+   "end": 76.22,
+   "text": "He lifts me up from these heavy waves",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 77.84,
+   "end": 83.56,
+   "text": "Deep calls through deep in the roar of flood",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.546,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 85.38,
+   "end": 92.0,
+   "text": "My heart is shaking, but I trust His blood",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.546,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 93.74,
+   "end": 100.38,
+   "text": "By day He commands His love to shine",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.546,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 101.98,
+   "end": 109.38,
+   "text": "That night is song is a friend of mine",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.723,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 118.92,
+   "end": 124.84,
+   "text": "Slaught like a tar echo in the weeping tone",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.723,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 126.26,
+   "end": 131.74,
+   "text": "I say to God, why have you forgotten me?",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.71,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 135.34,
+   "end": 141.14,
+   "text": "But still I walk with faith through mystery",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.71,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 142.76,
+   "end": 149.72,
+   "text": "My enemies mark my bones feel weak",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.71,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 151.4,
+   "end": 157.72,
+   "text": "Yeah, I will stand and I will speak",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 160.06,
+   "end": 166.68,
+   "text": "Oh, my soul, why you down so low",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 169.16,
+   "end": 174.9,
+   "text": "Hoping God, he won't let go",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 174.9,
+   "end": 183.12,
+   "text": "I shall yet praise the one who saves",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.715,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 184.9,
+   "end": 191.74,
+   "text": "He lifts me up from these heavy waves",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.715,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 192.9,
+   "end": 199.26,
+   "text": "My rock, my God, those storms may sweep",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.715,
+   "track_id": "xkU1wrgAwt0#10"
+  },
+  {
+   "start": 200.78,
+   "end": 206.26,
+   "text": "I'll sing your name, my soul thirsty",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.531,
+   "track_id": "xkU1wrgAwt0#10"
+  }
+ ]
+}

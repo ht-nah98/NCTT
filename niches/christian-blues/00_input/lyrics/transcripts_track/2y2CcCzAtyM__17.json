@@ -1,0 +1,478 @@
+{
+ "track_id": "2y2CcCzAtyM#17",
+ "track_key": "2y2CcCzAtyM__17",
+ "video_id": "2y2CcCzAtyM",
+ "title": "17 — I Will Lay Me Down in Peace",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 309.0,
+ "voiced_sec": 208.9,
+ "voice_ratio": 0.676,
+ "n_words": 294,
+ "words_per_min": 57.1,
+ "is_instrumental": false,
+ "n_segments": 57,
+ "n_segments_voiced": 57,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.5,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.38,
+   "text": "Sleep for Thou, Lord, only makes me dwell in safety.",
+   "avg_logprob": -0.547,
+   "no_speech_prob": 0.215,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 12.0,
+   "end": 14.34,
+   "text": "Psalm 4 and 8.",
+   "avg_logprob": -0.547,
+   "no_speech_prob": 0.215,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 34.04,
+   "end": 38.68,
+   "text": "The day has spent its last and fading light",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.276,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 43.0,
+   "end": 46.72,
+   "text": "And I have come to lay my burdens down",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.276,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 50.0,
+   "end": 53.44,
+   "text": "No fear shall creep upon me in the night",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.276,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 55.16,
+   "end": 61.64,
+   "text": "For I am kept by Him who holds the crown",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 62.82,
+   "end": 67.1,
+   "text": "I will lay me down in peace",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 70.14,
+   "end": 74.3,
+   "text": "I will lay me down and sleep",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 76.3,
+   "end": 80.74,
+   "text": "For Thou, Lord, only make us meet",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 84.24,
+   "end": 90.5,
+   "text": "Dwell in safety, yeah",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.613,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 90.5,
+   "end": 96.32,
+   "text": "Will lay me down in peace",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.613,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 96.32,
+   "end": 101.58,
+   "text": "In thy arms I am at rest",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.613,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 103.42,
+   "end": 106.78,
+   "text": "The keeper of my soul",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.613,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 106.78,
+   "end": 110.22,
+   "text": "Stands watch beside me",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.096,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 112.3,
+   "end": 117.36,
+   "text": "I lay me down in peace",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.096,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 120.78,
+   "end": 123.44,
+   "text": "What I could not finish",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.096,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 124.78,
+   "end": 127.02,
+   "text": "He shall complete",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.096,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 128.78,
+   "end": 131.12,
+   "text": "What I could not carry",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.096,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 131.78,
+   "end": 133.6,
+   "text": "He has bore",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.096,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 133.6,
+   "end": 140.76,
+   "text": "And when the morning comes with mercy new",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 140.76,
+   "end": 145.42,
+   "text": "He'll meet me at the door",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 148.54,
+   "end": 153.72,
+   "text": "Will lay me down in peace",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 153.72,
+   "end": 156.7,
+   "text": "I will lay me down and sleep",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.643,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 156.7,
+   "end": 160.72,
+   "text": "I will lay me down and sleep",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 160.72,
+   "end": 163.64,
+   "text": "For thou, Lord, only make is sweet",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 163.64,
+   "end": 167.98,
+   "text": "For thou, Lord, dwell, dwell",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 167.98,
+   "end": 171.12,
+   "text": "Only make is sweet",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 171.12,
+   "end": 173.78,
+   "text": "Dwell in safety",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 174.7,
+   "end": 181.1,
+   "text": "I will lay me down",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 181.1,
+   "end": 182.56,
+   "text": "In peace",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 182.56,
+   "end": 185.38,
+   "text": "In thy arms I am at rest",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.556,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 185.38,
+   "end": 188.36,
+   "text": "The keeper of my soul",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.194,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 188.36,
+   "end": 191.66,
+   "text": "Stands watch beside me",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.194,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 192.38,
+   "end": 197.24,
+   "text": "High lay me",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.194,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 197.24,
+   "end": 203.5,
+   "text": "Down in peace",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.194,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 204.38,
+   "end": 206.36,
+   "text": "When you close your eyes tonight",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.194,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 207.38,
+   "end": 209.46,
+   "text": "You are not alone",
+   "avg_logprob": -0.309,
+   "no_speech_prob": 0.194,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 210.38,
+   "end": 213.96,
+   "text": "The God who parted seas and raised the dead",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 213.96,
+   "end": 216.9,
+   "text": "Is watching over you",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 218.34,
+   "end": 220.14,
+   "text": "Lay yourself down",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 221.92,
+   "end": 223.58,
+   "text": "He never sleeps",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 225.1,
+   "end": 226.94,
+   "text": "He never slumbers",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 229.2,
+   "end": 231.48,
+   "text": "Rest in Hell",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 232.54,
+   "end": 234.9,
+   "text": "Lay me down",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 234.9,
+   "end": 236.9,
+   "text": "Lay me down",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.19,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 236.9,
+   "end": 240.28,
+   "text": "In Thy peace",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.683,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 240.28,
+   "end": 243.98,
+   "text": "Save with Thee",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.683,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 243.98,
+   "end": 245.86,
+   "text": "Lay me down",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.683,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 245.86,
+   "end": 249.28,
+   "text": "In peace",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.683,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 259.9,
+   "end": 264.04,
+   "text": "I will lay me down",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.683,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 264.04,
+   "end": 268.54,
+   "text": "I will lay me down and sleep",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.316,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 268.54,
+   "end": 272.24,
+   "text": "For Thou, Lord, only make it sleep",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.316,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 273.04,
+   "end": 277.64,
+   "text": "Lord, well, in safety",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.316,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 280.62,
+   "end": 282.32,
+   "text": "In peace",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.316,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 284.04,
+   "end": 286.26,
+   "text": "I lay me down",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.316,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 287.38,
+   "end": 293.2,
+   "text": "Rest in Him.",
+   "avg_logprob": -0.788,
+   "no_speech_prob": 0.091,
+   "track_id": "2y2CcCzAtyM#17"
+  },
+  {
+   "start": 306.9,
+   "end": 308.98,
+   "text": "Oh taste and see that the Lord is",
+   "avg_logprob": -0.788,
+   "no_speech_prob": 0.091,
+   "track_id": "2y2CcCzAtyM#17"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "track_id": "ODr3aDcsuNA#01",
+ "track_key": "ODr3aDcsuNA__01",
+ "video_id": "ODr3aDcsuNA",
+ "title": "1. Psalm 1 – Like a Tree by the River",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 210.0,
+ "voiced_sec": 107.8,
+ "voice_ratio": 0.514,
+ "n_words": 172,
+ "words_per_min": 49.1,
+ "is_instrumental": false,
+ "n_segments": 24,
+ "n_segments_voiced": 24,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.1,
+ "rtf": 0.043,
+ "segments": [
+  {
+   "start": 1.1,
+   "end": 1.86,
+   "text": "Music",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.466,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 10.9,
+   "end": 15.22,
+   "text": "Bless is the man who walks not in the dark",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.466,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 16.08,
+   "end": 20.12,
+   "text": "Don't sit with the wicked, don't stand where they bar",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.466,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 21.0,
+   "end": 26.54,
+   "text": "But there lights in the world, both day and night",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.466,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 30.2,
+   "end": 36.38,
+   "text": "Like a tree by the river, he stands upright",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.522,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 40.54,
+   "end": 44.74,
+   "text": "He's like a tree, roots digging deep",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.522,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 44.74,
+   "end": 50.46,
+   "text": "In season he bears what the faithful reap",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.522,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 50.46,
+   "end": 54.98,
+   "text": "Leaves don't wither, winds don't shake",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.406,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 54.98,
+   "end": 60.84,
+   "text": "The Lord knows the road the righteous take",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.406,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 81.34,
+   "end": 86.04,
+   "text": "But the wicked hold their dust in the air",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.332,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 86.04,
+   "end": 90.88,
+   "text": "Like chaff in the wind, they vanish somewhere",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.332,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 91.46,
+   "end": 97.56,
+   "text": "They won't stand in judgment when truth appears",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.332,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 102.46,
+   "end": 107.5,
+   "text": "They chose their path but not their fears",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.332,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 111.14,
+   "end": 116.2,
+   "text": "The Lord watches every step I tread",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.491,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 117.46,
+   "end": 121.4,
+   "text": "God's the humble, raises the dead",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.491,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 121.4,
+   "end": 123.8,
+   "text": "But the road of the wicked",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.491,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 124.46,
+   "end": 129.04,
+   "text": "Fades and bends while grace rolls on",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.491,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 129.04,
+   "end": 132.9,
+   "text": "Without knowing He's like a tree",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.491,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 133.46,
+   "end": 135.72,
+   "text": "Roof's digging deep",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.491,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 135.72,
+   "end": 141.44,
+   "text": "In season he bears what the faithful reap",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.576,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 141.44,
+   "end": 145.94,
+   "text": "Leaves don't wither, winds don't shake",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.576,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 146.72,
+   "end": 151.72,
+   "text": "The Lord knows the road the righteous take",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.576,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 171.18,
+   "end": 175.66,
+   "text": "So I'll keep singing that blessed tune",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.351,
+   "track_id": "ODr3aDcsuNA#01"
+  },
+  {
+   "start": 177.64,
+   "end": 181.86,
+   "text": "Planet in mercy pruned by truth",
+   "avg_logprob": -0.55,
+   "no_speech_prob": 0.351,
+   "track_id": "ODr3aDcsuNA#01"
+  }
+ ]
+}

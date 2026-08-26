@@ -1,0 +1,883 @@
+{
+  "niche": "christian-blues",
+  "cohort": {
+    "top_n": 5,
+    "xếp_theo": "tổng view (video dài, đã đủ tuổi)",
+    "ngưỡng_hit": 53374
+  },
+  "profiles": [
+    {
+      "handle": "stillworshipmusic",
+      "channel_name": "Still Worship",
+      "url": "https://www.youtube.com/@stillworshipmusic",
+      "subscribers": 143000,
+      "channel_created": "2025-04-18",
+      "first_video": "2025-07-30",
+      "latest_video": "2026-08-12",
+      "country": "US",
+      "quy_mô": {
+        "tổng_view": 16701424,
+        "số_video": 511,
+        "video_đủ_tuổi": 437,
+        "view_trung_vị": 7704,
+        "video_đỉnh": 3652301,
+        "tỷ_lệ_hit": 0.08,
+        "hệ_số_biến_thiên": 5.29
+      },
+      "sản_xuất": {
+        "mô_hình": "nhiều_và_ngắn",
+        "thời_lượng_trung_vị_phút": 2.9,
+        "thời_lượng_khoảng": [
+          2.7,
+          13.9
+        ],
+        "video_mỗi_tuần": 9.5,
+        "số_ngày_hoạt_động": 378,
+        "tháng_đến_video_đầu_tiên_vượt_ngưỡng": 0.0,
+        "view_10_video_đầu": [
+          972321,
+          11661,
+          50878,
+          19815,
+          229355,
+          18118,
+          44432,
+          10540,
+          41833,
+          10134
+        ],
+        "view_trung_vị_10_video_đầu": 30824,
+        "khởi_đầu": "nổ_ngay"
+      },
+      "định_vị": {
+        "mô_tả_kênh": "Still Worship is a home for Gospel Blues worship music — soulful, slow, and Spirit-led.\n\nRooted in traditional gospel and blues worship, this channel creates peaceful worship atmospheres designed to bring calm, reflection, and emotional rest in God's presence. The sound is shaped by warm Hammond organ tones, heartfelt gospel phrasing, and an unhurried flow that quiets the mind and steadies the heart.\n\nStill Worship is deeply influenced by the gospel blues devotion I heard growing up from my grandmother — steady, sincere, old-school gospel that filled the house with peace. Her quiet prayers, her songs, and her faith shaped the atmosphere this channel hopes to carry today.\n\nHere you'll find:\n🎵 Gospel Blues worship music\n🙏 Peaceful prayer atmospheres\n✝️ Devotional gospel music for rest and reflection\n🎹 Traditional gospel with Hammond organ & choir\n💙 Anointed gospel music for healing and sti",
+        "từ_khóa_kênh": "\"gospel blues\" \"christian blues\" \"blues worship\" \"traditional gospel\" \"black gospel music\" \"hammond organ gospel\" \"gospel soul\" \"southern gospel\" \"gospel testimony songs\" \"spirit filled music\" \"praise and worship\" \"old school gospel\" \"gospel choir music\" \"anointed gospel music\" \"gospel music 2026\""
+      },
+      "công_thức_tiêu_đề": {
+        "kiểu_chủ_đạo": "câu_cảm_xúc",
+        "phân_bố": {
+          "câu_cảm_xúc": 0.789,
+          "mệnh_đề_điều_kiện": 0.144,
+          "playlist": 0.03,
+          "có_thời_lượng": 0.023,
+          "kinh_thánh": 0.014
+        },
+        "dấu_phân_cách": "|",
+        "độ_dài_trung_vị": 65,
+        "ví_dụ_top": [
+          {
+            "title": "When Fear Takes Over, Play This Gospel Blues #TrustInGod",
+            "views": 3652301
+          },
+          {
+            "title": "Be Still | 100 Minutes of Relaxing Black Gospel Music for Rest & Prayer",
+            "views": 1298849
+          },
+          {
+            "title": "Christian Blues Gospel R&B 🎶Soulful Modern Praise & Worship Playlist",
+            "views": 972321
+          },
+          {
+            "title": "Your Grip on Me is Strong | Christian RnB for Devotion #GospelRnB #StillWorship",
+            "views": 878627
+          }
+        ]
+      },
+      "cấu_trúc_mô_tả": {
+        "độ_dài_trung_vị": 1281,
+        "có_emoji": 0.99,
+        "có_membership": 0.19,
+        "có_tracklist": 0.13,
+        "có_bản_quyền": 0.01,
+        "từ_khóa": [
+          "worship",
+          "still",
+          "gospel",
+          "https",
+          "blues",
+          "spotify",
+          "artist",
+          "christian",
+          "apple",
+          "amazon"
+        ]
+      },
+      "quỹ_đạo": [
+        {
+          "month": "2025-07",
+          "n": 2,
+          "med_view": 491991.0
+        },
+        {
+          "month": "2025-08",
+          "n": 9,
+          "med_view": 19815.0
+        },
+        {
+          "month": "2025-09",
+          "n": 18,
+          "med_view": 10014.0
+        },
+        {
+          "month": "2025-10",
+          "n": 28,
+          "med_view": 5493.0
+        },
+        {
+          "month": "2025-11",
+          "n": 50,
+          "med_view": 2171.0
+        },
+        {
+          "month": "2025-12",
+          "n": 68,
+          "med_view": 3605.5
+        },
+        {
+          "month": "2026-01",
+          "n": 50,
+          "med_view": 6055.5
+        },
+        {
+          "month": "2026-02",
+          "n": 50,
+          "med_view": 8770.5
+        },
+        {
+          "month": "2026-03",
+          "n": 59,
+          "med_view": 8963.0
+        },
+        {
+          "month": "2026-04",
+          "n": 47,
+          "med_view": 23572.0
+        },
+        {
+          "month": "2026-05",
+          "n": 40,
+          "med_view": 28772.5
+        },
+        {
+          "month": "2026-06",
+          "n": 16,
+          "med_view": 16552.0
+        }
+      ]
+    },
+    {
+      "handle": "oldiesgospelradio",
+      "channel_name": "Oldies Gospel Radio",
+      "url": "https://www.youtube.com/@OldiesGospelRadio",
+      "subscribers": 65600,
+      "channel_created": "2010-04-09",
+      "first_video": "2025-07-01",
+      "latest_video": "2026-05-28",
+      "country": null,
+      "quy_mô": {
+        "tổng_view": 8626661,
+        "số_video": 184,
+        "video_đủ_tuổi": 184,
+        "view_trung_vị": 12223,
+        "video_đỉnh": 1103012,
+        "tỷ_lệ_hit": 0.158,
+        "hệ_số_biến_thiên": 2.9
+      },
+      "sản_xuất": {
+        "mô_hình": "ít_và_dài",
+        "thời_lượng_trung_vị_phút": 107.5,
+        "thời_lượng_khoảng": [
+          95.3,
+          122.0
+        ],
+        "video_mỗi_tuần": 3.9,
+        "số_ngày_hoạt_động": 331,
+        "tháng_đến_video_đầu_tiên_vượt_ngưỡng": 0.0,
+        "view_10_video_đầu": [
+          112216,
+          51027,
+          384558,
+          109198,
+          731910,
+          90047,
+          957497,
+          15376,
+          664025,
+          101408
+        ],
+        "view_trung_vị_10_video_đầu": 110707,
+        "khởi_đầu": "nổ_ngay"
+      },
+      "định_vị": {
+        "mô_tả_kênh": "Welcome to Oldies Gospel Radio!\nStep back in time and feel the spirit with timeless Gospel classics. Our channel is dedicated to sharing the soulful sounds of Oldies Gospel music — songs of faith, hope, and joy that have touched generations. From vintage choirs to legendary solo voices, we bring you the very best of traditional gospel to uplift your heart and soul.\n\nSubscribe and join our community of gospel lovers as we celebrate the golden era of spiritual music.\n",
+        "từ_khóa_kênh": "\"old school gospel\" \"old black gospel\" \"old school gospel songs black\" \"black gospel classics\" \"old southern gospel songs\" \"classic gospel\" \"gospel for worship\" \"gospel worship\" \"gospel music\" \"gospel songs\" \"60s 70s 80s gospel medley\" \"old school gospel music\" \"old time gospel music playlist\" \"old school gospel mix\" \"timeless gospel hits\" \"old gospel\" \"gospel classics compilation\""
+      },
+      "công_thức_tiêu_đề": {
+        "kiểu_chủ_đạo": "câu_cảm_xúc",
+        "phân_bố": {
+          "câu_cảm_xúc": 0.815,
+          "playlist": 0.174,
+          "có_thời_lượng": 0.011
+        },
+        "dấu_phân_cách": "|",
+        "độ_dài_trung_vị": 64,
+        "ví_dụ_top": [
+          {
+            "title": "Southern Soul Gospel | Through The Storm: A Southern Soul Testimony",
+            "views": 1103012
+          },
+          {
+            "title": "Vintage 1960s Gospel Blues | Classic Soulful Spirit | Timeless Harmony",
+            "views": 957497
+          },
+          {
+            "title": "Classic Blues Gospel | Soulful 1960s Vintage Sound | Timeless Spirit",
+            "views": 731910
+          },
+          {
+            "title": "Classic Soul Gospel: Uplifting Vintage Soul Gospel Music for the Soul",
+            "views": 664025
+          }
+        ]
+      },
+      "cấu_trúc_mô_tả": {
+        "độ_dài_trung_vị": 784,
+        "có_emoji": 1.0,
+        "có_membership": 0.0,
+        "có_tracklist": 0.0,
+        "có_bản_quyền": 0.0,
+        "từ_khóa": [
+          "gospel",
+          "oldies",
+          "radio",
+          "timeless",
+          "classic",
+          "time",
+          "soul",
+          "you're",
+          "subscribe",
+          "welcome"
+        ]
+      },
+      "quỹ_đạo": [
+        {
+          "month": "2025-07",
+          "n": 2,
+          "med_view": 81621.5
+        },
+        {
+          "month": "2025-09",
+          "n": 2,
+          "med_view": 246878.0
+        },
+        {
+          "month": "2025-10",
+          "n": 22,
+          "med_view": 40973.0
+        },
+        {
+          "month": "2025-11",
+          "n": 22,
+          "med_view": 28672.0
+        },
+        {
+          "month": "2025-12",
+          "n": 24,
+          "med_view": 17595.5
+        },
+        {
+          "month": "2026-01",
+          "n": 18,
+          "med_view": 9322.0
+        },
+        {
+          "month": "2026-02",
+          "n": 17,
+          "med_view": 4533.0
+        },
+        {
+          "month": "2026-03",
+          "n": 27,
+          "med_view": 3113.0
+        },
+        {
+          "month": "2026-04",
+          "n": 26,
+          "med_view": 11437.0
+        },
+        {
+          "month": "2026-05",
+          "n": 24,
+          "med_view": 5116.0
+        }
+      ]
+    },
+    {
+      "handle": "revivalworshiproommusic",
+      "channel_name": "Revival Worship Room Music",
+      "url": "https://www.youtube.com/@RevivalWorshipRoomMusic",
+      "subscribers": 74200,
+      "channel_created": "2025-05-01",
+      "first_video": "2025-06-13",
+      "latest_video": "2026-08-11",
+      "country": "ZA",
+      "quy_mô": {
+        "tổng_view": 7204943,
+        "số_video": 277,
+        "video_đủ_tuổi": 252,
+        "view_trung_vị": 4224,
+        "video_đỉnh": 614050,
+        "tỷ_lệ_hit": 0.107,
+        "hệ_số_biến_thiên": 2.76
+      },
+      "sản_xuất": {
+        "mô_hình": "ít_và_dài",
+        "thời_lượng_trung_vị_phút": 62.0,
+        "thời_lượng_khoảng": [
+          35.9,
+          84.0
+        ],
+        "video_mỗi_tuần": 4.6,
+        "số_ngày_hoạt_động": 424,
+        "tháng_đến_video_đầu_tiên_vượt_ngưỡng": 0.9,
+        "view_10_video_đầu": [
+          213,
+          147,
+          105,
+          143,
+          88,
+          181,
+          115,
+          124,
+          175,
+          130
+        ],
+        "view_trung_vị_10_video_đầu": 136,
+        "khởi_đầu": "leo_dần"
+      },
+      "định_vị": {
+        "mô_tả_kênh": "Welcome to Revival Worship Room Music — a sacred space for Soulful Gospel Worship, Christian R&B, and Praise Music that heals the heart and revives the soul.\nHere, every song carries the power of God’s presence, blending smooth R&B, blues, and modern worship sounds to create a powerful spiritual experience.\n\nsoulful worship music, gospel r&b, christian blues, praise and worship playlist, healing gospel mix, gospel worship songs, jesus music, revival worship mix\n\nContact Info: revivalworshiproommusic@gmail.com\n\nCopyright Notice:\nAll music, audio, and content on this channel are the property of Revival Worship Room Music and are protected by copyright law. No part of this content may be copied, reproduced, distributed, or used in other videos or projects without written permission.\n",
+        "từ_khóa_kênh": "gospelmusic christianmusic america usa christianrnb \"faith music\" \"Christian blues\" \"Christian R&B\" \"christian gospel music\" \"worship songs playlist\" \"soulful gospel worship\" \"gospel r&b music\" \"gospel blues playlist\" \"christian meditation music\" \"prayer music worship\" \"peaceful gospel music\" \"soulful worship mix\" \"praise and worship songs\" \"neo soul gospel music\" \"ai generated music gospel\" \"chri"
+      },
+      "công_thức_tiêu_đề": {
+        "kiểu_chủ_đạo": "câu_cảm_xúc",
+        "phân_bố": {
+          "câu_cảm_xúc": 0.532,
+          "playlist": 0.397,
+          "kinh_thánh": 0.052,
+          "mệnh_đề_điều_kiện": 0.016,
+          "có_thời_lượng": 0.004
+        },
+        "dấu_phân_cách": "|",
+        "độ_dài_trung_vị": 91,
+        "ví_dụ_top": [
+          {
+            "title": "Bible R&B Worship To Heal the Soul Vol.3 | Prayer, Meditation & Reflection Gospel Songs 🎵✨",
+            "views": 614050
+          },
+          {
+            "title": "God Heals the Soul | Soulful Blues Gospel & R&B Christian Worship Mix",
+            "views": 591990
+          },
+          {
+            "title": "Soaked in God’s Presence – Soulful Christian R&B & Blues Playlist | Praise & Worship for Reflection",
+            "views": 412491
+          },
+          {
+            "title": "Bible R&B Worship To Heal the Soul Vol.5 | Prayer, Meditation & Reflection Gospel Songs",
+            "views": 379396
+          }
+        ]
+      },
+      "cấu_trúc_mô_tả": {
+        "độ_dài_trung_vị": 1936,
+        "có_emoji": 0.94,
+        "có_membership": 0.06,
+        "có_tracklist": 0.67,
+        "có_bản_quyền": 0.05,
+        "từ_khóa": [
+          "worship",
+          "gospel",
+          "christian",
+          "playlist",
+          "songs",
+          "soulful",
+          "jesus",
+          "prayer",
+          "healing",
+          "praise"
+        ]
+      },
+      "quỹ_đạo": [
+        {
+          "month": "2025-06",
+          "n": 46,
+          "med_view": 113.5
+        },
+        {
+          "month": "2025-07",
+          "n": 24,
+          "med_view": 2258.0
+        },
+        {
+          "month": "2025-08",
+          "n": 11,
+          "med_view": 11641.0
+        },
+        {
+          "month": "2025-09",
+          "n": 8,
+          "med_view": 8207.0
+        },
+        {
+          "month": "2025-10",
+          "n": 22,
+          "med_view": 7797.5
+        },
+        {
+          "month": "2025-11",
+          "n": 23,
+          "med_view": 23027.0
+        },
+        {
+          "month": "2025-12",
+          "n": 28,
+          "med_view": 9768.5
+        },
+        {
+          "month": "2026-01",
+          "n": 32,
+          "med_view": 6966.0
+        },
+        {
+          "month": "2026-02",
+          "n": 17,
+          "med_view": 8109.0
+        },
+        {
+          "month": "2026-03",
+          "n": 14,
+          "med_view": 3993.0
+        },
+        {
+          "month": "2026-04",
+          "n": 8,
+          "med_view": 18689.0
+        },
+        {
+          "month": "2026-05",
+          "n": 13,
+          "med_view": 3133.0
+        },
+        {
+          "month": "2026-06",
+          "n": 6,
+          "med_view": 2262.0
+        }
+      ]
+    },
+    {
+      "handle": "holygrooveofficial",
+      "channel_name": "Holy Groove",
+      "url": "https://www.youtube.com/@holygrooveofficial/videos",
+      "subscribers": 199000,
+      "channel_created": "2008-06-21",
+      "first_video": "2025-02-14",
+      "latest_video": "2026-03-18",
+      "country": "US",
+      "quy_mô": {
+        "tổng_view": 6893291,
+        "số_video": 173,
+        "video_đủ_tuổi": 173,
+        "view_trung_vị": 5829,
+        "video_đỉnh": 1697203,
+        "tỷ_lệ_hit": 0.11,
+        "hệ_số_biến_thiên": 3.84
+      },
+      "sản_xuất": {
+        "mô_hình": "ít_và_dài",
+        "thời_lượng_trung_vị_phút": 31.6,
+        "thời_lượng_khoảng": [
+          27.8,
+          35.8
+        ],
+        "video_mỗi_tuần": 3.1,
+        "số_ngày_hoạt_động": 397,
+        "tháng_đến_video_đầu_tiên_vượt_ngưỡng": 0.0,
+        "view_10_video_đầu": [
+          72202,
+          44753,
+          5940,
+          5789,
+          20592,
+          104035,
+          67787,
+          52795,
+          3065,
+          19805
+        ],
+        "view_trung_vị_10_video_đầu": 32672,
+        "khởi_đầu": "nổ_ngay"
+      },
+      "định_vị": {
+        "mô_tả_kênh": "The Bible is full of songs — some sung, others cried, others whispered in the dark.\nHoly Groove turns those moments into Delta Blues for the soul.\n\nHere you will find:\n\n• Blues stories inspired by Scripture\n• Bible scenes told through cinematic music\n• Songs of sorrow, hope, faith, and redemption\n• Original Christian Blues albums\n\nAlso available on Spotify, Apple Music, and Amazon Music.\nSearch for Holy Groove.\n\nSubscribe and walk with us through the dusty roads\nwhere faith and Blues collide.\n",
+        "từ_khóa_kênh": "\"blues gospel\" \"gospel blues\" \"worship music\" \"Christian blues\" \"soul gospel\" \"folk worship\" \"jazz worship\" \"Christian jazz\" \"country worship\" \"Christian music\" \"soulful worship\" \"gospel rock\" \"Christian soul\" \"Christian folk\" \"acoustic worship\" \"Holy Groove music\" \"Holy Groove worship\" \"Holy Groove blues\" \"Holy Groove gospel\" \"Holy Groove Christian songs\""
+      },
+      "công_thức_tiêu_đề": {
+        "kiểu_chủ_đạo": "câu_cảm_xúc",
+        "phân_bố": {
+          "câu_cảm_xúc": 0.613,
+          "kinh_thánh": 0.289,
+          "mệnh_đề_điều_kiện": 0.098
+        },
+        "dấu_phân_cách": "|",
+        "độ_dài_trung_vị": 55,
+        "ví_dụ_top": [
+          {
+            "title": "This Psalm Sounds Like It Was Born in the Blues",
+            "views": 1697203
+          },
+          {
+            "title": "Psalms sung in Blues by David would sound like this...",
+            "views": 748783
+          },
+          {
+            "title": "The book of Ecclesiastes was born to be Sung in Blues",
+            "views": 511274
+          },
+          {
+            "title": "The Book of Isaiah sung in Blues will shock you!",
+            "views": 401108
+          }
+        ]
+      },
+      "cấu_trúc_mô_tả": {
+        "độ_dài_trung_vị": 1450,
+        "có_emoji": 1.0,
+        "có_membership": 0.79,
+        "có_tracklist": 0.05,
+        "có_bản_quyền": 0.0,
+        "từ_khóa": [
+          "blues",
+          "https",
+          "youtube",
+          "christian",
+          "holy",
+          "channel",
+          "groove",
+          "playlist",
+          "soul",
+          "ucxbmh"
+        ]
+      },
+      "quỹ_đạo": [
+        {
+          "month": "2025-02",
+          "n": 7,
+          "med_view": 44753.0
+        },
+        {
+          "month": "2025-03",
+          "n": 12,
+          "med_view": 12219.5
+        },
+        {
+          "month": "2025-04",
+          "n": 9,
+          "med_view": 10913.0
+        },
+        {
+          "month": "2025-05",
+          "n": 12,
+          "med_view": 3459.0
+        },
+        {
+          "month": "2025-06",
+          "n": 13,
+          "med_view": 2236.0
+        },
+        {
+          "month": "2025-07",
+          "n": 12,
+          "med_view": 2474.5
+        },
+        {
+          "month": "2025-08",
+          "n": 14,
+          "med_view": 99695.0
+        },
+        {
+          "month": "2025-09",
+          "n": 13,
+          "med_view": 26174.0
+        },
+        {
+          "month": "2025-10",
+          "n": 13,
+          "med_view": 21842.0
+        },
+        {
+          "month": "2025-11",
+          "n": 14,
+          "med_view": 8065.5
+        },
+        {
+          "month": "2025-12",
+          "n": 22,
+          "med_view": 1816.0
+        },
+        {
+          "month": "2026-01",
+          "n": 25,
+          "med_view": 3183.0
+        },
+        {
+          "month": "2026-02",
+          "n": 6,
+          "med_view": 4520.0
+        },
+        {
+          "month": "2026-03",
+          "n": 1,
+          "med_view": 5666.0
+        }
+      ]
+    },
+    {
+      "handle": "holygroove-1",
+      "channel_name": "holy groove",
+      "url": "https://www.youtube.com/@holygroove-1",
+      "subscribers": 17700,
+      "channel_created": "2025-08-22",
+      "first_video": "2025-08-22",
+      "latest_video": "2026-07-18",
+      "country": "US",
+      "quy_mô": {
+        "tổng_view": 4493789,
+        "số_video": 343,
+        "video_đủ_tuổi": 325,
+        "view_trung_vị": 980,
+        "video_đỉnh": 1180460,
+        "tỷ_lệ_hit": 0.028,
+        "hệ_số_biến_thiên": 6.86
+      },
+      "sản_xuất": {
+        "mô_hình": "nhiều_và_ngắn",
+        "thời_lượng_trung_vị_phút": 5.7,
+        "thời_lượng_khoảng": [
+          5.0,
+          6.6
+        ],
+        "video_mỗi_tuần": 7.3,
+        "số_ngày_hoạt_động": 330,
+        "tháng_đến_video_đầu_tiên_vượt_ngưỡng": 0.0,
+        "view_10_video_đầu": [
+          12473,
+          10023,
+          5582,
+          8367,
+          2636,
+          2389,
+          3425,
+          2842,
+          1891,
+          8698
+        ],
+        "view_trung_vị_10_video_đầu": 4503,
+        "khởi_đầu": "leo_dần"
+      },
+      "định_vị": {
+        "mô_tả_kênh": " 🔥:\n🎸 Welcome to Holy Groove — Soulful Christian Blues & Gospel Worship.\n\nThis channel is all about Christian Blues, Gospel Blues, and Spirit-filled worship music that blends the raw honesty of the blues with the eternal hope of the Gospel. Every lyric video is crafted to stir the heart, inspire faith, and lift your soul closer to God.\n\nHere you’ll discover:\n\n✝️ Soulful Christian Blues Music\n\n🎶 Gospel Blues Praise & Worship Songs\n\n🎸 Testimony-inspired Blues for Prayer & Healing\n\n\nFrom brokenness to redemption, every song carries a message of grace, freedom, and victory in Jesus Christ. Whether you’re here to worship, pray, or just soak in the blues, Holy Groove is your home for faith-filled music.\n\n📌 #HolyGroove #ChristianBlues #GospelBlues #WorshipMusic #FaithSongs #BluesForTheSoul\n\n",
+        "từ_khóa_kênh": "\"holy groove\" \"gospel music\" \"christian music\" \"worship music\" \"spiritual songs\" \"faith based music\" \"christian worship\" \"gospel worship\" \"praise and worship\" \"christian lyrics\" \"gospel lyrics\" \"worship lyrics\" \"jesus music\" \"holy spirit worship\" \"prayer music\" \"healing worship\" \"emotional gospel\" \"christian blues\" \"gospel blues\" \"soulful gospel\" \"worship blues\" \"christian soul\" \"gospel soul\" \"bib"
+      },
+      "công_thức_tiêu_đề": {
+        "kiểu_chủ_đạo": "kinh_thánh",
+        "phân_bố": {
+          "kinh_thánh": 0.778,
+          "câu_cảm_xúc": 0.175,
+          "có_trích_dẫn": 0.025,
+          "mệnh_đề_điều_kiện": 0.018,
+          "có_thời_lượng": 0.003
+        },
+        "dấu_phân_cách": "|",
+        "độ_dài_trung_vị": 50,
+        "ví_dụ_top": [
+          {
+            "title": "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”",
+            "views": 1180460
+          },
+          {
+            "title": "Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship”",
+            "views": 996738
+          },
+          {
+            "title": "Psalm 121 (Lyrics) | I Lift My Eyes to the Hills | Worship Blues”",
+            "views": 601838
+          },
+          {
+            "title": "Psalm 91 (Lyrics) | God My Refuge & Fortress | Christian Blues Song”",
+            "views": 402338
+          }
+        ]
+      },
+      "cấu_trúc_mô_tả": {
+        "độ_dài_trung_vị": 789,
+        "có_emoji": 0.96,
+        "có_membership": 0.01,
+        "có_tracklist": 0.0,
+        "có_bản_quyền": 0.0,
+        "từ_khóa": [
+          "blues",
+          "gospel",
+          "worship",
+          "christian",
+          "faith",
+          "soulful",
+          "every",
+          "filled",
+          "holy",
+          "groove"
+        ]
+      },
+      "quỹ_đạo": [
+        {
+          "month": "2025-08",
+          "n": 61,
+          "med_view": 4508.0
+        },
+        {
+          "month": "2025-09",
+          "n": 96,
+          "med_view": 1169.0
+        },
+        {
+          "month": "2025-10",
+          "n": 42,
+          "med_view": 1744.0
+        },
+        {
+          "month": "2025-11",
+          "n": 24,
+          "med_view": 573.5
+        },
+        {
+          "month": "2025-12",
+          "n": 36,
+          "med_view": 400.0
+        },
+        {
+          "month": "2026-01",
+          "n": 23,
+          "med_view": 480.0
+        },
+        {
+          "month": "2026-02",
+          "n": 27,
+          "med_view": 631.0
+        },
+        {
+          "month": "2026-03",
+          "n": 9,
+          "med_view": 875.0
+        },
+        {
+          "month": "2026-04",
+          "n": 6,
+          "med_view": 252.0
+        },
+        {
+          "month": "2026-05",
+          "n": 1,
+          "med_view": 245.0
+        }
+      ]
+    }
+  ],
+  "bài_học": {
+    "tỷ_lệ_hit_cao_nhất": {
+      "handle": "oldiesgospelradio",
+      "giá_trị": 0.158,
+      "ý_nghĩa": "Tỷ lệ % video lọt top 5% ngách — chỉ số chất lượng, quan trọng hơn tổng view"
+    },
+    "tổng_view_lớn_nhất": {
+      "handle": "stillworshipmusic",
+      "giá_trị": 16701424
+    },
+    "bật_nhanh_nhất": {
+      "handle": "stillworshipmusic",
+      "tháng": 0.0
+    },
+    "kênh_cũ_hồi_sinh": [
+      {
+        "handle": "oldiesgospelradio",
+        "lập": "2010-04-09",
+        "video_đầu": "2025-07-01"
+      },
+      {
+        "handle": "holygrooveofficial",
+        "lập": "2008-06-21",
+        "video_đầu": "2025-02-14"
+      }
+    ],
+    "phân_bố_mô_hình": {
+      "nhiều_và_ngắn": 2,
+      "ít_và_dài": 3
+    },
+    "kiểu_khởi_đầu": {
+      "nổ_ngay": 3,
+      "leo_dần": 2
+    },
+    "khởi_đầu_chi_tiết": [
+      {
+        "handle": "stillworshipmusic",
+        "kiểu": "nổ_ngay",
+        "view_3_video_đầu": [
+          972321,
+          11661,
+          50878
+        ],
+        "view_trung_vị_10_đầu": 30824
+      },
+      {
+        "handle": "oldiesgospelradio",
+        "kiểu": "nổ_ngay",
+        "view_3_video_đầu": [
+          112216,
+          51027,
+          384558
+        ],
+        "view_trung_vị_10_đầu": 110707
+      },
+      {
+        "handle": "revivalworshiproommusic",
+        "kiểu": "leo_dần",
+        "view_3_video_đầu": [
+          213,
+          147,
+          105
+        ],
+        "view_trung_vị_10_đầu": 136
+      },
+      {
+        "handle": "holygrooveofficial",
+        "kiểu": "nổ_ngay",
+        "view_3_video_đầu": [
+          72202,
+          44753,
+          5940
+        ],
+        "view_trung_vị_10_đầu": 32672
+      },
+      {
+        "handle": "holygroove-1",
+        "kiểu": "leo_dần",
+        "view_3_video_đầu": [
+          12473,
+          10023,
+          5582
+        ],
+        "view_trung_vị_10_đầu": 4503
+      }
+    ]
+  }
+}

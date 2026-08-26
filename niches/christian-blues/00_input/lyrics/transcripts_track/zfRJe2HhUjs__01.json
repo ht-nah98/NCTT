@@ -1,0 +1,390 @@
+{
+ "track_id": "zfRJe2HhUjs#01",
+ "track_key": "zfRJe2HhUjs__01",
+ "video_id": "zfRJe2HhUjs",
+ "title": "<Untitled Chapter 1>",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 481.0,
+ "voiced_sec": 300.4,
+ "voice_ratio": 0.625,
+ "n_words": 346,
+ "words_per_min": 43.2,
+ "is_instrumental": false,
+ "n_segments": 46,
+ "n_segments_voiced": 46,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 26.5,
+ "rtf": 0.055,
+ "segments": [
+  {
+   "start": 6.78,
+   "end": 16.0,
+   "text": "Lord you search me and you know my way",
+   "avg_logprob": -0.64,
+   "no_speech_prob": 0.532,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 20.5,
+   "end": 24.14,
+   "text": "Oh Lord, you search me",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.341,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 26.76,
+   "end": 29.9,
+   "text": "Know all of my days",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.341,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 34.26,
+   "end": 40.32,
+   "text": "You know when I sit down and when I rise",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.341,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 42.94,
+   "end": 54.34,
+   "text": "You see through all my alabas There ain't nothing hidden from your eyes",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.312,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 59.34,
+   "end": 68.26,
+   "text": "Before I speak, you know what I'll say",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.514,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 71.86,
+   "end": 80.74,
+   "text": "Before the words come You know them anyway",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.495,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 85.54,
+   "end": 90.74,
+   "text": "Your hand is on me everywhere I go",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.468,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 94.46,
+   "end": 98.98,
+   "text": "In the heights and in the valley low",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.468,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 100.88,
+   "end": 105.08,
+   "text": "Such knowledge, Lord, I'll never know",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.468,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 108.94,
+   "end": 119.26,
+   "text": "Where can I run from Your presence, Lord?",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.45,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 122.84,
+   "end": 132.14,
+   "text": "Where can I hide from Your presence, Lord?",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 136.28,
+   "end": 142.36,
+   "text": "If I fly to heaven, You are there",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 142.36,
+   "end": 148.86,
+   "text": "Make my bed and hell, you're even there",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.443,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 148.86,
+   "end": 155.68,
+   "text": "Darkness can't hide me from your sight",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.443,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 155.68,
+   "end": 159.76,
+   "text": "To you the dark is bright as light",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.443,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 214.9,
+   "end": 223.12,
+   "text": "You've formed me in my mother's womb",
+   "avg_logprob": -0.665,
+   "no_speech_prob": 0.446,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 227.3,
+   "end": 237.38,
+   "text": "You found me there in that secret room",
+   "avg_logprob": -0.521,
+   "no_speech_prob": 0.255,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 241.0,
+   "end": 247.32,
+   "text": "Nid my bones when no one else could see",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.408,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 249.2,
+   "end": 252.36,
+   "text": "Fearfully and wonderfully",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.408,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 255.94,
+   "end": 259.82,
+   "text": "That's how you've created me",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.408,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 264.46,
+   "end": 268.84,
+   "text": "Your thoughts about me More than said",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.271,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 268.84,
+   "end": 272.12,
+   "text": "Written in your book By your hand",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.271,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 272.12,
+   "end": 275.06,
+   "text": "Every single day You are dead",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.271,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 275.06,
+   "end": 278.56,
+   "text": "Before one came to be You had me",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.271,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 279.34,
+   "end": 284.62,
+   "text": "How precious are your thoughts Oh, how vast the sun",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.271,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 286.68,
+   "end": 294.28,
+   "text": "I'm overwhelmed Where can I run",
+   "avg_logprob": -0.469,
+   "no_speech_prob": 0.619,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 294.28,
+   "end": 300.24,
+   "text": "From Your presence, Lord?",
+   "avg_logprob": -0.469,
+   "no_speech_prob": 0.619,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 303.26,
+   "end": 308.08,
+   "text": "Where can I hide",
+   "avg_logprob": -0.469,
+   "no_speech_prob": 0.619,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 308.08,
+   "end": 312.74,
+   "text": "From Your presence, Lord",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.538,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 316.68,
+   "end": 322.52,
+   "text": "If I fly to heaven You are there",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.538,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 323.08,
+   "end": 328.98,
+   "text": "Make my bed in hell You're even there",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.538,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 330.08,
+   "end": 332.86,
+   "text": "Darkness can't hide me",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.538,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 332.86,
+   "end": 339.48,
+   "text": "From your sight to you the darkest bright is light",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.329,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 343.86,
+   "end": 351.74,
+   "text": "Search me God and know my heart today",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.329,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 356.76,
+   "end": 375.46,
+   "text": "Test me, Lord, know my anxious way See if there's wickedness within",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.553,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 379.22,
+   "end": 389.14,
+   "text": "Cleanse me from my hidden sin Lead me in the way that has nowhere",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.691,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 393.58,
+   "end": 403.26,
+   "text": "Where can I run from Your presence, Lord?",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.691,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 406.6,
+   "end": 415.86,
+   "text": "Where can I hide from Your presence Lord?",
+   "avg_logprob": -0.518,
+   "no_speech_prob": 0.653,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 420.62,
+   "end": 425.26,
+   "text": "If I fly to heaven You are there",
+   "avg_logprob": -0.518,
+   "no_speech_prob": 0.653,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 427.02,
+   "end": 431.88,
+   "text": "Make my bed in hell You're even there",
+   "avg_logprob": -0.518,
+   "no_speech_prob": 0.653,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 431.88,
+   "end": 438.76,
+   "text": "Long is there darkness can't hide me from your sight",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 438.76,
+   "end": 442.7,
+   "text": "To you the dark is bright as light",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 447.88,
+   "end": 454.96,
+   "text": "You held me in behind before",
+   "avg_logprob": -0.391,
+   "no_speech_prob": 0.373,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 459.28,
+   "end": 468.5,
+   "text": "Your hand upon me evermore",
+   "avg_logprob": -0.607,
+   "no_speech_prob": 0.336,
+   "track_id": "zfRJe2HhUjs#01"
+  },
+  {
+   "start": 473.78,
+   "end": 478.66,
+   "text": "Wonderful are your works I know",
+   "avg_logprob": -0.607,
+   "no_speech_prob": 0.336,
+   "track_id": "zfRJe2HhUjs#01"
+  }
+ ]
+}

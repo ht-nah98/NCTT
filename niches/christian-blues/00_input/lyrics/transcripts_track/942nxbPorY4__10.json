@@ -1,0 +1,350 @@
+{
+ "track_id": "942nxbPorY4#10",
+ "track_key": "942nxbPorY4__10",
+ "video_id": "942nxbPorY4",
+ "title": "Jesus is King Pt.2",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 235.0,
+ "voiced_sec": 164.3,
+ "voice_ratio": 0.699,
+ "n_words": 218,
+ "words_per_min": 55.7,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.1,
+ "rtf": 0.043,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 34.4,
+   "text": "woke up this morning with peace in my soul",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 35.0,
+   "end": 39.36,
+   "text": "felt the spirit move took full control",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 40.0,
+   "end": 45.24,
+   "text": "I was lost in the dark but you led my way",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 45.24,
+   "end": 49.68,
+   "text": "now I walk in the light every single day",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 49.68,
+   "end": 54.66,
+   "text": "oh you helped me when I was breaking",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.71,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 54.66,
+   "end": 60.12,
+   "text": "Oh, you saved me when I was fading.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.74,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 60.42,
+   "end": 61.74,
+   "text": "Yeah, yeah.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.74,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 62.26,
+   "end": 66.66,
+   "text": "I owe you everything, everything I am.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.74,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 67.74,
+   "end": 72.5,
+   "text": "Lord, you took my hand, oh Jesus is king.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.74,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 73.24,
+   "end": 75.06,
+   "text": "King of my life.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.74,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 75.38,
+   "end": 78.64,
+   "text": "Oh, yes you are.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.74,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 79.54,
+   "end": 83.06,
+   "text": "You love heaven, my shining star.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.74,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 83.06,
+   "end": 87.96,
+   "text": "Every tear I cry, you caught them all",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.427,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 87.96,
+   "end": 94.26,
+   "text": "But when I couldn't stand, you made me tall",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.427,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 97.24,
+   "end": 102.36,
+   "text": "Oh, Jesus, yeah",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.427,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 104.06,
+   "end": 105.28,
+   "text": "It is King",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.427,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 107.48,
+   "end": 113.52,
+   "text": "Mm, forever rain, oh yes you do",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.737,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 116.08,
+   "end": 121.82,
+   "text": "Even in silence, I hear your voice",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.737,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 121.82,
+   "end": 127.14,
+   "text": "Whisper in mercy, giving me choice",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.737,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 127.14,
+   "end": 132.4,
+   "text": "You turned my sorrow into a song",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.737,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 132.4,
+   "end": 137.38,
+   "text": "Now I'm singing your praises all day long",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.545,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 137.9,
+   "end": 142.66,
+   "text": "No one loves me like you do",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.545,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 143.4,
+   "end": 148.04,
+   "text": "Grace so deep is pulling me through",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.545,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 148.9,
+   "end": 151.88,
+   "text": "In your arms I'm born again",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.545,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 152.4,
+   "end": 157.32,
+   "text": "You're my savior, you're my friend",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.545,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 157.32,
+   "end": 158.06,
+   "text": "Yeah",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 161.32,
+   "end": 166.42,
+   "text": "Oh Lord, I'm yours",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 167.32,
+   "end": 167.94,
+   "text": "Yeah",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 169.32,
+   "end": 169.82,
+   "text": "The city",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 171.32,
+   "end": 172.8,
+   "text": "The city",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 173.32,
+   "end": 174.44,
+   "text": "Yeah",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 175.32,
+   "end": 177.0,
+   "text": "Yes you are",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 177.0,
+   "end": 181.04,
+   "text": "The reason I come this far",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 181.04,
+   "end": 184.12,
+   "text": "I lift my hand, I lift my voice",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.697,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 184.12,
+   "end": 192.62,
+   "text": "Oh, in Your love I rejoice",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.705,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 194.16,
+   "end": 201.44,
+   "text": "Jesus, King, King",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.705,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 202.12,
+   "end": 204.82,
+   "text": "King of kings",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.705,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 206.78,
+   "end": 208.18,
+   "text": "Lord",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.705,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 208.18,
+   "end": 214.98,
+   "text": "Oh, Jesus is King",
+   "avg_logprob": -0.636,
+   "no_speech_prob": 0.615,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 218.18,
+   "end": 225.86,
+   "text": "You reign forevermore",
+   "avg_logprob": -0.636,
+   "no_speech_prob": 0.615,
+   "track_id": "942nxbPorY4#10"
+  },
+  {
+   "start": 229.18,
+   "end": 230.62,
+   "text": "You reign",
+   "avg_logprob": -0.636,
+   "no_speech_prob": 0.615,
+   "track_id": "942nxbPorY4#10"
+  }
+ ]
+}

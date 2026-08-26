@@ -1,0 +1,222 @@
+{
+ "track_id": "1UItx9upywQ#21",
+ "track_key": "1UItx9upywQ__21",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Hear My Cry for Mercy\" - Psalm 28",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 179.0,
+ "voiced_sec": 117.6,
+ "voice_ratio": 0.657,
+ "n_words": 149,
+ "words_per_min": 49.9,
+ "is_instrumental": false,
+ "n_segments": 25,
+ "n_segments_voiced": 25,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 60.4,
+ "rtf": 0.337,
+ "segments": [
+  {
+   "start": 20.18,
+   "end": 28.14,
+   "text": "I'm down on my knees, Lord, the ground feels cold.",
+   "avg_logprob": -0.62,
+   "no_speech_prob": 0.527,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 30.0,
+   "end": 33.74,
+   "text": "The weight of my sins is a heavy storm",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.353,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 35.0,
+   "end": 39.74,
+   "text": "I'm tired and torn, got nowhere to go",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.353,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 39.74,
+   "end": 42.16,
+   "text": "Can you hear me?",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.353,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 45.0,
+   "end": 49.52,
+   "text": "Can you hear me now? Hear my cry",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.353,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 49.52,
+   "end": 54.76,
+   "text": "For mercy, mercy long",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.353,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 54.76,
+   "end": 63.82,
+   "text": "Oh mercy, oh mercy, mercy Lord",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.427,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 63.82,
+   "end": 67.94,
+   "text": "Don't turn away, don't close that door",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.427,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 67.94,
+   "end": 73.42,
+   "text": "Hear my cry for mercy, mercy Lord",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.427,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 76.64,
+   "end": 79.36,
+   "text": "The wind's howl, oh, oh",
+   "avg_logprob": -0.539,
+   "no_speech_prob": 0.427,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 79.36,
+   "end": 83.54,
+   "text": "They cut through my skin",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 84.78,
+   "end": 87.44,
+   "text": "I've been fighting this battle",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 87.44,
+   "end": 89.56,
+   "text": "But I can't win",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 90.36,
+   "end": 92.28,
+   "text": "I see the edge",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 92.28,
+   "end": 95.0,
+   "text": "It's pulling me in",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 95.0,
+   "end": 97.66,
+   "text": "Oh, can you save me?",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 99.64,
+   "end": 102.36,
+   "text": "Can you save me now?",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 103.42,
+   "end": 105.1,
+   "text": "Hear my cry",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 105.1,
+   "end": 106.56,
+   "text": "For mercy",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.652,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 106.56,
+   "end": 117.02,
+   "text": "Mercy Lord, mercy Lord, mercy Lord, mercy Lord",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.76,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 119.56,
+   "end": 123.32,
+   "text": "Don't turn away, don't close that door",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.76,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 123.32,
+   "end": 128.74,
+   "text": "Hear my cry for mercy, mercy Lord",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.76,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 147.14,
+   "end": 152.72,
+   "text": "I hear my cry from mercy",
+   "avg_logprob": -1.136,
+   "no_speech_prob": 0.588,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 154.72,
+   "end": 169.4,
+   "text": "Mercy, Lord, Don't turn away, don't close that door",
+   "avg_logprob": -0.784,
+   "no_speech_prob": 0.646,
+   "track_id": "1UItx9upywQ#21"
+  },
+  {
+   "start": 169.4,
+   "end": 175.02,
+   "text": "Hear my cry for mercy, Mercy, Lord",
+   "avg_logprob": -0.784,
+   "no_speech_prob": 0.646,
+   "track_id": "1UItx9upywQ#21"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "track_id": "1UItx9upywQ#13",
+ "track_key": "1UItx9upywQ__13",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Lift My Eyes\" - Psalm 121",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 110.0,
+ "voiced_sec": 82.3,
+ "voice_ratio": 0.748,
+ "n_words": 106,
+ "words_per_min": 57.8,
+ "is_instrumental": false,
+ "n_segments": 11,
+ "n_segments_voiced": 11,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 5.1,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 6.02,
+   "end": 10.12,
+   "text": "I live my eyes to the hills so white",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.448,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 13.4,
+   "end": 18.14,
+   "text": "Dust on my boots and nowhere to hide",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.448,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 20.84,
+   "end": 23.88,
+   "text": "The sun's sinking low",
+   "avg_logprob": -0.58,
+   "no_speech_prob": 0.448,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 23.88,
+   "end": 32.76,
+   "text": "Don't take my pride Where does my help come from?",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.74,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 34.78,
+   "end": 39.02,
+   "text": "Where does my help come from?",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.74,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 40.9,
+   "end": 46.08,
+   "text": "It comes from above It comes from above",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.74,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 46.08,
+   "end": 54.82,
+   "text": "The makeover, the giver of love, it comes from above",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.678,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 58.6,
+   "end": 63.06,
+   "text": "The wind in the pine's arms a long song tune",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.678,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 64.82,
+   "end": 69.34,
+   "text": "The road is long but I'll get there soon",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.678,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 69.34,
+   "end": 90.34,
+   "text": "Under the same old weary moon Where does my hell come from?",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.696,
+   "track_id": "1UItx9upywQ#13"
+  },
+  {
+   "start": 90.34,
+   "end": 103.76,
+   "text": "It comes from above, it comes from above The maker of earth, the giver of love, it comes from above",
+   "avg_logprob": -0.277,
+   "no_speech_prob": 0.282,
+   "track_id": "1UItx9upywQ#13"
+  }
+ ]
+}

@@ -1,0 +1,502 @@
+{
+ "track_id": "NwYKGZpyYs8#09",
+ "track_key": "NwYKGZpyYs8__09",
+ "video_id": "NwYKGZpyYs8",
+ "title": "I Was Blind (John 9)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 320.0,
+ "voiced_sec": 285.6,
+ "voice_ratio": 0.893,
+ "n_words": 474,
+ "words_per_min": 88.9,
+ "is_instrumental": false,
+ "n_segments": 60,
+ "n_segments_voiced": 60,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 33.8,
+ "rtf": 0.106,
+ "segments": [
+  {
+   "start": 5.06,
+   "end": 11.56,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.351,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 11.72,
+   "end": 20.28,
+   "text": "As Jesus passed, He saw a man blind from birth just as He stands.",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.351,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 20.28,
+   "end": 24.94,
+   "text": "They asked Him, Lord, whose fault is this?",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.498,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 25.52,
+   "end": 29.64,
+   "text": "They sent our parents, sent them this.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.498,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 30.12,
+   "end": 33.82,
+   "text": "Jesus said this came to show",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.498,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 33.82,
+   "end": 38.14,
+   "text": "God's work made visible below.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.498,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 39.06,
+   "end": 42.96,
+   "text": "While it is dead, we work the plan.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.498,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 43.86,
+   "end": 47.48,
+   "text": "The night will come when no one can.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.498,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 47.48,
+   "end": 60.86,
+   "text": "I once was blind, but now I see the work of God revealed in me, though they deny and question still.",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.463,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 61.86,
+   "end": 65.44,
+   "text": "I stand healed by Jesus will.",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.463,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 65.44,
+   "end": 69.94,
+   "text": "I once was blind, but now I see",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 69.94,
+   "end": 74.62,
+   "text": "The light of life has come to me",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 74.62,
+   "end": 79.28,
+   "text": "Let those who doubt say what they can",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 79.28,
+   "end": 84.08,
+   "text": "I know the touch of the Son of Man",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 86.04,
+   "end": 90.76,
+   "text": "He spat on ground, made mud with clay",
+   "avg_logprob": -0.19,
+   "no_speech_prob": 0.526,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 90.76,
+   "end": 99.5,
+   "text": "Anointed eyes then told him, pray, go wash within Silo pool",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.446,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 99.5,
+   "end": 108.92,
+   "text": "The cent one made him see in full He went away and washed his face",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.446,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 108.92,
+   "end": 117.62,
+   "text": "He came back seeing by God's grace The neighbor stared and argued aloud",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.446,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 117.62,
+   "end": 122.82,
+   "text": "Is this the blind one from the crowd?",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.336,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 124.1,
+   "end": 127.4,
+   "text": "They dragged him to the Pharisee",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.336,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 128.58,
+   "end": 131.92,
+   "text": "Who questioned how he came to see",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.336,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 133.52,
+   "end": 138.08,
+   "text": "It was the Sabbath, they cried wrong",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.336,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 138.08,
+   "end": 142.74,
+   "text": "They split in bout, the crowd grew strong",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.336,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 142.74,
+   "end": 147.5,
+   "text": "He said He healed me, I obeyed",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.319,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 147.5,
+   "end": 151.58,
+   "text": "Some set of sinner signs not made",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.319,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 151.58,
+   "end": 156.16,
+   "text": "They asked the blind man, speak your view",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.319,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 156.74,
+   "end": 160.68,
+   "text": "He said a prophet, this man true",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.319,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 160.68,
+   "end": 165.06,
+   "text": "I once was blind, but now I see",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.319,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 165.74,
+   "end": 169.74,
+   "text": "The work of God revealed in me",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.319,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 169.74,
+   "end": 179.0,
+   "text": "Though they deny in question still I stand healed by Jesus' will",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.584,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 179.0,
+   "end": 187.8,
+   "text": "I once was blind, but now I see The light of life has come to me",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.584,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 187.8,
+   "end": 196.94,
+   "text": "Let those who doubt say what they can I know the touch of the Son of man",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.584,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 199.74,
+   "end": 203.92,
+   "text": "They called his parents, fear took hold",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.056,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 203.92,
+   "end": 208.18,
+   "text": "He is of age, let him be told",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.056,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 208.74,
+   "end": 212.78,
+   "text": "Again they pressed him, cursed this man",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.056,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 213.34,
+   "end": 217.02,
+   "text": "He said, I know what I understand",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.056,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 218.06,
+   "end": 221.86,
+   "text": "I was blind now, sight is mine",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.056,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 222.5,
+   "end": 226.26,
+   "text": "Whether sinner or divine",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.056,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 226.26,
+   "end": 230.92,
+   "text": "Jesus heard they cast him out",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 230.92,
+   "end": 235.42,
+   "text": "He said, do you believe, no doubt",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 235.42,
+   "end": 237.62,
+   "text": "Who is he, Lord?",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 238.32,
+   "end": 240.14,
+   "text": "So I may trust",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 240.14,
+   "end": 242.48,
+   "text": "You have seen him say",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 242.48,
+   "end": 244.48,
+   "text": "Jesus just",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 244.48,
+   "end": 246.56,
+   "text": "He spoke with you",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 246.56,
+   "end": 248.98,
+   "text": "The Son of Man",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 248.98,
+   "end": 251.62,
+   "text": "The healed one bowed",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 251.62,
+   "end": 253.58,
+   "text": "And worshiped them",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.268,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 253.58,
+   "end": 258.06,
+   "text": "For judgment I came, said the Lord",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.075,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 258.58,
+   "end": 262.6,
+   "text": "Blind will see by my word",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.075,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 263.58,
+   "end": 267.54,
+   "text": "Those who see will lose their sight",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.075,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 267.54,
+   "end": 272.28,
+   "text": "Pride exposed by living light",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.075,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 274.88,
+   "end": 278.52,
+   "text": "I once was blind",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.075,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 278.52,
+   "end": 285.1,
+   "text": "But now I see the work of God revealed in me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.405,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 285.1,
+   "end": 289.62,
+   "text": "Though they deny and question still",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.405,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 289.62,
+   "end": 293.28,
+   "text": "That's just how I stand healed by Jesus",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.405,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 293.28,
+   "end": 296.64,
+   "text": "Well, I once was blind",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.405,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 296.64,
+   "end": 303.2,
+   "text": "But now I see the light of life has come to me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.405,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 303.2,
+   "end": 307.58,
+   "text": "Let those who die say what they can",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.405,
+   "track_id": "NwYKGZpyYs8#09"
+  },
+  {
+   "start": 307.58,
+   "end": 312.42,
+   "text": "Say what they I know the touch of the Son of Man",
+   "avg_logprob": -0.535,
+   "no_speech_prob": 0.2,
+   "track_id": "NwYKGZpyYs8#09"
+  }
+ ]
+}

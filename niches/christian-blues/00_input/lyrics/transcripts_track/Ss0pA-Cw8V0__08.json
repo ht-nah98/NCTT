@@ -1,0 +1,342 @@
+{
+ "track_id": "Ss0pA-Cw8V0#08",
+ "track_key": "Ss0pA-Cw8V0__08",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Jireh",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 146.0,
+ "voiced_sec": 115.3,
+ "voice_ratio": 0.79,
+ "n_words": 287,
+ "words_per_min": 118.0,
+ "is_instrumental": false,
+ "n_segments": 40,
+ "n_segments_voiced": 40,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.2,
+ "rtf": 0.09,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.94,
+   "text": "Oh man",
+   "avg_logprob": -0.664,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 4.0,
+   "end": 6.4,
+   "text": "Yeah, yeah",
+   "avg_logprob": -0.664,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 9.54,
+   "end": 12.34,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.664,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 15.0,
+   "end": 17.38,
+   "text": "Oh, oh, yeah",
+   "avg_logprob": -0.664,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 17.38,
+   "end": 24.5,
+   "text": "Yeah, yeah, yeah",
+   "avg_logprob": -0.664,
+   "no_speech_prob": 0.685,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 24.5,
+   "end": 28.16,
+   "text": "Yeah, yeah, yeah, yeah, yeah, yeah",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 28.16,
+   "end": 30.38,
+   "text": "I was lost, I was down, feeling low",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 30.38,
+   "end": 33.04,
+   "text": "Then he came through, now my blessings overflow",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 33.04,
+   "end": 36.14,
+   "text": "Joe over Jairie, he provide, yeah, he show",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 36.14,
+   "end": 39.12,
+   "text": "Every step I take, he the reason I grow",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 39.12,
+   "end": 42.08,
+   "text": "Grinding every day, but I ain't on my own",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 42.08,
+   "end": 44.92,
+   "text": "He the club, yeah, he feed me from his throne",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 45.5,
+   "end": 48.06,
+   "text": "Tries come, strong shit, I want more",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 48.06,
+   "end": 51.2,
+   "text": "Faith in Jesus, now my heart's fully grown",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.576,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 52.46,
+   "end": 57.48,
+   "text": "You never felt me use the fly Every need, every dream you provide",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 58.2,
+   "end": 63.26,
+   "text": "In the trap, in the streets you my guide Your whole vagina, forever by my side",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 64.18,
+   "end": 69.06,
+   "text": "You never felt me use the fly Every need, every dream you provide",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 69.06,
+   "end": 74.86,
+   "text": "In the trap, in the streets you my guide Your whole vagina, forever by my side",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 74.86,
+   "end": 80.08,
+   "text": "Stacking blessing, yeah, not just the money Peace in my soul, yeah, my heart stays sunny",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.627,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 80.08,
+   "end": 83.1,
+   "text": "In the mean lurk but your life so runny",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 83.1,
+   "end": 85.88,
+   "text": "You with my shield, my king Lord Almighty",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 85.88,
+   "end": 89.54,
+   "text": "No cap, no flex, just faith on my chest",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 89.54,
+   "end": 92.5,
+   "text": "And the dark is not your name, give me rest",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 92.5,
+   "end": 96.54,
+   "text": "I speak victory, yes, I ain't stressed with you Lord",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 96.54,
+   "end": 98.7,
+   "text": "Yeah, I'm truly blessed, so",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 99.68,
+   "end": 101.22,
+   "text": "You never felt me, you supplied",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 101.8,
+   "end": 104.14,
+   "text": "Every need, every dream you provide",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 104.96,
+   "end": 107.52,
+   "text": "In the trap, in the streets, you my guide",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.538,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 107.52,
+   "end": 110.52,
+   "text": "I hope a gyro forever by my side",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 111.34,
+   "end": 113.5,
+   "text": "Yeah, yeah, keep up high",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 114.32,
+   "end": 116.02,
+   "text": "Never, never, never to learn",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 117.16,
+   "end": 119.04,
+   "text": "Blessings on blessings, watch them multiply",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 123.5,
+   "end": 125.12,
+   "text": "Gyro, oh, gyro",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 125.92,
+   "end": 127.24,
+   "text": "You mind everything",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 128.94,
+   "end": 130.46,
+   "text": "Every crown I wear",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 131.64,
+   "end": 133.22,
+   "text": "It's cause of you I sing",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.63,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 134.7,
+   "end": 136.22,
+   "text": "Trapped life chain",
+   "avg_logprob": -0.61,
+   "no_speech_prob": 0.423,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 137.42,
+   "end": 139.0,
+   "text": "Now my soul got wings",
+   "avg_logprob": -0.61,
+   "no_speech_prob": 0.423,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 140.92,
+   "end": 142.64,
+   "text": "To hold a gyro",
+   "avg_logprob": -0.61,
+   "no_speech_prob": 0.423,
+   "track_id": "Ss0pA-Cw8V0#08"
+  },
+  {
+   "start": 142.64,
+   "end": 144.52,
+   "text": "My provider, my king",
+   "avg_logprob": -0.61,
+   "no_speech_prob": 0.423,
+   "track_id": "Ss0pA-Cw8V0#08"
+  }
+ ]
+}

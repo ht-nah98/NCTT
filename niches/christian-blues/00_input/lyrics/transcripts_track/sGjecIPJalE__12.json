@@ -1,0 +1,350 @@
+{
+ "track_id": "sGjecIPJalE#12",
+ "track_key": "sGjecIPJalE__12",
+ "video_id": "sGjecIPJalE",
+ "title": "Let Not Your Heart Be Troubled (John 14)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 238.0,
+ "voiced_sec": 168.5,
+ "voice_ratio": 0.708,
+ "n_words": 286,
+ "words_per_min": 72.1,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.6,
+ "rtf": 0.053,
+ "segments": [
+  {
+   "start": 30.64,
+   "end": 34.78,
+   "text": "Believe in God, believe in me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 34.78,
+   "end": 40.22,
+   "text": "In my Father's house are many rooms",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 40.22,
+   "end": 43.88,
+   "text": "If it were not so, I'd tell thee",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 43.88,
+   "end": 48.44,
+   "text": "And I go and prepare a place for you",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 48.44,
+   "end": 52.9,
+   "text": "And I will come again to take you home",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 52.9,
+   "end": 57.76,
+   "text": "That where I am, you may be also",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 57.76,
+   "end": 61.8,
+   "text": "And You will never be alone",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 61.8,
+   "end": 66.34,
+   "text": "I am the way, the truth, the life",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 66.34,
+   "end": 70.88,
+   "text": "No one comes to the Father but by Me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 70.88,
+   "end": 75.52,
+   "text": "If You've seen Me, You've seen the Father",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 75.52,
+   "end": 79.74,
+   "text": "Believe the words I speak are He",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 79.74,
+   "end": 84.3,
+   "text": "The helper comes, the Spirit of truth",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 84.3,
+   "end": 88.76,
+   "text": "Who the world cannot receive?",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 89.56,
+   "end": 92.14,
+   "text": "Peace I leave with you",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 92.14,
+   "end": 94.56,
+   "text": "My peace I give",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 94.56,
+   "end": 97.84,
+   "text": "Let not your heart be troubled",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 97.84,
+   "end": 99.7,
+   "text": "Believe",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 102.66,
+   "end": 104.78,
+   "text": "If you love me",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 104.78,
+   "end": 107.4,
+   "text": "You'll keep my word",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 107.4,
+   "end": 111.16,
+   "text": "And my Father will love you too",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 111.16,
+   "end": 120.22,
+   "text": "We will come and make our home And dwell forever inside of You",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.698,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 121.16,
+   "end": 129.3,
+   "text": "The Helper, the Holy Spirit will teach And bring to mind all I've said",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.698,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 129.3,
+   "end": 138.12,
+   "text": "Peace I leave with You again Let not your hearts be afraid",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.698,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 138.12,
+   "end": 142.78,
+   "text": "I am the way, the truth, the life",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 142.78,
+   "end": 147.4,
+   "text": "No one comes to the Father but by me",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 148.12,
+   "end": 152.0,
+   "text": "If you've seen me, you've seen the Father",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 153.12,
+   "end": 156.12,
+   "text": "Believe the words I speak are He",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 156.12,
+   "end": 160.78,
+   "text": "The Helper comes, the Spirit of Truth",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 160.78,
+   "end": 165.26,
+   "text": "Who the world cannot receive",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 165.26,
+   "end": 168.58,
+   "text": "Peace I'll live with you",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.727,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 169.26,
+   "end": 171.02,
+   "text": "My peace I give",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.727,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 171.02,
+   "end": 174.34,
+   "text": "Let not your heart be troubled",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.727,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 192.34,
+   "end": 201.16,
+   "text": "I am the way, the truth, the life No one comes to father but by me",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 201.16,
+   "end": 206.14,
+   "text": "But by if you've seen me, you've seen the Father",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 206.84,
+   "end": 210.14,
+   "text": "Believe the words I speak are He",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 210.68,
+   "end": 214.78,
+   "text": "The help of God, the Spirit of truth",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 215.72,
+   "end": 219.32,
+   "text": "Whom the world cannot receive",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 220.2,
+   "end": 222.52,
+   "text": "Peace I leave with you",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 223.16,
+   "end": 225.24,
+   "text": "My peace I give",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 225.24,
+   "end": 228.0,
+   "text": "Let not your heart",
+   "avg_logprob": -0.966,
+   "no_speech_prob": 0.074,
+   "track_id": "sGjecIPJalE#12"
+  },
+  {
+   "start": 234.24,
+   "end": 234.34,
+   "text": "believe",
+   "avg_logprob": -0.966,
+   "no_speech_prob": 0.074,
+   "track_id": "sGjecIPJalE#12"
+  }
+ ]
+}

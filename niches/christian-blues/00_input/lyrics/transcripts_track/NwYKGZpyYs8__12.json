@@ -1,0 +1,350 @@
+{
+ "track_id": "NwYKGZpyYs8#12",
+ "track_key": "NwYKGZpyYs8__12",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Lifted Up (John 12)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 328.0,
+ "voiced_sec": 258.3,
+ "voice_ratio": 0.787,
+ "n_words": 351,
+ "words_per_min": 64.2,
+ "is_instrumental": false,
+ "n_segments": 41,
+ "n_segments_voiced": 41,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.5,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 30.26,
+   "end": 39.56,
+   "text": "Six days before the Passover feast Jesus came where Lazarus feast",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.546,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 39.56,
+   "end": 49.28,
+   "text": "Mother served and Mary came With consulate opot in his name",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.546,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 49.28,
+   "end": 54.26,
+   "text": "She anointed feet and white with hair",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.547,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 54.26,
+   "end": 58.98,
+   "text": "The house was filled with fragrance there",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.547,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 58.98,
+   "end": 64.06,
+   "text": "Judas said this waste is wrong",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.547,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 64.06,
+   "end": 68.1,
+   "text": "Jesus said leave her alone",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.547,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 68.1,
+   "end": 73.04,
+   "text": "The King comes, Lord, in humble way",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.547,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 73.04,
+   "end": 77.54,
+   "text": "Glory hidden on display",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.547,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 77.54,
+   "end": 87.14,
+   "text": "play who loves his life will lose it still who gives it up fulfills God",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.839,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 87.14,
+   "end": 88.02,
+   "text": "oh",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.839,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 90.54,
+   "end": 102.58,
+   "text": "in humble way life draws near yes some turn away follow me the voice may clear",
+   "avg_logprob": -0.599,
+   "no_speech_prob": 0.839,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 102.58,
+   "end": 107.54,
+   "text": "Where I am, my servant's here",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.692,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 118.4,
+   "end": 122.94,
+   "text": "The crowd that saw the dead man live",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.692,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 123.58,
+   "end": 127.82,
+   "text": "Spoke of signs he came to give",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.692,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 127.82,
+   "end": 137.38,
+   "text": "The leaders plan both deaths to bring Lazarus and Christ the king",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.492,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 138.82,
+   "end": 146.94,
+   "text": "The next day crowds lined up the road With palm tree branches, voices flow",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.492,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 146.94,
+   "end": 156.74,
+   "text": "Hosanna to the coming one, the king of Israel, God's son",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.587,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 156.74,
+   "end": 166.9,
+   "text": "He wrote a donkey, meek and mild, fear not daughter, gentle child",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.587,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 166.9,
+   "end": 171.42,
+   "text": "Sealed fulfilled from prophet voice",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 171.42,
+   "end": 176.76,
+   "text": "The disciples did not know the choice",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 176.76,
+   "end": 181.56,
+   "text": "When he was lifted, glorified",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 181.56,
+   "end": 186.44,
+   "text": "They remembered what was cried",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 186.44,
+   "end": 191.42,
+   "text": "The crowd that saw the miracle stand",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 191.42,
+   "end": 195.94,
+   "text": "Testified throughout the land",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.751,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 195.94,
+   "end": 200.28,
+   "text": "The King comes low in humble way",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.232,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 200.28,
+   "end": 205.06,
+   "text": "Glory hidden on display",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.232,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 205.06,
+   "end": 209.48,
+   "text": "Who loves his life will lose it",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.232,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 209.48,
+   "end": 214.94,
+   "text": "Still who gives it all or feels God will",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.232,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 214.94,
+   "end": 219.94,
+   "text": "The King comes low in humble way",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.232,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 219.94,
+   "end": 224.58,
+   "text": "Light draws near yet some turn away",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.232,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 224.58,
+   "end": 234.86,
+   "text": "Follow me, follow me, the voice may clear where I am my servants here",
+   "avg_logprob": -0.57,
+   "no_speech_prob": 0.344,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 245.98,
+   "end": 250.54,
+   "text": "Some Greeks said, sir, we seek the sun.",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.669,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 251.86,
+   "end": 259.7,
+   "text": "Jesus said the hour has come, unless a grain falls to the ground.",
+   "avg_logprob": -0.423,
+   "no_speech_prob": 0.669,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 259.7,
+   "end": 269.66,
+   "text": "It stays alone, life not found Now my soul is troubled deep",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 271.46,
+   "end": 279.58,
+   "text": "Yet for this hour I will keep Father glorify your name",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 281.06,
+   "end": 289.14,
+   "text": "A voice replied, I did the same The crowd said thunder filled the air",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.59,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 290.3,
+   "end": 299.18,
+   "text": "Jesus said this voice was there Not for me, but sin for you",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.68,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 300.9,
+   "end": 309.46,
+   "text": "Now this world will face its doom Lift it up from earth, I stand",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.68,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 309.46,
+   "end": 313.96,
+   "text": "Drawing all by outstretched hand",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.492,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 313.96,
+   "end": 318.68,
+   "text": "Though he spoke the death he faced",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.492,
+   "track_id": "NwYKGZpyYs8#12"
+  },
+  {
+   "start": 319.46,
+   "end": 323.36,
+   "text": "Many love the dark not grace",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.492,
+   "track_id": "NwYKGZpyYs8#12"
+  }
+ ]
+}

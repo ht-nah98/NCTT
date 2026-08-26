@@ -1,0 +1,230 @@
+{
+ "track_id": "JqDkxKCb4ec#06",
+ "track_key": "JqDkxKCb4ec__06",
+ "video_id": "JqDkxKCb4ec",
+ "title": "The Honey Turns To Fire (Proverbs 5)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 225.0,
+ "voiced_sec": 96.7,
+ "voice_ratio": 0.43,
+ "n_words": 157,
+ "words_per_min": 41.9,
+ "is_instrumental": false,
+ "n_segments": 26,
+ "n_segments_voiced": 26,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 25.1,
+ "rtf": 0.111,
+ "segments": [
+  {
+   "start": 20.06,
+   "end": 27.1,
+   "text": "My son hear my voice tonight, let wisdom guard your way",
+   "avg_logprob": -0.575,
+   "no_speech_prob": 0.363,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 28.26,
+   "end": 37.68,
+   "text": "The lips of temptation drip sweet as honey But her feet lead you astray",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.217,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 41.36,
+   "end": 48.86,
+   "text": "Her past goes down to death Her steps can't find a light",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.217,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 48.86,
+   "end": 52.88,
+   "text": "She don't care about the way of truth",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 52.88,
+   "end": 56.52,
+   "text": "She hides her sin and lies",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 56.52,
+   "end": 59.54,
+   "text": "The honey turns to fire",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 63.74,
+   "end": 67.14,
+   "text": "Oh, won't you taste that lie?",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 68.1,
+   "end": 69.5,
+   "text": "Taste that lie",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 71.68,
+   "end": 73.8,
+   "text": "Taste that lie",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 73.8,
+   "end": 76.14,
+   "text": "Stay far from her door",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 76.14,
+   "end": 77.22,
+   "text": "Always",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 80.8,
+   "end": 84.7,
+   "text": "Oh, don't even pass by",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 92.74,
+   "end": 95.8,
+   "text": "Drink water from your own well",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 97.88,
+   "end": 100.32,
+   "text": "Rejoice in the love you know",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 101.14,
+   "end": 105.4,
+   "text": "Be satisfied with the wife of your youth",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 105.4,
+   "end": 108.06,
+   "text": "Let a river flow",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 109.4,
+   "end": 113.14,
+   "text": "The lost is every step you take",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 113.14,
+   "end": 117.32,
+   "text": "Your ways are in his sight",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 117.32,
+   "end": 122.0,
+   "text": "The wicked get trapped by their own sin",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 122.0,
+   "end": 126.2,
+   "text": "And can't break loose to fight",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 167.66,
+   "end": 171.04,
+   "text": "The honey turns to fire",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 174.96,
+   "end": 178.74,
+   "text": "Yeah, once you taste that light",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 178.74,
+   "end": 180.4,
+   "text": "Taste that light",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 182.54,
+   "end": 185.14,
+   "text": "You taste that light",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 185.14,
+   "end": 188.26,
+   "text": "Stay far from her doorway",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06"
+  },
+  {
+   "start": 193.08,
+   "end": 197.1,
+   "text": "Don't even pass by",
+   "avg_logprob": -0.619,
+   "no_speech_prob": 0.633,
+   "track_id": "JqDkxKCb4ec#06"
+  }
+ ]
+}

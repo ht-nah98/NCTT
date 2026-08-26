@@ -1,0 +1,342 @@
+{
+ "track_id": "rBwZv_dQf8A#15",
+ "track_key": "rBwZv_dQf8A__15",
+ "video_id": "rBwZv_dQf8A",
+ "title": "The Blues Of A Fool (Proverbs 26)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 197.0,
+ "voiced_sec": 146.4,
+ "voice_ratio": 0.743,
+ "n_words": 317,
+ "words_per_min": 96.6,
+ "is_instrumental": false,
+ "n_segments": 40,
+ "n_segments_voiced": 40,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 41.5,
+ "rtf": 0.21,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 32.32,
+   "text": "Bright in his pocket and the liars touch",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 32.32,
+   "end": 35.26,
+   "text": "Like a dog returns where he's been before",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 35.26,
+   "end": 37.92,
+   "text": "He keeps knocking on that same old door",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 38.8,
+   "end": 41.7,
+   "text": "The wise man listens, the fool just rags",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 41.7,
+   "end": 45.08,
+   "text": "Goes round in circles, dragging his rags",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 45.08,
+   "end": 48.28,
+   "text": "Don't play the fool, don't waste your breath",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 48.28,
+   "end": 51.14,
+   "text": "Foolish ways just lead to death",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 51.14,
+   "end": 54.12,
+   "text": "Keep your heart clean, keep your words true",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 54.12,
+   "end": 57.82,
+   "text": "Don't play the fool, let a wisdom move you",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.248,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 57.82,
+   "end": 63.12,
+   "text": "Lazy man says there's lines out there",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.581,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 64.08,
+   "end": 69.26,
+   "text": "But he don't move, he just sits in his chair",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.581,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 69.82,
+   "end": 73.18,
+   "text": "Got a hand in the bowl but won't take a bite",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.581,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 73.18,
+   "end": 76.2,
+   "text": "Dreams, big dreams, but sleeps all night",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.581,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 76.82,
+   "end": 79.18,
+   "text": "Gossip's tongue can spark a flame",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.581,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 79.82,
+   "end": 82.24,
+   "text": "Burn down bridges and curse your name",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.581,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 82.24,
+   "end": 85.14,
+   "text": "When words run out, the fire dies low",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.581,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 85.14,
+   "end": 88.12,
+   "text": "So hush your mouth and let love show",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 88.98,
+   "end": 91.78,
+   "text": "Don't play the fool, don't waste your breath",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 91.78,
+   "end": 94.62,
+   "text": "Foolish ways just lead to death",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 94.62,
+   "end": 97.6,
+   "text": "Keep your heart clean, keep your words true",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 97.6,
+   "end": 101.26,
+   "text": "Don't play the fool, let wisdom move you",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.545,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 101.26,
+   "end": 112.56,
+   "text": "Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa.",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.512,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 113.06,
+   "end": 115.76,
+   "text": "The fool says I'm wise, but he don't see.",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.512,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 115.92,
+   "end": 118.64,
+   "text": "Don't be no fool, walk in mercy.",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.512,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 119.16,
+   "end": 120.22,
+   "text": "The gossip talk.",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.512,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 120.46,
+   "end": 121.72,
+   "text": "But peace won't stick.",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.512,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 121.88,
+   "end": 123.6,
+   "text": "But peace won't stay.",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.512,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 123.74,
+   "end": 127.98,
+   "text": "Speak like my brother, walk God's way.",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.512,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 127.98,
+   "end": 134.76,
+   "text": "Hatred hides behind a smile Sweet words dripping on the wild",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.62,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 134.76,
+   "end": 140.74,
+   "text": "Silver glaze on a pot of clay But truth's gonna crack that mask one day",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.62,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 140.74,
+   "end": 146.7,
+   "text": "Don't dig a pit for your brother's feet You'll fall right in where deceit means deceit",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.62,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 146.7,
+   "end": 152.64,
+   "text": "The Lord sees hearts, He knows what's true The fool's rodents where mercy flew",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.62,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 152.64,
+   "end": 156.22,
+   "text": "Don't play the fool, don't waste your breath",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.647,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 156.22,
+   "end": 159.12,
+   "text": "Foolish ways, just a lead to death",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.647,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 159.12,
+   "end": 162.1,
+   "text": "Keep your heart clean, keep your words true",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.647,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 162.64,
+   "end": 165.8,
+   "text": "Don't play the fool, let a wisdom move you",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.647,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 165.8,
+   "end": 170.1,
+   "text": "Oh, oh, oh, let your walk be right",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.647,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 170.88,
+   "end": 172.96,
+   "text": "Let your love be proof",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.647,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 172.96,
+   "end": 182.6,
+   "text": "Don't play the fool, walking true",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.25,
+   "track_id": "rBwZv_dQf8A#15"
+  },
+  {
+   "start": 185.88,
+   "end": 187.28,
+   "text": "Whoa",
+   "avg_logprob": -0.69,
+   "no_speech_prob": 0.25,
+   "track_id": "rBwZv_dQf8A#15"
+  }
+ ]
+}

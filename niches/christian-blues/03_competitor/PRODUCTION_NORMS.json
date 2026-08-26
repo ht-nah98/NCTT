@@ -1,0 +1,88 @@
+{
+  "niche": "christian-blues",
+  "cadence": {
+    "median_all": 3.42,
+    "median_top": 4.74,
+    "median_rest": 3.27,
+    "p25": 1.91,
+    "p75": 5.95,
+    "n_channels": 48,
+    "window_days": 90
+  },
+  "tracklist": {
+    "pct_all": 20.7,
+    "pct_top": 17.5,
+    "pct_rest": 22.3,
+    "vpd_with": 8.51,
+    "vpd_without": 9.78,
+    "within_channel": {
+      "n_channels": 22,
+      "n_better": 11,
+      "median_lift": 0.94
+    },
+    "verdict": "KHÔNG PHẢI YẾU TỐ THẮNG"
+  },
+  "duration": {
+    "by_band": [
+      {
+        "band": "Shorts (<1,1ph)",
+        "n": 469,
+        "vpd_median": 15.29,
+        "view_median": 2669
+      },
+      {
+        "band": "1–10 phút",
+        "n": 1283,
+        "vpd_median": 15.84,
+        "view_median": 2803
+      },
+      {
+        "band": "10–30 phút",
+        "n": 486,
+        "vpd_median": 7.41,
+        "view_median": 1773
+      },
+      {
+        "band": "30–60 phút",
+        "n": 973,
+        "vpd_median": 7.62,
+        "view_median": 1427
+      },
+      {
+        "band": "1–2 giờ",
+        "n": 1599,
+        "vpd_median": 6.74,
+        "view_median": 870
+      },
+      {
+        "band": "trên 2 giờ",
+        "n": 794,
+        "vpd_median": 8.43,
+        "view_median": 1215
+      }
+    ],
+    "median_min_all": 43.2,
+    "median_min_top": 6.1,
+    "long_vs_short_within": {
+      "n_channels": 24,
+      "n_better_long": 12,
+      "median_lift": 0.95
+    },
+    "verdict": "KHÔNG CÓ QUY LUẬT — chọn độ dài theo định vị, không theo kỳ vọng thuật toán",
+    "naive_trap": {
+      "short_vpd": 15.71,
+      "long_vpd": 7.45,
+      "note": "chênh này BIẾN MẤT khi kiểm trong từng kênh"
+    }
+  },
+  "_meta": {
+    "mature_days": 60,
+    "shorts_threshold_min": 1.1,
+    "top_k_channels": 10,
+    "method": "so trong từng kênh (chống nghịch lý Simpson); VPD = view/ngày trên video đã chín ≥60 ngày",
+    "limits": [
+      "tracklist nhận diện bằng đếm mốc thời gian trong mô tả — có thể sót định dạng lạ",
+      "tần suất đăng tính trên 90 ngày, chưa phản ánh mùa vụ"
+    ]
+  }
+}

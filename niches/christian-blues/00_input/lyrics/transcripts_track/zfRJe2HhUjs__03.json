@@ -1,0 +1,374 @@
+{
+ "track_id": "zfRJe2HhUjs#03",
+ "track_key": "zfRJe2HhUjs__03",
+ "video_id": "zfRJe2HhUjs",
+ "title": "Be Still (Psalm 46)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 328.0,
+ "voiced_sec": 232.2,
+ "voice_ratio": 0.708,
+ "n_words": 322,
+ "words_per_min": 58.9,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 44,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.2,
+ "rtf": 0.046,
+ "segments": [
+  {
+   "start": 12.56,
+   "end": 19.28,
+   "text": "God is my refuge when the trouble comes",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.439,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 19.28,
+   "end": 26.72,
+   "text": "Oh God is my refuge when that trouble comes",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.44,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 26.72,
+   "end": 34.86,
+   "text": "He's my strength when I can't stand a very present help",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.44,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 34.86,
+   "end": 42.28,
+   "text": "When the world shakes He's holding my hand",
+   "avg_logprob": -0.291,
+   "no_speech_prob": 0.44,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 46.42,
+   "end": 52.82,
+   "text": "Though the earth gives way beneath my feet",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.391,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 54.28,
+   "end": 60.48,
+   "text": "Though the earth gives way and I feel the heat",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.391,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 61.28,
+   "end": 64.2,
+   "text": "Mountains fall into the sea",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.391,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 64.2,
+   "end": 68.48,
+   "text": "Waters roar and wild and free",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.391,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 68.48,
+   "end": 75.18,
+   "text": "Still my God is here with me",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.408,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 75.18,
+   "end": 82.18,
+   "text": "Be still and know He is God",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.408,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 82.18,
+   "end": 89.56,
+   "text": "Be still my soul He is God",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.408,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 89.56,
+   "end": 94.28,
+   "text": "When the nations rage and kingdoms fall",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.408,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 94.28,
+   "end": 97.5,
+   "text": "He's still God over all",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.385,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 97.5,
+   "end": 99.7,
+   "text": "Be still and know",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.385,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 100.84,
+   "end": 103.36,
+   "text": "He is God",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.385,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 119.28,
+   "end": 121.48,
+   "text": "There's a river flowing",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.385,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 121.48,
+   "end": 123.88,
+   "text": "through God's city bright",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 126.48,
+   "end": 131.46,
+   "text": "There's a river flowing, making all things right",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 132.68,
+   "end": 136.26,
+   "text": "God is in her, she won't fail",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 136.26,
+   "end": 139.72,
+   "text": "His voice breaks through like thunder hail",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 141.0,
+   "end": 146.8,
+   "text": "At break of dawn, He will prevail",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.537,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 148.1,
+   "end": 157.92,
+   "text": "He breaks the bow, makes war cease, shatters the spear, brings the peace, burns the chariot,",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.708,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 158.16,
+   "end": 162.88,
+   "text": "with his fire lifts us higher from the mire.",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.708,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 162.88,
+   "end": 166.82,
+   "text": "The Lord of Hosts is with us",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 166.82,
+   "end": 170.16,
+   "text": "The God of Jacob is our fortress",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 171.4,
+   "end": 177.48,
+   "text": "He is with us",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 177.48,
+   "end": 181.08,
+   "text": "Be still and know",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 182.88,
+   "end": 184.44,
+   "text": "He is God",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 184.44,
+   "end": 186.1,
+   "text": "Just be still",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 186.1,
+   "end": 188.14,
+   "text": "Be still, my soul",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 189.42,
+   "end": 191.46,
+   "text": "He is God",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.654,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 191.46,
+   "end": 193.06,
+   "text": "He's in control",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.363,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 193.06,
+   "end": 196.78,
+   "text": "When the nations rage and kingdoms fall",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.363,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 197.46,
+   "end": 199.84,
+   "text": "He's still God overall",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.363,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 200.46,
+   "end": 202.2,
+   "text": "He's still and though",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.363,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 204.46,
+   "end": 205.66,
+   "text": "He is God",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.363,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 234.4,
+   "end": 240.2,
+   "text": "Come and see what the Lord has done",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.293,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 241.32,
+   "end": 246.86,
+   "text": "Come and see the works of the mighty one",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.293,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 249.26,
+   "end": 255.8,
+   "text": "Desolations he has brought Every battle he has fought",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.664,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 258.1,
+   "end": 269.74,
+   "text": "Peace is what his hands have wrought Be still and know he is God",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.664,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 269.74,
+   "end": 281.96,
+   "text": "my refuge. Be still my soul. He is God. Life control. When the nation's raging kingdoms fall,",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.503,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 282.3,
+   "end": 296.98,
+   "text": "He's still God overall. He's still and no. He is God. Be still. Be still. Be still.",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.503,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 296.98,
+   "end": 305.86,
+   "text": "Be still, be still, be still Know that He is God, be still",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.321,
+   "track_id": "zfRJe2HhUjs#03"
+  },
+  {
+   "start": 305.86,
+   "end": 317.6,
+   "text": "The Lord of Host is with us God of Jacob our refuge",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.321,
+   "track_id": "zfRJe2HhUjs#03"
+  }
+ ]
+}

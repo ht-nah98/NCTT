@@ -1,0 +1,222 @@
+{
+ "track_id": "xkU1wrgAwt0#09",
+ "track_key": "xkU1wrgAwt0__09",
+ "video_id": "xkU1wrgAwt0",
+ "title": "9. Psalm 28 – Hear My Cry, O Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 254.0,
+ "voiced_sec": 143.0,
+ "voice_ratio": 0.563,
+ "n_words": 180,
+ "words_per_min": 42.5,
+ "is_instrumental": false,
+ "n_segments": 25,
+ "n_segments_voiced": 24,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.7,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 22.88,
+   "end": 29.86,
+   "text": "Here my cry, oh Lord, my rock, don't turn away.",
+   "avg_logprob": -0.584,
+   "no_speech_prob": 0.422,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 35.12,
+   "end": 43.84,
+   "text": "If you stay silent I'll fade to the grave",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.501,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 47.96,
+   "end": 66.56,
+   "text": "I lift my hands to walk your holy place Longing for mercy for the light of your face",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 74.86,
+   "end": 75.82,
+   "text": "Please",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 76.4,
+   "end": 78.5,
+   "text": "Don't drag me down",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 79.4,
+   "end": 81.4,
+   "text": "with the hearts of stone",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 82.52,
+   "end": 84.76,
+   "text": "Those who speak peace",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 85.32,
+   "end": 87.64,
+   "text": "But their seeds are sown",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 88.64,
+   "end": 90.96,
+   "text": "With trouble and lies",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 91.72,
+   "end": 94.14,
+   "text": "Lord repay them right",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 94.14,
+   "end": 100.1,
+   "text": "For you are my strength, my saving light",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.587,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 112.7,
+   "end": 118.52,
+   "text": "Blessed be the Lord, He has heard my plea",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.587,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 118.52,
+   "end": 123.9,
+   "text": "He is my shield, my sure victory",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 125.04,
+   "end": 131.44,
+   "text": "The hearts of His people, He lives, He defends",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 131.44,
+   "end": 137.58,
+   "text": "I shepherd forever to the very end",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 137.58,
+   "end": 143.28,
+   "text": "Save your flock, Lord, carry us through",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 143.28,
+   "end": 152.44,
+   "text": "Lead us forever faithful and true In every storm",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.664,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 153.28,
+   "end": 161.9,
+   "text": "In the darkest night Hold us close in your guiding light",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.664,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 165.32,
+   "end": 171.12,
+   "text": "Don't drag me down with the hearts of stone",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 171.9,
+   "end": 177.26,
+   "text": "Those who speak peace but their seeds are sown",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 177.9,
+   "end": 183.58,
+   "text": "With trouble and lies, Lord repay them right",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 183.58,
+   "end": 189.38,
+   "text": "For You are my strength, my saving light",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 189.38,
+   "end": 198.52,
+   "text": "You are my rock Forever my song",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.727,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 202.38,
+   "end": 211.8,
+   "text": "You are my rock Forever my song",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.727,
+   "track_id": "xkU1wrgAwt0#09"
+  },
+  {
+   "start": 252.58,
+   "end": 253.98,
+   "text": "you",
+   "avg_logprob": -0.651,
+   "no_speech_prob": 0.892,
+   "track_id": "xkU1wrgAwt0#09"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "track_id": "lKk3O0goUrA#05",
+ "track_key": "lKk3O0goUrA__05",
+ "video_id": "lKk3O0goUrA",
+ "title": "You Never Let Me Fall",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 285.0,
+ "voiced_sec": 172.1,
+ "voice_ratio": 0.604,
+ "n_words": 287,
+ "words_per_min": 60.4,
+ "is_instrumental": false,
+ "n_segments": 38,
+ "n_segments_voiced": 35,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.5,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 16.28,
+   "end": 24.08,
+   "text": "You never let me fall, yeah",
+   "avg_logprob": -0.74,
+   "no_speech_prob": 0.516,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 26.44,
+   "end": 30.54,
+   "text": "Every time I stumbled you held me tight",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 32.32,
+   "end": 36.56,
+   "text": "In my darkest hour you gave me light",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 38.34,
+   "end": 42.66,
+   "text": "When I thought I couldn't take another step",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 43.92,
+   "end": 48.58,
+   "text": "Your whispered song I'm not finished yet",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.745,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 50.44,
+   "end": 60.42,
+   "text": "Through the fire, through the rain, through the heartbreak, through the pain",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 62.28,
+   "end": 66.56,
+   "text": "You've been my anchor, my solid ground",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 68.1,
+   "end": 72.56,
+   "text": "When I was lost, Lord, you turned me around",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.498,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 74.48,
+   "end": 80.64,
+   "text": "You keep holding on, never letting me go",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.855,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 80.64,
+   "end": 86.46,
+   "text": "You keep lifting me higher than before",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.855,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 86.46,
+   "end": 95.56,
+   "text": "Every time I hear you call, I know you'll never let me fall",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.855,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 95.72,
+   "end": 98.74,
+   "text": "You never let me fall",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.747,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 100.68,
+   "end": 104.9,
+   "text": "Oh, you never let me fall",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.747,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 106.68,
+   "end": 111.26,
+   "text": "You've been my Savior through it all",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.747,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 111.26,
+   "end": 115.06,
+   "text": "Oh, through it all",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.747,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 115.06,
+   "end": 118.48,
+   "text": "When I couldn't stand, you carried me",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.747,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 118.48,
+   "end": 122.66,
+   "text": "Lord, you never let me fall",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.747,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 129.3,
+   "end": 138.06,
+   "text": "Even when I turned away Your mercy found me anyway",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.518,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 141.0,
+   "end": 150.32,
+   "text": "You picked me up from the lowest place And wrapped me in your warm embrace",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.518,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 152.34,
+   "end": 157.56,
+   "text": "I've seen mountains, I've faced the sea",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.757,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 157.56,
+   "end": 162.52,
+   "text": "But nothing's greater than your love for me",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.757,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 164.24,
+   "end": 168.52,
+   "text": "Now I'll praise you with all my breath",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.757,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 170.0,
+   "end": 174.14,
+   "text": "Cause you saved my soul from certain death",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.757,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 174.14,
+   "end": 176.58,
+   "text": "You never let me fall",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.668,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 179.14,
+   "end": 182.96,
+   "text": "Oh, you never let me fall",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.668,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 184.72,
+   "end": 189.22,
+   "text": "You've been my savior through it all",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.668,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 190.14,
+   "end": 193.08,
+   "text": "Oh, through it all",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.668,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 193.08,
+   "end": 196.44,
+   "text": "When I couldn't stand, you carried me",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.668,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 197.14,
+   "end": 200.76,
+   "text": "Lord, you never let me fall",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.668,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 202.02,
+   "end": 205.94,
+   "text": "You hold me up You hold me up",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.762,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 208.0,
+   "end": 216.48,
+   "text": "You keep me strong I'll trust you all my days",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.762,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 217.96,
+   "end": 224.66,
+   "text": "You are worthy of my praise You never let me fall",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.762,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 224.66,
+   "end": 230.56,
+   "text": "Oh, oh, oh You never let me fall",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.633,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 231.66,
+   "end": 237.24,
+   "text": "Yeah, you've been my Savior through it all",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.633,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 237.24,
+   "end": 244.38,
+   "text": "Oh, through it all When I couldn't stand, you carried me",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.633,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 244.38,
+   "end": 248.66,
+   "text": "Lord, you never let me fall",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.633,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 263.08,
+   "end": 267.32,
+   "text": "You never let me fall",
+   "avg_logprob": -0.784,
+   "no_speech_prob": 0.371,
+   "track_id": "lKk3O0goUrA#05"
+  },
+  {
+   "start": 270.14,
+   "end": 271.54,
+   "text": "Yeah",
+   "avg_logprob": -0.784,
+   "no_speech_prob": 0.371,
+   "track_id": "lKk3O0goUrA#05"
+  }
+ ]
+}

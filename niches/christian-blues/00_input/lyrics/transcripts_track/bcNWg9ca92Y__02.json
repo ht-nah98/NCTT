@@ -1,0 +1,438 @@
+{
+ "track_id": "bcNWg9ca92Y#02",
+ "track_key": "bcNWg9ca92Y__02",
+ "video_id": "bcNWg9ca92Y",
+ "title": "The Way, The Truth, The Light",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 302.0,
+ "voiced_sec": 161.8,
+ "voice_ratio": 0.536,
+ "n_words": 346,
+ "words_per_min": 68.7,
+ "is_instrumental": false,
+ "n_segments": 52,
+ "n_segments_voiced": 39,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.3,
+ "rtf": 0.051,
+ "segments": [
+  {
+   "start": 24.22,
+   "end": 29.98,
+   "text": "I've been walking through shadows of love, trying to find a little place to hide",
+   "avg_logprob": -0.77,
+   "no_speech_prob": 0.87,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 30.0,
+   "end": 32.26,
+   "text": "Hope for my day",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.8,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 33.0,
+   "end": 36.48,
+   "text": "But every time I reach for you",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.8,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 37.0,
+   "end": 41.58,
+   "text": "Your love is already clear in my way",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.8,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 41.58,
+   "end": 46.32,
+   "text": "You whisper through the quiet of voice",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.8,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 47.0,
+   "end": 49.56,
+   "text": "Steady as the rising dawn",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.8,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 49.56,
+   "end": 53.2,
+   "text": "Telling me to trust your promise",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.8,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 54.0,
+   "end": 57.66,
+   "text": "Even when my strength feels gone",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.8,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 57.66,
+   "end": 66.88,
+   "text": "And I feel you calling, pulling me back to grace again",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.892,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 66.88,
+   "end": 74.58,
+   "text": "Reminding me gently where my true life begins",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.892,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 74.58,
+   "end": 79.54,
+   "text": "You are the way, show me the road, Lord",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.892,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 79.54,
+   "end": 83.96,
+   "text": "You are the truth, steady my soul, Lord",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.892,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 83.96,
+   "end": 88.02,
+   "text": "You are the light shone through the dark night",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.589,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 88.52,
+   "end": 94.18,
+   "text": "You are the one who lifts me even when I lose my sight",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.589,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 94.18,
+   "end": 100.74,
+   "text": "You guide me, You hold me through every battle I fight",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.589,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 101.32,
+   "end": 107.66,
+   "text": "Jesus, You are the way, the truth, the light",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.589,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 110.84,
+   "end": 119.2,
+   "text": "When the storm started rising up And I feel the pressure in my chest",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.84,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 119.2,
+   "end": 128.8,
+   "text": "I remember every time you saved me How you carried me into your rest",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.84,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 128.8,
+   "end": 131.92,
+   "text": "Your mercy has a rhythm, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 131.92,
+   "end": 136.16,
+   "text": "Soft as rain, on thirsty ground",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 136.16,
+   "end": 140.22,
+   "text": "And when I kneel before Your presence",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 140.22,
+   "end": 144.42,
+   "text": "That peace is where I'm found",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 144.42,
+   "end": 148.92,
+   "text": "I hear You calling",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 148.92,
+   "end": 153.72,
+   "text": "Pulling me out from fear again",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 154.4,
+   "end": 157.22,
+   "text": "Telling my trembling spirit",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.793,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 157.22,
+   "end": 161.28,
+   "text": "to breathe and begin",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 163.72,
+   "end": 166.4,
+   "text": "Open the path Lord",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 166.4,
+   "end": 167.98,
+   "text": "You are the truth",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 167.98,
+   "end": 171.12,
+   "text": "Anchor my heart Lord",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 171.12,
+   "end": 175.18,
+   "text": "Shine through the long night",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 175.18,
+   "end": 177.22,
+   "text": "You lift me up with kindness",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 177.74,
+   "end": 181.3,
+   "text": "Wrap me in heavenly might",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 181.3,
+   "end": 183.54,
+   "text": "You the Lord",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.875,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 183.54,
+   "end": 186.84,
+   "text": "When you've got me in with every mind",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 187.92,
+   "end": 194.58,
+   "text": "Jesus, you are the way, the truth, the light",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 194.58,
+   "end": 197.9,
+   "text": "Yeah, yeah, yeah, yeah",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 197.9,
+   "end": 200.14,
+   "text": "Leave me where your love flows",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 200.14,
+   "end": 202.36,
+   "text": "Leave me to your perfect will",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 202.36,
+   "end": 204.4,
+   "text": "Every step, every breath",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 204.4,
+   "end": 206.7,
+   "text": "I surrender, I stand still",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 206.7,
+   "end": 208.84,
+   "text": "Let your fire in me rise",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 208.84,
+   "end": 211.08,
+   "text": "Let my broken place is healed",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.724,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 211.08,
+   "end": 217.24,
+   "text": "You're the only one who knows the deepest parts of me",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.482,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 218.82,
+   "end": 223.4,
+   "text": "You are the one, my Savior, my God",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.482,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 223.4,
+   "end": 228.48,
+   "text": "You are the truth, the keeper of all my life",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.482,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 229.08,
+   "end": 231.36,
+   "text": "Burning forever bright",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.482,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 231.36,
+   "end": 235.46,
+   "text": "Jesus, hold me close and leave me with grace",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.482,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 265.46,
+   "end": 268.92,
+   "text": "Forever my life",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.737,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 269.46,
+   "end": 274.0,
+   "text": "Jesus, Jesus",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.737,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 274.0,
+   "end": 278.0,
+   "text": "Forever my life",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.737,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 278.0,
+   "end": 282.46,
+   "text": "Jesus, Jesus",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.737,
+   "track_id": "bcNWg9ca92Y#02"
+  },
+  {
+   "start": 283.46,
+   "end": 286.86,
+   "text": "Forever my life",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.737,
+   "track_id": "bcNWg9ca92Y#02"
+  }
+ ]
+}

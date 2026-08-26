@@ -1,0 +1,358 @@
+{
+ "track_id": "bcNWg9ca92Y#04",
+ "track_key": "bcNWg9ca92Y__04",
+ "video_id": "bcNWg9ca92Y",
+ "title": "At The Cross",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 220.0,
+ "voiced_sec": 152.8,
+ "voice_ratio": 0.695,
+ "n_words": 307,
+ "words_per_min": 83.7,
+ "is_instrumental": false,
+ "n_segments": 42,
+ "n_segments_voiced": 42,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 120.8,
+ "rtf": 0.549,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 33.52,
+   "text": "Through the midnight, hot heavy with the pain",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.55,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 33.52,
+   "end": 38.6,
+   "text": "Broken pieces of my spirit washed away in the rain",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.55,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 38.6,
+   "end": 41.6,
+   "text": "But then Your mercy called my name",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.55,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 41.6,
+   "end": 43.66,
+   "text": "Pulled me out of the dark",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.55,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 43.66,
+   "end": 48.96,
+   "text": "You whispered, child, come home and you heal my wounded heart",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.55,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 48.96,
+   "end": 54.0,
+   "text": "And every time I feel lost, you remind me of the cause",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.55,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 54.0,
+   "end": 56.18,
+   "text": "Your grace poured out for me",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.55,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 56.18,
+   "end": 60.0,
+   "text": "Blood that sets me free at the cross",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.646,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 60.74,
+   "end": 64.8,
+   "text": "Where your love came rushing down like a river",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.646,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 65.72,
+   "end": 69.78,
+   "text": "Where my chains fell off and I was delivered",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.646,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 69.78,
+   "end": 72.66,
+   "text": "I laid my burdens low, you made my spirit whole",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.646,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 72.66,
+   "end": 75.46,
+   "text": "Jesus, you paid it all at the cross",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.646,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 75.46,
+   "end": 80.7,
+   "text": "At the cross",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.646,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 80.7,
+   "end": 83.7,
+   "text": "Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 83.7,
+   "end": 86.26,
+   "text": "And the storms keep rising",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 86.26,
+   "end": 88.9,
+   "text": "And fear tries to take hold",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 88.9,
+   "end": 91.5,
+   "text": "I just look back at Calvary",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 91.5,
+   "end": 93.8,
+   "text": "What your story made me bold",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 93.8,
+   "end": 96.32,
+   "text": "Your scars became my healing",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 96.32,
+   "end": 98.8,
+   "text": "Your death became my life",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 98.8,
+   "end": 100.64,
+   "text": "You turned every tear",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 100.64,
+   "end": 103.9,
+   "text": "I cried into a testimony bright",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 104.7,
+   "end": 106.7,
+   "text": "So even when I'm weak",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 106.7,
+   "end": 109.14,
+   "text": "Your strength is what I see",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.708,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 109.14,
+   "end": 114.02,
+   "text": "You're the lifter of my soul, the one who made me whole",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.57,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 114.02,
+   "end": 119.24,
+   "text": "And let go of where your love came rushing down the river",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.57,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 120.96,
+   "end": 125.08,
+   "text": "Where my chains fell off and I was delivered",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.57,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 125.08,
+   "end": 127.88,
+   "text": "I laid my burdens low, you made my spirit fall",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.57,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 127.88,
+   "end": 130.46,
+   "text": "Jesus, you paid it all, let the cross",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.57,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 130.46,
+   "end": 140.62,
+   "text": "Cause at the cross I stand in awe of Your mercy",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.651,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 140.62,
+   "end": 149.54,
+   "text": "I stand in awe of Your grace You took a sinner like me, Lord",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.651,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 149.54,
+   "end": 155.64,
+   "text": "And showed me a holy place at the cross",
+   "avg_logprob": -0.56,
+   "no_speech_prob": 0.701,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 155.64,
+   "end": 157.42,
+   "text": "ś In the cross, in the cross ś",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.734,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 157.42,
+   "end": 165.64,
+   "text": "ś Oh, oh ś",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.734,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 169.14,
+   "end": 170.64,
+   "text": "ś Yeah ś",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.734,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 172.8,
+   "end": 176.38,
+   "text": "ś At the cross ś",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.734,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 176.38,
+   "end": 179.92,
+   "text": "ś Where Your love came rushing down ś",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.734,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 179.92,
+   "end": 180.56,
+   "text": "ś Forever ś",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.734,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 180.56,
+   "end": 185.62,
+   "text": "ś Where my soul found peace ś",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.734,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 185.62,
+   "end": 188.16,
+   "text": "You wash my past away, gave me a brand new day",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.249,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 188.16,
+   "end": 191.38,
+   "text": "Jesus, you made a way at the cross",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.249,
+   "track_id": "bcNWg9ca92Y#04"
+  },
+  {
+   "start": 194.48,
+   "end": 195.76,
+   "text": "At the cross",
+   "avg_logprob": -0.555,
+   "no_speech_prob": 0.249,
+   "track_id": "bcNWg9ca92Y#04"
+  }
+ ]
+}

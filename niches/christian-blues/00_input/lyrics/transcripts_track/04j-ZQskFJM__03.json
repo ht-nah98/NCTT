@@ -1,0 +1,198 @@
+{
+ "track_id": "04j-ZQskFJM#03",
+ "track_key": "04j-ZQskFJM__03",
+ "video_id": "04j-ZQskFJM",
+ "title": "3. Psalm 37 – The Steps of the Righteous",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 224.0,
+ "voiced_sec": 128.6,
+ "voice_ratio": 0.574,
+ "n_words": 166,
+ "words_per_min": 44.5,
+ "is_instrumental": false,
+ "n_segments": 22,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 9.9,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 16.6,
+   "end": 22.48,
+   "text": "Don't you fret by the wicked man",
+   "avg_logprob": -0.553,
+   "no_speech_prob": 0.565,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 24.14,
+   "end": 31.3,
+   "text": "Don't envy the schemes in his hands",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.588,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 31.3,
+   "end": 39.98,
+   "text": "Like grass you'll fade, like flowers dry",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.588,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 40.48,
+   "end": 47.98,
+   "text": "But trust in the Lord and you'll stand high",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.588,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 49.6,
+   "end": 64.18,
+   "text": "The steps of the righteous are made firm by the Lord who holds him till the end of the",
+   "avg_logprob": -0.372,
+   "no_speech_prob": 0.308,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 70.26,
+   "end": 81.18,
+   "text": "He will not fall for God's strong hand is holding it all",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.461,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 87.52,
+   "end": 94.66,
+   "text": "Delight in the Lord He'll give your hearts cry",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.481,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 97.04,
+   "end": 102.64,
+   "text": "Commit your way Let your burdens fly",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.481,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 104.28,
+   "end": 107.5,
+   "text": "Be still before him",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.599,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 108.62,
+   "end": 111.42,
+   "text": "Don't burn in rage",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.599,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 112.8,
+   "end": 116.06,
+   "text": "The Lord will act",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.599,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 116.06,
+   "end": 120.02,
+   "text": "He will set the stage",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.599,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 121.58,
+   "end": 126.54,
+   "text": "Better the lids of the righteous own",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.599,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 126.54,
+   "end": 130.58,
+   "text": "Than riches piled on a heart of stone",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.599,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 130.58,
+   "end": 134.42,
+   "text": "I've been young, now I'm old and gray",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.281,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 134.42,
+   "end": 137.92,
+   "text": "Never seen the just turned away",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.281,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 139.6,
+   "end": 142.46,
+   "text": "With steps of the righteous",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.281,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 144.2,
+   "end": 146.24,
+   "text": "I'm made firm",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.281,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 147.76,
+   "end": 150.84,
+   "text": "By the Lord who holds them",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.281,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 151.58,
+   "end": 154.72,
+   "text": "Till the end of the term",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.281,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 156.82,
+   "end": 171.18,
+   "text": "Though he's stumble, he will not fall For God's strong hand is holding it all",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.383,
+   "track_id": "04j-ZQskFJM#03"
+  },
+  {
+   "start": 173.46,
+   "end": 179.5,
+   "text": "Holding it all, oh, he's holding it all",
+   "avg_logprob": -0.362,
+   "no_speech_prob": 0.383,
+   "track_id": "04j-ZQskFJM#03"
+  }
+ ]
+}

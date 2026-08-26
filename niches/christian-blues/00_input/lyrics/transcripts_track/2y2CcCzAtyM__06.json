@@ -1,0 +1,518 @@
+{
+ "track_id": "2y2CcCzAtyM#06",
+ "track_key": "2y2CcCzAtyM__06",
+ "video_id": "2y2CcCzAtyM",
+ "title": "6 — Underneath His Wings",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 481.0,
+ "voiced_sec": 354.1,
+ "voice_ratio": 0.736,
+ "n_words": 471,
+ "words_per_min": 58.8,
+ "is_instrumental": false,
+ "n_segments": 62,
+ "n_segments_voiced": 62,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 43.7,
+ "rtf": 0.091,
+ "segments": [
+  {
+   "start": 1.66,
+   "end": 4.26,
+   "text": "Some man get one and four",
+   "avg_logprob": -0.852,
+   "no_speech_prob": 0.293,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 26.14,
+   "end": 32.38,
+   "text": "When the wind of trial blows and fear takes hold of me",
+   "avg_logprob": -0.434,
+   "no_speech_prob": 0.384,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 34.62,
+   "end": 40.06,
+   "text": "I run to the only shelter that I know",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.584,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 43.08,
+   "end": 49.32,
+   "text": "Underneath his wings of mercy I am safe and free",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.584,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 50.4,
+   "end": 56.68,
+   "text": "No storm can reach the place where I can go",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.584,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 56.68,
+   "end": 64.16,
+   "text": "Underneath his wings I hide myself away",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.691,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 65.7,
+   "end": 72.9,
+   "text": "Underneath his wings I find the strength to stay",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.691,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 74.76,
+   "end": 82.52,
+   "text": "He covers me with feathers, shields me with his truth",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.691,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 84.1,
+   "end": 93.12,
+   "text": "Underneath his wings I find my rest in you",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.561,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 100.52,
+   "end": 106.42,
+   "text": "No pestilence shall find me In the midnight hour",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.561,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 106.42,
+   "end": 122.32,
+   "text": "No terror walking boldly in the day For I have made my dwelling in His holy tower",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.551,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 122.32,
+   "end": 137.68,
+   "text": "And He has promised never to give way Underneath His wings I hide myself away",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.631,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 139.36,
+   "end": 146.14,
+   "text": "Underneath His wings I find the strength to stay",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.631,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 148.1,
+   "end": 156.14,
+   "text": "He covers me with feathers, shields me with His truth",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.679,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 157.82,
+   "end": 167.06,
+   "text": "Underneath His wings I find my rest in You",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.679,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 169.32,
+   "end": 174.94,
+   "text": "Oh, oh, oh Oh, oh, oh",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.565,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 174.94,
+   "end": 179.22,
+   "text": "Safe and sheltered, warm and hidden",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.565,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 179.22,
+   "end": 181.7,
+   "text": "Warm and hidden",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.565,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 182.42,
+   "end": 187.5,
+   "text": "In the shadow of the Almighty's hand",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.565,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 189.96,
+   "end": 196.2,
+   "text": "Safe and sheltered, warm and hidden",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.565,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 196.2,
+   "end": 198.12,
+   "text": "Come and hear it",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 198.12,
+   "end": 203.34,
+   "text": "Here beneath his wings I understand",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 206.24,
+   "end": 208.46,
+   "text": "Whatever has come against you",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 210.2,
+   "end": 211.78,
+   "text": "It cannot reach you here",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 213.54,
+   "end": 215.48,
+   "text": "Underneath his wings, beloved",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 216.2,
+   "end": 217.66,
+   "text": "You are covered",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 218.2,
+   "end": 219.98,
+   "text": "You are sheltered",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 219.98,
+   "end": 222.14,
+   "text": "You are his",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 223.36,
+   "end": 225.14,
+   "text": "Under his wings",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.25,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 225.14,
+   "end": 229.16,
+   "text": "Under his wings I am safe",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.742,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 231.64,
+   "end": 237.0,
+   "text": "He covers me Under his wings",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.742,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 237.0,
+   "end": 243.44,
+   "text": "Pressed beneath his wings Underneath his wings",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.742,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 243.44,
+   "end": 249.72,
+   "text": "I hide myself away Underneath his wings",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.742,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 249.72,
+   "end": 254.26,
+   "text": "I find the strength to stay",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.257,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 256.72,
+   "end": 259.74,
+   "text": "He covers me with feathers",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.257,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 260.72,
+   "end": 263.72,
+   "text": "Shields me with His truth",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.257,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 265.58,
+   "end": 268.22,
+   "text": "Underneath His wings",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.257,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 268.22,
+   "end": 277.12,
+   "text": "I find my rest in you",
+   "avg_logprob": -0.683,
+   "no_speech_prob": 0.352,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 282.62,
+   "end": 284.74,
+   "text": "Under his wings",
+   "avg_logprob": -0.683,
+   "no_speech_prob": 0.352,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 287.42,
+   "end": 289.48,
+   "text": "I am safe",
+   "avg_logprob": -0.683,
+   "no_speech_prob": 0.352,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 290.22,
+   "end": 291.92,
+   "text": "Under his wings",
+   "avg_logprob": -0.683,
+   "no_speech_prob": 0.352,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 291.92,
+   "end": 292.64,
+   "text": "Hmm",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.295,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 296.7,
+   "end": 300.28,
+   "text": "He shall cover thee with His feathers",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.295,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 303.44,
+   "end": 305.64,
+   "text": "He shall cover thee with His feathers",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.295,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 306.84,
+   "end": 309.4,
+   "text": "And under His wings shout Thou trust",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.295,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 311.48,
+   "end": 313.66,
+   "text": "He shall cover thee with His feathers",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.295,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 314.76,
+   "end": 317.82,
+   "text": "And under His wings shout Thou trust",
+   "avg_logprob": -0.495,
+   "no_speech_prob": 0.295,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 320.22,
+   "end": 328.5,
+   "text": "He shall cover thee with his feathers And under his wings shall thou trust",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.339,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 330.48,
+   "end": 340.0,
+   "text": "His truth shall be thy shield and buckler Psalm 91 and 4",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.339,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 341.56,
+   "end": 347.4,
+   "text": "When the wind of trial blows And fear takes hold of me",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.575,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 349.44,
+   "end": 355.06,
+   "text": "I run to the only shelter that I know",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.575,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 359.18,
+   "end": 365.92,
+   "text": "Underneath his wings of mercy I am safe and free",
+   "avg_logprob": -0.21,
+   "no_speech_prob": 0.575,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 367.82,
+   "end": 374.62,
+   "text": "No storm can reach the place where I can go",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.724,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 377.14,
+   "end": 384.5,
+   "text": "Underneath his wings, I hide myself away",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.724,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 387.12,
+   "end": 394.62,
+   "text": "Underneath his wings, I find the strength to stay",
+   "avg_logprob": -0.171,
+   "no_speech_prob": 0.724,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 396.08,
+   "end": 403.92,
+   "text": "He covers me with feathers, shields me with His truth",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.588,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 406.4,
+   "end": 412.62,
+   "text": "Underneath His wings, I find my rest in You",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.588,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 416.5,
+   "end": 423.58,
+   "text": "No pestilence shall find me in the midnight hour",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.588,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 426.52,
+   "end": 433.94,
+   "text": "No terror walking boldly in the day",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.766,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 435.8,
+   "end": 444.86,
+   "text": "For I have made my dwelling in its holy tower",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.766,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 444.86,
+   "end": 462.24,
+   "text": "And he has promised never to give way Underneath his wings I had myself",
+   "avg_logprob": -0.609,
+   "no_speech_prob": 0.37,
+   "track_id": "2y2CcCzAtyM#06"
+  },
+  {
+   "start": 464.62,
+   "end": 478.48,
+   "text": "Thou art worthy, O Lord, to receive glory and honor and power, for Thou hast created all things.",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.129,
+   "track_id": "2y2CcCzAtyM#06"
+  }
+ ]
+}

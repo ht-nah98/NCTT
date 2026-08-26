@@ -1,0 +1,958 @@
+{
+ "track_id": "eD2IMkcreEI#15",
+ "track_key": "eD2IMkcreEI__15",
+ "video_id": "eD2IMkcreEI",
+ "title": "Thank You Jesus",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 575.0,
+ "voiced_sec": 381.5,
+ "voice_ratio": 0.664,
+ "n_words": 707,
+ "words_per_min": 73.8,
+ "is_instrumental": false,
+ "n_segments": 117,
+ "n_segments_voiced": 117,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 48.7,
+ "rtf": 0.085,
+ "segments": [
+  {
+   "start": 1.54,
+   "end": 4.3,
+   "text": "near me Lord",
+   "avg_logprob": -0.752,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 18.9,
+   "end": 22.6,
+   "text": "oh, you've been so good to me",
+   "avg_logprob": -0.752,
+   "no_speech_prob": 0.714,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 32.26,
+   "end": 36.08,
+   "text": "You found me in the dark",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.694,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 38.22,
+   "end": 42.04,
+   "text": "You healed my broken heart",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.694,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 44.14,
+   "end": 47.4,
+   "text": "You gave me hope again",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.694,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 50.12,
+   "end": 54.38,
+   "text": "When I had reached the end",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.694,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 56.18,
+   "end": 65.96,
+   "text": "You whispered peace so true You made my life brand new",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 68.32,
+   "end": 77.84,
+   "text": "No one else could love me like you do So I lift my hands and say",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.771,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 80.18,
+   "end": 85.84,
+   "text": "Thank you Jesus, for the cross, for the blood",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.817,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 85.84,
+   "end": 91.9,
+   "text": "Thank you Jesus, you've never given up",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.817,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 91.9,
+   "end": 96.18,
+   "text": "Every breath I breathe is by your grace",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.817,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 96.18,
+   "end": 98.96,
+   "text": "I'll praise you all my days",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.817,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 98.96,
+   "end": 105.88,
+   "text": "Thank you Jesus, I'm alive because you've made a way",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.817,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 107.84,
+   "end": 116.04,
+   "text": "Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-oohs",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.425,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 116.04,
+   "end": 118.88,
+   "text": "You've walked with me through fire",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.425,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 121.36,
+   "end": 125.64,
+   "text": "You've lifted me up higher",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.425,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 127.1,
+   "end": 130.7,
+   "text": "Your mercy pulled me through",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.425,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 133.46,
+   "end": 136.06,
+   "text": "When I didn't know what to do",
+   "avg_logprob": -0.766,
+   "no_speech_prob": 0.425,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 139.32,
+   "end": 149.24,
+   "text": "I've seen your faithfulness through every trial and test",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.618,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 150.98,
+   "end": 161.1,
+   "text": "I owe it all to you, my King So now I stand and sing",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.618,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 163.4,
+   "end": 165.08,
+   "text": "Thank you, Jesus.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 165.56,
+   "end": 168.16,
+   "text": "For the cross, for the blood.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 169.6,
+   "end": 171.0,
+   "text": "Thank you, Jesus.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 172.32,
+   "end": 174.46,
+   "text": "You've never given up.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 175.5,
+   "end": 179.06,
+   "text": "Every breath I breathe is by your grace.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 179.38,
+   "end": 181.88,
+   "text": "I'll praise you all my days.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 182.2,
+   "end": 183.38,
+   "text": "Thank you, Jesus.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 184.58,
+   "end": 184.92,
+   "text": "Yeah.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 185.48,
+   "end": 188.54,
+   "text": "I'm alive because you made a way.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 188.82,
+   "end": 190.68,
+   "text": "You made a way.",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.763,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 190.68,
+   "end": 192.2,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 194.68,
+   "end": 196.66,
+   "text": "You saved the day",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 196.66,
+   "end": 198.18,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 200.42,
+   "end": 202.7,
+   "text": "You brought me up",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 202.7,
+   "end": 204.14,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 206.36,
+   "end": 208.5,
+   "text": "Now I can shout",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 208.5,
+   "end": 210.64,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 213.68,
+   "end": 216.08,
+   "text": "You're the lamp, You're the light",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 216.08,
+   "end": 218.0,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.465,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 219.32,
+   "end": 222.0,
+   "text": "You turned my wrongs to right",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 222.84,
+   "end": 226.26,
+   "text": "Every tear I cried, you wiped away",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 226.26,
+   "end": 229.3,
+   "text": "Your joy is here to stay",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 229.3,
+   "end": 230.74,
+   "text": "Thank you, Jesus",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 232.96,
+   "end": 236.34,
+   "text": "Forever I will praise Your name",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 236.34,
+   "end": 238.86,
+   "text": "You were there where no one was",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 239.9,
+   "end": 241.76,
+   "text": "You loved me through the storm",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 243.06,
+   "end": 244.56,
+   "text": "I just want to say",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.201,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 246.04,
+   "end": 248.04,
+   "text": "Thank you, Jesus.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 248.74,
+   "end": 249.42,
+   "text": "Thank you, Jesus.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 249.42,
+   "end": 251.92,
+   "text": "Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 252.38,
+   "end": 253.92,
+   "text": "Thank you, Jesus.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 255.38,
+   "end": 257.82,
+   "text": "You've never given up.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 258.58,
+   "end": 261.88,
+   "text": "Every breath I breathe is by your grace.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 262.82,
+   "end": 264.84,
+   "text": "I'll praise you all my days.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 265.16,
+   "end": 266.28,
+   "text": "Thank you, Jesus.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 268.14,
+   "end": 271.84,
+   "text": "I'm alive because you made a way.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.565,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 285.76,
+   "end": 287.36,
+   "text": "You were there when no one was",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.283,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 289.7,
+   "end": 291.16,
+   "text": "You loved me through the storm",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.283,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 292.56,
+   "end": 293.68,
+   "text": "I just want to say",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.283,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 295.38,
+   "end": 296.1,
+   "text": "Thank you",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.283,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 298.0,
+   "end": 298.56,
+   "text": "Jesus",
+   "avg_logprob": -0.528,
+   "no_speech_prob": 0.488,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 316.72,
+   "end": 319.36,
+   "text": "For by grace you have been saved through faith",
+   "avg_logprob": -0.528,
+   "no_speech_prob": 0.488,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 322.14,
+   "end": 323.6,
+   "text": "And that's not of yourselves",
+   "avg_logprob": -0.528,
+   "no_speech_prob": 0.488,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 328.34,
+   "end": 332.02,
+   "text": "It is the gift of God, not of works,",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.276,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 333.88,
+   "end": 336.18,
+   "text": "lest anyone should boast.",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.276,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 337.74,
+   "end": 342.28,
+   "text": "I was walking in the dark,",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.276,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 344.22,
+   "end": 348.1,
+   "text": "shadows weighing on my heart.",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.276,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 350.48,
+   "end": 353.9,
+   "text": "Every step felt like a trial,",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.276,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 357.08,
+   "end": 360.5,
+   "text": "Every breath without a smile",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.475,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 363.4,
+   "end": 367.8,
+   "text": "But you, oh Lord, you let the way",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.475,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 367.8,
+   "end": 370.86,
+   "text": "Called my name and bid me stay",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.475,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 370.86,
+   "end": 374.24,
+   "text": "You took my sin, you gave me peace",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.475,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 374.24,
+   "end": 377.34,
+   "text": "Now I live in sweet release",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.475,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 379.8,
+   "end": 383.64,
+   "text": "Your grace is deeper than the sea",
+   "avg_logprob": -0.222,
+   "no_speech_prob": 0.475,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 383.64,
+   "end": 386.76,
+   "text": "Reaching where I couldn't see",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.674,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 386.76,
+   "end": 390.1,
+   "text": "You found me broken, made me whole",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.674,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 390.1,
+   "end": 392.64,
+   "text": "Breathe your mercy in my soul",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.674,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 393.2,
+   "end": 396.02,
+   "text": "I didn't earn, I can't repay",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.674,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 396.02,
+   "end": 399.4,
+   "text": "Still you cover me each day",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.674,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 399.4,
+   "end": 402.88,
+   "text": "I stand in awe, I lift my praise",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.674,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 402.88,
+   "end": 406.88,
+   "text": "Forever held by your grace",
+   "avg_logprob": -0.164,
+   "no_speech_prob": 0.674,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 410.36,
+   "end": 414.38,
+   "text": "There were seasons I let go",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 416.76,
+   "end": 421.1,
+   "text": "Tried to make it on my own",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 422.86,
+   "end": 426.88,
+   "text": "But you chased me through the night",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 429.38,
+   "end": 432.88,
+   "text": "Wrapped me in amazing light",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.825,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 435.94,
+   "end": 440.02,
+   "text": "Your love refused to count the cost",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.692,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 440.66,
+   "end": 443.78,
+   "text": "You won me back when I was lost",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.692,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 443.78,
+   "end": 446.72,
+   "text": "Now every scar and every shame",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.692,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 446.72,
+   "end": 450.3,
+   "text": "Is healed and sealed in Jesus' name",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.692,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 450.3,
+   "end": 452.98,
+   "text": "It doesn't shout, it whispers",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.692,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 454.02,
+   "end": 457.06,
+   "text": "It doesn't keep score, it erases",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.692,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 457.06,
+   "end": 460.08,
+   "text": "It walks beside you, when others walk away",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.692,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 460.08,
+   "end": 463.2,
+   "text": "Grace breaks the chains without breaking you",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 463.2,
+   "end": 466.4,
+   "text": "It covers what's ugly and calls it beautiful",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 467.08,
+   "end": 470.6,
+   "text": "And in the silence of surrender you hear it most clearly",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 470.6,
+   "end": 475.14,
+   "text": "The voice that says, you are mine still",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 475.98,
+   "end": 480.3,
+   "text": "I should have been gone",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 480.3,
+   "end": 482.66,
+   "text": "But your grace kept me",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 482.66,
+   "end": 486.08,
+   "text": "I should have lost hope",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 486.6,
+   "end": 488.96,
+   "text": "But your grace held me",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.516,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 488.96,
+   "end": 492.56,
+   "text": "I thought I was too far",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 493.12,
+   "end": 495.46,
+   "text": "But your grace will reach me",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 495.46,
+   "end": 497.42,
+   "text": "And I'm still standing",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 497.42,
+   "end": 499.1,
+   "text": "I'm still standing",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 499.1,
+   "end": 500.46,
+   "text": "Still believing",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 500.46,
+   "end": 503.92,
+   "text": "And praying because of your grace",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 503.92,
+   "end": 506.7,
+   "text": "So depend on the sea",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 506.7,
+   "end": 509.74,
+   "text": "Reaching where I couldn't see",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 509.74,
+   "end": 511.54,
+   "text": "You found me broken",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 511.54,
+   "end": 513.12,
+   "text": "Made me whole",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 513.12,
+   "end": 516.3,
+   "text": "Read your mercy in my soul",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 516.3,
+   "end": 517.84,
+   "text": "I didn't earn",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.21,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 517.84,
+   "end": 529.36,
+   "text": "I can't repay still you cover me each day I stand in awe I lift my praise forever held by your grace",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.189,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 532.4,
+   "end": 537.84,
+   "text": "forever changed by your grace",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.189,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 543.96,
+   "end": 547.52,
+   "text": "Thank You Lord for Your grace.",
+   "avg_logprob": -0.751,
+   "no_speech_prob": 0.181,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 559.14,
+   "end": 564.76,
+   "text": "For I know the plans I have for you Declare the Lord",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.462,
+   "track_id": "eD2IMkcreEI#15"
+  },
+  {
+   "start": 566.48,
+   "end": 572.1,
+   "text": "Plans to prosper you and not to harm you Plans to give you hope in the future",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.462,
+   "track_id": "eD2IMkcreEI#15"
+  }
+ ]
+}

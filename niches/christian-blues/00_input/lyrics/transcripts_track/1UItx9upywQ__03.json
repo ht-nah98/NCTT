@@ -1,0 +1,198 @@
+{
+ "track_id": "1UItx9upywQ#03",
+ "track_key": "1UItx9upywQ__03",
+ "video_id": "1UItx9upywQ",
+ "title": "\"What Is Man\" - Psalm 8",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 190.0,
+ "voiced_sec": 75.0,
+ "voice_ratio": 0.395,
+ "n_words": 131,
+ "words_per_min": 41.4,
+ "is_instrumental": false,
+ "n_segments": 22,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 23.5,
+ "rtf": 0.124,
+ "segments": [
+  {
+   "start": 23.54,
+   "end": 28.26,
+   "text": "Look at the stars, they're getting so high",
+   "avg_logprob": -0.719,
+   "no_speech_prob": 0.704,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 30.02,
+   "end": 33.56,
+   "text": "Biggest dreams in the midnight sky",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.534,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 36.7,
+   "end": 40.76,
+   "text": "But who am I, just a fleeting breath",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.534,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 41.26,
+   "end": 48.88,
+   "text": "A grain of dust in the hands of death",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.534,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 50.82,
+   "end": 53.38,
+   "text": "Yet you see me",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.534,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 55.7,
+   "end": 57.94,
+   "text": "You hear me",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.648,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 57.94,
+   "end": 61.72,
+   "text": "What is man that you should care",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.648,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 63.26,
+   "end": 66.3,
+   "text": "That you would hold us in your stead",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.648,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 68.32,
+   "end": 71.54,
+   "text": "What is man I can't explain",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.648,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 73.2,
+   "end": 79.12,
+   "text": "But I feel your love like summer rain",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.648,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 86.44,
+   "end": 87.82,
+   "text": "I'm not a man",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 87.82,
+   "end": 88.78,
+   "text": "Mountains ride",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 88.78,
+   "end": 91.9,
+   "text": "And rivers run deep",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 91.9,
+   "end": 96.6,
+   "text": "Time rolls on while we just sleep",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 97.38,
+   "end": 100.66,
+   "text": "Yet you've crowned us with glory's light",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 101.38,
+   "end": 104.58,
+   "text": "Little kings under heaven's might",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 105.38,
+   "end": 107.14,
+   "text": "You know me",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 109.1,
+   "end": 111.54,
+   "text": "You hold me",
+   "avg_logprob": -0.486,
+   "no_speech_prob": 0.667,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 112.56,
+   "end": 115.38,
+   "text": "What is man that you should care?",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.628,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 117.28,
+   "end": 119.7,
+   "text": "That you would hold us in your stead?",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.628,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 122.2,
+   "end": 124.82,
+   "text": "What is man I can't explain?",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.628,
+   "track_id": "1UItx9upywQ#03"
+  },
+  {
+   "start": 127.24,
+   "end": 132.84,
+   "text": "But I feel love, love like summer rain",
+   "avg_logprob": -0.318,
+   "no_speech_prob": 0.628,
+   "track_id": "1UItx9upywQ#03"
+  }
+ ]
+}

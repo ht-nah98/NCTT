@@ -1,0 +1,166 @@
+{
+ "track_id": "xkU1wrgAwt0#05",
+ "track_key": "xkU1wrgAwt0__05",
+ "video_id": "xkU1wrgAwt0",
+ "title": "5. Psalm 34 – Taste and See",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 234.0,
+ "voiced_sec": 119.6,
+ "voice_ratio": 0.511,
+ "n_words": 164,
+ "words_per_min": 42.1,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.4,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 19.34,
+   "end": 27.74,
+   "text": "I will bless the Lord at all times, yes I will",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.431,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 27.74,
+   "end": 36.82,
+   "text": "His praise keeps rolling like a river through the hills",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 37.74,
+   "end": 46.04,
+   "text": "I sought the Lord and He heard my cry",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 47.92,
+   "end": 53.04,
+   "text": "Lifted me up while my weary eyes",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 55.6,
+   "end": 60.36,
+   "text": "Taste and see he's good and neat",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 60.36,
+   "end": 65.08,
+   "text": "He breaks the chains, he meets the need",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 65.08,
+   "end": 69.66,
+   "text": "Those who fear him lack no thank",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 69.66,
+   "end": 72.22,
+   "text": "Come near and listen",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 72.22,
+   "end": 76.2,
+   "text": "Let the humble sing",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 79.38,
+   "end": 84.62,
+   "text": "This poor man caught and the Lord came down",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 84.62,
+   "end": 89.12,
+   "text": "He encamps around when trouble surrounds",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 89.12,
+   "end": 93.48,
+   "text": "May the afflictions of the righteous soul",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 93.48,
+   "end": 98.64,
+   "text": "But the Lord redeems and makes them whole",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 99.92,
+   "end": 109.02,
+   "text": "Keep your tongue from evil ways Turn from wrong walking grace",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.433,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 109.64,
+   "end": 118.38,
+   "text": "Eyes of the Lord are on the dust He lifts the broken from the dust",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.433,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 174.28,
+   "end": 181.24,
+   "text": "He's good in need, He breaks the chains, He needs the need",
+   "avg_logprob": -0.729,
+   "no_speech_prob": 0.567,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 181.24,
+   "end": 193.88,
+   "text": "Those who fear Him like nothing, come near and listen, let the humble sing",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.197,
+   "track_id": "xkU1wrgAwt0#05"
+  },
+  {
+   "start": 199.48,
+   "end": 210.9,
+   "text": "Even when bones feel crushed and bruised, the Lord is near, His love still moves.",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.493,
+   "track_id": "xkU1wrgAwt0#05"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+# ── Audio: TÁI TẠO ĐƯỢC, KHÔNG ĐƯA VÀO GIT ──────────────────────────────
+# wav16 dựng lại được từ file gốc bằng A1_ingest (~3 phút cho 307 track).
+# Riêng christian-blues đã là 2,3GB — PCM 16-bit không nén, phình rất nhanh.
+# `track_audio.parquet` giữ src_path + src_sha1 nên vẫn truy vết được nguồn.
+niches/*/00_input/lyrics/audio/
+niches/*/00_input/raw/audio/
+*.wav
+*.mp3
+*.m4a
+*.webm
+
+# ── Nội dung có bản quyền: KHÔNG ĐƯA VÀO GIT (T65) ──────────────────────
+# `_local/` là nơi A4_export_lyrics ghi lời hát nguyên văn. Lời là tác phẩm
+# có bản quyền — lưu nội bộ để phân tích thì bình thường, đẩy lên kho chung
+# thì không. Dựng lại được bất cứ lúc nào từ lyrics_raw.parquet.
+niches/*/_local/
+
+# ── Model nặng ──────────────────────────────────────────────────────────
+# KHÔNG dùng `*.pt`: yolo11n-seg.pt đã nằm trong git từ trước. Quy tắc rộng
+# chỉ làm file đã theo dõi và file mới hành xử khác nhau — khó hiểu về sau.
+_models/*.pt
+
+# ── Thumbnail gốc: 7.194 ảnh / 1,1 GB (gỡ khỏi git 2026-08-26) ──────────
+# Chiếm 97% số file của repo (7.194/7.439) và làm mọi thao tác git chậm.
+# KHÔNG tái tạo được bằng pipeline (không có script tải) -> ảnh Ở LẠI TRÊN
+# ĐĨA, chỉ bỏ khỏi theo dõi. Đặc trưng đã trích sẵn vào
+# 00_input/processed/thumbnails.parquet (7.193 dòng) nên phân tích không cần
+# ảnh gốc; ai cần ảnh thì copy thư mục này theo đường ngoài git.
+niches/*/00_input/raw/thumbs/
+
+# ── Rác Python ──────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+
+# ══════════════════════════════════════════════════════════════════════
+# BỔ SUNG 2026-08-26 — repo này CÔNG KHAI trên GitHub
+# ══════════════════════════════════════════════════════════════════════
+
+# ── Lời hát nguyên văn: KHÔNG ĐẨY LÊN KHO CÔNG KHAI (T65) ─────────────
+# lyrics_raw.parquet có cột `text` chứa lời hát đầy đủ của 308 track.
+# Lời là tác phẩm có bản quyền — giữ nội bộ để phân tích thì bình thường,
+# đẩy lên kho ai cũng xem được thì không. Đặc trưng đã trích sẵn sang
+# lyrics_features.parquet (số từ, độ lặp, vốn từ, ngôi xưng) nên mọi phân
+# tích vẫn chạy được mà không cần nguyên văn.
+niches/*/00_input/processed/lyrics_raw.parquet
+
+# ── Comment thô: 145.150 dòng nội dung người thật viết ─────────────────
+# author_hash đã băm ẩn danh, nhưng nội dung bình luận là do người thật
+# viết và họ không biết nó bị đưa lên kho công khai. selected_comments
+# (6.794 dòng) đủ cho pipeline dựng lại báo cáo.
+niches/*/00_input/processed/comments.parquet
+
+# ── Dữ liệu đầu vào gốc + tài liệu nội bộ ─────────────────────────────
+# Mọi bảng tính / văn bản nguồn đều ở lại trên máy. Hai lý do:
+#   1. Dung lượng — file FMG là 60 MB, vượt khuyến nghị 50 MB của GitHub.
+#   2. Nội dung — tài liệu nội bộ công ty có sheet nháp, prompt làm việc,
+#      số liệu mua từ bên thứ ba (Luminate). Không thuộc về kho công khai.
+# Mọi thứ pipeline cần đã trích sang 00_input/processed/*.parquet.
+#
+# Quy tắc rộng theo ĐUÔI FILE, không theo thư mục — bản trước chỉ chặn
+# 00_input/raw/ nên file trong 00_input/external/ lọt qua và đã kịp lên
+# GitHub một lần (đã gỡ bằng cách dựng lại commit đầu, 2026-08-26).
+*.xlsx
+*.xls
+*.docx
+*.pptx
+
+# ── Trạng thái phiên làm việc của oh-my-claudecode ────────────────────
+# Nhật ký phiên, checkpoint, cache — riêng của từng máy, không phải mã nguồn.
+# Chặn cả thư mục: nhật ký phiên, bộ nhớ dự án, checkpoint — đều riêng
+# của từng máy và từng phiên làm việc, không phải mã nguồn.
+.omc/
+_web/.omc/
+
+# ── Rác hệ điều hành ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ── Comment có TÊN THẬT + thuộc tính nhân khẩu: TUYỆT ĐỐI KHÔNG CÔNG KHAI ─
+# Phát hiện 2026-08-26 khi soát trước lần đẩy đầu tiên.
+#
+# selected_comments.parquet  — 6.794 dòng, có `author_name` là tên tài khoản
+#   YouTube THẬT (@kellykellogg9451…) kèm `text` nguyên văn tới 5.500 ký tự.
+#   author_hash bên cạnh có băm ẩn danh cũng không cứu được, vì tên thật nằm
+#   ngay cột kế bên.
+#
+# _comments_tagged.parquet   — nặng hơn nữa: cùng tên thật đó, cộng các cột
+#   age · retired · veteran · disabled · nurse_care · widow · recovery ·
+#   new_convert. Ghép tên người thật với thuộc tính sức khoẻ / hoàn cảnh rồi
+#   đẩy lên kho ai cũng tải được là công bố hồ sơ suy đoán về họ. Quy tắc R6
+#   của dự án cấm suy luận nhóm thuộc tính này; đo nội bộ để phân tích là một
+#   chuyện, phát tán kèm định danh là chuyện khác.
+#
+# Ảnh hưởng tới việc dựng lại: STEP_05 (khán giả) cần hai file này. Người
+# clone repo phải tự crawl comment bằng khoá API của mình — pipeline có sẵn
+# script. Mọi bước khác chạy bình thường.
+niches/*/00_input/processed/selected_comments.parquet
+niches/*/05_audience/_comments_tagged.parquet
+
+# ── Ngân hàng trích dẫn: bình luận nguyên văn + thuộc tính nhân khẩu ────
+# 03_quote_bank.csv — 155 bình luận nguyên văn, mỗi dòng gắn cờ
+# disabled · widow · veteran · recovery · grief · sick_hosp. Không có
+# author_name, NHƯNG `comment_id` tra ngược ra tài khoản thật qua YouTube
+# API chỉ bằng một lệnh gọi — nên đây vẫn là dữ liệu định danh được.
+# Nội dung là lời tâm sự cá nhân về đức tin, sức khoẻ, mất mát.
+# Số liệu tổng hợp đã nằm trong 05_audience/*.md, không cần nguyên văn.
+niches/*/05_audience/*quote_bank*.csv

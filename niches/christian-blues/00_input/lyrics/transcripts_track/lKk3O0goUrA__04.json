@@ -1,0 +1,326 @@
+{
+ "track_id": "lKk3O0goUrA#04",
+ "track_key": "lKk3O0goUrA__04",
+ "video_id": "lKk3O0goUrA",
+ "title": "Yes Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 354.0,
+ "voiced_sec": 261.9,
+ "voice_ratio": 0.74,
+ "n_words": 289,
+ "words_per_min": 49.0,
+ "is_instrumental": false,
+ "n_segments": 38,
+ "n_segments_voiced": 38,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 29.4,
+ "rtf": 0.083,
+ "segments": [
+  {
+   "start": 5.96,
+   "end": 9.22,
+   "text": "Oh, thank you Jesus",
+   "avg_logprob": -0.638,
+   "no_speech_prob": 0.319,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 13.72,
+   "end": 22.78,
+   "text": "My soul, my soul said yes",
+   "avg_logprob": -0.638,
+   "no_speech_prob": 0.319,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 22.78,
+   "end": 33.64,
+   "text": "I was sinking in the quicksand Couldn't find no way to stand",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.516,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 36.78,
+   "end": 46.34,
+   "text": "But you pulled me from that bottom Place me in your promised land",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.516,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 48.08,
+   "end": 52.34,
+   "text": "Every storm that tried to break me",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.545,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 53.9,
+   "end": 58.08,
+   "text": "Lord, you held me in your hands",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.545,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 60.2,
+   "end": 63.84,
+   "text": "Now I'm walking in your mercy",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.545,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 66.32,
+   "end": 69.84,
+   "text": "Living by your great command",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.545,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 72.0,
+   "end": 76.22,
+   "text": "So I lift my voice and worship",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.502,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 78.3,
+   "end": 82.22,
+   "text": "Lay my heart upon your throne",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.502,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 84.84,
+   "end": 88.48,
+   "text": "You've been to God, my Jesus",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.502,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 90.18,
+   "end": 95.64,
+   "text": "I will never walk alone",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.502,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 95.64,
+   "end": 109.36,
+   "text": "My soul says yes, yes Lord, yes to Your will, yes Lord",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.75,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 109.36,
+   "end": 121.62,
+   "text": "My soul says yes, yes Lord, forever I will, yes Lord",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.75,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 128.5,
+   "end": 137.58,
+   "text": "Thank you, Lord My soul says, yes",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.377,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 140.82,
+   "end": 149.38,
+   "text": "You healed my broken body And you made this heart brand new",
+   "avg_logprob": -0.545,
+   "no_speech_prob": 0.377,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 152.04,
+   "end": 161.2,
+   "text": "Every time I face the darkness, Lord, you brought me safely through",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.617,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 163.78,
+   "end": 174.12,
+   "text": "Oh, my praise will keep on rising, cause you've never let me go",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.617,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 176.12,
+   "end": 186.2,
+   "text": "Now my testimony shouting To the world they need to know",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 188.06,
+   "end": 198.12,
+   "text": "All my days I'll keep on singing Every breath I give to you",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 200.06,
+   "end": 211.54,
+   "text": "Let my life be holy worship For the things you've brought me through",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.727,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 211.54,
+   "end": 237.38,
+   "text": "My soul says yes, yes to Your will, yes to My soul says yes, yes forever I will, yes to",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.702,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 237.38,
+   "end": 245.04,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.491,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 245.04,
+   "end": 246.92,
+   "text": "Thank You, Lord",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.491,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 250.38,
+   "end": 253.46,
+   "text": "My soul says, Grace",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.491,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 255.38,
+   "end": 259.06,
+   "text": "Can't nobody do me like Jesus",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.491,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 261.38,
+   "end": 265.3,
+   "text": "Can't nobody do me like the Lord",
+   "avg_logprob": -0.443,
+   "no_speech_prob": 0.491,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 265.3,
+   "end": 272.62,
+   "text": "He picked me up, yes he did He turned me round, yes he did",
+   "avg_logprob": -0.459,
+   "no_speech_prob": 0.725,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 272.62,
+   "end": 295.28,
+   "text": "My soul says yes, yes to your will My soul says yes, yes to forever I will",
+   "avg_logprob": -0.459,
+   "no_speech_prob": 0.725,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 295.28,
+   "end": 298.48,
+   "text": "Yes, Lord",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.534,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 305.28,
+   "end": 307.94,
+   "text": "Thank You, Lord",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.534,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 307.94,
+   "end": 310.28,
+   "text": "Thank You, Lord",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.534,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 310.8,
+   "end": 314.28,
+   "text": "My soul says yes",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.534,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 319.26,
+   "end": 321.66,
+   "text": "Yes, Lord",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.534,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 325.36,
+   "end": 328.04,
+   "text": "Yes Lord",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 331.02,
+   "end": 334.34,
+   "text": "My soul says yes",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 337.18,
+   "end": 339.86,
+   "text": "I'll follow you forever",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#04"
+  },
+  {
+   "start": 348.04,
+   "end": 350.84,
+   "text": "Yes Lord",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.627,
+   "track_id": "lKk3O0goUrA#04"
+  }
+ ]
+}

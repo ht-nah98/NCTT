@@ -1,0 +1,310 @@
+{
+ "track_id": "sGjecIPJalE#07",
+ "track_key": "sGjecIPJalE__07",
+ "video_id": "sGjecIPJalE",
+ "title": "I Am The Light Of The World (John 8)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 275.0,
+ "voiced_sec": 174.1,
+ "voice_ratio": 0.633,
+ "n_words": 253,
+ "words_per_min": 55.2,
+ "is_instrumental": false,
+ "n_segments": 36,
+ "n_segments_voiced": 36,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.1,
+ "rtf": 0.044,
+ "segments": [
+  {
+   "start": 30.34,
+   "end": 31.24,
+   "text": "Hmm",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 35.92,
+   "end": 41.36,
+   "text": "I spoke again to the people there",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 43.0,
+   "end": 45.0,
+   "text": "And lifted up my voice",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 47.34,
+   "end": 51.0,
+   "text": "I am the light of the world I set in",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 51.98,
+   "end": 54.0,
+   "text": "And me make your choice",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 55.1,
+   "end": 59.34,
+   "text": "He who follows me won't walk in dark",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 60.0,
+   "end": 63.26,
+   "text": "But have the light of life",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 64.0,
+   "end": 68.62,
+   "text": "My words are truth that pierce the heart",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 68.62,
+   "end": 73.4,
+   "text": "And cut through every strife",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 74.0,
+   "end": 77.2,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 79.0,
+   "end": 81.94,
+   "text": "The darkness fades away",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 83.7,
+   "end": 87.4,
+   "text": "Those who walk and follow me",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 87.4,
+   "end": 91.54,
+   "text": "We'll see eternal day",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 92.4,
+   "end": 95.08,
+   "text": "The night is coming",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 95.08,
+   "end": 97.52,
+   "text": "Work must shine",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 97.52,
+   "end": 102.02,
+   "text": "While daylight is still unfurls",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 102.02,
+   "end": 105.64,
+   "text": "As long as I am in this world",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 108.4,
+   "end": 112.46,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 113.4,
+   "end": 114.7,
+   "text": "Oh",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 119.78,
+   "end": 126.78,
+   "text": "I came to do the works of Him who sent me from above",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.259,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 126.78,
+   "end": 135.92,
+   "text": "to open blind eyes to the truth and show the Father's love",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.259,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 135.92,
+   "end": 140.92,
+   "text": "The blind man saw and worshiped me",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 140.92,
+   "end": 144.8,
+   "text": "He said, Lord, I believe",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 144.8,
+   "end": 150.06,
+   "text": "The light had come, the darkness fled",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 150.06,
+   "end": 153.6,
+   "text": "And every heart was free",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 155.32,
+   "end": 158.84,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 159.92,
+   "end": 163.34,
+   "text": "The darkness fades away",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 165.04,
+   "end": 173.04,
+   "text": "Those who walk and follow me will see eternal day",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.61,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 173.04,
+   "end": 183.52,
+   "text": "The light is coming, work must shine while daylight still unfurls",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.61,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 183.52,
+   "end": 194.6,
+   "text": "As long as I am in this world I am the light of the world",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.382,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 202.52,
+   "end": 210.6,
+   "text": "I came not here to judge the world But that the world might see",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.382,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 210.6,
+   "end": 219.8,
+   "text": "Those who believe will walk in life and live eternally",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.526,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 221.14,
+   "end": 226.52,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.526,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 229.18,
+   "end": 234.3,
+   "text": "The lamp that will not fade",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.526,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 245.42,
+   "end": 253.64,
+   "text": "I am the light of the light of the world",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.787,
+   "track_id": "sGjecIPJalE#07"
+  },
+  {
+   "start": 253.64,
+   "end": 257.88,
+   "text": "The truth, the lie, the way",
+   "avg_logprob": -0.573,
+   "no_speech_prob": 0.249,
+   "track_id": "sGjecIPJalE#07"
+  }
+ ]
+}

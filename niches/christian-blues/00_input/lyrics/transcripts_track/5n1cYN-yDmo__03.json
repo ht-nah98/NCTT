@@ -1,0 +1,574 @@
+{
+ "track_id": "5n1cYN-yDmo#03",
+ "track_key": "5n1cYN-yDmo__03",
+ "video_id": "5n1cYN-yDmo",
+ "title": "I Need You Now",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 275.0,
+ "voiced_sec": 186.3,
+ "voice_ratio": 0.678,
+ "n_words": 406,
+ "words_per_min": 88.6,
+ "is_instrumental": false,
+ "n_segments": 69,
+ "n_segments_voiced": 63,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 54.6,
+ "rtf": 0.199,
+ "segments": [
+  {
+   "start": 3.58,
+   "end": 4.78,
+   "text": "Mmmmmmmm",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 6.54,
+   "end": 8.72,
+   "text": "Oh, Lord",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 11.0,
+   "end": 12.94,
+   "text": "We welcome You in",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 14.0,
+   "end": 16.48,
+   "text": "We welcome You in",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 20.0,
+   "end": 22.36,
+   "text": "Jesus, we need You",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 23.0,
+   "end": 26.18,
+   "text": "Right here right now",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.337,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 30.72,
+   "end": 36.78,
+   "text": "Lord, I've been walking with a heavy heart trying to lift my eyes",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 36.78,
+   "end": 40.24,
+   "text": "But I'm falling apart, life hit me hard",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 41.0,
+   "end": 46.3,
+   "text": "And I'm down on my knees whispering Your name, Lord, come rescue me",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 46.3,
+   "end": 50.22,
+   "text": "You know my pain, You know my fear",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 50.22,
+   "end": 53.96,
+   "text": "You count every tear that I cry each year",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 53.96,
+   "end": 57.42,
+   "text": "I'm tired of running, I surrender tonight",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.876,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 57.42,
+   "end": 61.36,
+   "text": "Be my strength be my hope be my guiding light",
+   "avg_logprob": -0.75,
+   "no_speech_prob": 0.588,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 72.14,
+   "end": 73.74,
+   "text": "Take control",
+   "avg_logprob": -0.75,
+   "no_speech_prob": 0.588,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 73.74,
+   "end": 78.46,
+   "text": "Oh, Lord I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 78.46,
+   "end": 80.12,
+   "text": "Oh, I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 80.12,
+   "end": 83.56,
+   "text": "Now Your healing spins Your peace",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 83.56,
+   "end": 86.96,
+   "text": "Pour Your glory down on me",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 87.74,
+   "end": 89.42,
+   "text": "Lord I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 89.42,
+   "end": 91.14,
+   "text": "Yes, I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 91.14,
+   "end": 94.38,
+   "text": "Hold me close and show me how",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 94.38,
+   "end": 98.5,
+   "text": "Children trust You in every season",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 98.5,
+   "end": 100.94,
+   "text": "Jesus, I need You now",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.68,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 100.94,
+   "end": 103.66,
+   "text": "Jesus, I need You now",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 105.94,
+   "end": 110.08,
+   "text": "Storms keep rising, but You come my seat",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 110.08,
+   "end": 113.66,
+   "text": "When the world goes quiet, You still speak to me",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 113.66,
+   "end": 117.62,
+   "text": "Your love is stronger than my darkest night",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 117.62,
+   "end": 121.22,
+   "text": "You shine through the shadows with holy light",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 121.22,
+   "end": 125.14,
+   "text": "I walk through fire, but You pull me through",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 125.14,
+   "end": 128.82,
+   "text": "Grace like a river keeps making me new",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.729,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 128.82,
+   "end": 132.96,
+   "text": "Whenever I call, you never hide",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 132.96,
+   "end": 136.28,
+   "text": "You're the anchor of hope I can't deny",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 136.28,
+   "end": 139.36,
+   "text": "I ain't lost this road alone",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 139.36,
+   "end": 143.2,
+   "text": "Lord, I'm reaching for your throne",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 143.2,
+   "end": 147.12,
+   "text": "Take my fears, take my doubts",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 147.12,
+   "end": 149.78,
+   "text": "Bring me home",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 150.76,
+   "end": 153.5,
+   "text": "Lord, I need you now",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 154.6,
+   "end": 158.06,
+   "text": "Send your healing, send your peace",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.595,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 158.06,
+   "end": 162.24,
+   "text": "Save your poor, your glory down on me.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 162.56,
+   "end": 164.34,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 164.68,
+   "end": 166.3,
+   "text": "Yes, I need You now.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 166.86,
+   "end": 169.36,
+   "text": "Hold me close and show me how.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 169.38,
+   "end": 170.98,
+   "text": "To trust You.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 171.02,
+   "end": 173.44,
+   "text": "Just give me this every season.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 173.76,
+   "end": 176.14,
+   "text": "Jesus, I need You now.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 177.74,
+   "end": 180.64,
+   "text": "When I'm weak, Lord, you're strong.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 181.58,
+   "end": 184.44,
+   "text": "You've been with me all along.",
+   "avg_logprob": -0.387,
+   "no_speech_prob": 0.717,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 184.44,
+   "end": 191.06,
+   "text": "When I can't see the way You remind me to pray",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.744,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 191.06,
+   "end": 198.84,
+   "text": "Oh Jesus, Jesus, stay with me I need You desperately",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.744,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 198.84,
+   "end": 200.28,
+   "text": "Yes, Brelee.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 201.92,
+   "end": 202.0,
+   "text": "Oh!",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 206.56,
+   "end": 209.72,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 209.72,
+   "end": 210.0,
+   "text": "Oh!",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 210.0,
+   "end": 211.44,
+   "text": "I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 211.44,
+   "end": 214.34,
+   "text": "Left your arms around my soul,",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 214.38,
+   "end": 218.3,
+   "text": "Make the broken places whole.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 218.92,
+   "end": 219.28,
+   "text": "Oh!",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 222.84,
+   "end": 224.76,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 226.44,
+   "end": 228.4,
+   "text": "Lord, I need You now.",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.646,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 228.4,
+   "end": 233.06,
+   "text": "Oh, yes I need you, you're my healer, you're my friend",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 233.06,
+   "end": 236.8,
+   "text": "Faithful God, until the end",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 236.8,
+   "end": 239.74,
+   "text": "Jesus, I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 240.84,
+   "end": 242.54,
+   "text": "I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 242.54,
+   "end": 244.82,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 244.82,
+   "end": 246.24,
+   "text": "I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 246.24,
+   "end": 248.4,
+   "text": "Jesus, I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 248.4,
+   "end": 250.08,
+   "text": "I need you now",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 252.28,
+   "end": 253.08,
+   "text": "Jesus",
+   "avg_logprob": -0.478,
+   "no_speech_prob": 0.659,
+   "track_id": "5n1cYN-yDmo#03"
+  },
+  {
+   "start": 256.96,
+   "end": 269.76,
+   "text": "I need you now, right now Stay with me Lord, I need you now",
+   "avg_logprob": -0.542,
+   "no_speech_prob": 0.643,
+   "track_id": "5n1cYN-yDmo#03"
+  }
+ ]
+}

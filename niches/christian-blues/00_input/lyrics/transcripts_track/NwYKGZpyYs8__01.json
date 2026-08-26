@@ -1,0 +1,334 @@
+{
+ "track_id": "NwYKGZpyYs8#01",
+ "track_key": "NwYKGZpyYs8__01",
+ "video_id": "NwYKGZpyYs8",
+ "title": "In The Beginning (John 1)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 225.0,
+ "voiced_sec": 156.7,
+ "voice_ratio": 0.696,
+ "n_words": 304,
+ "words_per_min": 81.1,
+ "is_instrumental": false,
+ "n_segments": 39,
+ "n_segments_voiced": 38,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 61.1,
+ "rtf": 0.272,
+ "segments": [
+  {
+   "start": 10.3,
+   "end": 11.74,
+   "text": "ś ś",
+   "avg_logprob": -0.823,
+   "no_speech_prob": 0.325,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 11.74,
+   "end": 18.4,
+   "text": "ś In the beginning was a world ś",
+   "avg_logprob": -0.823,
+   "no_speech_prob": 0.325,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 19.94,
+   "end": 25.02,
+   "text": "ś And the Word was God, amen ś",
+   "avg_logprob": -0.823,
+   "no_speech_prob": 0.325,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 25.02,
+   "end": 28.36,
+   "text": "ś The Word came in the flesh ś",
+   "avg_logprob": -0.823,
+   "no_speech_prob": 0.325,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 28.36,
+   "end": 29.98,
+   "text": "ś The light of the world ś",
+   "avg_logprob": -0.823,
+   "no_speech_prob": 0.325,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 29.98,
+   "end": 30.92,
+   "text": "light of men.",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 34.62,
+   "end": 37.08,
+   "text": "He was there when the world began.",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 39.06,
+   "end": 41.82,
+   "text": "All things made through his hand.",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 43.78,
+   "end": 46.0,
+   "text": "Nothing made without his say.",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 46.82,
+   "end": 50.02,
+   "text": "Life was end of day by day.",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 51.52,
+   "end": 55.8,
+   "text": "The life was a life for every man the dark could not",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 55.8,
+   "end": 56.32,
+   "text": "withstand.",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.474,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 56.32,
+   "end": 63.4,
+   "text": "The light shines in the darkness The darkness cannot overcome",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.264,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 63.4,
+   "end": 69.84,
+   "text": "The light shines in the darkness Jesus, the risen one",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.264,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 69.84,
+   "end": 76.1,
+   "text": "The light shines in the darkness The darkness cannot overcome",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.264,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 76.1,
+   "end": 82.96,
+   "text": "The light shines in the darkness Jesus, the risen one",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.264,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 87.32,
+   "end": 93.86,
+   "text": "A man named John was sent from God to testify what he saw.",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 94.92,
+   "end": 100.4,
+   "text": "He came to speak about the light so all my belief was right.",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 100.96,
+   "end": 106.64,
+   "text": "He was not the light we see, but came to tell what he would speak.",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 107.68,
+   "end": 113.36,
+   "text": "The true light coming into view was giving light to me and you.",
+   "avg_logprob": -0.208,
+   "no_speech_prob": 0.607,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 114.3,
+   "end": 119.74,
+   "text": "He was in the world He made, yet the world was not persuaded",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.599,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 120.36,
+   "end": 126.26,
+   "text": "His own did not receive His name, still He came just the same",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.599,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 126.26,
+   "end": 132.56,
+   "text": "But all who believe His call, He gave the right to be God's own",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.599,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 132.56,
+   "end": 138.78,
+   "text": "Not born of flesh or human plan, but born of God-made man",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.599,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 138.78,
+   "end": 142.28,
+   "text": "The light shines in the darkness",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.454,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 142.98,
+   "end": 145.02,
+   "text": "The darkness cannot overcome",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.454,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 148.66,
+   "end": 151.64,
+   "text": "Jesus, the risen one",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.454,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 151.64,
+   "end": 155.22,
+   "text": "The light shines in the darkness",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.454,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 155.22,
+   "end": 157.82,
+   "text": "The darkness cannot overcome",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.454,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 161.46,
+   "end": 164.56,
+   "text": "Jesus, the risen one",
+   "avg_logprob": -0.688,
+   "no_speech_prob": 0.454,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 164.56,
+   "end": 171.1,
+   "text": "Oh, the Word became flesh and lived with us",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.337,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 171.1,
+   "end": 174.38,
+   "text": "Full of grace, full of truth in Jesus",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.337,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 174.38,
+   "end": 177.22,
+   "text": "We saw His glory standing plain",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.337,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 177.22,
+   "end": 180.22,
+   "text": "Glory of the Father, Son proclaimed",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.337,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 180.22,
+   "end": 183.76,
+   "text": "John cried out, He came before me",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.337,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 183.76,
+   "end": 187.08,
+   "text": "Yet He was always more than me",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.337,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 187.08,
+   "end": 190.32,
+   "text": "From His fullness grace on grace",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.337,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 190.32,
+   "end": 195.04,
+   "text": "Flow through Moses' truth through grace",
+   "avg_logprob": -0.73,
+   "no_speech_prob": 0.052,
+   "track_id": "NwYKGZpyYs8#01"
+  },
+  {
+   "start": 222.08,
+   "end": 222.32,
+   "text": "you",
+   "avg_logprob": -0.97,
+   "no_speech_prob": 0.867,
+   "track_id": "NwYKGZpyYs8#01"
+  }
+ ]
+}

@@ -1,0 +1,2158 @@
+{
+ "video_id": "xkU1wrgAwt0",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 2449.0,
+ "voiced_sec": 1543.7,
+ "voice_ratio": 0.63,
+ "is_instrumental": false,
+ "n_segments": 214,
+ "n_segments_voiced": 211,
+ "n_tracks": 11,
+ "n_seg_mapped": 214,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 17.06,
+   "end": 20.2,
+   "text": "Oh God, You are my God alone",
+   "avg_logprob": -0.817,
+   "no_speech_prob": 0.286,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 17.06,
+   "track_end": 20.2
+  },
+  {
+   "start": 20.2,
+   "end": 32.32,
+   "text": "Early I seek you and I'm far from home In a dry land where the rivers fade",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.439,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 20.2,
+   "track_end": 32.32
+  },
+  {
+   "start": 35.0,
+   "end": 50.02,
+   "text": "My soul still calls your holy name My soul thirsts for you, my body yearns",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.439,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 35.0,
+   "track_end": 50.02
+  },
+  {
+   "start": 50.02,
+   "end": 58.14,
+   "text": "In the heat of trial my spirit burns",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.423,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 50.02,
+   "track_end": 58.14
+  },
+  {
+   "start": 59.54,
+   "end": 66.78,
+   "text": "But I've seen your power in the place of praise",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.423,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 59.54,
+   "track_end": 66.78
+  },
+  {
+   "start": 68.02,
+   "end": 74.92,
+   "text": "And I'll bless you Lord all my days",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.423,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 68.02,
+   "track_end": 74.92
+  },
+  {
+   "start": 93.84,
+   "end": 102.3,
+   "text": "Your love is better than life itself No gold or wine, no earthly wealth",
+   "avg_logprob": -0.376,
+   "no_speech_prob": 0.414,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 93.84,
+   "track_end": 102.3
+  },
+  {
+   "start": 102.3,
+   "end": 109.68,
+   "text": "My lips will glorify Your name",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.371,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 102.3,
+   "track_end": 109.68
+  },
+  {
+   "start": 110.3,
+   "end": 118.34,
+   "text": "In the night I'll sing through joy and pain",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.371,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 110.3,
+   "track_end": 118.34
+  },
+  {
+   "start": 122.14,
+   "end": 127.3,
+   "text": "On my bed I remember You",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.371,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 122.14,
+   "track_end": 127.3
+  },
+  {
+   "start": 130.48,
+   "end": 135.06,
+   "text": "In the shadow of wings I'm pulled through",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.401,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 130.48,
+   "track_end": 135.06
+  },
+  {
+   "start": 139.22,
+   "end": 144.52,
+   "text": "You hold my hand, I cling so tight",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.401,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 139.22,
+   "track_end": 144.52
+  },
+  {
+   "start": 144.52,
+   "end": 152.48,
+   "text": "And I sing the blues with Heaven's light",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.401,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 144.52,
+   "track_end": 152.48
+  },
+  {
+   "start": 152.48,
+   "end": 161.74,
+   "text": "My soul thirsts for You, my body yearns",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.277,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 152.48,
+   "track_end": 161.74
+  },
+  {
+   "start": 161.74,
+   "end": 169.22,
+   "text": "In the heat of trial, my spirit burns",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.277,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 161.74,
+   "track_end": 169.22
+  },
+  {
+   "start": 170.74,
+   "end": 178.32,
+   "text": "But I've seen Your power in the place of praise",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.277,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 170.74,
+   "track_end": 178.32
+  },
+  {
+   "start": 178.32,
+   "end": 186.94,
+   "text": "And I'll bless you Lord, all my days",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.237,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 178.32,
+   "track_end": 186.94
+  },
+  {
+   "start": 186.94,
+   "end": 194.92,
+   "text": "Yes my soul follows hard behind",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.237,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 186.94,
+   "track_end": 194.92
+  },
+  {
+   "start": 196.38,
+   "end": 203.94,
+   "text": "In the driest place, you're what I find",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.237,
+   "track_id": "xkU1wrgAwt0#01",
+   "track_start": 196.38,
+   "track_end": 203.94
+  },
+  {
+   "start": 238.86,
+   "end": 247.18,
+   "text": "Bless is the man who walks not in the dark Don't sit with the wicked, don't stand where",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.642,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 11.86,
+   "track_end": 20.18
+  },
+  {
+   "start": 247.18,
+   "end": 254.3,
+   "text": "They barred by delights in the world, both day and night",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.518,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 20.18,
+   "track_end": 27.3
+  },
+  {
+   "start": 258.02,
+   "end": 264.18,
+   "text": "Like a tree by the river, he stands upright",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.518,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 31.02,
+   "track_end": 37.18
+  },
+  {
+   "start": 267.74,
+   "end": 272.56,
+   "text": "He's like a tree, roots digging deep",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.518,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 40.74,
+   "track_end": 45.56
+  },
+  {
+   "start": 272.56,
+   "end": 278.2,
+   "text": "In season he bears what the faithful reap",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.467,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 45.56,
+   "track_end": 51.2
+  },
+  {
+   "start": 278.2,
+   "end": 282.76,
+   "text": "Leaves don't wither, winds don't shake",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.467,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 51.2,
+   "track_end": 55.76
+  },
+  {
+   "start": 283.56,
+   "end": 288.48,
+   "text": "The Lord knows the road the righteous take",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.467,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 56.56,
+   "track_end": 61.48
+  },
+  {
+   "start": 309.3,
+   "end": 313.8,
+   "text": "But the wicked hold their dust in the air",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.452,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 82.3,
+   "track_end": 86.8
+  },
+  {
+   "start": 314.56,
+   "end": 318.66,
+   "text": "Like chaff in the wind, they vanish somewhere",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.452,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 87.56,
+   "track_end": 91.66
+  },
+  {
+   "start": 319.56,
+   "end": 325.4,
+   "text": "They won't stand in judgment when truth appears",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.452,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 92.56,
+   "track_end": 98.4
+  },
+  {
+   "start": 329.58,
+   "end": 335.68,
+   "text": "They chose their path but not their fears",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.617,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 102.58,
+   "track_end": 108.68
+  },
+  {
+   "start": 338.82,
+   "end": 343.94,
+   "text": "The Lord watches every step I tread",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.617,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 111.82,
+   "track_end": 116.94
+  },
+  {
+   "start": 343.94,
+   "end": 349.14,
+   "text": "God's the humble raises the dead",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.617,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 116.94,
+   "track_end": 122.14
+  },
+  {
+   "start": 349.14,
+   "end": 354.36,
+   "text": "But the road of the wicked fades and bends",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.617,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 122.14,
+   "track_end": 127.36
+  },
+  {
+   "start": 354.36,
+   "end": 358.86,
+   "text": "While grace rolls on without knowing",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.509,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 127.36,
+   "track_end": 131.86
+  },
+  {
+   "start": 358.86,
+   "end": 363.5,
+   "text": "He's like a tree, roots digging deep",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.509,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 131.86,
+   "track_end": 136.5
+  },
+  {
+   "start": 364.36,
+   "end": 369.22,
+   "text": "In season he bears what the faithful reap",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.509,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 137.36,
+   "track_end": 142.22
+  },
+  {
+   "start": 369.22,
+   "end": 373.7,
+   "text": "Leaves don't wither, winds don't shake",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.509,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 142.22,
+   "track_end": 146.7
+  },
+  {
+   "start": 374.36,
+   "end": 379.48,
+   "text": "The Lord knows the road the righteous take",
+   "avg_logprob": -0.207,
+   "no_speech_prob": 0.509,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 147.36,
+   "track_end": 152.48
+  },
+  {
+   "start": 398.76,
+   "end": 403.46,
+   "text": "So I'll keep singing that blessed tune",
+   "avg_logprob": -0.546,
+   "no_speech_prob": 0.383,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 171.76,
+   "track_end": 176.46
+  },
+  {
+   "start": 405.52,
+   "end": 409.6,
+   "text": "Planet in mercy, pruned by truth",
+   "avg_logprob": -0.72,
+   "no_speech_prob": 0.468,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 178.52,
+   "track_end": 182.6
+  },
+  {
+   "start": 435.6,
+   "end": 437.0,
+   "text": "you",
+   "avg_logprob": -0.596,
+   "no_speech_prob": 0.889,
+   "track_id": "xkU1wrgAwt0#02",
+   "track_start": 208.6,
+   "track_end": 210.0
+  },
+  {
+   "start": 453.6,
+   "end": 459.46,
+   "text": "Don't you fret by the wicked man",
+   "avg_logprob": -0.568,
+   "no_speech_prob": 0.553,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 16.6,
+   "track_end": 22.46
+  },
+  {
+   "start": 461.1,
+   "end": 468.14,
+   "text": "Don't envy the schemes in his hand",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 24.1,
+   "track_end": 31.14
+  },
+  {
+   "start": 468.14,
+   "end": 476.92,
+   "text": "Like grass you'll fade, like flowers dry",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 31.14,
+   "track_end": 39.92
+  },
+  {
+   "start": 477.46,
+   "end": 484.96,
+   "text": "But trust in the Lord and you'll stand high",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 40.46,
+   "track_end": 47.96
+  },
+  {
+   "start": 486.56,
+   "end": 502.0,
+   "text": "The steps of the righteous are made firm by the Lord who holds them till the end of the term",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.328,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 49.56,
+   "track_end": 65.0
+  },
+  {
+   "start": 503.84,
+   "end": 520.66,
+   "text": "Though he stumble, he will not fall For God's strong hand is holding it all",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.412,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 66.84,
+   "track_end": 83.66
+  },
+  {
+   "start": 524.5,
+   "end": 531.56,
+   "text": "Delight in the Lord, He'll give your hearts cry",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.463,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 87.5,
+   "track_end": 94.56
+  },
+  {
+   "start": 532.66,
+   "end": 539.62,
+   "text": "Commit your way, let your burdens fly",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.463,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 95.66,
+   "track_end": 102.62
+  },
+  {
+   "start": 541.2,
+   "end": 544.44,
+   "text": "Be still before him",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 104.2,
+   "track_end": 107.44
+  },
+  {
+   "start": 544.44,
+   "end": 548.4,
+   "text": "Don't burn in rage",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 107.44,
+   "track_end": 111.4
+  },
+  {
+   "start": 549.72,
+   "end": 553.06,
+   "text": "The Lord will act",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 112.72,
+   "track_end": 116.06
+  },
+  {
+   "start": 553.06,
+   "end": 556.88,
+   "text": "He will set the stage",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 116.06,
+   "track_end": 119.88
+  },
+  {
+   "start": 558.5,
+   "end": 563.5,
+   "text": "Better the lids of the righteous own",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 121.5,
+   "track_end": 126.5
+  },
+  {
+   "start": 563.5,
+   "end": 567.54,
+   "text": "Than riches piled on a hard of stone",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 126.5,
+   "track_end": 130.54
+  },
+  {
+   "start": 567.54,
+   "end": 578.72,
+   "text": "I've been young now I'm old and gray never seen the just turned away with steps of the",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.232,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 130.54,
+   "track_end": 141.72
+  },
+  {
+   "start": 578.72,
+   "end": 591.66,
+   "text": "righteous are made firm by the Lord who holds them till the end of the turn",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.232,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 141.72,
+   "track_end": 154.66
+  },
+  {
+   "start": 593.76,
+   "end": 608.14,
+   "text": "Though he's stumble, he will not fall For God's strong hand is holding it all",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 156.76,
+   "track_end": 171.14
+  },
+  {
+   "start": 610.38,
+   "end": 616.46,
+   "text": "Holding it all, oh he's holding it all",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#03",
+   "track_start": 173.38,
+   "track_end": 179.46
+  },
+  {
+   "start": 671.3,
+   "end": 680.78,
+   "text": "The Lord's my shepherds, I shall not mourn",
+   "avg_logprob": -0.698,
+   "no_speech_prob": 0.441,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 10.3,
+   "track_end": 19.78
+  },
+  {
+   "start": 680.78,
+   "end": 688.94,
+   "text": "He makes me lie where the river's hung",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.377,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 19.78,
+   "track_end": 27.94
+  },
+  {
+   "start": 689.78,
+   "end": 697.46,
+   "text": "Still water's calm and my soul's restored",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.377,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 28.78,
+   "track_end": 36.46
+  },
+  {
+   "start": 698.78,
+   "end": 706.54,
+   "text": "He leads me on by His faithful call",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.377,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 37.78,
+   "track_end": 45.54
+  },
+  {
+   "start": 706.54,
+   "end": 724.82,
+   "text": "Even though I walk through valleys low I won't be afraid cause He won't let go",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 45.54,
+   "track_end": 63.82
+  },
+  {
+   "start": 724.82,
+   "end": 733.22,
+   "text": "His rod and staff, they comfort me",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.592,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 63.82,
+   "track_end": 72.22
+  },
+  {
+   "start": 734.82,
+   "end": 742.44,
+   "text": "In every shadow, he walks with me",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.592,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 73.82,
+   "track_end": 81.44
+  },
+  {
+   "start": 743.82,
+   "end": 751.36,
+   "text": "He sets a table before my fold",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.592,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 82.82,
+   "track_end": 90.36
+  },
+  {
+   "start": 751.36,
+   "end": 760.18,
+   "text": "Announce my head till the blessing flows",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 90.36,
+   "track_end": 99.18
+  },
+  {
+   "start": 761.36,
+   "end": 768.96,
+   "text": "My cup runs over grace in the air",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 100.36,
+   "track_end": 107.96
+  },
+  {
+   "start": 768.96,
+   "end": 777.68,
+   "text": "Surely His mercy is always there",
+   "avg_logprob": -0.296,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 107.96,
+   "track_end": 116.68
+  },
+  {
+   "start": 777.68,
+   "end": 786.68,
+   "text": "All my life His goodness will chase",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.651,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 116.68,
+   "track_end": 125.68
+  },
+  {
+   "start": 786.68,
+   "end": 795.04,
+   "text": "I'll dwell with the Lord In His holy place",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.651,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 125.68,
+   "track_end": 134.04
+  },
+  {
+   "start": 795.68,
+   "end": 804.58,
+   "text": "No more fear No more strife",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.651,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 134.68,
+   "track_end": 143.58
+  },
+  {
+   "start": 804.58,
+   "end": 820.92,
+   "text": "He's the shepherd who gave me life Even though I walk through valleys low",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.707,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 143.58,
+   "track_end": 159.92
+  },
+  {
+   "start": 820.92,
+   "end": 829.7,
+   "text": "I won't be afraid, cause he won't let go",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.668,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 159.92,
+   "track_end": 168.7
+  },
+  {
+   "start": 830.92,
+   "end": 838.44,
+   "text": "His rod and staff, they comfort me",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.668,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 169.92,
+   "track_end": 177.44
+  },
+  {
+   "start": 839.92,
+   "end": 847.76,
+   "text": "In every shadow, he walks with me",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.668,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 178.92,
+   "track_end": 186.76
+  },
+  {
+   "start": 847.76,
+   "end": 855.72,
+   "text": "Through every mile and midnight to",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 186.76,
+   "track_end": 194.72
+  },
+  {
+   "start": 855.72,
+   "end": 860.22,
+   "text": "I'll sing to my shepherd,",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 194.72,
+   "track_end": 199.22
+  },
+  {
+   "start": 861.88,
+   "end": 864.78,
+   "text": "Neath the blues and moon.",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#04",
+   "track_start": 200.88,
+   "track_end": 203.78
+  },
+  {
+   "start": 897.34,
+   "end": 905.74,
+   "text": "I will bless the Lord at all times, yes I will",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.431,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 19.34,
+   "track_end": 27.74
+  },
+  {
+   "start": 905.74,
+   "end": 914.82,
+   "text": "His praise keeps rolling like a river through the hills",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 27.74,
+   "track_end": 36.82
+  },
+  {
+   "start": 915.74,
+   "end": 924.04,
+   "text": "I sought the Lord and He heard my cry",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 37.74,
+   "track_end": 46.04
+  },
+  {
+   "start": 925.92,
+   "end": 931.04,
+   "text": "Lifted me up while my weary eyes",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 47.92,
+   "track_end": 53.04
+  },
+  {
+   "start": 933.6,
+   "end": 938.36,
+   "text": "Taste and see he's good and neat",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 55.6,
+   "track_end": 60.36
+  },
+  {
+   "start": 938.36,
+   "end": 943.08,
+   "text": "He breaks the chains, he meets the need",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 60.36,
+   "track_end": 65.08
+  },
+  {
+   "start": 943.08,
+   "end": 947.66,
+   "text": "Those who fear him lack no thank",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 65.08,
+   "track_end": 69.66
+  },
+  {
+   "start": 947.66,
+   "end": 950.22,
+   "text": "Come near and listen",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.576,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 69.66,
+   "track_end": 72.22
+  },
+  {
+   "start": 950.22,
+   "end": 954.2,
+   "text": "Let the humble sing",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 72.22,
+   "track_end": 76.2
+  },
+  {
+   "start": 957.38,
+   "end": 962.62,
+   "text": "This poor man caught and the Lord came down",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 79.38,
+   "track_end": 84.62
+  },
+  {
+   "start": 962.62,
+   "end": 967.12,
+   "text": "He encamps around when trouble surrounds",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 84.62,
+   "track_end": 89.12
+  },
+  {
+   "start": 967.12,
+   "end": 971.48,
+   "text": "May the afflictions of the righteous soul",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 89.12,
+   "track_end": 93.48
+  },
+  {
+   "start": 971.48,
+   "end": 976.64,
+   "text": "But the Lord redeems and makes them whole",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.536,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 93.48,
+   "track_end": 98.64
+  },
+  {
+   "start": 977.92,
+   "end": 987.02,
+   "text": "Keep your tongue from evil ways Turn from wrong walking grace",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.433,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 99.92,
+   "track_end": 109.02
+  },
+  {
+   "start": 987.64,
+   "end": 996.38,
+   "text": "Eyes of the Lord are on the dust He lifts the broken from the dust",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.433,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 109.64,
+   "track_end": 118.38
+  },
+  {
+   "start": 1052.28,
+   "end": 1059.24,
+   "text": "He's good in need, He breaks the chains, He needs the need",
+   "avg_logprob": -0.729,
+   "no_speech_prob": 0.567,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 174.28,
+   "track_end": 181.24
+  },
+  {
+   "start": 1059.24,
+   "end": 1071.88,
+   "text": "Those who fear Him like nothing, come near and listen, let the humble sing",
+   "avg_logprob": -0.381,
+   "no_speech_prob": 0.197,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 181.24,
+   "track_end": 193.88
+  },
+  {
+   "start": 1077.48,
+   "end": 1088.9,
+   "text": "Even when bones feel crushed and bruised, the Lord is near, His love still moves.",
+   "avg_logprob": -0.454,
+   "no_speech_prob": 0.493,
+   "track_id": "xkU1wrgAwt0#05",
+   "track_start": 199.48,
+   "track_end": 210.9
+  },
+  {
+   "start": 1124.38,
+   "end": 1136.12,
+   "text": "I live my eyes to the hills ahead Where does my help come when I'm filled with",
+   "avg_logprob": -0.42,
+   "no_speech_prob": 0.618,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 12.38,
+   "track_end": 24.12
+  },
+  {
+   "start": 1137.5,
+   "end": 1149.26,
+   "text": "My help comes from the Lord above Who made the heavens and walks in love",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 25.5,
+   "track_end": 37.26
+  },
+  {
+   "start": 1151.12,
+   "end": 1161.46,
+   "text": "He won't let my foot be moved He watches me with eyes that prove",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.541,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 39.12,
+   "track_end": 49.46
+  },
+  {
+   "start": 1162.7,
+   "end": 1174.12,
+   "text": "He don't slumber, he don't sleep He's the keeper of my steps so deep",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.538,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 50.7,
+   "track_end": 62.12
+  },
+  {
+   "start": 1179.14,
+   "end": 1189.78,
+   "text": "The Lord's my shade, and my right hand The sun won't scorch, the moon won't land",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.538,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 67.14,
+   "track_end": 77.78
+  },
+  {
+   "start": 1189.78,
+   "end": 1202.2,
+   "text": "No harm shall strike me by the day He guards my soul when I lose my way",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 77.78,
+   "track_end": 90.2
+  },
+  {
+   "start": 1203.78,
+   "end": 1214.74,
+   "text": "He'll keep me now and forevermore When I leave my home, I'll shut the door",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 91.78,
+   "track_end": 102.74
+  },
+  {
+   "start": 1214.74,
+   "end": 1226.86,
+   "text": "From this time for end ages gone He walks beside me through every song",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.655,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 102.74,
+   "track_end": 114.86
+  },
+  {
+   "start": 1228.74,
+   "end": 1238.96,
+   "text": "He won't let my foot be moved He watches me with eyes that prove",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.655,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 116.74,
+   "track_end": 126.96
+  },
+  {
+   "start": 1238.96,
+   "end": 1251.26,
+   "text": "He don't slumber, he don't sleep He's the keeper of my steps so deep",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.579,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 126.96,
+   "track_end": 139.26
+  },
+  {
+   "start": 1256.2,
+   "end": 1263.94,
+   "text": "So I keep walking, no need to fret My arms from Zion",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.579,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 144.2,
+   "track_end": 151.94
+  },
+  {
+   "start": 1266.24,
+   "end": 1269.3,
+   "text": "He ain't failed me yet",
+   "avg_logprob": -0.622,
+   "no_speech_prob": 0.517,
+   "track_id": "xkU1wrgAwt0#06",
+   "track_start": 154.24,
+   "track_end": 157.3
+  },
+  {
+   "start": 1337.26,
+   "end": 1344.72,
+   "text": "I've been searching night and day for grace",
+   "avg_logprob": -0.79,
+   "no_speech_prob": 0.528,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 20.26,
+   "track_end": 27.72
+  },
+  {
+   "start": 1344.72,
+   "end": 1358.14,
+   "text": "Sorrow in my heart, tears in my bed Enemies laughing, thinking I'm dead",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.622,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 27.72,
+   "track_end": 41.14
+  },
+  {
+   "start": 1359.72,
+   "end": 1372.82,
+   "text": "But I will trust in your unfailing love Though I'm down low, you lift me above",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.622,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 42.72,
+   "track_end": 55.82
+  },
+  {
+   "start": 1372.82,
+   "end": 1388.5,
+   "text": "My heart will sing, yes I still rejoice Even in silence I hear your voice",
+   "avg_logprob": -0.455,
+   "no_speech_prob": 0.638,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 55.82,
+   "track_end": 71.5
+  },
+  {
+   "start": 1395.1,
+   "end": 1401.88,
+   "text": "How long must I wrestle with this pain?",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.625,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 78.1,
+   "track_end": 84.88
+  },
+  {
+   "start": 1403.06,
+   "end": 1409.58,
+   "text": "Feeling forgotten in the pouring rain?",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.625,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 86.06,
+   "track_end": 92.58
+  },
+  {
+   "start": 1409.58,
+   "end": 1416.28,
+   "text": "Eyes grow weary, soul feels torn",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.578,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 92.58,
+   "track_end": 99.28
+  },
+  {
+   "start": 1417.58,
+   "end": 1423.5,
+   "text": "Still I remember why I was born",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.578,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 100.58,
+   "track_end": 106.5
+  },
+  {
+   "start": 1424.58,
+   "end": 1431.74,
+   "text": "Look on me, Lord, give light to my eyes",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.578,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 107.58,
+   "track_end": 114.74
+  },
+  {
+   "start": 1431.74,
+   "end": 1445.34,
+   "text": "Don't let death be my last disguise Let them not say he's lost the fight",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.528,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 114.74,
+   "track_end": 128.34
+  },
+  {
+   "start": 1446.74,
+   "end": 1460.46,
+   "text": "I'll rise again in mercy's light But I will trust in your unfailing love",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.528,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 129.74,
+   "track_end": 143.46
+  },
+  {
+   "start": 1460.46,
+   "end": 1466.52,
+   "text": "Though I'm down low, you lift me above",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 143.46,
+   "track_end": 149.52
+  },
+  {
+   "start": 1467.46,
+   "end": 1474.48,
+   "text": "My heart will sing, yes I still rejoice",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 150.46,
+   "track_end": 157.48
+  },
+  {
+   "start": 1475.46,
+   "end": 1481.36,
+   "text": "Even in silence I hear your voice",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 158.46,
+   "track_end": 164.36
+  },
+  {
+   "start": 1482.46,
+   "end": 1488.68,
+   "text": "I will praise you for all you've done",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.671,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 165.46,
+   "track_end": 171.68
+  },
+  {
+   "start": 1488.68,
+   "end": 1494.92,
+   "text": "Even in blues the battles won",
+   "avg_logprob": -0.518,
+   "no_speech_prob": 0.662,
+   "track_id": "xkU1wrgAwt0#07",
+   "track_start": 171.68,
+   "track_end": 177.92
+  },
+  {
+   "start": 1526.82,
+   "end": 1533.56,
+   "text": "You search me Lord and you know me well",
+   "avg_logprob": -0.654,
+   "no_speech_prob": 0.262,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 10.82,
+   "track_end": 17.56
+  },
+  {
+   "start": 1536.92,
+   "end": 1543.56,
+   "text": "Every word I speak you can't foretell",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.373,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 20.92,
+   "track_end": 27.56
+  },
+  {
+   "start": 1546.56,
+   "end": 1551.54,
+   "text": "You hem me in behind before",
+   "avg_logprob": -0.429,
+   "no_speech_prob": 0.373,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 30.56,
+   "track_end": 35.54
+  },
+  {
+   "start": 1555.4,
+   "end": 1561.24,
+   "text": "Your hand still leads me to the shore",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.686,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 39.4,
+   "track_end": 45.24
+  },
+  {
+   "start": 1564.32,
+   "end": 1571.24,
+   "text": "Where can I go where you're not near?",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.686,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 48.32,
+   "track_end": 55.24
+  },
+  {
+   "start": 1572.42,
+   "end": 1576.54,
+   "text": "From highest heights to valleys clear",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.686,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 56.42,
+   "track_end": 60.54
+  },
+  {
+   "start": 1576.54,
+   "end": 1582.74,
+   "text": "Even in darkness you see bright",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.465,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 60.54,
+   "track_end": 66.74
+  },
+  {
+   "start": 1583.54,
+   "end": 1590.42,
+   "text": "You carry me through day and night",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.465,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 67.54,
+   "track_end": 74.42
+  },
+  {
+   "start": 1595.4,
+   "end": 1602.4,
+   "text": "You formed my frame in secret ways",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.465,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 79.4,
+   "track_end": 86.4
+  },
+  {
+   "start": 1606.54,
+   "end": 1612.7,
+   "text": "Wrote all my days before my days",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.05,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 90.54,
+   "track_end": 96.7
+  },
+  {
+   "start": 1615.54,
+   "end": 1622.2,
+   "text": "I praise You, Lord, for I'm fearfully made",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.05,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 99.54,
+   "track_end": 106.2
+  },
+  {
+   "start": 1625.54,
+   "end": 1631.68,
+   "text": "By hands of love that never fade",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.05,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 109.54,
+   "track_end": 115.68
+  },
+  {
+   "start": 1633.4,
+   "end": 1646.34,
+   "text": "Your thoughts about me, they overflow More than the sand, more than I know",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.694,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 117.4,
+   "track_end": 130.34
+  },
+  {
+   "start": 1646.34,
+   "end": 1661.68,
+   "text": "If I should rise on morning's way You'd still be there, my everything",
+   "avg_logprob": -0.497,
+   "no_speech_prob": 0.562,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 130.34,
+   "track_end": 145.68
+  },
+  {
+   "start": 1665.44,
+   "end": 1677.86,
+   "text": "Where can I go where you're not near From highest heights to valleys clear",
+   "avg_logprob": -0.437,
+   "no_speech_prob": 0.61,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 149.44,
+   "track_end": 161.86
+  },
+  {
+   "start": 1677.86,
+   "end": 1690.86,
+   "text": "Even in darkness you see bright You carry me through day and night",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.453,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 161.86,
+   "track_end": 174.86
+  },
+  {
+   "start": 1693.84,
+   "end": 1700.2,
+   "text": "Search me God and know my heart",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.366,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 177.84,
+   "track_end": 184.2
+  },
+  {
+   "start": 1700.86,
+   "end": 1705.94,
+   "text": "Guide me in ways that won't depart",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.366,
+   "track_id": "xkU1wrgAwt0#08",
+   "track_start": 184.86,
+   "track_end": 189.94
+  },
+  {
+   "start": 1738.88,
+   "end": 1745.86,
+   "text": "Here my cry, oh Lord, my rock, don't turn away.",
+   "avg_logprob": -0.584,
+   "no_speech_prob": 0.422,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 22.88,
+   "track_end": 29.86
+  },
+  {
+   "start": 1751.12,
+   "end": 1759.84,
+   "text": "If you stay silent I'll fade to the grave",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.501,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 35.12,
+   "track_end": 43.84
+  },
+  {
+   "start": 1763.96,
+   "end": 1782.56,
+   "text": "I lift my hands to walk your holy place Longing for mercy for the light of your face",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.663,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 47.96,
+   "track_end": 66.56
+  },
+  {
+   "start": 1790.86,
+   "end": 1791.82,
+   "text": "Please",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 74.86,
+   "track_end": 75.82
+  },
+  {
+   "start": 1792.4,
+   "end": 1794.5,
+   "text": "Don't drag me down",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 76.4,
+   "track_end": 78.5
+  },
+  {
+   "start": 1795.4,
+   "end": 1797.4,
+   "text": "with the hearts of stone",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 79.4,
+   "track_end": 81.4
+  },
+  {
+   "start": 1798.52,
+   "end": 1800.76,
+   "text": "Those who speak peace",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 82.52,
+   "track_end": 84.76
+  },
+  {
+   "start": 1801.32,
+   "end": 1803.64,
+   "text": "But their seeds are sown",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 85.32,
+   "track_end": 87.64
+  },
+  {
+   "start": 1804.64,
+   "end": 1806.96,
+   "text": "With trouble and lies",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 88.64,
+   "track_end": 90.96
+  },
+  {
+   "start": 1807.72,
+   "end": 1810.14,
+   "text": "Lord repay them right",
+   "avg_logprob": -0.466,
+   "no_speech_prob": 0.633,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 91.72,
+   "track_end": 94.14
+  },
+  {
+   "start": 1810.14,
+   "end": 1816.1,
+   "text": "For you are my strength, my saving light",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.587,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 94.14,
+   "track_end": 100.1
+  },
+  {
+   "start": 1828.7,
+   "end": 1834.52,
+   "text": "Blessed be the Lord, He has heard my plea",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.587,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 112.7,
+   "track_end": 118.52
+  },
+  {
+   "start": 1834.52,
+   "end": 1839.9,
+   "text": "He is my shield, my sure victory",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 118.52,
+   "track_end": 123.9
+  },
+  {
+   "start": 1841.04,
+   "end": 1847.44,
+   "text": "The hearts of His people, He lives, He defends",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 125.04,
+   "track_end": 131.44
+  },
+  {
+   "start": 1847.44,
+   "end": 1853.58,
+   "text": "I shepherd forever to the very end",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 131.44,
+   "track_end": 137.58
+  },
+  {
+   "start": 1853.58,
+   "end": 1859.28,
+   "text": "Save your flock, Lord, carry us through",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.634,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 137.58,
+   "track_end": 143.28
+  },
+  {
+   "start": 1859.28,
+   "end": 1868.44,
+   "text": "Lead us forever faithful and true In every storm",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.664,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 143.28,
+   "track_end": 152.44
+  },
+  {
+   "start": 1869.28,
+   "end": 1877.9,
+   "text": "In the darkest night Hold us close in your guiding light",
+   "avg_logprob": -0.339,
+   "no_speech_prob": 0.664,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 153.28,
+   "track_end": 161.9
+  },
+  {
+   "start": 1881.32,
+   "end": 1887.12,
+   "text": "Don't drag me down with the hearts of stone",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 165.32,
+   "track_end": 171.12
+  },
+  {
+   "start": 1887.9,
+   "end": 1893.26,
+   "text": "Those who speak peace but their seeds are sown",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 171.9,
+   "track_end": 177.26
+  },
+  {
+   "start": 1893.9,
+   "end": 1899.58,
+   "text": "With trouble and lies, Lord repay them right",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 177.9,
+   "track_end": 183.58
+  },
+  {
+   "start": 1899.58,
+   "end": 1905.38,
+   "text": "For You are my strength, my saving light",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.717,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 183.58,
+   "track_end": 189.38
+  },
+  {
+   "start": 1905.38,
+   "end": 1914.52,
+   "text": "You are my rock Forever my song",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.727,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 189.38,
+   "track_end": 198.52
+  },
+  {
+   "start": 1918.38,
+   "end": 1927.8,
+   "text": "You are my rock Forever my song",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.727,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 202.38,
+   "track_end": 211.8
+  },
+  {
+   "start": 1968.58,
+   "end": 1969.98,
+   "text": "you",
+   "avg_logprob": -0.651,
+   "no_speech_prob": 0.892,
+   "track_id": "xkU1wrgAwt0#09",
+   "track_start": 252.58,
+   "track_end": 253.98
+  },
+  {
+   "start": 1980.72,
+   "end": 1995.68,
+   "text": "I can do that pants for water Lord I'm dry My soul is crying I can't tell you why",
+   "avg_logprob": -0.563,
+   "no_speech_prob": 0.51,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 10.72,
+   "track_end": 25.68
+  },
+  {
+   "start": 1998.24,
+   "end": 2004.14,
+   "text": "Tears have been my food both day and night",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.732,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 28.24,
+   "track_end": 34.14
+  },
+  {
+   "start": 2005.9,
+   "end": 2012.38,
+   "text": "While they say, where's your God in all his fight",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.732,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 35.9,
+   "track_end": 42.38
+  },
+  {
+   "start": 2014.26,
+   "end": 2021.02,
+   "text": "Oh my soul, why are you down so low",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.732,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 44.26,
+   "track_end": 51.02
+  },
+  {
+   "start": 2022.98,
+   "end": 2029.18,
+   "text": "Hoping God, He won't let go",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 52.98,
+   "track_end": 59.18
+  },
+  {
+   "start": 2030.66,
+   "end": 2037.52,
+   "text": "I shall yet praise the one who saves",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 60.66,
+   "track_end": 67.52
+  },
+  {
+   "start": 2038.02,
+   "end": 2046.22,
+   "text": "He lifts me up from these heavy waves",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 68.02,
+   "track_end": 76.22
+  },
+  {
+   "start": 2047.84,
+   "end": 2053.56,
+   "text": "Deep calls through deep in the roar of flood",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.546,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 77.84,
+   "track_end": 83.56
+  },
+  {
+   "start": 2055.38,
+   "end": 2062.0,
+   "text": "My heart is shaking, but I trust His blood",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.546,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 85.38,
+   "track_end": 92.0
+  },
+  {
+   "start": 2063.74,
+   "end": 2070.38,
+   "text": "By day He commands His love to shine",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.546,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 93.74,
+   "track_end": 100.38
+  },
+  {
+   "start": 2071.98,
+   "end": 2079.38,
+   "text": "That night is song is a friend of mine",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.723,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 101.98,
+   "track_end": 109.38
+  },
+  {
+   "start": 2088.92,
+   "end": 2094.84,
+   "text": "Slaught like a tar echo in the weeping tone",
+   "avg_logprob": -0.618,
+   "no_speech_prob": 0.723,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 118.92,
+   "track_end": 124.84
+  },
+  {
+   "start": 2096.26,
+   "end": 2101.74,
+   "text": "I say to God, why have you forgotten me?",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.71,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 126.26,
+   "track_end": 131.74
+  },
+  {
+   "start": 2105.34,
+   "end": 2111.14,
+   "text": "But still I walk with faith through mystery",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.71,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 135.34,
+   "track_end": 141.14
+  },
+  {
+   "start": 2112.76,
+   "end": 2119.72,
+   "text": "My enemies mark my bones feel weak",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.71,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 142.76,
+   "track_end": 149.72
+  },
+  {
+   "start": 2121.4,
+   "end": 2127.72,
+   "text": "Yeah, I will stand and I will speak",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 151.4,
+   "track_end": 157.72
+  },
+  {
+   "start": 2130.06,
+   "end": 2136.68,
+   "text": "Oh, my soul, why you down so low",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 160.06,
+   "track_end": 166.68
+  },
+  {
+   "start": 2139.16,
+   "end": 2144.9,
+   "text": "Hoping God, he won't let go",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.749,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 169.16,
+   "track_end": 174.9
+  },
+  {
+   "start": 2144.9,
+   "end": 2153.12,
+   "text": "I shall yet praise the one who saves",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.715,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 174.9,
+   "track_end": 183.12
+  },
+  {
+   "start": 2154.9,
+   "end": 2161.74,
+   "text": "He lifts me up from these heavy waves",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.715,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 184.9,
+   "track_end": 191.74
+  },
+  {
+   "start": 2162.9,
+   "end": 2169.26,
+   "text": "My rock, my God, those storms may sweep",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.715,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 192.9,
+   "track_end": 199.26
+  },
+  {
+   "start": 2170.78,
+   "end": 2176.26,
+   "text": "I'll sing your name, my soul thirsty",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.531,
+   "track_id": "xkU1wrgAwt0#10",
+   "track_start": 200.78,
+   "track_end": 206.26
+  },
+  {
+   "start": 2233.06,
+   "end": 2240.94,
+   "text": "The heavens declare in the sky shall out",
+   "avg_logprob": -0.88,
+   "no_speech_prob": 0.314,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 18.06,
+   "track_end": 25.94
+  },
+  {
+   "start": 2240.94,
+   "end": 2255.68,
+   "text": "No words at all, yet they draw crowds From sunrise flame to the nighttime deep",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 25.94,
+   "track_end": 40.68
+  },
+  {
+   "start": 2256.94,
+   "end": 2262.28,
+   "text": "The voice of God, don't ever sleep",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.586,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 41.94,
+   "track_end": 47.28
+  },
+  {
+   "start": 2263.54,
+   "end": 2270.44,
+   "text": "Oh, the Lord, the Lord is perfect and true",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.506,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 48.54,
+   "track_end": 55.44
+  },
+  {
+   "start": 2272.28,
+   "end": 2276.92,
+   "text": "Reviving the soul like morning dew",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.506,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 57.28,
+   "track_end": 61.92
+  },
+  {
+   "start": 2279.28,
+   "end": 2285.02,
+   "text": "More precious than gold, more sweet than white",
+   "avg_logprob": -0.289,
+   "no_speech_prob": 0.506,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 64.28,
+   "track_end": 70.02
+  },
+  {
+   "start": 2285.02,
+   "end": 2292.34,
+   "text": "His word is honey from the holy vine",
+   "avg_logprob": -0.667,
+   "no_speech_prob": 0.583,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 70.02,
+   "track_end": 77.34
+  },
+  {
+   "start": 2308.14,
+   "end": 2313.78,
+   "text": "The fear of the Lord is clean and bright",
+   "avg_logprob": -0.517,
+   "no_speech_prob": 0.356,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 93.14,
+   "track_end": 98.78
+  },
+  {
+   "start": 2315.2,
+   "end": 2321.3,
+   "text": "It opens my eyes, it gives me sight",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.488,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 100.2,
+   "track_end": 106.3
+  },
+  {
+   "start": 2321.3,
+   "end": 2328.76,
+   "text": "By them I'm a warrior, by them I shine",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.488,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 106.3,
+   "track_end": 113.76
+  },
+  {
+   "start": 2328.76,
+   "end": 2336.02,
+   "text": "He keeps me upright, time after time",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.488,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 113.76,
+   "track_end": 121.02
+  },
+  {
+   "start": 2338.78,
+   "end": 2342.78,
+   "text": "Who can see the sin head down below?",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.296,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 123.78,
+   "track_end": 127.78
+  },
+  {
+   "start": 2346.02,
+   "end": 2350.44,
+   "text": "Cleanse me Lord from the things I don't know",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.296,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 131.02,
+   "track_end": 135.44
+  },
+  {
+   "start": 2351.78,
+   "end": 2357.96,
+   "text": "Let the words of my mouth, the meditations inside",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.296,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 136.78,
+   "track_end": 142.96
+  },
+  {
+   "start": 2357.96,
+   "end": 2366.16,
+   "text": "Be pleasing to you, my rock, my guide",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 142.96,
+   "track_end": 151.16
+  },
+  {
+   "start": 2366.96,
+   "end": 2373.5,
+   "text": "Oh, the law of the law is perfect and true",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 151.96,
+   "track_end": 158.5
+  },
+  {
+   "start": 2373.5,
+   "end": 2379.84,
+   "text": "Reviving the soul like morning dew",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 158.5,
+   "track_end": 164.84
+  },
+  {
+   "start": 2379.84,
+   "end": 2384.0,
+   "text": "More precious than gold",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.712,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 164.84,
+   "track_end": 169.0
+  },
+  {
+   "start": 2384.0,
+   "end": 2391.16,
+   "text": "More sweet than wine His word is honey",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 169.0,
+   "track_end": 176.16
+  },
+  {
+   "start": 2392.32,
+   "end": 2398.58,
+   "text": "From the holy vine The skies may roll",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 177.32,
+   "track_end": 183.58
+  },
+  {
+   "start": 2399.72,
+   "end": 2406.0,
+   "text": "But I'll still sing To the maker, the judge",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 184.72,
+   "track_end": 191.0
+  },
+  {
+   "start": 2407.16,
+   "end": 2409.06,
+   "text": "My everything",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.447,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 192.16,
+   "track_end": 194.06
+  },
+  {
+   "start": 2447.58,
+   "end": 2448.98,
+   "text": "you",
+   "avg_logprob": -0.858,
+   "no_speech_prob": 0.87,
+   "track_id": "xkU1wrgAwt0#11",
+   "track_start": 232.58,
+   "track_end": 233.98
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "track_id": "_ycC4y-4sYo#09",
+ "track_key": "_ycC4y-4sYo__09",
+ "video_id": "_ycC4y-4sYo",
+ "title": "Victory",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 287.0,
+ "voiced_sec": 207.0,
+ "voice_ratio": 0.721,
+ "n_words": 280,
+ "words_per_min": 58.5,
+ "is_instrumental": false,
+ "n_segments": 33,
+ "n_segments_voiced": 33,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 38.4,
+ "rtf": 0.134,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "And the darkness has not overcome it.",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 9.4,
+   "end": 15.88,
+   "text": "Save, fall, like lightning from heaven.",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 16.64,
+   "end": 22.2,
+   "text": "The accuser of our brethren who accused them",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 22.2,
+   "end": 25.82,
+   "text": "before our God day and night.",
+   "avg_logprob": -0.471,
+   "no_speech_prob": 0.062,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 30.14,
+   "end": 33.94,
+   "text": "has been cast down.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 40.0,
+   "end": 42.92,
+   "text": "In the blood of Jesus,",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 44.28,
+   "end": 46.88,
+   "text": "Satan I rebuke you.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 47.44,
+   "end": 50.54,
+   "text": "In the name of Jesus,",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 51.18,
+   "end": 54.28,
+   "text": "get behind me, Satan.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 55.1,
+   "end": 57.88,
+   "text": "You have been defeated.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 57.88,
+   "end": 64.12,
+   "text": "I have the victory, thank you Jesus, it is written.",
+   "avg_logprob": -0.632,
+   "no_speech_prob": 0.424,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 70.2,
+   "end": 83.46,
+   "text": "Behold, I give you the authority to trample on serpents and scorpions.",
+   "avg_logprob": -0.439,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 84.86,
+   "end": 99.0,
+   "text": "And over all the power of the enemy And nothing shall by any means hurt you",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.646,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 99.0,
+   "end": 102.56,
+   "text": "Victory is written",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 107.0,
+   "end": 110.88,
+   "text": "Fight the good fight of faith",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 114.32,
+   "end": 118.9,
+   "text": "Scripture fast pray",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 121.0,
+   "end": 124.9,
+   "text": "Put the enemy in his place",
+   "avg_logprob": -0.416,
+   "no_speech_prob": 0.087,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 130.48,
+   "end": 139.02,
+   "text": "But on the whole armor of God that you may be able to stand against the wiles of the",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.327,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 139.02,
+   "end": 139.56,
+   "text": "devil.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.327,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 145.74,
+   "end": 153.16,
+   "text": "For we do not wrestle against flesh and blood, but against principalities, against powers,",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.327,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 153.16,
+   "end": 159.74,
+   "text": "against the rulers of the darkness of this age against spiritual hopes of",
+   "avg_logprob": -0.732,
+   "no_speech_prob": 0.472,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 159.74,
+   "end": 165.36,
+   "text": "wickedness in the heavenly places victory is",
+   "avg_logprob": -0.732,
+   "no_speech_prob": 0.472,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 170.52,
+   "end": 175.08,
+   "text": "fight the good fight a faith",
+   "avg_logprob": -0.732,
+   "no_speech_prob": 0.472,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 178.72,
+   "end": 190.72,
+   "text": "Scripture fast pray Put the enemy in his place",
+   "avg_logprob": -0.713,
+   "no_speech_prob": 0.511,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 195.34,
+   "end": 203.5,
+   "text": "Take the sword of the spirit which is the Word of God.",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.389,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 205.2,
+   "end": 212.12,
+   "text": "Therefore submit to God, resist the devil and he will flee from you.",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.389,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 212.12,
+   "end": 224.74,
+   "text": "The Lord will fight for you and you shall hold your peace.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.159,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 225.96,
+   "end": 237.14,
+   "text": "No weapon formed against you shall prosper and every tongue which rises against you in",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.159,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 237.14,
+   "end": 255.46,
+   "text": "judgment you shall condemn greater is he who is in you than he who is in the world.",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.248,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 264.72,
+   "end": 265.44,
+   "text": "ougigh",
+   "avg_logprob": -2.642,
+   "no_speech_prob": 0.175,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 265.44,
+   "end": 269.88,
+   "text": "Who givets us to victory through Our Lord Jesus Christ",
+   "avg_logprob": -2.642,
+   "no_speech_prob": 0.175,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 271.46,
+   "end": 275.98,
+   "text": "If God is't for us who can be against us",
+   "avg_logprob": -2.642,
+   "no_speech_prob": 0.175,
+   "track_id": "_ycC4y-4sYo#09"
+  },
+  {
+   "start": 277.42,
+   "end": 285.72,
+   "text": "The God of peace will crush Satan under your feet shortly.",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.502,
+   "track_id": "_ycC4y-4sYo#09"
+  }
+ ]
+}

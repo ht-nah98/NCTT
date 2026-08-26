@@ -1,0 +1,446 @@
+{
+ "track_id": "rBwZv_dQf8A#12",
+ "track_key": "rBwZv_dQf8A__12",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Integrity Over Everything (Proverbs 20)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 250.0,
+ "voiced_sec": 156.7,
+ "voice_ratio": 0.627,
+ "n_words": 254,
+ "words_per_min": 61.0,
+ "is_instrumental": false,
+ "n_segments": 53,
+ "n_segments_voiced": 53,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 44.6,
+ "rtf": 0.178,
+ "segments": [
+  {
+   "start": 30.76,
+   "end": 40.94,
+   "text": "There's an honor to stay out of strife A fool keeps trouble close for life",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.603,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 43.0,
+   "end": 52.04,
+   "text": "A child's known by what he does You can't fake good fruit just because",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.603,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 53.7,
+   "end": 64.82,
+   "text": "The righteous man walks in his ways His children blessed all their days",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 66.44,
+   "end": 75.66,
+   "text": "Integrity is worth more than rings That's how the Lord measures kings",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.472,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 77.38,
+   "end": 77.66,
+   "text": "Injury",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 78.52,
+   "end": 79.66,
+   "text": "Over everything",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 80.28,
+   "end": 81.48,
+   "text": "That's a song",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 81.48,
+   "end": 83.38,
+   "text": "The righteous sing",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 83.38,
+   "end": 84.56,
+   "text": "Don't chase gold",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 84.56,
+   "end": 86.14,
+   "text": "Or fools applaud",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 86.14,
+   "end": 89.48,
+   "text": "Walking truth, obey God's law",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 99.86,
+   "end": 103.92,
+   "text": "Bread of deceit may taste so sweet",
+   "avg_logprob": -0.418,
+   "no_speech_prob": 0.641,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 105.66,
+   "end": 109.66,
+   "text": "But gravel's waitin' under your feet",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.261,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 111.32,
+   "end": 115.84,
+   "text": "Don't say I'll pay that man back twice",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.261,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 117.04,
+   "end": 121.82,
+   "text": "Let the Lord handle wrong and right",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.261,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 122.66,
+   "end": 126.86,
+   "text": "The man steps come from the Lord above",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.261,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 128.38,
+   "end": 132.68,
+   "text": "He orders them all in mercy and love",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.261,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 134.0,
+   "end": 139.66,
+   "text": "So walk with clean hands, guard your name",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 140.68,
+   "end": 145.04,
+   "text": "Wisdom wins when the world plays games",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 146.38,
+   "end": 148.88,
+   "text": "Integrity over everything",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 148.88,
+   "end": 150.18,
+   "text": "That's the song",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 150.18,
+   "end": 151.96,
+   "text": "You're righteous and",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 151.96,
+   "end": 153.04,
+   "text": "Go chase, go",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 153.04,
+   "end": 154.66,
+   "text": "Oh fools applause",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 154.66,
+   "end": 157.66,
+   "text": "Walking truth, obey God's law",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 157.66,
+   "end": 160.14,
+   "text": "Integrity over everything",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 160.68,
+   "end": 161.58,
+   "text": "That's the song",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.716,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 161.58,
+   "end": 165.94,
+   "text": "Righteous saying, don't chase though, or fools applause",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.502,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 165.94,
+   "end": 169.18,
+   "text": "Walking truth, though, they got a law",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.502,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 169.18,
+   "end": 174.32,
+   "text": "Ooh, ooh, stay humble when the road gets tough",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.502,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 174.88,
+   "end": 179.58,
+   "text": "Ooh, ooh, integrity is more than just enough",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.502,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 181.36,
+   "end": 185.8,
+   "text": "Ooh, ooh, keep your word, let your yes mean, yeah",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.502,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 185.8,
+   "end": 188.84,
+   "text": "Ooh, ooh-ooh-ooh, ooh, ooh, ooh.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 188.84,
+   "end": 192.8,
+   "text": "God sees the heart that He can bled.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 194.92,
+   "end": 195.68,
+   "text": "Conspiracy!",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 196.08,
+   "end": 197.48,
+   "text": "Over everything.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 197.74,
+   "end": 198.22,
+   "text": "That's all.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 198.84,
+   "end": 200.16,
+   "text": "The righteous sing.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 200.28,
+   "end": 203.42,
+   "text": "You can't make peace over that ring.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 204.16,
+   "end": 205.4,
+   "text": "Wa-wa-wa-wa-wa-wa.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 205.96,
+   "end": 206.72,
+   "text": "Conspiracy!",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 207.56,
+   "end": 209.08,
+   "text": "Ooh-ooh-ooh-ooh, ooh-ooh-ooh.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 209.08,
+   "end": 209.46,
+   "text": "The ball.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 211.48,
+   "end": 214.7,
+   "text": "You can't make peace over that ring.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 214.8,
+   "end": 215.78,
+   "text": "Wa-wa-wa-wa-wa-wa.",
+   "avg_logprob": -0.899,
+   "no_speech_prob": 0.794,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 215.78,
+   "end": 219.78,
+   "text": "Keep your heart clean.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.822,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 221.4,
+   "end": 222.44,
+   "text": "Inseparity.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.822,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 225.6,
+   "end": 227.0,
+   "text": "Inseparity.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.822,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 227.78,
+   "end": 228.22,
+   "text": "Inseparity.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.822,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 229.46,
+   "end": 230.86,
+   "text": "Inseparity.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.822,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 232.36,
+   "end": 233.76,
+   "text": "Inseparity.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.822,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 244.36,
+   "end": 245.76,
+   "text": "Inseparity.",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.822,
+   "track_id": "rBwZv_dQf8A#12"
+  },
+  {
+   "start": 245.76,
+   "end": 246.62,
+   "text": "everything",
+   "avg_logprob": -0.94,
+   "no_speech_prob": 0.553,
+   "track_id": "rBwZv_dQf8A#12"
+  }
+ ]
+}

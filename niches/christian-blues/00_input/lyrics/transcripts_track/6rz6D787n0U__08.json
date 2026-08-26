@@ -1,0 +1,134 @@
+{
+ "track_id": "6rz6D787n0U#08",
+ "track_key": "6rz6D787n0U__08",
+ "video_id": "6rz6D787n0U",
+ "title": "8. Psalm 40 – Out of the Pit",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 229.0,
+ "voiced_sec": 134.2,
+ "voice_ratio": 0.586,
+ "n_words": 169,
+ "words_per_min": 44.3,
+ "is_instrumental": false,
+ "n_segments": 14,
+ "n_segments_voiced": 14,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.2,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 24.96,
+   "end": 28.9,
+   "text": "I waited patiently for the Lord",
+   "avg_logprob": -0.628,
+   "no_speech_prob": 0.512,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 30.26,
+   "end": 36.06,
+   "text": "He turned to me, heard every word",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.452,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 39.42,
+   "end": 43.96,
+   "text": "Pulled me up from the pit so wide",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.452,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 43.96,
+   "end": 51.0,
+   "text": "Out of the mud, now I stand with pride",
+   "avg_logprob": -0.288,
+   "no_speech_prob": 0.452,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 53.08,
+   "end": 65.18,
+   "text": "He set my feet on solid ground Put a new song where despair was found",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.527,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 65.18,
+   "end": 79.32,
+   "text": "Many will see, many will fear, and trust the Lord who brought me here.",
+   "avg_logprob": -0.47,
+   "no_speech_prob": 0.371,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 81.96,
+   "end": 92.94,
+   "text": "Blessed is the one who won't turn aside To lies and pride, to the shifting tide",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.533,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 96.92,
+   "end": 107.26,
+   "text": "Your wonders, Lord, are too many to name No one compares, you're not the same",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.533,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 111.46,
+   "end": 122.76,
+   "text": "Sacrifice and offering you did not see But a heart wide open, humble enemy",
+   "avg_logprob": -0.451,
+   "no_speech_prob": 0.578,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 124.9,
+   "end": 136.28,
+   "text": "I said here I am, and I won't delay I'll show your truth in the light of day",
+   "avg_logprob": -0.358,
+   "no_speech_prob": 0.664,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 168.74,
+   "end": 173.8,
+   "text": "He said my feet on solid ground",
+   "avg_logprob": -0.614,
+   "no_speech_prob": 0.376,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 176.84,
+   "end": 188.54,
+   "text": "Put a new song where the spare was found Many will see, many will fear",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.645,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 188.54,
+   "end": 201.2,
+   "text": "And trust the Lord who brought me here I was stuck in the blues",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.645,
+   "track_id": "6rz6D787n0U#08"
+  },
+  {
+   "start": 201.2,
+   "end": 214.42,
+   "text": "But now I sing To the one who lifts from everything",
+   "avg_logprob": -0.579,
+   "no_speech_prob": 0.538,
+   "track_id": "6rz6D787n0U#08"
+  }
+ ]
+}

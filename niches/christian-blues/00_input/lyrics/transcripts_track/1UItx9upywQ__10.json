@@ -1,0 +1,254 @@
+{
+ "track_id": "1UItx9upywQ#10",
+ "track_key": "1UItx9upywQ__10",
+ "video_id": "1UItx9upywQ",
+ "title": "\"My Rock, My Rescue\" - Psalm 18",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 205.0,
+ "voiced_sec": 133.2,
+ "voice_ratio": 0.65,
+ "n_words": 162,
+ "words_per_min": 47.4,
+ "is_instrumental": false,
+ "n_segments": 29,
+ "n_segments_voiced": 26,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 17.7,
+ "rtf": 0.086,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.92,
+   "text": "🎵",
+   "avg_logprob": -0.793,
+   "no_speech_prob": 0.575,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 20.38,
+   "end": 28.0,
+   "text": "🎵 Stone walls closing in, shadows bred 🎵",
+   "avg_logprob": -0.793,
+   "no_speech_prob": 0.575,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 28.04,
+   "end": 35.84,
+   "text": "The air is thin, falling fast, sinking low",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.827,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 35.84,
+   "end": 42.52,
+   "text": "Where to turn, where to go",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.827,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 44.04,
+   "end": 54.92,
+   "text": "My rock, my rescue, my shield, my song, my song",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.827,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 54.92,
+   "end": 56.76,
+   "text": "You lifted me up",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 56.76,
+   "end": 58.9,
+   "text": "Made me strong",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 58.9,
+   "end": 60.46,
+   "text": "Made me strong",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 60.46,
+   "end": 63.52,
+   "text": "My rock, my rescue",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 63.52,
+   "end": 65.68,
+   "text": "Forever true",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 65.68,
+   "end": 68.4,
+   "text": "I was lost",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 68.4,
+   "end": 70.68,
+   "text": "But I found you",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 74.92,
+   "end": 77.06,
+   "text": "Storm cloud rolled",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 77.92,
+   "end": 79.68,
+   "text": "The thunder cries",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 80.92,
+   "end": 82.36,
+   "text": "Lightning splits",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.624,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 82.36,
+   "end": 89.58,
+   "text": "Ooh, the weeping skies, the deep waters rise pulling me down",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 89.58,
+   "end": 95.3,
+   "text": "But your hand reach turned me around",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 95.3,
+   "end": 100.88,
+   "text": "Shouting loud, let the heavens know",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 100.88,
+   "end": 106.86,
+   "text": "Your mercy runs it overflows",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.651,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 106.86,
+   "end": 124.1,
+   "text": "My rock, my rock, my rescue, my shield, my shield, my song, my song, you lifted me up, made me strong, made me strong",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.723,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 124.1,
+   "end": 131.26,
+   "text": "My rock, my rescue, forever true, I was lost",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.307,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 132.1,
+   "end": 141.78,
+   "text": "But I found you, oh, for the chains they shattered gone",
+   "avg_logprob": -0.359,
+   "no_speech_prob": 0.307,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 143.06,
+   "end": 147.3,
+   "text": "Your love keeps pushing me along",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.645,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 148.78,
+   "end": 153.38,
+   "text": "Every fear, every doubt erases",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.645,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 153.38,
+   "end": 160.96,
+   "text": "I'm alive, alive by grace",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.645,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 163.86,
+   "end": 167.06,
+   "text": "Somebody put a man by grace",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.645,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 178.42,
+   "end": 179.82,
+   "text": "music",
+   "avg_logprob": -0.584,
+   "no_speech_prob": 0.918,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 183.76,
+   "end": 185.16,
+   "text": "music",
+   "avg_logprob": -0.584,
+   "no_speech_prob": 0.918,
+   "track_id": "1UItx9upywQ#10"
+  },
+  {
+   "start": 185.16,
+   "end": 185.48,
+   "text": "music",
+   "avg_logprob": -0.584,
+   "no_speech_prob": 0.918,
+   "track_id": "1UItx9upywQ#10"
+  }
+ ]
+}

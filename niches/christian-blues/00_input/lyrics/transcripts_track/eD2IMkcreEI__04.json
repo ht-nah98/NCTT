@@ -1,0 +1,310 @@
+{
+ "track_id": "eD2IMkcreEI#04",
+ "track_key": "eD2IMkcreEI__04",
+ "video_id": "eD2IMkcreEI",
+ "title": "Closer To You",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 204.0,
+ "voiced_sec": 160.8,
+ "voice_ratio": 0.788,
+ "n_words": 259,
+ "words_per_min": 76.2,
+ "is_instrumental": false,
+ "n_segments": 36,
+ "n_segments_voiced": 36,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.0,
+ "rtf": 0.049,
+ "segments": [
+  {
+   "start": 16.3,
+   "end": 24.7,
+   "text": "I just wanna be close, closer to you",
+   "avg_logprob": -0.672,
+   "no_speech_prob": 0.688,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 24.7,
+   "end": 28.34,
+   "text": "Woke up this morning with the weight on my sword",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.197,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 28.34,
+   "end": 32.66,
+   "text": "Tryna find peace in a well-gone cold",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.197,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 32.66,
+   "end": 37.18,
+   "text": "But then I hear you whisper in the silence of the room",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.197,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 37.18,
+   "end": 41.56,
+   "text": "Saying, come back home, my child is still room",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.197,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 41.56,
+   "end": 46.02,
+   "text": "Every breath I take, you're drawing me in",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.197,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 46.02,
+   "end": 50.3,
+   "text": "Through the storms and pain, you've always been",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.197,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 50.3,
+   "end": 53.8,
+   "text": "My shelter, my healer, my truth",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.523,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 54.3,
+   "end": 60.38,
+   "text": "Lord, I just wanna move closer to You",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.523,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 62.34,
+   "end": 64.8,
+   "text": "I'm reaching for Your light",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.523,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 64.8,
+   "end": 67.04,
+   "text": "Raking through the night",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.523,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 67.04,
+   "end": 69.7,
+   "text": "Closer to You",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.523,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 69.7,
+   "end": 71.56,
+   "text": "Take me higher, Lord",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.523,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 71.56,
+   "end": 76.84,
+   "text": "Every tear I cried, You turned into fire inside",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.523,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 78.74,
+   "end": 81.54,
+   "text": "Closer, closer, oh",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.616,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 81.54,
+   "end": 87.34,
+   "text": "Nothing in this world can fill me like you do",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.616,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 88.68,
+   "end": 92.26,
+   "text": "I just wanna be closer",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.616,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 94.7,
+   "end": 99.24,
+   "text": "I've chased empty dreams, try to stand on my own",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.616,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 99.84,
+   "end": 103.8,
+   "text": "But every time I fall, you lead me back home",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.616,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 103.8,
+   "end": 108.16,
+   "text": "Grace like a river, mercy like rain",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.638,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 108.16,
+   "end": 112.64,
+   "text": "You heal my heart and take away the shame",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.638,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 112.64,
+   "end": 116.8,
+   "text": "Take my hands, take my fears",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.638,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 117.38,
+   "end": 121.48,
+   "text": "All my doubts, all these years",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.638,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 121.48,
+   "end": 124.92,
+   "text": "You've been faithful through and through",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.638,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 124.92,
+   "end": 126.86,
+   "text": "I'm not turning back",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.638,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 126.86,
+   "end": 129.7,
+   "text": "No, this yours I realize",
+   "avg_logprob": -0.195,
+   "no_speech_prob": 0.638,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 132.74,
+   "end": 138.08,
+   "text": "You've been my peace, yeah, my everything",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.622,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 138.7,
+   "end": 143.7,
+   "text": "Closer to you, closer to you",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.622,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 147.42,
+   "end": 151.6,
+   "text": "Closer to you, yeah, yeah",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.622,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 151.6,
+   "end": 155.92,
+   "text": "I'm reaching for your light, getting through the night",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.622,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 155.92,
+   "end": 160.36,
+   "text": "Closer to you, take me there",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 160.36,
+   "end": 164.86,
+   "text": "Every tear I cried, you turned into fire",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 164.86,
+   "end": 169.8,
+   "text": "And so, closer to you, closer Lord I wanna be",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 169.8,
+   "end": 176.44,
+   "text": "Oh, nothing in this world can fill me like you do",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 177.92,
+   "end": 184.78,
+   "text": "I just wanna be closer to you",
+   "avg_logprob": -0.344,
+   "no_speech_prob": 0.758,
+   "track_id": "eD2IMkcreEI#04"
+  },
+  {
+   "start": 189.3,
+   "end": 199.76,
+   "text": "I just want to be closer to you.",
+   "avg_logprob": -0.661,
+   "no_speech_prob": 0.441,
+   "track_id": "eD2IMkcreEI#04"
+  }
+ ]
+}

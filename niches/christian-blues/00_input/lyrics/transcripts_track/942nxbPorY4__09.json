@@ -1,0 +1,462 @@
+{
+ "track_id": "942nxbPorY4#09",
+ "track_key": "942nxbPorY4__09",
+ "video_id": "942nxbPorY4",
+ "title": "Jireh",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 235.0,
+ "voiced_sec": 165.9,
+ "voice_ratio": 0.706,
+ "n_words": 218,
+ "words_per_min": 55.7,
+ "is_instrumental": false,
+ "n_segments": 55,
+ "n_segments_voiced": 55,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.5,
+ "rtf": 0.045,
+ "segments": [
+  {
+   "start": 4.08,
+   "end": 5.48,
+   "text": "Oh",
+   "avg_logprob": -0.832,
+   "no_speech_prob": 0.728,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 18.0,
+   "end": 21.36,
+   "text": "You've always been enough for me",
+   "avg_logprob": -0.832,
+   "no_speech_prob": 0.728,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 24.44,
+   "end": 28.22,
+   "text": "You are you are",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.786,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 28.84,
+   "end": 31.32,
+   "text": "When I had none",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.786,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 31.84,
+   "end": 34.9,
+   "text": "You were still there",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.786,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 34.9,
+   "end": 41.8,
+   "text": "Your love surrounded every prayer",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.786,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 41.8,
+   "end": 45.72,
+   "text": "Even in silence",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.786,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 45.72,
+   "end": 48.68,
+   "text": "You made a way",
+   "avg_logprob": -0.353,
+   "no_speech_prob": 0.786,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 48.68,
+   "end": 55.72,
+   "text": "And every need you made each day",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.743,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 55.72,
+   "end": 58.28,
+   "text": "Oh Lord, I see you working",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.743,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 58.28,
+   "end": 62.28,
+   "text": "You never failed me, never left me",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.743,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 62.28,
+   "end": 64.64,
+   "text": "Always right on time",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.743,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 65.68,
+   "end": 68.54,
+   "text": "You closed my heart with perfect peace",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.743,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 68.54,
+   "end": 71.7,
+   "text": "And turned my water into wine",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.743,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 72.68,
+   "end": 73.2,
+   "text": "Yeah",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.743,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 76.96,
+   "end": 83.88,
+   "text": "You are enough More than riches",
+   "avg_logprob": -0.752,
+   "no_speech_prob": 0.808,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 83.88,
+   "end": 90.82,
+   "text": "More than love Ever-reached here",
+   "avg_logprob": -0.752,
+   "no_speech_prob": 0.808,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 90.82,
+   "end": 96.96,
+   "text": "You've bottled up My provider",
+   "avg_logprob": -0.752,
+   "no_speech_prob": 0.808,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 96.96,
+   "end": 98.96,
+   "text": "I lift you up",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 98.96,
+   "end": 100.7,
+   "text": "Lift you up",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 100.7,
+   "end": 101.62,
+   "text": "Oh",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 102.96,
+   "end": 103.8,
+   "text": "Jorina",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 106.6,
+   "end": 108.0,
+   "text": "Chai",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 109.42,
+   "end": 110.82,
+   "text": "Jorina",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 114.96,
+   "end": 115.2,
+   "text": "Hmm",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 115.2,
+   "end": 118.5,
+   "text": "I've seen the valley",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 118.5,
+   "end": 121.42,
+   "text": "I've walked alone",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 122.96,
+   "end": 126.6,
+   "text": "But I was never wrong",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.768,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 126.96,
+   "end": 128.62,
+   "text": "My own",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 129.76,
+   "end": 132.32,
+   "text": "You feed the lilies",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 133.76,
+   "end": 135.32,
+   "text": "Dress the skies",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 136.7,
+   "end": 142.08,
+   "text": "So I know you will provide",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 143.0,
+   "end": 144.36,
+   "text": "Yes, you do",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 145.52,
+   "end": 147.98,
+   "text": "I don't worry about tomorrow",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 149.24,
+   "end": 151.58,
+   "text": "You hold it in your hand",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 152.52,
+   "end": 154.86,
+   "text": "I won't beg a borrow",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.83,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 154.86,
+   "end": 157.98,
+   "text": "You've already got a plan",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 159.86,
+   "end": 161.66,
+   "text": "You prepare a table",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 162.86,
+   "end": 166.14,
+   "text": "Even in my enemy's land",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 167.76,
+   "end": 171.4,
+   "text": "I will trust you",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 173.24,
+   "end": 175.06,
+   "text": "You are",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 175.06,
+   "end": 176.66,
+   "text": "You are enough",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 176.66,
+   "end": 178.6,
+   "text": "You are",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 178.6,
+   "end": 180.58,
+   "text": "A foretold father",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 180.58,
+   "end": 182.52,
+   "text": "Got a love",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.781,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 182.52,
+   "end": 185.7,
+   "text": "Oh, love, hold every mountain",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.842,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 188.02,
+   "end": 194.82,
+   "text": "You have moved, I will praise You",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.842,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 194.82,
+   "end": 200.96,
+   "text": "Lord, it's true, Jairah, your enough",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.842,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 204.02,
+   "end": 206.38,
+   "text": "You are, you are enough",
+   "avg_logprob": -0.601,
+   "no_speech_prob": 0.842,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 206.38,
+   "end": 207.88,
+   "text": "You're enough",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.557,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 207.88,
+   "end": 212.14,
+   "text": "I don't need the world to feel me",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.557,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 212.14,
+   "end": 214.88,
+   "text": "You're enough",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.557,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 214.88,
+   "end": 218.02,
+   "text": "Forever be",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.557,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 218.02,
+   "end": 221.5,
+   "text": "All I need is you",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.557,
+   "track_id": "942nxbPorY4#09"
+  },
+  {
+   "start": 225.9,
+   "end": 228.7,
+   "text": "You're enough",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.557,
+   "track_id": "942nxbPorY4#09"
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "track_id": "1UItx9upywQ#01",
+ "track_key": "1UItx9upywQ__01",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Light and Salvation\" - Psalm 27",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 177.0,
+ "voiced_sec": 90.4,
+ "voice_ratio": 0.51,
+ "n_words": 127,
+ "words_per_min": 43.0,
+ "is_instrumental": false,
+ "n_segments": 19,
+ "n_segments_voiced": 19,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 33.6,
+ "rtf": 0.19,
+ "segments": [
+  {
+   "start": 17.1,
+   "end": 27.62,
+   "text": "The Lord is my life and salvation A fire burning deep inside my chest",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.351,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 28.7,
+   "end": 36.62,
+   "text": "Enemies rise, shadows fall But I stand tall, I won't regress",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.647,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 37.64,
+   "end": 44.86,
+   "text": "Storms come, storms go But my heart won't bow",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.647,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 45.62,
+   "end": 53.6,
+   "text": "The Lord is my light and salvation My fortress, my strength, my declaration",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.647,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 53.6,
+   "end": 57.62,
+   "text": "The Lord is my life and salvation",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.728,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 57.62,
+   "end": 62.94,
+   "text": "I won't be afraid, no hesitation",
+   "avg_logprob": -0.436,
+   "no_speech_prob": 0.728,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 62.94,
+   "end": 64.72,
+   "text": "player",
+   "avg_logprob": -1.561,
+   "no_speech_prob": 0.569,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 80.54,
+   "end": 82.84,
+   "text": "Wicked ones try to devour",
+   "avg_logprob": -1.561,
+   "no_speech_prob": 0.569,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 84.14,
+   "end": 85.04,
+   "text": "They stumble",
+   "avg_logprob": -1.561,
+   "no_speech_prob": 0.569,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 85.04,
+   "end": 88.04,
+   "text": "They fall to the ground",
+   "avg_logprob": -1.561,
+   "no_speech_prob": 0.569,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 88.04,
+   "end": 92.62,
+   "text": "Armies surround me, they can't break through",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.576,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 92.62,
+   "end": 96.86,
+   "text": "My faith, the wall, no chains can bound",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.576,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 96.86,
+   "end": 101.02,
+   "text": "Storms rage, winds howl",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.576,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 101.02,
+   "end": 105.08,
+   "text": "Still my heart won't bow",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.576,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 105.08,
+   "end": 108.74,
+   "text": "The Lord is my light and salvation",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.576,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 108.74,
+   "end": 113.44,
+   "text": "My fortress, my strength, my declaration",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.576,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 114.04,
+   "end": 117.04,
+   "text": "The Lord is my light and salvation",
+   "avg_logprob": -0.2,
+   "no_speech_prob": 0.576,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 117.04,
+   "end": 122.54,
+   "text": "Oh, I won't be afraid, no hesitation",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.638,
+   "track_id": "1UItx9upywQ#01"
+  },
+  {
+   "start": 122.54,
+   "end": 128.04,
+   "text": "I won't, won't",
+   "avg_logprob": -0.503,
+   "no_speech_prob": 0.638,
+   "track_id": "1UItx9upywQ#01"
+  }
+ ]
+}

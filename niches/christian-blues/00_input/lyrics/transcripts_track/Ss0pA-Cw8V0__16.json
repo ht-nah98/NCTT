@@ -1,0 +1,542 @@
+{
+ "track_id": "Ss0pA-Cw8V0#16",
+ "track_key": "Ss0pA-Cw8V0__16",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "Goodness of God",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 241.0,
+ "voiced_sec": 207.2,
+ "voice_ratio": 0.86,
+ "n_words": 562,
+ "words_per_min": 139.9,
+ "is_instrumental": false,
+ "n_segments": 65,
+ "n_segments_voiced": 65,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 17.8,
+ "rtf": 0.074,
+ "segments": [
+  {
+   "start": 5.46,
+   "end": 10.68,
+   "text": "Oh, he's good, he's good, yeah",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.775,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 12.46,
+   "end": 15.04,
+   "text": "I've seen storms that try to drown me in fear",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.775,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 15.04,
+   "end": 18.12,
+   "text": "See nights so dark I couldn't see the next year",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.775,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 18.12,
+   "end": 20.6,
+   "text": "But through every heartbreak, every tear",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.775,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 20.6,
+   "end": 23.38,
+   "text": "Your goodness whispered, child, I'm here",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.775,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 24.0,
+   "end": 26.2,
+   "text": "When they turn their backs you help me closer",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.775,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 26.2,
+   "end": 31.4,
+   "text": "Lifted my head when I couldn't stay sober Your love was the anchor in the violence",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.483,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 31.4,
+   "end": 37.26,
+   "text": "Your grace then just covered it free to me Pain in my chest boots in the mud",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.483,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 37.26,
+   "end": 43.26,
+   "text": "But you watched me clean in your crimson blood Devil tried to break me, tried to steal my voice",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.483,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 43.26,
+   "end": 46.52,
+   "text": "But you feel my lungs praise became on your voice",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.483,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 47.2,
+   "end": 52.14,
+   "text": "When I was lost you came and found me When I was weak your love surrounded me",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.483,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 52.14,
+   "end": 55.72,
+   "text": "I shoulda drowned when Mercy carried me",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 55.72,
+   "end": 59.74,
+   "text": "Your goodness never fails, you're faithful through it all",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 59.74,
+   "end": 63.68,
+   "text": "You bring me up each time I fall, your mercy covers me",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 63.68,
+   "end": 68.56,
+   "text": "My past is gonna race, forever I will sing of your goodness and your grace",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 68.56,
+   "end": 70.68,
+   "text": "You're good, you're good, you're good",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 70.68,
+   "end": 71.28,
+   "text": "Always",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 71.28,
+   "end": 73.56,
+   "text": "You're good, you're good, you're good",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 73.56,
+   "end": 74.14,
+   "text": "Always",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 74.14,
+   "end": 76.34,
+   "text": "You're good, you're good, you're good",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 76.34,
+   "end": 76.98,
+   "text": "Always",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 76.98,
+   "end": 78.14,
+   "text": "Ooh",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 78.14,
+   "end": 79.3,
+   "text": "Give it all",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.638,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 80.1,
+   "end": 85.48,
+   "text": "I coulda died with a pain took root But you breathe life, new wine from the fruit",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.461,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 85.48,
+   "end": 91.48,
+   "text": "When I had nothing, you called me chosen When the world grew cold, your love was oceanic",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.461,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 91.48,
+   "end": 96.78,
+   "text": "Pressure made diamonds, I shine for your glory Every scar on my heart tells a God written story",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.461,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 96.78,
+   "end": 99.36,
+   "text": "From the valley to the mountain, you walk with me",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.461,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 99.36,
+   "end": 105.3,
+   "text": "You split the waters like the Red Sea Now I worship like I finally know who I am",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.461,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 105.3,
+   "end": 108.06,
+   "text": "I'm not broken but caught, not lost but found",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 108.06,
+   "end": 110.92,
+   "text": "Your goodness ain't quite as shaped the ground",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 113.3,
+   "end": 115.84,
+   "text": "When I was lost, you came and found me",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 115.84,
+   "end": 118.72,
+   "text": "When I was weak, your love surrounded me",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 118.72,
+   "end": 121.88,
+   "text": "Your goodness never fails, you're faithful through it all",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 121.88,
+   "end": 124.6,
+   "text": "You pick me up each time I fall",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 124.6,
+   "end": 127.26,
+   "text": "Your mercy covers me, my past is gone",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 127.26,
+   "end": 130.86,
+   "text": "And grace, forever I will sing of your goodness and your grace",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.732,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 130.86,
+   "end": 136.62,
+   "text": "Your goodness in your grace Your goodness in your grace",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.662,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 136.62,
+   "end": 145.18,
+   "text": "Your goodness is not fragile It doesn't change with the weather of my emotions",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.662,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 146.8,
+   "end": 156.26,
+   "text": "It doesn't vanish when I stumble or fall Your goodness is the constant, the anchor",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.662,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 157.32,
+   "end": 159.94,
+   "text": "The home where my soul returns",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.593,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 162.96,
+   "end": 167.04,
+   "text": "And even when I cannot trace your hand",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.593,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 168.44,
+   "end": 173.18,
+   "text": "I can still trust your heart",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.593,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 180.26,
+   "end": 181.74,
+   "text": "Yeah, yeah, yeah",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.593,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 181.74,
+   "end": 184.14,
+   "text": "Now I run with purpose, no change on my feet",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.593,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 184.14,
+   "end": 186.86,
+   "text": "Victory in my veins, there's no room for defeat",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 186.86,
+   "end": 189.76,
+   "text": "You turn every weakness into strength in my hands",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 189.76,
+   "end": 192.58,
+   "text": "Turn every closed door into part of your plan",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 192.58,
+   "end": 195.56,
+   "text": "If you didn't fail me then, you won't fail me now",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 195.56,
+   "end": 198.36,
+   "text": "I lift my hands high, I don't wait to buy",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 199.14,
+   "end": 200.88,
+   "text": "Goodness behind me, glory ahead",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 201.6,
+   "end": 203.84,
+   "text": "Mercy beside me, I'm spear lit",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 204.38,
+   "end": 206.92,
+   "text": "I'm walking proof that grace still sings",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 206.92,
+   "end": 209.72,
+   "text": "Jesus pulled me from the fire and the grave",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.55,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 209.72,
+   "end": 212.64,
+   "text": "Now, everywhere I go, my empire remains",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 212.64,
+   "end": 215.5,
+   "text": "God is good forever, He reigns",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 215.5,
+   "end": 217.86,
+   "text": "He rest ever fails, your faithful through it all",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 217.86,
+   "end": 220.44,
+   "text": "You pick me up each time I fall",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 220.44,
+   "end": 223.94,
+   "text": "Your mercy covers me, my path is gonna race",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 223.94,
+   "end": 226.72,
+   "text": "Forever I will sing of your goodness and your grace",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 226.72,
+   "end": 228.8,
+   "text": "You're good, you're good, you're good",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 228.8,
+   "end": 229.34,
+   "text": "Always",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 229.34,
+   "end": 231.64,
+   "text": "You're good, you're good, you're good",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 231.64,
+   "end": 232.26,
+   "text": "Always",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 232.26,
+   "end": 234.36,
+   "text": "You're good, you're good, you're good",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  },
+  {
+   "start": 234.36,
+   "end": 235.14,
+   "text": "Always",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.434,
+   "track_id": "Ss0pA-Cw8V0#16"
+  }
+ ]
+}

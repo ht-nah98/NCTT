@@ -1,0 +1,206 @@
+{
+ "track_id": "sGjecIPJalE#10",
+ "track_key": "sGjecIPJalE__10",
+ "video_id": "sGjecIPJalE",
+ "title": "It Is Finished (John 19)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 200.0,
+ "voiced_sec": 136.6,
+ "voice_ratio": 0.683,
+ "n_words": 213,
+ "words_per_min": 63.9,
+ "is_instrumental": false,
+ "n_segments": 23,
+ "n_segments_voiced": 23,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 10.6,
+ "rtf": 0.053,
+ "segments": [
+  {
+   "start": 23.02,
+   "end": 29.98,
+   "text": "After this, Jesus knowing that all was lost",
+   "avg_logprob": -0.797,
+   "no_speech_prob": 0.491,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 31.54,
+   "end": 40.0,
+   "text": "He said, according to the scriptures, I thirst He spoke so still.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.622,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 41.36,
+   "end": 48.22,
+   "text": "They lifted up the sour wine on a branch of His subtree.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.622,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 49.52,
+   "end": 56.68,
+   "text": "He took the drink and said, It is finished for all to see.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.622,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 56.68,
+   "end": 59.1,
+   "text": "He said it is finished",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 61.12,
+   "end": 63.74,
+   "text": "The work of love complete",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 65.24,
+   "end": 69.92,
+   "text": "He said it is finished the victory",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 70.84,
+   "end": 77.96,
+   "text": "Is at his feet he bowed his head and gave his spirit",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 77.96,
+   "end": 84.52,
+   "text": "The Lamb of God was slain. He said it is finished",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 84.52,
+   "end": 91.24,
+   "text": "He's the best, forever the death is pain",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 96.1,
+   "end": 99.3,
+   "text": "They pierced his hands and feet",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 100.0,
+   "end": 103.54,
+   "text": "They cast lights for his clothes",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 104.5,
+   "end": 107.2,
+   "text": "Above his head was written clear",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 108.0,
+   "end": 111.8,
+   "text": "Jesus of Nazareth, king of the Jews",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 111.8,
+   "end": 119.86,
+   "text": "He bore our sins upon that cross, despite it's rejected yet true.",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.529,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 120.96,
+   "end": 127.8,
+   "text": "He said, Father, forgive them. They know not what they do.",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.529,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 128.74,
+   "end": 135.24,
+   "text": "He said it is finished. The work of love complete.",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.529,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 135.24,
+   "end": 145.1,
+   "text": "He said it is finished The victory is at His feet",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.661,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 145.1,
+   "end": 152.82,
+   "text": "He bowed His head and gave His spirit The Lamb of God was slain",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.661,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 152.82,
+   "end": 161.82,
+   "text": "He said it is finished, forever the death is paid",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.487,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 166.44,
+   "end": 174.14,
+   "text": "The curtain tore from top to bottom, the earth did quake and split",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.487,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 174.82,
+   "end": 180.98,
+   "text": "Truly this was the Son of God, it is finished",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.487,
+   "track_id": "sGjecIPJalE#10"
+  },
+  {
+   "start": 182.82,
+   "end": 184.82,
+   "text": "And that is it",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.119,
+   "track_id": "sGjecIPJalE#10"
+  }
+ ]
+}

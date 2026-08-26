@@ -1,0 +1,254 @@
+{
+ "track_id": "1UItx9upywQ#18",
+ "track_key": "1UItx9upywQ__18",
+ "video_id": "1UItx9upywQ",
+ "title": "\"You Know Me\" - Psalm 139",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 152.0,
+ "voiced_sec": 92.9,
+ "voice_ratio": 0.611,
+ "n_words": 169,
+ "words_per_min": 66.7,
+ "is_instrumental": false,
+ "n_segments": 29,
+ "n_segments_voiced": 29,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 35.1,
+ "rtf": 0.231,
+ "segments": [
+  {
+   "start": 37.74,
+   "end": 49.62,
+   "text": "You know me better than I know myself Every thought, every breath, every cry for",
+   "avg_logprob": -0.574,
+   "no_speech_prob": 0.457,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 50.54,
+   "end": 53.9,
+   "text": "You hold my heart, you hold my story",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.52,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 54.88,
+   "end": 59.42,
+   "text": "You know me, you know me",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.52,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 61.7,
+   "end": 65.16,
+   "text": "When I rise, you're there beside me",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.52,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 65.16,
+   "end": 70.02,
+   "text": "When I fall, your hands still guide me",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.52,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 70.62,
+   "end": 75.9,
+   "text": "No place too far, no depth too lonely",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.52,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 75.9,
+   "end": 78.58,
+   "text": "You know me",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 78.58,
+   "end": 78.66,
+   "text": "You know me",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 78.66,
+   "end": 79.72,
+   "text": "Oh",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 80.9,
+   "end": 84.04,
+   "text": "Before I speak you know my mind",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 84.04,
+   "end": 84.58,
+   "text": "Oh",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 84.58,
+   "end": 88.3,
+   "text": "Before I run you're there in time",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 88.3,
+   "end": 89.2,
+   "text": "Oh",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 89.9,
+   "end": 90.3,
+   "text": "Oh",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 90.3,
+   "end": 93.08,
+   "text": "You know me",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 93.08,
+   "end": 95.9,
+   "text": "You know me better than I",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 95.9,
+   "end": 97.24,
+   "text": "Don't know myself",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 97.9,
+   "end": 99.48,
+   "text": "Every thought, every breath, every",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 99.48,
+   "end": 101.22,
+   "text": "Cry for help",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 101.9,
+   "end": 103.58,
+   "text": "You hold my heart",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.571,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 105.38,
+   "end": 110.94,
+   "text": "You know me, you know me, you know me",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 111.58,
+   "end": 113.3,
+   "text": "Where can I go?",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 114.0,
+   "end": 116.28,
+   "text": "Where you won't find me?",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 116.58,
+   "end": 118.46,
+   "text": "Where can I hide?",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 118.82,
+   "end": 120.58,
+   "text": "Where you won't see?",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 121.38,
+   "end": 124.84,
+   "text": "You hear me in behind before me",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 124.84,
+   "end": 129.64,
+   "text": "You know me, you know me, you know me",
+   "avg_logprob": -0.253,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 131.86,
+   "end": 140.22,
+   "text": "You know me better than I know myself Every thought, every breath, every cry for help",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.411,
+   "track_id": "1UItx9upywQ#18"
+  },
+  {
+   "start": 141.16,
+   "end": 146.36,
+   "text": "You hold my heart, you hold my story You know me",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.411,
+   "track_id": "1UItx9upywQ#18"
+  }
+ ]
+}

@@ -1,0 +1,1038 @@
+{
+ "track_id": "NwYKGZpyYs8#17",
+ "track_key": "NwYKGZpyYs8__17",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Glorify Your Son (John 17)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 463.0,
+ "voiced_sec": 382.8,
+ "voice_ratio": 0.827,
+ "n_words": 704,
+ "words_per_min": 91.2,
+ "is_instrumental": false,
+ "n_segments": 127,
+ "n_segments_voiced": 127,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 29.1,
+ "rtf": 0.063,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 26.3,
+   "text": "ś The power has come, glorify your son ś",
+   "avg_logprob": -1.496,
+   "no_speech_prob": 0.232,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 26.3,
+   "end": 30.02,
+   "text": "that the Son may glorify you.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 35.08,
+   "end": 39.24,
+   "text": "Since you have given him authority over all flesh",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 39.24,
+   "end": 42.76,
+   "text": "to give eternal life",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 44.08,
+   "end": 47.26,
+   "text": "to all whom you have given him",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 49.3,
+   "end": 52.3,
+   "text": "and this is eternal life",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.172,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 53.56,
+   "end": 57.64,
+   "text": "Let them know you, the only true God.",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.501,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 58.44,
+   "end": 65.22,
+   "text": "And Jesus Christ, whom you have sent, I glorified you on earth.",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.501,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 66.78,
+   "end": 70.94,
+   "text": "Heaven accomplished the work that you gave me to do.",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.501,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 71.98,
+   "end": 81.88,
+   "text": "And now Father, glorify me in your own presence with the glory that I had with you before.",
+   "avg_logprob": -0.41,
+   "no_speech_prob": 0.501,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 81.88,
+   "end": 84.3,
+   "text": "All the world existed",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 85.16,
+   "end": 87.76,
+   "text": "I have manifested Your name",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 87.76,
+   "end": 90.66,
+   "text": "To the people whom You gave me",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 90.66,
+   "end": 93.24,
+   "text": "Out of the world",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 93.92,
+   "end": 95.28,
+   "text": "Yours they were",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 95.96,
+   "end": 97.54,
+   "text": "And You gave them to me",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 97.54,
+   "end": 99.78,
+   "text": "And they have kept Your word",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 100.8,
+   "end": 101.72,
+   "text": "Just know",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 103.0,
+   "end": 104.4,
+   "text": "How they know",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 104.4,
+   "end": 105.88,
+   "text": "That everything",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 105.88,
+   "end": 108.48,
+   "text": "You have given me",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 108.48,
+   "end": 109.14,
+   "text": "Me",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.617,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 109.14,
+   "end": 112.46,
+   "text": "Is from you, boy",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 112.46,
+   "end": 114.08,
+   "text": "Have given of the words",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 114.08,
+   "end": 116.22,
+   "text": "That you gave me",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 116.22,
+   "end": 120.2,
+   "text": "And they have received them",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 120.2,
+   "end": 122.32,
+   "text": "They have come to know it's true",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 122.32,
+   "end": 124.34,
+   "text": "That I came from you",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 124.34,
+   "end": 126.38,
+   "text": "And they have believed",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 126.38,
+   "end": 129.02,
+   "text": "That you sent me",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 129.02,
+   "end": 131.9,
+   "text": "I am praying for them",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 131.9,
+   "end": 134.54,
+   "text": "And I'm praying for the Lord",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 134.54,
+   "end": 137.38,
+   "text": "For those of you who have given me",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.822,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 137.38,
+   "end": 140.06,
+   "text": "Oh, they are yours",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 140.06,
+   "end": 142.22,
+   "text": "All mine are yours",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 142.22,
+   "end": 144.46,
+   "text": "And yours are mine",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 144.46,
+   "end": 146.76,
+   "text": "And yours are mine",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 147.98,
+   "end": 150.08,
+   "text": "I am glorified in them",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 150.08,
+   "end": 153.52,
+   "text": "I am no longer in the world",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 153.52,
+   "end": 155.3,
+   "text": "But they are into all",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 155.3,
+   "end": 158.04,
+   "text": "And I am coming to the earth",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 159.8,
+   "end": 166.72,
+   "text": "Oh, holy Father",
+   "avg_logprob": -0.472,
+   "no_speech_prob": 0.661,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 167.7,
+   "end": 171.28,
+   "text": "Holy Father, keep them in Your name.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 171.7,
+   "end": 173.82,
+   "text": "Keep them in Your name.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 173.94,
+   "end": 175.46,
+   "text": "Which You have given me.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 175.76,
+   "end": 177.84,
+   "text": "Which You have given me.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 178.04,
+   "end": 179.8,
+   "text": "That they may be one.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 180.18,
+   "end": 182.32,
+   "text": "Give them a big one.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 182.72,
+   "end": 185.1,
+   "text": "Even as we all one.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 185.24,
+   "end": 187.32,
+   "text": "Even as we all one.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 187.56,
+   "end": 189.12,
+   "text": "While I was with them.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 189.7,
+   "end": 191.52,
+   "text": "While I was with them.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 191.64,
+   "end": 193.62,
+   "text": "I kept them in Your name.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 194.14,
+   "end": 195.46,
+   "text": "Back them in Your name.",
+   "avg_logprob": -0.369,
+   "no_speech_prob": 0.266,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 195.46,
+   "end": 197.92,
+   "text": "Which you have given me",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 197.92,
+   "end": 199.4,
+   "text": "You have given me",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 200.82,
+   "end": 202.88,
+   "text": "Yeah, I've got it now",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 202.88,
+   "end": 205.02,
+   "text": "I have got it now",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 205.02,
+   "end": 207.9,
+   "text": "And I've won a battle that's made of horse",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 207.9,
+   "end": 209.66,
+   "text": "I've made it horse",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 209.66,
+   "end": 211.96,
+   "text": "That's not the sign of destruction",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 212.5,
+   "end": 213.62,
+   "text": "That's the stencil",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 214.34,
+   "end": 215.98,
+   "text": "Life be for fear",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 215.98,
+   "end": 218.8,
+   "text": "I've made it for fear",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 218.8,
+   "end": 220.7,
+   "text": "And now I am calling to you",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 220.7,
+   "end": 223.2,
+   "text": "I am calling to you",
+   "avg_logprob": -0.597,
+   "no_speech_prob": 0.478,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 223.2,
+   "end": 225.64,
+   "text": "And these things I speak in the world",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 225.64,
+   "end": 228.36,
+   "text": "These things I speak in the world",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 228.36,
+   "end": 230.1,
+   "text": "But they may have my joy",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 230.1,
+   "end": 232.3,
+   "text": "And they have my joy",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 232.3,
+   "end": 236.44,
+   "text": "Fulfilled in the souls",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 236.44,
+   "end": 238.82,
+   "text": "I have given them your word",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 238.82,
+   "end": 241.6,
+   "text": "And the world might say they",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 241.6,
+   "end": 244.06,
+   "text": "Because they are not of the world",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 244.06,
+   "end": 245.7,
+   "text": "Like of the world",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 245.7,
+   "end": 247.42,
+   "text": "Just as I",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 247.92,
+   "end": 251.26,
+   "text": "That I am not of the world",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.46,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 251.26,
+   "end": 255.06,
+   "text": "Out of the world, out of the world",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 255.06,
+   "end": 257.88,
+   "text": "Hide to my death",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 257.88,
+   "end": 260.44,
+   "text": "That you take them out of the world",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 260.44,
+   "end": 263.02,
+   "text": "Take them out of the world",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 263.02,
+   "end": 266.26,
+   "text": "But that you keep them, keep them",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 266.26,
+   "end": 269.1,
+   "text": "from the evil world",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 269.1,
+   "end": 271.54,
+   "text": "I'm hiding from the dead",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 271.54,
+   "end": 275.7,
+   "text": "Out of the world, out of the world",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 275.7,
+   "end": 278.54,
+   "text": "Just as I am not of the world",
+   "avg_logprob": -0.395,
+   "no_speech_prob": 0.589,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 278.54,
+   "end": 280.0,
+   "text": "I'm the worst",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 280.0,
+   "end": 282.3,
+   "text": "Stake to father than the truth",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 282.3,
+   "end": 283.4,
+   "text": "Truth",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 283.4,
+   "end": 284.36,
+   "text": "Truth",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 284.36,
+   "end": 286.8,
+   "text": "Your word is true",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 287.54,
+   "end": 288.4,
+   "text": "I see",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 288.4,
+   "end": 289.52,
+   "text": "God",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 289.52,
+   "end": 291.32,
+   "text": "You saved me",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 291.32,
+   "end": 294.32,
+   "text": "God said we enter the world",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 294.32,
+   "end": 296.22,
+   "text": "So I ask that you",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 296.22,
+   "end": 298.56,
+   "text": "I send into the world",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 298.56,
+   "end": 299.92,
+   "text": "Into the world",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 299.92,
+   "end": 301.66,
+   "text": "And for a sake",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 301.66,
+   "end": 304.36,
+   "text": "I don't succrate myself",
+   "avg_logprob": -0.623,
+   "no_speech_prob": 0.647,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 314.86,
+   "end": 318.9,
+   "text": "I do not ask for these own.",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.69,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 320.78,
+   "end": 325.46,
+   "text": "For those who will believe in me.",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.69,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 325.46,
+   "end": 330.94,
+   "text": "Through the words that they may all be one",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.43,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 332.56,
+   "end": 337.7,
+   "text": "Just as you far more are in me",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.43,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 337.7,
+   "end": 340.74,
+   "text": "And I in you",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.43,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 343.46,
+   "end": 346.06,
+   "text": "But they also made me anus",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.43,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 347.46,
+   "end": 350.98,
+   "text": "So that the world may believe",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.43,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 350.98,
+   "end": 353.76,
+   "text": "That you have set me",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 353.76,
+   "end": 356.72,
+   "text": "that you're set me",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 356.72,
+   "end": 358.7,
+   "text": "The blood",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 361.32,
+   "end": 363.5,
+   "text": "It makes you not give in me",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 363.5,
+   "end": 365.04,
+   "text": "do not give in me",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 365.04,
+   "end": 367.7,
+   "text": "I have given to them",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 367.7,
+   "end": 369.68,
+   "text": "I've given to them",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 369.68,
+   "end": 371.38,
+   "text": "That they may be gone",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 371.38,
+   "end": 373.82,
+   "text": "but they may not be gone",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 373.82,
+   "end": 376.14,
+   "text": "Even as we are one",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 376.14,
+   "end": 378.72,
+   "text": "but they may not be gone",
+   "avg_logprob": -0.693,
+   "no_speech_prob": 0.619,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 378.72,
+   "end": 384.0,
+   "text": "I know you love my bed and you and me",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.785,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 385.72,
+   "end": 390.08,
+   "text": "That they may be tough, tough, make me work",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.785,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 390.72,
+   "end": 395.7,
+   "text": "So that the world may die",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.785,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 396.72,
+   "end": 400.76,
+   "text": "That you struck me and loved them",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.785,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 401.72,
+   "end": 406.68,
+   "text": "Even as you love me for the ride you start",
+   "avg_logprob": -0.572,
+   "no_speech_prob": 0.785,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 408.72,
+   "end": 417.24,
+   "text": "that they also whom you have given me, baby with me.",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.587,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 418.88,
+   "end": 419.94,
+   "text": "Well, yeah.",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.587,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 422.46,
+   "end": 433.82,
+   "text": "To see that glory that you have given me because you love me",
+   "avg_logprob": -0.491,
+   "no_speech_prob": 0.587,
+   "track_id": "NwYKGZpyYs8#17"
+  },
+  {
+   "start": 433.82,
+   "end": 442.96,
+   "text": "Before the foundation of the world",
+   "avg_logprob": -0.915,
+   "no_speech_prob": 0.699,
+   "track_id": "NwYKGZpyYs8#17"
+  }
+ ]
+}

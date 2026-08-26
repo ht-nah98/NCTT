@@ -1,0 +1,1936 @@
+{
+  "niche": "christian-blues",
+  "rubric_version": "1.0",
+  "status": "HOÀN TẤT — STEP_00→08",
+  "market": {
+    "M1_1_views_per_month": 7450226.666666667,
+    "M1_2_active_channels": 48,
+    "M1_3_median_view": 1687.0,
+    "T1_score": 2,
+    "M1_2_total_channels": 53,
+    "M1_3_mean_view": 17009.495453735068,
+    "_window_note": "Cửa sổ 150-60d vs 240-150d; cả hai đều ≥60 ngày tuổi nên so sánh công bằng",
+    "_naive_M2_1": 0.5240991707391286,
+    "_naive_M2_2": 1.1735419630156472,
+    "_naive_M2_4": 0.44659602064194837,
+    "_naive_maturity_pct": 36.0,
+    "_w_now_videos": 2338,
+    "_w_prev_videos": 1886,
+    "_w_now_views": 31756914,
+    "_w_prev_views": 19630541,
+    "H_all_median_ratio": 0.29521188772702256,
+    "H_top20_median_ratio": 0.513956405833464,
+    "H_rest_median_ratio": 0.43562401263823064,
+    "H_all_vpd_ratio": 1.1523214052954274,
+    "H_top20_vpd_ratio": 2.030259546527384,
+    "H_rest_vpd_ratio": 1.827135534245042,
+    "_verdict_note": "View thô giảm nhưng VPD (chuẩn hóa tuổi) KHÔNG giảm -> phần lớn 'pha loãng' là ảo giác do video mới chưa chín",
+    "tier1_channel_pct": 62.264150943396224
+  },
+  "momentum": {
+    "M2_1_view_growth": 1.6177299443759598,
+    "M2_2_supply_growth": 1.23966065747614,
+    "M2_3_new_channel_rate": 73.58490566037736,
+    "M2_4_demand_supply_gap": 1.304978047516279,
+    "dilution_verdict": "H0",
+    "T2_score": 4
+  },
+  "_meta": {
+    "M2_4_demand_supply_gap": {
+      "formula": "M2_1/M2_2 trên cửa sổ 150-60d vs 240-150d (đều ≥60d tuổi)",
+      "source": "00_input/processed/videos_enriched.parquet",
+      "computed_by": "A1",
+      "computed_at": "2026-08-15",
+      "confidence": "medium",
+      "caveat": "Chỉ 1 snapshot; suy từ published_at chứ không đo trực tiếp",
+      "counter_evidence": "Cửa sổ 90d ngắn, có thể nhiễu mùa vụ; VPD tăng có thể do kênh yếu ngừng đăng (survivorship)"
+    },
+    "T1_score": {
+      "formula": "7.45tr thuộc khoảng 3-8tr -> 2 điểm",
+      "threshold_hit": "3tr <= M1.1 < 8tr",
+      "source": "rubric v1.0 T1",
+      "confidence": "high"
+    },
+    "T2_score": {
+      "formula": "M2.1=1.618>=1.5 AND M2.4=1.305>=1.0 -> 4 điểm",
+      "threshold_hit": "M2.1>=1.5 AND M2.4>=1.0",
+      "source": "rubric v1.0 T2",
+      "confidence": "medium",
+      "counter_evidence": "Nếu dùng cửa sổ chưa chín thì M2.4=0.447 -> 0 điểm. Kết quả nhạy với cách chọn cửa sổ."
+    },
+    "M3_2_newcomer_success_pct": {
+      "formula": "% kênh <12 tháng có views_per_month >= 100000",
+      "source": "00_input/processed/channels_enriched.parquet",
+      "computed_by": "A2",
+      "computed_at": "2026-08-15",
+      "confidence": "high",
+      "caveat": "views_per_month = tổng view / tuổi kênh, là trung bình toàn đời",
+      "counter_evidence": "Kênh đã thất bại/bị xóa không có trong dữ liệu -> thiên lệch sống sót; nếu nâng ngưỡng lên 500k chỉ còn 3 kênh đạt"
+    },
+    "M3_3_status": {
+      "formula": "KHÔNG ĐO ĐƯỢC",
+      "source": "—",
+      "computed_by": "A2",
+      "computed_at": "2026-08-15",
+      "confidence": "low",
+      "caveat": "view_count là tích lũy đến ngày crawl, không phải view tại lúc đăng -> cumsum vô nghĩa. Cần >=2 snapshot.",
+      "counter_evidence": "Đã thay bằng tuổi trung vị nhóm thành công = 6.9 tháng"
+    },
+    "T3_score": {
+      "formula": "0.5*score(M3.2) + 0.3*score(Gini) + 0.2*score(M3.3thay) = 0.5*5+0.3*3+0.2*5 = 4.4",
+      "threshold_hit": "M3.2=61.5%>=40% -> 5đ; Gini=0.626 in (0.55,0.65] -> 3đ",
+      "source": "rubric v1.0 T3",
+      "confidence": "medium",
+      "counter_evidence": "Ngưỡng 100k có thể quá dễ; Gini tính trên view tích lũy nên kênh cũ có lợi thế"
+    },
+    "M4_1_ai_first_top20_pct": {
+      "formula": "% kênh trong top20 theo tot_view được gán nhãn ai-first",
+      "source": "suy luận từ nhịp đăng + đa dạng thumbnail + tuổi kênh + độ dài",
+      "computed_by": "A2",
+      "computed_at": "2026-08-15",
+      "confidence": "medium",
+      "caveat": "Phân loại gián tiếp, không có xác nhận từ kênh",
+      "counter_evidence": "Kênh có đội ngũ sản xuất lớn cũng đạt nhịp đăng dày -> có thể bị gán nhầm"
+    },
+    "T4_score": {
+      "formula": "M4.1=65%>=60% và audience AI tolerance = Cao (Wavelength) -> 5đ",
+      "threshold_hit": "M4.1>=60% AND M4.2=Cao",
+      "source": "rubric v1.0 T4",
+      "confidence": "medium"
+    },
+    "features_confirmed": {
+      "formula": "Số đặc trưng đạt p<0.01 VÀ |Cliff's delta|>=0.30 sau kiểm chứng ngoài mẫu",
+      "source": "04_outlier/04_feature_tests.csv + 06_binary_tests.csv",
+      "computed_by": "A3",
+      "computed_at": "2026-08-15",
+      "confidence": "high",
+      "caveat": "Chỉ đo metadata (title/thumbnail/duration). Không đo được chất lượng nhạc, retention, CTR.",
+      "counter_evidence": "Không tìm thấy khác biệt KHÔNG chứng minh là không có khác biệt — công thức có thể phức tạp hơn (tương tác nhiều biến)"
+    },
+    "bible_verdict": {
+      "formula": "Kiểm 3 lớp: (1) B1 vs B4 lift=8.1x p<0.001 (2) toàn thị trường lift=0.48x p<0.00001 (3) trong từng kênh 6/13 tốt hơn",
+      "source": "04_outlier/07_bible_within_channel.csv",
+      "computed_by": "A3",
+      "computed_at": "2026-08-15",
+      "confidence": "high",
+      "caveat": "Nghịch lý Simpson — vài kênh chuyên Thánh Vịnh có video nổ làm lệch mẫu outlier"
+    },
+    "excluded_engagement": {
+      "formula": "LOẠI BỎ engagement_rate=(like+cmt)/view",
+      "source": "—",
+      "computed_by": "A3",
+      "computed_at": "2026-08-15",
+      "confidence": "high",
+      "caveat": "Artefact toán học: B1 view TV=71,314 vs B4=863 (82x) nên mẫu số lớn kéo tỷ lệ xuống. Spearman(view,eng)=-0.202 xác nhận."
+    },
+    "age_median": {
+      "formula": "Trung vị tuổi tự khai qua regex 'I am NN' / 'NN years old'",
+      "source": "05_audience/_comments_tagged.parquet",
+      "computed_by": "A4",
+      "computed_at": "2026-08-15",
+      "confidence": "low",
+      "caveat": "Chỉ 82/6413 = 1.28% tự khai — mẫu rất nhỏ",
+      "counter_evidence": "Người khai tuổi có like TV=12 vs toàn bộ 4 → thiên lệch về nhóm gắn bó, viết dài. Tuổi thật của toàn bộ khán giả nhiều khả năng THẤP HƠN 70"
+    },
+    "finally_like_lift": {
+      "formula": "like trung vị nhóm chứa 'finally|at last' ÷ like trung vị toàn bộ",
+      "source": "05_audience/04_signal_tests.csv",
+      "computed_by": "A4",
+      "computed_at": "2026-08-15",
+      "confidence": "high",
+      "caveat": "n=58, Mann-Whitney p<0.0001",
+      "counter_evidence": "'healing' xuất hiện 757 lần nhưng like TV chỉ 3 (dưới trung bình) → không phải mọi từ khóa cảm xúc đều là tín hiệu"
+    },
+    "discovery_algo_vs_search": {
+      "formula": "số comment nhắc 'algorithm/recommended' ÷ số comment nhắc 'searched for'",
+      "source": "05_audience/_metrics_raw.json",
+      "computed_by": "A4",
+      "computed_at": "2026-08-15",
+      "confidence": "medium",
+      "caveat": "n=83 vs 12, dựa vào mẫu regex nên sót nhiều cách diễn đạt",
+      "counter_evidence": "Người dùng hiếm khi nói rõ cách họ tìm thấy video"
+    },
+    "M5_2_rpm_range": {
+      "formula": "ƯỚC TÍNH — không đo được từ dữ liệu",
+      "source": "Giả định: nhạc Tier-1 nền $1.5-4, điều chỉnh tăng do khán giả 60+ và long-form, giảm do attention thấp",
+      "computed_by": "A6",
+      "computed_at": "2026-08-15",
+      "confidence": "low",
+      "caveat": "YouTube API KHÔNG trả về doanh thu kênh người khác. Chỉ xác minh được bằng kênh thử nghiệm thật.",
+      "counter_evidence": "Nếu RPM thật $6 thì T5=4đ, tổng 12.6 — vẫn 'Theo dõi'"
+    },
+    "T6_penalty": {
+      "formula": "Tổng điểm trừ 6 rủi ro",
+      "source": "07_monetization/02_risk_register.csv",
+      "computed_by": "A6",
+      "computed_at": "2026-08-15",
+      "confidence": "medium",
+      "caveat": "Trùng lặp đo được từ dữ liệu; rủi ro chính sách tôn giáo+AI là đánh giá định tính",
+      "counter_evidence": "Video trùng title chéo lại có VPD CAO HƠN 68% (15.47 vs 9.21) — đánh đổi ngắn hạn vs dài hạn"
+    },
+    "top_theme_lift": {
+      "formula": "VPD trung vị video có chủ đề ÷ VPD video không có, trên 5609 video chín",
+      "source": "06_keyword/02_theme_scores.csv",
+      "computed_by": "A5",
+      "computed_at": "2026-08-15",
+      "confidence": "medium",
+      "caveat": "Chủ đề nhận diện bằng regex trên TIÊU ĐỀ, không phải nội dung nhạc thật",
+      "counter_evidence": "Chỉ 4/8 kênh cho kết quả tốt hơn khi kiểm nội bộ (within lift 1.05) — hiệu ứng yếu hơn con số 2.37 gợi ý. 20 kênh dùng nên không phải hiện tượng 1 kênh."
+    },
+    "themes_rejected_simpson": {
+      "formula": "Chủ đề có p<0.05 và lift>1 nhưng within-channel median lift <1",
+      "source": "06_keyword/02_theme_scores.csv",
+      "computed_by": "A5",
+      "computed_at": "2026-08-15",
+      "confidence": "high",
+      "caveat": "Lớp kiểm thứ 3 (trong từng kênh) đã loại 4 chủ đề: testimony, healing, strength, night_sleep"
+    },
+    "cross_period_median_growth": {
+      "formula": "views_per_month (T8/2026 crawl) ÷ view_month (T3/2026 sheet 'Dung lượng thị trường')",
+      "source": "sheet 'Dung lượng thị trường' — nguồn ĐỘC LẬP với cách tính M2.4",
+      "computed_by": "audit bổ sung",
+      "computed_at": "2026-08-15",
+      "confidence": "medium",
+      "caveat": "Ghép 50/53 kênh qua handle; views_per_month là trung bình toàn đời nên không hoàn toàn cùng đơn vị với view tháng hiện hành",
+      "counter_evidence": "17/50 kênh GIẢM — tăng trưởng không đồng đều toàn ngách"
+    },
+    "collected_from": [
+      "02_market",
+      "03_competitor",
+      "04_outlier",
+      "05_audience",
+      "06_keyword",
+      "07_monetization"
+    ],
+    "missing_sources": [],
+    "thresholds_applied": true,
+    "threshold_source": "framework/00_system/03_SCORING_RUBRIC.md §4",
+    "derivation": [
+      "T1 ← M1.1 = 7450226.666666667",
+      "T2 ← M2.1=1.6177299443759598 M2.4=1.304978047516279",
+      "T3 ← M3.2=0.6153846153846154→5đ · Gini=0.6257610129024167→3đ · M3.3 KHÔNG ĐO ĐƯỢC → chia lại trọng số",
+      "T4 ← M4.1 = 0.65",
+      "T5 ← RPM = 3.0",
+      "T6 ← trùng nội dung 6.3% (−2)"
+    ]
+  },
+  "entry": {
+    "M3_1_gini": 0.6257610129024167,
+    "M3_2_newcomer_success_pct": 61.53846153846154,
+    "M3_3_status": "KHÔNG ĐO ĐƯỢC — cần ≥2 snapshot",
+    "M3_3_alt_median_age_of_successful": 6.898817345597897,
+    "top1_share": 18.450841416602014,
+    "top20pct_share": 63.13467867250709,
+    "T3_score": 4.25,
+    "M3_3_alt_fastest_success": [
+      {
+        "handle": "hopegospelblues",
+        "age_m": 0.6241787122207622,
+        "vpm": 232752.2505263158
+      },
+      {
+        "handle": "soulworshipprayer",
+        "age_m": 1.6754270696452036,
+        "vpm": 270855.12
+      },
+      {
+        "handle": "gracegospelblues",
+        "age_m": 2.7923784494086727,
+        "vpm": 130531.37552941177
+      },
+      {
+        "handle": "goldensoulworship",
+        "age_m": 2.8252299605781865,
+        "vpm": 1078457.6981395348
+      },
+      {
+        "handle": "heavenlyatmosphere.c",
+        "age_m": 2.890932982917214,
+        "vpm": 214186.9090909091
+      }
+    ],
+    "_young_n": 39,
+    "_young_success_n": 24,
+    "top5_share": 45.822056018442034,
+    "top_efficiency": [
+      {
+        "handle": "vintage_gospel_vgx",
+        "view_per_vid": 70244.44186046511,
+        "n_vid": 43,
+        "age_m": 7.818659658344283,
+        "med_dur_min": 4.833333333333333,
+        "per_month": 5.499663865546219,
+        "model": "hybrid"
+      },
+      {
+        "handle": "saltandlight-k2z",
+        "view_per_vid": 69109.0,
+        "n_vid": 60,
+        "age_m": 20.367936925098554,
+        "med_dur_min": 5.041666666666667,
+        "per_month": 2.945806451612903,
+        "model": "hybrid"
+      },
+      {
+        "handle": "goldensoulworship",
+        "view_per_vid": 50128.016393442624,
+        "n_vid": 61,
+        "age_m": 2.8252299605781865,
+        "med_dur_min": 120.075,
+        "per_month": 21.591162790697673,
+        "model": "ai-first"
+      },
+      {
+        "handle": "rivers-and-revival",
+        "view_per_vid": 46973.976744186046,
+        "n_vid": 43,
+        "age_m": 36.793692509855454,
+        "med_dur_min": 52.516666666666666,
+        "per_month": 1.1686785714285715,
+        "model": "artist/rebroadcast"
+      },
+      {
+        "handle": "oldiesgospelradio",
+        "view_per_vid": 46884.02717391304,
+        "n_vid": 184,
+        "age_m": 196.09067017082785,
+        "med_dur_min": 107.48333333333333,
+        "per_month": 0.9383414307254146,
+        "model": "artist/rebroadcast"
+      },
+      {
+        "handle": "holygrooveofficial",
+        "view_per_vid": 39845.612716763004,
+        "n_vid": 173,
+        "age_m": 217.6741130091984,
+        "med_dur_min": 31.583333333333332,
+        "per_month": 0.7947660730455781,
+        "model": "artist/rebroadcast"
+      },
+      {
+        "handle": "heavenlybluesgospel",
+        "view_per_vid": 38732.68253968254,
+        "n_vid": 63,
+        "age_m": 6.636005256241787,
+        "med_dur_min": 7.633333333333334,
+        "per_month": 9.493663366336634,
+        "model": "ai-first"
+      },
+      {
+        "handle": "stillworshipmusic",
+        "view_per_vid": 36234.91780821918,
+        "n_vid": 511,
+        "age_m": 15.801576872536137,
+        "med_dur_min": 2.9166666666666665,
+        "per_month": 32.3385446985447,
+        "model": "ai-first"
+      }
+    ]
+  },
+  "ai_fit": {
+    "M4_1_ai_first_top20_pct": 65.0,
+    "model_dist": {
+      "ai-first": 37,
+      "hybrid": 12,
+      "artist/rebroadcast": 4
+    },
+    "T4_score": 5
+  },
+  "formula": {
+    "n_B1": 435,
+    "n_B4": 161,
+    "paired_channels": 17,
+    "features_tested": 26,
+    "features_confirmed": 0,
+    "bible_verdict": "KHÔNG XÁC NHẬN — nghịch lý Simpson: giàu trong nhóm outlier nhưng toàn thị trường kém hơn (0.48x) và trong từng kênh chỉ 6/13 kênh tốt hơn",
+    "bible_market_lift": 0.48228126312329966,
+    "bible_within_channel_better": "6/13",
+    "format_chi2_p": 0.002742448825782044,
+    "format_verdict": "CHƯA KẾT LUẬN — VPD và tỷ lệ thắng cho kết quả mâu thuẫn",
+    "excluded_engagement": {
+      "reason": "artefact toán học — mẫu số view lớn kéo tỷ lệ xuống",
+      "B1_median_view": 71314.0,
+      "B4_median_view": 863.0,
+      "spearman_view_vs_eng": -0.202
+    },
+    "binary_tests": [
+      {
+        "feature": "Có chữ Lyrics",
+        "B1_pct": 2.2988505747126435,
+        "B4_pct": 0.0,
+        "B1_n": "10/435",
+        "B4_n": "0/161",
+        "lift": Infinity,
+        "p": 0.06938368830713862,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "feature": "Có tên sách Kinh Thánh",
+        "B1_pct": 10.114942528735632,
+        "B4_pct": 1.2422360248447204,
+        "B1_n": "44/435",
+        "B4_n": "2/161",
+        "lift": 8.142528735632185,
+        "p": 8.970137592425611e-05,
+        "verdict": "XÁC NHẬN"
+      },
+      {
+        "feature": "Có chữ Psalm",
+        "B1_pct": 12.183908045977011,
+        "B4_pct": 3.7267080745341614,
+        "B1_n": "53/435",
+        "B4_n": "6/161",
+        "lift": 3.2693486590038314,
+        "p": 0.001730329306045559,
+        "verdict": "XÁC NHẬN"
+      },
+      {
+        "feature": "Có chữ số",
+        "B1_pct": 25.74712643678161,
+        "B4_pct": 17.391304347826086,
+        "B1_n": "112/435",
+        "B4_n": "28/161",
+        "lift": 1.4804597701149427,
+        "p": 0.03838427576338119,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "feature": "Có ghi thời lượng",
+        "B1_pct": 6.206896551724138,
+        "B4_pct": 4.968944099378882,
+        "B1_n": "27/435",
+        "B4_n": "8/161",
+        "lift": 1.2491379310344828,
+        "p": 0.6960396468320506,
+        "verdict": "BÁC BỎ"
+      }
+    ],
+    "tests": [
+      {
+        "feature": "Tỷ lệ chữ HOA",
+        "B1": 0.13793103448275862,
+        "B4": 0.14457831325301204,
+        "unit": "",
+        "diff_pct": -4.597701149425284,
+        "p": 0.0017942378309187732,
+        "cliffs_delta": -0.16644534875419434,
+        "verdict": "YẾU",
+        "measure": "trực tiếp"
+      },
+      {
+        "feature": "Tập trung giữa ảnh",
+        "B1": 0.06832677544039012,
+        "B4": 0.08913862782452553,
+        "unit": "",
+        "diff_pct": -23.347736993556516,
+        "p": 0.03105924034678635,
+        "cliffs_delta": -0.1149568073106304,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Độ tương phản",
+        "B1": 0.2196662648440268,
+        "B4": 0.2240661690582596,
+        "unit": "",
+        "diff_pct": -1.9636628915134378,
+        "p": 0.08384481873847263,
+        "cliffs_delta": -0.09216820161347898,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Điểm chữ trên ảnh",
+        "B1": 0.3492526620633182,
+        "B4": 0.3695274159295436,
+        "unit": "",
+        "diff_pct": -5.4866710810142205,
+        "p": 0.08875275571526363,
+        "cliffs_delta": -0.09074034411365746,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Số dấu |",
+        "B1": 1.0,
+        "B4": 1.0,
+        "unit": "",
+        "diff_pct": 0.0,
+        "p": 0.07431424812025322,
+        "cliffs_delta": -0.08878417933890198,
+        "verdict": "BÁC BỎ",
+        "measure": "trực tiếp"
+      },
+      {
+        "feature": "Mật độ đường nét",
+        "B1": 0.08659422122627439,
+        "B4": 0.09125240177045267,
+        "unit": "",
+        "diff_pct": -5.104721030681509,
+        "p": 0.16478785150006636,
+        "cliffs_delta": -0.07406296851574212,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Số từ tiêu đề",
+        "B1": 13.0,
+        "B4": 13.0,
+        "unit": "từ",
+        "diff_pct": 0.0,
+        "p": 0.3530627444570934,
+        "cliffs_delta": 0.04931819804383523,
+        "verdict": "BÁC BỎ",
+        "measure": "trực tiếp"
+      },
+      {
+        "feature": "Độ rực màu",
+        "B1": 0.1681815571835447,
+        "B4": 0.1731130107101817,
+        "unit": "",
+        "diff_pct": -2.848690289889903,
+        "p": 0.5314900606548443,
+        "cliffs_delta": -0.033369029770828874,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Độ dài video",
+        "B1": 2650.0,
+        "B4": 1825.0,
+        "unit": "giây",
+        "diff_pct": 45.20547945205479,
+        "p": 0.5972119950796957,
+        "cliffs_delta": 0.028216915738352236,
+        "verdict": "BÁC BỎ",
+        "measure": "trực tiếp"
+      },
+      {
+        "feature": "Số hashtag",
+        "B1": 0.0,
+        "B4": 0.0,
+        "unit": "",
+        "diff_pct": NaN,
+        "p": 0.41211242488266253,
+        "cliffs_delta": 0.02520168487184979,
+        "verdict": "BÁC BỎ",
+        "measure": "trực tiếp"
+      },
+      {
+        "feature": "Tỷ lệ vùng tối",
+        "B1": 0.6866666666666666,
+        "B4": 0.6909027777777778,
+        "unit": "",
+        "diff_pct": -0.6131269474319021,
+        "p": 0.7146369148557414,
+        "cliffs_delta": 0.019504533447561933,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Độ sáng ảnh",
+        "B1": 0.2345871657407407,
+        "B4": 0.2267761182461874,
+        "unit": "",
+        "diff_pct": 3.4443871581193815,
+        "p": 0.7168371043516233,
+        "cliffs_delta": -0.019347469122581566,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Độ bão hòa",
+        "B1": 0.4510690844540092,
+        "B4": 0.487354687751881,
+        "unit": "",
+        "diff_pct": -7.445419980518447,
+        "p": 0.780978547445162,
+        "cliffs_delta": -0.01483543942314557,
+        "verdict": "BÁC BỎ",
+        "measure": "proxy"
+      },
+      {
+        "feature": "Độ dài tiêu đề",
+        "B1": 74.0,
+        "B4": 73.0,
+        "unit": "ký tự",
+        "diff_pct": 1.36986301369863,
+        "p": 0.8510241907631194,
+        "cliffs_delta": 0.010023559648747056,
+        "verdict": "BÁC BỎ",
+        "measure": "trực tiếp"
+      },
+      {
+        "feature": "Số emoji",
+        "B1": 0.0,
+        "B4": 0.0,
+        "unit": "",
+        "diff_pct": NaN,
+        "p": 0.9390956953893302,
+        "cliffs_delta": -0.0032412365245948456,
+        "verdict": "BÁC BỎ",
+        "measure": "trực tiếp"
+      }
+    ],
+    "format_matrix": [
+      {
+        "duration_band": "1-3h",
+        "B1_thắng": 148,
+        "B4_thua": 53,
+        "pct_B1": 73.6318407960199
+      },
+      {
+        "duration_band": "1-6m",
+        "B1_thắng": 76,
+        "B4_thua": 21,
+        "pct_B1": 78.35051546391753
+      },
+      {
+        "duration_band": "30-60m",
+        "B1_thắng": 104,
+        "B4_thua": 25,
+        "pct_B1": 80.62015503875969
+      },
+      {
+        "duration_band": "3h+",
+        "B1_thắng": 18,
+        "B4_thua": 6,
+        "pct_B1": 75.0
+      },
+      {
+        "duration_band": "6-30m",
+        "B1_thắng": 65,
+        "B4_thua": 47,
+        "pct_B1": 58.03571428571429
+      },
+      {
+        "duration_band": "Shorts",
+        "B1_thắng": 20,
+        "B4_thua": 9,
+        "pct_B1": 68.96551724137932
+      }
+    ],
+    "format_all": [
+      {
+        "duration_band": "1-3h",
+        "n": 3068,
+        "vpd": 11.697222222222223,
+        "mv": 738.0
+      },
+      {
+        "duration_band": "1-6m",
+        "n": 1156,
+        "vpd": 15.63529442445105,
+        "mv": 2557.0
+      },
+      {
+        "duration_band": "30-60m",
+        "n": 1163,
+        "vpd": 8.486274509803922,
+        "mv": 923.0
+      },
+      {
+        "duration_band": "3h+",
+        "n": 394,
+        "vpd": 9.86674559326493,
+        "mv": 1143.5
+      },
+      {
+        "duration_band": "6-30m",
+        "n": 901,
+        "vpd": 9.797202797202797,
+        "mv": 1713.0
+      },
+      {
+        "duration_band": "Shorts",
+        "n": 496,
+        "vpd": 21.583251177565998,
+        "mv": 2450.0
+      }
+    ],
+    "top_phrases": [
+      {
+        "phrase": "prayer",
+        "n_words": 1,
+        "n_channels": 23,
+        "in_B4_count": 26
+      },
+      {
+        "phrase": "lord",
+        "n_words": 1,
+        "n_channels": 19,
+        "in_B4_count": 16
+      },
+      {
+        "phrase": "god",
+        "n_words": 1,
+        "n_channels": 18,
+        "in_B4_count": 24
+      },
+      {
+        "phrase": "peace",
+        "n_words": 1,
+        "n_channels": 15,
+        "in_B4_count": 20
+      },
+      {
+        "phrase": "faith",
+        "n_words": 1,
+        "n_channels": 15,
+        "in_B4_count": 13
+      },
+      {
+        "phrase": "healing",
+        "n_words": 1,
+        "n_channels": 14,
+        "in_B4_count": 11
+      },
+      {
+        "phrase": "powerful",
+        "n_words": 1,
+        "n_channels": 14,
+        "in_B4_count": 19
+      },
+      {
+        "phrase": "jesus",
+        "n_words": 1,
+        "n_channels": 11,
+        "in_B4_count": 13
+      },
+      {
+        "phrase": "praise",
+        "n_words": 1,
+        "n_channels": 11,
+        "in_B4_count": 23
+      },
+      {
+        "phrase": "strength",
+        "n_words": 1,
+        "n_channels": 10,
+        "in_B4_count": 3
+      },
+      {
+        "phrase": "still",
+        "n_words": 1,
+        "n_channels": 10,
+        "in_B4_count": 7
+      },
+      {
+        "phrase": "testimony",
+        "n_words": 1,
+        "n_channels": 10,
+        "in_B4_count": 22
+      },
+      {
+        "phrase": "grace",
+        "n_words": 1,
+        "n_channels": 10,
+        "in_B4_count": 2
+      },
+      {
+        "phrase": "psalm",
+        "n_words": 1,
+        "n_channels": 9,
+        "in_B4_count": 12
+      },
+      {
+        "phrase": "psalms",
+        "n_words": 1,
+        "n_channels": 9,
+        "in_B4_count": 9
+      },
+      {
+        "phrase": "heart",
+        "n_words": 1,
+        "n_channels": 8,
+        "in_B4_count": 4
+      },
+      {
+        "phrase": "need",
+        "n_words": 1,
+        "n_channels": 8,
+        "in_B4_count": 6
+      },
+      {
+        "phrase": "through",
+        "n_words": 1,
+        "n_channels": 8,
+        "in_B4_count": 3
+      },
+      {
+        "phrase": "relaxing",
+        "n_words": 1,
+        "n_channels": 7,
+        "in_B4_count": 1
+      },
+      {
+        "phrase": "hope",
+        "n_words": 1,
+        "n_channels": 7,
+        "in_B4_count": 2
+      }
+    ],
+    "bible_market_wide": {
+      "n_bib": 489,
+      "n_no": 5120,
+      "vpd_bib": 4.900568181818182,
+      "vpd_no": 10.161224489795918,
+      "lift": 0.48228126312329966,
+      "p": 9.64901718225478e-10
+    },
+    "bible_within_channel": {
+      "n_channels": 13,
+      "n_better": 6,
+      "median_lift": 0.8195872279011492,
+      "rows": [
+        {
+          "handle": "holygrooveofficial",
+          "n_bib": 45,
+          "vpd_bib": 33.34905660377358,
+          "vpd_no": 14.306213335536643,
+          "lift": 2.3310890045889714
+        },
+        {
+          "handle": "soulstringsblues-o1g",
+          "n_bib": 14,
+          "vpd_bib": 7.831903945111493,
+          "vpd_no": 4.3933333333333335,
+          "lift": 1.7826791984320545
+        },
+        {
+          "handle": "vintage_gospel_vgx",
+          "n_bib": 24,
+          "vpd_bib": 75.5882985074627,
+          "vpd_no": 43.36812440038375,
+          "lift": 1.7429459897692472
+        },
+        {
+          "handle": "bluesoffaith1",
+          "n_bib": 5,
+          "vpd_bib": 2.19672131147541,
+          "vpd_no": 1.273972602739726,
+          "lift": 1.7243081262118811
+        },
+        {
+          "handle": "holygroove-1",
+          "n_bib": 255,
+          "vpd_bib": 3.835777126099707,
+          "vpd_no": 2.7468671679197993,
+          "lift": 1.3964188625125757
+        },
+        {
+          "handle": "holyspiritsoundblues",
+          "n_bib": 22,
+          "vpd_bib": 9.252667960223139,
+          "vpd_no": 7.797727272727273,
+          "lift": 1.1865852236951855
+        },
+        {
+          "handle": "saltandlight-k2z",
+          "n_bib": 7,
+          "vpd_bib": 15.06989247311828,
+          "vpd_no": 18.387173396674584,
+          "lift": 0.8195872279011492
+        },
+        {
+          "handle": "deeprivergospel",
+          "n_bib": 5,
+          "vpd_bib": 2.9791666666666665,
+          "vpd_no": 4.074418604651163,
+          "lift": 0.7311881659056316
+        },
+        {
+          "handle": "songsworshipblues",
+          "n_bib": 29,
+          "vpd_bib": 2.8524590163934427,
+          "vpd_no": 4.015533695492586,
+          "lift": 0.710356140105439
+        },
+        {
+          "handle": "rivers-and-revival",
+          "n_bib": 6,
+          "vpd_bib": 58.29600694444444,
+          "vpd_no": 82.5760642865906,
+          "lift": 0.7059673701827304
+        },
+        {
+          "handle": "thearksound",
+          "n_bib": 7,
+          "vpd_bib": 1.3563218390804597,
+          "vpd_no": 3.3053435114503817,
+          "lift": 0.4103421730243423
+        },
+        {
+          "handle": "graceinbluesgospel",
+          "n_bib": 32,
+          "vpd_bib": 1.99760402057036,
+          "vpd_no": 5.532258064516129,
+          "lift": 0.3610829424937677
+        },
+        {
+          "handle": "biblebluesofficial",
+          "n_bib": 22,
+          "vpd_bib": 2.4394847495920673,
+          "vpd_no": 18.62686567164179,
+          "lift": 0.13096592806303567
+        }
+      ]
+    },
+    "format_b1b4": [
+      {
+        "duration_band": "1-3h",
+        "B1_thắng": 148,
+        "B4_thua": 53,
+        "pct_B1": 73.6318407960199
+      },
+      {
+        "duration_band": "1-6m",
+        "B1_thắng": 76,
+        "B4_thua": 21,
+        "pct_B1": 78.35051546391753
+      },
+      {
+        "duration_band": "30-60m",
+        "B1_thắng": 104,
+        "B4_thua": 25,
+        "pct_B1": 80.62015503875969
+      },
+      {
+        "duration_band": "3h+",
+        "B1_thắng": 18,
+        "B4_thua": 6,
+        "pct_B1": 75.0
+      },
+      {
+        "duration_band": "6-30m",
+        "B1_thắng": 65,
+        "B4_thua": 47,
+        "pct_B1": 58.03571428571429
+      },
+      {
+        "duration_band": "Shorts",
+        "B1_thắng": 20,
+        "B4_thua": 9,
+        "pct_B1": 68.96551724137932
+      }
+    ]
+  },
+  "audience": {
+    "n_analyzed": 6413,
+    "age_n": 82,
+    "age_median": 70.0,
+    "age_60plus_pct": 78.0,
+    "top_context": "prayer_devo",
+    "top_context_pct": 13.535007016996726,
+    "discovery_algo_vs_search": 6.9,
+    "finally_like_lift": 6.6,
+    "never_heard_like_lift": 6.2,
+    "personas": {
+      "p_elder": {
+        "n": 70,
+        "pct": 1.0915328239513489,
+        "med_likes": 23.5
+      },
+      "p_music": {
+        "n": 4,
+        "pct": 0.06237330422579136,
+        "med_likes": 106.5
+      },
+      "p_healing": {
+        "n": 967,
+        "pct": 15.078746296585061,
+        "med_likes": 4.0
+      },
+      "p_convert": {
+        "n": 33,
+        "pct": 0.5145797598627788,
+        "med_likes": 8.0
+      }
+    },
+    "n_total": 6794,
+    "n_noise": 381,
+    "age": {
+      "n": 82,
+      "median": 70.0,
+      "mean": 64.85365853658537,
+      "min": 14,
+      "max": 94,
+      "dist": {
+        "13-29": 8,
+        "30-44": 4,
+        "45-59": 6,
+        "60-74": 42,
+        "75+": 22
+      }
+    },
+    "attributes": {
+      "retired": {
+        "n": 1,
+        "pct": 0.01559332605644784
+      },
+      "musician": {
+        "n": 4,
+        "pct": 0.06237330422579136
+      },
+      "trucker": {
+        "n": 2,
+        "pct": 0.03118665211289568
+      },
+      "veteran": {
+        "n": 1,
+        "pct": 0.01559332605644784
+      },
+      "disabled": {
+        "n": 1,
+        "pct": 0.01559332605644784
+      },
+      "nurse_care": {
+        "n": 2,
+        "pct": 0.03118665211289568
+      },
+      "widow": {
+        "n": 5,
+        "pct": 0.0779666302822392
+      },
+      "recovery": {
+        "n": 31,
+        "pct": 0.4833931077498831
+      },
+      "new_convert": {
+        "n": 17,
+        "pct": 0.2650865429596133
+      },
+      "longtime_faith": {
+        "n": 2,
+        "pct": 0.03118665211289568
+      }
+    },
+    "pain": {
+      "finally": {
+        "n": 58,
+        "pct": 0.9044129112739748,
+        "med_likes": 26.5
+      },
+      "cant_stand": {
+        "n": 16,
+        "pct": 0.24949321690316545,
+        "med_likes": 5.5
+      },
+      "never_heard": {
+        "n": 55,
+        "pct": 0.8576329331046313,
+        "med_likes": 25.0
+      },
+      "struggling": {
+        "n": 110,
+        "pct": 1.7152658662092626,
+        "med_likes": 5.0
+      },
+      "better_than": {
+        "n": 33,
+        "pct": 0.5145797598627788,
+        "med_likes": 5.0
+      },
+      "healing": {
+        "n": 757,
+        "pct": 11.804147824731015,
+        "med_likes": 3.0
+      }
+    },
+    "context": {
+      "driving": {
+        "n": 35,
+        "pct": 0.5457664119756744
+      },
+      "housework": {
+        "n": 30,
+        "pct": 0.4677997816934352
+      },
+      "work": {
+        "n": 25,
+        "pct": 0.389833151411196
+      },
+      "sleep_night": {
+        "n": 24,
+        "pct": 0.37423982535474815
+      },
+      "prayer_devo": {
+        "n": 868,
+        "pct": 13.535007016996726
+      },
+      "morning": {
+        "n": 267,
+        "pct": 4.163418057071573
+      },
+      "sick_hosp": {
+        "n": 105,
+        "pct": 1.637299235927023
+      },
+      "grief": {
+        "n": 70,
+        "pct": 1.0915328239513489
+      }
+    },
+    "discovery": {
+      "algorithm": {
+        "n": 83,
+        "pct": 1.2942460626851706
+      },
+      "searched": {
+        "n": 12,
+        "pct": 0.18711991267737407
+      },
+      "shared": {
+        "n": 17,
+        "pct": 0.2650865429596133
+      },
+      "subscribed": {
+        "n": 20,
+        "pct": 0.3118665211289568
+      },
+      "repeat": {
+        "n": 114,
+        "pct": 1.7776391704350538
+      }
+    },
+    "vocab_top": {
+      "god": 4438,
+      "thank": 3062,
+      "lord": 2351,
+      "jesus": 2298,
+      "amen": 2233,
+      "love": 1946,
+      "music": 1821,
+      "our": 1126,
+      "heart": 1038,
+      "beautiful": 970,
+      "bless": 960,
+      "song": 911,
+      "soul": 875,
+      "him": 853,
+      "name": 789,
+      "every": 785,
+      "praise": 781,
+      "christ": 778,
+      "life": 774,
+      "worship": 765,
+      "know": 760,
+      "peace": 752,
+      "like": 733,
+      "through": 726,
+      "blues": 715,
+      "glory": 713,
+      "father": 712,
+      "songs": 696,
+      "spirit": 656,
+      "these": 645,
+      "much": 615,
+      "hallelujah": 589,
+      "keep": 556,
+      "always": 556,
+      "day": 553,
+      "still": 535,
+      "holy": 533,
+      "good": 530,
+      "i'm": 528,
+      "gospel": 528
+    },
+    "baseline_likes": 4.0,
+    "signal_tests": [
+      {
+        "signal": "p_music",
+        "n": 4,
+        "like_median": 106.5,
+        "vs_baseline": 26.625,
+        "p": 0.023671187328613726,
+        "verdict": "YẾU"
+      },
+      {
+        "signal": "finally",
+        "n": 58,
+        "like_median": 26.5,
+        "vs_baseline": 6.625,
+        "p": 7.211084181776916e-11,
+        "verdict": "XÁC NHẬN"
+      },
+      {
+        "signal": "never_heard",
+        "n": 55,
+        "like_median": 25.0,
+        "vs_baseline": 6.25,
+        "p": 2.360899156303784e-09,
+        "verdict": "XÁC NHẬN"
+      },
+      {
+        "signal": "p_elder",
+        "n": 70,
+        "like_median": 23.5,
+        "vs_baseline": 5.875,
+        "p": 9.947562341832085e-08,
+        "verdict": "XÁC NHẬN"
+      },
+      {
+        "signal": "p_convert",
+        "n": 33,
+        "like_median": 8.0,
+        "vs_baseline": 2.0,
+        "p": 0.009710256111227054,
+        "verdict": "YẾU"
+      },
+      {
+        "signal": "cant_stand",
+        "n": 16,
+        "like_median": 5.5,
+        "vs_baseline": 1.375,
+        "p": 0.21549514193146307,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "signal": "better_than",
+        "n": 33,
+        "like_median": 5.0,
+        "vs_baseline": 1.25,
+        "p": 0.0758120612284453,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "signal": "struggling",
+        "n": 110,
+        "like_median": 5.0,
+        "vs_baseline": 1.25,
+        "p": 0.02726423100932595,
+        "verdict": "YẾU"
+      },
+      {
+        "signal": "p_healing",
+        "n": 967,
+        "like_median": 4.0,
+        "vs_baseline": 1.0,
+        "p": 0.04261330791853399,
+        "verdict": "YẾU"
+      },
+      {
+        "signal": "healing",
+        "n": 757,
+        "like_median": 3.0,
+        "vs_baseline": 0.75,
+        "p": 0.5257430333662012,
+        "verdict": "BÁC BỎ"
+      }
+    ]
+  },
+  "money": {
+    "M5_1_en_pct": 92.8505957836847,
+    "M5_1_tier1_of_declared": 73.33333333333333,
+    "M5_2_rpm_range": [
+      1.5,
+      3.0,
+      6.0
+    ],
+    "M5_3_median_duration_min": 43,
+    "rev_base_monthly_usd": 319,
+    "T5_score": 3,
+    "M5_1_lang": {
+      "en": 4052,
+      "es": 247,
+      "pt": 20,
+      "unknown": 2829,
+      "en_pct_of_known": 92.8505957836847
+    },
+    "M5_1_tier1_channel_pct": 62.264150943396224,
+    "M5_3_band": [
+      {
+        "duration_band": "1-3h",
+        "n": 2114,
+        "med_sec": 5629.0,
+        "med_view": 975.5,
+        "ad_slots": 11.7
+      },
+      {
+        "duration_band": "1-6m",
+        "n": 1026,
+        "med_sec": 172.0,
+        "med_view": 2546.0,
+        "ad_slots": 1.0
+      },
+      {
+        "duration_band": "30-60m",
+        "n": 973,
+        "med_sec": 2477.0,
+        "med_view": 1427.0,
+        "ad_slots": 5.2
+      },
+      {
+        "duration_band": "3h+",
+        "n": 281,
+        "med_sec": 11040.0,
+        "med_view": 1154.0,
+        "ad_slots": 23.0
+      },
+      {
+        "duration_band": "6-30m",
+        "n": 796,
+        "med_sec": 973.0,
+        "med_view": 2208.0,
+        "ad_slots": 2.0
+      },
+      {
+        "duration_band": "Shorts",
+        "n": 414,
+        "med_sec": 36.5,
+        "med_view": 2873.0,
+        "ad_slots": 1.0
+      }
+    ],
+    "M5_3_median_duration_sec": 2594.5,
+    "M5_2_rpm": {
+      "low": 1.5,
+      "base": 3.0,
+      "high": 6.0,
+      "basis": "Nhạc Tier-1 nền tảng $1.5-4; điều chỉnh TĂNG do khán giả 60+ (sức mua, ít adblock) và long-form nhiều ad slot; điều chỉnh GIẢM do nhạc có attention thấp"
+    },
+    "T5_note": "RPM cơ sở $3.0 rơi đúng ranh giới khoảng $3-5 -> 3 điểm",
+    "risks": [
+      {
+        "risk": "Nội dung trùng lặp (reused content)",
+        "penalty": -1,
+        "evidence": "132 tiêu đề dùng chung bởi nhiều kênh, phủ 453 video (6.3%). 5 kênh có ≥30% video trùng tiêu đề chéo.",
+        "detail": "Đây là rủi ro CHÍNH của ngách. YouTube yêu cầu 'significant original value'."
+      },
+      {
+        "risk": "Mô tả dùng lại",
+        "penalty": 0,
+        "evidence": "140 mẫu mô tả dùng lại phủ 1406 video, nhưng CHÉO kênh = 0 mẫu.",
+        "detail": "Toàn bộ là template trong cùng một kênh — bình thường, không phải rủi ro."
+      },
+      {
+        "risk": "Phụ thuộc kênh dẫn đầu",
+        "penalty": 0,
+        "evidence": "Kênh lớn nhất chiếm 17.9% tổng view (ngưỡng rủi ro: >40%).",
+        "detail": "Không có kênh thống trị — thị trường phân tán lành mạnh."
+      },
+      {
+        "risk": "Cung vượt cầu",
+        "penalty": 0,
+        "evidence": "M2.4 = 1.305 (ngưỡng rủi ro: <0.8).",
+        "detail": "Cầu vẫn tăng nhanh hơn cung."
+      },
+      {
+        "risk": "Bản quyền thánh ca",
+        "penalty": 0,
+        "evidence": "Chỉ 19 video (0.3%) đặt tên theo thánh ca kinh điển.",
+        "detail": "Hầu hết là sáng tác mới. Thánh ca trước 1929 thuộc phạm vi công cộng."
+      },
+      {
+        "risk": "Chủ đề tôn giáo bị soi kỹ",
+        "penalty": -1,
+        "evidence": "Nội dung tôn giáo + AI thuộc nhóm bị rà soát chặt hơn về kiếm tiền.",
+        "detail": "Không đo được từ dữ liệu — đánh giá dựa trên chính sách nền tảng."
+      }
+    ]
+  },
+  "risk": {
+    "T6_penalty": -2,
+    "cross_title_pct": 6.3,
+    "cross_title_count": 132,
+    "channels_high_dup": 5,
+    "cross_title_vpd": 15.474885844748858,
+    "clean_vpd": 9.20822164105917
+  },
+  "keyword": {
+    "tag_coverage_pct": 76.82469067148617,
+    "tag_unique": 10629,
+    "themes_tested": 16,
+    "themes_recommended": [
+      "old_school",
+      "thanks"
+    ],
+    "themes_avoid": [
+      "scripture",
+      "instrumental"
+    ],
+    "themes_rejected_simpson": [
+      "testimony",
+      "healing",
+      "strength",
+      "night_sleep"
+    ],
+    "top_theme": "old_school",
+    "top_theme_lift": 2.367348223915388,
+    "top_theme_share_pct": 3.957924763772509,
+    "focus_changed_to": "chọn đề tài (không phải SEO) — vì đề xuất thắng tìm kiếm 7:1",
+    "n_B1": 435,
+    "n_B4": 161,
+    "tag_coverage": 76.82469067148617,
+    "tag_total": 109467,
+    "tag_top": {
+      "gospel blues": 3712,
+      "christian blues": 2207,
+      "worship music": 1500,
+      "soulful gospel": 1477,
+      "gospel blues music": 1323,
+      "christian music": 1156,
+      "deep gospel blues": 992,
+      "prayer music": 975,
+      "blues gospel": 967,
+      "soulful worship": 961,
+      "spiritual blues": 881,
+      "blues worship": 811,
+      "soulful gospel blues": 793,
+      "gospel soul": 786,
+      "worship blues": 782,
+      "gospel worship": 744,
+      "christian blues music": 676,
+      "gospel blues worship": 652,
+      "gospel music": 639,
+      "faith music": 629,
+      "worship songs": 618,
+      "christian worship": 537,
+      "black gospel music": 532,
+      "southern gospel blues": 530,
+      "soul blues": 510
+    },
+    "tags_only_in_winners": [
+      {
+        "tag": "slow blues",
+        "freq": 478
+      },
+      {
+        "tag": "delta blues",
+        "freq": 456
+      },
+      {
+        "tag": "healing music",
+        "freq": 394
+      },
+      {
+        "tag": "christian jazz",
+        "freq": 386
+      },
+      {
+        "tag": "gospel blues prayer",
+        "freq": 344
+      },
+      {
+        "tag": "blues guitar",
+        "freq": 300
+      },
+      {
+        "tag": "psalms in blues",
+        "freq": 283
+      },
+      {
+        "tag": "christian music 2026",
+        "freq": 247
+      },
+      {
+        "tag": "smooth blues",
+        "freq": 246
+      },
+      {
+        "tag": "psalm 91",
+        "freq": 235
+      },
+      {
+        "tag": "church background music",
+        "freq": 235
+      },
+      {
+        "tag": "christian soul",
+        "freq": 234
+      },
+      {
+        "tag": "background music",
+        "freq": 231
+      },
+      {
+        "tag": "bible blues",
+        "freq": 228
+      },
+      {
+        "tag": "christian instrumental",
+        "freq": 222
+      },
+      {
+        "tag": "study music",
+        "freq": 216
+      },
+      {
+        "tag": "gospelblues",
+        "freq": 210
+      },
+      {
+        "tag": "work music",
+        "freq": 204
+      },
+      {
+        "tag": "faith in the blues",
+        "freq": 203
+      },
+      {
+        "tag": "worshipmusic",
+        "freq": 200
+      }
+    ],
+    "hashtag_top": {
+      "gospelblues": 3944,
+      "christianblues": 3218,
+      "worshipmusic": 2140,
+      "christianmusic": 1991,
+      "prayermusic": 1830,
+      "healingmusic": 1603,
+      "gospelmusic": 1334,
+      "bluesgospel": 1144,
+      "bluesmusic": 1017,
+      "faithmusic": 950,
+      "soulfulworship": 923,
+      "praiseandworship": 876,
+      "bluesguitar": 804,
+      "gospelsoul": 763,
+      "soulworship": 735,
+      "worshipguitar": 733,
+      "faithandblues": 715,
+      "christianmeditation": 682,
+      "peacefulmusic": 645,
+      "soulfulblues": 621
+    },
+    "hashtag_total": 67267,
+    "themes": [
+      {
+        "theme": "old_school",
+        "n": 222,
+        "share_pct": 3.9579247637725086,
+        "vpd_theme": 21.98251922207146,
+        "vpd_other": 9.285714285714286,
+        "lift": 2.367348223915388,
+        "p": 4.622068995157065e-06,
+        "n_ch_tested": 8,
+        "n_ch_better": 4,
+        "within_median_lift": 1.046395947755198,
+        "verdict": "YẾU"
+      },
+      {
+        "theme": "thanks",
+        "n": 55,
+        "share_pct": 0.9805669459796755,
+        "vpd_theme": 15.324786324786325,
+        "vpd_other": 9.43109987357775,
+        "lift": 1.6249203730436974,
+        "p": 0.01338066419769403,
+        "n_ch_tested": 3,
+        "n_ch_better": 2,
+        "within_median_lift": 2.284928310027306,
+        "verdict": "XÁC NHẬN"
+      },
+      {
+        "theme": "testimony",
+        "n": 452,
+        "share_pct": 8.058477446960243,
+        "vpd_theme": 13.89247311827957,
+        "vpd_other": 9.205263157894738,
+        "lift": 1.5091880460109308,
+        "p": 0.00628270002625584,
+        "n_ch_tested": 22,
+        "n_ch_better": 8,
+        "within_median_lift": 0.8454885265648966,
+        "verdict": "BÁC BỎ (Simpson)"
+      },
+      {
+        "theme": "presence",
+        "n": 144,
+        "share_pct": 2.5673025494740593,
+        "vpd_theme": 10.218708290917316,
+        "vpd_other": 9.486486486486486,
+        "lift": 1.0771857742562414,
+        "p": 0.16709005103450303,
+        "n_ch_tested": 10,
+        "n_ch_better": 6,
+        "within_median_lift": 1.0608244759461642,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "peace_rest",
+        "n": 825,
+        "share_pct": 14.708504189695132,
+        "vpd_theme": 9.797101449275363,
+        "vpd_other": 9.443480470451576,
+        "lift": 1.0374460433237787,
+        "p": 0.07545903424740777,
+        "n_ch_tested": 34,
+        "n_ch_better": 19,
+        "within_median_lift": 1.0383906965631657,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "deliverance",
+        "n": 72,
+        "share_pct": 1.2836512747370297,
+        "vpd_theme": 9.640131578947368,
+        "vpd_other": 9.492307692307692,
+        "lift": 1.0155730188518297,
+        "p": 0.09094776512913837,
+        "n_ch_tested": 5,
+        "n_ch_better": 3,
+        "within_median_lift": 1.3097037207165825,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "grace_mercy",
+        "n": 306,
+        "share_pct": 5.455517917632377,
+        "vpd_theme": 9.597581585081585,
+        "vpd_other": 9.490196078431373,
+        "lift": 1.0113154149569439,
+        "p": 0.9256441295400963,
+        "n_ch_tested": 22,
+        "n_ch_better": 14,
+        "within_median_lift": 1.4304352948895975,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "sorrow_pain",
+        "n": 453,
+        "share_pct": 8.076305936887145,
+        "vpd_theme": 9.490196078431373,
+        "vpd_other": 9.502564102564103,
+        "lift": 0.9986984540173328,
+        "p": 0.9386213773801259,
+        "n_ch_tested": 23,
+        "n_ch_better": 12,
+        "within_median_lift": 1.044925640479015,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "prayer",
+        "n": 1101,
+        "share_pct": 19.629167409520416,
+        "vpd_theme": 9.39,
+        "vpd_other": 9.556677681863142,
+        "lift": 0.9825590349060881,
+        "p": 0.3729063132611061,
+        "n_ch_tested": 32,
+        "n_ch_better": 12,
+        "within_median_lift": 0.887465562187268,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "hope_faith",
+        "n": 764,
+        "share_pct": 13.62096630415404,
+        "vpd_theme": 8.615305563167992,
+        "vpd_other": 9.664570230607966,
+        "lift": 0.8914318337594647,
+        "p": 0.5833755202879304,
+        "n_ch_tested": 29,
+        "n_ch_better": 10,
+        "within_median_lift": 0.8985953099513524,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "morning",
+        "n": 66,
+        "share_pct": 1.1766803351756105,
+        "vpd_theme": 8.493515066790929,
+        "vpd_other": 9.548961424332344,
+        "lift": 0.8894700365160171,
+        "p": 0.27333940357445063,
+        "n_ch_tested": 5,
+        "n_ch_better": 2,
+        "within_median_lift": 0.8267894812267906,
+        "verdict": "BÁC BỎ"
+      },
+      {
+        "theme": "healing",
+        "n": 733,
+        "share_pct": 13.06828311642004,
+        "vpd_theme": 7.367231638418079,
+        "vpd_other": 9.92921834612379,
+        "lift": 0.7419749855026735,
+        "p": 0.0014128619171733725,
+        "n_ch_tested": 30,
+        "n_ch_better": 13,
+        "within_median_lift": 0.8827912248586038,
+        "verdict": "BÁC BỎ (Simpson)"
+      },
+      {
+        "theme": "strength",
+        "n": 249,
+        "share_pct": 4.439293991798895,
+        "vpd_theme": 6.440506329113924,
+        "vpd_other": 9.64078144078144,
+        "lift": 0.6680481627630264,
+        "p": 0.0042292399964396505,
+        "n_ch_tested": 14,
+        "n_ch_better": 4,
+        "within_median_lift": 0.868414026709165,
+        "verdict": "BÁC BỎ (Simpson)"
+      },
+      {
+        "theme": "scripture",
+        "n": 652,
+        "share_pct": 11.62417543234088,
+        "vpd_theme": 6.172417048826544,
+        "vpd_other": 10.069565217391304,
+        "lift": 0.6129775134845014,
+        "p": 0.00028078296289154236,
+        "n_ch_tested": 18,
+        "n_ch_better": 13,
+        "within_median_lift": 1.2794505576295063,
+        "verdict": "TRÁNH"
+      },
+      {
+        "theme": "night_sleep",
+        "n": 283,
+        "share_pct": 5.045462649313603,
+        "vpd_theme": 2.3950617283950617,
+        "vpd_other": 10.131392782969886,
+        "lift": 0.2364000468347236,
+        "p": 4.8539024769815966e-32,
+        "n_ch_tested": 15,
+        "n_ch_better": 2,
+        "within_median_lift": 0.6656304698870663,
+        "verdict": "BÁC BỎ (Simpson)"
+      },
+      {
+        "theme": "instrumental",
+        "n": 58,
+        "share_pct": 1.034052415760385,
+        "vpd_theme": 1.686411465892598,
+        "vpd_other": 9.719298245614034,
+        "lift": 0.17351164901783048,
+        "p": 2.7106481212100333e-15,
+        "n_ch_tested": 2,
+        "n_ch_better": 0,
+        "within_median_lift": 0.2798193185453463,
+        "verdict": "TRÁNH"
+      }
+    ],
+    "base_vpd": 9.492307692307692,
+    "voice_gap": [
+      {
+        "word": "amen",
+        "in_comments": 2233,
+        "in_titles": 5,
+        "ratio": 446.6
+      },
+      {
+        "word": "thank",
+        "in_comments": 3062,
+        "in_titles": 24,
+        "ratio": 127.58333333333333
+      },
+      {
+        "word": "beautiful",
+        "in_comments": 970,
+        "in_titles": 11,
+        "ratio": 88.18181818181819
+      },
+      {
+        "word": "much",
+        "in_comments": 615,
+        "in_titles": 12,
+        "ratio": 51.25
+      },
+      {
+        "word": "always",
+        "in_comments": 556,
+        "in_titles": 11,
+        "ratio": 50.54545454545455
+      },
+      {
+        "word": "these",
+        "in_comments": 645,
+        "in_titles": 16,
+        "ratio": 40.3125
+      },
+      {
+        "word": "father",
+        "in_comments": 712,
+        "in_titles": 20,
+        "ratio": 35.6
+      },
+      {
+        "word": "bless",
+        "in_comments": 960,
+        "in_titles": 28,
+        "ratio": 34.285714285714285
+      },
+      {
+        "word": "christ",
+        "in_comments": 778,
+        "in_titles": 30,
+        "ratio": 25.933333333333334
+      },
+      {
+        "word": "name",
+        "in_comments": 789,
+        "in_titles": 32,
+        "ratio": 24.65625
+      },
+      {
+        "word": "good",
+        "in_comments": 530,
+        "in_titles": 26,
+        "ratio": 20.384615384615383
+      },
+      {
+        "word": "glory",
+        "in_comments": 713,
+        "in_titles": 36,
+        "ratio": 19.805555555555557
+      },
+      {
+        "word": "know",
+        "in_comments": 760,
+        "in_titles": 42,
+        "ratio": 18.095238095238095
+      },
+      {
+        "word": "love",
+        "in_comments": 1946,
+        "in_titles": 143,
+        "ratio": 13.608391608391608
+      },
+      {
+        "word": "life",
+        "in_comments": 774,
+        "in_titles": 74,
+        "ratio": 10.45945945945946
+      }
+    ],
+    "title_struct": {
+      "B1": {
+        "med_seg": 2.0,
+        "med_len": 74.0,
+        "pct_dur": 6.206896551724138,
+        "pct_emoji": 28.27586206896552
+      },
+      "B4": {
+        "med_seg": 2.0,
+        "med_len": 73.0,
+        "pct_dur": 4.968944099378882,
+        "pct_emoji": 27.95031055900621
+      }
+    },
+    "top_titles": [
+      {
+        "title": "Psalm 51 (Lyrics) | Create in Me a Clean Heart | Blues Worship Song”",
+        "view_count": 1180460,
+        "outlier_ratio": 1214.4650205761318,
+        "duration_band": "1-6m"
+      },
+      {
+        "title": "Powerful Christian Blues Worship | Faith That Lifts You Up",
+        "view_count": 540564,
+        "outlier_ratio": 1106.5793244626407,
+        "duration_band": "30-60m"
+      },
+      {
+        "title": "Psalm 23 (Lyrics) | The Lord Is My Shepherd | Christian Blues Worship”",
+        "view_count": 996738,
+        "outlier_ratio": 1025.4506172839506,
+        "duration_band": "1-6m"
+      },
+      {
+        "title": "No Weapon Formed Against Me Shall Prosper | Gospel Blues | Prayer for Protection in Battle",
+        "view_count": 240762,
+        "outlier_ratio": 917.1885714285714,
+        "duration_band": "1-3h"
+      },
+      {
+        "title": "Psalms 23 in Blues - 1950’s Gospel Soul Version",
+        "view_count": 805190,
+        "outlier_ratio": 849.3565400843881,
+        "duration_band": "1-6m"
+      },
+      {
+        "title": "Psalm 23 Gospel Blues 🙏 Deep Christian Blues Gospel Worship & Psalm Meditation",
+        "view_count": 82712,
+        "outlier_ratio": 755.3607305936073,
+        "duration_band": NaN
+      },
+      {
+        "title": "Señor sana mi corazón roto💔| Ya no aguanto mas | Blues Gospel | 1 hora de Adoración Profunda",
+        "view_count": 385701,
+        "outlier_ratio": 715.5862708719851,
+        "duration_band": "30-60m"
+      },
+      {
+        "title": "Jesus, Hold Me Together | Gospel Blues | Prayer, Reflection & Strength",
+        "view_count": 174453,
+        "outlier_ratio": 664.5828571428572,
+        "duration_band": "30-60m"
+      },
+      {
+        "title": "Psalm 121 (Lyrics) | I Lift My Eyes to the Hills | Worship Blues”",
+        "view_count": 601838,
+        "outlier_ratio": 619.1748971193416,
+        "duration_band": "1-6m"
+      },
+      {
+        "title": "God, I’m Not Okay Right Now | Gospel Blues | Prayer When You Feel Too Broken",
+        "view_count": 159046,
+        "outlier_ratio": 605.8895238095238,
+        "duration_band": "1-3h"
+      },
+      {
+        "title": "Cuando el Alma Duele | Blues Gospel Profundo para Sanidad Interior",
+        "view_count": 666092,
+        "outlier_ratio": 603.8912058023573,
+        "duration_band": "1-3h"
+      },
+      {
+        "title": "Found My Rest ❤️❤️✝️ #christianmusic #gospelmusic #bluesmusic #churchblues #gospelblues #churchmusic",
+        "view_count": 397220,
+        "outlier_ratio": 561.0451977401129,
+        "duration_band": "1-6m"
+      },
+      {
+        "title": "Start Your Day With God | Blues Worship Songs | Prayer & Holy Spirit Peace",
+        "view_count": 135502,
+        "outlier_ratio": 516.1980952380952,
+        "duration_band": "1-3h"
+      },
+      {
+        "title": "The Blood Still Covers Me~Ephesians 1:7 |Soulful Gospel Blues for Worship |Spirit Sound Gospel Blues",
+        "view_count": 729828,
+        "outlier_ratio": 484.1313432835821,
+        "duration_band": "1-6m"
+      },
+      {
+        "title": "Powerful Psalm 91 Blues | Anointed Christian R&B & Gospel Blues | Uplifting Christian Blues Song",
+        "view_count": 726564,
+        "outlier_ratio": 481.96616915422885,
+        "duration_band": "1-6m"
+      }
+    ]
+  },
+  "synthesis": {
+    "final_score": 12.2,
+    "verdict": "Theo dõi",
+    "recommendation": "VÀO CÓ ĐIỀU KIỆN",
+    "backtest_mean_abs_dT1": 0.4791666666666667,
+    "backtest_mean_abs_dT3": 0.5238095238095238,
+    "top_gap": "Old-school / vintage black gospel",
+    "hypotheses_confirmed": 4,
+    "hypotheses_unverified": 1,
+    "scenarios": {
+      "T2_drops_to_1": 9.2,
+      "RPM_is_6": 12.6,
+      "policy_tightens": 10.2
+    }
+  },
+  "data_audit": {
+    "sheets_total": 10,
+    "sheets_used_analysis": 7,
+    "sheets_metadata_only": 2,
+    "sheets_redundant": 1,
+    "crawl_clean": true,
+    "videos_never_crawled_comments": 1809,
+    "uncrawled_share_of_views_pct": 1.7264132010301994,
+    "lyrics_all_vocal": 53,
+    "cross_period_median_growth": 1.6236998025587899,
+    "cross_period_n_up": 33,
+    "cross_period_n_down": 17
+  }
+}

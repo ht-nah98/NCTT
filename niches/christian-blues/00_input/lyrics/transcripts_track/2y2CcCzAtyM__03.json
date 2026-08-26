@@ -1,0 +1,398 @@
+{
+ "track_id": "2y2CcCzAtyM#03",
+ "track_key": "2y2CcCzAtyM__03",
+ "video_id": "2y2CcCzAtyM",
+ "title": "3 — My Soul Waiteth",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 317.0,
+ "voiced_sec": 250.2,
+ "voice_ratio": 0.789,
+ "n_words": 292,
+ "words_per_min": 55.3,
+ "is_instrumental": false,
+ "n_segments": 47,
+ "n_segments_voiced": 47,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.9,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 12.52,
+   "text": "From him cometh my salvation He only is my rock and my salvation",
+   "avg_logprob": -0.38,
+   "no_speech_prob": 0.286,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 12.52,
+   "end": 19.42,
+   "text": "Hmm, songs 62 and 1",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.432,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 26.52,
+   "end": 32.7,
+   "text": "I will not rush what God is doing in my life",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.432,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 35.52,
+   "end": 40.42,
+   "text": "I will not force the timing of His hand",
+   "avg_logprob": -0.422,
+   "no_speech_prob": 0.432,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 42.88,
+   "end": 57.2,
+   "text": "I've learned to wait in quietness and trust That He will move exactly as He plans",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.263,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 57.2,
+   "end": 74.48,
+   "text": "My soul waited, my soul waited Quietly before my God alone",
+   "avg_logprob": -0.494,
+   "no_speech_prob": 0.662,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 74.48,
+   "end": 84.28,
+   "text": "My soul waited, my soul waited",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.59,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 85.48,
+   "end": 92.1,
+   "text": "He is my rock, my refuge and my home",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.59,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 94.48,
+   "end": 97.74,
+   "text": "From Him comeeth my salvation",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.59,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 97.74,
+   "end": 107.74,
+   "text": "Here's all I need My soul waited upon God",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.589,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 111.7,
+   "end": 117.74,
+   "text": "The world says move and hurry and achieve",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.589,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 118.34,
+   "end": 125.68,
+   "text": "But in his kingdom patience is its own reward",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.705,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 127.8,
+   "end": 134.04,
+   "text": "I pour my heart before him like a vessel",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.705,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 135.84,
+   "end": 143.76,
+   "text": "And trust the feeling to my faithful Lord",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.705,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 143.76,
+   "end": 147.32,
+   "text": "My soul waited",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.685,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 147.32,
+   "end": 152.32,
+   "text": "My soul waited",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.685,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 152.32,
+   "end": 154.4,
+   "text": "quietly",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.685,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 155.76,
+   "end": 159.42,
+   "text": "before my God alone",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.685,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 159.42,
+   "end": 164.62,
+   "text": "My soul waited",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.685,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 164.62,
+   "end": 168.62,
+   "text": "My soul waited",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.685,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 168.62,
+   "end": 176.86,
+   "text": "He is my Rock, my Refuge, and my home",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.592,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 178.96,
+   "end": 182.96,
+   "text": "From Him comeeth my salvation",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.592,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 183.62,
+   "end": 187.9,
+   "text": "He is all I need",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.592,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 187.9,
+   "end": 194.12,
+   "text": "My soul waited upon God",
+   "avg_logprob": -0.389,
+   "no_speech_prob": 0.592,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 198.98,
+   "end": 200.5,
+   "text": "Waiting is not weakness.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.169,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 202.54,
+   "end": 204.26,
+   "text": "Waiting is the work of faith.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.169,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 206.4,
+   "end": 213.66,
+   "text": "When you can sit still before God and trust that He has not forgotten you.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.169,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 215.02,
+   "end": 217.22,
+   "text": "That is some of the highest faith.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.169,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 218.46,
+   "end": 220.6,
+   "text": "You will ever walk in",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 222.22,
+   "end": 223.66,
+   "text": "Wait on the Lord",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 224.22,
+   "end": 225.9,
+   "text": "Wait on the Lord",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 225.9,
+   "end": 228.06,
+   "text": "Wait on the Lord",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 228.06,
+   "end": 230.16,
+   "text": "Wait on the Lord",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 230.16,
+   "end": 231.86,
+   "text": "He will not fail",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 231.86,
+   "end": 234.34,
+   "text": "He will not fail",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 234.34,
+   "end": 235.74,
+   "text": "My rocket, my strength",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 235.74,
+   "end": 238.02,
+   "text": "My rocket, my strength",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 238.02,
+   "end": 241.76,
+   "text": "My soul, waiteth",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 241.76,
+   "end": 246.22,
+   "text": "My soul, waiteth",
+   "avg_logprob": -0.174,
+   "no_speech_prob": 0.521,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 246.22,
+   "end": 254.28,
+   "text": "My soul waited, my soul waited",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.203,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 254.28,
+   "end": 258.04,
+   "text": "Quietly before my God alone",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.203,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 260.34,
+   "end": 269.06,
+   "text": "My soul waited, my soul waited",
+   "avg_logprob": -0.482,
+   "no_speech_prob": 0.203,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 269.06,
+   "end": 276.92,
+   "text": "He is my rock, my refuge, and my home",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.141,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 277.46,
+   "end": 284.8,
+   "text": "My soul waited upon God",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.141,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 286.1,
+   "end": 289.32,
+   "text": "My soul waited",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.141,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 290.58,
+   "end": 295.04,
+   "text": "My soul waited",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.141,
+   "track_id": "2y2CcCzAtyM#03"
+  },
+  {
+   "start": 311.12,
+   "end": 314.06,
+   "text": "It is of the Lord's mercies that we are not consumed",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.176,
+   "track_id": "2y2CcCzAtyM#03"
+  }
+ ]
+}

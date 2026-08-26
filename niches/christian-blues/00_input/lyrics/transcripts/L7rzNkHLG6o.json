@@ -1,0 +1,298 @@
+{
+ "video_id": "L7rzNkHLG6o",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 251.1,
+ "voiced_sec": 141.0,
+ "voice_ratio": 0.562,
+ "is_instrumental": false,
+ "n_segments": 28,
+ "n_segments_voiced": 26,
+ "n_tracks": 1,
+ "n_seg_mapped": 28,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 15.46,
+   "end": 26.88,
+   "text": "My hope is built on nothing less than Jesus' blood and righteousness",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.558,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 15.46,
+   "track_end": 26.88
+  },
+  {
+   "start": 29.54,
+   "end": 41.94,
+   "text": "I dare not trust the sweetest frame But holy lean on Jesus' name",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.868,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 29.54,
+   "track_end": 41.94
+  },
+  {
+   "start": 43.36,
+   "end": 51.0,
+   "text": "On Christ the solid rock I stand All of the ground is sinking sand",
+   "avg_logprob": -0.425,
+   "no_speech_prob": 0.868,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 43.36,
+   "track_end": 51.0
+  },
+  {
+   "start": 51.0,
+   "end": 55.0,
+   "text": "All of the ground is sinking sand",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.665,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 51.0,
+   "track_end": 55.0
+  },
+  {
+   "start": 58.0,
+   "end": 62.58,
+   "text": "When darkness fails his lovely face",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.665,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 58.0,
+   "track_end": 62.58
+  },
+  {
+   "start": 65.0,
+   "end": 69.24,
+   "text": "I rest on his unchanging grace",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.665,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 65.0,
+   "track_end": 69.24
+  },
+  {
+   "start": 72.0,
+   "end": 76.52,
+   "text": "In every high and stormy gate",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.665,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 72.0,
+   "track_end": 76.52
+  },
+  {
+   "start": 78.02,
+   "end": 90.68,
+   "text": "My anchor holds within the veil His oath, His covenant, His blood",
+   "avg_logprob": -0.459,
+   "no_speech_prob": 0.826,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 78.02,
+   "track_end": 90.68
+  },
+  {
+   "start": 92.14,
+   "end": 98.3,
+   "text": "support me in the welcoming floods",
+   "avg_logprob": -0.556,
+   "no_speech_prob": 0.826,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 92.14,
+   "track_end": 98.3
+  },
+  {
+   "start": 99.68,
+   "end": 104.34,
+   "text": "when all around my soul gets weighed",
+   "avg_logprob": -0.556,
+   "no_speech_prob": 0.826,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 99.68,
+   "track_end": 104.34
+  },
+  {
+   "start": 106.68,
+   "end": 110.84,
+   "text": "He then is all my hope and stay",
+   "avg_logprob": -0.556,
+   "no_speech_prob": 0.826,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 106.68,
+   "track_end": 110.84
+  },
+  {
+   "start": 110.84,
+   "end": 116.4,
+   "text": "Oh Christ the solid rock I stand",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.729,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 110.84,
+   "track_end": 116.4
+  },
+  {
+   "start": 116.4,
+   "end": 120.46,
+   "text": "All of the ground is sinking sand",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.729,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 116.4,
+   "track_end": 120.46
+  },
+  {
+   "start": 120.46,
+   "end": 125.38,
+   "text": "All of the ground is sinking sand",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.729,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 120.46,
+   "track_end": 125.38
+  },
+  {
+   "start": 125.38,
+   "end": 129.36,
+   "text": "Oh, yeah",
+   "avg_logprob": -0.392,
+   "no_speech_prob": 0.729,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 125.38,
+   "track_end": 129.36
+  },
+  {
+   "start": 142.46,
+   "end": 148.24,
+   "text": "When he shall come with trumpet sound",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.661,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 142.46,
+   "track_end": 148.24
+  },
+  {
+   "start": 148.84,
+   "end": 154.54,
+   "text": "Oh may I then in him be found",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.661,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 148.84,
+   "track_end": 154.54
+  },
+  {
+   "start": 156.26,
+   "end": 161.38,
+   "text": "Dressed in his righteousness alone",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.661,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 156.26,
+   "track_end": 161.38
+  },
+  {
+   "start": 163.96,
+   "end": 168.62,
+   "text": "Faultless to stand before the throne",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.661,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 163.96,
+   "track_end": 168.62
+  },
+  {
+   "start": 168.62,
+   "end": 173.96,
+   "text": "Oh Christ, the solid rock I stand",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.808,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 168.62,
+   "track_end": 173.96
+  },
+  {
+   "start": 174.54,
+   "end": 177.9,
+   "text": "All of the ground is sinking sand",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.808,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 174.54,
+   "track_end": 177.9
+  },
+  {
+   "start": 178.46,
+   "end": 182.62,
+   "text": "All of the ground is sinking sand",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.808,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 178.46,
+   "track_end": 182.62
+  },
+  {
+   "start": 184.06,
+   "end": 188.0,
+   "text": "Oh Christ, the solid rock I stand",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.808,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 184.06,
+   "track_end": 188.0
+  },
+  {
+   "start": 188.0,
+   "end": 191.98,
+   "text": "All of the ground is sinking sand",
+   "avg_logprob": -0.405,
+   "no_speech_prob": 0.808,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 188.0,
+   "track_end": 191.98
+  },
+  {
+   "start": 191.98,
+   "end": 196.58,
+   "text": "All of the ground is sinking sand",
+   "avg_logprob": -0.47,
+   "no_speech_prob": 0.417,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 191.98,
+   "track_end": 196.58
+  },
+  {
+   "start": 222.4,
+   "end": 228.54,
+   "text": "Oh, fall as you stand before the throne",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.525,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 222.4,
+   "track_end": 228.54
+  },
+  {
+   "start": 231.0,
+   "end": 240.36,
+   "text": "Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.525,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 231.0,
+   "track_end": 240.36
+  },
+  {
+   "start": 240.98,
+   "end": 244.88,
+   "text": "Fall as you stand before the throne",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.525,
+   "track_id": "L7rzNkHLG6o#01",
+   "track_start": 240.98,
+   "track_end": 244.88
+  }
+ ]
+}

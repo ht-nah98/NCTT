@@ -1,0 +1,4768 @@
+{
+ "video_id": "sGjecIPJalE",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 3224.8,
+ "voiced_sec": 2134.4,
+ "voice_ratio": 0.662,
+ "is_instrumental": false,
+ "n_segments": 475,
+ "n_segments_voiced": 470,
+ "n_tracks": 15,
+ "n_seg_mapped": 475,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.34,
+   "text": "🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 0.0,
+   "track_end": 0.34
+  },
+  {
+   "start": 10.96,
+   "end": 15.76,
+   "text": "🎵 Father the hour has come 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 10.96,
+   "track_end": 15.76
+  },
+  {
+   "start": 15.76,
+   "end": 19.7,
+   "text": "🎵 and glorify your Son 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 15.76,
+   "track_end": 19.7
+  },
+  {
+   "start": 19.7,
+   "end": 22.94,
+   "text": "🎵 that the Son may glorify you 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 19.7,
+   "track_end": 22.94
+  },
+  {
+   "start": 22.94,
+   "end": 25.64,
+   "text": "🎵 and your will be done 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 22.94,
+   "track_end": 25.64
+  },
+  {
+   "start": 25.64,
+   "end": 28.8,
+   "text": "🎵 You gave me power over all 🎵",
+   "avg_logprob": -0.35,
+   "no_speech_prob": 0.485,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 25.64,
+   "track_end": 28.8
+  },
+  {
+   "start": 28.8,
+   "end": 31.26,
+   "text": "To give eternal life",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 28.8,
+   "track_end": 31.26
+  },
+  {
+   "start": 31.8,
+   "end": 34.66,
+   "text": "To all whom you have given me",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 31.8,
+   "track_end": 34.66
+  },
+  {
+   "start": 34.66,
+   "end": 37.2,
+   "text": "The ones for whom I'll fight",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 34.66,
+   "track_end": 37.2
+  },
+  {
+   "start": 38.12,
+   "end": 40.44,
+   "text": "That they may be one",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 38.12,
+   "track_end": 40.44
+  },
+  {
+   "start": 40.44,
+   "end": 43.82,
+   "text": "As you father are in me",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 40.44,
+   "track_end": 43.82
+  },
+  {
+   "start": 44.8,
+   "end": 46.88,
+   "text": "That they may be one",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 44.8,
+   "track_end": 46.88
+  },
+  {
+   "start": 46.88,
+   "end": 49.9,
+   "text": "In perfect unity",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 46.88,
+   "track_end": 49.9
+  },
+  {
+   "start": 50.8,
+   "end": 53.18,
+   "text": "The world will know you since your son",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 50.8,
+   "track_end": 53.18
+  },
+  {
+   "start": 53.18,
+   "end": 56.24,
+   "text": "By the love they live and show",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.527,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 53.18,
+   "track_end": 56.24
+  },
+  {
+   "start": 57.16,
+   "end": 62.28,
+   "text": "That they may be one And all the world will know",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 57.16,
+   "track_end": 62.28
+  },
+  {
+   "start": 63.54,
+   "end": 69.16,
+   "text": "I've given them your holy word And the world has hated them",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 63.54,
+   "track_end": 69.16
+  },
+  {
+   "start": 70.02,
+   "end": 74.78,
+   "text": "They're not of this world, oh Lord, as I am not of them",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 70.02,
+   "track_end": 74.78
+  },
+  {
+   "start": 76.26,
+   "end": 81.5,
+   "text": "Sank to find them in your truth Your word forever stands",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.687,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 76.26,
+   "track_end": 81.5
+  },
+  {
+   "start": 81.5,
+   "end": 87.94,
+   "text": "As you have sent me to the world, I've sent them by your hands",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 81.5,
+   "track_end": 87.94
+  },
+  {
+   "start": 88.5,
+   "end": 94.34,
+   "text": "That they may be one, as you father are in me",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 88.5,
+   "track_end": 94.34
+  },
+  {
+   "start": 94.34,
+   "end": 100.24,
+   "text": "That they may be one, in perfect unity",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 94.34,
+   "track_end": 100.24
+  },
+  {
+   "start": 100.24,
+   "end": 106.84,
+   "text": "The world will know you sent your son, by the love they live and show",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.697,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 100.24,
+   "track_end": 106.84
+  },
+  {
+   "start": 106.84,
+   "end": 112.98,
+   "text": "That they may be one And all the world will know",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 106.84,
+   "track_end": 112.98
+  },
+  {
+   "start": 115.42,
+   "end": 120.7,
+   "text": "Father, I desire now That those You've given me",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 115.42,
+   "track_end": 120.7
+  },
+  {
+   "start": 120.7,
+   "end": 127.08,
+   "text": "Maybe with me where I am My glory they shall see",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 120.7,
+   "track_end": 127.08
+  },
+  {
+   "start": 127.08,
+   "end": 133.46,
+   "text": "The love You had before the world You've given now to them",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.572,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 127.08,
+   "track_end": 133.46
+  },
+  {
+   "start": 133.46,
+   "end": 140.6,
+   "text": "I am them and you and me forever without end",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 133.46,
+   "track_end": 140.6
+  },
+  {
+   "start": 141.46,
+   "end": 146.48,
+   "text": "That they may be one as you father are in me",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 141.46,
+   "track_end": 146.48
+  },
+  {
+   "start": 146.48,
+   "end": 152.28,
+   "text": "That they may be one in perfect unity",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 146.48,
+   "track_end": 152.28
+  },
+  {
+   "start": 152.28,
+   "end": 155.38,
+   "text": "The glory you gave I've given them",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 152.28,
+   "track_end": 155.38
+  },
+  {
+   "start": 155.38,
+   "end": 158.56,
+   "text": "Your love will never fade",
+   "avg_logprob": -0.206,
+   "no_speech_prob": 0.846,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 155.38,
+   "track_end": 158.56
+  },
+  {
+   "start": 159.66,
+   "end": 165.06,
+   "text": "That they may be one Just as we were made",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.505,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 159.66,
+   "track_end": 165.06
+  },
+  {
+   "start": 166.8,
+   "end": 175.74,
+   "text": "Oh, I have made your name known And we'll make it known again",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.505,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 166.8,
+   "track_end": 175.74
+  },
+  {
+   "start": 176.56,
+   "end": 184.12,
+   "text": "That the love with which you've loved me May live in them all men",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.505,
+   "track_id": "sGjecIPJalE#01",
+   "track_start": 176.56,
+   "track_end": 184.12
+  },
+  {
+   "start": 201.84,
+   "end": 202.56,
+   "text": "Oh!",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 7.84,
+   "track_end": 8.56
+  },
+  {
+   "start": 207.92,
+   "end": 213.3,
+   "text": "There was a man named Nakedimus, a ruler of the Jews.",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 13.92,
+   "track_end": 19.3
+  },
+  {
+   "start": 213.82,
+   "end": 218.06,
+   "text": "He came to me one night and said, rabbi, I know it's true.",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 19.82,
+   "track_end": 24.06
+  },
+  {
+   "start": 218.42,
+   "end": 223.06,
+   "text": "No one can do the signs you do, unless God is with him still.",
+   "avg_logprob": -0.525,
+   "no_speech_prob": 0.615,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 24.42,
+   "track_end": 29.06
+  },
+  {
+   "start": 223.06,
+   "end": 228.14,
+   "text": "I said unless one's born again he cannot see God's will",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 29.06,
+   "track_end": 34.14
+  },
+  {
+   "start": 228.14,
+   "end": 232.96,
+   "text": "Truly truly I say to you you must be born again",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 34.14,
+   "track_end": 38.96
+  },
+  {
+   "start": 232.96,
+   "end": 237.6,
+   "text": "Not of the flesh but of the spirit to see the life within",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 38.96,
+   "track_end": 43.6
+  },
+  {
+   "start": 237.6,
+   "end": 242.68,
+   "text": "The wind blows where it wishes you hear it sound my friend",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 43.6,
+   "track_end": 48.68
+  },
+  {
+   "start": 242.68,
+   "end": 247.46,
+   "text": "So it is with every soul that's born of God within",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 48.68,
+   "track_end": 53.46
+  },
+  {
+   "start": 257.28,
+   "end": 262.4,
+   "text": "He said how can a man be born when he's holding all his ways",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 63.28,
+   "track_end": 68.4
+  },
+  {
+   "start": 262.4,
+   "end": 267.42,
+   "text": "I said unless one's born of water and spirit he cannot see God's place",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 68.4,
+   "track_end": 73.42
+  },
+  {
+   "start": 267.42,
+   "end": 272.06,
+   "text": "That which is born of flesh is flesh, that which is born of spirit is free",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 73.42,
+   "track_end": 78.06
+  },
+  {
+   "start": 273.12,
+   "end": 277.28,
+   "text": "Marvel, not that I say to you, you must be born of me",
+   "avg_logprob": -0.172,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 79.12,
+   "track_end": 83.28
+  },
+  {
+   "start": 277.28,
+   "end": 282.1,
+   "text": "Truly, truly I say to you, you must be born again",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 83.28,
+   "track_end": 88.1
+  },
+  {
+   "start": 282.1,
+   "end": 286.62,
+   "text": "Out of the flesh, but of the spirit to see the light within",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 88.1,
+   "track_end": 92.62
+  },
+  {
+   "start": 287.34,
+   "end": 291.8,
+   "text": "The wind blows where it wishes you hear it sound, my friend",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 93.34,
+   "track_end": 97.8
+  },
+  {
+   "start": 291.8,
+   "end": 296.44,
+   "text": "So it is with every soul that's born of God within",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.371,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 97.8,
+   "track_end": 102.44
+  },
+  {
+   "start": 316.66,
+   "end": 321.68,
+   "text": "As Moses lifted up the snake, so must the Son of Man be raised",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 122.66,
+   "track_end": 127.68
+  },
+  {
+   "start": 321.68,
+   "end": 326.44,
+   "text": "That whoever leaves in him will never be erased",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 127.68,
+   "track_end": 132.44
+  },
+  {
+   "start": 326.44,
+   "end": 331.38,
+   "text": "For God so loved this broken world, he gave his only Son",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 132.44,
+   "track_end": 137.38
+  },
+  {
+   "start": 331.38,
+   "end": 335.9,
+   "text": "That all who put their trust in him will have life that's never done",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.367,
+   "track_id": "sGjecIPJalE#02",
+   "track_start": 137.38,
+   "track_end": 141.9
+  },
+  {
+   "start": 358.34,
+   "end": 362.2,
+   "text": "When they came to the place called the skull",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.399,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 10.34,
+   "track_end": 14.2
+  },
+  {
+   "start": 364.0,
+   "end": 366.52,
+   "text": "There they crucified Him",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.399,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 16.0,
+   "track_end": 18.52
+  },
+  {
+   "start": 367.94,
+   "end": 371.5,
+   "text": "One on His right and one on His left",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.399,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 19.94,
+   "track_end": 23.5
+  },
+  {
+   "start": 371.5,
+   "end": 376.26,
+   "text": "And Jesus in between them",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 23.5,
+   "track_end": 28.26
+  },
+  {
+   "start": 377.66,
+   "end": 380.84,
+   "text": "He lifted His voice and said",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 29.66,
+   "track_end": 32.84
+  },
+  {
+   "start": 381.5,
+   "end": 384.52,
+   "text": "Father forgive them now",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 33.5,
+   "track_end": 36.52
+  },
+  {
+   "start": 384.52,
+   "end": 387.94,
+   "text": "They know not what they're doing",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 36.52,
+   "track_end": 39.94
+  },
+  {
+   "start": 389.2,
+   "end": 393.26,
+   "text": "Mercy poured out somehow",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 41.2,
+   "track_end": 45.26
+  },
+  {
+   "start": 396.34,
+   "end": 399.34,
+   "text": "Forgive them father",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.451,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 48.34,
+   "track_end": 51.34
+  },
+  {
+   "start": 399.34,
+   "end": 406.08,
+   "text": "They know not what they do Forgive them father",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 51.34,
+   "track_end": 58.08
+  },
+  {
+   "start": 406.08,
+   "end": 413.54,
+   "text": "They know not what they do He bore the cross with love",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 58.08,
+   "track_end": 65.54
+  },
+  {
+   "start": 413.54,
+   "end": 423.92,
+   "text": "Unending grace for me and grace for you Forgive them father",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 65.54,
+   "track_end": 75.92
+  },
+  {
+   "start": 423.92,
+   "end": 428.38,
+   "text": "They know not what they do",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 75.92,
+   "track_end": 80.38
+  },
+  {
+   "start": 430.26,
+   "end": 432.62,
+   "text": "The people stood watching",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 82.26,
+   "track_end": 84.62
+  },
+  {
+   "start": 433.86,
+   "end": 436.64,
+   "text": "The ruler scoffed and said",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 85.86,
+   "track_end": 88.64
+  },
+  {
+   "start": 436.64,
+   "end": 440.5,
+   "text": "He saved others, let him save himself",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 88.64,
+   "track_end": 92.5
+  },
+  {
+   "start": 440.5,
+   "end": 444.24,
+   "text": "If he truly is the Christ of God",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 92.5,
+   "track_end": 96.24
+  },
+  {
+   "start": 444.24,
+   "end": 447.46,
+   "text": "The soldiers mocked and offered wine",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 96.24,
+   "track_end": 99.46
+  },
+  {
+   "start": 447.46,
+   "end": 451.18,
+   "text": "Saying, save yourself, oh King",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.616,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 99.46,
+   "track_end": 103.18
+  },
+  {
+   "start": 451.18,
+   "end": 457.56,
+   "text": "But over him, alright and red, this is the King of the Jews.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 103.18,
+   "track_end": 109.56
+  },
+  {
+   "start": 457.72,
+   "end": 459.8,
+   "text": "Forgive them, Father.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 109.72,
+   "track_end": 111.8
+  },
+  {
+   "start": 460.68,
+   "end": 463.76,
+   "text": "They know not what they do.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 112.68,
+   "track_end": 115.76
+  },
+  {
+   "start": 464.64,
+   "end": 466.96,
+   "text": "Forgive them, Father.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 116.64,
+   "track_end": 118.96
+  },
+  {
+   "start": 468.2,
+   "end": 470.9,
+   "text": "They know not what they do.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 120.2,
+   "track_end": 122.9
+  },
+  {
+   "start": 471.78,
+   "end": 475.52,
+   "text": "He bore the cross with love unending.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 123.78,
+   "track_end": 127.52
+  },
+  {
+   "start": 476.36,
+   "end": 479.64,
+   "text": "And grace for me, and grace for you.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.5,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 128.36,
+   "track_end": 131.64
+  },
+  {
+   "start": 482.02,
+   "end": 489.04,
+   "text": "Forgive them father, they know not what they do",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.268,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 134.02,
+   "track_end": 141.04
+  },
+  {
+   "start": 490.72,
+   "end": 496.78,
+   "text": "One thief said, remember me when you come into your kingdom",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.268,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 142.72,
+   "track_end": 148.78
+  },
+  {
+   "start": 498.18,
+   "end": 503.94,
+   "text": "And Jesus said, today you'll be with me in paradise forevermore",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.268,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 150.18,
+   "track_end": 155.94
+  },
+  {
+   "start": 503.94,
+   "end": 504.7,
+   "text": "Oh yeah",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 155.94,
+   "track_end": 156.7
+  },
+  {
+   "start": 504.7,
+   "end": 510.9,
+   "text": "Darkness fell over all the land The veil of the temple tore in two",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 156.7,
+   "track_end": 162.9
+  },
+  {
+   "start": 510.9,
+   "end": 519.76,
+   "text": "He cried with a loud voice, Father Into your hands I commit my spirit",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 162.9,
+   "track_end": 171.76
+  },
+  {
+   "start": 521.08,
+   "end": 528.0,
+   "text": "Forgive them father They know not what they do",
+   "avg_logprob": -0.411,
+   "no_speech_prob": 0.455,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 173.08,
+   "track_end": 180.0
+  },
+  {
+   "start": 528.0,
+   "end": 534.92,
+   "text": "Forgive them father, they know not what they do",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 180.0,
+   "track_end": 186.92
+  },
+  {
+   "start": 534.92,
+   "end": 539.0,
+   "text": "Love's spoken louder than they hate",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 186.92,
+   "track_end": 191.0
+  },
+  {
+   "start": 539.54,
+   "end": 542.68,
+   "text": "Mercy made all things new",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 191.54,
+   "track_end": 194.68
+  },
+  {
+   "start": 542.68,
+   "end": 552.94,
+   "text": "Forgive them father, they know not what they do",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.597,
+   "track_id": "sGjecIPJalE#03",
+   "track_start": 194.68,
+   "track_end": 204.94
+  },
+  {
+   "start": 586.06,
+   "end": 594.48,
+   "text": "I walked into the temple, saw what they had done.",
+   "avg_logprob": -0.576,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 17.06,
+   "track_end": 25.48
+  },
+  {
+   "start": 596.64,
+   "end": 603.48,
+   "text": "Tables full of silver, cones gleaming in the sun",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.397,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 27.64,
+   "track_end": 34.48
+  },
+  {
+   "start": 605.44,
+   "end": 612.98,
+   "text": "Money changes shouting, selling lambs at the door",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.397,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 36.44,
+   "track_end": 43.98
+  },
+  {
+   "start": 612.98,
+   "end": 617.8,
+   "text": "I felt the fire rise within",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.397,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 43.98,
+   "track_end": 48.8
+  },
+  {
+   "start": 619.4,
+   "end": 622.76,
+   "text": "Couldn't take it anymore",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.422,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 50.4,
+   "track_end": 53.76
+  },
+  {
+   "start": 628.8,
+   "end": 634.82,
+   "text": "My father's house is a house of prayer Not a den of thieves beware",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.422,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 59.8,
+   "track_end": 65.82
+  },
+  {
+   "start": 635.48,
+   "end": 641.42,
+   "text": "You turn my temple into a store My father's house no more",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.422,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 66.48,
+   "track_end": 72.42
+  },
+  {
+   "start": 641.42,
+   "end": 644.4,
+   "text": "The zeal for God consumes my soul",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 72.42,
+   "track_end": 75.4
+  },
+  {
+   "start": 644.4,
+   "end": 647.34,
+   "text": "His glory is what I came here for",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 75.4,
+   "track_end": 78.34
+  },
+  {
+   "start": 647.34,
+   "end": 650.24,
+   "text": "I drove a mile from roof to floor",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 78.34,
+   "track_end": 81.24
+  },
+  {
+   "start": 650.24,
+   "end": 653.38,
+   "text": "My Father's house no more",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 81.24,
+   "track_end": 84.38
+  },
+  {
+   "start": 654.18,
+   "end": 657.28,
+   "text": "I made a whip of chords in hand",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 85.18,
+   "track_end": 88.28
+  },
+  {
+   "start": 657.28,
+   "end": 660.32,
+   "text": "Turned over every stand",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 88.28,
+   "track_end": 91.32
+  },
+  {
+   "start": 660.32,
+   "end": 663.32,
+   "text": "Take these things and leave this place",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 91.32,
+   "track_end": 94.32
+  },
+  {
+   "start": 663.32,
+   "end": 666.22,
+   "text": "Don't make my Father's house disgrace",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 94.32,
+   "track_end": 97.22
+  },
+  {
+   "start": 666.22,
+   "end": 669.54,
+   "text": "The dog flew out, the coins rolled down",
+   "avg_logprob": -0.368,
+   "no_speech_prob": 0.468,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 97.22,
+   "track_end": 100.54
+  },
+  {
+   "start": 669.54,
+   "end": 672.66,
+   "text": "The merchants ran, hearts hit the ground",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 100.54,
+   "track_end": 103.66
+  },
+  {
+   "start": 672.66,
+   "end": 675.68,
+   "text": "My voice rang out across the floor",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 103.66,
+   "track_end": 106.68
+  },
+  {
+   "start": 675.68,
+   "end": 679.64,
+   "text": "My father's house, no more",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 106.68,
+   "track_end": 110.64
+  },
+  {
+   "start": 680.82,
+   "end": 684.48,
+   "text": "My father's house is a house of prayer",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 111.82,
+   "track_end": 115.48
+  },
+  {
+   "start": 684.48,
+   "end": 687.7,
+   "text": "Not a den of thieves beware",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 115.48,
+   "track_end": 118.7
+  },
+  {
+   "start": 687.7,
+   "end": 690.38,
+   "text": "You turn my temple into a store",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 118.7,
+   "track_end": 121.38
+  },
+  {
+   "start": 690.38,
+   "end": 693.8,
+   "text": "My father's house, no more",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 121.38,
+   "track_end": 124.8
+  },
+  {
+   "start": 693.8,
+   "end": 696.54,
+   "text": "This year for God consumed my soul",
+   "avg_logprob": -0.158,
+   "no_speech_prob": 0.738,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 124.8,
+   "track_end": 127.54
+  },
+  {
+   "start": 696.74,
+   "end": 699.9,
+   "text": "His glory is what I came here for",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.696,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 127.74,
+   "track_end": 130.9
+  },
+  {
+   "start": 699.9,
+   "end": 702.86,
+   "text": "I drove a mountain from roof to floor",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.696,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 130.9,
+   "track_end": 133.86
+  },
+  {
+   "start": 702.86,
+   "end": 706.62,
+   "text": "My father's house no more",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.696,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 133.86,
+   "track_end": 137.62
+  },
+  {
+   "start": 729.48,
+   "end": 739.96,
+   "text": "I said destroy this temple And in three days I'll raise it up",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.57,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 160.48,
+   "track_end": 170.96
+  },
+  {
+   "start": 740.62,
+   "end": 748.0,
+   "text": "From death to grave It did not see what I came for",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.57,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 171.62,
+   "track_end": 179.0
+  },
+  {
+   "start": 748.0,
+   "end": 756.92,
+   "text": "My father's house forevermore",
+   "avg_logprob": -0.512,
+   "no_speech_prob": 0.466,
+   "track_id": "sGjecIPJalE#04",
+   "track_start": 179.0,
+   "track_end": 187.92
+  },
+  {
+   "start": 845.0,
+   "end": 848.36,
+   "text": "brought a trembling within my reach.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 30.0,
+   "track_end": 33.36
+  },
+  {
+   "start": 848.8,
+   "end": 855.02,
+   "text": "Caught in sin, the accuser said, Moses said,",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 33.8,
+   "track_end": 40.02
+  },
+  {
+   "start": 855.32,
+   "end": 857.18,
+   "text": "she should be dead.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 40.32,
+   "track_end": 42.18
+  },
+  {
+   "start": 857.8,
+   "end": 861.78,
+   "text": "But I've been down, wrote in the sand.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 42.8,
+   "track_end": 46.78
+  },
+  {
+   "start": 862.6,
+   "end": 866.22,
+   "text": "Truth was heavy on every man.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 47.6,
+   "track_end": 51.22
+  },
+  {
+   "start": 866.92,
+   "end": 870.7,
+   "text": "Their stones grew still, their hearts grew sore.",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.682,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 51.92,
+   "track_end": 55.7
+  },
+  {
+   "start": 870.7,
+   "end": 875.04,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 55.7,
+   "track_end": 60.04
+  },
+  {
+   "start": 875.04,
+   "end": 877.4,
+   "text": "He that's without sin",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 60.04,
+   "track_end": 62.4
+  },
+  {
+   "start": 877.4,
+   "end": 879.4,
+   "text": "Let them cast their stone",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 62.4,
+   "track_end": 64.4
+  },
+  {
+   "start": 879.4,
+   "end": 881.88,
+   "text": "One by one",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 64.4,
+   "track_end": 66.88
+  },
+  {
+   "start": 881.88,
+   "end": 884.36,
+   "text": "They all went home",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 66.88,
+   "track_end": 69.36
+  },
+  {
+   "start": 884.36,
+   "end": 886.22,
+   "text": "Mercy spoke",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 69.36,
+   "track_end": 71.22
+  },
+  {
+   "start": 886.22,
+   "end": 888.44,
+   "text": "And shame was torn",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 71.22,
+   "track_end": 73.44
+  },
+  {
+   "start": 889.46,
+   "end": 893.28,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 74.46,
+   "track_end": 78.28
+  },
+  {
+   "start": 893.28,
+   "end": 895.36,
+   "text": "No one left",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 78.28,
+   "track_end": 80.36
+  },
+  {
+   "start": 895.36,
+   "end": 897.48,
+   "text": "To curse or accuse",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 80.36,
+   "track_end": 82.48
+  },
+  {
+   "start": 897.48,
+   "end": 899.88,
+   "text": "Forgiven they clean",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.785,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 82.48,
+   "track_end": 84.88
+  },
+  {
+   "start": 899.88,
+   "end": 906.76,
+   "text": "said free to choose my grace has opened freedom's door",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 84.88,
+   "track_end": 91.76
+  },
+  {
+   "start": 907.6,
+   "end": 911.8,
+   "text": "go and sin no more",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 92.6,
+   "track_end": 96.8
+  },
+  {
+   "start": 915.52,
+   "end": 920.5,
+   "text": "woman I said where are they now",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 100.52,
+   "track_end": 105.5
+  },
+  {
+   "start": 921.04,
+   "end": 924.8,
+   "text": "does no one stand to judge you now",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.564,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 106.04,
+   "track_end": 109.8
+  },
+  {
+   "start": 924.8,
+   "end": 929.1,
+   "text": "She whispered soft, no one Lord",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 109.8,
+   "track_end": 114.1
+  },
+  {
+   "start": 929.1,
+   "end": 933.48,
+   "text": "And I spoke truth she'd not heard before",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 114.1,
+   "track_end": 118.48
+  },
+  {
+   "start": 933.48,
+   "end": 938.36,
+   "text": "Neither do I condemn your soul",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 118.48,
+   "track_end": 123.36
+  },
+  {
+   "start": 938.36,
+   "end": 943.18,
+   "text": "My mercy's here to make you whole",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 123.36,
+   "track_end": 128.18
+  },
+  {
+   "start": 943.18,
+   "end": 947.34,
+   "text": "Walk in life, your chains are no more",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 128.18,
+   "track_end": 132.34
+  },
+  {
+   "start": 947.34,
+   "end": 951.76,
+   "text": "Going sin no more",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 132.34,
+   "track_end": 136.76
+  },
+  {
+   "start": 951.76,
+   "end": 953.82,
+   "text": "He lasts without sin",
+   "avg_logprob": -0.442,
+   "no_speech_prob": 0.425,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 136.76,
+   "track_end": 138.82
+  },
+  {
+   "start": 953.82,
+   "end": 958.46,
+   "text": "Let them cast their stone for one by one",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 138.82,
+   "track_end": 143.46
+  },
+  {
+   "start": 958.46,
+   "end": 965.18,
+   "text": "They all went home but she spoke and shame was torn",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 143.46,
+   "track_end": 150.18
+  },
+  {
+   "start": 965.72,
+   "end": 969.84,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 150.72,
+   "track_end": 154.84
+  },
+  {
+   "start": 969.84,
+   "end": 976.22,
+   "text": "No one left to curse or accuse, forgive or make clean",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.588,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 154.84,
+   "track_end": 161.22
+  },
+  {
+   "start": 976.32,
+   "end": 983.18,
+   "text": "Set free to choose my grace as open freedom's door",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.428,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 161.32,
+   "track_end": 168.18
+  },
+  {
+   "start": 984.04,
+   "end": 988.4,
+   "text": "Go and sin no more",
+   "avg_logprob": -0.696,
+   "no_speech_prob": 0.428,
+   "track_id": "sGjecIPJalE#05",
+   "track_start": 169.04,
+   "track_end": 173.4
+  },
+  {
+   "start": 1076.14,
+   "end": 1082.32,
+   "text": "I said when you pray don't pray for show as a hypocrite's often do",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.642,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 15.14,
+   "track_end": 21.32
+  },
+  {
+   "start": 1083.4,
+   "end": 1088.38,
+   "text": "But go to your father who sees in secret and he'll reward what's true",
+   "avg_logprob": -0.388,
+   "no_speech_prob": 0.642,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 22.4,
+   "track_end": 27.38
+  },
+  {
+   "start": 1088.38,
+   "end": 1091.72,
+   "text": "Don't heap up words like the Gentiles say",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 27.38,
+   "track_end": 30.72
+  },
+  {
+   "start": 1091.72,
+   "end": 1094.1,
+   "text": "Thinkin' they'll make me hear",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 30.72,
+   "track_end": 33.1
+  },
+  {
+   "start": 1094.62,
+   "end": 1097.38,
+   "text": "Your Father knows before your ask",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 33.62,
+   "track_end": 36.38
+  },
+  {
+   "start": 1097.38,
+   "end": 1099.66,
+   "text": "So pray these words sincere",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 36.38,
+   "track_end": 38.66
+  },
+  {
+   "start": 1099.66,
+   "end": 1102.56,
+   "text": "Our Father who art in heaven",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 38.66,
+   "track_end": 41.56
+  },
+  {
+   "start": 1102.56,
+   "end": 1105.62,
+   "text": "I'll be thy name",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 41.56,
+   "track_end": 44.62
+  },
+  {
+   "start": 1105.62,
+   "end": 1107.04,
+   "text": "Thy kingdom comes",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 44.62,
+   "track_end": 46.04
+  },
+  {
+   "start": 1107.04,
+   "end": 1110.96,
+   "text": "I will be done on earth as heaven's flame",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 46.04,
+   "track_end": 49.96
+  },
+  {
+   "start": 1110.96,
+   "end": 1114.0,
+   "text": "Give us this day our daily bread",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 49.96,
+   "track_end": 53.0
+  },
+  {
+   "start": 1114.0,
+   "end": 1117.04,
+   "text": "And forgive us all our wrongs",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.379,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 53.0,
+   "track_end": 56.04
+  },
+  {
+   "start": 1117.04,
+   "end": 1120.0,
+   "text": "As we forgive those who sin against us",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 56.04,
+   "track_end": 59.0
+  },
+  {
+   "start": 1120.0,
+   "end": 1122.3,
+   "text": "And lead us to be strong",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 59.0,
+   "track_end": 61.3
+  },
+  {
+   "start": 1122.3,
+   "end": 1125.26,
+   "text": "Lead us not into temptation snare",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 61.3,
+   "track_end": 64.26
+  },
+  {
+   "start": 1125.26,
+   "end": 1128.02,
+   "text": "But deliver us from sin",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 64.26,
+   "track_end": 67.02
+  },
+  {
+   "start": 1128.54,
+   "end": 1130.56,
+   "text": "The Thine is the kingdom, the power",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 67.54,
+   "track_end": 69.56
+  },
+  {
+   "start": 1130.56,
+   "end": 1133.6,
+   "text": "The glory forever without end",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 69.56,
+   "track_end": 72.6
+  },
+  {
+   "start": 1133.6,
+   "end": 1136.72,
+   "text": "Pray like this with a humble heart",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 72.6,
+   "track_end": 75.72
+  },
+  {
+   "start": 1136.72,
+   "end": 1139.44,
+   "text": "In heaven hears your cry",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 75.72,
+   "track_end": 78.44
+  },
+  {
+   "start": 1140.04,
+   "end": 1142.24,
+   "text": "Your Father loves to give good gifts",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 79.04,
+   "track_end": 81.24
+  },
+  {
+   "start": 1142.24,
+   "end": 1145.0,
+   "text": "When faith lifts hands on high",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.325,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 81.24,
+   "track_end": 84.0
+  },
+  {
+   "start": 1145.0,
+   "end": 1150.82,
+   "text": "Our Father who art in heaven, hallowed be thy name.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 84.0,
+   "track_end": 89.82
+  },
+  {
+   "start": 1151.06,
+   "end": 1156.1,
+   "text": "Thy kingdom come, thy will be done on earth as heavens play.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 90.06,
+   "track_end": 95.1
+  },
+  {
+   "start": 1156.48,
+   "end": 1162.34,
+   "text": "Give us this day our daily bread and forgive us all our wrongs",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 95.48,
+   "track_end": 101.34
+  },
+  {
+   "start": 1162.34,
+   "end": 1167.66,
+   "text": "as we forgive those who sin against us and lead us to be strong.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.239,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 101.34,
+   "track_end": 106.66
+  },
+  {
+   "start": 1167.66,
+   "end": 1174.4,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 106.66,
+   "track_end": 113.4
+  },
+  {
+   "start": 1174.4,
+   "end": 1179.32,
+   "text": "Oh, oh, oh",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 113.4,
+   "track_end": 118.32
+  },
+  {
+   "start": 1180.46,
+   "end": 1185.68,
+   "text": "for Thine is the kingdom The power and the glory",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 119.46,
+   "track_end": 124.68
+  },
+  {
+   "start": 1186.96,
+   "end": 1189.3,
+   "text": "Forever and ever, men",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 125.96,
+   "track_end": 128.3
+  },
+  {
+   "start": 1189.98,
+   "end": 1191.16,
+   "text": "That's the prayer's story",
+   "avg_logprob": -1.373,
+   "no_speech_prob": 0.431,
+   "track_id": "sGjecIPJalE#06",
+   "track_start": 128.98,
+   "track_end": 130.16
+  },
+  {
+   "start": 1244.34,
+   "end": 1245.24,
+   "text": "Hmm",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 30.34,
+   "track_end": 31.24
+  },
+  {
+   "start": 1249.92,
+   "end": 1255.36,
+   "text": "I spoke again to the people there",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 35.92,
+   "track_end": 41.36
+  },
+  {
+   "start": 1257.0,
+   "end": 1259.0,
+   "text": "And lifted up my voice",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 43.0,
+   "track_end": 45.0
+  },
+  {
+   "start": 1261.34,
+   "end": 1265.0,
+   "text": "I am the light of the world I set in",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 47.34,
+   "track_end": 51.0
+  },
+  {
+   "start": 1265.98,
+   "end": 1268.0,
+   "text": "And me make your choice",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 51.98,
+   "track_end": 54.0
+  },
+  {
+   "start": 1269.1,
+   "end": 1273.34,
+   "text": "He who follows me won't walk in dark",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.323,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 55.1,
+   "track_end": 59.34
+  },
+  {
+   "start": 1274.0,
+   "end": 1277.26,
+   "text": "But have the light of life",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 60.0,
+   "track_end": 63.26
+  },
+  {
+   "start": 1278.0,
+   "end": 1282.62,
+   "text": "My words are truth that pierce the heart",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 64.0,
+   "track_end": 68.62
+  },
+  {
+   "start": 1282.62,
+   "end": 1287.4,
+   "text": "And cut through every strife",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 68.62,
+   "track_end": 73.4
+  },
+  {
+   "start": 1288.0,
+   "end": 1291.2,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 74.0,
+   "track_end": 77.2
+  },
+  {
+   "start": 1293.0,
+   "end": 1295.94,
+   "text": "The darkness fades away",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 79.0,
+   "track_end": 81.94
+  },
+  {
+   "start": 1297.7,
+   "end": 1301.4,
+   "text": "Those who walk and follow me",
+   "avg_logprob": -0.155,
+   "no_speech_prob": 0.546,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 83.7,
+   "track_end": 87.4
+  },
+  {
+   "start": 1301.4,
+   "end": 1305.54,
+   "text": "We'll see eternal day",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 87.4,
+   "track_end": 91.54
+  },
+  {
+   "start": 1306.4,
+   "end": 1309.08,
+   "text": "The night is coming",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 92.4,
+   "track_end": 95.08
+  },
+  {
+   "start": 1309.08,
+   "end": 1311.52,
+   "text": "Work must shine",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 95.08,
+   "track_end": 97.52
+  },
+  {
+   "start": 1311.52,
+   "end": 1316.02,
+   "text": "While daylight is still unfurls",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 97.52,
+   "track_end": 102.02
+  },
+  {
+   "start": 1316.02,
+   "end": 1319.64,
+   "text": "As long as I am in this world",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 102.02,
+   "track_end": 105.64
+  },
+  {
+   "start": 1322.4,
+   "end": 1326.46,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 108.4,
+   "track_end": 112.46
+  },
+  {
+   "start": 1327.4,
+   "end": 1328.7,
+   "text": "Oh",
+   "avg_logprob": -0.228,
+   "no_speech_prob": 0.33,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 113.4,
+   "track_end": 114.7
+  },
+  {
+   "start": 1333.78,
+   "end": 1340.78,
+   "text": "I came to do the works of Him who sent me from above",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.259,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 119.78,
+   "track_end": 126.78
+  },
+  {
+   "start": 1340.78,
+   "end": 1349.92,
+   "text": "to open blind eyes to the truth and show the Father's love",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.259,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 126.78,
+   "track_end": 135.92
+  },
+  {
+   "start": 1349.92,
+   "end": 1354.92,
+   "text": "The blind man saw and worshiped me",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 135.92,
+   "track_end": 140.92
+  },
+  {
+   "start": 1354.92,
+   "end": 1358.8,
+   "text": "He said, Lord, I believe",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 140.92,
+   "track_end": 144.8
+  },
+  {
+   "start": 1358.8,
+   "end": 1364.06,
+   "text": "The light had come, the darkness fled",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 144.8,
+   "track_end": 150.06
+  },
+  {
+   "start": 1364.06,
+   "end": 1367.6,
+   "text": "And every heart was free",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 150.06,
+   "track_end": 153.6
+  },
+  {
+   "start": 1369.32,
+   "end": 1372.84,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 155.32,
+   "track_end": 158.84
+  },
+  {
+   "start": 1373.92,
+   "end": 1377.34,
+   "text": "The darkness fades away",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.338,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 159.92,
+   "track_end": 163.34
+  },
+  {
+   "start": 1379.04,
+   "end": 1387.04,
+   "text": "Those who walk and follow me will see eternal day",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.61,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 165.04,
+   "track_end": 173.04
+  },
+  {
+   "start": 1387.04,
+   "end": 1397.52,
+   "text": "The light is coming, work must shine while daylight still unfurls",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.61,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 173.04,
+   "track_end": 183.52
+  },
+  {
+   "start": 1397.52,
+   "end": 1408.6,
+   "text": "As long as I am in this world I am the light of the world",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.382,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 183.52,
+   "track_end": 194.6
+  },
+  {
+   "start": 1416.52,
+   "end": 1424.6,
+   "text": "I came not here to judge the world But that the world might see",
+   "avg_logprob": -0.252,
+   "no_speech_prob": 0.382,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 202.52,
+   "track_end": 210.6
+  },
+  {
+   "start": 1424.6,
+   "end": 1433.8,
+   "text": "Those who believe will walk in life and live eternally",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.526,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 210.6,
+   "track_end": 219.8
+  },
+  {
+   "start": 1435.14,
+   "end": 1440.52,
+   "text": "I am the light of the world",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.526,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 221.14,
+   "track_end": 226.52
+  },
+  {
+   "start": 1443.18,
+   "end": 1448.3,
+   "text": "The lamp that will not fade",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.526,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 229.18,
+   "track_end": 234.3
+  },
+  {
+   "start": 1459.42,
+   "end": 1467.64,
+   "text": "I am the light of the light of the world",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.787,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 245.42,
+   "track_end": 253.64
+  },
+  {
+   "start": 1467.64,
+   "end": 1471.88,
+   "text": "The truth, the lie, the way",
+   "avg_logprob": -0.573,
+   "no_speech_prob": 0.249,
+   "track_id": "sGjecIPJalE#07",
+   "track_start": 253.64,
+   "track_end": 257.88
+  },
+  {
+   "start": 1494.2,
+   "end": 1503.06,
+   "text": "As I drew near and saw the place, my tears began to fall",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.79,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 5.2,
+   "track_end": 14.06
+  },
+  {
+   "start": 1505.72,
+   "end": 1513.56,
+   "text": "If you had known this peace today, you would have heard my call",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.79,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 16.72,
+   "track_end": 24.56
+  },
+  {
+   "start": 1515.48,
+   "end": 1523.64,
+   "text": "But now your eyes are blind to see The things that make you free",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.587,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 26.48,
+   "track_end": 34.64
+  },
+  {
+   "start": 1526.76,
+   "end": 1535.12,
+   "text": "Your enemies will help you in And bring you to your knees",
+   "avg_logprob": -0.407,
+   "no_speech_prob": 0.587,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 37.76,
+   "track_end": 46.12
+  },
+  {
+   "start": 1542.38,
+   "end": 1551.12,
+   "text": "How often I longed for you to gather you close like a mother head",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.709,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 53.38,
+   "track_end": 62.12
+  },
+  {
+   "start": 1552.44,
+   "end": 1559.78,
+   "text": "Protecting her young from the dew But you were not willing",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.709,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 63.44,
+   "track_end": 70.78
+  },
+  {
+   "start": 1559.78,
+   "end": 1566.74,
+   "text": "You turned away, your heart grew hard once more",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 70.78,
+   "track_end": 77.74
+  },
+  {
+   "start": 1569.34,
+   "end": 1575.62,
+   "text": "Jerusalem, Jerusalem, you closed the open door",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 80.34,
+   "track_end": 86.62
+  },
+  {
+   "start": 1577.6,
+   "end": 1582.06,
+   "text": "They'll build their ramparts all over",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 88.6,
+   "track_end": 93.06
+  },
+  {
+   "start": 1582.78,
+   "end": 1586.82,
+   "text": "Surround United States",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 93.78,
+   "track_end": 97.82
+  },
+  {
+   "start": 1588.68,
+   "end": 1596.38,
+   "text": "They'll crush you down your children too, because you turned away",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.799,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 99.68,
+   "track_end": 107.38
+  },
+  {
+   "start": 1599.06,
+   "end": 1607.28,
+   "text": "You did not know the hour break, when God had come to thee",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.799,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 110.06,
+   "track_end": 118.28
+  },
+  {
+   "start": 1608.84,
+   "end": 1618.08,
+   "text": "How often I would have gathered you But you refused to see",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.712,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 119.84,
+   "track_end": 129.08
+  },
+  {
+   "start": 1623.12,
+   "end": 1630.46,
+   "text": "Jerusalem, Jerusalem How often I longed for you",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.712,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 134.12,
+   "track_end": 141.46
+  },
+  {
+   "start": 1630.46,
+   "end": 1635.1,
+   "text": "Together you close like a mother hand",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 141.46,
+   "track_end": 146.1
+  },
+  {
+   "start": 1635.1,
+   "end": 1640.66,
+   "text": "Protecting her young from the dew",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 146.1,
+   "track_end": 151.66
+  },
+  {
+   "start": 1640.66,
+   "end": 1643.34,
+   "text": "But you were not willing",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 151.66,
+   "track_end": 154.34
+  },
+  {
+   "start": 1643.94,
+   "end": 1650.16,
+   "text": "You turned away, your heart grew hard once more",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 154.94,
+   "track_end": 161.16
+  },
+  {
+   "start": 1653.12,
+   "end": 1655.68,
+   "text": "Jerusalem, Jerusalem",
+   "avg_logprob": -0.527,
+   "no_speech_prob": 0.481,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 164.12,
+   "track_end": 166.68
+  },
+  {
+   "start": 1655.68,
+   "end": 1659.68,
+   "text": "And then you close the open door",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 166.68,
+   "track_end": 170.68
+  },
+  {
+   "start": 1663.28,
+   "end": 1667.06,
+   "text": "Behold, your house is left desolate",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 174.28,
+   "track_end": 178.06
+  },
+  {
+   "start": 1668.6,
+   "end": 1672.58,
+   "text": "You will not see me again",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 179.6,
+   "track_end": 183.58
+  },
+  {
+   "start": 1673.68,
+   "end": 1678.76,
+   "text": "Until you say, blessed is he who comes",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.225,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 184.68,
+   "track_end": 189.76
+  },
+  {
+   "start": 1678.76,
+   "end": 1684.86,
+   "text": "In the name of the Lord, amen.",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 189.76,
+   "track_end": 195.86
+  },
+  {
+   "start": 1688.34,
+   "end": 1694.76,
+   "text": "Jerusalem, Jerusalem, I still weep",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 199.34,
+   "track_end": 205.76
+  },
+  {
+   "start": 1696.0,
+   "end": 1699.36,
+   "text": "For You once more.",
+   "avg_logprob": -0.432,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#08",
+   "track_start": 207.0,
+   "track_end": 210.36
+  },
+  {
+   "start": 1705.0,
+   "end": 1705.46,
+   "text": "Oh",
+   "avg_logprob": -0.625,
+   "no_speech_prob": 0.478,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 0.0,
+   "track_end": 0.46
+  },
+  {
+   "start": 1716.58,
+   "end": 1720.28,
+   "text": "Mother said Lord if you'd been here",
+   "avg_logprob": -0.625,
+   "no_speech_prob": 0.478,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 11.58,
+   "track_end": 15.28
+  },
+  {
+   "start": 1724.52,
+   "end": 1726.52,
+   "text": "My brother would not have died",
+   "avg_logprob": -0.625,
+   "no_speech_prob": 0.478,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 19.52,
+   "track_end": 21.52
+  },
+  {
+   "start": 1732.42,
+   "end": 1743.88,
+   "text": "But I said, your brother will rise again And hope stir deep inside",
+   "avg_logprob": -0.47,
+   "no_speech_prob": 0.462,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 27.42,
+   "track_end": 38.88
+  },
+  {
+   "start": 1749.08,
+   "end": 1752.96,
+   "text": "She said I know he'll rise one day",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 44.08,
+   "track_end": 47.96
+  },
+  {
+   "start": 1755.88,
+   "end": 1758.4,
+   "text": "When the last trumpet cries",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 50.88,
+   "track_end": 53.4
+  },
+  {
+   "start": 1762.52,
+   "end": 1764.64,
+   "text": "I said I am the resurrection",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 57.52,
+   "track_end": 59.64
+  },
+  {
+   "start": 1766.0,
+   "end": 1769.34,
+   "text": "The life that never dies",
+   "avg_logprob": -0.48,
+   "no_speech_prob": 0.372,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 61.0,
+   "track_end": 64.34
+  },
+  {
+   "start": 1773.02,
+   "end": 1775.9,
+   "text": "I am the resurrection",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 68.02,
+   "track_end": 70.9
+  },
+  {
+   "start": 1777.7,
+   "end": 1780.18,
+   "text": "I am the life",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 72.7,
+   "track_end": 75.18
+  },
+  {
+   "start": 1781.54,
+   "end": 1787.34,
+   "text": "He who believes in me will live though he tastes the night",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 76.54,
+   "track_end": 82.34
+  },
+  {
+   "start": 1788.9,
+   "end": 1795.34,
+   "text": "Whoever lives and believes in me will never die again",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.848,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 83.9,
+   "track_end": 90.34
+  },
+  {
+   "start": 1797.28,
+   "end": 1803.24,
+   "text": "I am the resurrection eternal life within",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.655,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 92.28,
+   "track_end": 98.24
+  },
+  {
+   "start": 1820.18,
+   "end": 1824.28,
+   "text": "She read and called her sister near",
+   "avg_logprob": -0.562,
+   "no_speech_prob": 0.655,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 115.18,
+   "track_end": 119.28
+  },
+  {
+   "start": 1836.26,
+   "end": 1840.26,
+   "text": "I said, where have you laid Him down?",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 131.26,
+   "track_end": 135.26
+  },
+  {
+   "start": 1841.12,
+   "end": 1843.88,
+   "text": "They answered, come and see.",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 136.12,
+   "track_end": 138.88
+  },
+  {
+   "start": 1845.22,
+   "end": 1851.3,
+   "text": "And Jesus wept His heart of love, moved with deep mercy.",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 140.22,
+   "track_end": 146.3
+  },
+  {
+   "start": 1852.26,
+   "end": 1853.98,
+   "text": "I am the resurrection.",
+   "avg_logprob": -0.557,
+   "no_speech_prob": 0.729,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 147.26,
+   "track_end": 148.98
+  },
+  {
+   "start": 1856.2,
+   "end": 1858.86,
+   "text": "I am the life",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.822,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 151.2,
+   "track_end": 153.86
+  },
+  {
+   "start": 1860.16,
+   "end": 1866.58,
+   "text": "He who believes in me will live though he takes some night",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.822,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 155.16,
+   "track_end": 161.58
+  },
+  {
+   "start": 1866.58,
+   "end": 1874.34,
+   "text": "Whoever lives and believes in me will never die again",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.822,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 161.58,
+   "track_end": 169.34
+  },
+  {
+   "start": 1875.76,
+   "end": 1881.66,
+   "text": "I am the resurrection, eternal life within",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 170.76,
+   "track_end": 176.66
+  },
+  {
+   "start": 1885.04,
+   "end": 1887.72,
+   "text": "Lazarus, come forth, I cry",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 180.04,
+   "track_end": 182.72
+  },
+  {
+   "start": 1888.34,
+   "end": 1891.4,
+   "text": "And the stone was rolled away",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 183.34,
+   "track_end": 186.4
+  },
+  {
+   "start": 1892.34,
+   "end": 1896.36,
+   "text": "The dead man rose and walked to me",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 187.34,
+   "track_end": 191.36
+  },
+  {
+   "start": 1896.36,
+   "end": 1899.96,
+   "text": "Where light replaced the grave",
+   "avg_logprob": -0.212,
+   "no_speech_prob": 0.64,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 191.36,
+   "track_end": 194.96
+  },
+  {
+   "start": 1899.96,
+   "end": 1903.24,
+   "text": "Unbound Him now and let Him go",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 194.96,
+   "track_end": 198.24
+  },
+  {
+   "start": 1903.96,
+   "end": 1907.2,
+   "text": "The chains of death undone",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 198.96,
+   "track_end": 202.2
+  },
+  {
+   "start": 1907.96,
+   "end": 1910.92,
+   "text": "I am the resurrection",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 202.96,
+   "track_end": 205.92
+  },
+  {
+   "start": 1913.8,
+   "end": 1918.2,
+   "text": "The life, the risen Son",
+   "avg_logprob": -0.286,
+   "no_speech_prob": 0.499,
+   "track_id": "sGjecIPJalE#09",
+   "track_start": 208.8,
+   "track_end": 213.2
+  },
+  {
+   "start": 1953.02,
+   "end": 1959.98,
+   "text": "After this, Jesus knowing that all was lost",
+   "avg_logprob": -0.797,
+   "no_speech_prob": 0.491,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 23.02,
+   "track_end": 29.98
+  },
+  {
+   "start": 1961.54,
+   "end": 1970.0,
+   "text": "He said, according to the scriptures, I thirst He spoke so still.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.622,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 31.54,
+   "track_end": 40.0
+  },
+  {
+   "start": 1971.36,
+   "end": 1978.22,
+   "text": "They lifted up the sour wine on a branch of His subtree.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.622,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 41.36,
+   "track_end": 48.22
+  },
+  {
+   "start": 1979.52,
+   "end": 1986.68,
+   "text": "He took the drink and said, It is finished for all to see.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.622,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 49.52,
+   "track_end": 56.68
+  },
+  {
+   "start": 1986.68,
+   "end": 1989.1,
+   "text": "He said it is finished",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 56.68,
+   "track_end": 59.1
+  },
+  {
+   "start": 1991.12,
+   "end": 1993.74,
+   "text": "The work of love complete",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 61.12,
+   "track_end": 63.74
+  },
+  {
+   "start": 1995.24,
+   "end": 1999.92,
+   "text": "He said it is finished the victory",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 65.24,
+   "track_end": 69.92
+  },
+  {
+   "start": 2000.84,
+   "end": 2007.96,
+   "text": "Is at his feet he bowed his head and gave his spirit",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 70.84,
+   "track_end": 77.96
+  },
+  {
+   "start": 2007.96,
+   "end": 2014.52,
+   "text": "The Lamb of God was slain. He said it is finished",
+   "avg_logprob": -0.543,
+   "no_speech_prob": 0.477,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 77.96,
+   "track_end": 84.52
+  },
+  {
+   "start": 2014.52,
+   "end": 2021.24,
+   "text": "He's the best, forever the death is pain",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 84.52,
+   "track_end": 91.24
+  },
+  {
+   "start": 2026.1,
+   "end": 2029.3,
+   "text": "They pierced his hands and feet",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 96.1,
+   "track_end": 99.3
+  },
+  {
+   "start": 2030.0,
+   "end": 2033.54,
+   "text": "They cast lights for his clothes",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 100.0,
+   "track_end": 103.54
+  },
+  {
+   "start": 2034.5,
+   "end": 2037.2,
+   "text": "Above his head was written clear",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 104.5,
+   "track_end": 107.2
+  },
+  {
+   "start": 2038.0,
+   "end": 2041.8,
+   "text": "Jesus of Nazareth, king of the Jews",
+   "avg_logprob": -0.501,
+   "no_speech_prob": 0.692,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 108.0,
+   "track_end": 111.8
+  },
+  {
+   "start": 2041.8,
+   "end": 2049.86,
+   "text": "He bore our sins upon that cross, despite it's rejected yet true.",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.529,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 111.8,
+   "track_end": 119.86
+  },
+  {
+   "start": 2050.96,
+   "end": 2057.8,
+   "text": "He said, Father, forgive them. They know not what they do.",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.529,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 120.96,
+   "track_end": 127.8
+  },
+  {
+   "start": 2058.74,
+   "end": 2065.24,
+   "text": "He said it is finished. The work of love complete.",
+   "avg_logprob": -0.229,
+   "no_speech_prob": 0.529,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 128.74,
+   "track_end": 135.24
+  },
+  {
+   "start": 2065.24,
+   "end": 2075.1,
+   "text": "He said it is finished The victory is at His feet",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.661,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 135.24,
+   "track_end": 145.1
+  },
+  {
+   "start": 2075.1,
+   "end": 2082.82,
+   "text": "He bowed His head and gave His spirit The Lamb of God was slain",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.661,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 145.1,
+   "track_end": 152.82
+  },
+  {
+   "start": 2082.82,
+   "end": 2091.82,
+   "text": "He said it is finished, forever the death is paid",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.487,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 152.82,
+   "track_end": 161.82
+  },
+  {
+   "start": 2096.44,
+   "end": 2104.14,
+   "text": "The curtain tore from top to bottom, the earth did quake and split",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.487,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 166.44,
+   "track_end": 174.14
+  },
+  {
+   "start": 2104.82,
+   "end": 2110.98,
+   "text": "Truly this was the Son of God, it is finished",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.487,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 174.82,
+   "track_end": 180.98
+  },
+  {
+   "start": 2112.82,
+   "end": 2114.82,
+   "text": "And that is it",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.119,
+   "track_id": "sGjecIPJalE#10",
+   "track_start": 182.82,
+   "track_end": 184.82
+  },
+  {
+   "start": 2130.0,
+   "end": 2137.76,
+   "text": "Hmm, hmm, hmm, hmm, hmm",
+   "avg_logprob": -0.868,
+   "no_speech_prob": 0.849,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 0.0,
+   "track_end": 7.76
+  },
+  {
+   "start": 2160.34,
+   "end": 2167.1,
+   "text": "Come to me, oh, who will labor and carry a heavy load?",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 30.34,
+   "track_end": 37.1
+  },
+  {
+   "start": 2167.38,
+   "end": 2173.94,
+   "text": "I'll give you rest for your weary soul, and walk with you on this road.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 37.38,
+   "track_end": 43.94
+  },
+  {
+   "start": 2174.74,
+   "end": 2180.66,
+   "text": "Take my yoke upon your heart, and learn from me inside,",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 44.74,
+   "track_end": 50.66
+  },
+  {
+   "start": 2181.16,
+   "end": 2187.54,
+   "text": "for I am gentle and lonely there, in me your soul will abide.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.659,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 51.16,
+   "track_end": 57.54
+  },
+  {
+   "start": 2193.54,
+   "end": 2199.34,
+   "text": "Come to me, come to me, all who are tired and warm",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.392,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 63.54,
+   "track_end": 69.34
+  },
+  {
+   "start": 2199.34,
+   "end": 2206.02,
+   "text": "My yoke is easy, my burden lied I'll carry you through the storm",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.392,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 69.34,
+   "track_end": 76.02
+  },
+  {
+   "start": 2206.62,
+   "end": 2212.74,
+   "text": "You'll find rest for your troubled heart Peace the world can't see",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.392,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 76.62,
+   "track_end": 82.74
+  },
+  {
+   "start": 2212.74,
+   "end": 2216.48,
+   "text": "For I am gentle and humble in heart",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 82.74,
+   "track_end": 86.48
+  },
+  {
+   "start": 2216.48,
+   "end": 2221.52,
+   "text": "Come, come to me",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 86.48,
+   "track_end": 91.52
+  },
+  {
+   "start": 2226.82,
+   "end": 2230.6,
+   "text": "You tried the world and found no peace",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 96.82,
+   "track_end": 100.6
+  },
+  {
+   "start": 2230.6,
+   "end": 2233.02,
+   "text": "The wages won't let go",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 100.6,
+   "track_end": 103.02
+  },
+  {
+   "start": 2233.74,
+   "end": 2237.3,
+   "text": "But my grace is strong, my love runs deep",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 103.74,
+   "track_end": 107.3
+  },
+  {
+   "start": 2237.3,
+   "end": 2239.8,
+   "text": "Much deeper than you know",
+   "avg_logprob": -0.184,
+   "no_speech_prob": 0.533,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 107.3,
+   "track_end": 109.8
+  },
+  {
+   "start": 2239.8,
+   "end": 2246.54,
+   "text": "If you drink the water I will give your thirst no more again",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 109.8,
+   "track_end": 116.54
+  },
+  {
+   "start": 2246.54,
+   "end": 2253.98,
+   "text": "For living water flows from me and life will never end",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 116.54,
+   "track_end": 123.98
+  },
+  {
+   "start": 2255.84,
+   "end": 2261.8,
+   "text": "Come to me, come to me, all who are tired and worn",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 125.84,
+   "track_end": 131.8
+  },
+  {
+   "start": 2261.8,
+   "end": 2265.04,
+   "text": "My yoke is easy, my burden lies",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.629,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 131.8,
+   "track_end": 135.04
+  },
+  {
+   "start": 2265.04,
+   "end": 2272.06,
+   "text": "I'll carry you through the storm You'll find rest for your troubled heart",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.668,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 135.04,
+   "track_end": 142.06
+  },
+  {
+   "start": 2272.06,
+   "end": 2278.98,
+   "text": "Peace the world can't see For I am gentle and humble in heart",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.668,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 142.06,
+   "track_end": 148.98
+  },
+  {
+   "start": 2278.98,
+   "end": 2283.56,
+   "text": "Come, come to me",
+   "avg_logprob": -0.194,
+   "no_speech_prob": 0.668,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 148.98,
+   "track_end": 153.56
+  },
+  {
+   "start": 2295.04,
+   "end": 2295.92,
+   "text": "And I'll be free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 165.04,
+   "track_end": 165.92
+  },
+  {
+   "start": 2295.92,
+   "end": 2297.16,
+   "text": "And I'll be free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 165.92,
+   "track_end": 167.16
+  },
+  {
+   "start": 2297.16,
+   "end": 2309.3,
+   "text": "And I'll be free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 167.16,
+   "track_end": 179.3
+  },
+  {
+   "start": 2309.3,
+   "end": 2315.56,
+   "text": "No one comes to the Father",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 179.3,
+   "track_end": 185.56
+  },
+  {
+   "start": 2315.56,
+   "end": 2318.74,
+   "text": "Except He comes through me",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 185.56,
+   "track_end": 188.74
+  },
+  {
+   "start": 2318.74,
+   "end": 2322.14,
+   "text": "If the Son sets you free",
+   "avg_logprob": -0.508,
+   "no_speech_prob": 0.515,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 188.74,
+   "track_end": 192.14
+  },
+  {
+   "start": 2322.14,
+   "end": 2335.9,
+   "text": "You'll be free indeed. Come to me, all who labor. I'll heal and make you new, for I am gentle and lonely in heart.",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.573,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 192.14,
+   "track_end": 205.9
+  },
+  {
+   "start": 2336.98,
+   "end": 2339.74,
+   "text": "My peace belongs to you.",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.573,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 206.98,
+   "track_end": 209.74
+  },
+  {
+   "start": 2355.54,
+   "end": 2356.94,
+   "text": "you",
+   "avg_logprob": -0.787,
+   "no_speech_prob": 0.859,
+   "track_id": "sGjecIPJalE#11",
+   "track_start": 225.54,
+   "track_end": 226.94
+  },
+  {
+   "start": 2387.64,
+   "end": 2391.78,
+   "text": "Believe in God, believe in me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 30.64,
+   "track_end": 34.78
+  },
+  {
+   "start": 2391.78,
+   "end": 2397.22,
+   "text": "In my Father's house are many rooms",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 34.78,
+   "track_end": 40.22
+  },
+  {
+   "start": 2397.22,
+   "end": 2400.88,
+   "text": "If it were not so, I'd tell thee",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 40.22,
+   "track_end": 43.88
+  },
+  {
+   "start": 2400.88,
+   "end": 2405.44,
+   "text": "And I go and prepare a place for you",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 43.88,
+   "track_end": 48.44
+  },
+  {
+   "start": 2405.44,
+   "end": 2409.9,
+   "text": "And I will come again to take you home",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 48.44,
+   "track_end": 52.9
+  },
+  {
+   "start": 2409.9,
+   "end": 2414.76,
+   "text": "That where I am, you may be also",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.801,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 52.9,
+   "track_end": 57.76
+  },
+  {
+   "start": 2414.76,
+   "end": 2418.8,
+   "text": "And You will never be alone",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 57.76,
+   "track_end": 61.8
+  },
+  {
+   "start": 2418.8,
+   "end": 2423.34,
+   "text": "I am the way, the truth, the life",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 61.8,
+   "track_end": 66.34
+  },
+  {
+   "start": 2423.34,
+   "end": 2427.88,
+   "text": "No one comes to the Father but by Me",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 66.34,
+   "track_end": 70.88
+  },
+  {
+   "start": 2427.88,
+   "end": 2432.52,
+   "text": "If You've seen Me, You've seen the Father",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 70.88,
+   "track_end": 75.52
+  },
+  {
+   "start": 2432.52,
+   "end": 2436.74,
+   "text": "Believe the words I speak are He",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 75.52,
+   "track_end": 79.74
+  },
+  {
+   "start": 2436.74,
+   "end": 2441.3,
+   "text": "The helper comes, the Spirit of truth",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.832,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 79.74,
+   "track_end": 84.3
+  },
+  {
+   "start": 2441.3,
+   "end": 2445.76,
+   "text": "Who the world cannot receive?",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 84.3,
+   "track_end": 88.76
+  },
+  {
+   "start": 2446.56,
+   "end": 2449.14,
+   "text": "Peace I leave with you",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 89.56,
+   "track_end": 92.14
+  },
+  {
+   "start": 2449.14,
+   "end": 2451.56,
+   "text": "My peace I give",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 92.14,
+   "track_end": 94.56
+  },
+  {
+   "start": 2451.56,
+   "end": 2454.84,
+   "text": "Let not your heart be troubled",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 94.56,
+   "track_end": 97.84
+  },
+  {
+   "start": 2454.84,
+   "end": 2456.7,
+   "text": "Believe",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 97.84,
+   "track_end": 99.7
+  },
+  {
+   "start": 2459.66,
+   "end": 2461.78,
+   "text": "If you love me",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 102.66,
+   "track_end": 104.78
+  },
+  {
+   "start": 2461.78,
+   "end": 2464.4,
+   "text": "You'll keep my word",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 104.78,
+   "track_end": 107.4
+  },
+  {
+   "start": 2464.4,
+   "end": 2468.16,
+   "text": "And my Father will love you too",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.625,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 107.4,
+   "track_end": 111.16
+  },
+  {
+   "start": 2468.16,
+   "end": 2477.22,
+   "text": "We will come and make our home And dwell forever inside of You",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.698,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 111.16,
+   "track_end": 120.22
+  },
+  {
+   "start": 2478.16,
+   "end": 2486.3,
+   "text": "The Helper, the Holy Spirit will teach And bring to mind all I've said",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.698,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 121.16,
+   "track_end": 129.3
+  },
+  {
+   "start": 2486.3,
+   "end": 2495.12,
+   "text": "Peace I leave with You again Let not your hearts be afraid",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.698,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 129.3,
+   "track_end": 138.12
+  },
+  {
+   "start": 2495.12,
+   "end": 2499.78,
+   "text": "I am the way, the truth, the life",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 138.12,
+   "track_end": 142.78
+  },
+  {
+   "start": 2499.78,
+   "end": 2504.4,
+   "text": "No one comes to the Father but by me",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 142.78,
+   "track_end": 147.4
+  },
+  {
+   "start": 2505.12,
+   "end": 2509.0,
+   "text": "If you've seen me, you've seen the Father",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 148.12,
+   "track_end": 152.0
+  },
+  {
+   "start": 2510.12,
+   "end": 2513.12,
+   "text": "Believe the words I speak are He",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 153.12,
+   "track_end": 156.12
+  },
+  {
+   "start": 2513.12,
+   "end": 2517.78,
+   "text": "The Helper comes, the Spirit of Truth",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 156.12,
+   "track_end": 160.78
+  },
+  {
+   "start": 2517.78,
+   "end": 2522.26,
+   "text": "Who the world cannot receive",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.775,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 160.78,
+   "track_end": 165.26
+  },
+  {
+   "start": 2522.26,
+   "end": 2525.58,
+   "text": "Peace I'll live with you",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.727,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 165.26,
+   "track_end": 168.58
+  },
+  {
+   "start": 2526.26,
+   "end": 2528.02,
+   "text": "My peace I give",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.727,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 169.26,
+   "track_end": 171.02
+  },
+  {
+   "start": 2528.02,
+   "end": 2531.34,
+   "text": "Let not your heart be troubled",
+   "avg_logprob": -0.415,
+   "no_speech_prob": 0.727,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 171.02,
+   "track_end": 174.34
+  },
+  {
+   "start": 2549.34,
+   "end": 2558.16,
+   "text": "I am the way, the truth, the life No one comes to father but by me",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.756,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 192.34,
+   "track_end": 201.16
+  },
+  {
+   "start": 2558.16,
+   "end": 2563.14,
+   "text": "But by if you've seen me, you've seen the Father",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 201.16,
+   "track_end": 206.14
+  },
+  {
+   "start": 2563.84,
+   "end": 2567.14,
+   "text": "Believe the words I speak are He",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 206.84,
+   "track_end": 210.14
+  },
+  {
+   "start": 2567.68,
+   "end": 2571.78,
+   "text": "The help of God, the Spirit of truth",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 210.68,
+   "track_end": 214.78
+  },
+  {
+   "start": 2572.72,
+   "end": 2576.32,
+   "text": "Whom the world cannot receive",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 215.72,
+   "track_end": 219.32
+  },
+  {
+   "start": 2577.2,
+   "end": 2579.52,
+   "text": "Peace I leave with you",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 220.2,
+   "track_end": 222.52
+  },
+  {
+   "start": 2580.16,
+   "end": 2582.24,
+   "text": "My peace I give",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.251,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 223.16,
+   "track_end": 225.24
+  },
+  {
+   "start": 2582.24,
+   "end": 2585.0,
+   "text": "Let not your heart",
+   "avg_logprob": -0.966,
+   "no_speech_prob": 0.074,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 225.24,
+   "track_end": 228.0
+  },
+  {
+   "start": 2591.24,
+   "end": 2591.34,
+   "text": "believe",
+   "avg_logprob": -0.966,
+   "no_speech_prob": 0.074,
+   "track_id": "sGjecIPJalE#12",
+   "track_start": 234.24,
+   "track_end": 234.34
+  },
+  {
+   "start": 2595.0,
+   "end": 2599.86,
+   "text": "Oh, believe",
+   "avg_logprob": -0.689,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 0.0,
+   "track_end": 4.86
+  },
+  {
+   "start": 2620.62,
+   "end": 2623.58,
+   "text": "Truly, truly I say to you",
+   "avg_logprob": -0.689,
+   "no_speech_prob": 0.48,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 25.62,
+   "track_end": 28.58
+  },
+  {
+   "start": 2623.58,
+   "end": 2627.12,
+   "text": "The thief won't come by the gate",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 28.58,
+   "track_end": 32.12
+  },
+  {
+   "start": 2628.68,
+   "end": 2631.56,
+   "text": "He climbs another way inside",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 33.68,
+   "track_end": 36.56
+  },
+  {
+   "start": 2632.58,
+   "end": 2635.6,
+   "text": "To steal, destroy and take",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 37.58,
+   "track_end": 40.6
+  },
+  {
+   "start": 2637.18,
+   "end": 2639.98,
+   "text": "But I'm the shepherd of the sheep",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 42.18,
+   "track_end": 44.98
+  },
+  {
+   "start": 2641.32,
+   "end": 2643.58,
+   "text": "I call them by the name",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 46.32,
+   "track_end": 48.58
+  },
+  {
+   "start": 2645.52,
+   "end": 2648.58,
+   "text": "They know my voice, they follow me",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 50.52,
+   "track_end": 53.58
+  },
+  {
+   "start": 2649.12,
+   "end": 2652.34,
+   "text": "They'll never be the same",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.474,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 54.12,
+   "track_end": 57.34
+  },
+  {
+   "start": 2652.34,
+   "end": 2656.86,
+   "text": "I am the good shepherd, I lay my life down",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 57.34,
+   "track_end": 61.86
+  },
+  {
+   "start": 2657.74,
+   "end": 2665.24,
+   "text": "No one can take what's mine, I know my own, they know my sound",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 62.74,
+   "track_end": 70.24
+  },
+  {
+   "start": 2666.16,
+   "end": 2673.46,
+   "text": "I'm faithful all the time, the wolf may come, but I'll stand short",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 71.16,
+   "track_end": 78.46
+  },
+  {
+   "start": 2674.64,
+   "end": 2677.78,
+   "text": "I'll guard them at the door",
+   "avg_logprob": -0.188,
+   "no_speech_prob": 0.823,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 79.64,
+   "track_end": 82.78
+  },
+  {
+   "start": 2677.78,
+   "end": 2684.24,
+   "text": "I am the good shepherd forever and evermore",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.523,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 82.78,
+   "track_end": 89.24
+  },
+  {
+   "start": 2687.74,
+   "end": 2694.3,
+   "text": "The hired hand will turn and run when dangers draw near",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.523,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 92.74,
+   "track_end": 99.3
+  },
+  {
+   "start": 2696.78,
+   "end": 2703.16,
+   "text": "But I lay down my life for them because my love is clear",
+   "avg_logprob": -0.266,
+   "no_speech_prob": 0.523,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 101.78,
+   "track_end": 108.16
+  },
+  {
+   "start": 2704.84,
+   "end": 2711.46,
+   "text": "Oh the sheep I have to find, Not of this fold they'd be",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.726,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 109.84,
+   "track_end": 116.46
+  },
+  {
+   "start": 2713.0,
+   "end": 2721.44,
+   "text": "They'll hear my voice and join my flock One fold, one lord, one peace and",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.726,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 118.0,
+   "track_end": 126.44
+  },
+  {
+   "start": 2721.44,
+   "end": 2729.38,
+   "text": "I lay my life down No one can take what's mine",
+   "avg_logprob": -0.375,
+   "no_speech_prob": 0.726,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 126.44,
+   "track_end": 134.38
+  },
+  {
+   "start": 2729.38,
+   "end": 2733.56,
+   "text": "I know my own, they know my sound",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 134.38,
+   "track_end": 138.56
+  },
+  {
+   "start": 2734.38,
+   "end": 2737.82,
+   "text": "I'm faithful all the time",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 139.38,
+   "track_end": 142.82
+  },
+  {
+   "start": 2738.38,
+   "end": 2741.88,
+   "text": "The wolf may come, but I'll stand sure",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 143.38,
+   "track_end": 146.88
+  },
+  {
+   "start": 2742.92,
+   "end": 2746.24,
+   "text": "I'll guard them at the door",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 147.92,
+   "track_end": 151.24
+  },
+  {
+   "start": 2746.24,
+   "end": 2748.48,
+   "text": "I am the good shepherd",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 151.24,
+   "track_end": 153.48
+  },
+  {
+   "start": 2749.38,
+   "end": 2752.34,
+   "text": "Forever and evermore",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 154.38,
+   "track_end": 157.34
+  },
+  {
+   "start": 2773.08,
+   "end": 2780.34,
+   "text": "I'll lay my life down freely And I'll take it up again",
+   "avg_logprob": -0.424,
+   "no_speech_prob": 0.631,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 178.08,
+   "track_end": 185.34
+  },
+  {
+   "start": 2781.34,
+   "end": 2788.62,
+   "text": "My father's love is in me His will will never end",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.771,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 186.34,
+   "track_end": 193.62
+  },
+  {
+   "start": 2788.62,
+   "end": 2795.3,
+   "text": "I am the good shepherd My sheep are safe and sure",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.771,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 193.62,
+   "track_end": 200.3
+  },
+  {
+   "start": 2796.54,
+   "end": 2805.18,
+   "text": "I give them life eternal Forever and evermore",
+   "avg_logprob": -0.426,
+   "no_speech_prob": 0.771,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 201.54,
+   "track_end": 210.18
+  },
+  {
+   "start": 2810.34,
+   "end": 2811.32,
+   "text": "Oh",
+   "avg_logprob": -0.755,
+   "no_speech_prob": 0.84,
+   "track_id": "sGjecIPJalE#13",
+   "track_start": 215.34,
+   "track_end": 216.32
+  },
+  {
+   "start": 2826.76,
+   "end": 2836.28,
+   "text": "A woman came in the crowd that day, 12 long years in pain.",
+   "avg_logprob": -0.337,
+   "no_speech_prob": 0.385,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 10.76,
+   "track_end": 20.28
+  },
+  {
+   "start": 2837.6,
+   "end": 2846.2,
+   "text": "She spent her all on doctors hands But healing never came",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.391,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 21.6,
+   "track_end": 30.2
+  },
+  {
+   "start": 2848.72,
+   "end": 2856.34,
+   "text": "She said within her heart so still If I touch his robe I'll be free",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.391,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 32.72,
+   "track_end": 40.34
+  },
+  {
+   "start": 2858.2,
+   "end": 2862.2,
+   "text": "She pressed her way through fear and doubt",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 42.2,
+   "track_end": 46.2
+  },
+  {
+   "start": 2863.38,
+   "end": 2866.74,
+   "text": "And reached her hand to me",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 47.38,
+   "track_end": 50.74
+  },
+  {
+   "start": 2868.14,
+   "end": 2870.04,
+   "text": "Who touched me?",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 52.14,
+   "track_end": 54.04
+  },
+  {
+   "start": 2870.44,
+   "end": 2872.16,
+   "text": "I felt the power flow",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 54.44,
+   "track_end": 56.16
+  },
+  {
+   "start": 2872.16,
+   "end": 2875.0,
+   "text": "Through faith that made her whole",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 56.16,
+   "track_end": 59.0
+  },
+  {
+   "start": 2875.0,
+   "end": 2877.5,
+   "text": "Daughter, your faith has made you well",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 59.0,
+   "track_end": 61.5
+  },
+  {
+   "start": 2877.5,
+   "end": 2880.16,
+   "text": "Peace be upon your soul",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 61.5,
+   "track_end": 64.16
+  },
+  {
+   "start": 2880.16,
+   "end": 2882.64,
+   "text": "Go and peace be healed this day",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 64.16,
+   "track_end": 66.64
+  },
+  {
+   "start": 2882.64,
+   "end": 2885.4,
+   "text": "From the pain that once held you down",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.598,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 66.64,
+   "track_end": 69.4
+  },
+  {
+   "start": 2885.4,
+   "end": 2887.84,
+   "text": "Your faith has made you well",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 69.4,
+   "track_end": 71.84
+  },
+  {
+   "start": 2887.84,
+   "end": 2890.68,
+   "text": "Your joy and strength are found",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 71.84,
+   "track_end": 74.68
+  },
+  {
+   "start": 2899.24,
+   "end": 2903.3,
+   "text": "She trembled there before my feet",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 83.24,
+   "track_end": 87.3
+  },
+  {
+   "start": 2904.54,
+   "end": 2908.6,
+   "text": "And told me all she'd done",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 88.54,
+   "track_end": 92.6
+  },
+  {
+   "start": 2909.64,
+   "end": 2913.4,
+   "text": "How hope had sparked inside her heart",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.327,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 93.64,
+   "track_end": 97.4
+  },
+  {
+   "start": 2913.4,
+   "end": 2918.06,
+   "text": "And healing had begun",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 97.4,
+   "track_end": 102.06
+  },
+  {
+   "start": 2919.46,
+   "end": 2923.12,
+   "text": "I looked on her with love divine",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 103.46,
+   "track_end": 107.12
+  },
+  {
+   "start": 2924.62,
+   "end": 2928.62,
+   "text": "Her tears fell to the ground",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 108.62,
+   "track_end": 112.62
+  },
+  {
+   "start": 2930.14,
+   "end": 2933.94,
+   "text": "Daughter, your faith has made you well",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 114.14,
+   "track_end": 117.94
+  },
+  {
+   "start": 2933.94,
+   "end": 2939.18,
+   "text": "Those words, the angels crowned",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.512,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 117.94,
+   "track_end": 123.18
+  },
+  {
+   "start": 2939.18,
+   "end": 2941.9,
+   "text": "Who touched me?",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 123.18,
+   "track_end": 125.9
+  },
+  {
+   "start": 2942.2,
+   "end": 2943.86,
+   "text": "I felt the power flow",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 126.2,
+   "track_end": 127.86
+  },
+  {
+   "start": 2943.86,
+   "end": 2946.76,
+   "text": "Through faith that made her whole",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 127.86,
+   "track_end": 130.76
+  },
+  {
+   "start": 2946.76,
+   "end": 2949.12,
+   "text": "Daughter your faith has made you well",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 130.76,
+   "track_end": 133.12
+  },
+  {
+   "start": 2949.12,
+   "end": 2951.88,
+   "text": "Peace be upon your soul",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 133.12,
+   "track_end": 135.88
+  },
+  {
+   "start": 2951.88,
+   "end": 2954.36,
+   "text": "Growing peace be healed this day",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 135.88,
+   "track_end": 138.36
+  },
+  {
+   "start": 2954.36,
+   "end": 2957.1,
+   "text": "From the pain that once held you down",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 138.36,
+   "track_end": 141.1
+  },
+  {
+   "start": 2957.1,
+   "end": 2959.48,
+   "text": "Your faith has made you well",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 141.1,
+   "track_end": 143.48
+  },
+  {
+   "start": 2959.48,
+   "end": 2962.18,
+   "text": "Your joy and strength are found",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 143.48,
+   "track_end": 146.18
+  },
+  {
+   "start": 2962.18,
+   "end": 2964.82,
+   "text": "I felt the power flow",
+   "avg_logprob": -0.156,
+   "no_speech_prob": 0.497,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 146.18,
+   "track_end": 148.82
+  },
+  {
+   "start": 2969.72,
+   "end": 2977.96,
+   "text": "Peace be upon your soul, from the pain that once held you down.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 153.72,
+   "track_end": 161.96
+  },
+  {
+   "start": 2978.42,
+   "end": 2980.34,
+   "text": "Your faith has made you well.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 162.42,
+   "track_end": 164.34
+  },
+  {
+   "start": 2982.38,
+   "end": 2985.3,
+   "text": "Powerful, her chains were gone.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 166.38,
+   "track_end": 169.3
+  },
+  {
+   "start": 2986.82,
+   "end": 2990.38,
+   "text": "Faith rose where fear had been.",
+   "avg_logprob": -0.602,
+   "no_speech_prob": 0.725,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 170.82,
+   "track_end": 174.38
+  },
+  {
+   "start": 2990.38,
+   "end": 3000.66,
+   "text": "What no man's hand could ever do Her touch brought healing in",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 174.38,
+   "track_end": 184.66
+  },
+  {
+   "start": 3002.1,
+   "end": 3010.68,
+   "text": "Daughter, your faith has made you well Go in peace forever free",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.492,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 186.1,
+   "track_end": 194.68
+  },
+  {
+   "start": 3011.86,
+   "end": 3020.76,
+   "text": "Your faith has made you whole I said she reached in faith to me",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.318,
+   "track_id": "sGjecIPJalE#14",
+   "track_start": 195.86,
+   "track_end": 204.76
+  },
+  {
+   "start": 3024.0,
+   "end": 3028.86,
+   "text": "I said she reached in faith to me",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 0.0,
+   "track_end": 4.86
+  },
+  {
+   "start": 3032.46,
+   "end": 3036.14,
+   "text": "Father the hours come",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 8.46,
+   "track_end": 12.14
+  },
+  {
+   "start": 3039.2,
+   "end": 3040.86,
+   "text": "Glorify your son",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 15.2,
+   "track_end": 16.86
+  },
+  {
+   "start": 3043.2,
+   "end": 3049.74,
+   "text": "That the Sun may glorify you you have given them power",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.368,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 19.2,
+   "track_end": 25.74
+  },
+  {
+   "start": 3051.7,
+   "end": 3060.52,
+   "text": "Overall flesh and all To give eternal life to all you've caught",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.646,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 27.7,
+   "track_end": 36.52
+  },
+  {
+   "start": 3062.3,
+   "end": 3070.56,
+   "text": "This is eternal life They know you, the only true God",
+   "avg_logprob": -0.456,
+   "no_speech_prob": 0.646,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 38.3,
+   "track_end": 46.56
+  },
+  {
+   "start": 3070.56,
+   "end": 3073.96,
+   "text": "And Jesus Christ whom you have sent",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 46.56,
+   "track_end": 49.96
+  },
+  {
+   "start": 3073.96,
+   "end": 3078.88,
+   "text": "Glorify me in your own presence",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 49.96,
+   "track_end": 54.88
+  },
+  {
+   "start": 3079.56,
+   "end": 3083.12,
+   "text": "With the glory I had with you",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 55.56,
+   "track_end": 59.12
+  },
+  {
+   "start": 3084.06,
+   "end": 3086.38,
+   "text": "Before the world began",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 60.06,
+   "track_end": 62.38
+  },
+  {
+   "start": 3088.32,
+   "end": 3092.0,
+   "text": "I have manifested your name",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 64.32,
+   "track_end": 68.0
+  },
+  {
+   "start": 3093.16,
+   "end": 3096.6,
+   "text": "To the people you gave me",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.595,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 69.16,
+   "track_end": 72.6
+  },
+  {
+   "start": 3098.72,
+   "end": 3100.94,
+   "text": "They have kept Your Word",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 74.72,
+   "track_end": 76.94
+  },
+  {
+   "start": 3102.8,
+   "end": 3107.04,
+   "text": "Now they know all is from Thee",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 78.8,
+   "track_end": 83.04
+  },
+  {
+   "start": 3107.04,
+   "end": 3110.26,
+   "text": "I pray for them, not for the world",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 83.04,
+   "track_end": 86.26
+  },
+  {
+   "start": 3112.1,
+   "end": 3114.74,
+   "text": "But for those You gave to me",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 88.1,
+   "track_end": 90.74
+  },
+  {
+   "start": 3116.86,
+   "end": 3121.1,
+   "text": "All mine are Yours and Yours are mine",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.716,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 92.86,
+   "track_end": 97.1
+  },
+  {
+   "start": 3121.1,
+   "end": 3125.78,
+   "text": "And I am glorified in them.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.8,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 97.1,
+   "track_end": 101.78
+  },
+  {
+   "start": 3126.08,
+   "end": 3135.28,
+   "text": "This is eternal life that they know you, the only true God.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.8,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 102.08,
+   "track_end": 111.28
+  },
+  {
+   "start": 3135.84,
+   "end": 3143.64,
+   "text": "In Jesus Christ whom you have sent, glorify me in your own presence.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.8,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 111.84,
+   "track_end": 119.64
+  },
+  {
+   "start": 3143.64,
+   "end": 3151.0,
+   "text": "with the glory I had with you before the world began",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 119.64,
+   "track_end": 127.0
+  },
+  {
+   "start": 3156.56,
+   "end": 3159.8,
+   "text": "Holy Father keep them in Your name",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 132.56,
+   "track_end": 135.8
+  },
+  {
+   "start": 3160.68,
+   "end": 3164.38,
+   "text": "that they may be one as we are one",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 136.68,
+   "track_end": 140.38
+  },
+  {
+   "start": 3166.08,
+   "end": 3169.44,
+   "text": "sanctify them in the truth Your Word is true",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.875,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 142.08,
+   "track_end": 145.44
+  },
+  {
+   "start": 3169.44,
+   "end": 3173.96,
+   "text": "As you sent me into the world so I have sent them to",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 145.44,
+   "track_end": 149.96
+  },
+  {
+   "start": 3177.34,
+   "end": 3180.88,
+   "text": "Father, I desire that they be with me",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 153.34,
+   "track_end": 156.88
+  },
+  {
+   "start": 3181.8,
+   "end": 3185.2,
+   "text": "Where I am to see my glory",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 157.8,
+   "track_end": 161.2
+  },
+  {
+   "start": 3186.22,
+   "end": 3189.1,
+   "text": "The love you gave before the world",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 162.22,
+   "track_end": 165.1
+  },
+  {
+   "start": 3189.1,
+   "end": 3192.46,
+   "text": "That love may be in them",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 165.1,
+   "track_end": 168.46
+  },
+  {
+   "start": 3193.22,
+   "end": 3194.74,
+   "text": "And I in them",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 169.22,
+   "track_end": 170.74
+  },
+  {
+   "start": 3194.74,
+   "end": 3197.6,
+   "text": "That love may be in them",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.721,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 170.74,
+   "track_end": 173.6
+  },
+  {
+   "start": 3199.94,
+   "end": 3201.44,
+   "text": "And I am them",
+   "avg_logprob": -0.608,
+   "no_speech_prob": 0.513,
+   "track_id": "sGjecIPJalE#15",
+   "track_start": 175.94,
+   "track_end": 177.44
+  }
+ ]
+}

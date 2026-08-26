@@ -1,0 +1,150 @@
+{
+ "track_id": "1UItx9upywQ#07",
+ "track_key": "1UItx9upywQ__07",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Why Have You Forsaken Me\" - Psalm 22",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 171.0,
+ "voiced_sec": 81.4,
+ "voice_ratio": 0.476,
+ "n_words": 115,
+ "words_per_min": 40.3,
+ "is_instrumental": false,
+ "n_segments": 16,
+ "n_segments_voiced": 16,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 23.8,
+ "rtf": 0.139,
+ "segments": [
+  {
+   "start": 13.9,
+   "end": 19.26,
+   "text": "Why did you leave me here in this night so black?",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.725,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 20.66,
+   "end": 24.08,
+   "text": "I called your name but it echoed back",
+   "avg_logprob": -0.396,
+   "no_speech_prob": 0.725,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 24.08,
+   "end": 30.66,
+   "text": "The stars are blind, the moon won't glow",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 32.94,
+   "end": 40.5,
+   "text": "Is there a reason for this season?",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 43.92,
+   "end": 47.9,
+   "text": "Why have you forsaken me?",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 48.84,
+   "end": 52.76,
+   "text": "I'm lost in the shadow of a dead tree",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.586,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 52.76,
+   "end": 58.94,
+   "text": "Oh, Lord, Lord, don't you see?",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.526,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 63.4,
+   "end": 67.28,
+   "text": "I built my house on a shift in sand",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.526,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 68.76,
+   "end": 72.18,
+   "text": "The tide came in and erased my plans",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.526,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 73.76,
+   "end": 78.56,
+   "text": "The ocean road while I stood still",
+   "avg_logprob": -0.292,
+   "no_speech_prob": 0.526,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 82.76,
+   "end": 86.28,
+   "text": "Why have you forsaken me?",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.148,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 87.42,
+   "end": 91.26,
+   "text": "I'm drowning in waves that won't set me free",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.148,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 91.26,
+   "end": 97.42,
+   "text": "Oh Lord, don't you see",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.148,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 101.76,
+   "end": 109.9,
+   "text": "But the wind it whispers a voice so low",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.148,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 109.9,
+   "end": 119.14,
+   "text": "Through the ashes of sorrow, starts to grow",
+   "avg_logprob": -0.57,
+   "no_speech_prob": 0.387,
+   "track_id": "1UItx9upywQ#07"
+  },
+  {
+   "start": 146.82,
+   "end": 148.22,
+   "text": "Oh",
+   "avg_logprob": -1.6,
+   "no_speech_prob": 0.212,
+   "track_id": "1UItx9upywQ#07"
+  }
+ ]
+}

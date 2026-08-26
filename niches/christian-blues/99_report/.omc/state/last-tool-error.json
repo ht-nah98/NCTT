@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd \\\"/home/user/Desktop/Nghiên Cứu thị trường\\\" && python3 - <<'PY'\\nimport pathlib\\n# 1) gắn verify_reports vào run_all\\np=pathlib.Path(\\\"pipeline/run_all.sh\\\"); s=p.read_text()\\nif \\\"ver...",
+  "error": "Exit code 1\n✔",
+  "timestamp": "2026-08-17T05:45:52.206Z",
+  "retry_count": 1
+}

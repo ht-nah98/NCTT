@@ -1,0 +1,302 @@
+{
+ "track_id": "eD2IMkcreEI#17",
+ "track_key": "eD2IMkcreEI__17",
+ "video_id": "eD2IMkcreEI",
+ "title": "Jeremiah 29",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 248.0,
+ "voiced_sec": 156.9,
+ "voice_ratio": 0.633,
+ "n_words": 253,
+ "words_per_min": 61.2,
+ "is_instrumental": false,
+ "n_segments": 35,
+ "n_segments_voiced": 35,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 30.8,
+ "rtf": 0.124,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.18,
+   "text": "The same God who painted the stars",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.039,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 3.38,
+   "end": 6.26,
+   "text": "Is the same God who lights my path",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.039,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 7.72,
+   "end": 9.22,
+   "text": "Even in the silence",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.039,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 10.08,
+   "end": 11.92,
+   "text": "His footsteps go before me",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.039,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 13.44,
+   "end": 15.42,
+   "text": "Making a way where I see none",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.039,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 18.88,
+   "end": 20.94,
+   "text": "You're moving whispers",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.039,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 24.54,
+   "end": 27.36,
+   "text": "Yet I hear you loud and clear",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.039,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 30.84,
+   "end": 41.46,
+   "text": "In the quiet of the midnight Your presence draws me near",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.657,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 44.16,
+   "end": 55.5,
+   "text": "When the storm tries to hide me And the waves begin to rise",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.657,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 57.22,
+   "end": 67.28,
+   "text": "I lift my eyes to heaven And see my help arise",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.818,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 72.54,
+   "end": 84.62,
+   "text": "Every valley you walk with me Every shadow you set me free",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.818,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 87.62,
+   "end": 91.72,
+   "text": "Waymaker, my heart will follow you",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.676,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 94.2,
+   "end": 98.96,
+   "text": "Chainbreaker, I made brand new",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.676,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 99.62,
+   "end": 105.02,
+   "text": "When I can't see it, Lord, you still come through",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.676,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 107.68,
+   "end": 111.48,
+   "text": "Waymaker, my hope is in you",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.676,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 115.2,
+   "end": 124.86,
+   "text": "The Lord says, I am the Lord, your God Who takes hold of your right hand and says to",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.461,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 124.86,
+   "end": 128.84,
+   "text": "you, Do not fear I will help you",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.461,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 133.16,
+   "end": 143.36,
+   "text": "You open doors, no man can close You heal the hurt nobody knows",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.631,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 145.74,
+   "end": 158.94,
+   "text": "You lift the burden, come to see Your grace, oh Lord, keep holding me",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.76,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 188.94,
+   "end": 193.32,
+   "text": "My heart will follow you, yes you",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 193.32,
+   "end": 195.2,
+   "text": "Chain breaker",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 195.84,
+   "end": 200.02,
+   "text": "I'm made brand new",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 200.54,
+   "end": 204.86,
+   "text": "When I can't see it, Lord, you still come through",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 207.64,
+   "end": 208.74,
+   "text": "Waymaker",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 208.74,
+   "end": 211.62,
+   "text": "My hope is in you",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 211.62,
+   "end": 212.66,
+   "text": "Yes you do",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 212.66,
+   "end": 214.44,
+   "text": "Every single time",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 214.44,
+   "end": 217.74,
+   "text": "Even in the midnight hour you're moving",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.604,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 217.74,
+   "end": 221.06,
+   "text": "Even in the silence, here's your proven",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.204,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 221.06,
+   "end": 223.76,
+   "text": "Your the life that never fades away",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.204,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 223.76,
+   "end": 226.38,
+   "text": "My waymaker every day",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.204,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 228.0,
+   "end": 228.72,
+   "text": "Waymaker",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.204,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 229.34,
+   "end": 232.0,
+   "text": "And so I walk forward, not by sight",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.204,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 232.0,
+   "end": 235.44,
+   "text": "But by faith, knowing that every step",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.204,
+   "track_id": "eD2IMkcreEI#17"
+  },
+  {
+   "start": 236.14,
+   "end": 238.3,
+   "text": "Is held in the palm of your hand",
+   "avg_logprob": -0.371,
+   "no_speech_prob": 0.204,
+   "track_id": "eD2IMkcreEI#17"
+  }
+ ]
+}

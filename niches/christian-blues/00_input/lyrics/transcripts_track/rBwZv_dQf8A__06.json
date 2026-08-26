@@ -1,0 +1,430 @@
+{
+ "track_id": "rBwZv_dQf8A#06",
+ "track_key": "rBwZv_dQf8A__06",
+ "video_id": "rBwZv_dQf8A",
+ "title": "Don't Envy The Wicked (Proverbs 23)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 202.0,
+ "voiced_sec": 167.8,
+ "voice_ratio": 0.831,
+ "n_words": 294,
+ "words_per_min": 87.3,
+ "is_instrumental": false,
+ "n_segments": 51,
+ "n_segments_voiced": 51,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 27.6,
+ "rtf": 0.137,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.86,
+   "text": "Lord tonight",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 2.6,
+   "end": 4.5,
+   "text": "Don't envy the wicked",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 5.2,
+   "end": 7.36,
+   "text": "Don't chase their gold",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 7.96,
+   "end": 10.18,
+   "text": "It fade like mist",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 10.18,
+   "end": 12.54,
+   "text": "It won't hold",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 13.44,
+   "end": 16.76,
+   "text": "Richest sprout wings they fly away",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 17.36,
+   "end": 22.28,
+   "text": "But the fear of the Lord is here to stay",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 23.06,
+   "end": 27.76,
+   "text": "Be wise my child and keep your heart",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.374,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 27.76,
+   "end": 32.5,
+   "text": "Don't let fools tear your world apart",
+   "avg_logprob": -0.133,
+   "no_speech_prob": 0.562,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 32.5,
+   "end": 35.54,
+   "text": "Stay steady, walk in the truth",
+   "avg_logprob": -0.133,
+   "no_speech_prob": 0.562,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 35.54,
+   "end": 38.08,
+   "text": "The righteous life is the fountain of youth",
+   "avg_logprob": -0.133,
+   "no_speech_prob": 0.562,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 41.84,
+   "end": 44.0,
+   "text": "Don't envy the wicked",
+   "avg_logprob": -0.133,
+   "no_speech_prob": 0.562,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 44.76,
+   "end": 46.68,
+   "text": "Don't follow their track",
+   "avg_logprob": -0.133,
+   "no_speech_prob": 0.562,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 46.68,
+   "end": 51.64,
+   "text": "They're running fast, but they won't come back",
+   "avg_logprob": -0.133,
+   "no_speech_prob": 0.562,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 52.62,
+   "end": 56.58,
+   "text": "Keep your eyes on the kingdom road",
+   "avg_logprob": -0.133,
+   "no_speech_prob": 0.562,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 56.58,
+   "end": 61.86,
+   "text": "Don't envy the wicked, let that go",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.572,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 63.12,
+   "end": 68.06,
+   "text": "Don't drink too deep from the cup of sin",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.572,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 68.58,
+   "end": 72.86,
+   "text": "It looks real sweet, but it burns within",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.572,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 72.86,
+   "end": 78.42,
+   "text": "When you wake up soft and your soul feels dry",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.572,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 78.42,
+   "end": 83.34,
+   "text": "You wish you listened to the Lord most high",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.572,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 83.34,
+   "end": 85.88,
+   "text": "Don't live for pleasure.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 85.88,
+   "end": 87.18,
+   "text": "Don't live for pleasure.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 87.32,
+   "end": 88.42,
+   "text": "Don't chase the crowd.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 88.46,
+   "end": 89.68,
+   "text": "Don't chase the crowd.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 89.78,
+   "end": 90.96,
+   "text": "Wisdom speaks.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 90.96,
+   "end": 92.08,
+   "text": "Beats them, speaks.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 92.22,
+   "end": 93.38,
+   "text": "So say it loud.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 93.48,
+   "end": 94.72,
+   "text": "So say it loud.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 94.84,
+   "end": 95.98,
+   "text": "I walk in grace.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 96.06,
+   "end": 97.22,
+   "text": "I walk in grace.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 97.34,
+   "end": 98.4,
+   "text": "I live it live.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 98.6,
+   "end": 99.7,
+   "text": "I live it live.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 99.8,
+   "end": 103.34,
+   "text": "My father's will is my delight.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 105.3,
+   "end": 107.14,
+   "text": "Don't envy the wicked.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 107.66,
+   "end": 109.58,
+   "text": "Don't follow their track.",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.422,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 109.58,
+   "end": 114.68,
+   "text": "They're running fast but they won't come back.",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.505,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 114.9,
+   "end": 120.02,
+   "text": "Keep your eyes on the kingdom road.",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.505,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 120.68,
+   "end": 122.58,
+   "text": "No, we need to get it.",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.505,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 123.34,
+   "end": 124.86,
+   "text": "Let that go.",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.505,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 126.38,
+   "end": 130.16,
+   "text": "Gold may shine but it fades away.",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.505,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 130.68,
+   "end": 135.06,
+   "text": "The Lord's reward is here to stay.",
+   "avg_logprob": -0.346,
+   "no_speech_prob": 0.505,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 135.06,
+   "end": 140.02,
+   "text": "The world runs blind, the proud follow",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 140.02,
+   "end": 145.1,
+   "text": "I know, keep your eyes on Heaven's glow",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 145.1,
+   "end": 150.5,
+   "text": "Don't envy the wicked, don't follow their track",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 150.5,
+   "end": 155.22,
+   "text": "They're running fast but they won't come back",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 155.22,
+   "end": 159.16,
+   "text": "Keep your soul where the rivers flow",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.528,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 159.16,
+   "end": 165.78,
+   "text": "Don't envy the wicked, let that go",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.697,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 165.78,
+   "end": 172.0,
+   "text": "Oh wisdom's the treasure I wanna know",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.697,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 172.0,
+   "end": 178.18,
+   "text": "Don't envy the wicked, let that go",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.697,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 179.16,
+   "end": 181.28,
+   "text": "Let that go",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.697,
+   "track_id": "rBwZv_dQf8A#06"
+  },
+  {
+   "start": 189.16,
+   "end": 195.54,
+   "text": "Oh-oh-oh-oh-oh-oh-oh-oh Keep your eyes on headlines, go",
+   "avg_logprob": -0.919,
+   "no_speech_prob": 0.556,
+   "track_id": "rBwZv_dQf8A#06"
+  }
+ ]
+}

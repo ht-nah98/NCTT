@@ -1,0 +1,198 @@
+{
+ "track_id": "DL1lnwaff8k#02",
+ "track_key": "DL1lnwaff8k__02",
+ "video_id": "DL1lnwaff8k",
+ "title": "1. Ecclesiastes 1 – Vanity Blues",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 280.0,
+ "voiced_sec": 158.0,
+ "voice_ratio": 0.564,
+ "n_words": 168,
+ "words_per_min": 36.0,
+ "is_instrumental": false,
+ "n_segments": 22,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 34.6,
+ "rtf": 0.123,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.14,
+   "text": "Let's go.",
+   "avg_logprob": -0.743,
+   "no_speech_prob": 0.298,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 30.8,
+   "end": 34.72,
+   "text": "returns the sun again",
+   "avg_logprob": -0.742,
+   "no_speech_prob": 0.378,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 40.0,
+   "end": 43.66,
+   "text": "One generation passes away",
+   "avg_logprob": -0.742,
+   "no_speech_prob": 0.378,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 47.0,
+   "end": 52.02,
+   "text": "Another rise up with a day",
+   "avg_logprob": -0.742,
+   "no_speech_prob": 0.378,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 56.52,
+   "end": 69.74,
+   "text": "But the earth of body still, while man chases wind up against his will.",
+   "avg_logprob": -0.561,
+   "no_speech_prob": 0.314,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 69.74,
+   "end": 77.64,
+   "text": "What profit had the man by tolling pain?",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.548,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 79.88,
+   "end": 86.12,
+   "text": "Under the sun it's all the same",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.548,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 88.08,
+   "end": 94.98,
+   "text": "The river's rough but never fail",
+   "avg_logprob": -0.464,
+   "no_speech_prob": 0.548,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 96.46,
+   "end": 104.02,
+   "text": "And wisdom wounds more than it heals",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.589,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 107.2,
+   "end": 111.84,
+   "text": "The eye is not full with what it sees",
+   "avg_logprob": -0.474,
+   "no_speech_prob": 0.589,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 111.84,
+   "end": 118.84,
+   "text": "The ear won't rest with melodies",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.633,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 124.24,
+   "end": 128.6,
+   "text": "All things are full of wariness",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.633,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 130.16,
+   "end": 136.5,
+   "text": "There's nothing new, just emptiness",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.633,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 140.9,
+   "end": 153.98,
+   "text": "I gave my heart to seek and know But wisdom brings a share of war",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.576,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 158.08,
+   "end": 171.26,
+   "text": "In much knowledge there's much grief The truth cuts sharper than belief",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.466,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 171.26,
+   "end": 179.16,
+   "text": "What profit had the man by tolling pain",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.57,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 181.5,
+   "end": 187.76,
+   "text": "Under the sun, it's all the same",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.57,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 189.66,
+   "end": 196.26,
+   "text": "The rivers run but never fill",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.57,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 197.74,
+   "end": 205.56,
+   "text": "And wisdom will more than it hears",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.715,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 208.86,
+   "end": 214.32,
+   "text": "Vanity of vanity said the wise",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.715,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 214.32,
+   "end": 221.78,
+   "text": "Like smoke that fades before the skies",
+   "avg_logprob": -0.467,
+   "no_speech_prob": 0.715,
+   "track_id": "DL1lnwaff8k#02"
+  },
+  {
+   "start": 225.52,
+   "end": 238.84,
+   "text": "I chased the wind, I searched the flame But found the dust and signed my name",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.594,
+   "track_id": "DL1lnwaff8k#02"
+  }
+ ]
+}

@@ -1,0 +1,4368 @@
+{
+ "video_id": "JqDkxKCb4ec",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 2810.0,
+ "voiced_sec": 1741.9,
+ "voice_ratio": 0.62,
+ "is_instrumental": false,
+ "n_segments": 435,
+ "n_segments_voiced": 432,
+ "n_tracks": 14,
+ "n_seg_mapped": 435,
+ "source_branch": "A",
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.36,
+   "text": "I've been leaning on my old mind Trying to see what these weary eyes",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.193,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 0.0,
+   "track_end": 9.36
+  },
+  {
+   "start": 10.0,
+   "end": 17.32,
+   "text": "But wisdom whispered in the midnight wind Said, child, let the Lord be your guide",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.193,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 10.0,
+   "track_end": 17.32
+  },
+  {
+   "start": 18.0,
+   "end": 27.08,
+   "text": "I heard that voice, gentle and true Said, don't be wise in your own view",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.193,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 18.0,
+   "track_end": 27.08
+  },
+  {
+   "start": 27.08,
+   "end": 31.42,
+   "text": "Turn from evil and the path gets clear",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 27.08,
+   "track_end": 31.42
+  },
+  {
+   "start": 31.42,
+   "end": 35.9,
+   "text": "Fear of the Lord will keep you near",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 31.42,
+   "track_end": 35.9
+  },
+  {
+   "start": 35.9,
+   "end": 40.36,
+   "text": "Trust in the Lord with all your heart",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 35.9,
+   "track_end": 40.36
+  },
+  {
+   "start": 40.36,
+   "end": 43.66,
+   "text": "Don't lean on what you know",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 40.36,
+   "track_end": 43.66
+  },
+  {
+   "start": 44.28,
+   "end": 49.06,
+   "text": "And all your ways acknowledge Him",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 44.28,
+   "track_end": 49.06
+  },
+  {
+   "start": 49.06,
+   "end": 52.56,
+   "text": "And He'll show you where to go",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 49.06,
+   "track_end": 52.56
+  },
+  {
+   "start": 52.56,
+   "end": 61.34,
+   "text": "Don't chase the gold, don't chase the fame Let mercy and truth be your chain",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.778,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 52.56,
+   "track_end": 61.34
+  },
+  {
+   "start": 61.34,
+   "end": 67.98,
+   "text": "Ride them on your heart child again and again",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.778,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 61.34,
+   "track_end": 67.98
+  },
+  {
+   "start": 70.16,
+   "end": 78.64,
+   "text": "He said honor me with all you own And your bonds will overflow",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.778,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 70.16,
+   "track_end": 78.64
+  },
+  {
+   "start": 79.8,
+   "end": 84.02,
+   "text": "Don't despise my hand When I correct",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 79.8,
+   "track_end": 84.02
+  },
+  {
+   "start": 84.02,
+   "end": 88.6,
+   "text": "Is the love of a father that helps you grow",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 84.02,
+   "track_end": 88.6
+  },
+  {
+   "start": 89.2,
+   "end": 92.98,
+   "text": "I was lost, I was blind",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 89.2,
+   "track_end": 92.98
+  },
+  {
+   "start": 92.98,
+   "end": 97.42,
+   "text": "Walking crooked, wasting time",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 92.98,
+   "track_end": 97.42
+  },
+  {
+   "start": 97.42,
+   "end": 101.72,
+   "text": "But His word became my road",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 97.42,
+   "track_end": 101.72
+  },
+  {
+   "start": 101.72,
+   "end": 106.16,
+   "text": "Now I'm walking straight in a heavy soul's floor",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 101.72,
+   "track_end": 106.16
+  },
+  {
+   "start": 106.16,
+   "end": 110.58,
+   "text": "Trust in the Lord with all your heart",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 106.16,
+   "track_end": 110.58
+  },
+  {
+   "start": 110.58,
+   "end": 113.9,
+   "text": "Don't lean on what you know",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 110.58,
+   "track_end": 113.9
+  },
+  {
+   "start": 113.9,
+   "end": 119.3,
+   "text": "In all your ways, acknowledge Him",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 113.9,
+   "track_end": 119.3
+  },
+  {
+   "start": 119.3,
+   "end": 122.64,
+   "text": "And He'll show you where to go",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 119.3,
+   "track_end": 122.64
+  },
+  {
+   "start": 122.64,
+   "end": 128.06,
+   "text": "Keep His word close, don't let it fade",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 122.64,
+   "track_end": 128.06
+  },
+  {
+   "start": 128.06,
+   "end": 132.46,
+   "text": "Peace and favor gonna light your way",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 128.06,
+   "track_end": 132.46
+  },
+  {
+   "start": 132.46,
+   "end": 136.84,
+   "text": "Yeah, I trust You Lord through the storm and flame",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 132.46,
+   "track_end": 136.84
+  },
+  {
+   "start": 136.84,
+   "end": 141.18,
+   "text": "You're the truth, the light, the holy name",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 136.84,
+   "track_end": 141.18
+  },
+  {
+   "start": 141.18,
+   "end": 146.8,
+   "text": "Proverbs 3, been ringing in my soul and I follow",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 141.18,
+   "track_end": 146.8
+  },
+  {
+   "start": 147.62,
+   "end": 155.0,
+   "text": "Well, you go",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01",
+   "track_start": 147.62,
+   "track_end": 155.0
+  },
+  {
+   "start": 168.0,
+   "end": 175.18,
+   "text": "Down that shadow's tree Where the lights are dim and low",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.659,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 0.0,
+   "track_end": 7.18
+  },
+  {
+   "start": 175.18,
+   "end": 182.98,
+   "text": "She whispers soft and sweet But her steps drag down below",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.659,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 7.18,
+   "track_end": 14.98
+  },
+  {
+   "start": 184.74,
+   "end": 191.78,
+   "text": "She called him with a look A smooth talking charm",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.659,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 16.74,
+   "track_end": 23.78
+  },
+  {
+   "start": 191.78,
+   "end": 199.78,
+   "text": "Come drink deeper pleasure No one will do us harm",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.675,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 23.78,
+   "track_end": 31.78
+  },
+  {
+   "start": 201.38,
+   "end": 207.3,
+   "text": "Perfume on the sheets Her lips are burning flame",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.675,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 33.38,
+   "track_end": 39.3
+  },
+  {
+   "start": 208.66,
+   "end": 216.18,
+   "text": "But sin don't love its victims It leaves them cold shamed",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.675,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 40.66,
+   "track_end": 48.18
+  },
+  {
+   "start": 216.18,
+   "end": 219.34,
+   "text": "Down that shadowed street",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 48.18,
+   "track_end": 51.34
+  },
+  {
+   "start": 220.18,
+   "end": 223.18,
+   "text": "Where the lights are dim and low",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 52.18,
+   "track_end": 55.18
+  },
+  {
+   "start": 224.18,
+   "end": 227.34,
+   "text": "She whispers soft and sweet",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 56.18,
+   "track_end": 59.34
+  },
+  {
+   "start": 228.18,
+   "end": 230.92,
+   "text": "But her steps drag down below",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 60.18,
+   "track_end": 62.92
+  },
+  {
+   "start": 237.18,
+   "end": 239.14,
+   "text": "He goes like a nox to slaughter",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 69.18,
+   "track_end": 71.14
+  },
+  {
+   "start": 240.82,
+   "end": 243.36,
+   "text": "Like a fool into the snare",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 72.82,
+   "track_end": 75.36
+  },
+  {
+   "start": 244.68,
+   "end": 247.44,
+   "text": "Till a narrow pierces his heart",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 76.68,
+   "track_end": 79.44
+  },
+  {
+   "start": 249.36,
+   "end": 251.32,
+   "text": "And he wakes to his despair",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 81.36,
+   "track_end": 83.32
+  },
+  {
+   "start": 253.36,
+   "end": 255.74,
+   "text": "Man he's strong, man she's taken down",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 85.36,
+   "track_end": 87.74
+  },
+  {
+   "start": 257.36,
+   "end": 259.32,
+   "text": "Her house leads straight to death",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 89.36,
+   "track_end": 91.32
+  },
+  {
+   "start": 261.36,
+   "end": 263.32,
+   "text": "Don't walk away my brother",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 93.36,
+   "track_end": 95.32
+  },
+  {
+   "start": 265.36,
+   "end": 267.86,
+   "text": "Keep wisdom till your last breath",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 97.36,
+   "track_end": 99.86
+  },
+  {
+   "start": 267.86,
+   "end": 272.0,
+   "text": "Down that shadow's reed",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 99.86,
+   "track_end": 104.0
+  },
+  {
+   "start": 272.0,
+   "end": 275.48,
+   "text": "Where the lights are dim and loom",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.213,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 104.0,
+   "track_end": 107.48
+  },
+  {
+   "start": 276.0,
+   "end": 279.36,
+   "text": "She whispers soft and sweet",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.213,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 108.0,
+   "track_end": 111.36
+  },
+  {
+   "start": 280.0,
+   "end": 283.06,
+   "text": "But her steps drag down below",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.213,
+   "track_id": "JqDkxKCb4ec#02",
+   "track_start": 112.0,
+   "track_end": 115.06
+  },
+  {
+   "start": 326.0,
+   "end": 345.66,
+   "text": "A soft dancer turns away ramp But harsh words stir up fire",
+   "avg_logprob": -0.671,
+   "no_speech_prob": 0.499,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 0.0,
+   "track_end": 19.66
+  },
+  {
+   "start": 347.46,
+   "end": 356.5,
+   "text": "The tongue of the wise brings healing The fool just fends desire",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.619,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 21.46,
+   "track_end": 30.5
+  },
+  {
+   "start": 359.66,
+   "end": 368.66,
+   "text": "The eyes of the Lord are everywhere Watching both good and bad",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.619,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 33.66,
+   "track_end": 42.66
+  },
+  {
+   "start": 370.2,
+   "end": 379.82,
+   "text": "A cheerful heart makes a joyful sound But a crushed spirit turns sad",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.511,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 44.2,
+   "track_end": 53.82
+  },
+  {
+   "start": 382.38,
+   "end": 387.34,
+   "text": "Keep your heart gentle, keep your words true",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.511,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 56.38,
+   "track_end": 61.34
+  },
+  {
+   "start": 387.34,
+   "end": 392.9,
+   "text": "Let peace be the song that carries you through",
+   "avg_logprob": -0.225,
+   "no_speech_prob": 0.511,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 61.34,
+   "track_end": 66.9
+  },
+  {
+   "start": 392.9,
+   "end": 401.86,
+   "text": "Life and death are in the tongue Speak with love till the battle's won",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.492,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 66.9,
+   "track_end": 75.86
+  },
+  {
+   "start": 404.02,
+   "end": 413.18,
+   "text": "Better little with fear of the law Than treasure with trouble inside",
+   "avg_logprob": -0.355,
+   "no_speech_prob": 0.492,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 78.02,
+   "track_end": 87.18
+  },
+  {
+   "start": 415.06,
+   "end": 424.3,
+   "text": "A warm meal with love and peace Beachfeeds where anger hides",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.775,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 89.06,
+   "track_end": 98.3
+  },
+  {
+   "start": 427.1,
+   "end": 435.02,
+   "text": "The way of the lazy is full of thorns The upright walks straight ahead",
+   "avg_logprob": -0.419,
+   "no_speech_prob": 0.775,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 101.1,
+   "track_end": 109.02
+  },
+  {
+   "start": 437.3,
+   "end": 446.08,
+   "text": "Plans fail without wise counsel But many voices live to death",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.829,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 111.3,
+   "track_end": 120.08
+  },
+  {
+   "start": 450.02,
+   "end": 454.36,
+   "text": "Keep your heart gentle Keep your words true",
+   "avg_logprob": -0.374,
+   "no_speech_prob": 0.829,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 124.02,
+   "track_end": 128.36
+  },
+  {
+   "start": 454.36,
+   "end": 459.7,
+   "text": "Let peace be the song that carries you through",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 128.36,
+   "track_end": 133.7
+  },
+  {
+   "start": 460.36,
+   "end": 463.24,
+   "text": "Life and death are in the tongue",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 134.36,
+   "track_end": 137.24
+  },
+  {
+   "start": 465.02,
+   "end": 468.42,
+   "text": "Speak with love till the battle won",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 139.02,
+   "track_end": 142.42
+  },
+  {
+   "start": 470.04,
+   "end": 474.42,
+   "text": "Yeah, soft answer",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 144.04,
+   "track_end": 148.42
+  },
+  {
+   "start": 481.82,
+   "end": 485.62,
+   "text": "Can't break a storm in two",
+   "avg_logprob": -0.607,
+   "no_speech_prob": 0.541,
+   "track_id": "JqDkxKCb4ec#03",
+   "track_start": 155.82,
+   "track_end": 159.62
+  },
+  {
+   "start": 505.46,
+   "end": 517.68,
+   "text": "My son, hear your father's instruction Don't throw your momma's words away",
+   "avg_logprob": -0.421,
+   "no_speech_prob": 0.416,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 9.46,
+   "track_end": 21.68
+  },
+  {
+   "start": 519.76,
+   "end": 523.84,
+   "text": "They're a garlin' round your head, child",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 23.76,
+   "track_end": 27.84
+  },
+  {
+   "start": 525.38,
+   "end": 528.72,
+   "text": "They'll guide you on your way",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 29.38,
+   "track_end": 32.72
+  },
+  {
+   "start": 531.74,
+   "end": 536.68,
+   "text": "When sinners come saying, Walk with us",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 35.74,
+   "track_end": 40.68
+  },
+  {
+   "start": 536.68,
+   "end": 541.34,
+   "text": "Don't set your foot on their path",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 40.68,
+   "track_end": 45.34
+  },
+  {
+   "start": 541.34,
+   "end": 545.76,
+   "text": "Their feet rush to evil",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.411,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 45.34,
+   "track_end": 49.76
+  },
+  {
+   "start": 545.76,
+   "end": 552.76,
+   "text": "Their heart runs toward wrath The fear of the Lord",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.567,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 49.76,
+   "track_end": 56.76
+  },
+  {
+   "start": 553.42,
+   "end": 560.76,
+   "text": "Is the start of all wisdom That's the song I'm gonna sing",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.567,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 57.42,
+   "track_end": 64.76
+  },
+  {
+   "start": 560.76,
+   "end": 565.54,
+   "text": "Fools may mock But I'll keep listening",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.567,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 64.76,
+   "track_end": 69.54
+  },
+  {
+   "start": 565.54,
+   "end": 571.16,
+   "text": "Cause wisdom's crown is a holy thing",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.461,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 69.54,
+   "track_end": 75.16
+  },
+  {
+   "start": 581.36,
+   "end": 585.2,
+   "text": "Wisdom cries out in the streets",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.461,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 85.36,
+   "track_end": 89.2
+  },
+  {
+   "start": 586.38,
+   "end": 589.54,
+   "text": "Raises her voice in the square",
+   "avg_logprob": -0.278,
+   "no_speech_prob": 0.461,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 90.38,
+   "track_end": 93.54
+  },
+  {
+   "start": 590.8,
+   "end": 594.92,
+   "text": "How long you simple one she's saying?",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 94.8,
+   "track_end": 98.92
+  },
+  {
+   "start": 596.0,
+   "end": 599.44,
+   "text": "Will you love what isn't there?",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 100.0,
+   "track_end": 103.44
+  },
+  {
+   "start": 600.72,
+   "end": 604.34,
+   "text": "She called but they wouldn't answer",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 104.72,
+   "track_end": 108.34
+  },
+  {
+   "start": 604.34,
+   "end": 609.16,
+   "text": "They laughed when she warned of the fall",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 108.34,
+   "track_end": 113.16
+  },
+  {
+   "start": 609.16,
+   "end": 614.24,
+   "text": "Now when trouble rolls like thunder",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 113.16,
+   "track_end": 118.24
+  },
+  {
+   "start": 614.24,
+   "end": 619.32,
+   "text": "They won't find her voice at all",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 118.24,
+   "track_end": 123.32
+  },
+  {
+   "start": 619.32,
+   "end": 625.22,
+   "text": "The fear of the Lord is the start of all wisdom",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 123.32,
+   "track_end": 129.22
+  },
+  {
+   "start": 626.24,
+   "end": 629.18,
+   "text": "That's the song I'm gonna sing",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 130.24,
+   "track_end": 133.18
+  },
+  {
+   "start": 629.18,
+   "end": 633.92,
+   "text": "Fool's Bay Moth, but I'll keep listening",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.646,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 133.18,
+   "track_end": 137.92
+  },
+  {
+   "start": 633.92,
+   "end": 639.3,
+   "text": "Cause wisdom's crown is the holy thing",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 137.92,
+   "track_end": 143.3
+  },
+  {
+   "start": 649.5,
+   "end": 654.38,
+   "text": "Turn out or reproof, she'll pour her spirit out",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 153.5,
+   "track_end": 158.38
+  },
+  {
+   "start": 654.38,
+   "end": 658.58,
+   "text": "Make her words known to your soul",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 158.38,
+   "track_end": 162.58
+  },
+  {
+   "start": 658.58,
+   "end": 668.98,
+   "text": "Whoever listens will live secure at peace when the storm starts to roll",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 162.58,
+   "track_end": 172.98
+  },
+  {
+   "start": 669.58,
+   "end": 676.34,
+   "text": "The fear of the Lord is the start of all wisdom",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 173.58,
+   "track_end": 180.34
+  },
+  {
+   "start": 676.34,
+   "end": 682.36,
+   "text": "That's the song I'm gonna sing, fools may mock",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.647,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 180.34,
+   "track_end": 186.36
+  },
+  {
+   "start": 682.36,
+   "end": 685.1,
+   "text": "But I'll keep listening",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.205,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 186.36,
+   "track_end": 189.1
+  },
+  {
+   "start": 686.36,
+   "end": 690.48,
+   "text": "Cause wisdom's crown is a holy thing",
+   "avg_logprob": -0.39,
+   "no_speech_prob": 0.205,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 190.36,
+   "track_end": 194.48
+  },
+  {
+   "start": 712.58,
+   "end": 713.98,
+   "text": "you",
+   "avg_logprob": -0.538,
+   "no_speech_prob": 0.911,
+   "track_id": "JqDkxKCb4ec#04",
+   "track_start": 216.58,
+   "track_end": 217.98
+  },
+  {
+   "start": 716.32,
+   "end": 717.08,
+   "text": "MUSIC",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 2.32,
+   "track_end": 3.08
+  },
+  {
+   "start": 717.98,
+   "end": 718.74,
+   "text": "Oh",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 3.98,
+   "track_end": 4.74
+  },
+  {
+   "start": 718.74,
+   "end": 727.4,
+   "text": "Oh, my son hears his father's word",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 4.74,
+   "track_end": 13.4
+  },
+  {
+   "start": 727.4,
+   "end": 729.24,
+   "text": "But fools don't listen long",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 13.4,
+   "track_end": 15.24
+  },
+  {
+   "start": 730.0,
+   "end": 732.8,
+   "text": "A man eats good from what he speaks",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 16.0,
+   "track_end": 18.8
+  },
+  {
+   "start": 732.8,
+   "end": 734.76,
+   "text": "But lies will choke his song",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 18.8,
+   "track_end": 20.76
+  },
+  {
+   "start": 734.76,
+   "end": 737.96,
+   "text": "Lazy hands make a poor man's life",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 20.76,
+   "track_end": 23.96
+  },
+  {
+   "start": 737.96,
+   "end": 739.8,
+   "text": "Diligence fills his plate",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 23.96,
+   "track_end": 25.8
+  },
+  {
+   "start": 741.0,
+   "end": 743.32,
+   "text": "Hope that's dragged too long will hurt",
+   "avg_logprob": -0.36,
+   "no_speech_prob": 0.538,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 27.0,
+   "track_end": 29.32
+  },
+  {
+   "start": 743.32,
+   "end": 745.22,
+   "text": "But y'all don't show up late",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 29.32,
+   "track_end": 31.22
+  },
+  {
+   "start": 745.22,
+   "end": 746.78,
+   "text": "Walk with the wise",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 31.22,
+   "track_end": 32.78
+  },
+  {
+   "start": 746.78,
+   "end": 749.46,
+   "text": "You'll rise, hang with fools",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 32.78,
+   "track_end": 35.46
+  },
+  {
+   "start": 749.46,
+   "end": 753.4,
+   "text": "You'll fall, keep your hands to the plow",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 35.46,
+   "track_end": 39.4
+  },
+  {
+   "start": 753.4,
+   "end": 755.8,
+   "text": "Let wisdom guide it all",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 39.4,
+   "track_end": 41.8
+  },
+  {
+   "start": 756.32,
+   "end": 758.74,
+   "text": "Let wisdom guide it all",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.421,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 42.32,
+   "track_end": 44.74
+  },
+  {
+   "start": 758.74,
+   "end": 759.72,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 44.74,
+   "track_end": 45.72
+  },
+  {
+   "start": 759.72,
+   "end": 760.1,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 45.72,
+   "track_end": 46.1
+  },
+  {
+   "start": 760.1,
+   "end": 761.1,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 46.1,
+   "track_end": 47.1
+  },
+  {
+   "start": 761.1,
+   "end": 761.62,
+   "text": "Oh",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 47.1,
+   "track_end": 47.62
+  },
+  {
+   "start": 771.26,
+   "end": 776.76,
+   "text": "A good man leaves an inheritance to children not yet grown",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 57.26,
+   "track_end": 62.76
+  },
+  {
+   "start": 777.74,
+   "end": 782.4,
+   "text": "But well stored up for the sinner goes to the righteous home",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 63.74,
+   "track_end": 68.4
+  },
+  {
+   "start": 782.4,
+   "end": 787.22,
+   "text": "The teaching of the wise is life turns you from desk door",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.742,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 68.4,
+   "track_end": 73.22
+  },
+  {
+   "start": 787.22,
+   "end": 790.48,
+   "text": "Every step that walks with truth",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 73.22,
+   "track_end": 76.48
+  },
+  {
+   "start": 790.48,
+   "end": 792.6,
+   "text": "Brings blessing more and more",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 76.48,
+   "track_end": 78.6
+  },
+  {
+   "start": 792.6,
+   "end": 794.12,
+   "text": "Walk with the wise",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 78.6,
+   "track_end": 80.12
+  },
+  {
+   "start": 794.12,
+   "end": 796.76,
+   "text": "Your eyes hang with fools",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 80.12,
+   "track_end": 82.76
+  },
+  {
+   "start": 796.76,
+   "end": 797.74,
+   "text": "You'll fall",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 82.76,
+   "track_end": 83.74
+  },
+  {
+   "start": 797.74,
+   "end": 800.7,
+   "text": "Keep your hands to the plow",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 83.74,
+   "track_end": 86.7
+  },
+  {
+   "start": 800.7,
+   "end": 803.3,
+   "text": "Let wisdom guide it all",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 86.7,
+   "track_end": 89.3
+  },
+  {
+   "start": 803.3,
+   "end": 806.42,
+   "text": "Yeah, walk with the wise",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 89.3,
+   "track_end": 92.42
+  },
+  {
+   "start": 807.68,
+   "end": 810.36,
+   "text": "Don't lose it all",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 93.68,
+   "track_end": 96.36
+  },
+  {
+   "start": 810.36,
+   "end": 813.52,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 96.36,
+   "track_end": 99.52
+  },
+  {
+   "start": 813.52,
+   "end": 815.44,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 99.52,
+   "track_end": 101.44
+  },
+  {
+   "start": 815.44,
+   "end": 816.12,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 101.44,
+   "track_end": 102.12
+  },
+  {
+   "start": 816.12,
+   "end": 816.28,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 102.12,
+   "track_end": 102.28
+  },
+  {
+   "start": 816.28,
+   "end": 816.72,
+   "text": "Oh, oh",
+   "avg_logprob": -0.169,
+   "no_speech_prob": 0.615,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 102.28,
+   "track_end": 102.72
+  },
+  {
+   "start": 877.74,
+   "end": 880.3,
+   "text": "Ooh Ooh Ooh Ooh",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 163.74,
+   "track_end": 166.3
+  },
+  {
+   "start": 884.92,
+   "end": 888.94,
+   "text": "Oh, why, our son makes his father proud",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 170.92,
+   "track_end": 174.94
+  },
+  {
+   "start": 890.92,
+   "end": 894.76,
+   "text": "A foolish one brings pain",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 176.92,
+   "track_end": 180.76
+  },
+  {
+   "start": 897.02,
+   "end": 899.46,
+   "text": "Treasures gain by wicked hands",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 183.02,
+   "track_end": 185.46
+  },
+  {
+   "start": 899.46,
+   "end": 901.8,
+   "text": "They don't last if they fade away",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 185.46,
+   "track_end": 187.8
+  },
+  {
+   "start": 901.8,
+   "end": 905.26,
+   "text": "But righteousness delivers life",
+   "avg_logprob": -1.278,
+   "no_speech_prob": 0.316,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 187.8,
+   "track_end": 191.26
+  },
+  {
+   "start": 905.26,
+   "end": 907.72,
+   "text": "and truth will light your way",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 191.26,
+   "track_end": 193.72
+  },
+  {
+   "start": 908.26,
+   "end": 911.42,
+   "text": "The hand of the diligent rules",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 194.26,
+   "track_end": 197.42
+  },
+  {
+   "start": 911.42,
+   "end": 913.64,
+   "text": "while the lazy face to dust",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 197.42,
+   "track_end": 199.64
+  },
+  {
+   "start": 914.26,
+   "end": 917.02,
+   "text": "blessings fall on the righteous man",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 200.26,
+   "track_end": 203.02
+  },
+  {
+   "start": 917.02,
+   "end": 921.0,
+   "text": "and the Lord remembers the judge",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.539,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 203.02,
+   "track_end": 207.0
+  },
+  {
+   "start": 921.0,
+   "end": 931.28,
+   "text": "ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 207.0,
+   "track_end": 217.28
+  },
+  {
+   "start": 931.56,
+   "end": 936.74,
+   "text": "Hatred stirs up trouble, but love covers every wrong.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 217.56,
+   "track_end": 222.74
+  },
+  {
+   "start": 938.02,
+   "end": 942.78,
+   "text": "Wisemen store up knowledge deep while fools just talk too long.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 224.02,
+   "track_end": 228.78
+  },
+  {
+   "start": 943.64,
+   "end": 948.78,
+   "text": "The name of the righteous stands, but the wicked won't last long.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.281,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 229.64,
+   "track_end": 234.78
+  },
+  {
+   "start": 948.78,
+   "end": 954.64,
+   "text": "The hand of the diligent rules while the lazy face to dust",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.327,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 234.78,
+   "track_end": 240.64
+  },
+  {
+   "start": 954.64,
+   "end": 959.22,
+   "text": "Blessings fall on the righteous man and the Lord",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.327,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 240.64,
+   "track_end": 245.22
+  },
+  {
+   "start": 959.78,
+   "end": 961.54,
+   "text": "Lord remembers the judge",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.327,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 245.78,
+   "track_end": 247.54
+  },
+  {
+   "start": 984.9,
+   "end": 996.02,
+   "text": "Yes, in America...",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 270.9,
+   "track_end": 282.02
+  },
+  {
+   "start": 996.02,
+   "end": 997.02,
+   "text": "the mouth of the righteous",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 282.02,
+   "track_end": 283.02
+  },
+  {
+   "start": 997.02,
+   "end": 997.96,
+   "text": "is a bouncing,",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 283.02,
+   "track_end": 283.96
+  },
+  {
+   "start": 998.76,
+   "end": 1000.76,
+   "text": "but the wicked hide deceit,",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 284.76,
+   "track_end": 286.76
+  },
+  {
+   "start": 1000.76,
+   "end": 1001.88,
+   "text": "oh boy.",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 286.76,
+   "track_end": 287.88
+  },
+  {
+   "start": 1001.88,
+   "end": 1003.66,
+   "text": "He who walks an integrity",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 287.88,
+   "track_end": 289.66
+  },
+  {
+   "start": 1003.66,
+   "end": 1005.6,
+   "text": "slide is nothing left to be",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 289.66,
+   "track_end": 291.6
+  },
+  {
+   "start": 1005.6,
+   "end": 1008.38,
+   "text": "The whole",
+   "avg_logprob": -2.884,
+   "no_speech_prob": 0.348,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 291.6,
+   "track_end": 294.38
+  },
+  {
+   "start": 1008.38,
+   "end": 1012.14,
+   "text": "Oh, Mother Righteous brings joy",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 294.38,
+   "track_end": 298.14
+  },
+  {
+   "start": 1013.08,
+   "end": 1016.9,
+   "text": "But the wicked can't compete",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 299.08,
+   "track_end": 302.9
+  },
+  {
+   "start": 1018.5,
+   "end": 1022.0,
+   "text": "The hand of the diligent rules",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 304.5,
+   "track_end": 308.0
+  },
+  {
+   "start": 1022.0,
+   "end": 1024.12,
+   "text": "While the lazy face to dust",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 308.0,
+   "track_end": 310.12
+  },
+  {
+   "start": 1025.06,
+   "end": 1026.9,
+   "text": "Blessings fall on the righteous",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 311.06,
+   "track_end": 312.9
+  },
+  {
+   "start": 1026.9,
+   "end": 1031.16,
+   "text": "A man and the Lord remembers a judge",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.368,
+   "track_id": "JqDkxKCb4ec#05",
+   "track_start": 312.9,
+   "track_end": 317.16
+  },
+  {
+   "start": 1075.06,
+   "end": 1082.1,
+   "text": "My son hear my voice tonight, let wisdom guard your way",
+   "avg_logprob": -0.575,
+   "no_speech_prob": 0.363,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 20.06,
+   "track_end": 27.1
+  },
+  {
+   "start": 1083.26,
+   "end": 1092.68,
+   "text": "The lips of temptation drip sweet as honey But her feet lead you astray",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.217,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 28.26,
+   "track_end": 37.68
+  },
+  {
+   "start": 1096.36,
+   "end": 1103.86,
+   "text": "Her past goes down to death Her steps can't find a light",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.217,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 41.36,
+   "track_end": 48.86
+  },
+  {
+   "start": 1103.86,
+   "end": 1107.88,
+   "text": "She don't care about the way of truth",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 48.86,
+   "track_end": 52.88
+  },
+  {
+   "start": 1107.88,
+   "end": 1111.52,
+   "text": "She hides her sin and lies",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 52.88,
+   "track_end": 56.52
+  },
+  {
+   "start": 1111.52,
+   "end": 1114.54,
+   "text": "The honey turns to fire",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 56.52,
+   "track_end": 59.54
+  },
+  {
+   "start": 1118.74,
+   "end": 1122.14,
+   "text": "Oh, won't you taste that lie?",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 63.74,
+   "track_end": 67.14
+  },
+  {
+   "start": 1123.1,
+   "end": 1124.5,
+   "text": "Taste that lie",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 68.1,
+   "track_end": 69.5
+  },
+  {
+   "start": 1126.68,
+   "end": 1128.8,
+   "text": "Taste that lie",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 71.68,
+   "track_end": 73.8
+  },
+  {
+   "start": 1128.8,
+   "end": 1131.14,
+   "text": "Stay far from her door",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.298,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 73.8,
+   "track_end": 76.14
+  },
+  {
+   "start": 1131.14,
+   "end": 1132.22,
+   "text": "Always",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 76.14,
+   "track_end": 77.22
+  },
+  {
+   "start": 1135.8,
+   "end": 1139.7,
+   "text": "Oh, don't even pass by",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 80.8,
+   "track_end": 84.7
+  },
+  {
+   "start": 1147.74,
+   "end": 1150.8,
+   "text": "Drink water from your own well",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 92.74,
+   "track_end": 95.8
+  },
+  {
+   "start": 1152.88,
+   "end": 1155.32,
+   "text": "Rejoice in the love you know",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 97.88,
+   "track_end": 100.32
+  },
+  {
+   "start": 1156.14,
+   "end": 1160.4,
+   "text": "Be satisfied with the wife of your youth",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.344,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 101.14,
+   "track_end": 105.4
+  },
+  {
+   "start": 1160.4,
+   "end": 1163.06,
+   "text": "Let a river flow",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 105.4,
+   "track_end": 108.06
+  },
+  {
+   "start": 1164.4,
+   "end": 1168.14,
+   "text": "The lost is every step you take",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 109.4,
+   "track_end": 113.14
+  },
+  {
+   "start": 1168.14,
+   "end": 1172.32,
+   "text": "Your ways are in his sight",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 113.14,
+   "track_end": 117.32
+  },
+  {
+   "start": 1172.32,
+   "end": 1177.0,
+   "text": "The wicked get trapped by their own sin",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 117.32,
+   "track_end": 122.0
+  },
+  {
+   "start": 1177.0,
+   "end": 1181.2,
+   "text": "And can't break loose to fight",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 122.0,
+   "track_end": 126.2
+  },
+  {
+   "start": 1222.66,
+   "end": 1226.04,
+   "text": "The honey turns to fire",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 167.66,
+   "track_end": 171.04
+  },
+  {
+   "start": 1229.96,
+   "end": 1233.74,
+   "text": "Yeah, once you taste that light",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 174.96,
+   "track_end": 178.74
+  },
+  {
+   "start": 1233.74,
+   "end": 1235.4,
+   "text": "Taste that light",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 178.74,
+   "track_end": 180.4
+  },
+  {
+   "start": 1237.54,
+   "end": 1240.14,
+   "text": "You taste that light",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 182.54,
+   "track_end": 185.14
+  },
+  {
+   "start": 1240.14,
+   "end": 1243.26,
+   "text": "Stay far from her doorway",
+   "avg_logprob": -0.385,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 185.14,
+   "track_end": 188.26
+  },
+  {
+   "start": 1248.08,
+   "end": 1252.1,
+   "text": "Don't even pass by",
+   "avg_logprob": -0.619,
+   "no_speech_prob": 0.633,
+   "track_id": "JqDkxKCb4ec#06",
+   "track_start": 193.08,
+   "track_end": 197.1
+  },
+  {
+   "start": 1280.0,
+   "end": 1281.12,
+   "text": "Hmm",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 0.0,
+   "track_end": 1.12
+  },
+  {
+   "start": 1285.24,
+   "end": 1286.1,
+   "text": "Hmm",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 5.24,
+   "track_end": 6.1
+  },
+  {
+   "start": 1295.0,
+   "end": 1296.54,
+   "text": "Can you hear her calling",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 15.0,
+   "track_end": 16.54
+  },
+  {
+   "start": 1298.6,
+   "end": 1301.6,
+   "text": "From the gate, from the street",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 18.6,
+   "track_end": 21.6
+  },
+  {
+   "start": 1304.0,
+   "end": 1306.02,
+   "text": "She's crying out to the simple",
+   "avg_logprob": -0.343,
+   "no_speech_prob": 0.361,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 24.0,
+   "track_end": 26.02
+  },
+  {
+   "start": 1306.02,
+   "end": 1310.7,
+   "text": "Oh, come listen, come take a seat",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 26.02,
+   "track_end": 30.7
+  },
+  {
+   "start": 1312.78,
+   "end": 1315.14,
+   "text": "She said my mouth speaks with right",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 32.78,
+   "track_end": 35.14
+  },
+  {
+   "start": 1317.3,
+   "end": 1320.1,
+   "text": "No twisted word I bring",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 37.3,
+   "track_end": 40.1
+  },
+  {
+   "start": 1321.98,
+   "end": 1325.24,
+   "text": "My truth is better than silver",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 41.98,
+   "track_end": 45.24
+  },
+  {
+   "start": 1326.62,
+   "end": 1329.88,
+   "text": "More precious than any king",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 46.62,
+   "track_end": 49.88
+  },
+  {
+   "start": 1330.5,
+   "end": 1335.5,
+   "text": "Wisdom cries out in the open air",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.593,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 50.5,
+   "track_end": 55.5
+  },
+  {
+   "start": 1335.5,
+   "end": 1338.7,
+   "text": "Louder than the noise of sin",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 55.5,
+   "track_end": 58.7
+  },
+  {
+   "start": 1339.5,
+   "end": 1344.74,
+   "text": "She was there before the mountains rose",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 59.5,
+   "track_end": 64.74
+  },
+  {
+   "start": 1345.5,
+   "end": 1348.06,
+   "text": "Before the world began",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 65.5,
+   "track_end": 68.06
+  },
+  {
+   "start": 1349.5,
+   "end": 1353.04,
+   "text": "I was with them in the beginning",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 69.5,
+   "track_end": 73.04
+  },
+  {
+   "start": 1354.5,
+   "end": 1357.52,
+   "text": "Before the sea found it short",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 74.5,
+   "track_end": 77.52
+  },
+  {
+   "start": 1359.5,
+   "end": 1362.74,
+   "text": "Before the clouds took their place",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.212,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 79.5,
+   "track_end": 82.74
+  },
+  {
+   "start": 1362.74,
+   "end": 1366.72,
+   "text": "Before the river's roar",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 82.74,
+   "track_end": 86.72
+  },
+  {
+   "start": 1368.74,
+   "end": 1371.94,
+   "text": "The Lord made me as His first work",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 88.74,
+   "track_end": 91.94
+  },
+  {
+   "start": 1372.74,
+   "end": 1375.94,
+   "text": "I watched His hand unfold",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 92.74,
+   "track_end": 95.94
+  },
+  {
+   "start": 1377.74,
+   "end": 1381.64,
+   "text": "I was beside Him like a craftsman",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 97.74,
+   "track_end": 101.64
+  },
+  {
+   "start": 1382.74,
+   "end": 1386.0,
+   "text": "Rejoicing as ages roll",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 102.74,
+   "track_end": 106.0
+  },
+  {
+   "start": 1386.74,
+   "end": 1391.5,
+   "text": "With them cries out in the open air",
+   "avg_logprob": -0.196,
+   "no_speech_prob": 0.487,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 106.74,
+   "track_end": 111.5
+  },
+  {
+   "start": 1391.5,
+   "end": 1395.1,
+   "text": "Louder than the noise of sin",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 111.5,
+   "track_end": 115.1
+  },
+  {
+   "start": 1395.1,
+   "end": 1400.72,
+   "text": "She was there before the mountains rose",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 115.1,
+   "track_end": 120.72
+  },
+  {
+   "start": 1401.5,
+   "end": 1404.88,
+   "text": "Before the world began",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 121.5,
+   "track_end": 124.88
+  },
+  {
+   "start": 1406.5,
+   "end": 1409.32,
+   "text": "Blessed are those who listen",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 126.5,
+   "track_end": 129.32
+  },
+  {
+   "start": 1410.5,
+   "end": 1414.0,
+   "text": "Who wait by my door each day",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 130.5,
+   "track_end": 134.0
+  },
+  {
+   "start": 1415.5,
+   "end": 1418.84,
+   "text": "For whoever finds me finds life",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.25,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 135.5,
+   "track_end": 138.84
+  },
+  {
+   "start": 1418.84,
+   "end": 1422.9,
+   "text": "And walks in the Lord's way",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 138.84,
+   "track_end": 142.9
+  },
+  {
+   "start": 1422.9,
+   "end": 1427.82,
+   "text": "But those who hate me love death",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 142.9,
+   "track_end": 147.82
+  },
+  {
+   "start": 1427.82,
+   "end": 1432.26,
+   "text": "Their hearts go cold inside",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 147.82,
+   "track_end": 152.26
+  },
+  {
+   "start": 1433.84,
+   "end": 1437.24,
+   "text": "So listen while I'm speaking",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 153.84,
+   "track_end": 157.24
+  },
+  {
+   "start": 1437.84,
+   "end": 1442.1,
+   "text": "Let truth be your guide",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 157.84,
+   "track_end": 162.1
+  },
+  {
+   "start": 1442.84,
+   "end": 1446.84,
+   "text": "Wisdom cries out in the open air",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 162.84,
+   "track_end": 166.84
+  },
+  {
+   "start": 1447.32,
+   "end": 1450.82,
+   "text": "She's calling out again",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.09,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 167.32,
+   "track_end": 170.82
+  },
+  {
+   "start": 1450.82,
+   "end": 1457.0,
+   "text": "She was there before the dawn of time",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.09,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 170.82,
+   "track_end": 177.0
+  },
+  {
+   "start": 1457.0,
+   "end": 1462.22,
+   "text": "And she'll stand until the end",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.09,
+   "track_id": "JqDkxKCb4ec#07",
+   "track_start": 177.0,
+   "track_end": 182.22
+  },
+  {
+   "start": 1528.18,
+   "end": 1534.74,
+   "text": "My son, you take my words to heart",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.42,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 11.18,
+   "track_end": 17.74
+  },
+  {
+   "start": 1537.4,
+   "end": 1539.96,
+   "text": "Treasure my commands inside",
+   "avg_logprob": -0.558,
+   "no_speech_prob": 0.42,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 20.4,
+   "track_end": 22.96
+  },
+  {
+   "start": 1542.68,
+   "end": 1551.9,
+   "text": "Turn your ear to wisdom's voice, let understanding be your guide",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.617,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 25.68,
+   "track_end": 34.9
+  },
+  {
+   "start": 1553.24,
+   "end": 1563.14,
+   "text": "Cry out for insight, lift your voice Search like silver in the ground",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.617,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 36.24,
+   "track_end": 46.14
+  },
+  {
+   "start": 1566.12,
+   "end": 1570.22,
+   "text": "Then you'll find the fear of the Lord",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 49.12,
+   "track_end": 53.22
+  },
+  {
+   "start": 1571.66,
+   "end": 1574.7,
+   "text": "And knowledge will be found",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 54.66,
+   "track_end": 57.7
+  },
+  {
+   "start": 1576.38,
+   "end": 1580.14,
+   "text": "The Lord gives wisdom from his mouth",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 59.38,
+   "track_end": 63.14
+  },
+  {
+   "start": 1581.1,
+   "end": 1584.38,
+   "text": "Knowledge and truth unfolds",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 64.1,
+   "track_end": 67.38
+  },
+  {
+   "start": 1584.38,
+   "end": 1587.26,
+   "text": "He's a shield to the upright man",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.571,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 67.38,
+   "track_end": 70.26
+  },
+  {
+   "start": 1587.26,
+   "end": 1591.22,
+   "text": "And God's his righteous soul",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 70.26,
+   "track_end": 74.22
+  },
+  {
+   "start": 1605.26,
+   "end": 1608.68,
+   "text": "He keeps a path of justice straight",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 88.26,
+   "track_end": 91.68
+  },
+  {
+   "start": 1608.68,
+   "end": 1611.5,
+   "text": "Protects the faithful way",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 91.68,
+   "track_end": 94.5
+  },
+  {
+   "start": 1612.26,
+   "end": 1615.54,
+   "text": "Then you'll know what's right and good",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.516,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 95.26,
+   "track_end": 98.54
+  },
+  {
+   "start": 1615.54,
+   "end": 1618.44,
+   "text": "Every step you take each day",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 98.54,
+   "track_end": 101.44
+  },
+  {
+   "start": 1619.66,
+   "end": 1622.34,
+   "text": "Wisdom enters the heart within",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 102.66,
+   "track_end": 105.34
+  },
+  {
+   "start": 1623.54,
+   "end": 1625.48,
+   "text": "And knowledge brings delight",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 106.54,
+   "track_end": 108.48
+  },
+  {
+   "start": 1626.62,
+   "end": 1629.38,
+   "text": "Discretion, God, you're every move",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 109.62,
+   "track_end": 112.38
+  },
+  {
+   "start": 1629.38,
+   "end": 1631.98,
+   "text": "And keep your steps upright",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 112.38,
+   "track_end": 114.98
+  },
+  {
+   "start": 1632.54,
+   "end": 1635.76,
+   "text": "The Lord gives wisdom from his mouth",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 115.54,
+   "track_end": 118.76
+  },
+  {
+   "start": 1636.54,
+   "end": 1638.92,
+   "text": "Knowledge and truth unfold",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 119.54,
+   "track_end": 121.92
+  },
+  {
+   "start": 1639.54,
+   "end": 1642.66,
+   "text": "He's a shield to the upright man",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.621,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 122.54,
+   "track_end": 125.66
+  },
+  {
+   "start": 1642.66,
+   "end": 1646.22,
+   "text": "And God says, ride your soul",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 125.66,
+   "track_end": 129.22
+  },
+  {
+   "start": 1652.58,
+   "end": 1655.66,
+   "text": "And God says, ride your soul",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 135.58,
+   "track_end": 138.66
+  },
+  {
+   "start": 1660.82,
+   "end": 1663.62,
+   "text": "He'll save you from the wicked man",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 143.82,
+   "track_end": 146.62
+  },
+  {
+   "start": 1663.62,
+   "end": 1666.48,
+   "text": "Whose words are dark and slight",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 146.62,
+   "track_end": 149.48
+  },
+  {
+   "start": 1667.74,
+   "end": 1670.58,
+   "text": "From the one who leaves the straight path",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.55,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 150.74,
+   "track_end": 153.58
+  },
+  {
+   "start": 1670.58,
+   "end": 1673.52,
+   "text": "And loves the ways that lie",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 153.58,
+   "track_end": 156.52
+  },
+  {
+   "start": 1674.58,
+   "end": 1677.5,
+   "text": "He'll keep you from the stranger's house",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 157.58,
+   "track_end": 160.5
+  },
+  {
+   "start": 1677.5,
+   "end": 1680.5,
+   "text": "Whose path leads down to death",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 160.5,
+   "track_end": 163.5
+  },
+  {
+   "start": 1680.5,
+   "end": 1684.42,
+   "text": "But the righteous dwell in the land of peace",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 163.5,
+   "track_end": 167.42
+  },
+  {
+   "start": 1684.42,
+   "end": 1687.18,
+   "text": "And walk in the spirit's breath",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 167.42,
+   "track_end": 170.18
+  },
+  {
+   "start": 1690.58,
+   "end": 1694.18,
+   "text": "The Lord gives wisdom from his mouth",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 173.58,
+   "track_end": 177.18
+  },
+  {
+   "start": 1694.18,
+   "end": 1697.12,
+   "text": "Knowledge and truth unfold",
+   "avg_logprob": -0.193,
+   "no_speech_prob": 0.497,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 177.18,
+   "track_end": 180.12
+  },
+  {
+   "start": 1697.12,
+   "end": 1704.36,
+   "text": "He's a shield to the upright man And God's his righteous soul",
+   "avg_logprob": -0.413,
+   "no_speech_prob": 0.514,
+   "track_id": "JqDkxKCb4ec#08",
+   "track_start": 180.12,
+   "track_end": 187.36
+  },
+  {
+   "start": 1742.4,
+   "end": 1756.1,
+   "text": "Oh, Oh, Oh, Ooh-ooh-ooh, Ooh-ooh-ooh, Ooh-ooh-ooh, Ooh-ooh-ooh.",
+   "avg_logprob": -0.765,
+   "no_speech_prob": 0.591,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 5.4,
+   "track_end": 19.1
+  },
+  {
+   "start": 1756.1,
+   "end": 1759.9,
+   "text": "Hear my children, hear my children.",
+   "avg_logprob": -0.765,
+   "no_speech_prob": 0.591,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 19.1,
+   "track_end": 22.9
+  },
+  {
+   "start": 1760.14,
+   "end": 1764.18,
+   "text": "Your father's worse, father's worse.",
+   "avg_logprob": -0.765,
+   "no_speech_prob": 0.591,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 23.14,
+   "track_end": 27.18
+  },
+  {
+   "start": 1764.18,
+   "end": 1771.28,
+   "text": "Be attentive to what I say.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 27.18,
+   "track_end": 34.28
+  },
+  {
+   "start": 1773.08,
+   "end": 1775.42,
+   "text": "Get wisdom.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 36.08,
+   "track_end": 38.42
+  },
+  {
+   "start": 1775.66,
+   "end": 1779.82,
+   "text": "Get understanding.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 38.66,
+   "track_end": 42.82
+  },
+  {
+   "start": 1781.86,
+   "end": 1788.82,
+   "text": "And walk in the righteous way.",
+   "avg_logprob": -0.399,
+   "no_speech_prob": 0.472,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 44.86,
+   "track_end": 51.82
+  },
+  {
+   "start": 1788.82,
+   "end": 1792.68,
+   "text": "Hold fast to instruction.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 51.82,
+   "track_end": 55.68
+  },
+  {
+   "start": 1794.74,
+   "end": 1797.3,
+   "text": "Don't let go.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 57.74,
+   "track_end": 60.3
+  },
+  {
+   "start": 1797.58,
+   "end": 1799.08,
+   "text": "Don't let go.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 60.58,
+   "track_end": 62.08
+  },
+  {
+   "start": 1799.76,
+   "end": 1801.94,
+   "text": "It is a lie.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 62.76,
+   "track_end": 64.94
+  },
+  {
+   "start": 1804.58,
+   "end": 1806.24,
+   "text": "To your soul.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 67.58,
+   "track_end": 69.24
+  },
+  {
+   "start": 1807.82,
+   "end": 1810.12,
+   "text": "The path of the righteous.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 70.82,
+   "track_end": 73.12
+  },
+  {
+   "start": 1812.36,
+   "end": 1816.56,
+   "text": "Shines like dawn.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.459,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 75.36,
+   "track_end": 79.56
+  },
+  {
+   "start": 1816.56,
+   "end": 1823.38,
+   "text": "growing brighter as it goes.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 79.56,
+   "track_end": 86.38
+  },
+  {
+   "start": 1825.18,
+   "end": 1832.16,
+   "text": "It goes your heart with all diligence for from it.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 88.18,
+   "track_end": 95.16
+  },
+  {
+   "start": 1832.68,
+   "end": 1833.94,
+   "text": "Close your eyes.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 95.68,
+   "track_end": 96.94
+  },
+  {
+   "start": 1834.36,
+   "end": 1838.7,
+   "text": "Keep your mouth from crooked tongue.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 97.36,
+   "track_end": 101.7
+  },
+  {
+   "start": 1839.02,
+   "end": 1842.72,
+   "text": "Let your eyes look toward the light.",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.581,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 102.02,
+   "track_end": 105.72
+  },
+  {
+   "start": 1842.72,
+   "end": 1849.38,
+   "text": "Watch the path, watch the path of your feet",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.674,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 105.72,
+   "track_end": 112.38
+  },
+  {
+   "start": 1849.38,
+   "end": 1854.06,
+   "text": "Touch our wheat, turn away",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.674,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 112.38,
+   "track_end": 117.06
+  },
+  {
+   "start": 1856.72,
+   "end": 1864.3,
+   "text": "From every wrong, let your ways be firmly set",
+   "avg_logprob": -0.461,
+   "no_speech_prob": 0.674,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 119.72,
+   "track_end": 127.3
+  },
+  {
+   "start": 1864.3,
+   "end": 1868.74,
+   "text": "Let your steps be strong",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 127.3,
+   "track_end": 131.74
+  },
+  {
+   "start": 1876.98,
+   "end": 1881.94,
+   "text": "God your heart with all diligence",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 139.98,
+   "track_end": 144.94
+  },
+  {
+   "start": 1881.94,
+   "end": 1886.18,
+   "text": "For from in, close your life",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 144.94,
+   "track_end": 149.18
+  },
+  {
+   "start": 1886.18,
+   "end": 1890.88,
+   "text": "Keep your mouth from crooked talk",
+   "avg_logprob": -0.529,
+   "no_speech_prob": 0.634,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 149.18,
+   "track_end": 153.88
+  },
+  {
+   "start": 1890.88,
+   "end": 1893.38,
+   "text": "Let your eyes",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 153.88,
+   "track_end": 156.38
+  },
+  {
+   "start": 1898.5,
+   "end": 1900.94,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 161.5,
+   "track_end": 163.94
+  },
+  {
+   "start": 1902.78,
+   "end": 1906.2,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 165.78,
+   "track_end": 169.2
+  },
+  {
+   "start": 1906.2,
+   "end": 1911.24,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 169.2,
+   "track_end": 174.24
+  },
+  {
+   "start": 1911.24,
+   "end": 1915.88,
+   "text": "Lodge your heart",
+   "avg_logprob": -0.449,
+   "no_speech_prob": 0.547,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 174.24,
+   "track_end": 178.88
+  },
+  {
+   "start": 1920.88,
+   "end": 1920.9,
+   "text": "you",
+   "avg_logprob": -0.942,
+   "no_speech_prob": 0.903,
+   "track_id": "JqDkxKCb4ec#09",
+   "track_start": 183.88,
+   "track_end": 183.9
+  },
+  {
+   "start": 1921.0,
+   "end": 1922.94,
+   "text": "ś",
+   "avg_logprob": -0.781,
+   "no_speech_prob": 0.69,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 0.0,
+   "track_end": 1.94
+  },
+  {
+   "start": 1949.58,
+   "end": 1950.98,
+   "text": "ś",
+   "avg_logprob": -0.781,
+   "no_speech_prob": 0.69,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 28.58,
+   "track_end": 29.98
+  },
+  {
+   "start": 1950.98,
+   "end": 1964.34,
+   "text": "is an abomination, but the Lord loves ways that are true.",
+   "avg_logprob": -0.509,
+   "no_speech_prob": 0.561,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 29.98,
+   "track_end": 43.34
+  },
+  {
+   "start": 1966.94,
+   "end": 1973.6,
+   "text": "When pride walks in, disgrace follows close",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.611,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 45.94,
+   "track_end": 52.6
+  },
+  {
+   "start": 1976.04,
+   "end": 1982.54,
+   "text": "But wisdom lifts the humble through",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.611,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 55.04,
+   "track_end": 61.54
+  },
+  {
+   "start": 1985.88,
+   "end": 1989.54,
+   "text": "Integrity keeps them blameless",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.611,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 64.88,
+   "track_end": 68.54
+  },
+  {
+   "start": 1989.54,
+   "end": 1994.12,
+   "text": "But the crooked get caught in their lies",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 68.54,
+   "track_end": 73.12
+  },
+  {
+   "start": 1994.12,
+   "end": 1998.74,
+   "text": "Riches can't save you from judgment",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 73.12,
+   "track_end": 77.74
+  },
+  {
+   "start": 1998.74,
+   "end": 2004.1,
+   "text": "But righteousness never dies",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 77.74,
+   "track_end": 83.1
+  },
+  {
+   "start": 2004.1,
+   "end": 2008.78,
+   "text": "The scales of truth don't ever lie",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 83.1,
+   "track_end": 87.78
+  },
+  {
+   "start": 2008.78,
+   "end": 2012.22,
+   "text": "The Lord weighs every soul",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 87.78,
+   "track_end": 91.22
+  },
+  {
+   "start": 2012.22,
+   "end": 2017.94,
+   "text": "The wicked fall by their own deceit",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.569,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 91.22,
+   "track_end": 96.94
+  },
+  {
+   "start": 2017.94,
+   "end": 2021.3,
+   "text": "But the righteous are made whole",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.094,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 96.94,
+   "track_end": 100.3
+  },
+  {
+   "start": 2033.96,
+   "end": 2038.26,
+   "text": "When the righteous prosper",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.094,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 112.96,
+   "track_end": 117.26
+  },
+  {
+   "start": 2039.94,
+   "end": 2042.08,
+   "text": "The city rejoices",
+   "avg_logprob": -0.507,
+   "no_speech_prob": 0.094,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 118.94,
+   "track_end": 121.08
+  },
+  {
+   "start": 2044.38,
+   "end": 2050.92,
+   "text": "When the wicked fall, their song",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 123.38,
+   "track_end": 129.92
+  },
+  {
+   "start": 2053.8,
+   "end": 2058.28,
+   "text": "Whoever brings blessing is blessed himself",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 132.8,
+   "track_end": 137.28
+  },
+  {
+   "start": 2058.28,
+   "end": 2062.32,
+   "text": "And the generous stay strong",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 137.28,
+   "track_end": 141.32
+  },
+  {
+   "start": 2062.32,
+   "end": 2067.92,
+   "text": "He who trusts and riches will fall",
+   "avg_logprob": -0.316,
+   "no_speech_prob": 0.751,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 141.32,
+   "track_end": 146.92
+  },
+  {
+   "start": 2067.92,
+   "end": 2071.42,
+   "text": "But the righteous stand like trees",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 146.92,
+   "track_end": 150.42
+  },
+  {
+   "start": 2072.92,
+   "end": 2077.0,
+   "text": "The fruit of the faithful is life itself",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 151.92,
+   "track_end": 156.0
+  },
+  {
+   "start": 2077.0,
+   "end": 2081.26,
+   "text": "And wisdom's what they breathe",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 156.0,
+   "track_end": 160.26
+  },
+  {
+   "start": 2081.92,
+   "end": 2086.14,
+   "text": "The scales of truth don't ever lie",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 160.92,
+   "track_end": 165.14
+  },
+  {
+   "start": 2086.14,
+   "end": 2089.28,
+   "text": "The Lord ways ever whistle",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 165.14,
+   "track_end": 168.28
+  },
+  {
+   "start": 2090.92,
+   "end": 2095.42,
+   "text": "The wicked fall by their own deceit",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.451,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 169.92,
+   "track_end": 174.42
+  },
+  {
+   "start": 2095.42,
+   "end": 2098.88,
+   "text": "But the righteous are made whole",
+   "avg_logprob": -0.567,
+   "no_speech_prob": 0.022,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 174.42,
+   "track_end": 177.88
+  },
+  {
+   "start": 2125.42,
+   "end": 2125.98,
+   "text": "you",
+   "avg_logprob": -0.744,
+   "no_speech_prob": 0.926,
+   "track_id": "JqDkxKCb4ec#10",
+   "track_start": 204.42,
+   "track_end": 204.98
+  },
+  {
+   "start": 2130.06,
+   "end": 2131.46,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 4.06,
+   "track_end": 5.46
+  },
+  {
+   "start": 2131.46,
+   "end": 2131.48,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 5.46,
+   "track_end": 5.48
+  },
+  {
+   "start": 2139.06,
+   "end": 2140.46,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 13.06,
+   "track_end": 14.46
+  },
+  {
+   "start": 2141.0,
+   "end": 2141.06,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 15.0,
+   "track_end": 15.06
+  },
+  {
+   "start": 2141.06,
+   "end": 2141.08,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 15.06,
+   "track_end": 15.08
+  },
+  {
+   "start": 2141.08,
+   "end": 2142.28,
+   "text": "music",
+   "avg_logprob": -0.489,
+   "no_speech_prob": 0.763,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 15.08,
+   "track_end": 16.28
+  },
+  {
+   "start": 2152.6,
+   "end": 2156.98,
+   "text": "Who ever loves discipline loves knowledge",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 26.6,
+   "track_end": 30.98
+  },
+  {
+   "start": 2156.98,
+   "end": 2161.1,
+   "text": "But fools hate correction sound",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 30.98,
+   "track_end": 35.1
+  },
+  {
+   "start": 2162.14,
+   "end": 2165.64,
+   "text": "A good man finds favor from the Lord",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 36.14,
+   "track_end": 39.64
+  },
+  {
+   "start": 2166.28,
+   "end": 2169.8,
+   "text": "But the wicked can't hold that ground",
+   "avg_logprob": -0.321,
+   "no_speech_prob": 0.727,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 40.28,
+   "track_end": 43.8
+  },
+  {
+   "start": 2169.8,
+   "end": 2174.62,
+   "text": "No one stands by wicked roots",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 43.8,
+   "track_end": 48.62
+  },
+  {
+   "start": 2174.62,
+   "end": 2178.18,
+   "text": "They ride beneath a clay",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 48.62,
+   "track_end": 52.18
+  },
+  {
+   "start": 2178.8,
+   "end": 2183.1,
+   "text": "But the righteous man is planted deep",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 52.8,
+   "track_end": 57.1
+  },
+  {
+   "start": 2183.1,
+   "end": 2186.54,
+   "text": "And he'll never be swept away",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 57.1,
+   "track_end": 60.54
+  },
+  {
+   "start": 2186.54,
+   "end": 2189.02,
+   "text": "Stay rooted in truth",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 60.54,
+   "track_end": 63.02
+  },
+  {
+   "start": 2189.02,
+   "end": 2193.42,
+   "text": "Don't bend, don't break, don't fall",
+   "avg_logprob": -0.181,
+   "no_speech_prob": 0.725,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 63.02,
+   "track_end": 67.42
+  },
+  {
+   "start": 2196.44,
+   "end": 2200.42,
+   "text": "Lord keeps watch on the faithful ones",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 70.44,
+   "track_end": 74.42
+  },
+  {
+   "start": 2201.24,
+   "end": 2203.82,
+   "text": "And lifts the righteous tall",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 75.24,
+   "track_end": 77.82
+  },
+  {
+   "start": 2207.22,
+   "end": 2210.42,
+   "text": "And lifts the righteous tall",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 81.22,
+   "track_end": 84.42
+  },
+  {
+   "start": 2217.34,
+   "end": 2221.78,
+   "text": "An excellent wife is her husband's crown",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 91.34,
+   "track_end": 95.78
+  },
+  {
+   "start": 2221.78,
+   "end": 2224.94,
+   "text": "But shame brings him low",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 95.78,
+   "track_end": 98.94
+  },
+  {
+   "start": 2226.52,
+   "end": 2230.08,
+   "text": "Thoughts over righteous are justice",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 100.52,
+   "track_end": 104.08
+  },
+  {
+   "start": 2230.08,
+   "end": 2233.3,
+   "text": "The wicked just a life for sure",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 104.08,
+   "track_end": 107.3
+  },
+  {
+   "start": 2235.32,
+   "end": 2238.2,
+   "text": "A gentle word brings healing",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 109.32,
+   "track_end": 112.2
+  },
+  {
+   "start": 2239.44,
+   "end": 2242.92,
+   "text": "But deceit cuts like a knife",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 113.44,
+   "track_end": 116.92
+  },
+  {
+   "start": 2244.04,
+   "end": 2247.38,
+   "text": "Truth stands firm forever",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 118.04,
+   "track_end": 121.38
+  },
+  {
+   "start": 2247.38,
+   "end": 2250.76,
+   "text": "But lies can't hold their life",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.444,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 121.38,
+   "track_end": 124.76
+  },
+  {
+   "start": 2250.76,
+   "end": 2252.8,
+   "text": "Stay rooted in truth",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 124.76,
+   "track_end": 126.8
+  },
+  {
+   "start": 2253.46,
+   "end": 2257.1,
+   "text": "Don't bend, don't break, don't fall",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 127.46,
+   "track_end": 131.1
+  },
+  {
+   "start": 2259.1,
+   "end": 2263.78,
+   "text": "The Lord keeps watch on the faithful ones",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 133.1,
+   "track_end": 137.78
+  },
+  {
+   "start": 2264.58,
+   "end": 2267.5,
+   "text": "And lives the righteous tall",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 138.58,
+   "track_end": 141.5
+  },
+  {
+   "start": 2271.4,
+   "end": 2273.56,
+   "text": "And lives the righteous tall",
+   "avg_logprob": -0.621,
+   "no_speech_prob": 0.355,
+   "track_id": "JqDkxKCb4ec#11",
+   "track_start": 145.4,
+   "track_end": 147.56
+  },
+  {
+   "start": 2327.0,
+   "end": 2354.18,
+   "text": "Mm-hmm, mm-hmm, mm-hmm, mm-hmm, mm-hmm.",
+   "avg_logprob": -0.666,
+   "no_speech_prob": 0.588,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 0.0,
+   "track_end": 27.18
+  },
+  {
+   "start": 2354.18,
+   "end": 2360.06,
+   "text": "Where there's no ox, the trough stays clean, but strength come where they plow",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 27.18,
+   "track_end": 33.06
+  },
+  {
+   "start": 2360.06,
+   "end": 2365.68,
+   "text": "The faithful speak with honesty while fools just boast too loud",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 33.06,
+   "track_end": 38.68
+  },
+  {
+   "start": 2365.68,
+   "end": 2370.22,
+   "text": "Keep your hands steady, keep your heart right",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 38.68,
+   "track_end": 43.22
+  },
+  {
+   "start": 2371.38,
+   "end": 2375.22,
+   "text": "Let wisdom be your crown tonight",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 44.38,
+   "track_end": 48.22
+  },
+  {
+   "start": 2376.5,
+   "end": 2381.16,
+   "text": "Fools laugh loud, know why they still",
+   "avg_logprob": -0.261,
+   "no_speech_prob": 0.607,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 49.5,
+   "track_end": 54.16
+  },
+  {
+   "start": 2382.5,
+   "end": 2387.36,
+   "text": "The house stands firm, that wisdom builds",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 55.5,
+   "track_end": 60.36
+  },
+  {
+   "start": 2399.32,
+   "end": 2404.94,
+   "text": "A quick tempestors upstripe a patience calms it down",
+   "avg_logprob": -0.685,
+   "no_speech_prob": 0.507,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 72.32,
+   "track_end": 77.94
+  },
+  {
+   "start": 2404.94,
+   "end": 2410.64,
+   "text": "The simple believe every word, the prudent stand their ground",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 77.94,
+   "track_end": 83.64
+  },
+  {
+   "start": 2410.64,
+   "end": 2414.16,
+   "text": "In the fear of the Lord their safety",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 83.64,
+   "track_end": 87.16
+  },
+  {
+   "start": 2414.16,
+   "end": 2417.94,
+   "text": "Strong confidence inside a soft answer",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 87.16,
+   "track_end": 90.94
+  },
+  {
+   "start": 2418.46,
+   "end": 2421.96,
+   "text": "Keeps you steady while prized the fool's disguise",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 91.46,
+   "track_end": 94.96
+  },
+  {
+   "start": 2421.96,
+   "end": 2423.4,
+   "text": "Hey",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 94.96,
+   "track_end": 96.4
+  },
+  {
+   "start": 2428.0,
+   "end": 2430.72,
+   "text": "Keep your hands steady",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.495,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 101.0,
+   "track_end": 103.72
+  },
+  {
+   "start": 2430.72,
+   "end": 2438.32,
+   "text": "Keep your heart right, let wisdom be your crown tonight",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.651,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 103.72,
+   "track_end": 111.32
+  },
+  {
+   "start": 2439.72,
+   "end": 2444.72,
+   "text": "Fools laugh loud, the wise stay still",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.651,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 112.72,
+   "track_end": 117.72
+  },
+  {
+   "start": 2445.72,
+   "end": 2449.96,
+   "text": "The house stands firm, that wisdom builds",
+   "avg_logprob": -0.365,
+   "no_speech_prob": 0.651,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 118.72,
+   "track_end": 122.96
+  },
+  {
+   "start": 2456.08,
+   "end": 2458.8,
+   "text": "Yeah, the house still stays",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 129.08,
+   "track_end": 131.8
+  },
+  {
+   "start": 2462.3,
+   "end": 2464.22,
+   "text": "Where's the built-in ride?",
+   "avg_logprob": -0.704,
+   "no_speech_prob": 0.721,
+   "track_id": "JqDkxKCb4ec#12",
+   "track_start": 135.3,
+   "track_end": 137.22
+  },
+  {
+   "start": 2516.86,
+   "end": 2521.86,
+   "text": "She said the table ready, she calls from her throne",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 31.86,
+   "track_end": 36.86
+  },
+  {
+   "start": 2523.3,
+   "end": 2530.28,
+   "text": "Come eat my bread, drink my wine, leave your foolish ways behind",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 38.3,
+   "track_end": 45.28
+  },
+  {
+   "start": 2530.28,
+   "end": 2535.64,
+   "text": "There's a beast of fools down the road",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 45.28,
+   "track_end": 50.64
+  },
+  {
+   "start": 2537.88,
+   "end": 2541.0,
+   "text": "Don't sit where the darkness grows",
+   "avg_logprob": -0.305,
+   "no_speech_prob": 0.586,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 52.88,
+   "track_end": 56.0
+  },
+  {
+   "start": 2541.34,
+   "end": 2548.36,
+   "text": "Let's grow, turn your heart to truth and light.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 56.34,
+   "track_end": 63.36
+  },
+  {
+   "start": 2551.34,
+   "end": 2554.68,
+   "text": "Walk the way the wise man knows.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 66.34,
+   "track_end": 69.68
+  },
+  {
+   "start": 2557.42,
+   "end": 2559.96,
+   "text": "Griebuke a marker and get shame.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 72.42,
+   "track_end": 74.96
+  },
+  {
+   "start": 2560.42,
+   "end": 2562.72,
+   "text": "Correct the wise and the game.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 75.42,
+   "track_end": 77.72
+  },
+  {
+   "start": 2563.76,
+   "end": 2566.3,
+   "text": "The fear of the Lord is the star.",
+   "avg_logprob": -0.441,
+   "no_speech_prob": 0.603,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 78.76,
+   "track_end": 81.3
+  },
+  {
+   "start": 2566.3,
+   "end": 2569.16,
+   "text": "The knowledge that stays and remains",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 81.3,
+   "track_end": 84.16
+  },
+  {
+   "start": 2570.46,
+   "end": 2575.42,
+   "text": "There's a feast of fools down the road",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 85.46,
+   "track_end": 90.42
+  },
+  {
+   "start": 2577.36,
+   "end": 2581.7,
+   "text": "Don't sit where the darkness grows",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 92.36,
+   "track_end": 96.7
+  },
+  {
+   "start": 2581.7,
+   "end": 2588.12,
+   "text": "Turn your heart to truth and light",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 96.7,
+   "track_end": 103.12
+  },
+  {
+   "start": 2589.94,
+   "end": 2594.34,
+   "text": "Walk the way the wise man knows",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.429,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 104.94,
+   "track_end": 109.34
+  },
+  {
+   "start": 2624.34,
+   "end": 2627.94,
+   "text": "The street, the stolen water sweet",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 139.34,
+   "track_end": 142.94
+  },
+  {
+   "start": 2627.94,
+   "end": 2631.38,
+   "text": "But her guests lie deep in death",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 142.94,
+   "track_end": 146.38
+  },
+  {
+   "start": 2631.38,
+   "end": 2634.64,
+   "text": "Where shadows never sleep",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 146.38,
+   "track_end": 149.64
+  },
+  {
+   "start": 2638.34,
+   "end": 2642.34,
+   "text": "There's a beast of fools down the road",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 153.34,
+   "track_end": 157.34
+  },
+  {
+   "start": 2642.34,
+   "end": 2644.9,
+   "text": "Down the road",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 157.34,
+   "track_end": 159.9
+  },
+  {
+   "start": 2644.9,
+   "end": 2648.72,
+   "text": "Don't sit where the darkness grows",
+   "avg_logprob": -0.349,
+   "no_speech_prob": 0.75,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 159.9,
+   "track_end": 163.72
+  },
+  {
+   "start": 2648.72,
+   "end": 2650.7,
+   "text": "I am a",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 163.72,
+   "track_end": 165.7
+  },
+  {
+   "start": 2650.7,
+   "end": 2655.08,
+   "text": "Keep your soul with wisdom's light",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 165.7,
+   "track_end": 170.08
+  },
+  {
+   "start": 2655.08,
+   "end": 2657.56,
+   "text": "Hey, yeah, yeah",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 170.08,
+   "track_end": 172.56
+  },
+  {
+   "start": 2657.56,
+   "end": 2661.26,
+   "text": "Walk the way the wise man do",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 172.56,
+   "track_end": 176.26
+  },
+  {
+   "start": 2661.26,
+   "end": 2664.22,
+   "text": "Hey, yeah, yeah",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 176.26,
+   "track_end": 179.22
+  },
+  {
+   "start": 2664.22,
+   "end": 2676.5,
+   "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.592,
+   "no_speech_prob": 0.657,
+   "track_id": "JqDkxKCb4ec#13",
+   "track_start": 179.22,
+   "track_end": 191.5
+  },
+  {
+   "start": 2678.0,
+   "end": 2679.24,
+   "text": "Hmm",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 0.0,
+   "track_end": 1.24
+  },
+  {
+   "start": 2686.12,
+   "end": 2686.8,
+   "text": "Hmm",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 8.12,
+   "track_end": 8.8
+  },
+  {
+   "start": 2686.8,
+   "end": 2687.54,
+   "text": "Hmm",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 8.8,
+   "track_end": 9.54
+  },
+  {
+   "start": 2692.86,
+   "end": 2696.32,
+   "text": "My son, if you made a deal with a fool",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 14.86,
+   "track_end": 18.32
+  },
+  {
+   "start": 2696.32,
+   "end": 2698.34,
+   "text": "Signed your name and gave your hand",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 18.32,
+   "track_end": 20.34
+  },
+  {
+   "start": 2698.34,
+   "end": 2701.8,
+   "text": "Go home for yourself and break that chain",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 20.34,
+   "track_end": 23.8
+  },
+  {
+   "start": 2701.8,
+   "end": 2704.02,
+   "text": "Don't let pride take command",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 23.8,
+   "track_end": 26.02
+  },
+  {
+   "start": 2704.02,
+   "end": 2706.32,
+   "text": "Go to the aunt you sluggered",
+   "avg_logprob": -0.282,
+   "no_speech_prob": 0.418,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 26.02,
+   "track_end": 28.32
+  },
+  {
+   "start": 2706.32,
+   "end": 2708.56,
+   "text": "Watch how she moves all day.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 28.32,
+   "track_end": 30.56
+  },
+  {
+   "start": 2710.0,
+   "end": 2715.24,
+   "text": "No ruler, boss or master, but she stores up for the gray.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 32.0,
+   "track_end": 37.24
+  },
+  {
+   "start": 2715.52,
+   "end": 2718.36,
+   "text": "Don't sleep on wisdom, on wisdom.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 37.52,
+   "track_end": 40.36
+  },
+  {
+   "start": 2719.06,
+   "end": 2721.2,
+   "text": "Don't close your eyes too long.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 41.06,
+   "track_end": 43.2
+  },
+  {
+   "start": 2721.72,
+   "end": 2724.66,
+   "text": "A little sleeper, a little fold in her hand,",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 43.72,
+   "track_end": 46.66
+  },
+  {
+   "start": 2724.72,
+   "end": 2726.52,
+   "text": "then your knee come like a stone.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 46.72,
+   "track_end": 48.52
+  },
+  {
+   "start": 2726.82,
+   "end": 2729.56,
+   "text": "Don't sleep on wisdom, on wisdom.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 48.82,
+   "track_end": 51.56
+  },
+  {
+   "start": 2730.24,
+   "end": 2732.52,
+   "text": "Don't close your eyes too long.",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 52.24,
+   "track_end": 54.52
+  },
+  {
+   "start": 2733.04,
+   "end": 2735.92,
+   "text": "A little sleeper, a little fold in her hand,",
+   "avg_logprob": -0.272,
+   "no_speech_prob": 0.476,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 55.04,
+   "track_end": 57.92
+  },
+  {
+   "start": 2735.92,
+   "end": 2737.88,
+   "text": "And your need come like a storm",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 57.92,
+   "track_end": 59.88
+  },
+  {
+   "start": 2737.88,
+   "end": 2741.04,
+   "text": "Oh, worthless man's spread trouble",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 59.88,
+   "track_end": 63.04
+  },
+  {
+   "start": 2741.04,
+   "end": 2744.0,
+   "text": "Speaks with lying eyes",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 63.04,
+   "track_end": 66.0
+  },
+  {
+   "start": 2744.0,
+   "end": 2746.64,
+   "text": "He sews his seeds of discard",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 66.0,
+   "track_end": 68.64
+  },
+  {
+   "start": 2746.64,
+   "end": 2749.44,
+   "text": "But his falls are quick surprise",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 68.64,
+   "track_end": 71.44
+  },
+  {
+   "start": 2749.44,
+   "end": 2753.22,
+   "text": "There are six things the Lord hates",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 71.44,
+   "track_end": 75.22
+  },
+  {
+   "start": 2753.22,
+   "end": 2755.18,
+   "text": "Seven that make him frown",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 75.22,
+   "track_end": 77.18
+  },
+  {
+   "start": 2755.18,
+   "end": 2758.26,
+   "text": "Prideful eyes, lying tongues",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 77.18,
+   "track_end": 80.26
+  },
+  {
+   "start": 2758.26,
+   "end": 2761.1,
+   "text": "And hands that strike the ground",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 80.26,
+   "track_end": 83.1
+  },
+  {
+   "start": 2761.1,
+   "end": 2764.06,
+   "text": "Hearts that plan out wicked schemes",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.638,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 83.1,
+   "track_end": 86.06
+  },
+  {
+   "start": 2764.06,
+   "end": 2766.46,
+   "text": "Feet that rush to wrong",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.688,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 86.06,
+   "track_end": 88.46
+  },
+  {
+   "start": 2766.46,
+   "end": 2769.74,
+   "text": "False witness and a brother's hate",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.688,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 88.46,
+   "track_end": 91.74
+  },
+  {
+   "start": 2769.74,
+   "end": 2772.06,
+   "text": "The Lord won't stand that long",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.688,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 91.74,
+   "track_end": 94.06
+  },
+  {
+   "start": 2772.06,
+   "end": 2773.6,
+   "text": "Unsleep on wisdom",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.688,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 94.06,
+   "track_end": 95.6
+  },
+  {
+   "start": 2775.16,
+   "end": 2777.9,
+   "text": "Don't close your eyes too long",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.688,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 97.16,
+   "track_end": 99.9
+  },
+  {
+   "start": 2777.9,
+   "end": 2781.16,
+   "text": "Stay awake and walk in truth",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.688,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 99.9,
+   "track_end": 103.16
+  },
+  {
+   "start": 2781.16,
+   "end": 2785.6,
+   "text": "That's the road that keeps you strong",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.688,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 103.16,
+   "track_end": 107.6
+  },
+  {
+   "start": 2785.6,
+   "end": 2791.44,
+   "text": "Oh, that keeps you strong",
+   "avg_logprob": -0.521,
+   "no_speech_prob": 0.709,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 107.6,
+   "track_end": 113.44
+  },
+  {
+   "start": 2794.6,
+   "end": 2807.74,
+   "text": "Oh, that keeps you strong",
+   "avg_logprob": -0.521,
+   "no_speech_prob": 0.709,
+   "track_id": "JqDkxKCb4ec#14",
+   "track_start": 116.6,
+   "track_end": 129.74
+  }
+ ]
+}

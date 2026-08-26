@@ -1,0 +1,510 @@
+{
+ "track_id": "5n1cYN-yDmo#02",
+ "track_key": "5n1cYN-yDmo__02",
+ "video_id": "5n1cYN-yDmo",
+ "title": "Never Would Have Made It",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 304.0,
+ "voiced_sec": 206.5,
+ "voice_ratio": 0.679,
+ "n_words": 411,
+ "words_per_min": 81.1,
+ "is_instrumental": false,
+ "n_segments": 61,
+ "n_segments_voiced": 52,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 15.4,
+ "rtf": 0.051,
+ "segments": [
+  {
+   "start": 9.84,
+   "end": 20.82,
+   "text": "Oh Lord, if it wasn't for your love, if it wasn't for your grace,",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.819,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 37.9,
+   "end": 45.64,
+   "text": "I remember all the nights I cried Heartbroken, barely holding on inside",
+   "avg_logprob": -0.435,
+   "no_speech_prob": 0.698,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 45.64,
+   "end": 49.56,
+   "text": "Storm clouds gathering nowhere to hide",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 49.56,
+   "end": 53.78,
+   "text": "But you reach down and pull me to the other side",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 53.78,
+   "end": 57.26,
+   "text": "You whisper, child, don't lose your fight",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 58.24,
+   "end": 61.24,
+   "text": "And you wrap me in your holy light",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 61.9,
+   "end": 64.5,
+   "text": "You gave me strength when I had none",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 64.5,
+   "end": 68.32,
+   "text": "You were the healing in my heart, it Lord, you made me run",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 69.1,
+   "end": 70.54,
+   "text": "Healing, yeah",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 70.54,
+   "end": 73.02,
+   "text": "You lifted me, yeah",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 73.02,
+   "end": 74.9,
+   "text": "Healing, yeah",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.877,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 74.9,
+   "end": 76.7,
+   "text": "You carried me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 76.7,
+   "end": 78.22,
+   "text": "He never",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 78.9,
+   "end": 80.82,
+   "text": "No, never left",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 80.82,
+   "end": 82.8,
+   "text": "He stayed with me",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 82.8,
+   "end": 83.92,
+   "text": "Stayed with you",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 83.92,
+   "end": 86.14,
+   "text": "I never would have made it",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 86.14,
+   "end": 87.98,
+   "text": "Without you Lord",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 87.98,
+   "end": 89.76,
+   "text": "You are my shelter",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 89.76,
+   "end": 92.16,
+   "text": "When the rain pours",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 92.16,
+   "end": 93.98,
+   "text": "You held my hand through",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 93.98,
+   "end": 96.06,
+   "text": "Every tear I cried",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 96.06,
+   "end": 97.78,
+   "text": "You kept me standing",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 97.78,
+   "end": 100.02,
+   "text": "When I should have died",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 100.02,
+   "end": 102.0,
+   "text": "You are my healer",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.714,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 102.0,
+   "end": 107.58,
+   "text": "I saved your friends My beginning and my end",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.517,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 107.58,
+   "end": 115.04,
+   "text": "I never, never would have made it without you",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.517,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 115.04,
+   "end": 125.9,
+   "text": "I lay broken feelings so ashamed Thought my failures had to find my name",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.517,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 125.9,
+   "end": 128.9,
+   "text": "But you picked me up washed away my past",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 130.02,
+   "end": 132.86,
+   "text": "Showed me mercy that forever last",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 133.72,
+   "end": 137.44,
+   "text": "Where I was weak Lord you made me strong",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 138.02,
+   "end": 141.6,
+   "text": "You gave me purpose you helped me be long",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 141.6,
+   "end": 145.7,
+   "text": "You wrote a new story over my pain",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 145.7,
+   "end": 149.04,
+   "text": "Turn my morning into praise again",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 150.52,
+   "end": 153.0,
+   "text": "You restored me",
+   "avg_logprob": -0.433,
+   "no_speech_prob": 0.535,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 154.58,
+   "end": 161.0,
+   "text": "You renewed me You revived me",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 163.0,
+   "end": 168.6,
+   "text": "You transformed me I never would have made it",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 168.6,
+   "end": 173.6,
+   "text": "Oh I never would have made it You were my peace",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 173.6,
+   "end": 179.58,
+   "text": "When the mind fell torn You calmed the storm inside of me",
+   "avg_logprob": -0.314,
+   "no_speech_prob": 0.632,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 179.58,
+   "end": 183.62,
+   "text": "You are my heart when it bled and broke",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 183.62,
+   "end": 187.36,
+   "text": "We knew, like with every word you spoke",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 187.36,
+   "end": 191.56,
+   "text": "Yeah, you are my fortress, strength and shield",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 191.56,
+   "end": 195.5,
+   "text": "Yeah, Jesus, you're forever real",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 195.5,
+   "end": 199.42,
+   "text": "Yeah, I never, never would have made it out",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 199.42,
+   "end": 203.48,
+   "text": "When I was drowning, you lifted me up",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 203.48,
+   "end": 207.44,
+   "text": "Yeah, when I was empty, you filled my cup",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.584,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 207.44,
+   "end": 211.58,
+   "text": "Yeah, when I was lost, Lord You called my name",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 211.58,
+   "end": 215.68,
+   "text": "Yeah, when I was guilty You took my shape",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 219.94,
+   "end": 224.46,
+   "text": "You carried me through the darkest night",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 224.46,
+   "end": 228.56,
+   "text": "Gave me hope, gave me sight",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 228.56,
+   "end": 233.68,
+   "text": "Brought me into Your marvelous light",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.576,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 233.68,
+   "end": 241.66,
+   "text": "Jesus, I never would have made it without you",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 241.66,
+   "end": 247.74,
+   "text": "You stayed with me, made my spirit so",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 248.68,
+   "end": 252.98,
+   "text": "You opened every lock for Jesus",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 255.68,
+   "end": 262.16,
+   "text": "My Savior and my King, to you my whole heart sings",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.624,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 262.16,
+   "end": 268.06,
+   "text": "I never, never would've made it",
+   "avg_logprob": -0.845,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 268.06,
+   "end": 270.12,
+   "text": "Never could've made it",
+   "avg_logprob": -0.845,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 276.0,
+   "end": 277.1,
+   "text": "Thank You Jesus",
+   "avg_logprob": -0.845,
+   "no_speech_prob": 0.466,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 278.74,
+   "end": 279.1,
+   "text": "So...",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.312,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 288.58,
+   "end": 294.06,
+   "text": "I never would have made it",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.312,
+   "track_id": "5n1cYN-yDmo#02"
+  },
+  {
+   "start": 296.38,
+   "end": 298.22,
+   "text": "Without you",
+   "avg_logprob": -0.896,
+   "no_speech_prob": 0.312,
+   "track_id": "5n1cYN-yDmo#02"
+  }
+ ]
+}

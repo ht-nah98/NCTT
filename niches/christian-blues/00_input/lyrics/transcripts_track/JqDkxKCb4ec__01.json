@@ -1,0 +1,246 @@
+{
+ "track_id": "JqDkxKCb4ec#01",
+ "track_key": "JqDkxKCb4ec__01",
+ "video_id": "JqDkxKCb4ec",
+ "title": "Trust In The Lord (Proverbs 3)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 168.0,
+ "voiced_sec": 148.3,
+ "voice_ratio": 0.883,
+ "n_words": 239,
+ "words_per_min": 85.3,
+ "is_instrumental": false,
+ "n_segments": 28,
+ "n_segments_voiced": 28,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 8.4,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.36,
+   "text": "I've been leaning on my old mind Trying to see what these weary eyes",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.193,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 10.0,
+   "end": 17.32,
+   "text": "But wisdom whispered in the midnight wind Said, child, let the Lord be your guide",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.193,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 18.0,
+   "end": 27.08,
+   "text": "I heard that voice, gentle and true Said, don't be wise in your own view",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.193,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 27.08,
+   "end": 31.42,
+   "text": "Turn from evil and the path gets clear",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 31.42,
+   "end": 35.9,
+   "text": "Fear of the Lord will keep you near",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 35.9,
+   "end": 40.36,
+   "text": "Trust in the Lord with all your heart",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 40.36,
+   "end": 43.66,
+   "text": "Don't lean on what you know",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 44.28,
+   "end": 49.06,
+   "text": "And all your ways acknowledge Him",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 49.06,
+   "end": 52.56,
+   "text": "And He'll show you where to go",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.526,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 52.56,
+   "end": 61.34,
+   "text": "Don't chase the gold, don't chase the fame Let mercy and truth be your chain",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.778,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 61.34,
+   "end": 67.98,
+   "text": "Ride them on your heart child again and again",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.778,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 70.16,
+   "end": 78.64,
+   "text": "He said honor me with all you own And your bonds will overflow",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.778,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 79.8,
+   "end": 84.02,
+   "text": "Don't despise my hand When I correct",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 84.02,
+   "end": 88.6,
+   "text": "Is the love of a father that helps you grow",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 89.2,
+   "end": 92.98,
+   "text": "I was lost, I was blind",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 92.98,
+   "end": 97.42,
+   "text": "Walking crooked, wasting time",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 97.42,
+   "end": 101.72,
+   "text": "But His word became my road",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 101.72,
+   "end": 106.16,
+   "text": "Now I'm walking straight in a heavy soul's floor",
+   "avg_logprob": -0.417,
+   "no_speech_prob": 0.664,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 106.16,
+   "end": 110.58,
+   "text": "Trust in the Lord with all your heart",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 110.58,
+   "end": 113.9,
+   "text": "Don't lean on what you know",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 113.9,
+   "end": 119.3,
+   "text": "In all your ways, acknowledge Him",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 119.3,
+   "end": 122.64,
+   "text": "And He'll show you where to go",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 122.64,
+   "end": 128.06,
+   "text": "Keep His word close, don't let it fade",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 128.06,
+   "end": 132.46,
+   "text": "Peace and favor gonna light your way",
+   "avg_logprob": -0.384,
+   "no_speech_prob": 0.602,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 132.46,
+   "end": 136.84,
+   "text": "Yeah, I trust You Lord through the storm and flame",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 136.84,
+   "end": 141.18,
+   "text": "You're the truth, the light, the holy name",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 141.18,
+   "end": 146.8,
+   "text": "Proverbs 3, been ringing in my soul and I follow",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01"
+  },
+  {
+   "start": 147.62,
+   "end": 155.0,
+   "text": "Well, you go",
+   "avg_logprob": -0.564,
+   "no_speech_prob": 0.453,
+   "track_id": "JqDkxKCb4ec#01"
+  }
+ ]
+}

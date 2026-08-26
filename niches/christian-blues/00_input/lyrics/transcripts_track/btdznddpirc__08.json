@@ -1,0 +1,270 @@
+{
+ "track_id": "btdznddpirc#08",
+ "track_key": "btdznddpirc__08",
+ "video_id": "btdznddpirc",
+ "title": "8. He Walks With Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 180.0,
+ "voiced_sec": 124.5,
+ "voice_ratio": 0.692,
+ "n_words": 220,
+ "words_per_min": 73.3,
+ "is_instrumental": false,
+ "n_segments": 31,
+ "n_segments_voiced": 31,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 29.7,
+ "rtf": 0.165,
+ "segments": [
+  {
+   "start": 1.62,
+   "end": 4.46,
+   "text": "His eyes were fire and mercy",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.405,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 5.12,
+   "end": 7.52,
+   "text": "Oh, it's roll like the summer rain",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.405,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 9.34,
+   "end": 12.74,
+   "text": "Said, drink the water I give you",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.405,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 12.74,
+   "end": 15.54,
+   "text": "And you'll never thirst again",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.405,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 19.52,
+   "end": 23.2,
+   "text": "I got that livin' water blues",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.405,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 23.2,
+   "end": 26.22,
+   "text": "Pour down from heaven's hand",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.405,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 26.22,
+   "end": 32.22,
+   "text": "Was blind in the desert, He now walking through the promised land",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.406,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 32.74,
+   "end": 38.56,
+   "text": "Jesus took my empty jar, filled it up with grace so true",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.406,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 38.56,
+   "end": 46.84,
+   "text": "Yeah, I'm singing hallelujah with my living water blues",
+   "avg_logprob": -0.326,
+   "no_speech_prob": 0.406,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 57.18,
+   "end": 63.12,
+   "text": "I told him all my failures, the shame I tried to hide",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.335,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 64.42,
+   "end": 70.74,
+   "text": "He said I came for the broken, not the righteous in their pride",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.335,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 72.32,
+   "end": 77.82,
+   "text": "He read my life like scripture, still he stayed and didn't go",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.335,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 79.68,
+   "end": 82.46,
+   "text": "Oh, the Son of God, don't mind",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.547,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 82.46,
+   "end": 86.56,
+   "text": "Getting His hands down in the low",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.547,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 90.16,
+   "end": 93.28,
+   "text": "Slow down like a river through the desert",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.547,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 93.82,
+   "end": 96.06,
+   "text": "His love keeps flowing wide",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.547,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 96.06,
+   "end": 97.62,
+   "text": "Bring it back up",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.547,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 97.62,
+   "end": 99.86,
+   "text": "No change, no thirst, no sorrow",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.547,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 99.86,
+   "end": 102.76,
+   "text": "With the Savior by my side",
+   "avg_logprob": -0.232,
+   "no_speech_prob": 0.547,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 104.2,
+   "end": 108.02,
+   "text": "I got that living water blues",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 108.02,
+   "end": 111.06,
+   "text": "Bought down from heaven's hand",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 111.06,
+   "end": 114.0,
+   "text": "Was blind in the desert heat",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 114.0,
+   "end": 117.3,
+   "text": "And I'm walking through the promised land",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 117.3,
+   "end": 119.88,
+   "text": "Jesus took my empty jar",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 119.88,
+   "end": 122.98,
+   "text": "Filled it up with grace so true",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 122.98,
+   "end": 126.06,
+   "text": "Yeah, I'm singing hallelujah",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 126.06,
+   "end": 131.38,
+   "text": "With my living water blues",
+   "avg_logprob": -0.468,
+   "no_speech_prob": 0.47,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 131.38,
+   "end": 132.88,
+   "text": "Oh, oh, oh, oh good",
+   "avg_logprob": -2.197,
+   "no_speech_prob": 0.576,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 151.82,
+   "end": 157.64,
+   "text": "Keep that river running, lord",
+   "avg_logprob": -2.197,
+   "no_speech_prob": 0.576,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 157.64,
+   "end": 167.12,
+   "text": "Don't ever let it run dry Keep that river running",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.228,
+   "track_id": "btdznddpirc#08"
+  },
+  {
+   "start": 169.48,
+   "end": 175.1,
+   "text": "Don't ever let it run dry",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.228,
+   "track_id": "btdznddpirc#08"
+  }
+ ]
+}

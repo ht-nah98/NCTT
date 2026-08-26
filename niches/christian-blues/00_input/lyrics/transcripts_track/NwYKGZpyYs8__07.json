@@ -1,0 +1,374 @@
+{
+ "track_id": "NwYKGZpyYs8#07",
+ "track_key": "NwYKGZpyYs8__07",
+ "video_id": "NwYKGZpyYs8",
+ "title": "Come And Drink (John 7)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 228.0,
+ "voiced_sec": 175.9,
+ "voice_ratio": 0.771,
+ "n_words": 336,
+ "words_per_min": 88.4,
+ "is_instrumental": false,
+ "n_segments": 44,
+ "n_segments_voiced": 44,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 86.3,
+ "rtf": 0.379,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.64,
+   "text": "Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa.",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.53,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 12.98,
+   "end": 18.82,
+   "text": "Jesus stayed in Galilee, today I sought His life to be.",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.53,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 19.64,
+   "end": 21.86,
+   "text": "The feast drew near, His brother said,",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.53,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 22.4,
+   "end": 25.24,
+   "text": "Go show the works you claim you did.",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.53,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 25.24,
+   "end": 28.22,
+   "text": "No one acts in secret life",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 28.22,
+   "end": 31.22,
+   "text": "If you are true then stand inside",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 31.22,
+   "end": 34.54,
+   "text": "Jesus said my hour has not come",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 34.54,
+   "end": 37.62,
+   "text": "Only the fathers will be done",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 37.62,
+   "end": 40.08,
+   "text": "If anyone is thirsty now",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 40.08,
+   "end": 43.04,
+   "text": "Come to me and I allow",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 43.04,
+   "end": 46.22,
+   "text": "Living water in your heart",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 46.22,
+   "end": 49.3,
+   "text": "Be born again a brand new start",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 49.3,
+   "end": 52.52,
+   "text": "If anyone is thirsty now",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.533,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 52.52,
+   "end": 55.68,
+   "text": "Come to me and I alone",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 55.68,
+   "end": 58.62,
+   "text": "From within we'll river stream",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 58.62,
+   "end": 62.72,
+   "text": "The Spirit gives a brand new thing",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 62.72,
+   "end": 66.34,
+   "text": "He went not openly but slow",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 66.34,
+   "end": 69.46,
+   "text": "In secret paths he chose to go",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 69.46,
+   "end": 72.66,
+   "text": "The crowd debated who he was",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 72.66,
+   "end": 75.72,
+   "text": "Some said good, some spoke with cards",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 75.72,
+   "end": 78.76,
+   "text": "He taught the Temple words so clear",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.628,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 78.76,
+   "end": 81.98,
+   "text": "They said how does he know this here?",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.401,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 82.44,
+   "end": 84.92,
+   "text": "He said my teaching is not mine",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.401,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 84.92,
+   "end": 88.26,
+   "text": "It comes from God and truth divine",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.401,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 88.26,
+   "end": 95.34,
+   "text": "Oh, yeah, oh, oh, oh, oh, oh, yeah",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.401,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 96.56,
+   "end": 101.2,
+   "text": "Oh, oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.401,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 101.2,
+   "end": 103.84,
+   "text": "You judge by law yet seek my blood",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.401,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 103.84,
+   "end": 106.88,
+   "text": "You miss the works that came from God",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.401,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 106.88,
+   "end": 113.82,
+   "text": "One word done and you are stirred Circumcision breaks your word",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.718,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 113.82,
+   "end": 119.34,
+   "text": "If the law is kept that way Why be angry what I say",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.718,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 119.88,
+   "end": 125.84,
+   "text": "Judge not by what meets the sight Judge with judgment just and right",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.718,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 125.84,
+   "end": 132.04,
+   "text": "If anyone is thirsty now Come to me and I'll allow",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.718,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 132.04,
+   "end": 138.3,
+   "text": "Living water in your heart, be born again, a brand new start",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.723,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 138.3,
+   "end": 144.48,
+   "text": "If anyone is thirsty now, come to me and I'll allow",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.723,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 144.48,
+   "end": 152.74,
+   "text": "From within we'll river stream, the Spirit gives a brand new thing",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.723,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 192.04,
+   "end": 196.42,
+   "text": "ohh ohh oh oh ooooooo",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 196.42,
+   "end": 198.7,
+   "text": "On the feasts, last day he cried",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 199.6,
+   "end": 201.72,
+   "text": "Standing strong, he testified",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 201.72,
+   "end": 204.9,
+   "text": "Some said this prophet surely came",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 204.9,
+   "end": 208.22,
+   "text": "Some said Christ invoked his name",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 209.36,
+   "end": 211.36,
+   "text": "God's returned with hands still free",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 211.36,
+   "end": 214.46,
+   "text": "No one spoke like him said they",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 215.34,
+   "end": 217.64,
+   "text": "Divisions rose, the leaders blind",
+   "avg_logprob": -1.083,
+   "no_speech_prob": 0.569,
+   "track_id": "NwYKGZpyYs8#07"
+  },
+  {
+   "start": 217.64,
+   "end": 223.0,
+   "text": "But Nicodemus spoke in time",
+   "avg_logprob": -0.63,
+   "no_speech_prob": 0.68,
+   "track_id": "NwYKGZpyYs8#07"
+  }
+ ]
+}

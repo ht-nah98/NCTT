@@ -1,0 +1,534 @@
+{
+ "track_id": "rXmrgL6mUf8#09",
+ "track_key": "rXmrgL6mUf8__09",
+ "video_id": "rXmrgL6mUf8",
+ "title": "Never Let Go",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 216.0,
+ "voiced_sec": 199.9,
+ "voice_ratio": 0.925,
+ "n_words": 477,
+ "words_per_min": 132.5,
+ "is_instrumental": false,
+ "n_segments": 64,
+ "n_segments_voiced": 64,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 14.4,
+ "rtf": 0.067,
+ "segments": [
+  {
+   "start": 1.0,
+   "end": 8.32,
+   "text": "I was down in the valley lost in the fight couldn't even see the morning stuck in the night",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.815,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 8.32,
+   "end": 15.32,
+   "text": "trying to fake a smile through the ache in my chest but you saw me anyway and still called me blessed",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.815,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 15.32,
+   "end": 29.04,
+   "text": "you whispered peace be still and the storm obeyed you showed me love when I pushed you away",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.815,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 29.04,
+   "end": 32.28,
+   "text": "You never let the fire take me",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 32.28,
+   "end": 35.66,
+   "text": "Even when I gave you every reason to hate me",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 35.66,
+   "end": 39.64,
+   "text": "Oh, your mercy is louder than my fear",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 39.64,
+   "end": 42.14,
+   "text": "Every tear I cried you were near",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 42.14,
+   "end": 45.58,
+   "text": "You said you never leave me, never let go",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 45.58,
+   "end": 49.0,
+   "text": "And the flames were high, you covered my soul",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 49.0,
+   "end": 52.38,
+   "text": "Even when I tried to hide all my pain",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 52.38,
+   "end": 55.04,
+   "text": "You promised me life and I believe you again",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.677,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 55.38,
+   "end": 57.38,
+   "text": "Yeah, your word don't break",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 57.38,
+   "end": 59.22,
+   "text": "It only holds you",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 59.22,
+   "end": 60.72,
+   "text": "The reason I breathe",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 60.72,
+   "end": 62.22,
+   "text": "The reason I know",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 62.22,
+   "end": 64.42,
+   "text": "You said you never leave me",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 64.42,
+   "end": 65.66,
+   "text": "Never let go",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 67.68,
+   "end": 68.92,
+   "text": "That's the promise",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 68.92,
+   "end": 70.92,
+   "text": "Lord, I hope",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 70.92,
+   "end": 73.9,
+   "text": "I ain't proud of every step I took",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 73.9,
+   "end": 75.38,
+   "text": "Had my heart in pieces",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 75.38,
+   "end": 77.42,
+   "text": "Pages in a burnt-up book",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 77.42,
+   "end": 78.5,
+   "text": "But you",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 78.5,
+   "end": 80.68,
+   "text": "You wrote a new story in red",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 80.68,
+   "end": 82.46,
+   "text": "Said you're not what you did",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.662,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 82.46,
+   "end": 83.84,
+   "text": "You're what I said",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 83.84,
+   "end": 86.02,
+   "text": "So I stand on that",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 86.02,
+   "end": 87.8,
+   "text": "Oh, grace I ain't earned",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 87.8,
+   "end": 91.16,
+   "text": "You turned my ashes into lessons I learned",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 91.16,
+   "end": 94.32,
+   "text": "No weapon ever won the war you already fought",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 94.32,
+   "end": 97.88,
+   "text": "My tears became a harvest from the pain I brought",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 97.88,
+   "end": 99.54,
+   "text": "Oh, oh, oh, oh",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 99.54,
+   "end": 101.7,
+   "text": "You kept every word you ever said",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 101.7,
+   "end": 105.46,
+   "text": "Now I dance on the graves of the lies in my head",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 107.58,
+   "end": 110.04,
+   "text": "You said you'd never leave me",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 110.04,
+   "end": 111.34,
+   "text": "Never let go",
+   "avg_logprob": -0.299,
+   "no_speech_prob": 0.833,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 111.34,
+   "end": 114.72,
+   "text": "Even when I was faithless, you still showed",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 114.72,
+   "end": 118.22,
+   "text": "You're the light in the dark, the calm in the rain",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 118.22,
+   "end": 121.48,
+   "text": "You carried my cross, then you carried my shame",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 121.48,
+   "end": 124.9,
+   "text": "Your word don't fade, it only grows",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 124.9,
+   "end": 128.06,
+   "text": "You're the reason I rise, and I finally know",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 128.06,
+   "end": 131.76,
+   "text": "You said you'd never leave me, never let go",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 132.98,
+   "end": 135.5,
+   "text": "That's the truth I fight for",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 136.36,
+   "end": 139.44,
+   "text": "That's the love I know",
+   "avg_logprob": -0.214,
+   "no_speech_prob": 0.767,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 139.44,
+   "end": 143.44,
+   "text": "You said you'd be my shelter and you were",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.813,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 143.44,
+   "end": 146.58,
+   "text": "You said you'd heal my heart and I'm sure",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.813,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 146.58,
+   "end": 150.2,
+   "text": "You said chains would break and they did",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.813,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 150.2,
+   "end": 155.4,
+   "text": "When I called your name, oh Lord, you slid right in",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.813,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 156.68,
+   "end": 160.42,
+   "text": "You lifted the weary, gave a new breath",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.813,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 160.42,
+   "end": 163.86,
+   "text": "You rescued the broken, you conquered death",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.813,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 163.86,
+   "end": 167.74,
+   "text": "Now I'm standing bold and all you said",
+   "avg_logprob": -0.166,
+   "no_speech_prob": 0.813,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 167.74,
+   "end": 172.22,
+   "text": "Ain't no way I'm ever turning back again",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.758,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 174.26,
+   "end": 178.1,
+   "text": "You said you'd never leave me, never let go",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.758,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 178.1,
+   "end": 181.58,
+   "text": "The fire up under you covered my soul",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.758,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 181.58,
+   "end": 185.02,
+   "text": "Even in the silence I still heard your voice",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.758,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 185.02,
+   "end": 188.12,
+   "text": "You promised me life and that's my joy",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.758,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 188.12,
+   "end": 191.6,
+   "text": "Your truth don't shake, your grace still flows",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.758,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 191.6,
+   "end": 194.74,
+   "text": "You're the reason I rise and I always know",
+   "avg_logprob": -0.221,
+   "no_speech_prob": 0.758,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 194.74,
+   "end": 199.08,
+   "text": "You said you'd never leave me, never let go",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.5,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 199.86,
+   "end": 201.82,
+   "text": "That's the promise I hold",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.5,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 202.88,
+   "end": 205.66,
+   "text": "That's the promise I hold",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.5,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 206.7,
+   "end": 209.12,
+   "text": "Never let go",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.5,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 210.1,
+   "end": 212.48,
+   "text": "Never let go",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.5,
+   "track_id": "rXmrgL6mUf8#09"
+  },
+  {
+   "start": 213.66,
+   "end": 215.8,
+   "text": "Oh, you keep me close",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.5,
+   "track_id": "rXmrgL6mUf8#09"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+risk,penalty,evidence,detail
+Nội dung trùng lặp (reused content),-1,"132 tiêu đề dùng chung bởi nhiều kênh, phủ 453 video (6.3%). 5 kênh có ≥30% video trùng tiêu đề chéo.",Đây là rủi ro CHÍNH của ngách. YouTube yêu cầu 'significant original value'.
+Mô tả dùng lại,0,"140 mẫu mô tả dùng lại phủ 1406 video, nhưng CHÉO kênh = 0 mẫu.","Toàn bộ là template trong cùng một kênh — bình thường, không phải rủi ro."
+Phụ thuộc kênh dẫn đầu,0,Kênh lớn nhất chiếm 17.9% tổng view (ngưỡng rủi ro: >40%).,Không có kênh thống trị — thị trường phân tán lành mạnh.
+Cung vượt cầu,0,M2.4 = 1.305 (ngưỡng rủi ro: <0.8).,Cầu vẫn tăng nhanh hơn cung.
+Bản quyền thánh ca,0,Chỉ 19 video (0.3%) đặt tên theo thánh ca kinh điển.,Hầu hết là sáng tác mới. Thánh ca trước 1929 thuộc phạm vi công cộng.
+Chủ đề tôn giáo bị soi kỹ,-1,Nội dung tôn giáo + AI thuộc nhóm bị rà soát chặt hơn về kiếm tiền.,Không đo được từ dữ liệu — đánh giá dựa trên chính sách nền tảng.

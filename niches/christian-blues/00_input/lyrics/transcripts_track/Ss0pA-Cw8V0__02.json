@@ -1,0 +1,406 @@
+{
+ "track_id": "Ss0pA-Cw8V0#02",
+ "track_key": "Ss0pA-Cw8V0__02",
+ "video_id": "Ss0pA-Cw8V0",
+ "title": "His Blood",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 204.0,
+ "voiced_sec": 166.2,
+ "voice_ratio": 0.815,
+ "n_words": 358,
+ "words_per_min": 105.3,
+ "is_instrumental": false,
+ "n_segments": 48,
+ "n_segments_voiced": 48,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.3,
+ "rtf": 0.06,
+ "segments": [
+  {
+   "start": 19.88,
+   "end": 28.84,
+   "text": "He didn't just save me, it changed me, yeah, let's speak on me",
+   "avg_logprob": -0.476,
+   "no_speech_prob": 0.556,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 28.84,
+   "end": 32.24,
+   "text": "I was walking in the shadows trying to stitch my own wounds",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 32.24,
+   "end": 35.04,
+   "text": "Life fitting every light to crash a monsoon",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 35.56,
+   "end": 38.22,
+   "text": "Scent on my back all the guilt on my shoes",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 38.22,
+   "end": 41.3,
+   "text": "But his blood washed me clean now I stand brand new",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 41.3,
+   "end": 43.92,
+   "text": "Dripping mercy that grows in river flow",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 44.6,
+   "end": 47.06,
+   "text": "Grace overflowing at the saving still glow",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 47.72,
+   "end": 50.76,
+   "text": "Try to find peace but the world kept folding",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 50.76,
+   "end": 53.98,
+   "text": "Till Jesus stepped in my whole story open",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 54.76,
+   "end": 57.54,
+   "text": "Change bro lose when I cross it to ground",
+   "avg_logprob": -0.448,
+   "no_speech_prob": 0.196,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 57.54,
+   "end": 60.56,
+   "text": "Love spilled deep, ran red all around",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 60.56,
+   "end": 63.64,
+   "text": "He took my place with a thorn-made crown",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 63.64,
+   "end": 66.12,
+   "text": "His blood lived in me when I was falling",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 66.12,
+   "end": 69.7,
+   "text": "His blood saved my life",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 69.7,
+   "end": 72.62,
+   "text": "It healed my wounds, it made things right",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 72.62,
+   "end": 78.72,
+   "text": "His blood covers me from the valley low to the raging sea",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 78.72,
+   "end": 81.86,
+   "text": "His blood set me free",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 81.86,
+   "end": 84.6,
+   "text": "I'm walking in the light of his victory",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.529,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 86.74,
+   "end": 92.1,
+   "text": "Oh, his blood, what I would ever last in love",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 92.62,
+   "end": 95.16,
+   "text": "Hope it different when the sun steps in",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 95.16,
+   "end": 98.08,
+   "text": "Found life in his eyes, not in my sin",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 98.66,
+   "end": 101.3,
+   "text": "Every scar I carried, he took on him",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 101.3,
+   "end": 104.22,
+   "text": "Now I rise he day with a fire within",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 104.22,
+   "end": 107.2,
+   "text": "Cross on his shoulder, paint in his stride",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 107.2,
+   "end": 110.1,
+   "text": "Nails in his hands, yet love in his eyes",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 110.6,
+   "end": 113.04,
+   "text": "The world saw the feet, but heaven's alright",
+   "avg_logprob": -0.263,
+   "no_speech_prob": 0.778,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 113.04,
+   "end": 117.14,
+   "text": "When his blood spilled out, it opened my eyes",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.614,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 118.48,
+   "end": 121.26,
+   "text": "I'm forgiving, I'm covered, I'm held by his grace",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.614,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 121.26,
+   "end": 124.3,
+   "text": "It's the same blood that fell, still flows in his place",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.614,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 124.3,
+   "end": 127.5,
+   "text": "When darkness whispers lies, I just call his name",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.614,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 127.5,
+   "end": 129.6,
+   "text": "Cause his blood still speaks",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.614,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 131.38,
+   "end": 133.9,
+   "text": "And nothing's the same",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.614,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 133.9,
+   "end": 140.9,
+   "text": "Oh, his blood still speaks today",
+   "avg_logprob": -0.367,
+   "no_speech_prob": 0.614,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 141.92,
+   "end": 147.8,
+   "text": "Still breaks every chain, still watches my shame",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.823,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 147.8,
+   "end": 151.88,
+   "text": "Jesus, you're a bloody man",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.823,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 152.9,
+   "end": 157.32,
+   "text": "His blood saved my life, He healed my wounds",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.823,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 157.32,
+   "end": 158.84,
+   "text": "And made things right",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.823,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 158.84,
+   "end": 165.0,
+   "text": "His blood covers me from a badly low to the raging sea",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.823,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 165.0,
+   "end": 167.96,
+   "text": "His blood set me free",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.823,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 167.96,
+   "end": 170.74,
+   "text": "I'm walking in the light of his victory",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.476,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 170.74,
+   "end": 174.98,
+   "text": "His blood, oh His blood",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.476,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 174.98,
+   "end": 178.58,
+   "text": "What I would have last in love",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.476,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 178.58,
+   "end": 183.4,
+   "text": "His blood, still flowing",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.476,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 184.96,
+   "end": 189.64,
+   "text": "Still flowing, still healing",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.476,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 189.64,
+   "end": 192.4,
+   "text": "He's loving",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.654,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 193.64,
+   "end": 195.76,
+   "text": "Still saving",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.654,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 196.64,
+   "end": 198.42,
+   "text": "And forever",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.654,
+   "track_id": "Ss0pA-Cw8V0#02"
+  },
+  {
+   "start": 199.64,
+   "end": 202.52,
+   "text": "He covers me",
+   "avg_logprob": -0.606,
+   "no_speech_prob": 0.654,
+   "track_id": "Ss0pA-Cw8V0#02"
+  }
+ ]
+}

@@ -1,0 +1,518 @@
+{
+ "track_id": "bcNWg9ca92Y#08",
+ "track_key": "bcNWg9ca92Y__08",
+ "video_id": "bcNWg9ca92Y",
+ "title": "Faith Will Carry Me",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 265.0,
+ "voiced_sec": 213.0,
+ "voice_ratio": 0.804,
+ "n_words": 374,
+ "words_per_min": 84.7,
+ "is_instrumental": false,
+ "n_segments": 62,
+ "n_segments_voiced": 62,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 54.2,
+ "rtf": 0.205,
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 34.76,
+   "text": "And I can see the way when the nights feel longer",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 34.76,
+   "end": 39.5,
+   "text": "Than the light of day I whisper Your name Lord",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 39.5,
+   "end": 44.3,
+   "text": "Softly in the dark cause You're steady in my spirit",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 44.3,
+   "end": 47.54,
+   "text": "And You cover my heart",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 47.54,
+   "end": 51.88,
+   "text": "Every beat Jesus, hold me low",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 51.88,
+   "end": 56.22,
+   "text": "Every mountain, every tear I cry",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 56.22,
+   "end": 61.22,
+   "text": "You remind me, child, lift your eyes",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 61.22,
+   "end": 63.52,
+   "text": "And even when my strength is fading low",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 63.52,
+   "end": 65.96,
+   "text": "You brace up sin and you take control",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 65.96,
+   "end": 68.62,
+   "text": "Faith will carry me",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 69.22,
+   "end": 71.12,
+   "text": "Through the fire, through the rain",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 71.12,
+   "end": 73.62,
+   "text": "Faith will carry me",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 73.62,
+   "end": 75.92,
+   "text": "When I'm calling out your name",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 75.92,
+   "end": 78.26,
+   "text": "Faith will carry me",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 78.26,
+   "end": 80.7,
+   "text": "I'm held by your love so deep",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 80.7,
+   "end": 85.18,
+   "text": "Oh, faith will carry me",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.811,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 85.18,
+   "end": 86.74,
+   "text": "You will carry me",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 86.74,
+   "end": 90.44,
+   "text": "Oh Lord, You carry me",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 91.18,
+   "end": 93.4,
+   "text": "You lift me up",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 94.18,
+   "end": 96.44,
+   "text": "Never let me go",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 104.18,
+   "end": 106.74,
+   "text": "When the storm starts rising",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 106.74,
+   "end": 108.78,
+   "text": "And the fear comes in",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 108.78,
+   "end": 111.24,
+   "text": "You remind me gently",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 111.24,
+   "end": 113.54,
+   "text": "Of who I am in Him",
+   "avg_logprob": -0.267,
+   "no_speech_prob": 0.527,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 113.54,
+   "end": 118.4,
+   "text": "Your voice comes the thunder, peace floods my soul",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 118.4,
+   "end": 123.02,
+   "text": "You're the anchor I run to, the one in control",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 124.86,
+   "end": 129.76,
+   "text": "You are my refuge, you are my peace, yeah",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 129.76,
+   "end": 134.62,
+   "text": "Ever revered in, you take it from my hand",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 134.62,
+   "end": 138.44,
+   "text": "You show me mercy, I still don't understand",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 138.44,
+   "end": 141.04,
+   "text": "Your love is stronger than the doubt in me",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.633,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 141.04,
+   "end": 145.22,
+   "text": "Your head is the strength that sets me free",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.713,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 145.22,
+   "end": 152.66,
+   "text": "Go to the fire through the rain",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.713,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 152.66,
+   "end": 155.1,
+   "text": "Faith will carry me",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.713,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 155.1,
+   "end": 157.52,
+   "text": "When I'm calling out your name",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.713,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 157.52,
+   "end": 159.2,
+   "text": "Faith will carry me",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.713,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 159.2,
+   "end": 162.38,
+   "text": "Oh, I'm held by your love so deep",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.713,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 162.38,
+   "end": 168.54,
+   "text": "Oh, faith will carry me",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.713,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 168.54,
+   "end": 174.1,
+   "text": "Carry me Lord faithful and true, love",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.575,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 174.1,
+   "end": 178.26,
+   "text": "You always do",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.575,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 184.22,
+   "end": 188.5,
+   "text": "When I can't stand Lord",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.575,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 188.5,
+   "end": 190.26,
+   "text": "You stand for me",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.575,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 190.26,
+   "end": 193.46,
+   "text": "When I can't breathe You're the air I need",
+   "avg_logprob": -0.379,
+   "no_speech_prob": 0.575,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 193.46,
+   "end": 195.14,
+   "text": "You're the air I need",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 195.14,
+   "end": 198.36,
+   "text": "When I let go, you still hold on",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 198.36,
+   "end": 199.84,
+   "text": "You carry me Lord",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 199.84,
+   "end": 201.68,
+   "text": "Oh, you carry me",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 201.68,
+   "end": 209.22,
+   "text": "You hold me, I'm safe in your arms",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 209.22,
+   "end": 210.6,
+   "text": "Oh, no, no",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 210.6,
+   "end": 212.74,
+   "text": "You're the air I need",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 212.74,
+   "end": 215.08,
+   "text": "You're the food we'll carry me",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 215.08,
+   "end": 217.12,
+   "text": "We'll carry you",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 217.12,
+   "end": 220.6,
+   "text": "Through every trial, every valley, every storm, I see",
+   "avg_logprob": -0.356,
+   "no_speech_prob": 0.586,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 220.6,
+   "end": 222.78,
+   "text": "Oh, baby",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.736,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 224.68,
+   "end": 227.96,
+   "text": "Take me high, take me deeper",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.736,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 227.96,
+   "end": 231.5,
+   "text": "Take me high, take me deeper",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.736,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 231.5,
+   "end": 237.96,
+   "text": "Oh, cave will carry me",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.736,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 237.96,
+   "end": 240.98,
+   "text": "Oh, oh, oh, oh, oh",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.736,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 241.68,
+   "end": 243.46,
+   "text": "Oh, cave will carry me",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.736,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 243.46,
+   "end": 245.04,
+   "text": "You'll carry me",
+   "avg_logprob": -0.674,
+   "no_speech_prob": 0.736,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 245.04,
+   "end": 251.22,
+   "text": "Oh, oh, oh, carry me",
+   "avg_logprob": -0.701,
+   "no_speech_prob": 0.466,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 252.04,
+   "end": 256.94,
+   "text": "Oh, oh, oh, carry me",
+   "avg_logprob": -0.701,
+   "no_speech_prob": 0.466,
+   "track_id": "bcNWg9ca92Y#08"
+  },
+  {
+   "start": 256.94,
+   "end": 264.1,
+   "text": "Oh, oh, oh, oh, Oh, oh, oh, ooh",
+   "avg_logprob": -0.701,
+   "no_speech_prob": 0.466,
+   "track_id": "bcNWg9ca92Y#08"
+  }
+ ]
+}

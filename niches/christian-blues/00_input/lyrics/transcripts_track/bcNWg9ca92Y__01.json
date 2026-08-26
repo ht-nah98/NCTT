@@ -1,0 +1,502 @@
+{
+ "track_id": "bcNWg9ca92Y#01",
+ "track_key": "bcNWg9ca92Y__01",
+ "video_id": "bcNWg9ca92Y",
+ "title": "Your Grace Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 252.0,
+ "voiced_sec": 161.8,
+ "voice_ratio": 0.642,
+ "n_words": 385,
+ "words_per_min": 91.7,
+ "is_instrumental": false,
+ "n_segments": 60,
+ "n_segments_voiced": 49,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 12.1,
+ "rtf": 0.048,
+ "segments": [
+  {
+   "start": 6.98,
+   "end": 9.58,
+   "text": "Welcome to Revival Worship Room Music.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.659,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 11.1,
+   "end": 13.84,
+   "text": "A place where weary hearts find rest.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.659,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 14.92,
+   "end": 19.84,
+   "text": "Where faith is renewed and where the presence of God fills every corner of your soul.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.659,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 21.86,
+   "end": 24.54,
+   "text": "Tonight, let your spirit breathe.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.659,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 26.28,
+   "end": 28.94,
+   "text": "Let the love of Jesus meet you right where you are.",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.659,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 37.44,
+   "end": 46.58,
+   "text": "Father God, we come before You with open hearts and open hands",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.796,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 46.58,
+   "end": 51.34,
+   "text": "Thank You for Your mercy that meets us every morning",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.796,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 51.94,
+   "end": 55.34,
+   "text": "And Your grace that carries us through every storm",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.796,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 55.34,
+   "end": 57.5,
+   "text": "Speak to us through this moment",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 57.5,
+   "end": 59.8,
+   "text": "Heal us through this worship",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 59.8,
+   "end": 64.02,
+   "text": "And renew our minds as we lift Your name high",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 64.54,
+   "end": 68.58,
+   "text": "Let every listener feel Your peace, Your comfort",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 68.58,
+   "end": 73.22,
+   "text": "And Your unfailing love in Jesus' name we pray, amen",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 73.22,
+   "end": 75.42,
+   "text": "Your great storm",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 76.34,
+   "end": 80.2,
+   "text": "Is the anchor when the storm dries high",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 80.2,
+   "end": 83.86,
+   "text": "Your great storm",
+   "avg_logprob": -0.313,
+   "no_speech_prob": 0.576,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 83.86,
+   "end": 91.64,
+   "text": "It's the reason I can lift my eyes You took my broken past",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.907,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 91.64,
+   "end": 97.36,
+   "text": "And gave me life at last No greater love I'll find",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.907,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 97.36,
+   "end": 105.12,
+   "text": "Than Your Grace, Lord Than Your Grace, Lord",
+   "avg_logprob": -0.312,
+   "no_speech_prob": 0.907,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 108.32,
+   "end": 112.2,
+   "text": "Your grace was so amazing",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.835,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 112.2,
+   "end": 115.88,
+   "text": "When I was sinking deep in sin",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.835,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 115.88,
+   "end": 119.7,
+   "text": "The Lord you pulled me out again",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.835,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 121.1,
+   "end": 124.48,
+   "text": "When I was lost and far from home",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.835,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 124.48,
+   "end": 128.12,
+   "text": "You wrapped me in your love so strong",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.835,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 128.7,
+   "end": 131.76,
+   "text": "Every tear that I have cried",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.835,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 132.86,
+   "end": 140.82,
+   "text": "You turn a joy in perfect timing You saw my heart and called my name",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 140.82,
+   "end": 148.82,
+   "text": "And covered me in endless grace No, I don't deserve it",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 148.82,
+   "end": 154.4,
+   "text": "But still you give it freely Your love restores me",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 154.4,
+   "end": 156.9,
+   "text": "Your mercy keeps me",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 158.88,
+   "end": 161.16,
+   "text": "You're a great Lord",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 162.4,
+   "end": 166.06,
+   "text": "Just the anchor when the storms rise high",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 166.06,
+   "end": 169.82,
+   "text": "Yeah, you're a great Lord",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 170.4,
+   "end": 174.52,
+   "text": "It's the reason I can lift my eyes",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 174.52,
+   "end": 177.36,
+   "text": "You took my broken past",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 177.36,
+   "end": 179.68,
+   "text": "And gave me life at last",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 179.68,
+   "end": 182.88,
+   "text": "No greater love I'll find",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.866,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 182.88,
+   "end": 186.0,
+   "text": "Then Your grace, Lord",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 186.88,
+   "end": 190.76,
+   "text": "Oh, Your grace, Lord",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 190.76,
+   "end": 194.9,
+   "text": "Oh, Your grace found me",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 194.9,
+   "end": 196.8,
+   "text": "When I was too far gone",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 196.8,
+   "end": 199.14,
+   "text": "Your grace loved me",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 199.14,
+   "end": 201.08,
+   "text": "When I felt all alone",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 201.08,
+   "end": 203.42,
+   "text": "Your grace healed me",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 203.42,
+   "end": 205.5,
+   "text": "When my heart was torn",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 205.5,
+   "end": 207.76,
+   "text": "Your grace saved me",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 207.76,
+   "end": 210.12,
+   "text": "Your grace saved me",
+   "avg_logprob": -0.154,
+   "no_speech_prob": 0.842,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 210.12,
+   "end": 212.4,
+   "text": "Your grace, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 212.4,
+   "end": 215.28,
+   "text": "Life changing grace that lifts me higher",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 215.28,
+   "end": 216.82,
+   "text": "Your grace, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 216.82,
+   "end": 219.6,
+   "text": "A holy love that never tires",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 220.12,
+   "end": 220.68,
+   "text": "Your grace, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 220.68,
+   "end": 222.52,
+   "text": "You wash my sins away",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 223.12,
+   "end": 224.84,
+   "text": "Gave me a brighter day",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 224.84,
+   "end": 227.52,
+   "text": "Forever I will praise You",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 227.52,
+   "end": 229.9,
+   "text": "Your grace, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 229.9,
+   "end": 231.36,
+   "text": "In love",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 231.36,
+   "end": 234.04,
+   "text": "Your grace, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 235.56,
+   "end": 238.28,
+   "text": "Your grace, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 238.28,
+   "end": 240.1,
+   "text": "Your grace, Lord",
+   "avg_logprob": -0.37,
+   "no_speech_prob": 0.336,
+   "track_id": "bcNWg9ca92Y#01"
+  },
+  {
+   "start": 240.1,
+   "end": 245.26,
+   "text": "Oh, oh, oh, oh, oh, oh",
+   "avg_logprob": -0.655,
+   "no_speech_prob": 0.84,
+   "track_id": "bcNWg9ca92Y#01"
+  }
+ ]
+}

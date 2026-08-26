@@ -1,0 +1,166 @@
+{
+ "track_id": "1UItx9upywQ#04",
+ "track_key": "1UItx9upywQ__04",
+ "video_id": "1UItx9upywQ",
+ "title": "\"Teach Me Your Ways\" - Psalm 86",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 240.0,
+ "voiced_sec": 150.6,
+ "voice_ratio": 0.628,
+ "n_words": 162,
+ "words_per_min": 40.5,
+ "is_instrumental": false,
+ "n_segments": 18,
+ "n_segments_voiced": 18,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 11.3,
+ "rtf": 0.047,
+ "segments": [
+  {
+   "start": 7.04,
+   "end": 8.44,
+   "text": "You",
+   "avg_logprob": -0.952,
+   "no_speech_prob": 0.303,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 21.64,
+   "end": 28.36,
+   "text": "Teach me always oh lord I pray",
+   "avg_logprob": -0.952,
+   "no_speech_prob": 0.303,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 31.38,
+   "end": 40.02,
+   "text": "Show me the path, the life, the way I'm lost, I'm lost",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.598,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 40.02,
+   "end": 48.86,
+   "text": "I'm calling today, teach me, teach me, oh Lord",
+   "avg_logprob": -0.322,
+   "no_speech_prob": 0.598,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 52.0,
+   "end": 63.08,
+   "text": "Your truth, your love, your guiding hand Lead me through this weary land",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.715,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 63.08,
+   "end": 77.4,
+   "text": "Teach me always, oh Lord, oh Lord I'm here, I'm waiting",
+   "avg_logprob": -0.428,
+   "no_speech_prob": 0.715,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 77.4,
+   "end": 87.3,
+   "text": "My heart restored, teach me, teach me, teach me, oh Lord",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.814,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 90.06,
+   "end": 100.5,
+   "text": "Hold my hand, don't let me stray Through the shadows, through the fray",
+   "avg_logprob": -0.3,
+   "no_speech_prob": 0.814,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 100.5,
+   "end": 112.58,
+   "text": "I'm listening close, I'll obey Teach me, teach me, oh Lord",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.801,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 116.5,
+   "end": 125.56,
+   "text": "When I'm weak, you make me strong When I'm lost, you bring me along",
+   "avg_logprob": -0.273,
+   "no_speech_prob": 0.801,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 125.56,
+   "end": 131.98,
+   "text": "Your mercy, Your grace, it carries me on",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.792,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 131.98,
+   "end": 138.38,
+   "text": "Teach me, oh, teach me, oh, Lord",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.792,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 140.92,
+   "end": 148.92,
+   "text": "Teach me always, oh, Lord, oh, Lord",
+   "avg_logprob": -0.308,
+   "no_speech_prob": 0.792,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 148.92,
+   "end": 157.08,
+   "text": "I'm here, I'm waiting, my heart restored",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.51,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 157.08,
+   "end": 163.58,
+   "text": "Teach me, teach me, teach me, oh Lord",
+   "avg_logprob": -0.46,
+   "no_speech_prob": 0.51,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 191.58,
+   "end": 199.56,
+   "text": "Teach me your way, oh Lord, oh Lord",
+   "avg_logprob": -0.648,
+   "no_speech_prob": 0.538,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 199.56,
+   "end": 207.9,
+   "text": "I'm here, I'm waiting, my heart restore",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.541,
+   "track_id": "1UItx9upywQ#04"
+  },
+  {
+   "start": 207.9,
+   "end": 214.24,
+   "text": "Teach me, teach me, teach me, oh Lord",
+   "avg_logprob": -0.453,
+   "no_speech_prob": 0.541,
+   "track_id": "1UItx9upywQ#04"
+  }
+ ]
+}

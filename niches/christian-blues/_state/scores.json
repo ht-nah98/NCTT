@@ -1,0 +1,61 @@
+{
+  "niche": "christian-blues",
+  "rubric_version": "1.0",
+  "scored_at": "2026-08-15",
+  "axes": {
+    "T1": {
+      "score": 2,
+      "weight": 0.2,
+      "metric": "M1.1 = 7,450,227 view/tháng",
+      "threshold": "3tr ≤ M1.1 < 8tr → 2đ",
+      "confidence": "high",
+      "source": "videos_enriched.parquet"
+    },
+    "T2": {
+      "score": 4,
+      "weight": 0.25,
+      "metric": "M2.1=1.618, M2.4=1.305",
+      "threshold": "M2.1≥1.5 AND M2.4≥1.0 → 4đ",
+      "confidence": "medium",
+      "source": "cửa sổ 150-60d vs 240-150d (đều đã chín)",
+      "caveat": "Chỉ 1 snapshot; nếu dùng cửa sổ chưa chín ra M2.4=0.447 → 0đ"
+    },
+    "T3": {
+      "score": 4.25,
+      "weight": 0.25,
+      "metric": "M3.2=61.5%, Gini=0.626",
+      "threshold": "0.5×5 + 0.3×3 + 0.2×5 = 4.4đ",
+      "confidence": "high",
+      "source": "channels_enriched.parquet",
+      "caveat": "Thiên lệch sống sót — kênh đã xóa không có trong dữ liệu"
+    },
+    "T4": {
+      "score": 5,
+      "weight": 0.15,
+      "metric": "M4.1=65% top20 là AI-first",
+      "threshold": "M4.1≥60% AND audience tolerance=Cao → 5đ",
+      "confidence": "medium",
+      "source": "suy luận từ nhịp đăng + thumbnail + tuổi kênh"
+    },
+    "T5": {
+      "score": 3,
+      "weight": 0.1,
+      "metric": "RPM ước tính $3.0 (khoảng $1.5-6.0)",
+      "threshold": "$3 ≤ RPM < $5 → 3đ",
+      "confidence": "low",
+      "source": "ƯỚC TÍNH, không đo được từ dữ liệu",
+      "caveat": "RPM không có trong YouTube API. Đây là giả định dựa trên geo+tuổi+định dạng."
+    }
+  },
+  "T6": {
+    "penalty": -2,
+    "metric": "penalty = -2",
+    "threshold": "reused content -1, chủ đề tôn giáo -1",
+    "confidence": "medium",
+    "source": "07_monetization/02_risk_register.csv"
+  },
+  "raw_weighted": 3.513,
+  "total_score": 12.05,
+  "max_score": 20,
+  "verdict": "Theo dõi"
+}

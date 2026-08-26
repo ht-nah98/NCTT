@@ -1,0 +1,198 @@
+{
+ "track_id": "JqDkxKCb4ec#02",
+ "track_key": "JqDkxKCb4ec__02",
+ "video_id": "JqDkxKCb4ec",
+ "title": "The Shadowed Street (Proverbs 7)",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 158.0,
+ "voiced_sec": 87.6,
+ "voice_ratio": 0.554,
+ "n_words": 155,
+ "words_per_min": 58.9,
+ "is_instrumental": false,
+ "n_segments": 22,
+ "n_segments_voiced": 22,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 28.8,
+ "rtf": 0.182,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.18,
+   "text": "Down that shadow's tree Where the lights are dim and low",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.659,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 7.18,
+   "end": 14.98,
+   "text": "She whispers soft and sweet But her steps drag down below",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.659,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 16.74,
+   "end": 23.78,
+   "text": "She called him with a look A smooth talking charm",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.659,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 23.78,
+   "end": 31.78,
+   "text": "Come drink deeper pleasure No one will do us harm",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.675,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 33.38,
+   "end": 39.3,
+   "text": "Perfume on the sheets Her lips are burning flame",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.675,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 40.66,
+   "end": 48.18,
+   "text": "But sin don't love its victims It leaves them cold shamed",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.675,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 48.18,
+   "end": 51.34,
+   "text": "Down that shadowed street",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 52.18,
+   "end": 55.18,
+   "text": "Where the lights are dim and low",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 56.18,
+   "end": 59.34,
+   "text": "She whispers soft and sweet",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 60.18,
+   "end": 62.92,
+   "text": "But her steps drag down below",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 69.18,
+   "end": 71.14,
+   "text": "He goes like a nox to slaughter",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 72.82,
+   "end": 75.36,
+   "text": "Like a fool into the snare",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.583,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 76.68,
+   "end": 79.44,
+   "text": "Till a narrow pierces his heart",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 81.36,
+   "end": 83.32,
+   "text": "And he wakes to his despair",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 85.36,
+   "end": 87.74,
+   "text": "Man he's strong, man she's taken down",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 89.36,
+   "end": 91.32,
+   "text": "Her house leads straight to death",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 93.36,
+   "end": 95.32,
+   "text": "Don't walk away my brother",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 97.36,
+   "end": 99.86,
+   "text": "Keep wisdom till your last breath",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 99.86,
+   "end": 104.0,
+   "text": "Down that shadow's reed",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.48,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 104.0,
+   "end": 107.48,
+   "text": "Where the lights are dim and loom",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.213,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 108.0,
+   "end": 111.36,
+   "text": "She whispers soft and sweet",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.213,
+   "track_id": "JqDkxKCb4ec#02"
+  },
+  {
+   "start": 112.0,
+   "end": 115.06,
+   "text": "But her steps drag down below",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.213,
+   "track_id": "JqDkxKCb4ec#02"
+  }
+ ]
+}

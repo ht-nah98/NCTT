@@ -1,0 +1,382 @@
+{
+ "track_id": "2y2CcCzAtyM#16",
+ "track_key": "2y2CcCzAtyM__16",
+ "video_id": "2y2CcCzAtyM",
+ "title": "16 — Give Thanks Unto the Lord",
+ "model": "small",
+ "language": "en",
+ "duration_sec": 275.0,
+ "voiced_sec": 223.6,
+ "voice_ratio": 0.813,
+ "n_words": 273,
+ "words_per_min": 59.6,
+ "is_instrumental": false,
+ "n_segments": 45,
+ "n_segments_voiced": 45,
+ "boundary_source": "pre_split",
+ "tier": "gold",
+ "runtime_sec": 13.7,
+ "rtf": 0.05,
+ "segments": [
+  {
+   "start": 1.82,
+   "end": 12.2,
+   "text": "For His mercy endureth forever First Chronicles 16 and 34",
+   "avg_logprob": -0.496,
+   "no_speech_prob": 0.264,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 22.82,
+   "end": 31.58,
+   "text": "I come before His presence, not with empty hands",
+   "avg_logprob": -0.43,
+   "no_speech_prob": 0.523,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 31.58,
+   "end": 45.42,
+   "text": "But with a heart so full it overflows For every mercy shown and every grace supplied",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.328,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 47.26,
+   "end": 54.7,
+   "text": "For every seed of kindness that He sowed",
+   "avg_logprob": -0.406,
+   "no_speech_prob": 0.328,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 54.7,
+   "end": 59.48,
+   "text": "Give thanks unto the Lord for He is good",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.345,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 61.7,
+   "end": 68.18,
+   "text": "His mercy endure, endure forevermore",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.345,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 68.7,
+   "end": 74.14,
+   "text": "Give thanks unto the Lord for He is good",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.345,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 75.7,
+   "end": 81.12,
+   "text": "Every blessing I have known has come from Him",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.345,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 81.12,
+   "end": 90.38,
+   "text": "Give thanks, give thanks With a grateful heart",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.485,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 90.38,
+   "end": 106.5,
+   "text": "Give thanks, for waking me this morning Clothing health, for keeping what the enemy",
+   "avg_logprob": -0.34,
+   "no_speech_prob": 0.485,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 106.5,
+   "end": 123.5,
+   "text": "meant to take. For every door he opened and he closed. For every sorrow that he turned to praise.",
+   "avg_logprob": -0.517,
+   "no_speech_prob": 0.504,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 125.78,
+   "end": 129.44,
+   "text": "Give thanks unto the Lord",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 129.44,
+   "end": 131.58,
+   "text": "For He is good",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 131.58,
+   "end": 135.6,
+   "text": "His mercy endure it",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 135.6,
+   "end": 139.76,
+   "text": "Endure it forevermore",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 139.76,
+   "end": 143.84,
+   "text": "Give thanks unto the Lord",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 143.84,
+   "end": 146.1,
+   "text": "For He is good",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 147.82,
+   "end": 150.34,
+   "text": "Every blessing I have known",
+   "avg_logprob": -0.297,
+   "no_speech_prob": 0.438,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 150.34,
+   "end": 164.7,
+   "text": "has come from Him. Give thanks. Give thanks. With a grateful heart give thanks.",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.52,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 167.82,
+   "end": 173.46,
+   "text": "Gratitude is a discipline. You have to choose to count your blessings.",
+   "avg_logprob": -0.351,
+   "no_speech_prob": 0.52,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 173.46,
+   "end": 179.92,
+   "text": "But when you start counting, you will find that you cannot stop",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 180.46,
+   "end": 183.1,
+   "text": "He has been too good",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 186.0,
+   "end": 188.0,
+   "text": "Giving thanks",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 189.08,
+   "end": 190.84,
+   "text": "He is good",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 190.84,
+   "end": 192.38,
+   "text": "He is good",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 193.46,
+   "end": 194.52,
+   "text": "He is good",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 194.52,
+   "end": 195.62,
+   "text": "Forever more",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 195.62,
+   "end": 197.12,
+   "text": "His mercy",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 197.12,
+   "end": 198.18,
+   "text": "Forever",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 198.18,
+   "end": 199.76,
+   "text": "Forever",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.483,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 202.0,
+   "end": 205.38,
+   "text": "Give thanks, give thanks",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.732,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 205.38,
+   "end": 211.08,
+   "text": "He is good, He is so good",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.732,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 211.08,
+   "end": 219.86,
+   "text": "Give thanks unto the Lord",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.732,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 219.86,
+   "end": 222.54,
+   "text": "For He is good",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.732,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 222.54,
+   "end": 225.92,
+   "text": "His mercy endureth",
+   "avg_logprob": -0.378,
+   "no_speech_prob": 0.732,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 225.92,
+   "end": 230.84,
+   "text": "Endure and forevermore",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.39,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 231.4,
+   "end": 234.42,
+   "text": "Give thanks unto the Lord",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.39,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 234.42,
+   "end": 237.86,
+   "text": "Oh, He is good",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.39,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 237.86,
+   "end": 240.68,
+   "text": "Every blessing I have known",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.39,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 241.76,
+   "end": 243.84,
+   "text": "Has come from Him",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.39,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 244.48,
+   "end": 247.54,
+   "text": "Give thanks",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.39,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 247.54,
+   "end": 250.06,
+   "text": "He is good",
+   "avg_logprob": -0.51,
+   "no_speech_prob": 0.39,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 251.8,
+   "end": 257.4,
+   "text": "Forgive thanks unto the Lord.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 264.98,
+   "end": 267.1,
+   "text": "Forgive thanks unto the Lord.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#16"
+  },
+  {
+   "start": 272.98,
+   "end": 274.62,
+   "text": "I will both lay me down in peace.",
+   "avg_logprob": -0.403,
+   "no_speech_prob": 0.009,
+   "track_id": "2y2CcCzAtyM#16"
+  }
+ ]
+}
