@@ -1,0 +1,5 @@
+# Chỉ đẩy thư mục _web lên Vercel. Mọi thứ khác ở lại máy/GitHub:
+# pipeline, dữ liệu ngách, model — không thuộc về trang web tĩnh.
+/*
+!_web
+!vercel.json
