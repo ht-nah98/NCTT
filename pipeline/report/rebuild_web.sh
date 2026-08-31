@@ -28,6 +28,10 @@ echo "→ chương II · khán giả"
 python3 pipeline/report/patch_chapter2_data.py
 python3 pipeline/report/patch_chapter2_web.py
 
+echo "→ chương III · nội dung"
+python3 pipeline/report/patch_chapter3_data.py
+python3 pipeline/report/patch_chapter3_web.py
+
 echo "→ kiểm cú pháp"
 node pipeline/report/verify_web.js
 echo "✅ xong · $(du -h _web/ho-so.html | cut -f1)"
