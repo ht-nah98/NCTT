@@ -5,6 +5,8 @@
 >
 > Lý do: bước sau phải biết chắc bước trước để lại gì và ở đâu. Không có hợp đồng thì
 > mỗi lần chạy lại là một lần đoán.
+>
+> Phiên bản: v1.1 · Cập nhật 2026-08-28 · thêm 4 builder T1.x + quy tắc W7
 
 ---
 
@@ -30,6 +32,10 @@ Trong toàn bộ tài liệu:
 | **A6** | 07 | `processed/channels.parquet`<br>`<N>/03_competitor/01_channel_map.md`<br>`<FW>/04_reference/rpm_benchmarks.md` | `<N>/07_monetization/01_revenue_model.md`<br>`<N>/07_monetization/02_risk_register.md`<br>`metrics.json → money.*`, `risk.*` |
 | **A7** | 08 | **tất cả** output trên<br>`_state/scores.json` | `<N>/99_report/FINAL_REPORT.md`<br>`<N>/99_report/EXEC_SUMMARY.md` |
 | **scoring_engine** | 08 | `_state/metrics.json`<br>`<FW>/00_system/03_SCORING_RUBRIC.md` | `_state/scores.json` |
+| **T1.1** | báo cáo | `_state/metrics.json`, `_state/scores.json`<br>`02_market/`, `03_competitor/`, `05_audience/`, `06_keyword/` | `<N>/99_report/T1-1_Ho-so-ngach.pdf` |
+| **T1.2** | báo cáo | `05_audience/_metrics_raw.json`<br>`06_keyword/_metrics_raw.json` | `<N>/99_report/T1-2_Mo-hinh-khan-gia.pdf` |
+| **T1.3** | báo cáo | `00_input/raw/audio_dna_full.jsonl`<br>`04_outlier/audio/`, `04_outlier/lyrics/`, `02_analysis/` | `<N>/99_report/T1-3_Dac-ta-dong-nhac.pdf` |
+| **T1.4** | báo cáo | `09_playbook/CHANNEL_PROFILES.json`<br>`03_competitor/02_channel_table.csv` | `<N>/99_report/T1-4_The-doi-thu.pdf` |
 
 ---
 
@@ -43,6 +49,7 @@ Trong toàn bộ tài liệu:
 | W4 | **`raw/` không bao giờ bị ghi.** Chỉ đọc. |
 | W5 | **Mọi file `.md` output phải có header chuẩn** (§5). |
 | W6 | **Cập nhật `PROGRESS.md`** sau khi ghi xong output. |
+| W7 | **Mọi chỉ số phải có `source_class`** trong `_meta` — `collect_metrics.py` gắn tự động. Xem `10_SOURCE_CLASSES.md`. |
 
 ---
 
@@ -75,6 +82,7 @@ risk.*        → A6     _meta.*      → tất cả (bắt buộc)
       "source": "processed/videos.parquet",
       "computed_by": "A1",
       "computed_at": "2026-08-15",
+      "source_class": "Y",
       "confidence": "medium",
       "caveat": "video_stats chỉ 1 snapshot; suy từ published_at",
       "counter_evidence": "kênh mới goldensoulworship vẫn đạt 3.05tr/2.8 tháng"

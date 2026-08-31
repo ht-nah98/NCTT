@@ -297,9 +297,88 @@ trước khi coi là phát hiện.
 
 ---
 
-# TỔNG KẾT: BẢY QUY TẮC SỐNG CÒN
+# 🟡 BÀI HỌC VÒNG 49 — TỔ CHỨC ĐẦU RA (2026-08-28)
 
-Nếu chỉ nhớ được bảy điều:
+## T87 · WeasyPrint KHÔNG dựng được flexbox — khối biến mất, không báo lỗi
+
+**Đã xảy ra:** thẻ đối thủ T1.4 có khối hai cột "mạnh không copy được" vs
+"yếu khai thác được" viết bằng `display:flex`. Bản in **mất hẳn cả khối** —
+không lỗi, không cảnh báo, chỉ đơn giản không có gì ở đó.
+
+**Vì sao nguy hiểm:** script chạy thành công, PDF sinh ra, số trang hợp lý.
+Chỉ khi **render ra ảnh và nhìn** mới phát hiện. Kiểm bằng `extract_text()`
+cũng không thấy — chữ vẫn nằm trong luồng văn bản.
+
+**Quy tắc:** trong PDF dựng bằng WeasyPrint, bố cục nhiều cột phải dùng
+`<table>` thật. Và **luôn render ra ảnh để soi bằng mắt** trước khi giao.
+
+## T88 · `page-break-inside: avoid` trên khối cao gần một trang sinh trang trắng
+
+**Đã xảy ra ba lần** trong cùng một đợt: bản định vị (7→6 trang), thẻ đối thủ
+(11→8 trang), và các khối thi công trong bản định vị (9→8 trang).
+
+Khối cao hơn nửa trang mà bị `avoid` thì trình dựng đẩy **cả khối** sang trang
+sau, để lại nửa trang trắng. Với thẻ cao gần trọn trang, nó sinh hẳn **một
+trang trống chỉ có tiêu đề mục**.
+
+**Quy tắc:** `page-break-inside: avoid` chỉ dùng cho khối **thấp hơn 1/3 trang**
+(một hàng bảng, một hộp ghi chú ngắn). Với thẻ và khối dài: bỏ `avoid`, thay
+bằng `page-break-after: avoid` trên **phần đầu** để tiêu đề không bị mồ côi.
+
+## T89 · `table-layout: fixed` mà chỉ đặt width một cột thì các cột dán vào nhau
+
+**Đã xảy ra:** bảng 2×2 trong thẻ đối thủ chỉ đặt `width` cho cột nhãn. Cột số
+co lại vừa khít chữ, nhãn cặp thứ hai dán liền vào số cặp thứ nhất, in ra thành
+`65.600TỔNG VIEW`.
+
+**Quy tắc:** với `table-layout: fixed`, phải đặt width cho **tất cả** các cột và
+cộng đủ 100%. Đặt một phần là để trình dựng tự chia phần còn lại theo nội dung —
+đúng cái mà `fixed` lẽ ra phải chặn.
+
+## T90 · Có cơ chế tự kiểm cho ĐIỂM SỐ nhưng không có cho chính TÀI LIỆU HỆ THỐNG
+
+**Đã xảy ra:** sau 49 vòng cải tiến, hỏi lại "hệ thống system có được nâng cấp
+không" thì kiểm ra **4 chỗ tài liệu đã lệch khỏi code** mà không ai biết:
+
+| Chỗ lệch | Tài liệu nói | Thực tế |
+|---|---|---|
+| `05_FILE_CONTRACTS` | bảng hợp đồng dừng ở A7 | 4 builder T1.x ghi 4 PDF, không có trong hợp đồng |
+| `02_DATA_MODEL` | `_meta` có 7 trường | `10_SOURCE_CLASSES` bắt buộc thêm `source_class` |
+| `06_REPORT_STANDARDS` | chuẩn cũ | không nhắc mã nguồn Y·P·S·V·K·N |
+| `01_ARCHITECTURE §8.2` | `build_reportNN.py` = PDF cho STEP_NN | 7 file đó đã archive |
+
+**Lỗi nặng nhất — tự gây ra:** `10_SOURCE_CLASSES.md` viết quy tắc N1 *"mọi chỉ
+số phải mang `source_class`"*, nhưng `metrics.json` thật có **0/24** chỉ số mang
+nó. Viết ra quy tắc rồi không thực thi ở tầng dữ liệu — quy tắc thành hư cấu,
+và bốn tài liệu T1.x phải gắn mã **cứng trong code builder**.
+
+**Nguyên nhân gốc:** hệ thống có `verify_rubric.py` (kiểm điểm) và
+`verify_reports.py` (kiểm số trong PDF), nhưng **không có gì kiểm chính
+`framework/00_system/`**. Người sửa code không có lý do gì để nhớ sửa tài liệu.
+
+**Đã sửa:**
+1. `collect_metrics.py` gắn `source_class` tại **nơi duy nhất mọi chỉ số đi qua**
+   → 0/24 thành **111/111**, thay vì bắt 6 script phân tích tự nhớ.
+2. `_t1_common.cite()` đọc mã **từ `_meta`** thay vì gõ tay — thêm nguồn S/V/P
+   sau này chỉ cần sửa một bảng trong `collect_metrics`.
+3. `verify_system_docs.py` chạy trong `run_all.sh`, kiểm 7 nhóm: phiên bản,
+   hợp đồng builder, đường dẫn còn sống, khái niệm xuyên suốt, và **quy tắc có
+   được thực thi trong dữ liệu thật không**.
+4. Đánh số phiên bản cho cả 11 file — trước đó chỉ 1/11 file có.
+
+**Bẫy con bắt được ngay khi viết:** lần đầu chèn dòng phiên bản, script đặt nó
+**sau tiêu đề mục 1** thay vì đầu file, mà verifier vẫn báo xanh vì chỉ kiểm
+*chuỗi có tồn tại*. Đã siết thành *phải nằm trong 15 dòng đầu*.
+
+> **Quy tắc:** khi viết một quy tắc mới vào tài liệu, phải trả lời ngay
+> *"cái gì thực thi nó, và cái gì kiểm rằng nó được thực thi?"* Không trả lời
+> được thì đó là nguyện vọng, không phải quy tắc.
+
+---
+
+# TỔNG KẾT: TÁM QUY TẮC SỐNG CÒN
+
+Nếu chỉ nhớ được tám điều:
 
 1. **Chỉ so sánh dữ liệu đã chín** (≥60 ngày) — bẫy L1 suýt làm dừng một ngách khỏe
 2. **Luôn có nhóm đối chứng** — không có thì mọi công thức đều là mê tín
@@ -308,6 +387,7 @@ Nếu chỉ nhớ được bảy điều:
 5. **Ghi độ tin cậy và bằng chứng phản bác cho mọi kết luận** — biết chỗ nào chắc, chỗ nào không
 6. **Thử pipeline trên ngách TRỐNG trước khi tin là nó tự động** — "chạy lại được" chỉ chứng minh file cũ còn đó. Phép thử này lộ ra 4 lỗi ẩn (T22–T25) trong một lần chạy
 7. **Tên bước và độ tin cậy phải khớp nội dung** — bước tên *"Công thức thắng"* mà kết quả là 0/20 bác bỏ sẽ làm người đọc nghi ngờ cả hệ thống. Kết luận dựa trên thước đo proxy phải **được đánh dấu trong dữ liệu**, để mọi báo cáo hiển thị đúng mức tin cậy (T29–T30)
+8. **Quy tắc nào cũng phải có thứ thực thi nó và thứ kiểm nó** — `10_SOURCE_CLASSES.md` bắt buộc `source_class` nhưng dữ liệu thật có **0/24** chỉ số mang nó. Tài liệu không tự thành sự thật: phải có code **gắn** (`collect_metrics.py`) và code **kiểm** (`verify_system_docs.py`) (T90)
 
 ---
 
@@ -315,6 +395,8 @@ Nếu chỉ nhớ được bảy điều:
 
 | Ngày | Ngách | Số bài học | Ghi chú |
 |---|---|---|---|
+| 2026-08-28 | `christian-blues` | 90 | **Nâng cấp CHÍNH hệ thống system + cơ chế tự kiểm tài liệu.** Câu hỏi «hệ thống system của chúng ta có nâng cấp không» lộ ra vòng trước chỉ **thêm** 2 file (`10_`, `11_`) mà **không cập nhật** 9 file cũ → 4 chỗ tài liệu lệch khỏi code. Nặng nhất: `10_SOURCE_CLASSES` viết quy tắc «mọi chỉ số phải mang `source_class`» nhưng `metrics.json` có **0/24** chỉ số mang nó — quy tắc chỉ nằm trên giấy, builder T1.x phải gắn mã cứng. Sửa ở **tầng dữ liệu**: `collect_metrics.py` gắn tại nơi duy nhất mọi chỉ số đi qua → **0/24 thành 111/111** (98 `Y`, 13 `Y+K`); thêm `_t1_common.cite()` đọc mã từ `_meta` thay vì gõ tay, nên thêm nguồn S/V/P sau này chỉ sửa **một bảng**. Đồng bộ 4 chỗ lệch, đánh số phiên bản cho **cả 11 file** (trước chỉ 1/11). Dựng `verify_system_docs.py` chạy trong `run_all.sh` — kiểm 7 nhóm gồm **quy tắc có được thực thi trong dữ liệu thật không**, và tự khai 1 nhóm nó *không* kiểm được. Bắt bẫy con ngay khi viết: dòng phiên bản chèn nhầm **sau tiêu đề mục 1** mà verifier vẫn xanh vì chỉ kiểm chuỗi tồn tại → siết thành *phải nằm trong 15 dòng đầu*. Quy tắc sống còn **7 → 8**. Pipeline 66 giây, điểm 12,05 không đổi. Thêm T90 |
+| 2026-08-28 | `christian-blues` | 89 | **Tổ chức lại đầu ra thành T1.1–T1.4 + chuẩn nguồn Y·P·S·V·K·N.** Đúc kết sau 49 vòng: báo cáo cũ tổ chức **theo bước chạy** nên một câu hỏi phải mở 6 file, bộ số nền lặp ở 6-7 chỗ, và **sự thật quan sát bị trộn với suy luận** trong cùng một trang. Chuyển sang tổ chức **theo người đọc và loại phát biểu**: `T1.1` fact base (7tr) · `T1.2` cơ chế, mỗi cơ chế bắt buộc kèm **dự đoán kiểm chứng được** (6tr) · `T1.3` đặc tả sản xuất 3 lớp + checklist QC (7tr) · `T1.4` thẻ đối thủ, tách **mạnh-không-copy-được** khỏi **yếu-khai-thác-được** theo quy tắc cố định (8tr). Thêm `10_SOURCE_CLASSES.md`: mọi phát biểu mang mã nguồn, và **lỗ hổng thành hữu hình** — hệ thống mới có **1/6 nhóm nguồn (Y)**, nên câu «cầu nào chưa được đáp ứng» (YouTube rất kém) và «cầu dịch chuyển về đâu» (gần như mù) đều tự động mang cảnh báo *suy gián tiếp*; mục thiếu dữ liệu ghi `[—] chưa có nguồn` thay vì bỏ trống. Quy tắc **N5** chặn lỗi đã mắc: báo cáo ngành nói «người Mỹ cô đơn» **không** chứng minh «kênh làm chủ đề cô đơn sẽ có view» — bản định vị 14 hướng từng cho 5/5 tin cậy cho hai hướng mà bằng chứng nội bộ là BÁC BỎ. Gộp report: **22 → 15 builder**, 7 builder theo STEP vào `_archive/report_by_step/` kèm bảng tra nội dung đã đi đâu; thêm `_t1_common.py` (một bảng màu, một kiểu bảng, một hàm gắn nguồn cho cả 4). Bắt 3 lỗi dựng PDF: **T87** flexbox mất khối không báo lỗi, **T88** `page-break-inside:avoid` sinh trang trắng (sửa 3 chỗ, 27→22 trang), **T89** `table-layout:fixed` thiếu width làm chữ dán nhau. Pipeline 68 giây, 16 báo cáo khớp điểm, điểm 12,05 không đổi. Thêm T87–T89 |
 | 2026-08-15 | `christian-blues` | 50 | Ngách đầu tiên chạy đủ STEP_00→08 + audit dữ liệu |
 | 2026-08-17 | `christian-blues` | 60 | Phân tích 7.193 thumbnail thật. Thêm T12–T16 (lỗi công cụ đo), B27–B28. **Quy tắc sống còn tăng từ 4 lên 5** |
 | 2026-08-17 | `christian-blues` | 71 | **Soát báo cáo.** Thêm T27–T28 (PDF lệch điểm) + `verify_reports.py` tự dò |

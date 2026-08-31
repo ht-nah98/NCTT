@@ -4,6 +4,8 @@
 > Quy trình hiện hành vẫn là luồng cũ (CDKH là *đầu ra*, suy từ comment ở STEP_05).
 > Tài liệu này chuẩn bị cho luồng mới, khi R&D bàn giao CDKH làm *đầu vào*.
 > Cần R&D duyệt trước khi viết code.
+>
+> Phiên bản: v1.0 · Cập nhật 2026-08-19 · giao kèo CDKH với R&D
 
 ---
 

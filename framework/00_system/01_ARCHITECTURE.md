@@ -420,7 +420,7 @@ flowchart TB
     end
     subgraph RP["report/"]
         CH["charts*.py"]
-        BR["build_report*.py<br/>build_brief_pdf.py"]
+        BR["build_T11…T14 · 4 tài liệu chuẩn<br/>build_final_summary · build_detail"]
     end
 
     NRM --> ENR --> FLT --> A2 --> A3 --> A4
@@ -453,7 +453,8 @@ bash pipeline/run_all.sh niches/<ngách> --no-pdf  # ngách khác, bỏ PDF
 |---|---|
 | `stepNN_` | tương ứng STEP_NN trong `02_steps/` |
 | `stepNNx_` | nhánh phụ của STEP_NN (`04b`, `04c`, `04d`, `04g`) |
-| `build_reportNN.py` | sinh PDF cho STEP_NN |
+| `build_T1N_*.py` | sinh một trong **bốn tài liệu chuẩn** T1.1–T1.4 (xem `11_OUTPUT_CONTRACT.md`) |
+| `build_reportNN.py` | ⚠️ **quy ước cũ** — 7 file theo STEP đã chuyển vào `_archive/report_by_step/` (2026-08-28) |
 | `chartsNN.py` | vẽ biểu đồ cho STEP_NN, chạy **trước** `build_report` |
 | `_archive/` | script đã loại bỏ, **không** thuộc pipeline |
 
@@ -499,6 +500,8 @@ flowchart TB
 | Cần hiểu schema dữ liệu | `02_DATA_MODEL.md` |
 | Cần hiểu cách chấm điểm | `03_SCORING_RUBRIC.md` |
 | Cần biết agent đọc/ghi gì | `05_FILE_CONTRACTS.md` |
+| **Bốn tài liệu đầu ra T1.1–T1.4** | **`11_OUTPUT_CONTRACT.md`** |
+| **Sáu nhóm nguồn Y·P·S·V·K·N** | **`10_SOURCE_CLASSES.md`** |
 | Sắp chạy một bước | `02_steps/STEP_<n>.md` |
 | Muốn biết đang ở đâu | `niches/<ngách>/PROGRESS.md` |
 

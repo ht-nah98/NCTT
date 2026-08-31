@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd \\\"/home/user/Desktop/Nghiên Cứu thị trường\\\" && pkill -f A2_transcribe_tracks.py; sleep 2; rm -f niches/christian-blues/00_input/lyrics/transcripts_track/*.json; rtk ls niches/christian...",
-  "error": "Exit code 144",
-  "timestamp": "2026-08-21T07:17:50.469Z",
-  "retry_count": 1
-}

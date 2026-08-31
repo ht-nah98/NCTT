@@ -55,7 +55,7 @@ Xem `00_system/01_ARCHITECTURE.md` §2.4.
 
 ```bash
 python3 pipeline/analyze/step10_playbook.py <niche>
-python3 pipeline/report/build_report08.py          # mục 7 của báo cáo tổng hợp
+python3 pipeline/_archive/report_by_step/build_report08.py   # đã archive 2026-08-28
 ```
 
 Đã nằm trong `run_all.sh` — không cần chạy tay.

@@ -6,6 +6,8 @@
 >
 > Trả lời đúng 4 câu hỏi đã thống nhất:
 > **Ai đưa gì vào · Xử lý thế nào · Data nào ra thông tin gì · Kết quả cuối là gì**
+>
+> Phiên bản: v1.1 · Cập nhật 2026-08-28 · thêm 4 tài liệu T1.x vào bảng kết quả
 
 ---
 
@@ -54,9 +56,9 @@ thành **đối chứng độc lập** với hồ sơ R&D. Hai chiều gặp nha
 | Đặc trưng âm thanh (DSP) | IT trích | yaml → `raw/audio/` | ✅ đang dùng |
 | Ảnh thumbnail | IT tải | jpg → `raw/thumbs/` | ✅ đang dùng |
 | **CDKH — hồ sơ phân khúc** | **R&D** | **yaml → `raw/cdkh.yaml`** | 🔜 chờ, xem `07_CDKH_CONTRACT.md` |
-| Báo cáo ngoài (Luminate, Spotify Research, Scholar) | — | — | ❌ **chưa làm** |
-| Diễn đàn (Reddit, X, Quora) | — | — | ❌ **chưa làm** |
-| YouTube Studio (analytics nội bộ) | — | — | ❌ **chưa làm** |
+| Báo cáo ngoài (Luminate, Spotify Research, Scholar) | — | — | ⚠️ **có khung, chưa thu thập** — mã `K` trong `10_SOURCE_CLASSES.md` |
+| Diễn đàn (Reddit, X, Quora) | — | — | ⚠️ **có khung, chưa thu thập** — mã `V` |
+| YouTube Studio (analytics nội bộ) | — | — | ⚠️ **có khung, chưa thu thập** — mã `N`, ưu tiên 2 |
 
 > **Khoảng trống đã biết — nói thẳng:** toàn bộ chân dung khách hàng hiện nay
 > suy ra **chỉ từ comment YouTube**. Comment chỉ chứa *người chịu bình luận* —
@@ -136,7 +138,11 @@ và rubric chấm điểm 20 điểm để so sánh ngách này với ngách kh�
 | **Công thức thắng** | `09_playbook/CHANNEL_PLAYBOOK.json` | Đầu vào cho workflow sản xuất tự động |
 | Hồ sơ 5 kênh hình mẫu | `09_playbook/CHANNEL_PROFILES.json` | Xem người thắng làm thế nào |
 | Điểm ngách | `_state/scores.json` — hiện **12,05 / 20** | So sánh ngách này với ngách khác |
-| Báo cáo PDF | `99_report/*.pdf` | Trình bày cho người quyết định |
+| **T1.1 Hồ sơ ngách** | `99_report/T1-1_Ho-so-ngach.pdf` | Quyết định Go/No-Go — chỉ sự thật |
+| **T1.2 Mô hình khán giả** | `99_report/T1-2_Mo-hinh-khan-gia.pdf` | Cơ chế + dự đoán kiểm chứng được |
+| **T1.3 Đặc tả dòng nhạc** | `99_report/T1-3_Dac-ta-dong-nhac.pdf` | Tra cứu hằng ngày khi sản xuất |
+| **T1.4 Thẻ đối thủ** | `99_report/T1-4_The-doi-thu.pdf` | Học chiến thuật từng kênh |
+| Báo cáo PDF khác | `99_report/*.pdf` | Trình bày cho người quyết định |
 | Brief tái tạo ảnh / nhạc | `04_outlier/` | Đầu vào cho khâu sản xuất nội dung |
 
 **Hạn chế lớn nhất của kết quả hôm nay — cần nói rõ:**
@@ -179,4 +185,6 @@ Ghi rõ để không ai kỳ vọng nhầm:
 | Giao kèo CDKH với R&D | `07_CDKH_CONTRACT.md` |
 | Ai đọc file gì, ghi file gì | `05_FILE_CONTRACTS.md` |
 | Cách chấm điểm 20 điểm | `03_SCORING_RUBRIC.md` |
+| **Bốn tài liệu đầu ra T1.1–T1.4** | **`11_OUTPUT_CONTRACT.md`** |
+| **Sáu nhóm nguồn dữ liệu** | **`10_SOURCE_CLASSES.md`** |
 | Bài học đã rút | `../04_reference/lessons_learned.md` |

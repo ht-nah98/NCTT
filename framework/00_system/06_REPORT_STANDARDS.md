@@ -3,6 +3,8 @@
 > Vì sao có file này: báo cáo dựng bởi 12 script khác nhau, mỗi script tự quyết định
 > cách căn lề và dựng bảng → **lúc trái lúc phải, người đọc mất mạch** (bài học T33).
 > File này là nguồn duy nhất cho quy ước trình bày.
+>
+> Phiên bản: v1.1 · Cập nhật 2026-08-28 · thêm chuẩn mã nguồn Y·P·S·V·K·N
 
 ---
 
@@ -108,6 +110,29 @@ Câu trích dẫn thật: in nghiêng, gạch bên trái, kèm `comment_id` + s�
 
 **Số liệu từ nguồn ngoài** phải ghi rõ tên nguồn và cỡ mẫu:
 `nguồn ngoài: FMG _ Nghiên cứu thị trường Mỹ.xlsx → sheet «Chân dung» · n=1.017`
+
+### Mã nguồn Y·P·S·V·K·N — bắt buộc trong T1.1–T1.4
+
+Mỗi phát biểu mang một chip mã nguồn. Không có mã → không được đưa vào tài liệu.
+
+```
+Cầu tăng 1,62× trong khi cung tăng 1,24× → gap 1,30      [Y]
+41% người Mỹ 60+ tự nhận cô đơn năm 2025                 [K · AARP 2025, n=2.000]
+Chưa đo được kênh nhà chuyển đổi thế nào                 [—] chưa có nguồn
+```
+
+Ba ràng buộc quan trọng nhất:
+
+| Quy tắc | Nội dung |
+|---|---|
+| **N2** | Phát biểu về **khoảng trống cầu** chỉ dựa `[Y]` → ghi kèm `⚠ suy gián tiếp` |
+| **N3** | Phát biểu về **xu hướng tương lai** chỉ dựa `[Y]` → **cấm** |
+| **N6** | Mục thiếu dữ liệu → ghi `[—] chưa có nguồn`, **không** bỏ trống |
+
+Builder **không gõ mã bằng tay** — dùng `cite(M, "<khóa chỉ số>", "<phát biểu>")`
+trong `pipeline/report/_t1_common.py`, hàm này đọc `source_class` từ `_meta`.
+
+Chi tiết: `10_SOURCE_CLASSES.md` · Hợp đồng đầu ra: `11_OUTPUT_CONTRACT.md`
 
 ---
 

@@ -43,20 +43,23 @@
       "computed_at": "2026-08-15",
       "confidence": "medium",
       "caveat": "Chỉ 1 snapshot; suy từ published_at chứ không đo trực tiếp",
-      "counter_evidence": "Cửa sổ 90d ngắn, có thể nhiễu mùa vụ; VPD tăng có thể do kênh yếu ngừng đăng (survivorship)"
+      "counter_evidence": "Cửa sổ 90d ngắn, có thể nhiễu mùa vụ; VPD tăng có thể do kênh yếu ngừng đăng (survivorship)",
+      "source_class": "Y"
     },
     "T1_score": {
       "formula": "7.45tr thuộc khoảng 3-8tr -> 2 điểm",
       "threshold_hit": "3tr <= M1.1 < 8tr",
       "source": "rubric v1.0 T1",
-      "confidence": "high"
+      "confidence": "high",
+      "source_class": "Y"
     },
     "T2_score": {
       "formula": "M2.1=1.618>=1.5 AND M2.4=1.305>=1.0 -> 4 điểm",
       "threshold_hit": "M2.1>=1.5 AND M2.4>=1.0",
       "source": "rubric v1.0 T2",
       "confidence": "medium",
-      "counter_evidence": "Nếu dùng cửa sổ chưa chín thì M2.4=0.447 -> 0 điểm. Kết quả nhạy với cách chọn cửa sổ."
+      "counter_evidence": "Nếu dùng cửa sổ chưa chín thì M2.4=0.447 -> 0 điểm. Kết quả nhạy với cách chọn cửa sổ.",
+      "source_class": "Y"
     },
     "M3_2_newcomer_success_pct": {
       "formula": "% kênh <12 tháng có views_per_month >= 100000",
@@ -65,7 +68,8 @@
       "computed_at": "2026-08-15",
       "confidence": "high",
       "caveat": "views_per_month = tổng view / tuổi kênh, là trung bình toàn đời",
-      "counter_evidence": "Kênh đã thất bại/bị xóa không có trong dữ liệu -> thiên lệch sống sót; nếu nâng ngưỡng lên 500k chỉ còn 3 kênh đạt"
+      "counter_evidence": "Kênh đã thất bại/bị xóa không có trong dữ liệu -> thiên lệch sống sót; nếu nâng ngưỡng lên 500k chỉ còn 3 kênh đạt",
+      "source_class": "Y"
     },
     "M3_3_status": {
       "formula": "KHÔNG ĐO ĐƯỢC",
@@ -74,14 +78,16 @@
       "computed_at": "2026-08-15",
       "confidence": "low",
       "caveat": "view_count là tích lũy đến ngày crawl, không phải view tại lúc đăng -> cumsum vô nghĩa. Cần >=2 snapshot.",
-      "counter_evidence": "Đã thay bằng tuổi trung vị nhóm thành công = 6.9 tháng"
+      "counter_evidence": "Đã thay bằng tuổi trung vị nhóm thành công = 6.9 tháng",
+      "source_class": "Y"
     },
     "T3_score": {
       "formula": "0.5*score(M3.2) + 0.3*score(Gini) + 0.2*score(M3.3thay) = 0.5*5+0.3*3+0.2*5 = 4.4",
       "threshold_hit": "M3.2=61.5%>=40% -> 5đ; Gini=0.626 in (0.55,0.65] -> 3đ",
       "source": "rubric v1.0 T3",
       "confidence": "medium",
-      "counter_evidence": "Ngưỡng 100k có thể quá dễ; Gini tính trên view tích lũy nên kênh cũ có lợi thế"
+      "counter_evidence": "Ngưỡng 100k có thể quá dễ; Gini tính trên view tích lũy nên kênh cũ có lợi thế",
+      "source_class": "Y"
     },
     "M4_1_ai_first_top20_pct": {
       "formula": "% kênh trong top20 theo tot_view được gán nhãn ai-first",
@@ -90,13 +96,15 @@
       "computed_at": "2026-08-15",
       "confidence": "medium",
       "caveat": "Phân loại gián tiếp, không có xác nhận từ kênh",
-      "counter_evidence": "Kênh có đội ngũ sản xuất lớn cũng đạt nhịp đăng dày -> có thể bị gán nhầm"
+      "counter_evidence": "Kênh có đội ngũ sản xuất lớn cũng đạt nhịp đăng dày -> có thể bị gán nhầm",
+      "source_class": "Y"
     },
     "T4_score": {
       "formula": "M4.1=65%>=60% và audience AI tolerance = Cao (Wavelength) -> 5đ",
       "threshold_hit": "M4.1>=60% AND M4.2=Cao",
       "source": "rubric v1.0 T4",
-      "confidence": "medium"
+      "confidence": "medium",
+      "source_class": "Y"
     },
     "features_confirmed": {
       "formula": "Số đặc trưng đạt p<0.01 VÀ |Cliff's delta|>=0.30 sau kiểm chứng ngoài mẫu",
@@ -105,7 +113,8 @@
       "computed_at": "2026-08-15",
       "confidence": "high",
       "caveat": "Chỉ đo metadata (title/thumbnail/duration). Không đo được chất lượng nhạc, retention, CTR.",
-      "counter_evidence": "Không tìm thấy khác biệt KHÔNG chứng minh là không có khác biệt — công thức có thể phức tạp hơn (tương tác nhiều biến)"
+      "counter_evidence": "Không tìm thấy khác biệt KHÔNG chứng minh là không có khác biệt — công thức có thể phức tạp hơn (tương tác nhiều biến)",
+      "source_class": "Y"
     },
     "bible_verdict": {
       "formula": "Kiểm 3 lớp: (1) B1 vs B4 lift=8.1x p<0.001 (2) toàn thị trường lift=0.48x p<0.00001 (3) trong từng kênh 6/13 tốt hơn",
@@ -113,7 +122,8 @@
       "computed_by": "A3",
       "computed_at": "2026-08-15",
       "confidence": "high",
-      "caveat": "Nghịch lý Simpson — vài kênh chuyên Thánh Vịnh có video nổ làm lệch mẫu outlier"
+      "caveat": "Nghịch lý Simpson — vài kênh chuyên Thánh Vịnh có video nổ làm lệch mẫu outlier",
+      "source_class": "Y"
     },
     "excluded_engagement": {
       "formula": "LOẠI BỎ engagement_rate=(like+cmt)/view",
@@ -121,7 +131,8 @@
       "computed_by": "A3",
       "computed_at": "2026-08-15",
       "confidence": "high",
-      "caveat": "Artefact toán học: B1 view TV=71,314 vs B4=863 (82x) nên mẫu số lớn kéo tỷ lệ xuống. Spearman(view,eng)=-0.202 xác nhận."
+      "caveat": "Artefact toán học: B1 view TV=71,314 vs B4=863 (82x) nên mẫu số lớn kéo tỷ lệ xuống. Spearman(view,eng)=-0.202 xác nhận.",
+      "source_class": "Y"
     },
     "age_median": {
       "formula": "Trung vị tuổi tự khai qua regex 'I am NN' / 'NN years old'",
@@ -130,7 +141,8 @@
       "computed_at": "2026-08-15",
       "confidence": "low",
       "caveat": "Chỉ 82/6413 = 1.28% tự khai — mẫu rất nhỏ",
-      "counter_evidence": "Người khai tuổi có like TV=12 vs toàn bộ 4 → thiên lệch về nhóm gắn bó, viết dài. Tuổi thật của toàn bộ khán giả nhiều khả năng THẤP HƠN 70"
+      "counter_evidence": "Người khai tuổi có like TV=12 vs toàn bộ 4 → thiên lệch về nhóm gắn bó, viết dài. Tuổi thật của toàn bộ khán giả nhiều khả năng THẤP HƠN 70",
+      "source_class": "Y"
     },
     "finally_like_lift": {
       "formula": "like trung vị nhóm chứa 'finally|at last' ÷ like trung vị toàn bộ",
@@ -139,7 +151,8 @@
       "computed_at": "2026-08-15",
       "confidence": "high",
       "caveat": "n=58, Mann-Whitney p<0.0001",
-      "counter_evidence": "'healing' xuất hiện 757 lần nhưng like TV chỉ 3 (dưới trung bình) → không phải mọi từ khóa cảm xúc đều là tín hiệu"
+      "counter_evidence": "'healing' xuất hiện 757 lần nhưng like TV chỉ 3 (dưới trung bình) → không phải mọi từ khóa cảm xúc đều là tín hiệu",
+      "source_class": "Y"
     },
     "discovery_algo_vs_search": {
       "formula": "số comment nhắc 'algorithm/recommended' ÷ số comment nhắc 'searched for'",
@@ -148,7 +161,8 @@
       "computed_at": "2026-08-15",
       "confidence": "medium",
       "caveat": "n=83 vs 12, dựa vào mẫu regex nên sót nhiều cách diễn đạt",
-      "counter_evidence": "Người dùng hiếm khi nói rõ cách họ tìm thấy video"
+      "counter_evidence": "Người dùng hiếm khi nói rõ cách họ tìm thấy video",
+      "source_class": "Y"
     },
     "M5_2_rpm_range": {
       "formula": "ƯỚC TÍNH — không đo được từ dữ liệu",
@@ -157,7 +171,8 @@
       "computed_at": "2026-08-15",
       "confidence": "low",
       "caveat": "YouTube API KHÔNG trả về doanh thu kênh người khác. Chỉ xác minh được bằng kênh thử nghiệm thật.",
-      "counter_evidence": "Nếu RPM thật $6 thì T5=4đ, tổng 12.6 — vẫn 'Theo dõi'"
+      "counter_evidence": "Nếu RPM thật $6 thì T5=4đ, tổng 12.6 — vẫn 'Theo dõi'",
+      "source_class": "Y+K"
     },
     "T6_penalty": {
       "formula": "Tổng điểm trừ 6 rủi ro",
@@ -166,7 +181,8 @@
       "computed_at": "2026-08-15",
       "confidence": "medium",
       "caveat": "Trùng lặp đo được từ dữ liệu; rủi ro chính sách tôn giáo+AI là đánh giá định tính",
-      "counter_evidence": "Video trùng title chéo lại có VPD CAO HƠN 68% (15.47 vs 9.21) — đánh đổi ngắn hạn vs dài hạn"
+      "counter_evidence": "Video trùng title chéo lại có VPD CAO HƠN 68% (15.47 vs 9.21) — đánh đổi ngắn hạn vs dài hạn",
+      "source_class": "Y"
     },
     "top_theme_lift": {
       "formula": "VPD trung vị video có chủ đề ÷ VPD video không có, trên 5609 video chín",
@@ -175,7 +191,8 @@
       "computed_at": "2026-08-15",
       "confidence": "medium",
       "caveat": "Chủ đề nhận diện bằng regex trên TIÊU ĐỀ, không phải nội dung nhạc thật",
-      "counter_evidence": "Chỉ 4/8 kênh cho kết quả tốt hơn khi kiểm nội bộ (within lift 1.05) — hiệu ứng yếu hơn con số 2.37 gợi ý. 20 kênh dùng nên không phải hiện tượng 1 kênh."
+      "counter_evidence": "Chỉ 4/8 kênh cho kết quả tốt hơn khi kiểm nội bộ (within lift 1.05) — hiệu ứng yếu hơn con số 2.37 gợi ý. 20 kênh dùng nên không phải hiện tượng 1 kênh.",
+      "source_class": "Y"
     },
     "themes_rejected_simpson": {
       "formula": "Chủ đề có p<0.05 và lift>1 nhưng within-channel median lift <1",
@@ -183,7 +200,8 @@
       "computed_by": "A5",
       "computed_at": "2026-08-15",
       "confidence": "high",
-      "caveat": "Lớp kiểm thứ 3 (trong từng kênh) đã loại 4 chủ đề: testimony, healing, strength, night_sleep"
+      "caveat": "Lớp kiểm thứ 3 (trong từng kênh) đã loại 4 chủ đề: testimony, healing, strength, night_sleep",
+      "source_class": "Y"
     },
     "cross_period_median_growth": {
       "formula": "views_per_month (T8/2026 crawl) ÷ view_month (T3/2026 sheet 'Dung lượng thị trường')",
@@ -212,7 +230,286 @@
       "T4 ← M4.1 = 0.65",
       "T5 ← RPM = 3.0",
       "T6 ← trùng nội dung 6.3% (−2)"
-    ]
+    ],
+    "M1_1_views_per_month": {
+      "source_class": "Y"
+    },
+    "M1_2_active_channels": {
+      "source_class": "Y"
+    },
+    "M1_3_median_view": {
+      "source_class": "Y"
+    },
+    "M1_2_total_channels": {
+      "source_class": "Y"
+    },
+    "M1_3_mean_view": {
+      "source_class": "Y"
+    },
+    "H_all_median_ratio": {
+      "source_class": "Y"
+    },
+    "H_top20_median_ratio": {
+      "source_class": "Y"
+    },
+    "H_rest_median_ratio": {
+      "source_class": "Y"
+    },
+    "H_all_vpd_ratio": {
+      "source_class": "Y"
+    },
+    "H_top20_vpd_ratio": {
+      "source_class": "Y"
+    },
+    "H_rest_vpd_ratio": {
+      "source_class": "Y"
+    },
+    "tier1_channel_pct": {
+      "source_class": "Y"
+    },
+    "M2_1_view_growth": {
+      "source_class": "Y"
+    },
+    "M2_2_supply_growth": {
+      "source_class": "Y"
+    },
+    "M2_3_new_channel_rate": {
+      "source_class": "Y"
+    },
+    "dilution_verdict": {
+      "source_class": "Y"
+    },
+    "M3_1_gini": {
+      "source_class": "Y"
+    },
+    "M3_3_alt_median_age_of_successful": {
+      "source_class": "Y"
+    },
+    "top1_share": {
+      "source_class": "Y"
+    },
+    "top20pct_share": {
+      "source_class": "Y"
+    },
+    "M3_3_alt_fastest_success": {
+      "source_class": "Y"
+    },
+    "top5_share": {
+      "source_class": "Y"
+    },
+    "top_efficiency": {
+      "source_class": "Y"
+    },
+    "model_dist": {
+      "source_class": "Y"
+    },
+    "n_B1": {
+      "source_class": "Y"
+    },
+    "n_B4": {
+      "source_class": "Y"
+    },
+    "paired_channels": {
+      "source_class": "Y"
+    },
+    "features_tested": {
+      "source_class": "Y"
+    },
+    "bible_market_lift": {
+      "source_class": "Y"
+    },
+    "bible_within_channel_better": {
+      "source_class": "Y"
+    },
+    "format_chi2_p": {
+      "source_class": "Y"
+    },
+    "format_verdict": {
+      "source_class": "Y"
+    },
+    "binary_tests": {
+      "source_class": "Y"
+    },
+    "tests": {
+      "source_class": "Y"
+    },
+    "format_matrix": {
+      "source_class": "Y"
+    },
+    "format_all": {
+      "source_class": "Y"
+    },
+    "top_phrases": {
+      "source_class": "Y"
+    },
+    "bible_market_wide": {
+      "source_class": "Y"
+    },
+    "bible_within_channel": {
+      "source_class": "Y"
+    },
+    "format_b1b4": {
+      "source_class": "Y"
+    },
+    "n_analyzed": {
+      "source_class": "Y"
+    },
+    "age_n": {
+      "source_class": "Y"
+    },
+    "age_60plus_pct": {
+      "source_class": "Y"
+    },
+    "top_context": {
+      "source_class": "Y"
+    },
+    "top_context_pct": {
+      "source_class": "Y"
+    },
+    "never_heard_like_lift": {
+      "source_class": "Y"
+    },
+    "personas": {
+      "source_class": "Y"
+    },
+    "n_total": {
+      "source_class": "Y"
+    },
+    "n_noise": {
+      "source_class": "Y"
+    },
+    "age": {
+      "source_class": "Y"
+    },
+    "attributes": {
+      "source_class": "Y"
+    },
+    "pain": {
+      "source_class": "Y"
+    },
+    "context": {
+      "source_class": "Y"
+    },
+    "discovery": {
+      "source_class": "Y"
+    },
+    "vocab_top": {
+      "source_class": "Y"
+    },
+    "baseline_likes": {
+      "source_class": "Y"
+    },
+    "signal_tests": {
+      "source_class": "Y"
+    },
+    "tag_coverage_pct": {
+      "source_class": "Y"
+    },
+    "tag_unique": {
+      "source_class": "Y"
+    },
+    "themes_tested": {
+      "source_class": "Y"
+    },
+    "themes_recommended": {
+      "source_class": "Y"
+    },
+    "themes_avoid": {
+      "source_class": "Y"
+    },
+    "top_theme": {
+      "source_class": "Y"
+    },
+    "top_theme_share_pct": {
+      "source_class": "Y"
+    },
+    "focus_changed_to": {
+      "source_class": "Y"
+    },
+    "tag_coverage": {
+      "source_class": "Y"
+    },
+    "tag_total": {
+      "source_class": "Y"
+    },
+    "tag_top": {
+      "source_class": "Y"
+    },
+    "tags_only_in_winners": {
+      "source_class": "Y"
+    },
+    "hashtag_top": {
+      "source_class": "Y"
+    },
+    "hashtag_total": {
+      "source_class": "Y"
+    },
+    "themes": {
+      "source_class": "Y"
+    },
+    "base_vpd": {
+      "source_class": "Y"
+    },
+    "voice_gap": {
+      "source_class": "Y"
+    },
+    "title_struct": {
+      "source_class": "Y"
+    },
+    "top_titles": {
+      "source_class": "Y"
+    },
+    "M5_1_en_pct": {
+      "source_class": "Y+K"
+    },
+    "M5_1_tier1_of_declared": {
+      "source_class": "Y+K"
+    },
+    "M5_3_median_duration_min": {
+      "source_class": "Y+K"
+    },
+    "rev_base_monthly_usd": {
+      "source_class": "Y+K"
+    },
+    "T5_score": {
+      "source_class": "Y+K"
+    },
+    "M5_1_lang": {
+      "source_class": "Y+K"
+    },
+    "M5_1_tier1_channel_pct": {
+      "source_class": "Y+K"
+    },
+    "M5_3_band": {
+      "source_class": "Y+K"
+    },
+    "M5_3_median_duration_sec": {
+      "source_class": "Y+K"
+    },
+    "M5_2_rpm": {
+      "source_class": "Y+K"
+    },
+    "T5_note": {
+      "source_class": "Y+K"
+    },
+    "risks": {
+      "source_class": "Y+K"
+    },
+    "cross_title_pct": {
+      "source_class": "Y"
+    },
+    "cross_title_count": {
+      "source_class": "Y"
+    },
+    "channels_high_dup": {
+      "source_class": "Y"
+    },
+    "cross_title_vpd": {
+      "source_class": "Y"
+    },
+    "clean_vpd": {
+      "source_class": "Y"
+    }
   },
   "entry": {
     "M3_1_gini": 0.6257610129024167,

@@ -68,6 +68,31 @@ merged["_meta"] = {**merged.get("_meta", {}),
                    "collected_from": found,
                    "missing_sources": missing}
 
+# ── GẮN MÃ NGUỒN Y·P·S·V·K·N (quy tắc N1, từ 2026-08-28) ─────────────
+# Mọi chỉ số phải khai nó đến từ nhóm nguồn nào. Đây là nơi DUY NHẤT mọi chỉ số
+# đi qua, nên gắn ở đây thay vì bắt 6 script phân tích tự nhớ.
+#
+# Vì sao quan trọng: YouTube trả lời ĐẦY ĐỦ câu "ai đang thắng" nhưng RẤT KÉM
+# câu "cầu nào chưa được đáp ứng" và GẦN NHƯ MÙ câu "cầu dịch chuyển về đâu".
+# Không gắn mã thì ba loại phát biểu đó trông giống nhau trong báo cáo.
+# Xem framework/00_system/10_SOURCE_CLASSES.md
+SOURCE_CLASS_BY_GROUP = {
+    "market": "Y", "momentum": "Y", "entry": "Y", "ai_fit": "Y",
+    "formula": "Y", "audience": "Y", "keyword": "Y",
+    "money": "Y+K",   # dung lượng từ Y, RPM từ benchmark ngoài
+    "risk": "Y",
+}
+_meta = merged["_meta"]
+n_tagged = 0
+for group, code in SOURCE_CLASS_BY_GROUP.items():
+    for key in merged.get(group, {}):
+        if key.startswith("_"):
+            continue
+        entry = _meta.setdefault(key, {})
+        if isinstance(entry, dict) and "source_class" not in entry:
+            entry["source_class"] = code
+            n_tagged += 1
+
 json.dump(merged, open(OUT, "w"), indent=2, ensure_ascii=False, default=str)
 
 print(f"Gom chỉ số → {OUT}")
@@ -75,6 +100,7 @@ print(f"  nguồn có   : {len(found)}/{len(SOURCES)}  ({', '.join(found)})")
 if missing:
     print(f"  ⚠ thiếu    : {', '.join(missing)}")
 print(f"  nhóm khóa  : {len([k for k in merged if not k.startswith('_')])}")
+print(f"  gắn mã nguồn: +{n_tagged} chỉ số")
 
 # ── CẢNH BÁO KHOẢNG TRỐNG CHẤM ĐIỂM (bài học T24) ────────────────────
 # `scoring_engine` đọc các khóa `T*_score`, nhưng KHÔNG script phân tích nào

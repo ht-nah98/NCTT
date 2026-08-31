@@ -5,6 +5,8 @@
 >
 > Nguyên tắc: dữ liệu nhiều hơn ≠ kết luận chắc hơn. Cái quyết định là
 > **cấu trúc** của mẫu, không phải số dòng.
+>
+> Phiên bản: v1.0 · Cập nhật 2026-08-19 · lộ trình dữ liệu âm thanh
 
 ---
 

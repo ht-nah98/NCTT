@@ -131,6 +131,12 @@ ok "CHANNEL_PROFILES.json (hồ sơ 5 kênh hình mẫu)"
 step "TỰ KIỂM RUBRIC"
 python3 pipeline/scoring/verify_rubric.py "$N"
 
+# Tự kiểm TÀI LIỆU HỆ THỐNG — tài liệu có còn khớp code không (T90).
+# Không dừng pipeline nếu lệch, chỉ báo: sửa tài liệu là việc của người,
+# không nên chặn việc dựng lại báo cáo.
+step "TỰ KIỂM TÀI LIỆU HỆ THỐNG"
+python3 pipeline/scoring/verify_system_docs.py "$N" || true
+
 # ─────────── NHÁNH ẢNH (tùy chọn) ───────────
 if [ $THUMBS = 1 ]; then
   if ! ls "$N"/00_input/raw/thumbs/*.jpg >/dev/null 2>&1; then
@@ -155,7 +161,7 @@ if [ $PDF = 1 ]; then
   # BUILDER 7 BÁO CÁO STEP: NGỪNG DỰNG (2026-08-26). Chúng cho 79 trang mà mỗi
   # bản tự lặp "Tóm tắt điều hành" + "Độ tin cậy" riêng, cùng một bộ số nền lặp
   # ở 6-7 file. Nội dung đã gộp vào build_detail.py (8 trang). Script build_report*
-  # giữ nguyên trong repo để dựng lại khi cần: python3 pipeline/report/build_report03.py
+  # chuyển vào pipeline/_archive/report_by_step/ (2026-08-28) — xem README ở đó.
   for i in "" 03 04 05 06 07 08; do
     python3 "pipeline/report/charts$i.py" >/dev/null 2>&1 || true
   done
@@ -215,6 +221,20 @@ if [ $PDF = 1 ]; then
   if [ -f "$N/02_analysis/pd_evidence.parquet" ]; then
     python3 pipeline/report/build_pd_evidence.py "$N" >/dev/null 2>&1 && ok "PHỤ LỤC (đối chứng track khớp hymn)"
   fi
+
+  # ── BỐN TÀI LIỆU T1.1–T1.4 ────────────────────────────────────────────
+  #    Chuẩn đầu ra sau 49 vòng cải tiến, thay cách tổ chức báo cáo theo STEP.
+  #    Tổ chức theo NGƯỜI ĐỌC và LOẠI PHÁT BIỂU, không theo bước chạy:
+  #      T1.1 fact base · T1.2 cơ chế · T1.3 đặc tả sản xuất · T1.4 thẻ đối thủ
+  #    Dựng SAU chấm điểm vì T1.1 đọc scores.json.
+  #    Xem framework/00_system/11_OUTPUT_CONTRACT.md
+  # 7 tài liệu ĐỊNH VỊ riêng — mỗi định vị một PDF, có video đối chứng tra được.
+  python3 pipeline/report/build_positioning_cards.py "$N" >/dev/null \
+    && ok "ĐỊNH VỊ · 7 tài liệu riêng (99_report/_dinh-vi/)"
+  python3 pipeline/report/build_T11_niche_facts.py      "$N" >/dev/null && ok "T1.1 · Hồ sơ ngách (fact base)"
+  python3 pipeline/report/build_T12_audience_model.py   "$N" >/dev/null && ok "T1.2 · Mô hình khán giả & cơ chế"
+  python3 pipeline/report/build_T13_music_spec.py       "$N" >/dev/null && ok "T1.3 · Đặc tả dòng nhạc"
+  python3 pipeline/report/build_T14_competitor_cards.py "$N" >/dev/null && ok "T1.4 · Thẻ đối thủ"
 
   # Dò số liệu cũ còn sót trong PDF (bài học T27–T28).
   # Không dừng pipeline nếu lệch — chỉ báo để người dùng biết.

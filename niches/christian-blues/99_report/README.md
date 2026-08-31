@@ -1,6 +1,28 @@
 # Báo cáo — Christian Blues
 
-## Nộp gì cho sếp
+## Bốn tài liệu chuẩn — đọc theo vai của bạn
+
+Chuẩn đầu ra từ 2026-08-28. Tổ chức theo **người đọc** và **loại phát biểu**,
+không theo bước chạy. Xem `framework/00_system/11_OUTPUT_CONTRACT.md`.
+
+| File | Trả lời | Ai đọc |
+|:---|:---|:---|
+| **`T1-1_Ho-so-ngach.pdf`** (7tr) | Ngách thực tế trông thế nào? — **chỉ sự thật** | Người quyết định đầu tư |
+| **`T1-2_Mo-hinh-khan-gia.pdf`** (6tr) | Họ thuê nội dung này làm việc gì? — **cơ chế + dự đoán** | Người làm nội dung |
+| **`T1-3_Dac-ta-dong-nhac.pdf`** (7tr) | Nghe/trông thế nào là đúng ngách? — **tra cứu hằng ngày** | Nhạc sĩ · Suno · designer |
+| **`T1-4_The-doi-thu.pdf`** (8tr) | Kênh này thắng bằng gì? — **5 thẻ** | Người học chiến thuật |
+
+Ranh giới giữa bốn tài liệu là **ranh giới nhận thức luận**: T1.1 nói *cái gì đang
+xảy ra*, T1.2 nói *vì sao*, T1.3 nói *làm thế nào*, T1.4 nói *ai đã làm được*.
+
+> **Mọi phát biểu mang mã nguồn** Y·P·S·V·K·N. Hệ thống hiện chỉ có nguồn **Y**
+> (YouTube) — nên các phát biểu về khoảng trống cầu và xu hướng tương lai đều
+> mang cảnh báo *suy gián tiếp*. Mục chưa có dữ liệu ghi `[—] chưa có nguồn`
+> thay vì bỏ trống. Chi tiết: `framework/00_system/10_SOURCE_CLASSES.md`.
+
+---
+
+## Bản trình bày (giữ nguyên)
 
 **`BAO-CAO_Christian-Blues.pdf`** (8 trang) — bản trình bày duy nhất.
 Kết luận, bảng CUNG↔CẦU, 5 khoảng trống, 24 tiêu đề sẵn dùng, và mục 10 "làm gì tiếp
@@ -13,6 +35,7 @@ theo thứ tự". Mở bản này trước, và trong hầu hết trường hợ
 | `CHI-TIET_Phan-tich-day-du.pdf` (8tr) | Số liệu đầy đủ từng bước + **toàn bộ cảnh báo độ tin cậy gom về mục 6** |
 | `HOSO_Ngach_Christian-Blues.pdf` (17tr) | Công thức sản xuất: 161 tham số âm nhạc đo được, dùng brief cho AI/nhạc sĩ |
 | `NHAC_Bao-cao-Hop-nhat.pdf` (8tr) | Âm thanh + lời hát: BPM, điệu thức, chủ đề, xưng hô, cung cảm xúc |
+| `DINH-VI_Christian-Blues.pdf` (8tr) | Bốn hướng kênh kèm bản thi công: thumbnail, âm nhạc, cấu trúc, tiêu đề |
 | `NHAC_Ban-quyen-PD.pdf` (4tr) | Nhạc thị trường là public domain hay sáng tác mới? Có lối tắt bản quyền không? |
 
 ## `_phu-luc/` — không trình, chỉ tra khi cần

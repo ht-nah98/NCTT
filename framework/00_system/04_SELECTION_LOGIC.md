@@ -7,6 +7,8 @@
 >
 > Các con số minh họa lấy từ ngách `christian-blues` (53 kênh · 7.193 video · 145.150 comment),
 > đã chạy thử trên dữ liệu thật.
+>
+> Phiên bản: v1.0 · Cập nhật 2026-08-15 · logic lọc 4 rổ
 
 ---
 

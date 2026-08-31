@@ -2,6 +2,8 @@
 
 > Schema chuẩn mà hệ thống mong đợi. Dữ liệu crawl của ngách mới phải khớp mô hình này,
 > hoặc phải viết bộ chuyển đổi trong `A0` trước khi chạy tiếp.
+>
+> Phiên bản: v1.1 · Cập nhật 2026-08-28 · thêm trường `source_class`
 
 ---
 
@@ -157,3 +159,43 @@ Kết quả kiểm toán trên dữ liệu thật:
 **Hai việc nên làm để nâng chất lượng:**
 1. Chạy `snapshot` thêm 1–2 lần cách nhau 7–14 ngày → nâng trục Động lượng từ "vừa" lên "cao"
 2. Mở rộng `media_probe` lên ≥ 2.000 mẫu nếu muốn phân tích nhạc lý
+
+---
+
+## TRƯỜNG `source_class` TRONG `_meta`
+
+Từ 2026-08-28, mọi chỉ số trong `_state/metrics.json` mang thêm một trường khai
+**nhóm nguồn dữ liệu** sinh ra nó.
+
+| Mã | Nhóm nguồn | Quan sát được cái gì |
+|---|---|---|
+| `Y` | YouTube | Cung đã tồn tại và đang thắng |
+| `P` | Nền tảng khác (Spotify, podcast, TikTok) | Cung thay thế |
+| `S` | Tín hiệu tìm kiếm (Trends, autocomplete) | Cầu qua hành vi |
+| `V` | Tiếng nói người dùng (Reddit, forum) | Cầu phát ngôn, ngôn ngữ thật |
+| `K` | Khoa học & báo cáo ngành | Cơ chế công năng |
+| `N` | Nội bộ HG Media / FMG | RPM thật, Analytics kênh nhà |
+
+Ghép nhiều nguồn dùng dấu `+`, ví dụ `"Y+K"` cho chỉ số RPM (dung lượng đo từ
+YouTube, đơn giá lấy từ benchmark ngoài).
+
+```json
+"_meta": {
+  "M2_4_demand_supply_gap": {
+    "source": "processed/videos.parquet",
+    "source_class": "Y",
+    "computed_by": "A1",
+    "confidence": "medium"
+  }
+}
+```
+
+**Ai gắn:** `pipeline/transform/collect_metrics.py` gắn tự động theo nhóm chỉ số
+(`SOURCE_CLASS_BY_GROUP`). Đây là nơi **duy nhất** mọi chỉ số đi qua, nên không
+bắt 6 script phân tích tự nhớ.
+
+**Vì sao cần:** YouTube trả lời *đầy đủ* câu "ai đang thắng" nhưng *rất kém* câu
+"cầu nào chưa được đáp ứng" và *gần như mù* câu "cầu dịch chuyển về đâu". Không
+gắn mã thì ba loại phát biểu đó trông giống hệt nhau trong báo cáo.
+
+Chi tiết: `10_SOURCE_CLASSES.md`

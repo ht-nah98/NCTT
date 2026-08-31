@@ -5,6 +5,8 @@
 >
 > **Đây là tài liệu KHUNG CHUNG** — áp dụng cho mọi ngách, không sửa riêng cho ngách nào.
 > Muốn đổi ngưỡng → đổi ở đây → chạy lại **tất cả** ngách đã chấm (quy tắc R7).
+>
+> Phiên bản: v1.0 · Cập nhật 2026-08-15 · rubric 20 điểm
 
 ---
 
