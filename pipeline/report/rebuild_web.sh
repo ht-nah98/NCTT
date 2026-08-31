@@ -32,6 +32,10 @@ echo "→ chương III · nội dung"
 python3 pipeline/report/patch_chapter3_data.py
 python3 pipeline/report/patch_chapter3_web.py
 
+echo "→ chương IV · công thức"
+python3 pipeline/report/patch_chapter4_data.py
+python3 pipeline/report/patch_chapter4_web.py
+
 echo "→ kiểm cú pháp"
 node pipeline/report/verify_web.js
 echo "✅ xong · $(du -h _web/ho-so.html | cut -f1)"
